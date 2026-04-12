@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "autobiography",
+  "root": "autobiography",
+  "meaning": "",
+  "descriptionCn": "\u81ea\u4f20\u4f5c\u8005",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "autobiography-autobiography-2",
+      "word": "autobiography",
+      "display": "Autobiography",
+      "phonetic": "",
+      "translation": "\u81ea\u4f20\u4f5c\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "auto",
+  "rootLevel": 3,
+  "rootPath": "a>auto>autobiography",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

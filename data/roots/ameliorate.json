@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "ameliorate",
+  "root": "ameliorate",
+  "meaning": "",
+  "descriptionCn": "\u6539\u5584",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ameliorate",
+      "word": "ameliorate",
+      "display": "Ameliorate",
+      "phonetic": "",
+      "translation": "\u6539\u5584",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "astir",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>ameliorate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

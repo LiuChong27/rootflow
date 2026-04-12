@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-09",
+  "strategy": "alpha",
+  "shardId": "alpha-u",
+  "rootIds": [
+    "unanimous"
+  ],
+  "roots": {
+    "unanimous": {
+      "version": 1,
+      "rootId": "unanimous",
+      "root": "unanimous",
+      "meaning": "",
+      "descriptionCn": "\u65e0\u5f02\u8bae\u7684\uff0c\u610f\u89c1\u4e00\u81f4\u7684",
+      "updatedAt": "2026-04-09",
+      "words": [
+        {
+          "id": "unanimous-unanimous-2",
+          "word": "unanimous",
+          "display": "Unanimous",
+          "phonetic": "",
+          "translation": "\u65e0\u5f02\u8bae\u7684\uff0c\u610f\u89c1\u4e00\u81f4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "anim",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>anim>unanimous",
+      "type": "word-family",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+    }
+  }
+}

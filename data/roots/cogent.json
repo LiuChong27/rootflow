@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "cogent",
+  "root": "cogent",
+  "meaning": "",
+  "descriptionCn": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "cogent-cogent-2",
+      "word": "cogent",
+      "display": "Cogent",
+      "phonetic": "",
+      "translation": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "act",
+  "rootLevel": 3,
+  "rootPath": "a>act>cogent",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "adjoin",
+  "root": "adjoin",
+  "meaning": "",
+  "descriptionCn": "\u9760\u8fd1",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adjoin",
+      "word": "adjoin",
+      "display": "Adjoin",
+      "phonetic": "",
+      "translation": "\u9760\u8fd1",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "adhere",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjoin",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

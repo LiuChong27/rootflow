@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "approve",
+  "root": "approve",
+  "meaning": "",
+  "descriptionCn": "\u8d5e\u6210",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "approve-approve-2",
+      "word": "approve",
+      "display": "Approve",
+      "phonetic": "",
+      "translation": "\u8d5e\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-al",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-al>approve",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "adhere",
+  "root": "adhere",
+  "meaning": "",
+  "descriptionCn": "\u4f9d\u9644",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adhere-adhere-2",
+      "word": "adhere",
+      "display": "Adhere",
+      "phonetic": "",
+      "translation": "\u4f9d\u9644",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-core",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

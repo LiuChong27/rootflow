@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "adjure",
+  "root": "adjure",
+  "meaning": "",
+  "descriptionCn": "\u6073\u8bf7",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adjure-adjure-2",
+      "word": "adjure",
+      "display": "Adjure",
+      "phonetic": "",
+      "translation": "\u6073\u8bf7",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-core",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>adjure",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "ambiguity",
+  "root": "ambiguity",
+  "meaning": "",
+  "descriptionCn": "\u6a21\u68f1\u4e24\u53ef\uff1b\u542b\u4e49\u6a21\u7cca",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambiguity-ambiguity-2",
+      "word": "ambiguity",
+      "display": "Ambiguity",
+      "phonetic": "",
+      "translation": "\u6a21\u68f1\u4e24\u53ef\uff1b\u542b\u4e49\u6a21\u7cca",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "amphi-ambi",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>amphi-ambi>ambiguity",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

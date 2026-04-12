@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "prodigal",
+  "root": "prodigal",
+  "meaning": "",
+  "descriptionCn": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "prodigal-prodigal-2",
+      "word": "prodigal",
+      "display": "Prodigal",
+      "phonetic": "",
+      "translation": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "act",
+  "rootLevel": 3,
+  "rootPath": "a>act>prodigal",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aqueous",
+  "root": "aqueous",
+  "meaning": "",
+  "descriptionCn": "\u50cf\u6c34\u4e00\u6837\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aqueous-aqueous-2",
+      "word": "aqueous",
+      "display": "Aqueous",
+      "phonetic": "",
+      "translation": "\u50cf\u6c34\u4e00\u6837\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aqu",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>aqu>aqueous",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

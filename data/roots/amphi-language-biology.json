@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "rootId": "amphi-language-biology",
+  "root": "\u8bed\u8a00/\u751f\u7269",
+  "meaning": "",
+  "descriptionCn": "\u8bed\u8a00/\u751f\u7269\u7c7b\u6d3e\u751f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambilingual-amphi-language-biology-2",
+      "word": "ambilingual",
+      "display": "Ambilingual",
+      "phonetic": "",
+      "translation": "\u901a\u4e24\u56fd\u8bed\u8a00\u7684\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "biology"
+      ],
+      "level": 1
+    },
+    {
+      "id": "amphibian-amphi-language-biology-2",
+      "word": "amphibian",
+      "display": "Amphibian",
+      "phonetic": "",
+      "translation": "\u4e24\u6816\u7c7b",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "biology"
+      ],
+      "level": 1
+    },
+    {
+      "id": "amphicar-amphi-language-biology-2",
+      "word": "amphicar",
+      "display": "Amphicar",
+      "phonetic": "",
+      "translation": "\u6c34\u9646\u4e24\u7528\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "biology"
+      ],
+      "level": 1
+    },
+    {
+      "id": "amphigamy-amphi-language-biology-2",
+      "word": "amphigamy",
+      "display": "Amphigamy",
+      "phonetic": "",
+      "translation": "\u53d7\u7cbe\u4f5c\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "biology"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "amphi-ambi",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology",
+  "type": "category",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

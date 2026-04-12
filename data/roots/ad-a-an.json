@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "rootId": "ad-a-an",
+  "root": "a-=an-",
+  "meaning": "",
+  "descriptionCn": "\u589e\u52a0",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abide-ad-a-an-2",
+      "word": "abide",
+      "display": "Abide",
+      "phonetic": "",
+      "translation": "\u575a\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abut",
+      "word": "abut",
+      "display": "Abut",
+      "phonetic": "",
+      "translation": "\u90bb\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "amass",
+      "word": "amass",
+      "display": "Amass",
+      "phonetic": "",
+      "translation": "\u79ef\u84c4",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "amenable",
+      "word": "amenable",
+      "display": "Amenable",
+      "phonetic": "",
+      "translation": "\u5e94\u670d\u4ece\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "ascribe",
+      "word": "ascribe",
+      "display": "Ascribe",
+      "phonetic": "",
+      "translation": "\u5f52\u56e0\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "astir",
+      "word": "astir",
+      "display": "Astir",
+      "phonetic": "",
+      "translation": "\u6fc0\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "astray",
+      "word": "astray",
+      "display": "Astray",
+      "phonetic": "",
+      "translation": "\u8ff7\u9014\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "augment-ad-a-an-2",
+      "word": "augment",
+      "display": "Augment",
+      "phonetic": "",
+      "translation": "\u589e\u52a0",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aver",
+      "word": "aver",
+      "display": "Aver",
+      "phonetic": "",
+      "translation": "\u58f0\u79f0\uff1b\u65ad\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "enhance",
+      "word": "enhance",
+      "display": "Enhance",
+      "phonetic": "",
+      "translation": "\u589e\u52a0",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-add-axx",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

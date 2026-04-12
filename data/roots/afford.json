@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "afford",
+  "root": "afford",
+  "meaning": "",
+  "descriptionCn": "\u62c5\u8d1f\u5f97\u8d77",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "afford",
+      "word": "afford",
+      "display": "Afford",
+      "phonetic": "",
+      "translation": "\u62c5\u8d1f\u5f97\u8d77",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "affair",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-af>affair>afford",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

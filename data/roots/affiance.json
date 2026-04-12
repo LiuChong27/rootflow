@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "affiance",
+  "root": "affiance",
+  "meaning": "",
+  "descriptionCn": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "affiance-affiance-2",
+      "word": "affiance",
+      "display": "Affiance",
+      "phonetic": "",
+      "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-af",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-af>affiance",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

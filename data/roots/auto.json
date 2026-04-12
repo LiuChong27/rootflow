@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "auto",
+  "root": "auto=aut",
+  "meaning": "self",
+  "descriptionCn": "\u81ea\u5df1",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "autobiography",
+      "word": "autobiography",
+      "display": "Autobiography",
+      "phonetic": "",
+      "translation": "\u81ea\u4f20\u4f5c\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "autocide",
+      "word": "autocide",
+      "display": "Autocide",
+      "phonetic": "",
+      "translation": "\u81ea\u6740",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "automatic",
+      "word": "automatic",
+      "display": "Automatic",
+      "phonetic": "",
+      "translation": "\u81ea\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a",
+  "rootLevel": 2,
+  "rootPath": "a>auto",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "rootId": "ante",
+  "root": "ante-",
+  "meaning": "before",
+  "descriptionCn": "\u5148\u524d",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "antecessor",
+      "word": "antecessor",
+      "display": "Antecessor",
+      "phonetic": "",
+      "translation": "\u5148\u884c\u8005\uff1b\u7956\u5148",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "antenna",
+      "word": "antenna",
+      "display": "Antenna",
+      "phonetic": "",
+      "translation": "\u89e6\u89d2\uff1b\u5929\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anterior",
+      "word": "anterior",
+      "display": "Anterior",
+      "phonetic": "",
+      "translation": "\u524d\u9762\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anticipate",
+      "word": "anticipate",
+      "display": "Anticipate",
+      "phonetic": "",
+      "translation": "\u9884\u6599",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-prefix",
+  "rootLevel": 3,
+  "rootPath": "a>a-prefix>ante",
+  "type": "prefix",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

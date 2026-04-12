@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aerobiology",
+  "root": "aerobiology",
+  "meaning": "",
+  "descriptionCn": "\u5927\u6c14\u751f\u7269\u5b66",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aerobiology-aerobiology-2",
+      "word": "aerobiology",
+      "display": "Aerobiology",
+      "phonetic": "",
+      "translation": "\u5927\u6c14\u751f\u7269\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aer",
+  "rootLevel": 3,
+  "rootPath": "a>aer>aerobiology",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

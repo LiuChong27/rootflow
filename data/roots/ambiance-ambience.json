@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "rootId": "ambiance-ambience",
+  "root": "ambiance=ambience",
+  "meaning": "",
+  "descriptionCn": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambiance",
+      "word": "ambiance",
+      "display": "Ambiance",
+      "phonetic": "",
+      "translation": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "ambience",
+      "word": "ambience",
+      "display": "Ambience",
+      "phonetic": "",
+      "translation": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ambient",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

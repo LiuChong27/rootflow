@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "architect",
+  "root": "architect",
+  "meaning": "",
+  "descriptionCn": "\u5efa\u7b51\u5e08",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "architect-architect-2",
+      "word": "architect",
+      "display": "Architect",
+      "phonetic": "",
+      "translation": "\u5efa\u7b51\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "arch",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>arch>architect",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

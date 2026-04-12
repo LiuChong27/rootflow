@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aviate",
+  "root": "aviate",
+  "meaning": "",
+  "descriptionCn": "\u98de\u884c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aviate-aviate-2",
+      "word": "aviate",
+      "display": "Aviate",
+      "phonetic": "",
+      "translation": "\u98de\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "avi",
+  "rootLevel": 3,
+  "rootPath": "a>avi>aviate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

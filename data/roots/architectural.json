@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "architectural",
+  "root": "architectural",
+  "meaning": "",
+  "descriptionCn": "\u5efa\u7b51\u5b66\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "architectural",
+      "word": "architectural",
+      "display": "Architectural",
+      "phonetic": "",
+      "translation": "\u5efa\u7b51\u5b66\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "architect",
+  "rootLevel": 5,
+  "rootPath": "a>a-other>arch>architect>architectural",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

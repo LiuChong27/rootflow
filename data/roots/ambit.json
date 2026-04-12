@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "ambit",
+  "root": "ambit",
+  "meaning": "",
+  "descriptionCn": "\u754c\u9650\uff1b\u8303\u56f4",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambit-ambit-2",
+      "word": "ambit",
+      "display": "Ambit",
+      "phonetic": "",
+      "translation": "\u754c\u9650\uff1b\u8303\u56f4",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "amphi-ambi",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>amphi-ambi>ambit",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

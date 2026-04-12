@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "audit",
+  "root": "audit",
+  "meaning": "",
+  "descriptionCn": "\u67e5\u8d26\uff1b\u65c1\u542c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "audit-audit-2",
+      "word": "audit",
+      "display": "Audit",
+      "phonetic": "",
+      "translation": "\u67e5\u8d26\uff1b\u65c1\u542c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "audition",
+  "rootLevel": 4,
+  "rootPath": "a>audi>audition>audit",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "hierarchy",
+  "root": "hierarchy",
+  "meaning": "",
+  "descriptionCn": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "hierarchy-hierarchy-2",
+      "word": "hierarchy",
+      "display": "Hierarchy",
+      "phonetic": "",
+      "translation": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "arch",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>arch>hierarchy",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

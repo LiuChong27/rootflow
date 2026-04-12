@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "audiology",
+  "root": "audiology",
+  "meaning": "",
+  "descriptionCn": "\u542c\u89c9\u5b66",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "audiology-audiology-2",
+      "word": "audiology",
+      "display": "Audiology",
+      "phonetic": "",
+      "translation": "\u542c\u89c9\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "audio",
+  "rootLevel": 4,
+  "rootPath": "a>audi>audio>audiology",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

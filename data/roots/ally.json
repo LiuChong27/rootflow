@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "ally",
+  "root": "ally",
+  "meaning": "",
+  "descriptionCn": "\u540c\u76df",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ally-ally-2",
+      "word": "ally",
+      "display": "Ally",
+      "phonetic": "",
+      "translation": "\u540c\u76df",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "alliance",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance>ally",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

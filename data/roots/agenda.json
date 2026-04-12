@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "agenda",
+  "root": "agenda",
+  "meaning": "",
+  "descriptionCn": "\u8bae\u4e8b\u65e5\u7a0b",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "agenda",
+      "word": "agenda",
+      "display": "Agenda",
+      "phonetic": "",
+      "translation": "\u8bae\u4e8b\u65e5\u7a0b",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "affairs"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "agent",
+  "rootLevel": 4,
+  "rootPath": "a>act>agent>agenda",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "accuse",
+  "root": "accuse",
+  "meaning": "",
+  "descriptionCn": "\u63a7\u544a\uff1b\u8c34\u8d23",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accuse-accuse-2",
+      "word": "accuse",
+      "display": "Accuse",
+      "phonetic": "",
+      "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accuse",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

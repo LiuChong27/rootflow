@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "rootId": "ad-ac",
+  "root": "ac-",
+  "meaning": "",
+  "descriptionCn": "c/k \u524d\u53d8\u4f53",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accession",
+      "word": "accession",
+      "display": "Accession",
+      "phonetic": "",
+      "translation": "\u5c31\u804c",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accessory",
+      "word": "accessory",
+      "display": "Accessory",
+      "phonetic": "",
+      "translation": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acclive",
+      "word": "acclive",
+      "display": "Acclive",
+      "phonetic": "",
+      "translation": "\u503e\u659c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accommodate",
+      "word": "accommodate",
+      "display": "Accommodate",
+      "phonetic": "",
+      "translation": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accompany",
+      "word": "accompany",
+      "display": "Accompany",
+      "phonetic": "",
+      "translation": "\u966a\u4f34",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accomplish",
+      "word": "accomplish",
+      "display": "Accomplish",
+      "phonetic": "",
+      "translation": "\u5b9e\u73b0",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accost",
+      "word": "accost",
+      "display": "Accost",
+      "phonetic": "",
+      "translation": "\u6253\u62db\u547c\uff1b\u52fe\u5f15",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accumbent",
+      "word": "accumbent",
+      "display": "Accumbent",
+      "phonetic": "",
+      "translation": "\u6a2a\u5367",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accumulate",
+      "word": "accumulate",
+      "display": "Accumulate",
+      "phonetic": "",
+      "translation": "\u79ef\u7d2f",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accuse-ad-ac-2",
+      "word": "accuse",
+      "display": "Accuse",
+      "phonetic": "",
+      "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acknowledge",
+      "word": "acknowledge",
+      "display": "Acknowledge",
+      "phonetic": "",
+      "translation": "\u7b54\u8c22\uff1b\u627f\u8ba4",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acquire",
+      "word": "acquire",
+      "display": "Acquire",
+      "phonetic": "",
+      "translation": "\u83b7\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acute-ad-ac-2",
+      "word": "acute",
+      "display": "Acute",
+      "phonetic": "",
+      "translation": "\u5267\u70c8\uff1b\u5c16\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-add-axx",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "amenable",
+  "root": "amenable",
+  "meaning": "",
+  "descriptionCn": "\u5e94\u670d\u4ece\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "amenable-amenable-2",
+      "word": "amenable",
+      "display": "Amenable",
+      "phonetic": "",
+      "translation": "\u5e94\u670d\u4ece\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-a-an",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>amenable",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

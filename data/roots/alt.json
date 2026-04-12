@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "alt",
+  "root": "alt=alti=alto=high",
+  "meaning": "high",
+  "descriptionCn": "\u9ad8",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "altar",
+      "word": "altar",
+      "display": "Altar",
+      "phonetic": "",
+      "translation": "\u796d\u575b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "altimeter",
+      "word": "altimeter",
+      "display": "Altimeter",
+      "phonetic": "",
+      "translation": "\u9ad8\u5ea6\u8ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "alto",
+      "word": "alto",
+      "display": "Alto",
+      "phonetic": "",
+      "translation": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "exaltation",
+      "word": "exaltation",
+      "display": "Exaltation",
+      "phonetic": "",
+      "translation": "\u63d0\u5347\uff1b\u5174\u594b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-other",
+  "rootLevel": 3,
+  "rootPath": "a>a-other>alt",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

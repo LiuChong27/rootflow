@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "ambiquity",
+  "root": "ambiquity",
+  "meaning": "",
+  "descriptionCn": "\u542b\u7cca\u7684\uff08\u53d8\u4f53\u62fc\u5199\uff09",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambiquity",
+      "word": "ambiquity",
+      "display": "Ambiquity",
+      "phonetic": "",
+      "translation": "\u542b\u7cca\u7684\uff08\u53d8\u4f53\u62fc\u5199\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ambiguity",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>amphi-ambi>ambiguity>ambiquity",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

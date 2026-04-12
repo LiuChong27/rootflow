@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "antechapel",
+  "root": "antechapel",
+  "meaning": "",
+  "descriptionCn": "\u6559\u5802\u95e8\u5385",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "antechapel",
+      "word": "antechapel",
+      "display": "Antechapel",
+      "phonetic": "",
+      "translation": "\u6559\u5802\u95e8\u5385",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "antecessor",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ante>antecessor>antechapel",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

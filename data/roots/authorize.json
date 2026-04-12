@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "authorize",
+  "root": "authorize",
+  "meaning": "",
+  "descriptionCn": "\u6388\u6743\uff1b\u59d4\u6258",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "authorize-authorize-2",
+      "word": "authorize",
+      "display": "Authorize",
+      "phonetic": "",
+      "translation": "\u6388\u6743\uff1b\u59d4\u6258",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "author",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authorize",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

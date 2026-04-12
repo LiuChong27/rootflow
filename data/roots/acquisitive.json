@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "acquisitive",
+  "root": "acquisitive",
+  "meaning": "",
+  "descriptionCn": "\u6e34\u671b\u5f97\u5230\u7684\uff1b\u8d2a\u5a6a\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acquisitive",
+      "word": "acquisitive",
+      "display": "Acquisitive",
+      "phonetic": "",
+      "translation": "\u6e34\u671b\u5f97\u5230\u7684\uff1b\u8d2a\u5a6a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "acquire",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquisitive",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

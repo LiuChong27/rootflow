@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "accession",
+  "root": "accession",
+  "meaning": "",
+  "descriptionCn": "\u5c31\u804c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accession-accession-2",
+      "word": "accession",
+      "display": "Accession",
+      "phonetic": "",
+      "translation": "\u5c31\u804c",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accession",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "rootId": "anti",
+  "root": "anti-",
+  "meaning": "against",
+  "descriptionCn": "\u76f8\u53cd\uff1b\u5bf9\u6297",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "antiaging",
+      "word": "antiaging",
+      "display": "Antiaging",
+      "phonetic": "",
+      "translation": "\u9632\u8870\u8001",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "antiaircraft",
+      "word": "antiaircraft",
+      "display": "Antiaircraft",
+      "phonetic": "",
+      "translation": "\u9632\u7a7a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "antibiotic",
+      "word": "antibiotic",
+      "display": "Antibiotic",
+      "phonetic": "",
+      "translation": "\u6297\u751f\u7d20",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "antibody",
+      "word": "antibody",
+      "display": "Antibody",
+      "phonetic": "",
+      "translation": "\u6297\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "antifat",
+      "word": "antifat",
+      "display": "Antifat",
+      "phonetic": "",
+      "translation": "\u51cf\u80a5\u7684\uff1b\u9632\u6b62\u957f\u80d6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-prefix",
+  "rootLevel": 3,
+  "rootPath": "a>a-prefix>anti",
+  "type": "prefix",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

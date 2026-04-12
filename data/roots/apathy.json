@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "apathy",
+  "root": "apathy",
+  "meaning": "",
+  "descriptionCn": "\u51b7\u6f20",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "apathy-apathy-2",
+      "word": "apathy",
+      "display": "Apathy",
+      "phonetic": "",
+      "translation": "\u51b7\u6f20",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "emotion"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-without-emotion",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>a-without>a-without-emotion>apathy",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

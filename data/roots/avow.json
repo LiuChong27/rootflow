@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "avow",
+  "root": "avow",
+  "meaning": "",
+  "descriptionCn": "\u516c\u5f00\u58f0\u660e",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "avow",
+      "word": "avow",
+      "display": "Avow",
+      "phonetic": "",
+      "translation": "\u516c\u5f00\u58f0\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aver",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver>avow",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

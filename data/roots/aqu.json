@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "aqu",
+  "root": "aqu=water",
+  "meaning": "water",
+  "descriptionCn": "\u6c34",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aquamarine",
+      "word": "aquamarine",
+      "display": "Aquamarine",
+      "phonetic": "",
+      "translation": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aquanaut",
+      "word": "aquanaut",
+      "display": "Aquanaut",
+      "phonetic": "",
+      "translation": "\u6f5c\u6c34\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aquatic",
+      "word": "aquatic",
+      "display": "Aquatic",
+      "phonetic": "",
+      "translation": "\u6c34\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aqueduct",
+      "word": "aqueduct",
+      "display": "Aqueduct",
+      "phonetic": "",
+      "translation": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aqueous",
+      "word": "aqueous",
+      "display": "Aqueous",
+      "phonetic": "",
+      "translation": "\u50cf\u6c34\u4e00\u6837\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-other",
+  "rootLevel": 3,
+  "rootPath": "a>a-other>aqu",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

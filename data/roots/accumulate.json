@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "accumulate",
+  "root": "accumulate",
+  "meaning": "",
+  "descriptionCn": "\u79ef\u7d2f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accumulate-accumulate-2",
+      "word": "accumulate",
+      "display": "Accumulate",
+      "phonetic": "",
+      "translation": "\u79ef\u7d2f",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accumulate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

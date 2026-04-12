@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "auspicious",
+  "root": "auspicious",
+  "meaning": "",
+  "descriptionCn": "\u5409\u5146\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "auspicious",
+      "word": "auspicious",
+      "display": "Auspicious",
+      "phonetic": "",
+      "translation": "\u5409\u5146\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "auspice",
+  "rootLevel": 4,
+  "rootPath": "a>avi>auspice>auspicious",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

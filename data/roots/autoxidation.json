@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "autoxidation",
+  "root": "autoxidation",
+  "meaning": "",
+  "descriptionCn": "\u81ea\u7136\u6c27\u5316",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "autoxidation-autoxidation-2",
+      "word": "autoxidation",
+      "display": "Autoxidation",
+      "phonetic": "",
+      "translation": "\u81ea\u7136\u6c27\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "automatic",
+  "rootLevel": 4,
+  "rootPath": "a>auto>automatic>autoxidation",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

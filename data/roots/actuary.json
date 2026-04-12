@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "actuary",
+  "root": "actuary",
+  "meaning": "",
+  "descriptionCn": "\u7edf\u8ba1\u5b66\u5bb6",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "actuary",
+      "word": "actuary",
+      "display": "Actuary",
+      "phonetic": "",
+      "translation": "\u7edf\u8ba1\u5b66\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "affairs"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "agent",
+  "rootLevel": 4,
+  "rootPath": "a>act>agent>actuary",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

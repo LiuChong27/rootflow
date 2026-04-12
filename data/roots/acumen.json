@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "acumen",
+  "root": "acumen",
+  "meaning": "",
+  "descriptionCn": "\u806a\u660e",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acumen",
+      "word": "acumen",
+      "display": "Acumen",
+      "phonetic": "",
+      "translation": "\u806a\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ac-acute",
+  "rootLevel": 5,
+  "rootPath": "a>a-other>ac>ac-acute>acumen",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

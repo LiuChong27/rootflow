@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "amplifier",
+  "root": "amplifier",
+  "meaning": "",
+  "descriptionCn": "\u653e\u5927\uff1b\u589e\u5f3a",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "amplifier-amplifier-2",
+      "word": "amplifier",
+      "display": "Amplifier",
+      "phonetic": "",
+      "translation": "\u653e\u5927\uff1b\u589e\u5f3a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-al",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-al>amplifier",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

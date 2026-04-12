@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "acquire",
+  "root": "acquire",
+  "meaning": "",
+  "descriptionCn": "\u83b7\u5f97",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acquire-acquire-2",
+      "word": "acquire",
+      "display": "Acquire",
+      "phonetic": "",
+      "translation": "\u83b7\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "act",
+  "root": "act=ag=ig",
+  "meaning": "do/act",
+  "descriptionCn": "\u505a\u3001\u884c\u52a8",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "actualize",
+      "word": "actualize",
+      "display": "Actualize",
+      "phonetic": "",
+      "translation": "\u4f7f\u5b9e\u73b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "actuate",
+      "word": "actuate",
+      "display": "Actuate",
+      "phonetic": "",
+      "translation": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "agent",
+      "word": "agent",
+      "display": "Agent",
+      "phonetic": "",
+      "translation": "\u4ee3\u7406\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "agony",
+      "word": "agony",
+      "display": "Agony",
+      "phonetic": "",
+      "translation": "\u6781\u5927\u7684\u75db\u82e6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "cogent",
+      "word": "cogent",
+      "display": "Cogent",
+      "phonetic": "",
+      "translation": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "exigency",
+      "word": "exigency",
+      "display": "Exigency",
+      "phonetic": "",
+      "translation": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "interact",
+      "word": "interact",
+      "display": "Interact",
+      "phonetic": "",
+      "translation": "\u76f8\u4e92\u4f5c\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "prodigal",
+      "word": "prodigal",
+      "display": "Prodigal",
+      "phonetic": "",
+      "translation": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a",
+  "rootLevel": 2,
+  "rootPath": "a>act",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

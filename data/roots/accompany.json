@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "accompany",
+  "root": "accompany",
+  "meaning": "",
+  "descriptionCn": "\u966a\u4f34",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accompany-accompany-2",
+      "word": "accompany",
+      "display": "Accompany",
+      "phonetic": "",
+      "translation": "\u966a\u4f34",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accompany",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

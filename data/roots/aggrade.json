@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "aggrade",
+  "root": "aggrade",
+  "meaning": "",
+  "descriptionCn": "\u6de4\u79ef",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aggrade-aggrade-2",
+      "word": "aggrade",
+      "display": "Aggrade",
+      "phonetic": "",
+      "translation": "\u6de4\u79ef",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ag",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggrade",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "audi",
+  "root": "audi",
+  "meaning": "hear",
+  "descriptionCn": "\u542c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "audio",
+      "word": "audio",
+      "display": "Audio",
+      "phonetic": "",
+      "translation": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "audition",
+      "word": "audition",
+      "display": "Audition",
+      "phonetic": "",
+      "translation": "\u89c6\u542c\uff1b\u8bd5\u955c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a",
+  "rootLevel": 2,
+  "rootPath": "a>audi",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

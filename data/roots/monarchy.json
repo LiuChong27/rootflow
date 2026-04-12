@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "monarchy",
+  "root": "monarchy",
+  "meaning": "",
+  "descriptionCn": "\u541b\u4e3b\u5236",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "monarchy",
+      "word": "monarchy",
+      "display": "Monarchy",
+      "phonetic": "",
+      "translation": "\u541b\u4e3b\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "monarch",
+  "rootLevel": 5,
+  "rootPath": "a>a-other>arch>monarch>monarchy",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

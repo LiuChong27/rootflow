@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aisle",
+  "root": "aisle",
+  "meaning": "",
+  "descriptionCn": "\u8fc7\u9053",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aisle-aisle-2",
+      "word": "aisle",
+      "display": "Aisle",
+      "phonetic": "",
+      "translation": "\u8fc7\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aer",
+  "rootLevel": 3,
+  "rootPath": "a>aer>aisle",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "arch-anarchy",
+  "root": "anarchy",
+  "meaning": "",
+  "descriptionCn": "\u65e0\u653f\u5e9c\u72b6\u6001\uff1b\u6df7\u4e71",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anarchy-arch-anarchy-2",
+      "word": "anarchy",
+      "display": "Anarchy",
+      "phonetic": "",
+      "translation": "\u65e0\u653f\u5e9c\u72b6\u6001\uff1b\u6df7\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "arch",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>arch>arch-anarchy",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "rootId": "ad-core",
+  "root": "ad-",
+  "meaning": "",
+  "descriptionCn": "\u57fa\u7840\u5f62\u5f0f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adhere-ad-core-2",
+      "word": "adhere",
+      "display": "Adhere",
+      "phonetic": "",
+      "translation": "\u4f9d\u9644",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "adjure-ad-core-2",
+      "word": "adjure",
+      "display": "Adjure",
+      "phonetic": "",
+      "translation": "\u6073\u8bf7",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "admit-ad-core-2",
+      "word": "admit",
+      "display": "Admit",
+      "phonetic": "",
+      "translation": "\u5141\u8bb8\u8fdb\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "admonish-ad-core-2",
+      "word": "admonish",
+      "display": "Admonish",
+      "phonetic": "",
+      "translation": "\u529d\u544a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-add-axx",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

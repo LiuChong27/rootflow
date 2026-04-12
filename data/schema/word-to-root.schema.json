@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rootflow.dev/schema/word-to-root.schema.json",
+  "title": "WordToRootIndex",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "map"
+  ],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "updatedAt": {
+      "type": "string"
+    },
+    "map": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      }
+    }
+  }
+}
+

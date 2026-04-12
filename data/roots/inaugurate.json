@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "inaugurate",
+  "root": "inaugurate",
+  "meaning": "",
+  "descriptionCn": "\u5f00\u5e55\u5f0f\uff1b\u5c31\u804c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "inaugurate",
+      "word": "inaugurate",
+      "display": "Inaugurate",
+      "phonetic": "",
+      "translation": "\u5f00\u5e55\u5f0f\uff1b\u5c31\u804c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "augur",
+  "rootLevel": 4,
+  "rootPath": "a>avi>augur>inaugurate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

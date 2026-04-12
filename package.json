@@ -1,0 +1,20 @@
+{
+  "name": "rootflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RootFlow mini program with WeChat login, cloud progress sync, and data tooling.",
+  "scripts": {
+    "lint": "eslint . --ext .js,.mjs,.vue",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "tsx --test tests/**/*.test.mjs"
+  },
+  "devDependencies": {
+    "eslint": "^9.38.0",
+    "eslint-plugin-vue": "^10.5.1",
+    "globals": "^16.4.0",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "vue-eslint-parser": "^10.2.0"
+  }
+}

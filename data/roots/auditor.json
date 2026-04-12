@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "auditor",
+  "root": "auditor",
+  "meaning": "",
+  "descriptionCn": "\u65c1\u542c\u751f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "auditor-auditor-2",
+      "word": "auditor",
+      "display": "Auditor",
+      "phonetic": "",
+      "translation": "\u65c1\u542c\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "audition",
+  "rootLevel": 4,
+  "rootPath": "a>audi>audition>auditor",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

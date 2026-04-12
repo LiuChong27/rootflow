@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "antecessor",
+  "root": "antecessor",
+  "meaning": "",
+  "descriptionCn": "\u5148\u884c\u8005\uff1b\u7956\u5148",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "antecessor-antecessor-2",
+      "word": "antecessor",
+      "display": "Antecessor",
+      "phonetic": "",
+      "translation": "\u5148\u884c\u8005\uff1b\u7956\u5148",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ante",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ante>antecessor",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

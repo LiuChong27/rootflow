@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "advertise",
+  "root": "advertise",
+  "meaning": "",
+  "descriptionCn": "\u516c\u544a",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "advertise",
+      "word": "advertise",
+      "display": "Advertise",
+      "phonetic": "",
+      "translation": "\u516c\u544a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "admit",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advertise",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

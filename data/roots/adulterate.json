@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "adulterate",
+  "root": "adulterate",
+  "meaning": "",
+  "descriptionCn": "\u53c2\u6742",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adulterate",
+      "word": "adulterate",
+      "display": "Adulterate",
+      "phonetic": "",
+      "translation": "\u53c2\u6742",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "adhere",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adulterate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

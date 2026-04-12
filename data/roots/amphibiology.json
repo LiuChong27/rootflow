@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "amphibiology",
+  "root": "amphibiology",
+  "meaning": "",
+  "descriptionCn": "\u4e24\u6816\u52a8\u7269\u5b66",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "amphibiology",
+      "word": "amphibiology",
+      "display": "Amphibiology",
+      "phonetic": "",
+      "translation": "\u4e24\u6816\u52a8\u7269\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "biology"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "amphibian",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian>amphibiology",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

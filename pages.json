@@ -1,0 +1,56 @@
+﻿{
+  "pages": [
+    {
+      "path": "pages/today/today",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/roots/roots",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/vibes/vibes",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/my/my",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/cloud-config/cloud-config",
+      "style": {
+        "navigationBarTitleText": "云环境配置"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "RootFlow",
+    "navigationBarBackgroundColor": "#0A0A0B",
+    "backgroundColor": "#0A0A0B"
+  },
+  "tabBar": {
+    "color": "#5E5E60",
+    "selectedColor": "#FFFFFF",
+    "backgroundColor": "#121212",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/today/today",
+        "text": "今日"
+      },
+      {
+        "pagePath": "pages/roots/roots",
+        "text": "图谱"
+      },
+      {
+        "pagePath": "pages/vibes/vibes",
+        "text": "场景"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  }
+}

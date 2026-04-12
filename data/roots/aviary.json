@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aviary",
+  "root": "aviary",
+  "meaning": "",
+  "descriptionCn": "\u9e1f\u820d",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aviary",
+      "word": "aviary",
+      "display": "Aviary",
+      "phonetic": "",
+      "translation": "\u9e1f\u820d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "avian",
+  "rootLevel": 4,
+  "rootPath": "a>avi>avian>aviary",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

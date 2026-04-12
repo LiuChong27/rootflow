@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "ambient",
+  "root": "ambient",
+  "meaning": "",
+  "descriptionCn": "\u5468\u56f4\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambient",
+      "word": "ambient",
+      "display": "Ambient",
+      "phonetic": "",
+      "translation": "\u5468\u56f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ambit",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

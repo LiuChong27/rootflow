@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "autoscope",
+  "root": "autoscope",
+  "meaning": "",
+  "descriptionCn": "\u81ea\u68c0\u5668",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "autoscope-autoscope-2",
+      "word": "autoscope",
+      "display": "Autoscope",
+      "phonetic": "",
+      "translation": "\u81ea\u68c0\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "automatic",
+  "rootLevel": 4,
+  "rootPath": "a>auto>automatic>autoscope",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

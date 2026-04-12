@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aviarist",
+  "root": "aviarist",
+  "meaning": "",
+  "descriptionCn": "\u98de\u79bd\u9972\u517b\u5bb6",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aviarist",
+      "word": "aviarist",
+      "display": "Aviarist",
+      "phonetic": "",
+      "translation": "\u98de\u79bd\u9972\u517b\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aviary",
+  "rootLevel": 5,
+  "rootPath": "a>avi>avian>aviary>aviarist",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

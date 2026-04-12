@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "audition",
+  "root": "audition",
+  "meaning": "",
+  "descriptionCn": "\u89c6\u542c\uff1b\u8bd5\u955c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "audit",
+      "word": "audit",
+      "display": "Audit",
+      "phonetic": "",
+      "translation": "\u67e5\u8d26\uff1b\u65c1\u542c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "audition-audition-2",
+      "word": "audition",
+      "display": "Audition",
+      "phonetic": "",
+      "translation": "\u89c6\u542c\uff1b\u8bd5\u955c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "auditor",
+      "word": "auditor",
+      "display": "Auditor",
+      "phonetic": "",
+      "translation": "\u65c1\u542c\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "auditory",
+      "word": "auditory",
+      "display": "Auditory",
+      "phonetic": "",
+      "translation": "\u542c\u89c9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "audi",
+  "rootLevel": 3,
+  "rootPath": "a>audi>audition",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

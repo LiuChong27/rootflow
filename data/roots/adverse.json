@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "adverse",
+  "root": "adverse",
+  "meaning": "",
+  "descriptionCn": "\u654c\u5bf9\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adverse",
+      "word": "adverse",
+      "display": "Adverse",
+      "phonetic": "",
+      "translation": "\u654c\u5bf9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "admit",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>adverse",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

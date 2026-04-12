@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aquanaut",
+  "root": "aquanaut",
+  "meaning": "",
+  "descriptionCn": "\u6f5c\u6c34\u4eba",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aquanaut-aquanaut-2",
+      "word": "aquanaut",
+      "display": "Aquanaut",
+      "phonetic": "",
+      "translation": "\u6f5c\u6c34\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aqu",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>aqu>aquanaut",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

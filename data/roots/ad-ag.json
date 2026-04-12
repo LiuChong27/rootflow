@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "rootId": "ad-ag",
+  "root": "ag-",
+  "meaning": "",
+  "descriptionCn": "g \u524d\u53d8\u4f53",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "agglomerate-ad-ag-2",
+      "word": "agglomerate",
+      "display": "Agglomerate",
+      "phonetic": "",
+      "translation": "\u5927\u5757",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aggrade",
+      "word": "aggrade",
+      "display": "Aggrade",
+      "phonetic": "",
+      "translation": "\u6de4\u79ef",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aggravate",
+      "word": "aggravate",
+      "display": "Aggravate",
+      "phonetic": "",
+      "translation": "\u52a0\u91cd\uff1b\u6076\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aggress",
+      "word": "aggress",
+      "display": "Aggress",
+      "phonetic": "",
+      "translation": "\u653b\u51fb",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-add-axx",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ag",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

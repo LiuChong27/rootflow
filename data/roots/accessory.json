@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "accessory",
+  "root": "accessory",
+  "meaning": "",
+  "descriptionCn": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accessory-accessory-2",
+      "word": "accessory",
+      "display": "Accessory",
+      "phonetic": "",
+      "translation": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accessory",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

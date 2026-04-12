@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "automatic",
+  "root": "automatic",
+  "meaning": "",
+  "descriptionCn": "\u81ea\u52a8\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "autoalarm",
+      "word": "autoalarm",
+      "display": "Autoalarm",
+      "phonetic": "",
+      "translation": "\u81ea\u52a8\u62a5\u8b66\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "automatic-automatic-2",
+      "word": "automatic",
+      "display": "Automatic",
+      "phonetic": "",
+      "translation": "\u81ea\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "autoscope",
+      "word": "autoscope",
+      "display": "Autoscope",
+      "phonetic": "",
+      "translation": "\u81ea\u68c0\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "autoxidation",
+      "word": "autoxidation",
+      "display": "Autoxidation",
+      "phonetic": "",
+      "translation": "\u81ea\u7136\u6c27\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "auto",
+  "rootLevel": 3,
+  "rootPath": "a>auto>automatic",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

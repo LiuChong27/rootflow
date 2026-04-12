@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "alliance",
+  "root": "alliance",
+  "meaning": "",
+  "descriptionCn": "\u540c\u76df",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "alliance-alliance-2",
+      "word": "alliance",
+      "display": "Alliance",
+      "phonetic": "",
+      "translation": "\u540c\u76df",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-al",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rootflow.dev/schema/root.schema.json",
+  "title": "RootflowRootFile",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "rootId",
+    "root",
+    "meaning",
+    "words"
+  ],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "rootId": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "root": {
+      "type": "string",
+      "minLength": 1
+    },
+    "meaning": {
+      "type": "string",
+      "minLength": 1
+    },
+    "descriptionCn": {
+      "type": "string"
+    },
+    "parentRootId": {
+      "type": "string"
+    },
+    "rootLevel": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "rootPath": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "updatedAt": {
+      "type": "string"
+    },
+    "words": {
+      "type": "array",
+      "items": {
+        "$ref": "./word.schema.json"
+      }
+    }
+  }
+}

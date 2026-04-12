@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "a",
+  "root": "A",
+  "meaning": "A root map",
+  "descriptionCn": "A \u8bcd\u6839\u8bcd\u7f00\u603b\u56fe",
+  "updatedAt": "2026-04-09",
+  "words": [],
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "a",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406\uff0c\u6309\u6587\u672c\u4e2d\u7684\u5206\u53c9\u5173\u7cfb\u5c55\u5f00\u3002"
+}

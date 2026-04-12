@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "avenue",
+  "root": "avenue",
+  "meaning": "",
+  "descriptionCn": "\u6797\u836b\u9053\uff1b\u65b9\u6cd5\u9014\u5f84",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "avenue",
+      "word": "avenue",
+      "display": "Avenue",
+      "phonetic": "",
+      "translation": "\u6797\u836b\u9053\uff1b\u65b9\u6cd5\u9014\u5f84",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aver",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver>avenue",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

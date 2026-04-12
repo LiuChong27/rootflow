@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "aver",
+  "root": "aver",
+  "meaning": "",
+  "descriptionCn": "\u58f0\u79f0\uff1b\u65ad\u8a00",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aver-aver-2",
+      "word": "aver",
+      "display": "Aver",
+      "phonetic": "",
+      "translation": "\u58f0\u79f0\uff1b\u65ad\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-a-an",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

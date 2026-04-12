@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "ad-ac-acute",
+  "root": "acute",
+  "meaning": "",
+  "descriptionCn": "\u5267\u70c8\uff1b\u5c16\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acute-ad-ac-acute-2",
+      "word": "acute",
+      "display": "Acute",
+      "phonetic": "",
+      "translation": "\u5267\u70c8\uff1b\u5c16\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>ad-ac-acute",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

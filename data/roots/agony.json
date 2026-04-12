@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "agony",
+  "root": "agony",
+  "meaning": "",
+  "descriptionCn": "\u6781\u5927\u7684\u75db\u82e6",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "agony-agony-2",
+      "word": "agony",
+      "display": "Agony",
+      "phonetic": "",
+      "translation": "\u6781\u5927\u7684\u75db\u82e6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "act",
+  "rootLevel": 3,
+  "rootPath": "a>act>agony",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

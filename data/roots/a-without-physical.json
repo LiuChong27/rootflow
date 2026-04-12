@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "rootId": "a-without-physical",
+  "root": "\u7269\u7406/\u72b6\u6001",
+  "meaning": "",
+  "descriptionCn": "\u7269\u7406/\u72b6\u6001\u7c7b\u6d3e\u751f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anomaly-a-without-physical-2",
+      "word": "anomaly",
+      "display": "Anomaly",
+      "phonetic": "",
+      "translation": "\u4e0d\u89c4\u5219",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anonymous-a-without-physical-2",
+      "word": "anonymous",
+      "display": "Anonymous",
+      "phonetic": "",
+      "translation": "\u65e0\u540d\u7684\uff1b\u533f\u540d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aperiodic-a-without-physical-2",
+      "word": "aperiodic",
+      "display": "Aperiodic",
+      "phonetic": "",
+      "translation": "\u975e\u5468\u671f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    },
+    {
+      "id": "asexual-a-without-physical-2",
+      "word": "asexual",
+      "display": "Asexual",
+      "phonetic": "",
+      "translation": "\u65e0\u6027\u7684\uff1b\u65e0\u6027\u751f\u6b96\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    },
+    {
+      "id": "asymmetry-a-without-physical-2",
+      "word": "asymmetry",
+      "display": "Asymmetry",
+      "phonetic": "",
+      "translation": "\u4e0d\u5bf9\u79f0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-without",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>a-without>a-without-physical",
+  "type": "category",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

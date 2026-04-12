@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "amphibian",
+  "root": "amphibian",
+  "meaning": "",
+  "descriptionCn": "\u4e24\u6816\u7c7b",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "amphibian-amphibian-2",
+      "word": "amphibian",
+      "display": "Amphibian",
+      "phonetic": "",
+      "translation": "\u4e24\u6816\u7c7b",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "biology"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "amphi-language-biology",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,3837 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-09",
+  "roots": [
+    {
+      "rootId": "a",
+      "root": "A",
+      "meaning": "A root map",
+      "descriptionCn": "A \u8bcd\u6839\u8bcd\u7f00\u603b\u56fe",
+      "type": "root",
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "a",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406\uff0c\u6309\u6587\u672c\u4e2d\u7684\u5206\u53c9\u5173\u7cfb\u5c55\u5f00\u3002",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 0
+    },
+    {
+      "rootId": "a-other",
+      "root": "\u5176\u4ed6",
+      "meaning": "",
+      "descriptionCn": "\u4e2d\u5fc3\u8282\u70b9\uff1a\u5176\u4ed6",
+      "type": "section",
+      "parentRootId": "a",
+      "rootLevel": 2,
+      "rootPath": "a>a-other",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "section"
+      ],
+      "wordCount": 8
+    },
+    {
+      "rootId": "antrop",
+      "root": "antrop",
+      "meaning": "human",
+      "descriptionCn": "\u4eba\u7c7b",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>antrop",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "anthropology",
+      "root": "anthropology",
+      "meaning": "",
+      "descriptionCn": "\u4eba\u7c7b\u5b66",
+      "type": "word-family",
+      "parentRootId": "antrop",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>antrop>anthropology",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ac",
+      "root": "ac",
+      "meaning": "sharp/sour",
+      "descriptionCn": "\u5c16\u9510\u7684\uff1b\u950b\u5229\uff1b\u9178\u7684",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>ac",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "ac-acute",
+      "root": "acute",
+      "meaning": "",
+      "descriptionCn": "\u4e25\u91cd\u7684",
+      "type": "word-family",
+      "parentRootId": "ac",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>ac>ac-acute",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acuity",
+      "root": "acuity",
+      "meaning": "",
+      "descriptionCn": "\u654f\u9510",
+      "type": "word-family",
+      "parentRootId": "ac-acute",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>ac>ac-acute>acuity",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acumen",
+      "root": "acumen",
+      "meaning": "",
+      "descriptionCn": "\u806a\u660e",
+      "type": "word-family",
+      "parentRootId": "ac-acute",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>ac>ac-acute>acumen",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acet-aceto",
+      "root": "acet=aceto",
+      "meaning": "",
+      "descriptionCn": "\u53d8\u9178",
+      "type": "branch",
+      "parentRootId": "ac",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>ac>acet-aceto",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "branch"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "acid-acr",
+      "root": "acid=acr",
+      "meaning": "",
+      "descriptionCn": "\u9178\u3001\u5c16\u9178",
+      "type": "branch",
+      "parentRootId": "ac",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>ac>acid-acr",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "branch"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "acrobatics",
+      "root": "acrobatics",
+      "meaning": "",
+      "descriptionCn": "\u6742\u6280",
+      "type": "word-family",
+      "parentRootId": "ac",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>ac>acrobatics",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acrobatic",
+      "root": "acrobatic",
+      "meaning": "",
+      "descriptionCn": "\u6742\u6280\u7684",
+      "type": "word-family",
+      "parentRootId": "acrobatics",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>ac>acrobatics>acrobatic",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acrobat",
+      "root": "acrobat",
+      "meaning": "",
+      "descriptionCn": "\u6742\u6280\u6f14\u5458",
+      "type": "word-family",
+      "parentRootId": "acrobatics",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>ac>acrobatics>acrobat",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ambul",
+      "root": "ambul=walk=\u8d70",
+      "meaning": "walk",
+      "descriptionCn": "\u8d70",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>ambul",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "ambulance",
+      "root": "ambulance",
+      "meaning": "",
+      "descriptionCn": "\u6551\u62a4\u8f66",
+      "type": "word-family",
+      "parentRootId": "ambul",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>ambul>ambulance",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ambition",
+      "root": "ambition",
+      "meaning": "",
+      "descriptionCn": "\u96c4\u5fc3",
+      "type": "word-family",
+      "parentRootId": "ambul",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>ambul>ambition",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ambitious",
+      "root": "ambitious",
+      "meaning": "",
+      "descriptionCn": "\u6709\u62b1\u8d1f\u7684",
+      "type": "word-family",
+      "parentRootId": "ambition",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>ambul>ambition>ambitious",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "arch",
+      "root": "arch=rule",
+      "meaning": "rule/leader",
+      "descriptionCn": "\u7edf\u6cbb\uff1b\u9996\u9886",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>arch",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "architect",
+      "root": "architect",
+      "meaning": "",
+      "descriptionCn": "\u5efa\u7b51\u5e08",
+      "type": "word-family",
+      "parentRootId": "arch",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>arch>architect",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "architecture",
+      "root": "architecture",
+      "meaning": "",
+      "descriptionCn": "\u5efa\u7b51\u5b66",
+      "type": "word-family",
+      "parentRootId": "architect",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>arch>architect>architecture",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "architectural",
+      "root": "architectural",
+      "meaning": "",
+      "descriptionCn": "\u5efa\u7b51\u5b66\u7684",
+      "type": "word-family",
+      "parentRootId": "architect",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>arch>architect>architectural",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "hierarchy",
+      "root": "hierarchy",
+      "meaning": "",
+      "descriptionCn": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
+      "type": "word-family",
+      "parentRootId": "arch",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>arch>hierarchy",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "monarch",
+      "root": "monarch",
+      "meaning": "",
+      "descriptionCn": "\u541b\u4e3b\u5e1d\u738b",
+      "type": "word-family",
+      "parentRootId": "arch",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>arch>monarch",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "monarchy",
+      "root": "monarchy",
+      "meaning": "",
+      "descriptionCn": "\u541b\u4e3b\u5236",
+      "type": "word-family",
+      "parentRootId": "monarch",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>arch>monarch>monarchy",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "arch-anarchy",
+      "root": "anarchy",
+      "meaning": "",
+      "descriptionCn": "\u65e0\u653f\u5e9c\u72b6\u6001\uff1b\u6df7\u4e71",
+      "type": "word-family",
+      "parentRootId": "arch",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>arch>arch-anarchy",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "am-amor",
+      "root": "am=amor",
+      "meaning": "love",
+      "descriptionCn": "\u7231",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>am-amor",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "enamour",
+      "root": "enamour",
+      "meaning": "",
+      "descriptionCn": "\u4f7f\u8ff7\u604b",
+      "type": "word-family",
+      "parentRootId": "am-amor",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>am-amor>enamour",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amatoria",
+      "root": "amatoria",
+      "meaning": "",
+      "descriptionCn": "\u597d\u8272\u7684",
+      "type": "word-family",
+      "parentRootId": "am-amor",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>am-amor>amatoria",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amorist",
+      "root": "amorist",
+      "meaning": "",
+      "descriptionCn": "\u597d\u8272\u4e4b\u5f92",
+      "type": "word-family",
+      "parentRootId": "amatoria",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>am-amor>amatoria>amorist",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amorous",
+      "root": "amorous",
+      "meaning": "",
+      "descriptionCn": "\u597d\u8272\u7684",
+      "type": "word-family",
+      "parentRootId": "amatoria",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>am-amor>amatoria>amorous",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "anim",
+      "root": "anim",
+      "meaning": "soul/life",
+      "descriptionCn": "\u5fc3\u7075\uff1b\u751f\u547d",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>anim",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "unanimous",
+      "root": "unanimous",
+      "meaning": "",
+      "descriptionCn": "\u65e0\u5f02\u8bae\u7684\uff0c\u610f\u89c1\u4e00\u81f4\u7684",
+      "type": "word-family",
+      "parentRootId": "anim",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>anim>unanimous",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "alt",
+      "root": "alt=alti=alto=high",
+      "meaning": "high",
+      "descriptionCn": "\u9ad8",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>alt",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "altimeter",
+      "root": "altimeter",
+      "meaning": "",
+      "descriptionCn": "\u9ad8\u5ea6\u8ba1",
+      "type": "word-family",
+      "parentRootId": "alt",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>alt>altimeter",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "alto",
+      "root": "alto",
+      "meaning": "",
+      "descriptionCn": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
+      "type": "word-family",
+      "parentRootId": "alt",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>alt>alto",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "exaltation",
+      "root": "exaltation",
+      "meaning": "",
+      "descriptionCn": "\u63d0\u5347\uff1b\u5174\u594b",
+      "type": "word-family",
+      "parentRootId": "alt",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>alt>exaltation",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "altar",
+      "root": "altar",
+      "meaning": "",
+      "descriptionCn": "\u796d\u575b",
+      "type": "word-family",
+      "parentRootId": "alt",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>alt>altar",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aqu",
+      "root": "aqu=water",
+      "meaning": "water",
+      "descriptionCn": "\u6c34",
+      "type": "root",
+      "parentRootId": "a-other",
+      "rootLevel": 3,
+      "rootPath": "a>a-other>aqu",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 5
+    },
+    {
+      "rootId": "aquanaut",
+      "root": "aquanaut",
+      "meaning": "",
+      "descriptionCn": "\u6f5c\u6c34\u4eba",
+      "type": "word-family",
+      "parentRootId": "aqu",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>aqu>aquanaut",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aquamarine",
+      "root": "aquamarine",
+      "meaning": "",
+      "descriptionCn": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
+      "type": "word-family",
+      "parentRootId": "aqu",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>aqu>aquamarine",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aqueous",
+      "root": "aqueous",
+      "meaning": "",
+      "descriptionCn": "\u50cf\u6c34\u4e00\u6837\u7684",
+      "type": "word-family",
+      "parentRootId": "aqu",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>aqu>aqueous",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aquatic",
+      "root": "aquatic",
+      "meaning": "",
+      "descriptionCn": "\u6c34\u751f\u7684",
+      "type": "word-family",
+      "parentRootId": "aqu",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>aqu>aquatic",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aquation",
+      "root": "aquation",
+      "meaning": "",
+      "descriptionCn": "\u6c34\u5408\u4f5c\u7528",
+      "type": "word-family",
+      "parentRootId": "aquatic",
+      "rootLevel": 5,
+      "rootPath": "a>a-other>aqu>aquatic>aquation",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aqueduct",
+      "root": "aqueduct",
+      "meaning": "",
+      "descriptionCn": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
+      "type": "word-family",
+      "parentRootId": "aqu",
+      "rootLevel": 4,
+      "rootPath": "a>a-other>aqu>aqueduct",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avi",
+      "root": "avi=av=avar=bird",
+      "meaning": "bird/avid/avarice",
+      "descriptionCn": "\u9e1f\uff1b\u6e34\u671b\uff1b\u8d2a\u5a6a",
+      "type": "root",
+      "parentRootId": "a",
+      "rootLevel": 2,
+      "rootPath": "a>avi",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 6
+    },
+    {
+      "rootId": "auspice",
+      "root": "auspice",
+      "meaning": "",
+      "descriptionCn": "\u9884\u5146",
+      "type": "word-family",
+      "parentRootId": "avi",
+      "rootLevel": 3,
+      "rootPath": "a>avi>auspice",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "auspicious",
+      "root": "auspicious",
+      "meaning": "",
+      "descriptionCn": "\u5409\u5146\u7684",
+      "type": "word-family",
+      "parentRootId": "auspice",
+      "rootLevel": 4,
+      "rootPath": "a>avi>auspice>auspicious",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "augur",
+      "root": "augur",
+      "meaning": "",
+      "descriptionCn": "\u5360\u535c",
+      "type": "word-family",
+      "parentRootId": "avi",
+      "rootLevel": 3,
+      "rootPath": "a>avi>augur",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "inaugurate",
+      "root": "inaugurate",
+      "meaning": "",
+      "descriptionCn": "\u5f00\u5e55\u5f0f\uff1b\u5c31\u804c",
+      "type": "word-family",
+      "parentRootId": "augur",
+      "rootLevel": 4,
+      "rootPath": "a>avi>augur>inaugurate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avarice",
+      "root": "avarice",
+      "meaning": "",
+      "descriptionCn": "\u8d2a\u5a6a",
+      "type": "word-family",
+      "parentRootId": "avi",
+      "rootLevel": 3,
+      "rootPath": "a>avi>avarice",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avaricious",
+      "root": "avaricious",
+      "meaning": "",
+      "descriptionCn": "\u8d2a\u5a6a\u7684",
+      "type": "word-family",
+      "parentRootId": "avarice",
+      "rootLevel": 4,
+      "rootPath": "a>avi>avarice>avaricious",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avid",
+      "root": "avid",
+      "meaning": "",
+      "descriptionCn": "\u6e34\u671b\u7684\uff1b\u8d2a\u5a6a\u7684",
+      "type": "word-family",
+      "parentRootId": "avi",
+      "rootLevel": 3,
+      "rootPath": "a>avi>avid",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avidity",
+      "root": "avidity",
+      "meaning": "",
+      "descriptionCn": "\u8d2a\u5a6a",
+      "type": "word-family",
+      "parentRootId": "avid",
+      "rootLevel": 4,
+      "rootPath": "a>avi>avid>avidity",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avian",
+      "root": "avian",
+      "meaning": "",
+      "descriptionCn": "\u9e1f\u7684",
+      "type": "word-family",
+      "parentRootId": "avi",
+      "rootLevel": 3,
+      "rootPath": "a>avi>avian",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aviary",
+      "root": "aviary",
+      "meaning": "",
+      "descriptionCn": "\u9e1f\u820d",
+      "type": "word-family",
+      "parentRootId": "avian",
+      "rootLevel": 4,
+      "rootPath": "a>avi>avian>aviary",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aviarist",
+      "root": "aviarist",
+      "meaning": "",
+      "descriptionCn": "\u98de\u79bd\u9972\u517b\u5bb6",
+      "type": "word-family",
+      "parentRootId": "aviary",
+      "rootLevel": 5,
+      "rootPath": "a>avi>avian>aviary>aviarist",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aviate",
+      "root": "aviate",
+      "meaning": "",
+      "descriptionCn": "\u98de\u884c",
+      "type": "word-family",
+      "parentRootId": "avi",
+      "rootLevel": 3,
+      "rootPath": "a>avi>aviate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aer",
+      "root": "aer=aero=air",
+      "meaning": "air",
+      "descriptionCn": "\u7a7a\u6c14",
+      "type": "root",
+      "parentRootId": "a",
+      "rootLevel": 2,
+      "rootPath": "a>aer",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 5
+    },
+    {
+      "rootId": "aerobiology",
+      "root": "aerobiology",
+      "meaning": "",
+      "descriptionCn": "\u5927\u6c14\u751f\u7269\u5b66",
+      "type": "word-family",
+      "parentRootId": "aer",
+      "rootLevel": 3,
+      "rootPath": "a>aer>aerobiology",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aerostatics",
+      "root": "aerostatics",
+      "meaning": "",
+      "descriptionCn": "\u7a7a\u6c14\u9759\u529b\u5b66",
+      "type": "word-family",
+      "parentRootId": "aer",
+      "rootLevel": 3,
+      "rootPath": "a>aer>aerostatics",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aerial",
+      "root": "aerial",
+      "meaning": "",
+      "descriptionCn": "\u822a\u7a7a\u7684",
+      "type": "word-family",
+      "parentRootId": "aer",
+      "rootLevel": 3,
+      "rootPath": "a>aer>aerial",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aeroplane",
+      "root": "aeroplane",
+      "meaning": "",
+      "descriptionCn": "\u98de\u673a",
+      "type": "word-family",
+      "parentRootId": "aer",
+      "rootLevel": 3,
+      "rootPath": "a>aer>aeroplane",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aisle",
+      "root": "aisle",
+      "meaning": "",
+      "descriptionCn": "\u8fc7\u9053",
+      "type": "word-family",
+      "parentRootId": "aer",
+      "rootLevel": 3,
+      "rootPath": "a>aer>aisle",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "auto",
+      "root": "auto=aut",
+      "meaning": "self",
+      "descriptionCn": "\u81ea\u5df1",
+      "type": "root",
+      "parentRootId": "a",
+      "rootLevel": 2,
+      "rootPath": "a>auto",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 3
+    },
+    {
+      "rootId": "autobiography",
+      "root": "autobiography",
+      "meaning": "",
+      "descriptionCn": "\u81ea\u4f20\u4f5c\u8005",
+      "type": "word-family",
+      "parentRootId": "auto",
+      "rootLevel": 3,
+      "rootPath": "a>auto>autobiography",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "autocide",
+      "root": "autocide",
+      "meaning": "",
+      "descriptionCn": "\u81ea\u6740",
+      "type": "word-family",
+      "parentRootId": "auto",
+      "rootLevel": 3,
+      "rootPath": "a>auto>autocide",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "automatic",
+      "root": "automatic",
+      "meaning": "",
+      "descriptionCn": "\u81ea\u52a8\u7684",
+      "type": "word-family",
+      "parentRootId": "auto",
+      "rootLevel": 3,
+      "rootPath": "a>auto>automatic",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "autoalarm",
+      "root": "autoalarm",
+      "meaning": "",
+      "descriptionCn": "\u81ea\u52a8\u62a5\u8b66\u5668",
+      "type": "word-family",
+      "parentRootId": "automatic",
+      "rootLevel": 4,
+      "rootPath": "a>auto>automatic>autoalarm",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "autoscope",
+      "root": "autoscope",
+      "meaning": "",
+      "descriptionCn": "\u81ea\u68c0\u5668",
+      "type": "word-family",
+      "parentRootId": "automatic",
+      "rootLevel": 4,
+      "rootPath": "a>auto>automatic>autoscope",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "autoxidation",
+      "root": "autoxidation",
+      "meaning": "",
+      "descriptionCn": "\u81ea\u7136\u6c27\u5316",
+      "type": "word-family",
+      "parentRootId": "automatic",
+      "rootLevel": 4,
+      "rootPath": "a>auto>automatic>autoxidation",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "audi",
+      "root": "audi",
+      "meaning": "hear",
+      "descriptionCn": "\u542c",
+      "type": "root",
+      "parentRootId": "a",
+      "rootLevel": 2,
+      "rootPath": "a>audi",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "audio",
+      "root": "audio",
+      "meaning": "",
+      "descriptionCn": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
+      "type": "word-family",
+      "parentRootId": "audi",
+      "rootLevel": 3,
+      "rootPath": "a>audi>audio",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "inaudible",
+      "root": "inaudible",
+      "meaning": "",
+      "descriptionCn": "\u542c\u4e0d\u89c1\u7684",
+      "type": "word-family",
+      "parentRootId": "audio",
+      "rootLevel": 4,
+      "rootPath": "a>audi>audio>inaudible",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "audiogram",
+      "root": "audiogram",
+      "meaning": "",
+      "descriptionCn": "\u542c\u529b\u654f\u611f\u56fe",
+      "type": "word-family",
+      "parentRootId": "audio",
+      "rootLevel": 4,
+      "rootPath": "a>audi>audio>audiogram",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "audiology",
+      "root": "audiology",
+      "meaning": "",
+      "descriptionCn": "\u542c\u89c9\u5b66",
+      "type": "word-family",
+      "parentRootId": "audio",
+      "rootLevel": 4,
+      "rootPath": "a>audi>audio>audiology",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "audition",
+      "root": "audition",
+      "meaning": "",
+      "descriptionCn": "\u89c6\u542c\uff1b\u8bd5\u955c",
+      "type": "word-family",
+      "parentRootId": "audi",
+      "rootLevel": 3,
+      "rootPath": "a>audi>audition",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "auditor",
+      "root": "auditor",
+      "meaning": "",
+      "descriptionCn": "\u65c1\u542c\u751f",
+      "type": "word-family",
+      "parentRootId": "audition",
+      "rootLevel": 4,
+      "rootPath": "a>audi>audition>auditor",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "auditory",
+      "root": "auditory",
+      "meaning": "",
+      "descriptionCn": "\u542c\u89c9\u7684",
+      "type": "word-family",
+      "parentRootId": "audition",
+      "rootLevel": 4,
+      "rootPath": "a>audi>audition>auditory",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "audit",
+      "root": "audit",
+      "meaning": "",
+      "descriptionCn": "\u67e5\u8d26\uff1b\u65c1\u542c",
+      "type": "word-family",
+      "parentRootId": "audition",
+      "rootLevel": 4,
+      "rootPath": "a>audi>audition>audit",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "act",
+      "root": "act=ag=ig",
+      "meaning": "do/act",
+      "descriptionCn": "\u505a\u3001\u884c\u52a8",
+      "type": "root",
+      "parentRootId": "a",
+      "rootLevel": 2,
+      "rootPath": "a>act",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "root"
+      ],
+      "wordCount": 8
+    },
+    {
+      "rootId": "agony",
+      "root": "agony",
+      "meaning": "",
+      "descriptionCn": "\u6781\u5927\u7684\u75db\u82e6",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>agony",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "cogent",
+      "root": "cogent",
+      "meaning": "",
+      "descriptionCn": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>cogent",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "exigency",
+      "root": "exigency",
+      "meaning": "",
+      "descriptionCn": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>exigency",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "interact",
+      "root": "interact",
+      "meaning": "",
+      "descriptionCn": "\u76f8\u4e92\u4f5c\u7528",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>interact",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "prodigal",
+      "root": "prodigal",
+      "meaning": "",
+      "descriptionCn": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>prodigal",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "actualize",
+      "root": "actualize",
+      "meaning": "",
+      "descriptionCn": "\u4f7f\u5b9e\u73b0",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>actualize",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "actuate",
+      "root": "actuate",
+      "meaning": "",
+      "descriptionCn": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>actuate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "agitate",
+      "root": "agitate",
+      "meaning": "",
+      "descriptionCn": "\u6270\u52a8\uff1b\u6fc0\u52a8",
+      "type": "word-family",
+      "parentRootId": "actuate",
+      "rootLevel": 4,
+      "rootPath": "a>act>actuate>agitate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "agitator",
+      "root": "agitator",
+      "meaning": "",
+      "descriptionCn": "\u717d\u52a8\u8005",
+      "type": "word-family",
+      "parentRootId": "agitate",
+      "rootLevel": 5,
+      "rootPath": "a>act>actuate>agitate>agitator",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "enact",
+      "root": "enact",
+      "meaning": "",
+      "descriptionCn": "\u5236\u5b9a\u6cd5\u5f8b\uff1b\u626e\u6f14\u89d2\u8272",
+      "type": "word-family",
+      "parentRootId": "actuate",
+      "rootLevel": 4,
+      "rootPath": "a>act>actuate>enact",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "enactment",
+      "root": "enactment",
+      "meaning": "",
+      "descriptionCn": "\u6cd5\u5f8b",
+      "type": "word-family",
+      "parentRootId": "enact",
+      "rootLevel": 5,
+      "rootPath": "a>act>actuate>enact>enactment",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "exact",
+      "root": "exact",
+      "meaning": "",
+      "descriptionCn": "\u7cbe\u786e\u7684",
+      "type": "word-family",
+      "parentRootId": "enact",
+      "rootLevel": 5,
+      "rootPath": "a>act>actuate>enact>exact",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "exacting",
+      "root": "exacting",
+      "meaning": "",
+      "descriptionCn": "\u82db\u523b\u7684\uff1b\u4e25\u683c\u7684",
+      "type": "word-family",
+      "parentRootId": "exact",
+      "rootLevel": 6,
+      "rootPath": "a>act>actuate>enact>exact>exacting",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "transact",
+      "root": "transact",
+      "meaning": "",
+      "descriptionCn": "\u529e\u7406\uff1b\u4ea4\u6613",
+      "type": "word-family",
+      "parentRootId": "enact",
+      "rootLevel": 5,
+      "rootPath": "a>act>actuate>enact>transact",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "transaction",
+      "root": "transaction",
+      "meaning": "",
+      "descriptionCn": "\u4ea4\u6613\uff1b\u4e70\u5356",
+      "type": "word-family",
+      "parentRootId": "transact",
+      "rootLevel": 6,
+      "rootPath": "a>act>actuate>enact>transact>transaction",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "word-family"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "agent",
+      "root": "agent",
+      "meaning": "",
+      "descriptionCn": "\u4ee3\u7406\u4eba",
+      "type": "word-family",
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>agent",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u4e8b\u52a1",
+      "tags": [
+        "word-family",
+        "affairs"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "agenda",
+      "root": "agenda",
+      "meaning": "",
+      "descriptionCn": "\u8bae\u4e8b\u65e5\u7a0b",
+      "type": "word-family",
+      "parentRootId": "agent",
+      "rootLevel": 4,
+      "rootPath": "a>act>agent>agenda",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u4e8b\u52a1",
+      "tags": [
+        "word-family",
+        "affairs"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "agile",
+      "root": "agile",
+      "meaning": "",
+      "descriptionCn": "\u7075\u6d3b\u7684",
+      "type": "word-family",
+      "parentRootId": "agent",
+      "rootLevel": 4,
+      "rootPath": "a>act>agent>agile",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u4e8b\u52a1",
+      "tags": [
+        "word-family",
+        "affairs"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "actuary",
+      "root": "actuary",
+      "meaning": "",
+      "descriptionCn": "\u7edf\u8ba1\u5b66\u5bb6",
+      "type": "word-family",
+      "parentRootId": "agent",
+      "rootLevel": 4,
+      "rootPath": "a>act>agent>actuary",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u4e8b\u52a1",
+      "tags": [
+        "word-family",
+        "affairs"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accurate",
+      "root": "accurate",
+      "meaning": "",
+      "descriptionCn": "\u51c6\u786e\u7684",
+      "type": "word-family",
+      "parentRootId": "actuary",
+      "rootLevel": 5,
+      "rootPath": "a>act>agent>actuary>accurate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u4e8b\u52a1",
+      "tags": [
+        "word-family",
+        "affairs"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "a-prefix",
+      "root": "\u524d\u7f00",
+      "meaning": "",
+      "descriptionCn": "\u524d\u7f00\u5206\u652f",
+      "type": "section",
+      "parentRootId": "a",
+      "rootLevel": 2,
+      "rootPath": "a>a-prefix",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "",
+      "tags": [
+        "section"
+      ],
+      "wordCount": 6
+    },
+    {
+      "rootId": "a-without",
+      "root": "a-=an-=without",
+      "meaning": "without",
+      "descriptionCn": "\u6ca1\u6709",
+      "type": "prefix",
+      "parentRootId": "a-prefix",
+      "rootLevel": 3,
+      "rootPath": "a>a-prefix>a-without",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "prefix",
+        "other"
+      ],
+      "wordCount": 14
+    },
+    {
+      "rootId": "a-without-notinclude",
+      "root": "\u4e0d\u5305\u542b",
+      "meaning": "",
+      "descriptionCn": "\u4e0d\u5305\u542b\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "a-without",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>a-without>a-without-notinclude",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u4e0d\u5305\u542b",
+      "tags": [
+        "category",
+        "other"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "a-without-emotion",
+      "root": "\u60c5\u611f",
+      "meaning": "",
+      "descriptionCn": "\u60c5\u611f\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "a-without",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>a-without>a-without-emotion",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u60c5\u611f",
+      "tags": [
+        "category",
+        "emotion"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "apathy",
+      "root": "apathy",
+      "meaning": "",
+      "descriptionCn": "\u51b7\u6f20",
+      "type": "word-family",
+      "parentRootId": "a-without-emotion",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>a-without>a-without-emotion>apathy",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u60c5\u611f",
+      "tags": [
+        "word-family",
+        "emotion"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "apathetic",
+      "root": "apathetic",
+      "meaning": "",
+      "descriptionCn": "\u51b7\u6de1\u7684\uff1b\u6f20\u4e0d\u5173\u5fc3\u7684",
+      "type": "word-family",
+      "parentRootId": "apathy",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>a-without>a-without-emotion>apathy>apathetic",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u60c5\u611f",
+      "tags": [
+        "word-family",
+        "emotion"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "a-without-physical",
+      "root": "\u7269\u7406/\u72b6\u6001",
+      "meaning": "",
+      "descriptionCn": "\u7269\u7406/\u72b6\u6001\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "a-without",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>a-without>a-without-physical",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u7269\u7406",
+      "tags": [
+        "category",
+        "physics"
+      ],
+      "wordCount": 5
+    },
+    {
+      "rootId": "anomaly",
+      "root": "anomaly",
+      "meaning": "",
+      "descriptionCn": "\u4e0d\u89c4\u5219",
+      "type": "word-family",
+      "parentRootId": "a-without-physical",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>a-without>a-without-physical>anomaly",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u7269\u7406",
+      "tags": [
+        "word-family",
+        "physics"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "anomy",
+      "root": "anomy",
+      "meaning": "",
+      "descriptionCn": "\u5931\u8303\u72b6\u6001\uff1b\u6df7\u4e71",
+      "type": "word-family",
+      "parentRootId": "anomaly",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>a-without>a-without-physical>anomaly>anomy",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u7269\u7406",
+      "tags": [
+        "word-family",
+        "physics"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "a-without-abstract",
+      "root": "\u62bd\u8c61\u6982\u5ff5",
+      "meaning": "",
+      "descriptionCn": "\u62bd\u8c61\u6982\u5ff5\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "a-without",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>a-without>a-without-abstract",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u62bd\u8c61",
+      "tags": [
+        "category",
+        "abstract"
+      ],
+      "wordCount": 3
+    },
+    {
+      "rootId": "amphi-ambi",
+      "root": "amphi-=ambi-",
+      "meaning": "two/both",
+      "descriptionCn": "\u4e24\u4e2a",
+      "type": "prefix",
+      "parentRootId": "a-prefix",
+      "rootLevel": 3,
+      "rootPath": "a>a-prefix>amphi-ambi",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "prefix",
+        "other"
+      ],
+      "wordCount": 10
+    },
+    {
+      "rootId": "ambiguity",
+      "root": "ambiguity",
+      "meaning": "",
+      "descriptionCn": "\u6a21\u68f1\u4e24\u53ef\uff1b\u542b\u4e49\u6a21\u7cca",
+      "type": "word-family",
+      "parentRootId": "amphi-ambi",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>amphi-ambi>ambiguity",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ambiguous",
+      "root": "ambiguous",
+      "meaning": "",
+      "descriptionCn": "\u542b\u7cca\u7684",
+      "type": "word-family",
+      "parentRootId": "ambiguity",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>amphi-ambi>ambiguity>ambiguous",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ambiquity",
+      "root": "ambiquity",
+      "meaning": "",
+      "descriptionCn": "\u542b\u7cca\u7684\uff08\u53d8\u4f53\u62fc\u5199\uff09",
+      "type": "word-family",
+      "parentRootId": "ambiguity",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>amphi-ambi>ambiguity>ambiquity",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amphi-emotion",
+      "root": "\u60c5\u611f/\u6027\u683c",
+      "meaning": "",
+      "descriptionCn": "\u60c5\u611f/\u6027\u683c\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "amphi-ambi",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>amphi-ambi>amphi-emotion",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u60c5\u611f",
+      "tags": [
+        "category",
+        "emotion"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "ambit",
+      "root": "ambit",
+      "meaning": "",
+      "descriptionCn": "\u754c\u9650\uff1b\u8303\u56f4",
+      "type": "word-family",
+      "parentRootId": "amphi-ambi",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>amphi-ambi>ambit",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ambient",
+      "root": "ambient",
+      "meaning": "",
+      "descriptionCn": "\u5468\u56f4\u7684",
+      "type": "word-family",
+      "parentRootId": "ambit",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ambiance-ambience",
+      "root": "ambiance=ambience",
+      "meaning": "",
+      "descriptionCn": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
+      "type": "branch",
+      "parentRootId": "ambient",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "atmosphere",
+      "root": "atmosphere",
+      "meaning": "",
+      "descriptionCn": "\u6c1b\u56f4\uff1b\u5927\u6c14\u5c42",
+      "type": "word-family",
+      "parentRootId": "ambiance-ambience",
+      "rootLevel": 7,
+      "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience>atmosphere",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amphi-language-biology",
+      "root": "\u8bed\u8a00/\u751f\u7269",
+      "meaning": "",
+      "descriptionCn": "\u8bed\u8a00/\u751f\u7269\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "amphi-ambi",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u751f\u7269",
+      "tags": [
+        "category",
+        "biology"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "amphibian",
+      "root": "amphibian",
+      "meaning": "",
+      "descriptionCn": "\u4e24\u6816\u7c7b",
+      "type": "word-family",
+      "parentRootId": "amphi-language-biology",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u751f\u7269",
+      "tags": [
+        "word-family",
+        "biology"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amphibiology",
+      "root": "amphibiology",
+      "meaning": "",
+      "descriptionCn": "\u4e24\u6816\u52a8\u7269\u5b66",
+      "type": "word-family",
+      "parentRootId": "amphibian",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian>amphibiology",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u751f\u7269",
+      "tags": [
+        "word-family",
+        "biology"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "apo-ab",
+      "root": "apo-=ab-",
+      "meaning": "away/from",
+      "descriptionCn": "\u8fdc\u79bb",
+      "type": "prefix",
+      "parentRootId": "a-prefix",
+      "rootLevel": 3,
+      "rootPath": "a>a-prefix>apo-ab",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "prefix",
+        "other"
+      ],
+      "wordCount": 19
+    },
+    {
+      "rootId": "apo-emotion",
+      "root": "\u60c5\u611f/\u6001\u5ea6",
+      "meaning": "",
+      "descriptionCn": "\u60c5\u611f/\u6001\u5ea6\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "apo-ab",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u60c5\u611f",
+      "tags": [
+        "category",
+        "emotion"
+      ],
+      "wordCount": 10
+    },
+    {
+      "rootId": "apo-physical",
+      "root": "\u7269\u7406/\u52a8\u4f5c",
+      "meaning": "",
+      "descriptionCn": "\u7269\u7406/\u52a8\u4f5c\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "apo-ab",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>apo-ab>apo-physical",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u7269\u7406",
+      "tags": [
+        "category",
+        "physics"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "apo-remove",
+      "root": "\u53bb\u9664/\u5426\u5b9a",
+      "meaning": "",
+      "descriptionCn": "\u53bb\u9664/\u5426\u5b9a\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "apo-ab",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>apo-ab>apo-remove",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u53bb\u9664",
+      "tags": [
+        "category",
+        "other"
+      ],
+      "wordCount": 3
+    },
+    {
+      "rootId": "apo-other",
+      "root": "\u62bd\u8c61/\u5176\u4ed6",
+      "meaning": "",
+      "descriptionCn": "\u62bd\u8c61/\u5176\u4ed6\u7c7b\u6d3e\u751f",
+      "type": "category",
+      "parentRootId": "apo-ab",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>apo-ab>apo-other",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u5176\u4ed6",
+      "tags": [
+        "category",
+        "other"
+      ],
+      "wordCount": 3
+    },
+    {
+      "rootId": "abundant",
+      "root": "abundant",
+      "meaning": "",
+      "descriptionCn": "\u4e30\u5bcc\u7684",
+      "type": "word-family",
+      "parentRootId": "apo-ab",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>apo-ab>abundant",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "abound",
+      "root": "abound",
+      "meaning": "",
+      "descriptionCn": "\u5145\u6ee1",
+      "type": "word-family",
+      "parentRootId": "abundant",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>apo-ab>abundant>abound",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "abuse",
+      "root": "abuse",
+      "meaning": "",
+      "descriptionCn": "\u6ee5\u7528",
+      "type": "word-family",
+      "parentRootId": "abundant",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>apo-ab>abundant>abuse",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "abundance",
+      "root": "abundance",
+      "meaning": "",
+      "descriptionCn": "\u4e30\u5bcc",
+      "type": "word-family",
+      "parentRootId": "abundant",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>apo-ab>abundant>abundance",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ante",
+      "root": "ante-",
+      "meaning": "before",
+      "descriptionCn": "\u5148\u524d",
+      "type": "prefix",
+      "parentRootId": "a-prefix",
+      "rootLevel": 3,
+      "rootPath": "a>a-prefix>ante",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "prefix",
+        "other"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "anterior",
+      "root": "anterior",
+      "meaning": "",
+      "descriptionCn": "\u524d\u9762\u7684",
+      "type": "word-family",
+      "parentRootId": "ante",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ante>anterior",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antediluvian",
+      "root": "antediluvian",
+      "meaning": "",
+      "descriptionCn": "\u5927\u6d2a\u6c34\u4e4b\u524d\uff1b\u8fdc\u53e4\u7684",
+      "type": "word-family",
+      "parentRootId": "anterior",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>anterior>antediluvian",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antemarital",
+      "root": "antemarital",
+      "meaning": "",
+      "descriptionCn": "\u5a5a\u524d\u7684",
+      "type": "word-family",
+      "parentRootId": "anterior",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>anterior>antemarital",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antenatal",
+      "root": "antenatal",
+      "meaning": "",
+      "descriptionCn": "\u51fa\u751f\u524d",
+      "type": "word-family",
+      "parentRootId": "anterior",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>anterior>antenatal",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antemortem",
+      "root": "antemortem",
+      "meaning": "",
+      "descriptionCn": "\u4e34\u6b7b\u524d",
+      "type": "word-family",
+      "parentRootId": "anterior",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>anterior>antemortem",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "anteprandial",
+      "root": "anteprandial",
+      "meaning": "",
+      "descriptionCn": "\u996d\u524d\u7684",
+      "type": "word-family",
+      "parentRootId": "anterior",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>anterior>anteprandial",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antewar",
+      "root": "antewar",
+      "meaning": "",
+      "descriptionCn": "\u6218\u4e89\u524d",
+      "type": "word-family",
+      "parentRootId": "anterior",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>anterior>antewar",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antecessor",
+      "root": "antecessor",
+      "meaning": "",
+      "descriptionCn": "\u5148\u884c\u8005\uff1b\u7956\u5148",
+      "type": "word-family",
+      "parentRootId": "ante",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ante>antecessor",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antechapel",
+      "root": "antechapel",
+      "meaning": "",
+      "descriptionCn": "\u6559\u5802\u95e8\u5385",
+      "type": "word-family",
+      "parentRootId": "antecessor",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>antecessor>antechapel",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antehuman",
+      "root": "antehuman",
+      "meaning": "",
+      "descriptionCn": "\u5728\u4eba\u7c7b\u4ee5\u524d\u7684",
+      "type": "word-family",
+      "parentRootId": "antecessor",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>antecessor>antehuman",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "anteroom",
+      "root": "anteroom",
+      "meaning": "",
+      "descriptionCn": "\u63a5\u5f85\u5ba4",
+      "type": "word-family",
+      "parentRootId": "antecessor",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ante>antecessor>anteroom",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "anticipate",
+      "root": "anticipate",
+      "meaning": "",
+      "descriptionCn": "\u9884\u6599",
+      "type": "word-family",
+      "parentRootId": "ante",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ante>anticipate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "antenna",
+      "root": "antenna",
+      "meaning": "",
+      "descriptionCn": "\u89e6\u89d2\uff1b\u5929\u7ebf",
+      "type": "word-family",
+      "parentRootId": "ante",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ante>antenna",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "anti",
+      "root": "anti-",
+      "meaning": "against",
+      "descriptionCn": "\u76f8\u53cd\uff1b\u5bf9\u6297",
+      "type": "prefix",
+      "parentRootId": "a-prefix",
+      "rootLevel": 3,
+      "rootPath": "a>a-prefix>anti",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "prefix",
+        "other"
+      ],
+      "wordCount": 5
+    },
+    {
+      "rootId": "ad-add-axx",
+      "root": "ad=add=axx",
+      "meaning": "toward/intensify",
+      "descriptionCn": "\u52a0\u5f3a",
+      "type": "prefix",
+      "parentRootId": "a-prefix",
+      "rootLevel": 3,
+      "rootPath": "a>a-prefix>ad-add-axx",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "prefix",
+        "other"
+      ],
+      "wordCount": 10
+    },
+    {
+      "rootId": "ad-core",
+      "root": "ad-",
+      "meaning": "",
+      "descriptionCn": "\u57fa\u7840\u5f62\u5f0f",
+      "type": "branch",
+      "parentRootId": "ad-add-axx",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "adhere",
+      "root": "adhere",
+      "meaning": "",
+      "descriptionCn": "\u4f9d\u9644",
+      "type": "word-family",
+      "parentRootId": "ad-core",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "additional",
+      "root": "additional",
+      "meaning": "",
+      "descriptionCn": "\u9644\u52a0\u7684",
+      "type": "word-family",
+      "parentRootId": "adhere",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>additional",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adjacent",
+      "root": "adjacent",
+      "meaning": "",
+      "descriptionCn": "\u90bb\u63a5\u7684",
+      "type": "word-family",
+      "parentRootId": "adhere",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjacent",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adjective",
+      "root": "adjective",
+      "meaning": "",
+      "descriptionCn": "\u5f62\u5bb9\u8bcd",
+      "type": "word-family",
+      "parentRootId": "adjacent",
+      "rootLevel": 7,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjacent>adjective",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adjoin",
+      "root": "adjoin",
+      "meaning": "",
+      "descriptionCn": "\u9760\u8fd1",
+      "type": "word-family",
+      "parentRootId": "adhere",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjoin",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adjust",
+      "root": "adjust",
+      "meaning": "",
+      "descriptionCn": "\u8c03\u8282\uff1b\u6574\u987f",
+      "type": "word-family",
+      "parentRootId": "adhere",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjust",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adulterate",
+      "root": "adulterate",
+      "meaning": "",
+      "descriptionCn": "\u53c2\u6742",
+      "type": "word-family",
+      "parentRootId": "adhere",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adulterate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adjure",
+      "root": "adjure",
+      "meaning": "",
+      "descriptionCn": "\u6073\u8bf7",
+      "type": "word-family",
+      "parentRootId": "ad-core",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adjure",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adjourn",
+      "root": "adjourn",
+      "meaning": "",
+      "descriptionCn": "\u5ef6\u671f\uff1b\u4f11\u4f1a",
+      "type": "word-family",
+      "parentRootId": "adjure",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>adjure>adjourn",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "admonish",
+      "root": "admonish",
+      "meaning": "",
+      "descriptionCn": "\u529d\u544a",
+      "type": "word-family",
+      "parentRootId": "ad-core",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admonish",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "admit",
+      "root": "admit",
+      "meaning": "",
+      "descriptionCn": "\u5141\u8bb8\u8fdb\u5165",
+      "type": "word-family",
+      "parentRootId": "ad-core",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "advent",
+      "root": "advent",
+      "meaning": "",
+      "descriptionCn": "\u5230\u6765",
+      "type": "word-family",
+      "parentRootId": "admit",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advent",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adventure",
+      "root": "adventure",
+      "meaning": "",
+      "descriptionCn": "\u5192\u9669",
+      "type": "word-family",
+      "parentRootId": "advent",
+      "rootLevel": 7,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advent>adventure",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "adverse",
+      "root": "adverse",
+      "meaning": "",
+      "descriptionCn": "\u654c\u5bf9\u7684",
+      "type": "word-family",
+      "parentRootId": "admit",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>adverse",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "advertise",
+      "root": "advertise",
+      "meaning": "",
+      "descriptionCn": "\u516c\u544a",
+      "type": "word-family",
+      "parentRootId": "admit",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advertise",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "advisable",
+      "root": "advisable",
+      "meaning": "",
+      "descriptionCn": "\u53ef\u53d6\u7684",
+      "type": "word-family",
+      "parentRootId": "admit",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advisable",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "administer",
+      "root": "administer",
+      "meaning": "",
+      "descriptionCn": "\u5b9e\u65bd\uff1b\u638c\u7ba1",
+      "type": "word-family",
+      "parentRootId": "admit",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>administer",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "administration",
+      "root": "administration",
+      "meaning": "",
+      "descriptionCn": "\u7ecf\u8425\uff1b\u884c\u653f\u90e8\u95e8",
+      "type": "word-family",
+      "parentRootId": "administer",
+      "rootLevel": 7,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>administer>administration",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ad-a-an",
+      "root": "a-=an-",
+      "meaning": "",
+      "descriptionCn": "\u589e\u52a0",
+      "type": "branch",
+      "parentRootId": "ad-add-axx",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 10
+    },
+    {
+      "rootId": "abide",
+      "root": "abide",
+      "meaning": "",
+      "descriptionCn": "\u575a\u6301",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>abide",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "augment-enhance",
+      "root": "augment=enhance",
+      "meaning": "",
+      "descriptionCn": "\u589e\u52a0",
+      "type": "branch",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>augment-enhance",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 2
+    },
+    {
+      "rootId": "astir",
+      "root": "astir",
+      "meaning": "",
+      "descriptionCn": "\u6fc0\u52a8\u7684",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aspire",
+      "root": "aspire",
+      "meaning": "",
+      "descriptionCn": "\u6e34\u671b\uff1b\u8ffd\u6c42",
+      "type": "word-family",
+      "parentRootId": "astir",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>aspire",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ameliorate",
+      "root": "ameliorate",
+      "meaning": "",
+      "descriptionCn": "\u6539\u5584",
+      "type": "word-family",
+      "parentRootId": "astir",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>ameliorate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "astray",
+      "root": "astray",
+      "meaning": "",
+      "descriptionCn": "\u8ff7\u9014\u7684",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astray",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ascribe",
+      "root": "ascribe",
+      "meaning": "",
+      "descriptionCn": "\u5f52\u56e0\u4e8e",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>ascribe",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aver",
+      "root": "aver",
+      "meaning": "",
+      "descriptionCn": "\u58f0\u79f0\uff1b\u65ad\u8a00",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avow",
+      "root": "avow",
+      "meaning": "",
+      "descriptionCn": "\u516c\u5f00\u58f0\u660e",
+      "type": "word-family",
+      "parentRootId": "aver",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver>avow",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "avenue",
+      "root": "avenue",
+      "meaning": "",
+      "descriptionCn": "\u6797\u836b\u9053\uff1b\u65b9\u6cd5\u9014\u5f84",
+      "type": "word-family",
+      "parentRootId": "aver",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver>avenue",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "abut",
+      "root": "abut",
+      "meaning": "",
+      "descriptionCn": "\u90bb\u63a5",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>abut",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amass",
+      "root": "amass",
+      "meaning": "",
+      "descriptionCn": "\u79ef\u84c4",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>amass",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amenable",
+      "root": "amenable",
+      "meaning": "",
+      "descriptionCn": "\u5e94\u670d\u4ece\u7684",
+      "type": "word-family",
+      "parentRootId": "ad-a-an",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>amenable",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ad-ag",
+      "root": "ag-",
+      "meaning": "",
+      "descriptionCn": "g \u524d\u53d8\u4f53",
+      "type": "branch",
+      "parentRootId": "ad-add-axx",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ag",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 4
+    },
+    {
+      "rootId": "agglomerate",
+      "root": "agglomerate",
+      "meaning": "",
+      "descriptionCn": "\u5927\u5757",
+      "type": "word-family",
+      "parentRootId": "ad-ag",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ag>agglomerate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aggrade",
+      "root": "aggrade",
+      "meaning": "",
+      "descriptionCn": "\u6de4\u79ef",
+      "type": "word-family",
+      "parentRootId": "ad-ag",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggrade",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aggravate",
+      "root": "aggravate",
+      "meaning": "",
+      "descriptionCn": "\u52a0\u91cd\uff1b\u6076\u5316",
+      "type": "word-family",
+      "parentRootId": "ad-ag",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggravate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aggress",
+      "root": "aggress",
+      "meaning": "",
+      "descriptionCn": "\u653b\u51fb",
+      "type": "word-family",
+      "parentRootId": "ad-ag",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggress",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "against",
+      "root": "against",
+      "meaning": "",
+      "descriptionCn": "\u53cd\u5bf9",
+      "type": "word-family",
+      "parentRootId": "aggress",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggress>against",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "aggrieve",
+      "root": "aggrieve",
+      "meaning": "",
+      "descriptionCn": "\u4f7f\u70e6\u607c",
+      "type": "word-family",
+      "parentRootId": "aggress",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggress>aggrieve",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ad-af",
+      "root": "af-",
+      "meaning": "",
+      "descriptionCn": "f \u524d\u53d8\u4f53",
+      "type": "branch",
+      "parentRootId": "ad-add-axx",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 6
+    },
+    {
+      "rootId": "affiance",
+      "root": "affiance",
+      "meaning": "",
+      "descriptionCn": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+      "type": "word-family",
+      "parentRootId": "ad-af",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af>affiance",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "affiliate",
+      "root": "affiliate",
+      "meaning": "",
+      "descriptionCn": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
+      "type": "word-family",
+      "parentRootId": "ad-af",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af>affiliate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "afforest",
+      "root": "afforest",
+      "meaning": "",
+      "descriptionCn": "\u9020\u6797\u4e8e",
+      "type": "word-family",
+      "parentRootId": "ad-af",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af>afforest",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "affright",
+      "root": "affright",
+      "meaning": "",
+      "descriptionCn": "\u60ca\u5413\uff1b\u6050\u6016",
+      "type": "word-family",
+      "parentRootId": "ad-af",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af>affright",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "affusion",
+      "root": "affusion",
+      "meaning": "",
+      "descriptionCn": "\u6d47\u704c",
+      "type": "word-family",
+      "parentRootId": "ad-af",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af>affusion",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "affair",
+      "root": "affair",
+      "meaning": "",
+      "descriptionCn": "\u4e8b\u52a1",
+      "type": "word-family",
+      "parentRootId": "ad-af",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af>affair",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "afford",
+      "root": "afford",
+      "meaning": "",
+      "descriptionCn": "\u62c5\u8d1f\u5f97\u8d77",
+      "type": "word-family",
+      "parentRootId": "affair",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-af>affair>afford",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ad-aug",
+      "root": "aug-=auc-=aut-",
+      "meaning": "",
+      "descriptionCn": "\u589e\u52a0\u3001\u521b\u9020",
+      "type": "branch",
+      "parentRootId": "ad-add-axx",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 6
+    },
+    {
+      "rootId": "aug-augment",
+      "root": "augment",
+      "meaning": "",
+      "descriptionCn": "\u589e\u5927",
+      "type": "word-family",
+      "parentRootId": "ad-aug",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-aug>aug-augment",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "august",
+      "root": "august",
+      "meaning": "",
+      "descriptionCn": "\u5c0a\u4e25\u7684",
+      "type": "word-family",
+      "parentRootId": "ad-aug",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-aug>august",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "author",
+      "root": "author",
+      "meaning": "",
+      "descriptionCn": "\u521b\u9020\u8005\uff1b\u4f5c\u8005",
+      "type": "word-family",
+      "parentRootId": "ad-aug",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "authorize",
+      "root": "authorize",
+      "meaning": "",
+      "descriptionCn": "\u6388\u6743\uff1b\u59d4\u6258",
+      "type": "word-family",
+      "parentRootId": "author",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authorize",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "authority",
+      "root": "authority",
+      "meaning": "",
+      "descriptionCn": "\u6743\u5a01\u7684",
+      "type": "word-family",
+      "parentRootId": "author",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authority",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "authentic",
+      "root": "authentic",
+      "meaning": "",
+      "descriptionCn": "\u53ef\u4fe1\u7684\uff1b\u6743\u5a01\u7684",
+      "type": "word-family",
+      "parentRootId": "authority",
+      "rootLevel": 7,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authority>authentic",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ad-ac",
+      "root": "ac-",
+      "meaning": "",
+      "descriptionCn": "c/k \u524d\u53d8\u4f53",
+      "type": "branch",
+      "parentRootId": "ad-add-axx",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 13
+    },
+    {
+      "rootId": "accuse",
+      "root": "accuse",
+      "meaning": "",
+      "descriptionCn": "\u63a7\u544a\uff1b\u8c34\u8d23",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accuse",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accumulate",
+      "root": "accumulate",
+      "meaning": "",
+      "descriptionCn": "\u79ef\u7d2f",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accumulate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ad-ac-acute",
+      "root": "acute",
+      "meaning": "",
+      "descriptionCn": "\u5267\u70c8\uff1b\u5c16\u7684",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>ad-ac-acute",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accommodate",
+      "root": "accommodate",
+      "meaning": "",
+      "descriptionCn": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accommodate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accommodation",
+      "root": "accommodation",
+      "meaning": "",
+      "descriptionCn": "\u4f4f\u5bbf",
+      "type": "word-family",
+      "parentRootId": "accommodate",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accommodate>accommodation",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accumbent",
+      "root": "accumbent",
+      "meaning": "",
+      "descriptionCn": "\u6a2a\u5367",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accumbent",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accomplish",
+      "root": "accomplish",
+      "meaning": "",
+      "descriptionCn": "\u5b9e\u73b0",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accomplish",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accompany",
+      "root": "accompany",
+      "meaning": "",
+      "descriptionCn": "\u966a\u4f34",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accompany",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accession",
+      "root": "accession",
+      "meaning": "",
+      "descriptionCn": "\u5c31\u804c",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accession",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accost",
+      "root": "accost",
+      "meaning": "",
+      "descriptionCn": "\u6253\u62db\u547c\uff1b\u52fe\u5f15",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accost",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "accessory",
+      "root": "accessory",
+      "meaning": "",
+      "descriptionCn": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accessory",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acclive",
+      "root": "acclive",
+      "meaning": "",
+      "descriptionCn": "\u503e\u659c\u7684",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acclive",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acquire",
+      "root": "acquire",
+      "meaning": "",
+      "descriptionCn": "\u83b7\u5f97",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acquaint",
+      "root": "acquaint",
+      "meaning": "",
+      "descriptionCn": "\u4f7f\u4e86\u89e3",
+      "type": "word-family",
+      "parentRootId": "acquire",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquaint",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acquaintance",
+      "root": "acquaintance",
+      "meaning": "",
+      "descriptionCn": "\u8ba4\u8bc6\uff1b\u719f\u4eba",
+      "type": "word-family",
+      "parentRootId": "acquaint",
+      "rootLevel": 7,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquaint>acquaintance",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acquisition",
+      "root": "acquisition",
+      "meaning": "",
+      "descriptionCn": "\u83b7\u5f97\uff1b\u517b\u6210",
+      "type": "word-family",
+      "parentRootId": "acquire",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquisition",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acquisitive",
+      "root": "acquisitive",
+      "meaning": "",
+      "descriptionCn": "\u6e34\u671b\u5f97\u5230\u7684\uff1b\u8d2a\u5a6a\u7684",
+      "type": "word-family",
+      "parentRootId": "acquire",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquisitive",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "acknowledge",
+      "root": "acknowledge",
+      "meaning": "",
+      "descriptionCn": "\u7b54\u8c22\uff1b\u627f\u8ba4",
+      "type": "word-family",
+      "parentRootId": "ad-ac",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acknowledge",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ad-al",
+      "root": "al-",
+      "meaning": "",
+      "descriptionCn": "l \u524d\u53d8\u4f53",
+      "type": "branch",
+      "parentRootId": "ad-add-axx",
+      "rootLevel": 4,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "branch",
+        "other"
+      ],
+      "wordCount": 9
+    },
+    {
+      "rootId": "allege",
+      "root": "allege",
+      "meaning": "",
+      "descriptionCn": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
+      "type": "word-family",
+      "parentRootId": "ad-al",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>allege",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "alleviate",
+      "root": "alleviate",
+      "meaning": "",
+      "descriptionCn": "\u51cf\u8f7b\uff1b\u7f13\u548c",
+      "type": "word-family",
+      "parentRootId": "ad-al",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>alleviate",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "alliance",
+      "root": "alliance",
+      "meaning": "",
+      "descriptionCn": "\u540c\u76df",
+      "type": "word-family",
+      "parentRootId": "ad-al",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "ally",
+      "root": "ally",
+      "meaning": "",
+      "descriptionCn": "\u540c\u76df",
+      "type": "word-family",
+      "parentRootId": "alliance",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance>ally",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "allowance",
+      "root": "allowance",
+      "meaning": "",
+      "descriptionCn": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
+      "type": "word-family",
+      "parentRootId": "alliance",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance>allowance",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "amplifier",
+      "root": "amplifier",
+      "meaning": "",
+      "descriptionCn": "\u653e\u5927\uff1b\u589e\u5f3a",
+      "type": "word-family",
+      "parentRootId": "ad-al",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>amplifier",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "assembly",
+      "root": "assembly",
+      "meaning": "",
+      "descriptionCn": "\u96c6\u5408",
+      "type": "word-family",
+      "parentRootId": "ad-al",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>assembly",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "approve",
+      "root": "approve",
+      "meaning": "",
+      "descriptionCn": "\u8d5e\u6210",
+      "type": "word-family",
+      "parentRootId": "ad-al",
+      "rootLevel": 5,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>approve",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    },
+    {
+      "rootId": "approval",
+      "root": "approval",
+      "meaning": "",
+      "descriptionCn": "\u8d5e\u6210",
+      "type": "word-family",
+      "parentRootId": "approve",
+      "rootLevel": 6,
+      "rootPath": "a>a-prefix>ad-add-axx>ad-al>approve>approval",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406",
+      "sourceLabel": "\u524d\u7f00",
+      "tags": [
+        "word-family",
+        "other"
+      ],
+      "wordCount": 1
+    }
+  ]
+}

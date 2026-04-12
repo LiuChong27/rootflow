@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "ambul",
+  "root": "ambul=walk=\u8d70",
+  "meaning": "walk",
+  "descriptionCn": "\u8d70",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambition",
+      "word": "ambition",
+      "display": "Ambition",
+      "phonetic": "",
+      "translation": "\u96c4\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "ambulance",
+      "word": "ambulance",
+      "display": "Ambulance",
+      "phonetic": "",
+      "translation": "\u6551\u62a4\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-other",
+  "rootLevel": 3,
+  "rootPath": "a>a-other>ambul",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

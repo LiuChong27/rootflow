@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "affusion",
+  "root": "affusion",
+  "meaning": "",
+  "descriptionCn": "\u6d47\u704c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "affusion-affusion-2",
+      "word": "affusion",
+      "display": "Affusion",
+      "phonetic": "",
+      "translation": "\u6d47\u704c",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-af",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-af>affusion",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

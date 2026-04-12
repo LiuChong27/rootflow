@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "administration",
+  "root": "administration",
+  "meaning": "",
+  "descriptionCn": "\u7ecf\u8425\uff1b\u884c\u653f\u90e8\u95e8",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "administration",
+      "word": "administration",
+      "display": "Administration",
+      "phonetic": "",
+      "translation": "\u7ecf\u8425\uff1b\u884c\u653f\u90e8\u95e8",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "administer",
+  "rootLevel": 7,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>administer>administration",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

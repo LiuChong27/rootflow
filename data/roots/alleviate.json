@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "alleviate",
+  "root": "alleviate",
+  "meaning": "",
+  "descriptionCn": "\u51cf\u8f7b\uff1b\u7f13\u548c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "alleviate-alleviate-2",
+      "word": "alleviate",
+      "display": "Alleviate",
+      "phonetic": "",
+      "translation": "\u51cf\u8f7b\uff1b\u7f13\u548c",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-al",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-al>alleviate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

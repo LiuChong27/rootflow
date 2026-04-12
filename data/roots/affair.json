@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "affair",
+  "root": "affair",
+  "meaning": "",
+  "descriptionCn": "\u4e8b\u52a1",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "affair-affair-2",
+      "word": "affair",
+      "display": "Affair",
+      "phonetic": "",
+      "translation": "\u4e8b\u52a1",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-af",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-af>affair",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

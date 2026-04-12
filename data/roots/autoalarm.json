@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "autoalarm",
+  "root": "autoalarm",
+  "meaning": "",
+  "descriptionCn": "\u81ea\u52a8\u62a5\u8b66\u5668",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "autoalarm-autoalarm-2",
+      "word": "autoalarm",
+      "display": "Autoalarm",
+      "phonetic": "",
+      "translation": "\u81ea\u52a8\u62a5\u8b66\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "automatic",
+  "rootLevel": 4,
+  "rootPath": "a>auto>automatic>autoalarm",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

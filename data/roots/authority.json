@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "authority",
+  "root": "authority",
+  "meaning": "",
+  "descriptionCn": "\u6743\u5a01\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "authority-authority-2",
+      "word": "authority",
+      "display": "Authority",
+      "phonetic": "",
+      "translation": "\u6743\u5a01\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "author",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authority",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

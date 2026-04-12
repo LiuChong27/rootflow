@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "anticipate",
+  "root": "anticipate",
+  "meaning": "",
+  "descriptionCn": "\u9884\u6599",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anticipate-anticipate-2",
+      "word": "anticipate",
+      "display": "Anticipate",
+      "phonetic": "",
+      "translation": "\u9884\u6599",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ante",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ante>anticipate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

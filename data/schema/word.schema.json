@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rootflow.dev/schema/word.schema.json",
+  "title": "RootflowWord",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "word",
+    "translation",
+    "tags"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "word": {
+      "type": "string",
+      "minLength": 1
+    },
+    "display": {
+      "type": "string"
+    },
+    "phonetic": {
+      "type": "string"
+    },
+    "translation": {
+      "type": "string"
+    },
+    "sentence": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "level": {
+      "type": "integer",
+      "minimum": 1
+    }
+  }
+}
+

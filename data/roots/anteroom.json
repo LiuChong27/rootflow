@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "anteroom",
+  "root": "anteroom",
+  "meaning": "",
+  "descriptionCn": "\u63a5\u5f85\u5ba4",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anteroom",
+      "word": "anteroom",
+      "display": "Anteroom",
+      "phonetic": "",
+      "translation": "\u63a5\u5f85\u5ba4",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "antecessor",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ante>antecessor>anteroom",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

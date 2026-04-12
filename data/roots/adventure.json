@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "adventure",
+  "root": "adventure",
+  "meaning": "",
+  "descriptionCn": "\u5192\u9669",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adventure",
+      "word": "adventure",
+      "display": "Adventure",
+      "phonetic": "",
+      "translation": "\u5192\u9669",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "advent",
+  "rootLevel": 7,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advent>adventure",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

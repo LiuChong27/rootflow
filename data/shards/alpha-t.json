@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-09",
+  "strategy": "alpha",
+  "shardId": "alpha-t",
+  "rootIds": [
+    "transact",
+    "transaction"
+  ],
+  "roots": {
+    "transact": {
+      "version": 1,
+      "rootId": "transact",
+      "root": "transact",
+      "meaning": "",
+      "descriptionCn": "\u529e\u7406\uff1b\u4ea4\u6613",
+      "updatedAt": "2026-04-09",
+      "words": [
+        {
+          "id": "transact",
+          "word": "transact",
+          "display": "Transact",
+          "phonetic": "",
+          "translation": "\u529e\u7406\uff1b\u4ea4\u6613",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "enact",
+      "rootLevel": 5,
+      "rootPath": "a>act>actuate>enact>transact",
+      "type": "word-family",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+    },
+    "transaction": {
+      "version": 1,
+      "rootId": "transaction",
+      "root": "transaction",
+      "meaning": "",
+      "descriptionCn": "\u4ea4\u6613\uff1b\u4e70\u5356",
+      "updatedAt": "2026-04-09",
+      "words": [
+        {
+          "id": "transaction",
+          "word": "transaction",
+          "display": "Transaction",
+          "phonetic": "",
+          "translation": "\u4ea4\u6613\uff1b\u4e70\u5356",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "transact",
+      "rootLevel": 6,
+      "rootPath": "a>act>actuate>enact>transact>transaction",
+      "type": "word-family",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+    }
+  }
+}

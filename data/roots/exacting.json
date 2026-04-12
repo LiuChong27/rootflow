@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "exacting",
+  "root": "exacting",
+  "meaning": "",
+  "descriptionCn": "\u82db\u523b\u7684\uff1b\u4e25\u683c\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "exacting",
+      "word": "exacting",
+      "display": "Exacting",
+      "phonetic": "",
+      "translation": "\u82db\u523b\u7684\uff1b\u4e25\u683c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "exact",
+  "rootLevel": 6,
+  "rootPath": "a>act>actuate>enact>exact>exacting",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

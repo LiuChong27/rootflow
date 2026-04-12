@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "rootId": "ad-al",
+  "root": "al-",
+  "meaning": "",
+  "descriptionCn": "l \u524d\u53d8\u4f53",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "allege-ad-al-2",
+      "word": "allege",
+      "display": "Allege",
+      "phonetic": "",
+      "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "alleviate",
+      "word": "alleviate",
+      "display": "Alleviate",
+      "phonetic": "",
+      "translation": "\u51cf\u8f7b\uff1b\u7f13\u548c",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "alliance",
+      "word": "alliance",
+      "display": "Alliance",
+      "phonetic": "",
+      "translation": "\u540c\u76df",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "allowance",
+      "word": "allowance",
+      "display": "Allowance",
+      "phonetic": "",
+      "translation": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "ally",
+      "word": "ally",
+      "display": "Ally",
+      "phonetic": "",
+      "translation": "\u540c\u76df",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "amplifier",
+      "word": "amplifier",
+      "display": "Amplifier",
+      "phonetic": "",
+      "translation": "\u653e\u5927\uff1b\u589e\u5f3a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "approval",
+      "word": "approval",
+      "display": "Approval",
+      "phonetic": "",
+      "translation": "\u8d5e\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "approve",
+      "word": "approve",
+      "display": "Approve",
+      "phonetic": "",
+      "translation": "\u8d5e\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "assembly",
+      "word": "assembly",
+      "display": "Assembly",
+      "phonetic": "",
+      "translation": "\u96c6\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-add-axx",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

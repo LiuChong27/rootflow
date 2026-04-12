@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "enactment",
+  "root": "enactment",
+  "meaning": "",
+  "descriptionCn": "\u6cd5\u5f8b",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "enactment",
+      "word": "enactment",
+      "display": "Enactment",
+      "phonetic": "",
+      "translation": "\u6cd5\u5f8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "enact",
+  "rootLevel": 5,
+  "rootPath": "a>act>actuate>enact>enactment",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-09",
+  "strategy": "alpha",
+  "shardId": "alpha-i",
+  "rootIds": [
+    "inaudible",
+    "inaugurate",
+    "interact"
+  ],
+  "roots": {
+    "inaudible": {
+      "version": 1,
+      "rootId": "inaudible",
+      "root": "inaudible",
+      "meaning": "",
+      "descriptionCn": "\u542c\u4e0d\u89c1\u7684",
+      "updatedAt": "2026-04-09",
+      "words": [
+        {
+          "id": "inaudible-inaudible-2",
+          "word": "inaudible",
+          "display": "Inaudible",
+          "phonetic": "",
+          "translation": "\u542c\u4e0d\u89c1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "audio",
+      "rootLevel": 4,
+      "rootPath": "a>audi>audio>inaudible",
+      "type": "word-family",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+    },
+    "inaugurate": {
+      "version": 1,
+      "rootId": "inaugurate",
+      "root": "inaugurate",
+      "meaning": "",
+      "descriptionCn": "\u5f00\u5e55\u5f0f\uff1b\u5c31\u804c",
+      "updatedAt": "2026-04-09",
+      "words": [
+        {
+          "id": "inaugurate",
+          "word": "inaugurate",
+          "display": "Inaugurate",
+          "phonetic": "",
+          "translation": "\u5f00\u5e55\u5f0f\uff1b\u5c31\u804c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "augur",
+      "rootLevel": 4,
+      "rootPath": "a>avi>augur>inaugurate",
+      "type": "word-family",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+    },
+    "interact": {
+      "version": 1,
+      "rootId": "interact",
+      "root": "interact",
+      "meaning": "",
+      "descriptionCn": "\u76f8\u4e92\u4f5c\u7528",
+      "updatedAt": "2026-04-09",
+      "words": [
+        {
+          "id": "interact-interact-2",
+          "word": "interact",
+          "display": "Interact",
+          "phonetic": "",
+          "translation": "\u76f8\u4e92\u4f5c\u7528",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "act",
+      "rootLevel": 3,
+      "rootPath": "a>act>interact",
+      "type": "word-family",
+      "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+    }
+  }
+}

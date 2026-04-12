@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "altimeter",
+  "root": "altimeter",
+  "meaning": "",
+  "descriptionCn": "\u9ad8\u5ea6\u8ba1",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "altimeter-altimeter-2",
+      "word": "altimeter",
+      "display": "Altimeter",
+      "phonetic": "",
+      "translation": "\u9ad8\u5ea6\u8ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "alt",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>alt>altimeter",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aquamarine",
+  "root": "aquamarine",
+  "meaning": "",
+  "descriptionCn": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aquamarine-aquamarine-2",
+      "word": "aquamarine",
+      "display": "Aquamarine",
+      "phonetic": "",
+      "translation": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aqu",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>aqu>aquamarine",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

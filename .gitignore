@@ -1,0 +1,11 @@
+node_modules/
+unpackage/
+.hbuilderx/
+.DS_Store
+logs/
+tmp-hierarchy-check/
+tmp-A.pdf
+tmp-A.txt
+tmp-A-page1.png
+A.pdf
+*.tmp

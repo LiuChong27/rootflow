@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "a-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "",
+  "descriptionCn": "\u4e2d\u5fc3\u8282\u70b9\uff1a\u5176\u4ed6",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ac",
+      "word": "ac",
+      "display": "Ac",
+      "phonetic": "",
+      "translation": "\u5c16\u9510\u7684\uff1b\u950b\u5229\uff1b\u9178\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "alt",
+      "word": "alt",
+      "display": "Alt",
+      "phonetic": "",
+      "translation": "\u9ad8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "am-amor",
+      "word": "am=amor",
+      "display": "Am=amor",
+      "phonetic": "",
+      "translation": "\u7231",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "ambul",
+      "word": "ambul",
+      "display": "Ambul",
+      "phonetic": "",
+      "translation": "\u8d70",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anim",
+      "word": "anim",
+      "display": "Anim",
+      "phonetic": "",
+      "translation": "\u5fc3\u7075\uff1b\u751f\u547d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "antrop",
+      "word": "antrop",
+      "display": "Antrop",
+      "phonetic": "",
+      "translation": "\u4eba\u7c7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aqu",
+      "word": "aqu",
+      "display": "Aqu",
+      "phonetic": "",
+      "translation": "\u6c34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "arch",
+      "word": "arch",
+      "display": "Arch",
+      "phonetic": "",
+      "translation": "\u7edf\u6cbb\uff1b\u9996\u9886",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a",
+  "rootLevel": 2,
+  "rootPath": "a>a-other",
+  "type": "section",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

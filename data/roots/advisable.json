@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "advisable",
+  "root": "advisable",
+  "meaning": "",
+  "descriptionCn": "\u53ef\u53d6\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "advisable",
+      "word": "advisable",
+      "display": "Advisable",
+      "phonetic": "",
+      "translation": "\u53ef\u53d6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "admit",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advisable",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

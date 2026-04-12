@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "amatoria",
+  "root": "amatoria",
+  "meaning": "",
+  "descriptionCn": "\u597d\u8272\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "amatoria-amatoria-2",
+      "word": "amatoria",
+      "display": "Amatoria",
+      "phonetic": "",
+      "translation": "\u597d\u8272\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "am-amor",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>am-amor>amatoria",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

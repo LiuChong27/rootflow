@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "rootId": "apo-remove",
+  "root": "\u53bb\u9664/\u5426\u5b9a",
+  "meaning": "",
+  "descriptionCn": "\u53bb\u9664/\u5426\u5b9a\u7c7b\u6d3e\u751f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abort-apo-remove-2",
+      "word": "abort",
+      "display": "Abort",
+      "phonetic": "",
+      "translation": "\u6d41\u4ea7",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abrogate-apo-remove-2",
+      "word": "abrogate",
+      "display": "Abrogate",
+      "phonetic": "",
+      "translation": "\u5e9f\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "absolve-apo-remove-2",
+      "word": "absolve",
+      "display": "Absolve",
+      "phonetic": "",
+      "translation": "\u514d\u7f6a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "apo-ab",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>apo-ab>apo-remove",
+  "type": "category",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

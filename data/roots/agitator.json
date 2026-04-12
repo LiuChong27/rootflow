@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "agitator",
+  "root": "agitator",
+  "meaning": "",
+  "descriptionCn": "\u717d\u52a8\u8005",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "agitator",
+      "word": "agitator",
+      "display": "Agitator",
+      "phonetic": "",
+      "translation": "\u717d\u52a8\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "agitate",
+  "rootLevel": 5,
+  "rootPath": "a>act>actuate>agitate>agitator",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

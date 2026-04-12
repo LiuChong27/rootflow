@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "agitate",
+  "root": "agitate",
+  "meaning": "",
+  "descriptionCn": "\u6270\u52a8\uff1b\u6fc0\u52a8",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "agitate",
+      "word": "agitate",
+      "display": "Agitate",
+      "phonetic": "",
+      "translation": "\u6270\u52a8\uff1b\u6fc0\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "actuate",
+  "rootLevel": 4,
+  "rootPath": "a>act>actuate>agitate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

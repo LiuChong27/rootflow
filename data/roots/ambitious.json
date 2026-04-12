@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "ambitious",
+  "root": "ambitious",
+  "meaning": "",
+  "descriptionCn": "\u6709\u62b1\u8d1f\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambitious",
+      "word": "ambitious",
+      "display": "Ambitious",
+      "phonetic": "",
+      "translation": "\u6709\u62b1\u8d1f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ambition",
+  "rootLevel": 5,
+  "rootPath": "a>a-other>ambul>ambition>ambitious",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

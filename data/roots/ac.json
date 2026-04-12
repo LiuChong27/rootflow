@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "ac",
+  "root": "ac",
+  "meaning": "sharp/sour",
+  "descriptionCn": "\u5c16\u9510\u7684\uff1b\u950b\u5229\uff1b\u9178\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acet",
+      "word": "acet",
+      "display": "Acet",
+      "phonetic": "",
+      "translation": "\u53d8\u9178",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acid",
+      "word": "acid",
+      "display": "Acid",
+      "phonetic": "",
+      "translation": "\u9178\u3001\u5c16\u9178",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acrobatics",
+      "word": "acrobatics",
+      "display": "Acrobatics",
+      "phonetic": "",
+      "translation": "\u6742\u6280",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acute",
+      "word": "acute",
+      "display": "Acute",
+      "phonetic": "",
+      "translation": "\u4e25\u91cd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-other",
+  "rootLevel": 3,
+  "rootPath": "a>a-other>ac",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

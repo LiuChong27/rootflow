@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "accommodate",
+  "root": "accommodate",
+  "meaning": "",
+  "descriptionCn": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accommodate-accommodate-2",
+      "word": "accommodate",
+      "display": "Accommodate",
+      "phonetic": "",
+      "translation": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accommodate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

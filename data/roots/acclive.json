@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "acclive",
+  "root": "acclive",
+  "meaning": "",
+  "descriptionCn": "\u503e\u659c\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acclive-acclive-2",
+      "word": "acclive",
+      "display": "Acclive",
+      "phonetic": "",
+      "translation": "\u503e\u659c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acclive",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

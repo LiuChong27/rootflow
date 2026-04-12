@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "adjust",
+  "root": "adjust",
+  "meaning": "",
+  "descriptionCn": "\u8c03\u8282\uff1b\u6574\u987f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "adjust",
+      "word": "adjust",
+      "display": "Adjust",
+      "phonetic": "",
+      "translation": "\u8c03\u8282\uff1b\u6574\u987f",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "adhere",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjust",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

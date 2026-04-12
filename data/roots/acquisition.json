@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "acquisition",
+  "root": "acquisition",
+  "meaning": "",
+  "descriptionCn": "\u83b7\u5f97\uff1b\u517b\u6210",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acquisition",
+      "word": "acquisition",
+      "display": "Acquisition",
+      "phonetic": "",
+      "translation": "\u83b7\u5f97\uff1b\u517b\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "acquire",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquisition",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

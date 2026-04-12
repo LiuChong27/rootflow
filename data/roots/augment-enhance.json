@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "rootId": "augment-enhance",
+  "root": "augment=enhance",
+  "meaning": "",
+  "descriptionCn": "\u589e\u52a0",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "augment-augment-enhance-2",
+      "word": "augment",
+      "display": "Augment",
+      "phonetic": "",
+      "translation": "\u589e\u52a0",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "enhance-augment-enhance-2",
+      "word": "enhance",
+      "display": "Enhance",
+      "phonetic": "",
+      "translation": "\u589e\u52a0",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-a-an",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>augment-enhance",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

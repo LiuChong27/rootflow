@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://rootflow.dev/schema/root-meta.schema.json",
+  "title": "RootMetaIndex",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "roots"
+  ],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "updatedAt": {
+      "type": "string"
+    },
+    "roots": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "rootId",
+          "root",
+          "meaning",
+          "wordCount",
+          "file"
+        ],
+        "properties": {
+          "rootId": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "root": {
+            "type": "string"
+          },
+          "meaning": {
+            "type": "string"
+          },
+          "descriptionCn": {
+            "type": "string"
+          },
+          "parentRootId": {
+            "type": "string"
+          },
+          "rootLevel": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "rootPath": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          },
+          "wordCount": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "file": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

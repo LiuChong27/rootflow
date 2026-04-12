@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "rootId": "ad-af",
+  "root": "af-",
+  "meaning": "",
+  "descriptionCn": "f \u524d\u53d8\u4f53",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "affair",
+      "word": "affair",
+      "display": "Affair",
+      "phonetic": "",
+      "translation": "\u4e8b\u52a1",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "affiance-ad-af-2",
+      "word": "affiance",
+      "display": "Affiance",
+      "phonetic": "",
+      "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "affiliate",
+      "word": "affiliate",
+      "display": "Affiliate",
+      "phonetic": "",
+      "translation": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "afforest",
+      "word": "afforest",
+      "display": "Afforest",
+      "phonetic": "",
+      "translation": "\u9020\u6797\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "affright",
+      "word": "affright",
+      "display": "Affright",
+      "phonetic": "",
+      "translation": "\u60ca\u5413\uff1b\u6050\u6016",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "affusion",
+      "word": "affusion",
+      "display": "Affusion",
+      "phonetic": "",
+      "translation": "\u6d47\u704c",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-add-axx",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

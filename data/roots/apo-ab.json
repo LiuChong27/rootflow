@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "rootId": "apo-ab",
+  "root": "apo-=ab-",
+  "meaning": "away/from",
+  "descriptionCn": "\u8fdc\u79bb",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abaxial",
+      "word": "abaxial",
+      "display": "Abaxial",
+      "phonetic": "",
+      "translation": "\u79bb\u8f74\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abduce",
+      "word": "abduce",
+      "display": "Abduce",
+      "phonetic": "",
+      "translation": "\u5916\u5c55",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abhor",
+      "word": "abhor",
+      "display": "Abhor",
+      "phonetic": "",
+      "translation": "\u618e\u6076",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abject",
+      "word": "abject",
+      "display": "Abject",
+      "phonetic": "",
+      "translation": "\u53ef\u601c\u7684\uff1b\u5351\u9119\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abjure",
+      "word": "abjure",
+      "display": "Abjure",
+      "phonetic": "",
+      "translation": "\u653e\u5f03",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abominate",
+      "word": "abominate",
+      "display": "Abominate",
+      "phonetic": "",
+      "translation": "\u618e\u6076",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abort",
+      "word": "abort",
+      "display": "Abort",
+      "phonetic": "",
+      "translation": "\u6d41\u4ea7",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abrade",
+      "word": "abrade",
+      "display": "Abrade",
+      "phonetic": "",
+      "translation": "\u78e8\u635f\uff1b\u6298\u78e8",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abrogate",
+      "word": "abrogate",
+      "display": "Abrogate",
+      "phonetic": "",
+      "translation": "\u5e9f\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abrupt",
+      "word": "abrupt",
+      "display": "Abrupt",
+      "phonetic": "",
+      "translation": "\u7a81\u7136\u7684\uff1b\u7c97\u9c81\u65e0\u793c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abscond",
+      "word": "abscond",
+      "display": "Abscond",
+      "phonetic": "",
+      "translation": "\u6f5c\u9003\uff1b\u907f\u503a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "absent",
+      "word": "absent",
+      "display": "Absent",
+      "phonetic": "",
+      "translation": "\u7f3a\u5e2d\u7684\uff1b\u5fc3\u4e0d\u5728\u7109\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "absolve",
+      "word": "absolve",
+      "display": "Absolve",
+      "phonetic": "",
+      "translation": "\u514d\u7f6a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "absorb",
+      "word": "absorb",
+      "display": "Absorb",
+      "phonetic": "",
+      "translation": "\u5438\u6536\uff1b\u5168\u795e\u8d2f\u6ce8",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abstract",
+      "word": "abstract",
+      "display": "Abstract",
+      "phonetic": "",
+      "translation": "\u6458\u8981",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "absurd",
+      "word": "absurd",
+      "display": "Absurd",
+      "phonetic": "",
+      "translation": "\u8352\u8c2c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abundant",
+      "word": "abundant",
+      "display": "Abundant",
+      "phonetic": "",
+      "translation": "\u4e30\u5bcc\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aphorism",
+      "word": "aphorism",
+      "display": "Aphorism",
+      "phonetic": "",
+      "translation": "\u683c\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "object",
+      "word": "object",
+      "display": "Object",
+      "phonetic": "",
+      "translation": "\u5ba2\u89c2\u7684\uff1b\u53cd\u5bf9\uff1b\u5bbe\u8bed\uff1b\u5bf9\u8c61",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-prefix",
+  "rootLevel": 3,
+  "rootPath": "a>a-prefix>apo-ab",
+  "type": "prefix",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

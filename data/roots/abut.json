@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "abut",
+  "root": "abut",
+  "meaning": "",
+  "descriptionCn": "\u90bb\u63a5",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abut-abut-2",
+      "word": "abut",
+      "display": "Abut",
+      "phonetic": "",
+      "translation": "\u90bb\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-a-an",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>abut",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

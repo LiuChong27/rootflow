@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "ambition",
+  "root": "ambition",
+  "meaning": "",
+  "descriptionCn": "\u96c4\u5fc3",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "ambition-ambition-2",
+      "word": "ambition",
+      "display": "Ambition",
+      "phonetic": "",
+      "translation": "\u96c4\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ambul",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>ambul>ambition",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

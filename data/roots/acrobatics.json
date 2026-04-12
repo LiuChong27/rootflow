@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "acrobatics",
+  "root": "acrobatics",
+  "meaning": "",
+  "descriptionCn": "\u6742\u6280",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acrobatics-acrobatics-2",
+      "word": "acrobatics",
+      "display": "Acrobatics",
+      "phonetic": "",
+      "translation": "\u6742\u6280",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ac",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>ac>acrobatics",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

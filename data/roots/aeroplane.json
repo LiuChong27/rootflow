@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aeroplane",
+  "root": "aeroplane",
+  "meaning": "",
+  "descriptionCn": "\u98de\u673a",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aeroplane-aeroplane-2",
+      "word": "aeroplane",
+      "display": "Aeroplane",
+      "phonetic": "",
+      "translation": "\u98de\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aer",
+  "rootLevel": 3,
+  "rootPath": "a>aer>aeroplane",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "rootId": "a-without-abstract",
+  "root": "\u62bd\u8c61\u6982\u5ff5",
+  "meaning": "",
+  "descriptionCn": "\u62bd\u8c61\u6982\u5ff5\u7c7b\u6d3e\u751f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anarchy-a-without-abstract-2",
+      "word": "anarchy",
+      "display": "Anarchy",
+      "phonetic": "",
+      "translation": "\u653f\u6cbb\u6df7\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "abstract"
+      ],
+      "level": 1
+    },
+    {
+      "id": "atheist-a-without-abstract-2",
+      "word": "atheist",
+      "display": "Atheist",
+      "phonetic": "",
+      "translation": "\u65e0\u795e\u8bba\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "abstract"
+      ],
+      "level": 1
+    },
+    {
+      "id": "atypical-a-without-abstract-2",
+      "word": "atypical",
+      "display": "Atypical",
+      "phonetic": "",
+      "translation": "\u975e\u5178\u578b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "abstract"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-without",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>a-without>a-without-abstract",
+  "type": "category",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

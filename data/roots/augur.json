@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "augur",
+  "root": "augur",
+  "meaning": "",
+  "descriptionCn": "\u5360\u535c",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "augur-augur-2",
+      "word": "augur",
+      "display": "Augur",
+      "phonetic": "",
+      "translation": "\u5360\u535c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "avi",
+  "rootLevel": 3,
+  "rootPath": "a>avi>augur",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

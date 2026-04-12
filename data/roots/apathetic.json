@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "apathetic",
+  "root": "apathetic",
+  "meaning": "",
+  "descriptionCn": "\u51b7\u6de1\u7684\uff1b\u6f20\u4e0d\u5173\u5fc3\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "apathetic",
+      "word": "apathetic",
+      "display": "Apathetic",
+      "phonetic": "",
+      "translation": "\u51b7\u6de1\u7684\uff1b\u6f20\u4e0d\u5173\u5fc3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "emotion"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "apathy",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>a-without>a-without-emotion>apathy>apathetic",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

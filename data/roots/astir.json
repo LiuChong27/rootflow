@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "astir",
+  "root": "astir",
+  "meaning": "",
+  "descriptionCn": "\u6fc0\u52a8\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "astir-astir-2",
+      "word": "astir",
+      "display": "Astir",
+      "phonetic": "",
+      "translation": "\u6fc0\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-a-an",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

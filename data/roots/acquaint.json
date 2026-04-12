@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "acquaint",
+  "root": "acquaint",
+  "meaning": "",
+  "descriptionCn": "\u4f7f\u4e86\u89e3",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acquaint",
+      "word": "acquaint",
+      "display": "Acquaint",
+      "phonetic": "",
+      "translation": "\u4f7f\u4e86\u89e3",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "acquire",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquaint",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

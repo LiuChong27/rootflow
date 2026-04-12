@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "enact",
+  "root": "enact",
+  "meaning": "",
+  "descriptionCn": "\u5236\u5b9a\u6cd5\u5f8b\uff1b\u626e\u6f14\u89d2\u8272",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "enact",
+      "word": "enact",
+      "display": "Enact",
+      "phonetic": "",
+      "translation": "\u5236\u5b9a\u6cd5\u5f8b\uff1b\u626e\u6f14\u89d2\u8272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "actuate",
+  "rootLevel": 4,
+  "rootPath": "a>act>actuate>enact",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

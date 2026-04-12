@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "rootId": "apo-physical",
+  "root": "\u7269\u7406/\u52a8\u4f5c",
+  "meaning": "",
+  "descriptionCn": "\u7269\u7406/\u52a8\u4f5c\u7c7b\u6d3e\u751f",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abaxial-apo-physical-2",
+      "word": "abaxial",
+      "display": "Abaxial",
+      "phonetic": "",
+      "translation": "\u79bb\u8f74\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    },
+    {
+      "id": "abduce-apo-physical-2",
+      "word": "abduce",
+      "display": "Abduce",
+      "phonetic": "",
+      "translation": "\u5916\u5c55",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "apo-ab",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>apo-ab>apo-physical",
+  "type": "category",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

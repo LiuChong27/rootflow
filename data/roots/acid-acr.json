@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "acid-acr",
+  "root": "acid=acr",
+  "meaning": "",
+  "descriptionCn": "\u9178\u3001\u5c16\u9178",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acid-acid-acr-2",
+      "word": "acid",
+      "display": "Acid",
+      "phonetic": "",
+      "translation": "\u9178\u3001\u5c16\u9178",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "acr",
+      "word": "acr",
+      "display": "Acr",
+      "phonetic": "",
+      "translation": "\u9178\u3001\u5c16\u9178",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ac",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>ac>acid-acr",
+  "type": "branch",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

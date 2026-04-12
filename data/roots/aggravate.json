@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "aggravate",
+  "root": "aggravate",
+  "meaning": "",
+  "descriptionCn": "\u52a0\u91cd\uff1b\u6076\u5316",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aggravate-aggravate-2",
+      "word": "aggravate",
+      "display": "Aggravate",
+      "phonetic": "",
+      "translation": "\u52a0\u91cd\uff1b\u6076\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ag",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggravate",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

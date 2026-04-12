@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "aquation",
+  "root": "aquation",
+  "meaning": "",
+  "descriptionCn": "\u6c34\u5408\u4f5c\u7528",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aquation",
+      "word": "aquation",
+      "display": "Aquation",
+      "phonetic": "",
+      "translation": "\u6c34\u5408\u4f5c\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "aquatic",
+  "rootLevel": 5,
+  "rootPath": "a>a-other>aqu>aquatic>aquation",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

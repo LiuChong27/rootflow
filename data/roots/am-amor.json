@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "am-amor",
+  "root": "am=amor",
+  "meaning": "love",
+  "descriptionCn": "\u7231",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "amatoria",
+      "word": "amatoria",
+      "display": "Amatoria",
+      "phonetic": "",
+      "translation": "\u597d\u8272\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "enamour",
+      "word": "enamour",
+      "display": "Enamour",
+      "phonetic": "",
+      "translation": "\u4f7f\u8ff7\u604b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-other",
+  "rootLevel": 3,
+  "rootPath": "a>a-other>am-amor",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

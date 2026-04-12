@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "monarch",
+  "root": "monarch",
+  "meaning": "",
+  "descriptionCn": "\u541b\u4e3b\u5e1d\u738b",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "monarch-monarch-2",
+      "word": "monarch",
+      "display": "Monarch",
+      "phonetic": "",
+      "translation": "\u541b\u4e3b\u5e1d\u738b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "arch",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>arch>monarch",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

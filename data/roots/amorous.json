@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "amorous",
+  "root": "amorous",
+  "meaning": "",
+  "descriptionCn": "\u597d\u8272\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "amorous",
+      "word": "amorous",
+      "display": "Amorous",
+      "phonetic": "",
+      "translation": "\u597d\u8272\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "amatoria",
+  "rootLevel": 5,
+  "rootPath": "a>a-other>am-amor>amatoria>amorous",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "rootId": "ad-add-axx",
+  "root": "ad=add=axx",
+  "meaning": "toward/intensify",
+  "descriptionCn": "\u52a0\u5f3a",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abide",
+      "word": "abide",
+      "display": "Abide",
+      "phonetic": "",
+      "translation": "\u575a\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "accuse",
+      "word": "accuse",
+      "display": "Accuse",
+      "phonetic": "",
+      "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "adhere",
+      "word": "adhere",
+      "display": "Adhere",
+      "phonetic": "",
+      "translation": "\u4f9d\u9644",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "adjure",
+      "word": "adjure",
+      "display": "Adjure",
+      "phonetic": "",
+      "translation": "\u6073\u8bf7",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "admit",
+      "word": "admit",
+      "display": "Admit",
+      "phonetic": "",
+      "translation": "\u5141\u8bb8\u8fdb\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "admonish",
+      "word": "admonish",
+      "display": "Admonish",
+      "phonetic": "",
+      "translation": "\u529d\u544a",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "affiance",
+      "word": "affiance",
+      "display": "Affiance",
+      "phonetic": "",
+      "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "agglomerate",
+      "word": "agglomerate",
+      "display": "Agglomerate",
+      "phonetic": "",
+      "translation": "\u5927\u5757",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "allege",
+      "word": "allege",
+      "display": "Allege",
+      "phonetic": "",
+      "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "augment",
+      "word": "augment",
+      "display": "Augment",
+      "phonetic": "",
+      "translation": "\u589e\u5927",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-prefix",
+  "rootLevel": 3,
+  "rootPath": "a>a-prefix>ad-add-axx",
+  "type": "prefix",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

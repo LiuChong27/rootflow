@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "arch",
+  "root": "arch=rule",
+  "meaning": "rule/leader",
+  "descriptionCn": "\u7edf\u6cbb\uff1b\u9996\u9886",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anarchy",
+      "word": "anarchy",
+      "display": "Anarchy",
+      "phonetic": "",
+      "translation": "\u65e0\u653f\u5e9c\u72b6\u6001\uff1b\u6df7\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "architect",
+      "word": "architect",
+      "display": "Architect",
+      "phonetic": "",
+      "translation": "\u5efa\u7b51\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "hierarchy",
+      "word": "hierarchy",
+      "display": "Hierarchy",
+      "phonetic": "",
+      "translation": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "monarch",
+      "word": "monarch",
+      "display": "Monarch",
+      "phonetic": "",
+      "translation": "\u541b\u4e3b\u5e1d\u738b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-other",
+  "rootLevel": 3,
+  "rootPath": "a>a-other>arch",
+  "type": "root",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

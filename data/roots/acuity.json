@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "acuity",
+  "root": "acuity",
+  "meaning": "",
+  "descriptionCn": "\u654f\u9510",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acuity",
+      "word": "acuity",
+      "display": "Acuity",
+      "phonetic": "",
+      "translation": "\u654f\u9510",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ac-acute",
+  "rootLevel": 5,
+  "rootPath": "a>a-other>ac>ac-acute>acuity",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

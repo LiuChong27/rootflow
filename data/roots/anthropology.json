@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "anthropology",
+  "root": "anthropology",
+  "meaning": "",
+  "descriptionCn": "\u4eba\u7c7b\u5b66",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anthropology-anthropology-2",
+      "word": "anthropology",
+      "display": "Anthropology",
+      "phonetic": "",
+      "translation": "\u4eba\u7c7b\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "antrop",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>antrop>anthropology",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

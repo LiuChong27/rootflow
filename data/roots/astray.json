@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "astray",
+  "root": "astray",
+  "meaning": "",
+  "descriptionCn": "\u8ff7\u9014\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "astray-astray-2",
+      "word": "astray",
+      "display": "Astray",
+      "phonetic": "",
+      "translation": "\u8ff7\u9014\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-a-an",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astray",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

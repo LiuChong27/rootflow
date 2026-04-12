@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "atmosphere",
+  "root": "atmosphere",
+  "meaning": "",
+  "descriptionCn": "\u6c1b\u56f4\uff1b\u5927\u6c14\u5c42",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "atmosphere",
+      "word": "atmosphere",
+      "display": "Atmosphere",
+      "phonetic": "",
+      "translation": "\u6c1b\u56f4\uff1b\u5927\u6c14\u5c42",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ambiance-ambience",
+  "rootLevel": 7,
+  "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience>atmosphere",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

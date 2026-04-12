@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "aspire",
+  "root": "aspire",
+  "meaning": "",
+  "descriptionCn": "\u6e34\u671b\uff1b\u8ffd\u6c42",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "aspire",
+      "word": "aspire",
+      "display": "Aspire",
+      "phonetic": "",
+      "translation": "\u6e34\u671b\uff1b\u8ffd\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "astir",
+  "rootLevel": 6,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>aspire",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

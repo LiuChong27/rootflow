@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "acquaintance",
+  "root": "acquaintance",
+  "meaning": "",
+  "descriptionCn": "\u8ba4\u8bc6\uff1b\u719f\u4eba",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "acquaintance",
+      "word": "acquaintance",
+      "display": "Acquaintance",
+      "phonetic": "",
+      "translation": "\u8ba4\u8bc6\uff1b\u719f\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "acquaint",
+  "rootLevel": 7,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquaint>acquaintance",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

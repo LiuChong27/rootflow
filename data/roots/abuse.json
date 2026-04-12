@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "abuse",
+  "root": "abuse",
+  "meaning": "",
+  "descriptionCn": "\u6ee5\u7528",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abuse",
+      "word": "abuse",
+      "display": "Abuse",
+      "phonetic": "",
+      "translation": "\u6ee5\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "abundant",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>apo-ab>abundant>abuse",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

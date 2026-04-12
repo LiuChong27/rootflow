@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "antenna",
+  "root": "antenna",
+  "meaning": "",
+  "descriptionCn": "\u89e6\u89d2\uff1b\u5929\u7ebf",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "antenna-antenna-2",
+      "word": "antenna",
+      "display": "Antenna",
+      "phonetic": "",
+      "translation": "\u89e6\u89d2\uff1b\u5929\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ante",
+  "rootLevel": 4,
+  "rootPath": "a>a-prefix>ante>antenna",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

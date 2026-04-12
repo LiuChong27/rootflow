@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "audio",
+  "root": "audio",
+  "meaning": "",
+  "descriptionCn": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "audio-audio-2",
+      "word": "audio",
+      "display": "Audio",
+      "phonetic": "",
+      "translation": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "audiogram",
+      "word": "audiogram",
+      "display": "Audiogram",
+      "phonetic": "",
+      "translation": "\u542c\u529b\u654f\u611f\u56fe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "audiology",
+      "word": "audiology",
+      "display": "Audiology",
+      "phonetic": "",
+      "translation": "\u542c\u89c9\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "inaudible",
+      "word": "inaudible",
+      "display": "Inaudible",
+      "phonetic": "",
+      "translation": "\u542c\u4e0d\u89c1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "audi",
+  "rootLevel": 3,
+  "rootPath": "a>audi>audio",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

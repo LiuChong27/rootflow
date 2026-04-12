@@ -1,0 +1,6570 @@
+[
+  {
+    "id": "antrop",
+    "word": "antrop",
+    "display": "Antrop",
+    "phonetic": "",
+    "translation": "\u4eba\u7c7b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ac",
+    "word": "ac",
+    "display": "Ac",
+    "phonetic": "",
+    "translation": "\u5c16\u9510\u7684\uff1b\u950b\u5229\uff1b\u9178\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ambul",
+    "word": "ambul",
+    "display": "Ambul",
+    "phonetic": "",
+    "translation": "\u8d70",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "arch",
+    "word": "arch",
+    "display": "Arch",
+    "phonetic": "",
+    "translation": "\u7edf\u6cbb\uff1b\u9996\u9886",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "am-amor",
+    "word": "am=amor",
+    "display": "Am=amor",
+    "phonetic": "",
+    "translation": "\u7231",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "anim",
+    "word": "anim",
+    "display": "Anim",
+    "phonetic": "",
+    "translation": "\u5fc3\u7075\uff1b\u751f\u547d",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "alt",
+    "word": "alt",
+    "display": "Alt",
+    "phonetic": "",
+    "translation": "\u9ad8",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aqu",
+    "word": "aqu",
+    "display": "Aqu",
+    "phonetic": "",
+    "translation": "\u6c34",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-other",
+    "rootPath": "a>a-other",
+    "sourceLabel": ""
+  },
+  {
+    "id": "anthropology",
+    "word": "anthropology",
+    "display": "Anthropology",
+    "phonetic": "",
+    "translation": "\u4eba\u7c7b\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "antrop",
+    "rootPath": "a>a-other>antrop",
+    "sourceLabel": ""
+  },
+  {
+    "id": "anthropology-anthropology-2",
+    "word": "anthropology",
+    "display": "Anthropology",
+    "phonetic": "",
+    "translation": "\u4eba\u7c7b\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "anthropology",
+    "rootPath": "a>a-other>antrop>anthropology",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acute",
+    "word": "acute",
+    "display": "Acute",
+    "phonetic": "",
+    "translation": "\u4e25\u91cd\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ac",
+    "rootPath": "a>a-other>ac",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acet",
+    "word": "acet",
+    "display": "Acet",
+    "phonetic": "",
+    "translation": "\u53d8\u9178",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ac",
+    "rootPath": "a>a-other>ac",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acid",
+    "word": "acid",
+    "display": "Acid",
+    "phonetic": "",
+    "translation": "\u9178\u3001\u5c16\u9178",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ac",
+    "rootPath": "a>a-other>ac",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acrobatics",
+    "word": "acrobatics",
+    "display": "Acrobatics",
+    "phonetic": "",
+    "translation": "\u6742\u6280",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ac",
+    "rootPath": "a>a-other>ac",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acute-ac-acute-2",
+    "word": "acute",
+    "display": "Acute",
+    "phonetic": "",
+    "translation": "\u4e25\u91cd\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ac-acute",
+    "rootPath": "a>a-other>ac>ac-acute",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acuity",
+    "word": "acuity",
+    "display": "Acuity",
+    "phonetic": "",
+    "translation": "\u654f\u9510",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acuity",
+    "rootPath": "a>a-other>ac>ac-acute>acuity",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acumen",
+    "word": "acumen",
+    "display": "Acumen",
+    "phonetic": "",
+    "translation": "\u806a\u660e",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acumen",
+    "rootPath": "a>a-other>ac>ac-acute>acumen",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acet-acet-aceto-2",
+    "word": "acet",
+    "display": "Acet",
+    "phonetic": "",
+    "translation": "\u53d8\u9178",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acet-aceto",
+    "rootPath": "a>a-other>ac>acet-aceto",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aceto",
+    "word": "aceto",
+    "display": "Aceto",
+    "phonetic": "",
+    "translation": "\u53d8\u9178",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acet-aceto",
+    "rootPath": "a>a-other>ac>acet-aceto",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acid-acid-acr-2",
+    "word": "acid",
+    "display": "Acid",
+    "phonetic": "",
+    "translation": "\u9178\u3001\u5c16\u9178",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acid-acr",
+    "rootPath": "a>a-other>ac>acid-acr",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acr",
+    "word": "acr",
+    "display": "Acr",
+    "phonetic": "",
+    "translation": "\u9178\u3001\u5c16\u9178",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acid-acr",
+    "rootPath": "a>a-other>ac>acid-acr",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acrobatics-acrobatics-2",
+    "word": "acrobatics",
+    "display": "Acrobatics",
+    "phonetic": "",
+    "translation": "\u6742\u6280",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acrobatics",
+    "rootPath": "a>a-other>ac>acrobatics",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acrobatic",
+    "word": "acrobatic",
+    "display": "Acrobatic",
+    "phonetic": "",
+    "translation": "\u6742\u6280\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acrobatic",
+    "rootPath": "a>a-other>ac>acrobatics>acrobatic",
+    "sourceLabel": ""
+  },
+  {
+    "id": "acrobat",
+    "word": "acrobat",
+    "display": "Acrobat",
+    "phonetic": "",
+    "translation": "\u6742\u6280\u6f14\u5458",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "acrobat",
+    "rootPath": "a>a-other>ac>acrobatics>acrobat",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ambulance",
+    "word": "ambulance",
+    "display": "Ambulance",
+    "phonetic": "",
+    "translation": "\u6551\u62a4\u8f66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ambul",
+    "rootPath": "a>a-other>ambul",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ambition",
+    "word": "ambition",
+    "display": "Ambition",
+    "phonetic": "",
+    "translation": "\u96c4\u5fc3",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ambul",
+    "rootPath": "a>a-other>ambul",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ambulance-ambulance-2",
+    "word": "ambulance",
+    "display": "Ambulance",
+    "phonetic": "",
+    "translation": "\u6551\u62a4\u8f66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ambulance",
+    "rootPath": "a>a-other>ambul>ambulance",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ambition-ambition-2",
+    "word": "ambition",
+    "display": "Ambition",
+    "phonetic": "",
+    "translation": "\u96c4\u5fc3",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ambition",
+    "rootPath": "a>a-other>ambul>ambition",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ambitious",
+    "word": "ambitious",
+    "display": "Ambitious",
+    "phonetic": "",
+    "translation": "\u6709\u62b1\u8d1f\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "ambitious",
+    "rootPath": "a>a-other>ambul>ambition>ambitious",
+    "sourceLabel": ""
+  },
+  {
+    "id": "architect",
+    "word": "architect",
+    "display": "Architect",
+    "phonetic": "",
+    "translation": "\u5efa\u7b51\u5e08",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "arch",
+    "rootPath": "a>a-other>arch",
+    "sourceLabel": ""
+  },
+  {
+    "id": "hierarchy",
+    "word": "hierarchy",
+    "display": "Hierarchy",
+    "phonetic": "",
+    "translation": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "arch",
+    "rootPath": "a>a-other>arch",
+    "sourceLabel": ""
+  },
+  {
+    "id": "monarch",
+    "word": "monarch",
+    "display": "Monarch",
+    "phonetic": "",
+    "translation": "\u541b\u4e3b\u5e1d\u738b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "arch",
+    "rootPath": "a>a-other>arch",
+    "sourceLabel": ""
+  },
+  {
+    "id": "anarchy",
+    "word": "anarchy",
+    "display": "Anarchy",
+    "phonetic": "",
+    "translation": "\u65e0\u653f\u5e9c\u72b6\u6001\uff1b\u6df7\u4e71",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "arch",
+    "rootPath": "a>a-other>arch",
+    "sourceLabel": ""
+  },
+  {
+    "id": "architect-architect-2",
+    "word": "architect",
+    "display": "Architect",
+    "phonetic": "",
+    "translation": "\u5efa\u7b51\u5e08",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "architect",
+    "rootPath": "a>a-other>arch>architect",
+    "sourceLabel": ""
+  },
+  {
+    "id": "architecture",
+    "word": "architecture",
+    "display": "Architecture",
+    "phonetic": "",
+    "translation": "\u5efa\u7b51\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "architecture",
+    "rootPath": "a>a-other>arch>architect>architecture",
+    "sourceLabel": ""
+  },
+  {
+    "id": "architectural",
+    "word": "architectural",
+    "display": "Architectural",
+    "phonetic": "",
+    "translation": "\u5efa\u7b51\u5b66\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "architectural",
+    "rootPath": "a>a-other>arch>architect>architectural",
+    "sourceLabel": ""
+  },
+  {
+    "id": "hierarchy-hierarchy-2",
+    "word": "hierarchy",
+    "display": "Hierarchy",
+    "phonetic": "",
+    "translation": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "hierarchy",
+    "rootPath": "a>a-other>arch>hierarchy",
+    "sourceLabel": ""
+  },
+  {
+    "id": "monarch-monarch-2",
+    "word": "monarch",
+    "display": "Monarch",
+    "phonetic": "",
+    "translation": "\u541b\u4e3b\u5e1d\u738b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "monarch",
+    "rootPath": "a>a-other>arch>monarch",
+    "sourceLabel": ""
+  },
+  {
+    "id": "monarchy",
+    "word": "monarchy",
+    "display": "Monarchy",
+    "phonetic": "",
+    "translation": "\u541b\u4e3b\u5236",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "monarchy",
+    "rootPath": "a>a-other>arch>monarch>monarchy",
+    "sourceLabel": ""
+  },
+  {
+    "id": "anarchy-arch-anarchy-2",
+    "word": "anarchy",
+    "display": "Anarchy",
+    "phonetic": "",
+    "translation": "\u65e0\u653f\u5e9c\u72b6\u6001\uff1b\u6df7\u4e71",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "arch-anarchy",
+    "rootPath": "a>a-other>arch>arch-anarchy",
+    "sourceLabel": ""
+  },
+  {
+    "id": "enamour",
+    "word": "enamour",
+    "display": "Enamour",
+    "phonetic": "",
+    "translation": "\u4f7f\u8ff7\u604b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "am-amor",
+    "rootPath": "a>a-other>am-amor",
+    "sourceLabel": ""
+  },
+  {
+    "id": "amatoria",
+    "word": "amatoria",
+    "display": "Amatoria",
+    "phonetic": "",
+    "translation": "\u597d\u8272\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "am-amor",
+    "rootPath": "a>a-other>am-amor",
+    "sourceLabel": ""
+  },
+  {
+    "id": "enamour-enamour-2",
+    "word": "enamour",
+    "display": "Enamour",
+    "phonetic": "",
+    "translation": "\u4f7f\u8ff7\u604b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "enamour",
+    "rootPath": "a>a-other>am-amor>enamour",
+    "sourceLabel": ""
+  },
+  {
+    "id": "amatoria-amatoria-2",
+    "word": "amatoria",
+    "display": "Amatoria",
+    "phonetic": "",
+    "translation": "\u597d\u8272\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "amatoria",
+    "rootPath": "a>a-other>am-amor>amatoria",
+    "sourceLabel": ""
+  },
+  {
+    "id": "amorist",
+    "word": "amorist",
+    "display": "Amorist",
+    "phonetic": "",
+    "translation": "\u597d\u8272\u4e4b\u5f92",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "amorist",
+    "rootPath": "a>a-other>am-amor>amatoria>amorist",
+    "sourceLabel": ""
+  },
+  {
+    "id": "amorous",
+    "word": "amorous",
+    "display": "Amorous",
+    "phonetic": "",
+    "translation": "\u597d\u8272\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "amorous",
+    "rootPath": "a>a-other>am-amor>amatoria>amorous",
+    "sourceLabel": ""
+  },
+  {
+    "id": "unanimous",
+    "word": "unanimous",
+    "display": "Unanimous",
+    "phonetic": "",
+    "translation": "\u65e0\u5f02\u8bae\u7684\uff0c\u610f\u89c1\u4e00\u81f4\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "anim",
+    "rootPath": "a>a-other>anim",
+    "sourceLabel": ""
+  },
+  {
+    "id": "unanimous-unanimous-2",
+    "word": "unanimous",
+    "display": "Unanimous",
+    "phonetic": "",
+    "translation": "\u65e0\u5f02\u8bae\u7684\uff0c\u610f\u89c1\u4e00\u81f4\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "unanimous",
+    "rootPath": "a>a-other>anim>unanimous",
+    "sourceLabel": ""
+  },
+  {
+    "id": "altimeter",
+    "word": "altimeter",
+    "display": "Altimeter",
+    "phonetic": "",
+    "translation": "\u9ad8\u5ea6\u8ba1",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "alt",
+    "rootPath": "a>a-other>alt",
+    "sourceLabel": ""
+  },
+  {
+    "id": "alto",
+    "word": "alto",
+    "display": "Alto",
+    "phonetic": "",
+    "translation": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "alt",
+    "rootPath": "a>a-other>alt",
+    "sourceLabel": ""
+  },
+  {
+    "id": "exaltation",
+    "word": "exaltation",
+    "display": "Exaltation",
+    "phonetic": "",
+    "translation": "\u63d0\u5347\uff1b\u5174\u594b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "alt",
+    "rootPath": "a>a-other>alt",
+    "sourceLabel": ""
+  },
+  {
+    "id": "altar",
+    "word": "altar",
+    "display": "Altar",
+    "phonetic": "",
+    "translation": "\u796d\u575b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "alt",
+    "rootPath": "a>a-other>alt",
+    "sourceLabel": ""
+  },
+  {
+    "id": "altimeter-altimeter-2",
+    "word": "altimeter",
+    "display": "Altimeter",
+    "phonetic": "",
+    "translation": "\u9ad8\u5ea6\u8ba1",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "altimeter",
+    "rootPath": "a>a-other>alt>altimeter",
+    "sourceLabel": ""
+  },
+  {
+    "id": "alto-alto-2",
+    "word": "alto",
+    "display": "Alto",
+    "phonetic": "",
+    "translation": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "alto",
+    "rootPath": "a>a-other>alt>alto",
+    "sourceLabel": ""
+  },
+  {
+    "id": "exaltation-exaltation-2",
+    "word": "exaltation",
+    "display": "Exaltation",
+    "phonetic": "",
+    "translation": "\u63d0\u5347\uff1b\u5174\u594b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "exaltation",
+    "rootPath": "a>a-other>alt>exaltation",
+    "sourceLabel": ""
+  },
+  {
+    "id": "altar-altar-2",
+    "word": "altar",
+    "display": "Altar",
+    "phonetic": "",
+    "translation": "\u796d\u575b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "altar",
+    "rootPath": "a>a-other>alt>altar",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aquanaut",
+    "word": "aquanaut",
+    "display": "Aquanaut",
+    "phonetic": "",
+    "translation": "\u6f5c\u6c34\u4eba",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aqu",
+    "rootPath": "a>a-other>aqu",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aquamarine",
+    "word": "aquamarine",
+    "display": "Aquamarine",
+    "phonetic": "",
+    "translation": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aqu",
+    "rootPath": "a>a-other>aqu",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aqueous",
+    "word": "aqueous",
+    "display": "Aqueous",
+    "phonetic": "",
+    "translation": "\u50cf\u6c34\u4e00\u6837\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aqu",
+    "rootPath": "a>a-other>aqu",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aquatic",
+    "word": "aquatic",
+    "display": "Aquatic",
+    "phonetic": "",
+    "translation": "\u6c34\u751f\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aqu",
+    "rootPath": "a>a-other>aqu",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aqueduct",
+    "word": "aqueduct",
+    "display": "Aqueduct",
+    "phonetic": "",
+    "translation": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aqu",
+    "rootPath": "a>a-other>aqu",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aquanaut-aquanaut-2",
+    "word": "aquanaut",
+    "display": "Aquanaut",
+    "phonetic": "",
+    "translation": "\u6f5c\u6c34\u4eba",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aquanaut",
+    "rootPath": "a>a-other>aqu>aquanaut",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aquamarine-aquamarine-2",
+    "word": "aquamarine",
+    "display": "Aquamarine",
+    "phonetic": "",
+    "translation": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aquamarine",
+    "rootPath": "a>a-other>aqu>aquamarine",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aqueous-aqueous-2",
+    "word": "aqueous",
+    "display": "Aqueous",
+    "phonetic": "",
+    "translation": "\u50cf\u6c34\u4e00\u6837\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aqueous",
+    "rootPath": "a>a-other>aqu>aqueous",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aquatic-aquatic-2",
+    "word": "aquatic",
+    "display": "Aquatic",
+    "phonetic": "",
+    "translation": "\u6c34\u751f\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aquatic",
+    "rootPath": "a>a-other>aqu>aquatic",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aquation",
+    "word": "aquation",
+    "display": "Aquation",
+    "phonetic": "",
+    "translation": "\u6c34\u5408\u4f5c\u7528",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aquation",
+    "rootPath": "a>a-other>aqu>aquatic>aquation",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aqueduct-aqueduct-2",
+    "word": "aqueduct",
+    "display": "Aqueduct",
+    "phonetic": "",
+    "translation": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aqueduct",
+    "rootPath": "a>a-other>aqu>aqueduct",
+    "sourceLabel": ""
+  },
+  {
+    "id": "auspice",
+    "word": "auspice",
+    "display": "Auspice",
+    "phonetic": "",
+    "translation": "\u9884\u5146",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avi",
+    "rootPath": "a>avi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "augur",
+    "word": "augur",
+    "display": "Augur",
+    "phonetic": "",
+    "translation": "\u5360\u535c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avi",
+    "rootPath": "a>avi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avarice",
+    "word": "avarice",
+    "display": "Avarice",
+    "phonetic": "",
+    "translation": "\u8d2a\u5a6a",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avi",
+    "rootPath": "a>avi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avid",
+    "word": "avid",
+    "display": "Avid",
+    "phonetic": "",
+    "translation": "\u6e34\u671b\u7684\uff1b\u8d2a\u5a6a\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avi",
+    "rootPath": "a>avi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avian",
+    "word": "avian",
+    "display": "Avian",
+    "phonetic": "",
+    "translation": "\u9e1f\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avi",
+    "rootPath": "a>avi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aviate",
+    "word": "aviate",
+    "display": "Aviate",
+    "phonetic": "",
+    "translation": "\u98de\u884c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avi",
+    "rootPath": "a>avi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "auspice-auspice-2",
+    "word": "auspice",
+    "display": "Auspice",
+    "phonetic": "",
+    "translation": "\u9884\u5146",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "auspice",
+    "rootPath": "a>avi>auspice",
+    "sourceLabel": ""
+  },
+  {
+    "id": "auspicious",
+    "word": "auspicious",
+    "display": "Auspicious",
+    "phonetic": "",
+    "translation": "\u5409\u5146\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "auspicious",
+    "rootPath": "a>avi>auspice>auspicious",
+    "sourceLabel": ""
+  },
+  {
+    "id": "augur-augur-2",
+    "word": "augur",
+    "display": "Augur",
+    "phonetic": "",
+    "translation": "\u5360\u535c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "augur",
+    "rootPath": "a>avi>augur",
+    "sourceLabel": ""
+  },
+  {
+    "id": "inaugurate",
+    "word": "inaugurate",
+    "display": "Inaugurate",
+    "phonetic": "",
+    "translation": "\u5f00\u5e55\u5f0f\uff1b\u5c31\u804c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "inaugurate",
+    "rootPath": "a>avi>augur>inaugurate",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avarice-avarice-2",
+    "word": "avarice",
+    "display": "Avarice",
+    "phonetic": "",
+    "translation": "\u8d2a\u5a6a",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avarice",
+    "rootPath": "a>avi>avarice",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avaricious",
+    "word": "avaricious",
+    "display": "Avaricious",
+    "phonetic": "",
+    "translation": "\u8d2a\u5a6a\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avaricious",
+    "rootPath": "a>avi>avarice>avaricious",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avid-avid-2",
+    "word": "avid",
+    "display": "Avid",
+    "phonetic": "",
+    "translation": "\u6e34\u671b\u7684\uff1b\u8d2a\u5a6a\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avid",
+    "rootPath": "a>avi>avid",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avidity",
+    "word": "avidity",
+    "display": "Avidity",
+    "phonetic": "",
+    "translation": "\u8d2a\u5a6a",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avidity",
+    "rootPath": "a>avi>avid>avidity",
+    "sourceLabel": ""
+  },
+  {
+    "id": "avian-avian-2",
+    "word": "avian",
+    "display": "Avian",
+    "phonetic": "",
+    "translation": "\u9e1f\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "avian",
+    "rootPath": "a>avi>avian",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aviary",
+    "word": "aviary",
+    "display": "Aviary",
+    "phonetic": "",
+    "translation": "\u9e1f\u820d",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aviary",
+    "rootPath": "a>avi>avian>aviary",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aviarist",
+    "word": "aviarist",
+    "display": "Aviarist",
+    "phonetic": "",
+    "translation": "\u98de\u79bd\u9972\u517b\u5bb6",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aviarist",
+    "rootPath": "a>avi>avian>aviary>aviarist",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aviate-aviate-2",
+    "word": "aviate",
+    "display": "Aviate",
+    "phonetic": "",
+    "translation": "\u98de\u884c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aviate",
+    "rootPath": "a>avi>aviate",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aerobiology",
+    "word": "aerobiology",
+    "display": "Aerobiology",
+    "phonetic": "",
+    "translation": "\u5927\u6c14\u751f\u7269\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aer",
+    "rootPath": "a>aer",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aerostatics",
+    "word": "aerostatics",
+    "display": "Aerostatics",
+    "phonetic": "",
+    "translation": "\u7a7a\u6c14\u9759\u529b\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aer",
+    "rootPath": "a>aer",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aerial",
+    "word": "aerial",
+    "display": "Aerial",
+    "phonetic": "",
+    "translation": "\u822a\u7a7a\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aer",
+    "rootPath": "a>aer",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aeroplane",
+    "word": "aeroplane",
+    "display": "Aeroplane",
+    "phonetic": "",
+    "translation": "\u98de\u673a",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aer",
+    "rootPath": "a>aer",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aisle",
+    "word": "aisle",
+    "display": "Aisle",
+    "phonetic": "",
+    "translation": "\u8fc7\u9053",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aer",
+    "rootPath": "a>aer",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aerobiology-aerobiology-2",
+    "word": "aerobiology",
+    "display": "Aerobiology",
+    "phonetic": "",
+    "translation": "\u5927\u6c14\u751f\u7269\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aerobiology",
+    "rootPath": "a>aer>aerobiology",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aerostatics-aerostatics-2",
+    "word": "aerostatics",
+    "display": "Aerostatics",
+    "phonetic": "",
+    "translation": "\u7a7a\u6c14\u9759\u529b\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aerostatics",
+    "rootPath": "a>aer>aerostatics",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aerial-aerial-2",
+    "word": "aerial",
+    "display": "Aerial",
+    "phonetic": "",
+    "translation": "\u822a\u7a7a\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aerial",
+    "rootPath": "a>aer>aerial",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aeroplane-aeroplane-2",
+    "word": "aeroplane",
+    "display": "Aeroplane",
+    "phonetic": "",
+    "translation": "\u98de\u673a",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aeroplane",
+    "rootPath": "a>aer>aeroplane",
+    "sourceLabel": ""
+  },
+  {
+    "id": "aisle-aisle-2",
+    "word": "aisle",
+    "display": "Aisle",
+    "phonetic": "",
+    "translation": "\u8fc7\u9053",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "aisle",
+    "rootPath": "a>aer>aisle",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autobiography",
+    "word": "autobiography",
+    "display": "Autobiography",
+    "phonetic": "",
+    "translation": "\u81ea\u4f20\u4f5c\u8005",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "auto",
+    "rootPath": "a>auto",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autocide",
+    "word": "autocide",
+    "display": "Autocide",
+    "phonetic": "",
+    "translation": "\u81ea\u6740",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "auto",
+    "rootPath": "a>auto",
+    "sourceLabel": ""
+  },
+  {
+    "id": "automatic",
+    "word": "automatic",
+    "display": "Automatic",
+    "phonetic": "",
+    "translation": "\u81ea\u52a8\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "auto",
+    "rootPath": "a>auto",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autobiography-autobiography-2",
+    "word": "autobiography",
+    "display": "Autobiography",
+    "phonetic": "",
+    "translation": "\u81ea\u4f20\u4f5c\u8005",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "autobiography",
+    "rootPath": "a>auto>autobiography",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autocide-autocide-2",
+    "word": "autocide",
+    "display": "Autocide",
+    "phonetic": "",
+    "translation": "\u81ea\u6740",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "autocide",
+    "rootPath": "a>auto>autocide",
+    "sourceLabel": ""
+  },
+  {
+    "id": "automatic-automatic-2",
+    "word": "automatic",
+    "display": "Automatic",
+    "phonetic": "",
+    "translation": "\u81ea\u52a8\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "automatic",
+    "rootPath": "a>auto>automatic",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autoalarm",
+    "word": "autoalarm",
+    "display": "Autoalarm",
+    "phonetic": "",
+    "translation": "\u81ea\u52a8\u62a5\u8b66\u5668",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "automatic",
+    "rootPath": "a>auto>automatic",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autoscope",
+    "word": "autoscope",
+    "display": "Autoscope",
+    "phonetic": "",
+    "translation": "\u81ea\u68c0\u5668",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "automatic",
+    "rootPath": "a>auto>automatic",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autoxidation",
+    "word": "autoxidation",
+    "display": "Autoxidation",
+    "phonetic": "",
+    "translation": "\u81ea\u7136\u6c27\u5316",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "automatic",
+    "rootPath": "a>auto>automatic",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autoalarm-autoalarm-2",
+    "word": "autoalarm",
+    "display": "Autoalarm",
+    "phonetic": "",
+    "translation": "\u81ea\u52a8\u62a5\u8b66\u5668",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "autoalarm",
+    "rootPath": "a>auto>automatic>autoalarm",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autoscope-autoscope-2",
+    "word": "autoscope",
+    "display": "Autoscope",
+    "phonetic": "",
+    "translation": "\u81ea\u68c0\u5668",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "autoscope",
+    "rootPath": "a>auto>automatic>autoscope",
+    "sourceLabel": ""
+  },
+  {
+    "id": "autoxidation-autoxidation-2",
+    "word": "autoxidation",
+    "display": "Autoxidation",
+    "phonetic": "",
+    "translation": "\u81ea\u7136\u6c27\u5316",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "autoxidation",
+    "rootPath": "a>auto>automatic>autoxidation",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audio",
+    "word": "audio",
+    "display": "Audio",
+    "phonetic": "",
+    "translation": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audi",
+    "rootPath": "a>audi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audition",
+    "word": "audition",
+    "display": "Audition",
+    "phonetic": "",
+    "translation": "\u89c6\u542c\uff1b\u8bd5\u955c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audi",
+    "rootPath": "a>audi",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audio-audio-2",
+    "word": "audio",
+    "display": "Audio",
+    "phonetic": "",
+    "translation": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audio",
+    "rootPath": "a>audi>audio",
+    "sourceLabel": ""
+  },
+  {
+    "id": "inaudible",
+    "word": "inaudible",
+    "display": "Inaudible",
+    "phonetic": "",
+    "translation": "\u542c\u4e0d\u89c1\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audio",
+    "rootPath": "a>audi>audio",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audiogram",
+    "word": "audiogram",
+    "display": "Audiogram",
+    "phonetic": "",
+    "translation": "\u542c\u529b\u654f\u611f\u56fe",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audio",
+    "rootPath": "a>audi>audio",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audiology",
+    "word": "audiology",
+    "display": "Audiology",
+    "phonetic": "",
+    "translation": "\u542c\u89c9\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audio",
+    "rootPath": "a>audi>audio",
+    "sourceLabel": ""
+  },
+  {
+    "id": "inaudible-inaudible-2",
+    "word": "inaudible",
+    "display": "Inaudible",
+    "phonetic": "",
+    "translation": "\u542c\u4e0d\u89c1\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "inaudible",
+    "rootPath": "a>audi>audio>inaudible",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audiogram-audiogram-2",
+    "word": "audiogram",
+    "display": "Audiogram",
+    "phonetic": "",
+    "translation": "\u542c\u529b\u654f\u611f\u56fe",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audiogram",
+    "rootPath": "a>audi>audio>audiogram",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audiology-audiology-2",
+    "word": "audiology",
+    "display": "Audiology",
+    "phonetic": "",
+    "translation": "\u542c\u89c9\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audiology",
+    "rootPath": "a>audi>audio>audiology",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audition-audition-2",
+    "word": "audition",
+    "display": "Audition",
+    "phonetic": "",
+    "translation": "\u89c6\u542c\uff1b\u8bd5\u955c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audition",
+    "rootPath": "a>audi>audition",
+    "sourceLabel": ""
+  },
+  {
+    "id": "auditor",
+    "word": "auditor",
+    "display": "Auditor",
+    "phonetic": "",
+    "translation": "\u65c1\u542c\u751f",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audition",
+    "rootPath": "a>audi>audition",
+    "sourceLabel": ""
+  },
+  {
+    "id": "auditory",
+    "word": "auditory",
+    "display": "Auditory",
+    "phonetic": "",
+    "translation": "\u542c\u89c9\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audition",
+    "rootPath": "a>audi>audition",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audit",
+    "word": "audit",
+    "display": "Audit",
+    "phonetic": "",
+    "translation": "\u67e5\u8d26\uff1b\u65c1\u542c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audition",
+    "rootPath": "a>audi>audition",
+    "sourceLabel": ""
+  },
+  {
+    "id": "auditor-auditor-2",
+    "word": "auditor",
+    "display": "Auditor",
+    "phonetic": "",
+    "translation": "\u65c1\u542c\u751f",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "auditor",
+    "rootPath": "a>audi>audition>auditor",
+    "sourceLabel": ""
+  },
+  {
+    "id": "auditory-auditory-2",
+    "word": "auditory",
+    "display": "Auditory",
+    "phonetic": "",
+    "translation": "\u542c\u89c9\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "auditory",
+    "rootPath": "a>audi>audition>auditory",
+    "sourceLabel": ""
+  },
+  {
+    "id": "audit-audit-2",
+    "word": "audit",
+    "display": "Audit",
+    "phonetic": "",
+    "translation": "\u67e5\u8d26\uff1b\u65c1\u542c",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "audit",
+    "rootPath": "a>audi>audition>audit",
+    "sourceLabel": ""
+  },
+  {
+    "id": "agony",
+    "word": "agony",
+    "display": "Agony",
+    "phonetic": "",
+    "translation": "\u6781\u5927\u7684\u75db\u82e6",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "cogent",
+    "word": "cogent",
+    "display": "Cogent",
+    "phonetic": "",
+    "translation": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "exigency",
+    "word": "exigency",
+    "display": "Exigency",
+    "phonetic": "",
+    "translation": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "interact",
+    "word": "interact",
+    "display": "Interact",
+    "phonetic": "",
+    "translation": "\u76f8\u4e92\u4f5c\u7528",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "prodigal",
+    "word": "prodigal",
+    "display": "Prodigal",
+    "phonetic": "",
+    "translation": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "actualize",
+    "word": "actualize",
+    "display": "Actualize",
+    "phonetic": "",
+    "translation": "\u4f7f\u5b9e\u73b0",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "actuate",
+    "word": "actuate",
+    "display": "Actuate",
+    "phonetic": "",
+    "translation": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "agent",
+    "word": "agent",
+    "display": "Agent",
+    "phonetic": "",
+    "translation": "\u4ee3\u7406\u4eba",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "act",
+    "rootPath": "a>act",
+    "sourceLabel": ""
+  },
+  {
+    "id": "agony-agony-2",
+    "word": "agony",
+    "display": "Agony",
+    "phonetic": "",
+    "translation": "\u6781\u5927\u7684\u75db\u82e6",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "agony",
+    "rootPath": "a>act>agony",
+    "sourceLabel": ""
+  },
+  {
+    "id": "cogent-cogent-2",
+    "word": "cogent",
+    "display": "Cogent",
+    "phonetic": "",
+    "translation": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "cogent",
+    "rootPath": "a>act>cogent",
+    "sourceLabel": ""
+  },
+  {
+    "id": "exigency-exigency-2",
+    "word": "exigency",
+    "display": "Exigency",
+    "phonetic": "",
+    "translation": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "exigency",
+    "rootPath": "a>act>exigency",
+    "sourceLabel": ""
+  },
+  {
+    "id": "interact-interact-2",
+    "word": "interact",
+    "display": "Interact",
+    "phonetic": "",
+    "translation": "\u76f8\u4e92\u4f5c\u7528",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "interact",
+    "rootPath": "a>act>interact",
+    "sourceLabel": ""
+  },
+  {
+    "id": "prodigal-prodigal-2",
+    "word": "prodigal",
+    "display": "Prodigal",
+    "phonetic": "",
+    "translation": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "prodigal",
+    "rootPath": "a>act>prodigal",
+    "sourceLabel": ""
+  },
+  {
+    "id": "actualize-actualize-2",
+    "word": "actualize",
+    "display": "Actualize",
+    "phonetic": "",
+    "translation": "\u4f7f\u5b9e\u73b0",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "actualize",
+    "rootPath": "a>act>actualize",
+    "sourceLabel": ""
+  },
+  {
+    "id": "actuate-actuate-2",
+    "word": "actuate",
+    "display": "Actuate",
+    "phonetic": "",
+    "translation": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "actuate",
+    "rootPath": "a>act>actuate",
+    "sourceLabel": ""
+  },
+  {
+    "id": "agitate",
+    "word": "agitate",
+    "display": "Agitate",
+    "phonetic": "",
+    "translation": "\u6270\u52a8\uff1b\u6fc0\u52a8",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "agitate",
+    "rootPath": "a>act>actuate>agitate",
+    "sourceLabel": ""
+  },
+  {
+    "id": "agitator",
+    "word": "agitator",
+    "display": "Agitator",
+    "phonetic": "",
+    "translation": "\u717d\u52a8\u8005",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "agitator",
+    "rootPath": "a>act>actuate>agitate>agitator",
+    "sourceLabel": ""
+  },
+  {
+    "id": "enact",
+    "word": "enact",
+    "display": "Enact",
+    "phonetic": "",
+    "translation": "\u5236\u5b9a\u6cd5\u5f8b\uff1b\u626e\u6f14\u89d2\u8272",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "enact",
+    "rootPath": "a>act>actuate>enact",
+    "sourceLabel": ""
+  },
+  {
+    "id": "enactment",
+    "word": "enactment",
+    "display": "Enactment",
+    "phonetic": "",
+    "translation": "\u6cd5\u5f8b",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "enactment",
+    "rootPath": "a>act>actuate>enact>enactment",
+    "sourceLabel": ""
+  },
+  {
+    "id": "exact",
+    "word": "exact",
+    "display": "Exact",
+    "phonetic": "",
+    "translation": "\u7cbe\u786e\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "exact",
+    "rootPath": "a>act>actuate>enact>exact",
+    "sourceLabel": ""
+  },
+  {
+    "id": "exacting",
+    "word": "exacting",
+    "display": "Exacting",
+    "phonetic": "",
+    "translation": "\u82db\u523b\u7684\uff1b\u4e25\u683c\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "exacting",
+    "rootPath": "a>act>actuate>enact>exact>exacting",
+    "sourceLabel": ""
+  },
+  {
+    "id": "transact",
+    "word": "transact",
+    "display": "Transact",
+    "phonetic": "",
+    "translation": "\u529e\u7406\uff1b\u4ea4\u6613",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "transact",
+    "rootPath": "a>act>actuate>enact>transact",
+    "sourceLabel": ""
+  },
+  {
+    "id": "transaction",
+    "word": "transaction",
+    "display": "Transaction",
+    "phonetic": "",
+    "translation": "\u4ea4\u6613\uff1b\u4e70\u5356",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "transaction",
+    "rootPath": "a>act>actuate>enact>transact>transaction",
+    "sourceLabel": ""
+  },
+  {
+    "id": "agent-agent-2",
+    "word": "agent",
+    "display": "Agent",
+    "phonetic": "",
+    "translation": "\u4ee3\u7406\u4eba",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "affairs"
+    ],
+    "level": 1,
+    "rootId": "agent",
+    "rootPath": "a>act>agent",
+    "sourceLabel": "\u4e8b\u52a1"
+  },
+  {
+    "id": "agenda",
+    "word": "agenda",
+    "display": "Agenda",
+    "phonetic": "",
+    "translation": "\u8bae\u4e8b\u65e5\u7a0b",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "affairs"
+    ],
+    "level": 1,
+    "rootId": "agenda",
+    "rootPath": "a>act>agent>agenda",
+    "sourceLabel": "\u4e8b\u52a1"
+  },
+  {
+    "id": "agile",
+    "word": "agile",
+    "display": "Agile",
+    "phonetic": "",
+    "translation": "\u7075\u6d3b\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "affairs"
+    ],
+    "level": 1,
+    "rootId": "agile",
+    "rootPath": "a>act>agent>agile",
+    "sourceLabel": "\u4e8b\u52a1"
+  },
+  {
+    "id": "actuary",
+    "word": "actuary",
+    "display": "Actuary",
+    "phonetic": "",
+    "translation": "\u7edf\u8ba1\u5b66\u5bb6",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "affairs"
+    ],
+    "level": 1,
+    "rootId": "actuary",
+    "rootPath": "a>act>agent>actuary",
+    "sourceLabel": "\u4e8b\u52a1"
+  },
+  {
+    "id": "accurate",
+    "word": "accurate",
+    "display": "Accurate",
+    "phonetic": "",
+    "translation": "\u51c6\u786e\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "affairs"
+    ],
+    "level": 1,
+    "rootId": "accurate",
+    "rootPath": "a>act>agent>actuary>accurate",
+    "sourceLabel": "\u4e8b\u52a1"
+  },
+  {
+    "id": "a",
+    "word": "a-",
+    "display": "A-",
+    "phonetic": "",
+    "translation": "\u6ca1\u6709\uff1b\u65e0",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-prefix",
+    "rootPath": "a>a-prefix",
+    "sourceLabel": ""
+  },
+  {
+    "id": "amphi",
+    "word": "amphi-",
+    "display": "Amphi-",
+    "phonetic": "",
+    "translation": "\u4e24\u4e2a\uff1b\u5468\u56f4",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-prefix",
+    "rootPath": "a>a-prefix",
+    "sourceLabel": ""
+  },
+  {
+    "id": "apo",
+    "word": "apo-",
+    "display": "Apo-",
+    "phonetic": "",
+    "translation": "\u8fdc\u79bb",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-prefix",
+    "rootPath": "a>a-prefix",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ante",
+    "word": "ante-",
+    "display": "Ante-",
+    "phonetic": "",
+    "translation": "\u5148\u524d",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-prefix",
+    "rootPath": "a>a-prefix",
+    "sourceLabel": ""
+  },
+  {
+    "id": "anti",
+    "word": "anti-",
+    "display": "Anti-",
+    "phonetic": "",
+    "translation": "\u76f8\u53cd\uff1b\u5bf9\u6297",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-prefix",
+    "rootPath": "a>a-prefix",
+    "sourceLabel": ""
+  },
+  {
+    "id": "ad",
+    "word": "ad-",
+    "display": "Ad-",
+    "phonetic": "",
+    "translation": "\u5411\uff1b\u52a0\u5f3a",
+    "sentence": "",
+    "tags": [
+      "root-family"
+    ],
+    "level": 1,
+    "rootId": "a-prefix",
+    "rootPath": "a>a-prefix",
+    "sourceLabel": ""
+  },
+  {
+    "id": "abyss",
+    "word": "abyss",
+    "display": "Abyss",
+    "phonetic": "",
+    "translation": "\u6df1\u6e0a\uff1b\u65e0\u5e95\u6d1e",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anacid",
+    "word": "anacid",
+    "display": "Anacid",
+    "phonetic": "",
+    "translation": "\u65e0\u9178\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anhydrous",
+    "word": "anhydrous",
+    "display": "Anhydrous",
+    "phonetic": "",
+    "translation": "\u65e0\u6c34\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anecdote",
+    "word": "anecdote",
+    "display": "Anecdote",
+    "phonetic": "",
+    "translation": "\u5947\u95fb",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anharmonic",
+    "word": "anharmonic",
+    "display": "Anharmonic",
+    "phonetic": "",
+    "translation": "\u4e0d\u548c\u8c10\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "apathy",
+    "word": "apathy",
+    "display": "Apathy",
+    "phonetic": "",
+    "translation": "\u51b7\u6f20",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anomaly",
+    "word": "anomaly",
+    "display": "Anomaly",
+    "phonetic": "",
+    "translation": "\u4e0d\u89c4\u5219",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anonymous",
+    "word": "anonymous",
+    "display": "Anonymous",
+    "phonetic": "",
+    "translation": "\u65e0\u540d\u7684\uff1b\u533f\u540d\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aperiodic",
+    "word": "aperiodic",
+    "display": "Aperiodic",
+    "phonetic": "",
+    "translation": "\u975e\u5468\u671f\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "asexual",
+    "word": "asexual",
+    "display": "Asexual",
+    "phonetic": "",
+    "translation": "\u65e0\u6027\u7684\uff1b\u65e0\u6027\u751f\u6b96\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "asymmetry",
+    "word": "asymmetry",
+    "display": "Asymmetry",
+    "phonetic": "",
+    "translation": "\u4e0d\u5bf9\u79f0\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "atheist",
+    "word": "atheist",
+    "display": "Atheist",
+    "phonetic": "",
+    "translation": "\u65e0\u795e\u8bba\u8005",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anarchy-a-without-2",
+    "word": "anarchy",
+    "display": "Anarchy",
+    "phonetic": "",
+    "translation": "\u653f\u6cbb\u6df7\u4e71",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "atypical",
+    "word": "atypical",
+    "display": "Atypical",
+    "phonetic": "",
+    "translation": "\u975e\u5178\u578b\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without",
+    "rootPath": "a>a-prefix>a-without",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abyss-a-without-notinclude-2",
+    "word": "abyss",
+    "display": "Abyss",
+    "phonetic": "",
+    "translation": "\u6df1\u6e0a\uff1b\u65e0\u5e95\u6d1e",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without-notinclude",
+    "rootPath": "a>a-prefix>a-without>a-without-notinclude",
+    "sourceLabel": "\u4e0d\u5305\u542b"
+  },
+  {
+    "id": "anacid-a-without-notinclude-2",
+    "word": "anacid",
+    "display": "Anacid",
+    "phonetic": "",
+    "translation": "\u65e0\u9178\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without-notinclude",
+    "rootPath": "a>a-prefix>a-without>a-without-notinclude",
+    "sourceLabel": "\u4e0d\u5305\u542b"
+  },
+  {
+    "id": "anhydrous-a-without-notinclude-2",
+    "word": "anhydrous",
+    "display": "Anhydrous",
+    "phonetic": "",
+    "translation": "\u65e0\u6c34\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without-notinclude",
+    "rootPath": "a>a-prefix>a-without>a-without-notinclude",
+    "sourceLabel": "\u4e0d\u5305\u542b"
+  },
+  {
+    "id": "anecdote-a-without-notinclude-2",
+    "word": "anecdote",
+    "display": "Anecdote",
+    "phonetic": "",
+    "translation": "\u5947\u95fb",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "a-without-notinclude",
+    "rootPath": "a>a-prefix>a-without>a-without-notinclude",
+    "sourceLabel": "\u4e0d\u5305\u542b"
+  },
+  {
+    "id": "anharmonic-a-without-emotion-2",
+    "word": "anharmonic",
+    "display": "Anharmonic",
+    "phonetic": "",
+    "translation": "\u4e0d\u548c\u8c10\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "a-without-emotion",
+    "rootPath": "a>a-prefix>a-without>a-without-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "apathy-a-without-emotion-2",
+    "word": "apathy",
+    "display": "Apathy",
+    "phonetic": "",
+    "translation": "\u51b7\u6f20",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "a-without-emotion",
+    "rootPath": "a>a-prefix>a-without>a-without-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "apathy-apathy-2",
+    "word": "apathy",
+    "display": "Apathy",
+    "phonetic": "",
+    "translation": "\u51b7\u6f20",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apathy",
+    "rootPath": "a>a-prefix>a-without>a-without-emotion>apathy",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "apathetic",
+    "word": "apathetic",
+    "display": "Apathetic",
+    "phonetic": "",
+    "translation": "\u51b7\u6de1\u7684\uff1b\u6f20\u4e0d\u5173\u5fc3\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apathetic",
+    "rootPath": "a>a-prefix>a-without>a-without-emotion>apathy>apathetic",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "anomaly-a-without-physical-2",
+    "word": "anomaly",
+    "display": "Anomaly",
+    "phonetic": "",
+    "translation": "\u4e0d\u89c4\u5219",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "a-without-physical",
+    "rootPath": "a>a-prefix>a-without>a-without-physical",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "anonymous-a-without-physical-2",
+    "word": "anonymous",
+    "display": "Anonymous",
+    "phonetic": "",
+    "translation": "\u65e0\u540d\u7684\uff1b\u533f\u540d\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "a-without-physical",
+    "rootPath": "a>a-prefix>a-without>a-without-physical",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "aperiodic-a-without-physical-2",
+    "word": "aperiodic",
+    "display": "Aperiodic",
+    "phonetic": "",
+    "translation": "\u975e\u5468\u671f\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "a-without-physical",
+    "rootPath": "a>a-prefix>a-without>a-without-physical",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "asexual-a-without-physical-2",
+    "word": "asexual",
+    "display": "Asexual",
+    "phonetic": "",
+    "translation": "\u65e0\u6027\u7684\uff1b\u65e0\u6027\u751f\u6b96\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "a-without-physical",
+    "rootPath": "a>a-prefix>a-without>a-without-physical",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "asymmetry-a-without-physical-2",
+    "word": "asymmetry",
+    "display": "Asymmetry",
+    "phonetic": "",
+    "translation": "\u4e0d\u5bf9\u79f0\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "a-without-physical",
+    "rootPath": "a>a-prefix>a-without>a-without-physical",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "anomaly-anomaly-2",
+    "word": "anomaly",
+    "display": "Anomaly",
+    "phonetic": "",
+    "translation": "\u4e0d\u89c4\u5219",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "anomaly",
+    "rootPath": "a>a-prefix>a-without>a-without-physical>anomaly",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "anomy",
+    "word": "anomy",
+    "display": "Anomy",
+    "phonetic": "",
+    "translation": "\u5931\u8303\u72b6\u6001\uff1b\u6df7\u4e71",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "anomy",
+    "rootPath": "a>a-prefix>a-without>a-without-physical>anomaly>anomy",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "atheist-a-without-abstract-2",
+    "word": "atheist",
+    "display": "Atheist",
+    "phonetic": "",
+    "translation": "\u65e0\u795e\u8bba\u8005",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "abstract"
+    ],
+    "level": 1,
+    "rootId": "a-without-abstract",
+    "rootPath": "a>a-prefix>a-without>a-without-abstract",
+    "sourceLabel": "\u62bd\u8c61"
+  },
+  {
+    "id": "anarchy-a-without-abstract-2",
+    "word": "anarchy",
+    "display": "Anarchy",
+    "phonetic": "",
+    "translation": "\u653f\u6cbb\u6df7\u4e71",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "abstract"
+    ],
+    "level": 1,
+    "rootId": "a-without-abstract",
+    "rootPath": "a>a-prefix>a-without>a-without-abstract",
+    "sourceLabel": "\u62bd\u8c61"
+  },
+  {
+    "id": "atypical-a-without-abstract-2",
+    "word": "atypical",
+    "display": "Atypical",
+    "phonetic": "",
+    "translation": "\u975e\u5178\u578b\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "abstract"
+    ],
+    "level": 1,
+    "rootId": "a-without-abstract",
+    "rootPath": "a>a-prefix>a-without>a-without-abstract",
+    "sourceLabel": "\u62bd\u8c61"
+  },
+  {
+    "id": "ambiguity",
+    "word": "ambiguity",
+    "display": "Ambiguity",
+    "phonetic": "",
+    "translation": "\u6a21\u68f1\u4e24\u53ef\uff1b\u542b\u4e49\u6a21\u7cca",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambisexual",
+    "word": "ambisexual",
+    "display": "Ambisexual",
+    "phonetic": "",
+    "translation": "\u4e24\u6027\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambivert",
+    "word": "ambivert",
+    "display": "Ambivert",
+    "phonetic": "",
+    "translation": "\u4e2d\u95f4\u6027\u683c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambitendency",
+    "word": "ambitendency",
+    "display": "Ambitendency",
+    "phonetic": "",
+    "translation": "\u81ea\u6211\u77db\u76fe\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambidextrous",
+    "word": "ambidextrous",
+    "display": "Ambidextrous",
+    "phonetic": "",
+    "translation": "\u4e24\u624b\u90fd\u7075\u5de7\u7684\uff1b\u5f15\u7533\u4e3a\u6b3a\u9a97\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambit",
+    "word": "ambit",
+    "display": "Ambit",
+    "phonetic": "",
+    "translation": "\u754c\u9650\uff1b\u8303\u56f4",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambilingual",
+    "word": "ambilingual",
+    "display": "Ambilingual",
+    "phonetic": "",
+    "translation": "\u901a\u4e24\u56fd\u8bed\u8a00\u7684\u4eba",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amphibian",
+    "word": "amphibian",
+    "display": "Amphibian",
+    "phonetic": "",
+    "translation": "\u4e24\u6816\u7c7b",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amphicar",
+    "word": "amphicar",
+    "display": "Amphicar",
+    "phonetic": "",
+    "translation": "\u6c34\u9646\u4e24\u7528\u8f66",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amphigamy",
+    "word": "amphigamy",
+    "display": "Amphigamy",
+    "phonetic": "",
+    "translation": "\u53d7\u7cbe\u4f5c\u7528",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amphi-ambi",
+    "rootPath": "a>a-prefix>amphi-ambi",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambiguity-ambiguity-2",
+    "word": "ambiguity",
+    "display": "Ambiguity",
+    "phonetic": "",
+    "translation": "\u6a21\u68f1\u4e24\u53ef\uff1b\u542b\u4e49\u6a21\u7cca",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ambiguity",
+    "rootPath": "a>a-prefix>amphi-ambi>ambiguity",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambiguous",
+    "word": "ambiguous",
+    "display": "Ambiguous",
+    "phonetic": "",
+    "translation": "\u542b\u7cca\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ambiguous",
+    "rootPath": "a>a-prefix>amphi-ambi>ambiguity>ambiguous",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambiquity",
+    "word": "ambiquity",
+    "display": "Ambiquity",
+    "phonetic": "",
+    "translation": "\u542b\u7cca\u7684\uff08\u53d8\u4f53\u62fc\u5199\uff09",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ambiquity",
+    "rootPath": "a>a-prefix>amphi-ambi>ambiguity>ambiquity",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambisexual-amphi-emotion-2",
+    "word": "ambisexual",
+    "display": "Ambisexual",
+    "phonetic": "",
+    "translation": "\u4e24\u6027\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "amphi-emotion",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "ambivert-amphi-emotion-2",
+    "word": "ambivert",
+    "display": "Ambivert",
+    "phonetic": "",
+    "translation": "\u4e2d\u95f4\u6027\u683c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "amphi-emotion",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "ambitendency-amphi-emotion-2",
+    "word": "ambitendency",
+    "display": "Ambitendency",
+    "phonetic": "",
+    "translation": "\u81ea\u6211\u77db\u76fe\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "amphi-emotion",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "ambidextrous-amphi-emotion-2",
+    "word": "ambidextrous",
+    "display": "Ambidextrous",
+    "phonetic": "",
+    "translation": "\u4e24\u624b\u90fd\u7075\u5de7\u7684\uff1b\u5f15\u7533\u4e3a\u6b3a\u9a97\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "amphi-emotion",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "ambit-ambit-2",
+    "word": "ambit",
+    "display": "Ambit",
+    "phonetic": "",
+    "translation": "\u754c\u9650\uff1b\u8303\u56f4",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ambit",
+    "rootPath": "a>a-prefix>amphi-ambi>ambit",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambient",
+    "word": "ambient",
+    "display": "Ambient",
+    "phonetic": "",
+    "translation": "\u5468\u56f4\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ambient",
+    "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambiance",
+    "word": "ambiance",
+    "display": "Ambiance",
+    "phonetic": "",
+    "translation": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ambiance-ambience",
+    "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambience",
+    "word": "ambience",
+    "display": "Ambience",
+    "phonetic": "",
+    "translation": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ambiance-ambience",
+    "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "atmosphere",
+    "word": "atmosphere",
+    "display": "Atmosphere",
+    "phonetic": "",
+    "translation": "\u6c1b\u56f4\uff1b\u5927\u6c14\u5c42",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "atmosphere",
+    "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience>atmosphere",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ambilingual-amphi-language-biology-2",
+    "word": "ambilingual",
+    "display": "Ambilingual",
+    "phonetic": "",
+    "translation": "\u901a\u4e24\u56fd\u8bed\u8a00\u7684\u4eba",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "biology"
+    ],
+    "level": 1,
+    "rootId": "amphi-language-biology",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology",
+    "sourceLabel": "\u751f\u7269"
+  },
+  {
+    "id": "amphibian-amphi-language-biology-2",
+    "word": "amphibian",
+    "display": "Amphibian",
+    "phonetic": "",
+    "translation": "\u4e24\u6816\u7c7b",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "biology"
+    ],
+    "level": 1,
+    "rootId": "amphi-language-biology",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology",
+    "sourceLabel": "\u751f\u7269"
+  },
+  {
+    "id": "amphicar-amphi-language-biology-2",
+    "word": "amphicar",
+    "display": "Amphicar",
+    "phonetic": "",
+    "translation": "\u6c34\u9646\u4e24\u7528\u8f66",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "biology"
+    ],
+    "level": 1,
+    "rootId": "amphi-language-biology",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology",
+    "sourceLabel": "\u751f\u7269"
+  },
+  {
+    "id": "amphigamy-amphi-language-biology-2",
+    "word": "amphigamy",
+    "display": "Amphigamy",
+    "phonetic": "",
+    "translation": "\u53d7\u7cbe\u4f5c\u7528",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "biology"
+    ],
+    "level": 1,
+    "rootId": "amphi-language-biology",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology",
+    "sourceLabel": "\u751f\u7269"
+  },
+  {
+    "id": "amphibian-amphibian-2",
+    "word": "amphibian",
+    "display": "Amphibian",
+    "phonetic": "",
+    "translation": "\u4e24\u6816\u7c7b",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "biology"
+    ],
+    "level": 1,
+    "rootId": "amphibian",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian",
+    "sourceLabel": "\u751f\u7269"
+  },
+  {
+    "id": "amphibiology",
+    "word": "amphibiology",
+    "display": "Amphibiology",
+    "phonetic": "",
+    "translation": "\u4e24\u6816\u52a8\u7269\u5b66",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "biology"
+    ],
+    "level": 1,
+    "rootId": "amphibiology",
+    "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian>amphibiology",
+    "sourceLabel": "\u751f\u7269"
+  },
+  {
+    "id": "abhor",
+    "word": "abhor",
+    "display": "Abhor",
+    "phonetic": "",
+    "translation": "\u618e\u6076",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abominate",
+    "word": "abominate",
+    "display": "Abominate",
+    "phonetic": "",
+    "translation": "\u618e\u6076",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abjure",
+    "word": "abjure",
+    "display": "Abjure",
+    "phonetic": "",
+    "translation": "\u653e\u5f03",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abject",
+    "word": "abject",
+    "display": "Abject",
+    "phonetic": "",
+    "translation": "\u53ef\u601c\u7684\uff1b\u5351\u9119\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abscond",
+    "word": "abscond",
+    "display": "Abscond",
+    "phonetic": "",
+    "translation": "\u6f5c\u9003\uff1b\u907f\u503a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "absurd",
+    "word": "absurd",
+    "display": "Absurd",
+    "phonetic": "",
+    "translation": "\u8352\u8c2c\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abrade",
+    "word": "abrade",
+    "display": "Abrade",
+    "phonetic": "",
+    "translation": "\u78e8\u635f\uff1b\u6298\u78e8",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abrupt",
+    "word": "abrupt",
+    "display": "Abrupt",
+    "phonetic": "",
+    "translation": "\u7a81\u7136\u7684\uff1b\u7c97\u9c81\u65e0\u793c\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "absent",
+    "word": "absent",
+    "display": "Absent",
+    "phonetic": "",
+    "translation": "\u7f3a\u5e2d\u7684\uff1b\u5fc3\u4e0d\u5728\u7109\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "absorb",
+    "word": "absorb",
+    "display": "Absorb",
+    "phonetic": "",
+    "translation": "\u5438\u6536\uff1b\u5168\u795e\u8d2f\u6ce8",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abaxial",
+    "word": "abaxial",
+    "display": "Abaxial",
+    "phonetic": "",
+    "translation": "\u79bb\u8f74\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abduce",
+    "word": "abduce",
+    "display": "Abduce",
+    "phonetic": "",
+    "translation": "\u5916\u5c55",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "absolve",
+    "word": "absolve",
+    "display": "Absolve",
+    "phonetic": "",
+    "translation": "\u514d\u7f6a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abrogate",
+    "word": "abrogate",
+    "display": "Abrogate",
+    "phonetic": "",
+    "translation": "\u5e9f\u9664",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abort",
+    "word": "abort",
+    "display": "Abort",
+    "phonetic": "",
+    "translation": "\u6d41\u4ea7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aphorism",
+    "word": "aphorism",
+    "display": "Aphorism",
+    "phonetic": "",
+    "translation": "\u683c\u8a00",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abstract",
+    "word": "abstract",
+    "display": "Abstract",
+    "phonetic": "",
+    "translation": "\u6458\u8981",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abundant",
+    "word": "abundant",
+    "display": "Abundant",
+    "phonetic": "",
+    "translation": "\u4e30\u5bcc\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "object",
+    "word": "object",
+    "display": "Object",
+    "phonetic": "",
+    "translation": "\u5ba2\u89c2\u7684\uff1b\u53cd\u5bf9\uff1b\u5bbe\u8bed\uff1b\u5bf9\u8c61",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-ab",
+    "rootPath": "a>a-prefix>apo-ab",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abhor-apo-emotion-2",
+    "word": "abhor",
+    "display": "Abhor",
+    "phonetic": "",
+    "translation": "\u618e\u6076",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "abominate-apo-emotion-2",
+    "word": "abominate",
+    "display": "Abominate",
+    "phonetic": "",
+    "translation": "\u618e\u6076",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "abjure-apo-emotion-2",
+    "word": "abjure",
+    "display": "Abjure",
+    "phonetic": "",
+    "translation": "\u653e\u5f03",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "abject-apo-emotion-2",
+    "word": "abject",
+    "display": "Abject",
+    "phonetic": "",
+    "translation": "\u53ef\u601c\u7684\uff1b\u5351\u9119\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "abscond-apo-emotion-2",
+    "word": "abscond",
+    "display": "Abscond",
+    "phonetic": "",
+    "translation": "\u6f5c\u9003\uff1b\u907f\u503a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "absurd-apo-emotion-2",
+    "word": "absurd",
+    "display": "Absurd",
+    "phonetic": "",
+    "translation": "\u8352\u8c2c\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "abrade-apo-emotion-2",
+    "word": "abrade",
+    "display": "Abrade",
+    "phonetic": "",
+    "translation": "\u78e8\u635f\uff1b\u6298\u78e8",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "abrupt-apo-emotion-2",
+    "word": "abrupt",
+    "display": "Abrupt",
+    "phonetic": "",
+    "translation": "\u7a81\u7136\u7684\uff1b\u7c97\u9c81\u65e0\u793c\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "absent-apo-emotion-2",
+    "word": "absent",
+    "display": "Absent",
+    "phonetic": "",
+    "translation": "\u7f3a\u5e2d\u7684\uff1b\u5fc3\u4e0d\u5728\u7109\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "absorb-apo-emotion-2",
+    "word": "absorb",
+    "display": "Absorb",
+    "phonetic": "",
+    "translation": "\u5438\u6536\uff1b\u5168\u795e\u8d2f\u6ce8",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "emotion"
+    ],
+    "level": 1,
+    "rootId": "apo-emotion",
+    "rootPath": "a>a-prefix>apo-ab>apo-emotion",
+    "sourceLabel": "\u60c5\u611f"
+  },
+  {
+    "id": "abaxial-apo-physical-2",
+    "word": "abaxial",
+    "display": "Abaxial",
+    "phonetic": "",
+    "translation": "\u79bb\u8f74\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "apo-physical",
+    "rootPath": "a>a-prefix>apo-ab>apo-physical",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "abduce-apo-physical-2",
+    "word": "abduce",
+    "display": "Abduce",
+    "phonetic": "",
+    "translation": "\u5916\u5c55",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "physics"
+    ],
+    "level": 1,
+    "rootId": "apo-physical",
+    "rootPath": "a>a-prefix>apo-ab>apo-physical",
+    "sourceLabel": "\u7269\u7406"
+  },
+  {
+    "id": "absolve-apo-remove-2",
+    "word": "absolve",
+    "display": "Absolve",
+    "phonetic": "",
+    "translation": "\u514d\u7f6a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-remove",
+    "rootPath": "a>a-prefix>apo-ab>apo-remove",
+    "sourceLabel": "\u53bb\u9664"
+  },
+  {
+    "id": "abrogate-apo-remove-2",
+    "word": "abrogate",
+    "display": "Abrogate",
+    "phonetic": "",
+    "translation": "\u5e9f\u9664",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-remove",
+    "rootPath": "a>a-prefix>apo-ab>apo-remove",
+    "sourceLabel": "\u53bb\u9664"
+  },
+  {
+    "id": "abort-apo-remove-2",
+    "word": "abort",
+    "display": "Abort",
+    "phonetic": "",
+    "translation": "\u6d41\u4ea7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-remove",
+    "rootPath": "a>a-prefix>apo-ab>apo-remove",
+    "sourceLabel": "\u53bb\u9664"
+  },
+  {
+    "id": "aphorism-apo-other-2",
+    "word": "aphorism",
+    "display": "Aphorism",
+    "phonetic": "",
+    "translation": "\u683c\u8a00",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-other",
+    "rootPath": "a>a-prefix>apo-ab>apo-other",
+    "sourceLabel": "\u5176\u4ed6"
+  },
+  {
+    "id": "abstract-apo-other-2",
+    "word": "abstract",
+    "display": "Abstract",
+    "phonetic": "",
+    "translation": "\u6458\u8981",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-other",
+    "rootPath": "a>a-prefix>apo-ab>apo-other",
+    "sourceLabel": "\u5176\u4ed6"
+  },
+  {
+    "id": "object-apo-other-2",
+    "word": "object",
+    "display": "Object",
+    "phonetic": "",
+    "translation": "\u5ba2\u89c2\u7684\uff1b\u53cd\u5bf9\uff1b\u5bbe\u8bed\uff1b\u5bf9\u8c61",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "apo-other",
+    "rootPath": "a>a-prefix>apo-ab>apo-other",
+    "sourceLabel": "\u5176\u4ed6"
+  },
+  {
+    "id": "abundant-abundant-2",
+    "word": "abundant",
+    "display": "Abundant",
+    "phonetic": "",
+    "translation": "\u4e30\u5bcc\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "abundant",
+    "rootPath": "a>a-prefix>apo-ab>abundant",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abound",
+    "word": "abound",
+    "display": "Abound",
+    "phonetic": "",
+    "translation": "\u5145\u6ee1",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "abound",
+    "rootPath": "a>a-prefix>apo-ab>abundant>abound",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abuse",
+    "word": "abuse",
+    "display": "Abuse",
+    "phonetic": "",
+    "translation": "\u6ee5\u7528",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "abuse",
+    "rootPath": "a>a-prefix>apo-ab>abundant>abuse",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abundance",
+    "word": "abundance",
+    "display": "Abundance",
+    "phonetic": "",
+    "translation": "\u4e30\u5bcc",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "abundance",
+    "rootPath": "a>a-prefix>apo-ab>abundant>abundance",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anterior",
+    "word": "anterior",
+    "display": "Anterior",
+    "phonetic": "",
+    "translation": "\u524d\u9762\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ante",
+    "rootPath": "a>a-prefix>ante",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antecessor",
+    "word": "antecessor",
+    "display": "Antecessor",
+    "phonetic": "",
+    "translation": "\u5148\u884c\u8005\uff1b\u7956\u5148",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ante",
+    "rootPath": "a>a-prefix>ante",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anticipate",
+    "word": "anticipate",
+    "display": "Anticipate",
+    "phonetic": "",
+    "translation": "\u9884\u6599",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ante",
+    "rootPath": "a>a-prefix>ante",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antenna",
+    "word": "antenna",
+    "display": "Antenna",
+    "phonetic": "",
+    "translation": "\u89e6\u89d2\uff1b\u5929\u7ebf",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ante",
+    "rootPath": "a>a-prefix>ante",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anterior-anterior-2",
+    "word": "anterior",
+    "display": "Anterior",
+    "phonetic": "",
+    "translation": "\u524d\u9762\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anterior",
+    "rootPath": "a>a-prefix>ante>anterior",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antediluvian",
+    "word": "antediluvian",
+    "display": "Antediluvian",
+    "phonetic": "",
+    "translation": "\u5927\u6d2a\u6c34\u4e4b\u524d\uff1b\u8fdc\u53e4\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antediluvian",
+    "rootPath": "a>a-prefix>ante>anterior>antediluvian",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antemarital",
+    "word": "antemarital",
+    "display": "Antemarital",
+    "phonetic": "",
+    "translation": "\u5a5a\u524d\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antemarital",
+    "rootPath": "a>a-prefix>ante>anterior>antemarital",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antenatal",
+    "word": "antenatal",
+    "display": "Antenatal",
+    "phonetic": "",
+    "translation": "\u51fa\u751f\u524d",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antenatal",
+    "rootPath": "a>a-prefix>ante>anterior>antenatal",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antemortem",
+    "word": "antemortem",
+    "display": "Antemortem",
+    "phonetic": "",
+    "translation": "\u4e34\u6b7b\u524d",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antemortem",
+    "rootPath": "a>a-prefix>ante>anterior>antemortem",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anteprandial",
+    "word": "anteprandial",
+    "display": "Anteprandial",
+    "phonetic": "",
+    "translation": "\u996d\u524d\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anteprandial",
+    "rootPath": "a>a-prefix>ante>anterior>anteprandial",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antewar",
+    "word": "antewar",
+    "display": "Antewar",
+    "phonetic": "",
+    "translation": "\u6218\u4e89\u524d",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antewar",
+    "rootPath": "a>a-prefix>ante>anterior>antewar",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antecessor-antecessor-2",
+    "word": "antecessor",
+    "display": "Antecessor",
+    "phonetic": "",
+    "translation": "\u5148\u884c\u8005\uff1b\u7956\u5148",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antecessor",
+    "rootPath": "a>a-prefix>ante>antecessor",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antechapel",
+    "word": "antechapel",
+    "display": "Antechapel",
+    "phonetic": "",
+    "translation": "\u6559\u5802\u95e8\u5385",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antechapel",
+    "rootPath": "a>a-prefix>ante>antecessor>antechapel",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antehuman",
+    "word": "antehuman",
+    "display": "Antehuman",
+    "phonetic": "",
+    "translation": "\u5728\u4eba\u7c7b\u4ee5\u524d\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antehuman",
+    "rootPath": "a>a-prefix>ante>antecessor>antehuman",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anteroom",
+    "word": "anteroom",
+    "display": "Anteroom",
+    "phonetic": "",
+    "translation": "\u63a5\u5f85\u5ba4",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anteroom",
+    "rootPath": "a>a-prefix>ante>antecessor>anteroom",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "anticipate-anticipate-2",
+    "word": "anticipate",
+    "display": "Anticipate",
+    "phonetic": "",
+    "translation": "\u9884\u6599",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anticipate",
+    "rootPath": "a>a-prefix>ante>anticipate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antenna-antenna-2",
+    "word": "antenna",
+    "display": "Antenna",
+    "phonetic": "",
+    "translation": "\u89e6\u89d2\uff1b\u5929\u7ebf",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "antenna",
+    "rootPath": "a>a-prefix>ante>antenna",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antiaging",
+    "word": "antiaging",
+    "display": "Antiaging",
+    "phonetic": "",
+    "translation": "\u9632\u8870\u8001",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anti",
+    "rootPath": "a>a-prefix>anti",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antiaircraft",
+    "word": "antiaircraft",
+    "display": "Antiaircraft",
+    "phonetic": "",
+    "translation": "\u9632\u7a7a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anti",
+    "rootPath": "a>a-prefix>anti",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antibiotic",
+    "word": "antibiotic",
+    "display": "Antibiotic",
+    "phonetic": "",
+    "translation": "\u6297\u751f\u7d20",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anti",
+    "rootPath": "a>a-prefix>anti",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antibody",
+    "word": "antibody",
+    "display": "Antibody",
+    "phonetic": "",
+    "translation": "\u6297\u4f53",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anti",
+    "rootPath": "a>a-prefix>anti",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "antifat",
+    "word": "antifat",
+    "display": "Antifat",
+    "phonetic": "",
+    "translation": "\u51cf\u80a5\u7684\uff1b\u9632\u6b62\u957f\u80d6\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "anti",
+    "rootPath": "a>a-prefix>anti",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adhere",
+    "word": "adhere",
+    "display": "Adhere",
+    "phonetic": "",
+    "translation": "\u4f9d\u9644",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjure",
+    "word": "adjure",
+    "display": "Adjure",
+    "phonetic": "",
+    "translation": "\u6073\u8bf7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "admonish",
+    "word": "admonish",
+    "display": "Admonish",
+    "phonetic": "",
+    "translation": "\u529d\u544a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "admit",
+    "word": "admit",
+    "display": "Admit",
+    "phonetic": "",
+    "translation": "\u5141\u8bb8\u8fdb\u5165",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abide",
+    "word": "abide",
+    "display": "Abide",
+    "phonetic": "",
+    "translation": "\u575a\u6301",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "agglomerate",
+    "word": "agglomerate",
+    "display": "Agglomerate",
+    "phonetic": "",
+    "translation": "\u5927\u5757",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affiance",
+    "word": "affiance",
+    "display": "Affiance",
+    "phonetic": "",
+    "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "augment",
+    "word": "augment",
+    "display": "Augment",
+    "phonetic": "",
+    "translation": "\u589e\u5927",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accuse",
+    "word": "accuse",
+    "display": "Accuse",
+    "phonetic": "",
+    "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "allege",
+    "word": "allege",
+    "display": "Allege",
+    "phonetic": "",
+    "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-add-axx",
+    "rootPath": "a>a-prefix>ad-add-axx",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adhere-ad-core-2",
+    "word": "adhere",
+    "display": "Adhere",
+    "phonetic": "",
+    "translation": "\u4f9d\u9644",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-core",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjure-ad-core-2",
+    "word": "adjure",
+    "display": "Adjure",
+    "phonetic": "",
+    "translation": "\u6073\u8bf7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-core",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "admonish-ad-core-2",
+    "word": "admonish",
+    "display": "Admonish",
+    "phonetic": "",
+    "translation": "\u529d\u544a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-core",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "admit-ad-core-2",
+    "word": "admit",
+    "display": "Admit",
+    "phonetic": "",
+    "translation": "\u5141\u8bb8\u8fdb\u5165",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-core",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adhere-adhere-2",
+    "word": "adhere",
+    "display": "Adhere",
+    "phonetic": "",
+    "translation": "\u4f9d\u9644",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adhere",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "additional",
+    "word": "additional",
+    "display": "Additional",
+    "phonetic": "",
+    "translation": "\u9644\u52a0\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "additional",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>additional",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjacent",
+    "word": "adjacent",
+    "display": "Adjacent",
+    "phonetic": "",
+    "translation": "\u90bb\u63a5\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adjacent",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjacent",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjective",
+    "word": "adjective",
+    "display": "Adjective",
+    "phonetic": "",
+    "translation": "\u5f62\u5bb9\u8bcd",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adjective",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjacent>adjective",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjoin",
+    "word": "adjoin",
+    "display": "Adjoin",
+    "phonetic": "",
+    "translation": "\u9760\u8fd1",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adjoin",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjoin",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjust",
+    "word": "adjust",
+    "display": "Adjust",
+    "phonetic": "",
+    "translation": "\u8c03\u8282\uff1b\u6574\u987f",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adjust",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjust",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adulterate",
+    "word": "adulterate",
+    "display": "Adulterate",
+    "phonetic": "",
+    "translation": "\u53c2\u6742",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adulterate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adulterate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjure-adjure-2",
+    "word": "adjure",
+    "display": "Adjure",
+    "phonetic": "",
+    "translation": "\u6073\u8bf7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adjure",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adjure",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adjourn",
+    "word": "adjourn",
+    "display": "Adjourn",
+    "phonetic": "",
+    "translation": "\u5ef6\u671f\uff1b\u4f11\u4f1a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adjourn",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>adjure>adjourn",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "admonish-admonish-2",
+    "word": "admonish",
+    "display": "Admonish",
+    "phonetic": "",
+    "translation": "\u529d\u544a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "admonish",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admonish",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "admit-admit-2",
+    "word": "admit",
+    "display": "Admit",
+    "phonetic": "",
+    "translation": "\u5141\u8bb8\u8fdb\u5165",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "admit",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "advent",
+    "word": "advent",
+    "display": "Advent",
+    "phonetic": "",
+    "translation": "\u5230\u6765",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "advent",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advent",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adventure",
+    "word": "adventure",
+    "display": "Adventure",
+    "phonetic": "",
+    "translation": "\u5192\u9669",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adventure",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advent>adventure",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "adverse",
+    "word": "adverse",
+    "display": "Adverse",
+    "phonetic": "",
+    "translation": "\u654c\u5bf9\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "adverse",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>adverse",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "advertise",
+    "word": "advertise",
+    "display": "Advertise",
+    "phonetic": "",
+    "translation": "\u516c\u544a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "advertise",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advertise",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "advisable",
+    "word": "advisable",
+    "display": "Advisable",
+    "phonetic": "",
+    "translation": "\u53ef\u53d6\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "advisable",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advisable",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "administer",
+    "word": "administer",
+    "display": "Administer",
+    "phonetic": "",
+    "translation": "\u5b9e\u65bd\uff1b\u638c\u7ba1",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "administer",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>administer",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "administration",
+    "word": "administration",
+    "display": "Administration",
+    "phonetic": "",
+    "translation": "\u7ecf\u8425\uff1b\u884c\u653f\u90e8\u95e8",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "administration",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>administer>administration",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abide-ad-a-an-2",
+    "word": "abide",
+    "display": "Abide",
+    "phonetic": "",
+    "translation": "\u575a\u6301",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "augment-ad-a-an-2",
+    "word": "augment",
+    "display": "Augment",
+    "phonetic": "",
+    "translation": "\u589e\u52a0",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "enhance",
+    "word": "enhance",
+    "display": "Enhance",
+    "phonetic": "",
+    "translation": "\u589e\u52a0",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "astir",
+    "word": "astir",
+    "display": "Astir",
+    "phonetic": "",
+    "translation": "\u6fc0\u52a8\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "astray",
+    "word": "astray",
+    "display": "Astray",
+    "phonetic": "",
+    "translation": "\u8ff7\u9014\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ascribe",
+    "word": "ascribe",
+    "display": "Ascribe",
+    "phonetic": "",
+    "translation": "\u5f52\u56e0\u4e8e",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aver",
+    "word": "aver",
+    "display": "Aver",
+    "phonetic": "",
+    "translation": "\u58f0\u79f0\uff1b\u65ad\u8a00",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abut",
+    "word": "abut",
+    "display": "Abut",
+    "phonetic": "",
+    "translation": "\u90bb\u63a5",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amass",
+    "word": "amass",
+    "display": "Amass",
+    "phonetic": "",
+    "translation": "\u79ef\u84c4",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amenable",
+    "word": "amenable",
+    "display": "Amenable",
+    "phonetic": "",
+    "translation": "\u5e94\u670d\u4ece\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-a-an",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abide-abide-2",
+    "word": "abide",
+    "display": "Abide",
+    "phonetic": "",
+    "translation": "\u575a\u6301",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "abide",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>abide",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "augment-augment-enhance-2",
+    "word": "augment",
+    "display": "Augment",
+    "phonetic": "",
+    "translation": "\u589e\u52a0",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "augment-enhance",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>augment-enhance",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "enhance-augment-enhance-2",
+    "word": "enhance",
+    "display": "Enhance",
+    "phonetic": "",
+    "translation": "\u589e\u52a0",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "augment-enhance",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>augment-enhance",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "astir-astir-2",
+    "word": "astir",
+    "display": "Astir",
+    "phonetic": "",
+    "translation": "\u6fc0\u52a8\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "astir",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aspire",
+    "word": "aspire",
+    "display": "Aspire",
+    "phonetic": "",
+    "translation": "\u6e34\u671b\uff1b\u8ffd\u6c42",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "aspire",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>aspire",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ameliorate",
+    "word": "ameliorate",
+    "display": "Ameliorate",
+    "phonetic": "",
+    "translation": "\u6539\u5584",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ameliorate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>ameliorate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "astray-astray-2",
+    "word": "astray",
+    "display": "Astray",
+    "phonetic": "",
+    "translation": "\u8ff7\u9014\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "astray",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astray",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ascribe-ascribe-2",
+    "word": "ascribe",
+    "display": "Ascribe",
+    "phonetic": "",
+    "translation": "\u5f52\u56e0\u4e8e",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ascribe",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>ascribe",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aver-aver-2",
+    "word": "aver",
+    "display": "Aver",
+    "phonetic": "",
+    "translation": "\u58f0\u79f0\uff1b\u65ad\u8a00",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "aver",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "avow",
+    "word": "avow",
+    "display": "Avow",
+    "phonetic": "",
+    "translation": "\u516c\u5f00\u58f0\u660e",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "avow",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver>avow",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "avenue",
+    "word": "avenue",
+    "display": "Avenue",
+    "phonetic": "",
+    "translation": "\u6797\u836b\u9053\uff1b\u65b9\u6cd5\u9014\u5f84",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "avenue",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver>avenue",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "abut-abut-2",
+    "word": "abut",
+    "display": "Abut",
+    "phonetic": "",
+    "translation": "\u90bb\u63a5",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "abut",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>abut",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amass-amass-2",
+    "word": "amass",
+    "display": "Amass",
+    "phonetic": "",
+    "translation": "\u79ef\u84c4",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amass",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>amass",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amenable-amenable-2",
+    "word": "amenable",
+    "display": "Amenable",
+    "phonetic": "",
+    "translation": "\u5e94\u670d\u4ece\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amenable",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>amenable",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "agglomerate-ad-ag-2",
+    "word": "agglomerate",
+    "display": "Agglomerate",
+    "phonetic": "",
+    "translation": "\u5927\u5757",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ag",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aggrade",
+    "word": "aggrade",
+    "display": "Aggrade",
+    "phonetic": "",
+    "translation": "\u6de4\u79ef",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ag",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aggravate",
+    "word": "aggravate",
+    "display": "Aggravate",
+    "phonetic": "",
+    "translation": "\u52a0\u91cd\uff1b\u6076\u5316",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ag",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aggress",
+    "word": "aggress",
+    "display": "Aggress",
+    "phonetic": "",
+    "translation": "\u653b\u51fb",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ag",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "agglomerate-agglomerate-2",
+    "word": "agglomerate",
+    "display": "Agglomerate",
+    "phonetic": "",
+    "translation": "\u5927\u5757",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "agglomerate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag>agglomerate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aggrade-aggrade-2",
+    "word": "aggrade",
+    "display": "Aggrade",
+    "phonetic": "",
+    "translation": "\u6de4\u79ef",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "aggrade",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggrade",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aggravate-aggravate-2",
+    "word": "aggravate",
+    "display": "Aggravate",
+    "phonetic": "",
+    "translation": "\u52a0\u91cd\uff1b\u6076\u5316",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "aggravate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggravate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aggress-aggress-2",
+    "word": "aggress",
+    "display": "Aggress",
+    "phonetic": "",
+    "translation": "\u653b\u51fb",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "aggress",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggress",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "against",
+    "word": "against",
+    "display": "Against",
+    "phonetic": "",
+    "translation": "\u53cd\u5bf9",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "against",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggress>against",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "aggrieve",
+    "word": "aggrieve",
+    "display": "Aggrieve",
+    "phonetic": "",
+    "translation": "\u4f7f\u70e6\u607c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "aggrieve",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggress>aggrieve",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affiance-ad-af-2",
+    "word": "affiance",
+    "display": "Affiance",
+    "phonetic": "",
+    "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-af",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affiliate",
+    "word": "affiliate",
+    "display": "Affiliate",
+    "phonetic": "",
+    "translation": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-af",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "afforest",
+    "word": "afforest",
+    "display": "Afforest",
+    "phonetic": "",
+    "translation": "\u9020\u6797\u4e8e",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-af",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affright",
+    "word": "affright",
+    "display": "Affright",
+    "phonetic": "",
+    "translation": "\u60ca\u5413\uff1b\u6050\u6016",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-af",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affusion",
+    "word": "affusion",
+    "display": "Affusion",
+    "phonetic": "",
+    "translation": "\u6d47\u704c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-af",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affair",
+    "word": "affair",
+    "display": "Affair",
+    "phonetic": "",
+    "translation": "\u4e8b\u52a1",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-af",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affiance-affiance-2",
+    "word": "affiance",
+    "display": "Affiance",
+    "phonetic": "",
+    "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "affiance",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af>affiance",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affiliate-affiliate-2",
+    "word": "affiliate",
+    "display": "Affiliate",
+    "phonetic": "",
+    "translation": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "affiliate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af>affiliate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "afforest-afforest-2",
+    "word": "afforest",
+    "display": "Afforest",
+    "phonetic": "",
+    "translation": "\u9020\u6797\u4e8e",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "afforest",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af>afforest",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affright-affright-2",
+    "word": "affright",
+    "display": "Affright",
+    "phonetic": "",
+    "translation": "\u60ca\u5413\uff1b\u6050\u6016",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "affright",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af>affright",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affusion-affusion-2",
+    "word": "affusion",
+    "display": "Affusion",
+    "phonetic": "",
+    "translation": "\u6d47\u704c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "affusion",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af>affusion",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "affair-affair-2",
+    "word": "affair",
+    "display": "Affair",
+    "phonetic": "",
+    "translation": "\u4e8b\u52a1",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "affair",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af>affair",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "afford",
+    "word": "afford",
+    "display": "Afford",
+    "phonetic": "",
+    "translation": "\u62c5\u8d1f\u5f97\u8d77",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "afford",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-af>affair>afford",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "augment-ad-aug-2",
+    "word": "augment",
+    "display": "Augment",
+    "phonetic": "",
+    "translation": "\u589e\u5927",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-aug",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "august",
+    "word": "august",
+    "display": "August",
+    "phonetic": "",
+    "translation": "\u5c0a\u4e25\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-aug",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "author",
+    "word": "author",
+    "display": "Author",
+    "phonetic": "",
+    "translation": "\u521b\u9020\u8005\uff1b\u4f5c\u8005",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-aug",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "authorize",
+    "word": "authorize",
+    "display": "Authorize",
+    "phonetic": "",
+    "translation": "\u6388\u6743\uff1b\u59d4\u6258",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-aug",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "authority",
+    "word": "authority",
+    "display": "Authority",
+    "phonetic": "",
+    "translation": "\u6743\u5a01\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-aug",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "authentic",
+    "word": "authentic",
+    "display": "Authentic",
+    "phonetic": "",
+    "translation": "\u53ef\u4fe1\u7684\uff1b\u6743\u5a01\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-aug",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "augment-aug-augment-2",
+    "word": "augment",
+    "display": "Augment",
+    "phonetic": "",
+    "translation": "\u589e\u5927",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "aug-augment",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug>aug-augment",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "august-august-2",
+    "word": "august",
+    "display": "August",
+    "phonetic": "",
+    "translation": "\u5c0a\u4e25\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "august",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug>august",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "author-author-2",
+    "word": "author",
+    "display": "Author",
+    "phonetic": "",
+    "translation": "\u521b\u9020\u8005\uff1b\u4f5c\u8005",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "author",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "authorize-authorize-2",
+    "word": "authorize",
+    "display": "Authorize",
+    "phonetic": "",
+    "translation": "\u6388\u6743\uff1b\u59d4\u6258",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "authorize",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authorize",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "authority-authority-2",
+    "word": "authority",
+    "display": "Authority",
+    "phonetic": "",
+    "translation": "\u6743\u5a01\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "authority",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authority",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "authentic-authentic-2",
+    "word": "authentic",
+    "display": "Authentic",
+    "phonetic": "",
+    "translation": "\u53ef\u4fe1\u7684\uff1b\u6743\u5a01\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "authentic",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authority>authentic",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accuse-ad-ac-2",
+    "word": "accuse",
+    "display": "Accuse",
+    "phonetic": "",
+    "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accumulate",
+    "word": "accumulate",
+    "display": "Accumulate",
+    "phonetic": "",
+    "translation": "\u79ef\u7d2f",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acute-ad-ac-2",
+    "word": "acute",
+    "display": "Acute",
+    "phonetic": "",
+    "translation": "\u5267\u70c8\uff1b\u5c16\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accommodate",
+    "word": "accommodate",
+    "display": "Accommodate",
+    "phonetic": "",
+    "translation": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accumbent",
+    "word": "accumbent",
+    "display": "Accumbent",
+    "phonetic": "",
+    "translation": "\u6a2a\u5367",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accomplish",
+    "word": "accomplish",
+    "display": "Accomplish",
+    "phonetic": "",
+    "translation": "\u5b9e\u73b0",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accompany",
+    "word": "accompany",
+    "display": "Accompany",
+    "phonetic": "",
+    "translation": "\u966a\u4f34",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accession",
+    "word": "accession",
+    "display": "Accession",
+    "phonetic": "",
+    "translation": "\u5c31\u804c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accost",
+    "word": "accost",
+    "display": "Accost",
+    "phonetic": "",
+    "translation": "\u6253\u62db\u547c\uff1b\u52fe\u5f15",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accessory",
+    "word": "accessory",
+    "display": "Accessory",
+    "phonetic": "",
+    "translation": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acclive",
+    "word": "acclive",
+    "display": "Acclive",
+    "phonetic": "",
+    "translation": "\u503e\u659c\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acquire",
+    "word": "acquire",
+    "display": "Acquire",
+    "phonetic": "",
+    "translation": "\u83b7\u5f97",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acknowledge",
+    "word": "acknowledge",
+    "display": "Acknowledge",
+    "phonetic": "",
+    "translation": "\u7b54\u8c22\uff1b\u627f\u8ba4",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accuse-accuse-2",
+    "word": "accuse",
+    "display": "Accuse",
+    "phonetic": "",
+    "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accuse",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accuse",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accumulate-accumulate-2",
+    "word": "accumulate",
+    "display": "Accumulate",
+    "phonetic": "",
+    "translation": "\u79ef\u7d2f",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accumulate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accumulate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acute-ad-ac-acute-2",
+    "word": "acute",
+    "display": "Acute",
+    "phonetic": "",
+    "translation": "\u5267\u70c8\uff1b\u5c16\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-ac-acute",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>ad-ac-acute",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accommodate-accommodate-2",
+    "word": "accommodate",
+    "display": "Accommodate",
+    "phonetic": "",
+    "translation": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accommodate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accommodate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accommodation",
+    "word": "accommodation",
+    "display": "Accommodation",
+    "phonetic": "",
+    "translation": "\u4f4f\u5bbf",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accommodation",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accommodate>accommodation",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accumbent-accumbent-2",
+    "word": "accumbent",
+    "display": "Accumbent",
+    "phonetic": "",
+    "translation": "\u6a2a\u5367",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accumbent",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accumbent",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accomplish-accomplish-2",
+    "word": "accomplish",
+    "display": "Accomplish",
+    "phonetic": "",
+    "translation": "\u5b9e\u73b0",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accomplish",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accomplish",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accompany-accompany-2",
+    "word": "accompany",
+    "display": "Accompany",
+    "phonetic": "",
+    "translation": "\u966a\u4f34",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accompany",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accompany",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accession-accession-2",
+    "word": "accession",
+    "display": "Accession",
+    "phonetic": "",
+    "translation": "\u5c31\u804c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accession",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accession",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accost-accost-2",
+    "word": "accost",
+    "display": "Accost",
+    "phonetic": "",
+    "translation": "\u6253\u62db\u547c\uff1b\u52fe\u5f15",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accost",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accost",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "accessory-accessory-2",
+    "word": "accessory",
+    "display": "Accessory",
+    "phonetic": "",
+    "translation": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "accessory",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accessory",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acclive-acclive-2",
+    "word": "acclive",
+    "display": "Acclive",
+    "phonetic": "",
+    "translation": "\u503e\u659c\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "acclive",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acclive",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acquire-acquire-2",
+    "word": "acquire",
+    "display": "Acquire",
+    "phonetic": "",
+    "translation": "\u83b7\u5f97",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "acquire",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acquaint",
+    "word": "acquaint",
+    "display": "Acquaint",
+    "phonetic": "",
+    "translation": "\u4f7f\u4e86\u89e3",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "acquaint",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquaint",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acquaintance",
+    "word": "acquaintance",
+    "display": "Acquaintance",
+    "phonetic": "",
+    "translation": "\u8ba4\u8bc6\uff1b\u719f\u4eba",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "acquaintance",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquaint>acquaintance",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acquisition",
+    "word": "acquisition",
+    "display": "Acquisition",
+    "phonetic": "",
+    "translation": "\u83b7\u5f97\uff1b\u517b\u6210",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "acquisition",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquisition",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acquisitive",
+    "word": "acquisitive",
+    "display": "Acquisitive",
+    "phonetic": "",
+    "translation": "\u6e34\u671b\u5f97\u5230\u7684\uff1b\u8d2a\u5a6a\u7684",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "acquisitive",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquisitive",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "acknowledge-acknowledge-2",
+    "word": "acknowledge",
+    "display": "Acknowledge",
+    "phonetic": "",
+    "translation": "\u7b54\u8c22\uff1b\u627f\u8ba4",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "acknowledge",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acknowledge",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "allege-ad-al-2",
+    "word": "allege",
+    "display": "Allege",
+    "phonetic": "",
+    "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "alleviate",
+    "word": "alleviate",
+    "display": "Alleviate",
+    "phonetic": "",
+    "translation": "\u51cf\u8f7b\uff1b\u7f13\u548c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "alliance",
+    "word": "alliance",
+    "display": "Alliance",
+    "phonetic": "",
+    "translation": "\u540c\u76df",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ally",
+    "word": "ally",
+    "display": "Ally",
+    "phonetic": "",
+    "translation": "\u540c\u76df",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "allowance",
+    "word": "allowance",
+    "display": "Allowance",
+    "phonetic": "",
+    "translation": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amplifier",
+    "word": "amplifier",
+    "display": "Amplifier",
+    "phonetic": "",
+    "translation": "\u653e\u5927\uff1b\u589e\u5f3a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "assembly",
+    "word": "assembly",
+    "display": "Assembly",
+    "phonetic": "",
+    "translation": "\u96c6\u5408",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "approve",
+    "word": "approve",
+    "display": "Approve",
+    "phonetic": "",
+    "translation": "\u8d5e\u6210",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "approval",
+    "word": "approval",
+    "display": "Approval",
+    "phonetic": "",
+    "translation": "\u8d5e\u6210",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ad-al",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "allege-allege-2",
+    "word": "allege",
+    "display": "Allege",
+    "phonetic": "",
+    "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "allege",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>allege",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "alleviate-alleviate-2",
+    "word": "alleviate",
+    "display": "Alleviate",
+    "phonetic": "",
+    "translation": "\u51cf\u8f7b\uff1b\u7f13\u548c",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "alleviate",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>alleviate",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "alliance-alliance-2",
+    "word": "alliance",
+    "display": "Alliance",
+    "phonetic": "",
+    "translation": "\u540c\u76df",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "alliance",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "ally-ally-2",
+    "word": "ally",
+    "display": "Ally",
+    "phonetic": "",
+    "translation": "\u540c\u76df",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "ally",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance>ally",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "allowance-allowance-2",
+    "word": "allowance",
+    "display": "Allowance",
+    "phonetic": "",
+    "translation": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "allowance",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance>allowance",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "amplifier-amplifier-2",
+    "word": "amplifier",
+    "display": "Amplifier",
+    "phonetic": "",
+    "translation": "\u653e\u5927\uff1b\u589e\u5f3a",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "amplifier",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>amplifier",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "assembly-assembly-2",
+    "word": "assembly",
+    "display": "Assembly",
+    "phonetic": "",
+    "translation": "\u96c6\u5408",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "assembly",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>assembly",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "approve-approve-2",
+    "word": "approve",
+    "display": "Approve",
+    "phonetic": "",
+    "translation": "\u8d5e\u6210",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "approve",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>approve",
+    "sourceLabel": "\u524d\u7f00"
+  },
+  {
+    "id": "approval-approval-2",
+    "word": "approval",
+    "display": "Approval",
+    "phonetic": "",
+    "translation": "\u8d5e\u6210",
+    "sentence": "",
+    "tags": [
+      "root-family",
+      "other"
+    ],
+    "level": 1,
+    "rootId": "approval",
+    "rootPath": "a>a-prefix>ad-add-axx>ad-al>approve>approval",
+    "sourceLabel": "\u524d\u7f00"
+  }
+]

@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "rootId": "a-without",
+  "root": "a-=an-=without",
+  "meaning": "without",
+  "descriptionCn": "\u6ca1\u6709",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "abyss",
+      "word": "abyss",
+      "display": "Abyss",
+      "phonetic": "",
+      "translation": "\u6df1\u6e0a\uff1b\u65e0\u5e95\u6d1e",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anacid",
+      "word": "anacid",
+      "display": "Anacid",
+      "phonetic": "",
+      "translation": "\u65e0\u9178\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anarchy-a-without-2",
+      "word": "anarchy",
+      "display": "Anarchy",
+      "phonetic": "",
+      "translation": "\u653f\u6cbb\u6df7\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anecdote",
+      "word": "anecdote",
+      "display": "Anecdote",
+      "phonetic": "",
+      "translation": "\u5947\u95fb",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anharmonic",
+      "word": "anharmonic",
+      "display": "Anharmonic",
+      "phonetic": "",
+      "translation": "\u4e0d\u548c\u8c10\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anhydrous",
+      "word": "anhydrous",
+      "display": "Anhydrous",
+      "phonetic": "",
+      "translation": "\u65e0\u6c34\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anomaly",
+      "word": "anomaly",
+      "display": "Anomaly",
+      "phonetic": "",
+      "translation": "\u4e0d\u89c4\u5219",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "anonymous",
+      "word": "anonymous",
+      "display": "Anonymous",
+      "phonetic": "",
+      "translation": "\u65e0\u540d\u7684\uff1b\u533f\u540d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "apathy",
+      "word": "apathy",
+      "display": "Apathy",
+      "phonetic": "",
+      "translation": "\u51b7\u6f20",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "aperiodic",
+      "word": "aperiodic",
+      "display": "Aperiodic",
+      "phonetic": "",
+      "translation": "\u975e\u5468\u671f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "asexual",
+      "word": "asexual",
+      "display": "Asexual",
+      "phonetic": "",
+      "translation": "\u65e0\u6027\u7684\uff1b\u65e0\u6027\u751f\u6b96\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "asymmetry",
+      "word": "asymmetry",
+      "display": "Asymmetry",
+      "phonetic": "",
+      "translation": "\u4e0d\u5bf9\u79f0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "atheist",
+      "word": "atheist",
+      "display": "Atheist",
+      "phonetic": "",
+      "translation": "\u65e0\u795e\u8bba\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    },
+    {
+      "id": "atypical",
+      "word": "atypical",
+      "display": "Atypical",
+      "phonetic": "",
+      "translation": "\u975e\u5178\u578b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-prefix",
+  "rootLevel": 3,
+  "rootPath": "a>a-prefix>a-without",
+  "type": "prefix",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

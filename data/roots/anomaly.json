@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "anomaly",
+  "root": "anomaly",
+  "meaning": "",
+  "descriptionCn": "\u4e0d\u89c4\u5219",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "anomaly-anomaly-2",
+      "word": "anomaly",
+      "display": "Anomaly",
+      "phonetic": "",
+      "translation": "\u4e0d\u89c4\u5219",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "physics"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "a-without-physical",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>a-without>a-without-physical>anomaly",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

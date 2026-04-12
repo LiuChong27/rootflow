@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "exaltation",
+  "root": "exaltation",
+  "meaning": "",
+  "descriptionCn": "\u63d0\u5347\uff1b\u5174\u594b",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "exaltation-exaltation-2",
+      "word": "exaltation",
+      "display": "Exaltation",
+      "phonetic": "",
+      "translation": "\u63d0\u5347\uff1b\u5174\u594b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "alt",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>alt>exaltation",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

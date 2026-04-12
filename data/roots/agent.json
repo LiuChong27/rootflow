@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "agent",
+  "root": "agent",
+  "meaning": "",
+  "descriptionCn": "\u4ee3\u7406\u4eba",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "agent-agent-2",
+      "word": "agent",
+      "display": "Agent",
+      "phonetic": "",
+      "translation": "\u4ee3\u7406\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "affairs"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "act",
+  "rootLevel": 3,
+  "rootPath": "a>act>agent",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

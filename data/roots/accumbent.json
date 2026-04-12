@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rootId": "accumbent",
+  "root": "accumbent",
+  "meaning": "",
+  "descriptionCn": "\u6a2a\u5367",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "accumbent-accumbent-2",
+      "word": "accumbent",
+      "display": "Accumbent",
+      "phonetic": "",
+      "translation": "\u6a2a\u5367",
+      "sentence": "",
+      "tags": [
+        "root-family",
+        "other"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "ad-ac",
+  "rootLevel": 5,
+  "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accumbent",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}

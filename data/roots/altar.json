@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "altar",
+  "root": "altar",
+  "meaning": "",
+  "descriptionCn": "\u796d\u575b",
+  "updatedAt": "2026-04-09",
+  "words": [
+    {
+      "id": "altar-altar-2",
+      "word": "altar",
+      "display": "Altar",
+      "phonetic": "",
+      "translation": "\u796d\u575b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "alt",
+  "rootLevel": 4,
+  "rootPath": "a>a-other>alt>altar",
+  "type": "word-family",
+  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+}
