@@ -23,7 +23,7 @@ export function initCloud() {
     return {
       ok: false,
       code: 'WX_CLOUD_UNAVAILABLE',
-      message: '当前环境不支持微信云开发。',
+      message: 'The current environment does not support WeChat Cloud.',
     };
   }
 
@@ -31,7 +31,7 @@ export function initCloud() {
     return {
       ok: false,
       code: 'WX_CLOUD_ENV_MISSING',
-      message: '请先配置微信云开发环境 ID。',
+      message: 'Please configure the WeChat Cloud environment ID first.',
     };
   }
 

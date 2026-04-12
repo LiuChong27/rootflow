@@ -3,49 +3,50 @@
     <view class="cloud-shell">
       <view class="hero">
         <text class="hero__kicker">WECHAT CLOUD</text>
-        <text class="hero__title">云环境配置</text>
+        <text class="hero__title">Cloud Env Setup</text>
         <text class="hero__desc">
-          把微信云开发环境 ID 配进应用后，登录、进度同步和真实统计才能跑通。
+          Configure the WeChat Cloud environment ID here so login, sync, and real stats can run.
         </text>
       </view>
 
       <view class="panel">
-        <text class="panel__label">当前环境 ID</text>
+        <text class="panel__label">Current Env ID</text>
         <input
           v-model="draftEnvId"
           class="panel__input"
           type="text"
-          placeholder="例如 rootflow-prod-1gxxxxxx"
+          placeholder="Example: rootflow-prod-1gxxxxxx"
           placeholder-class="panel__placeholder"
         />
         <text class="panel__hint">
-          在微信开发者工具的云开发控制台复制环境 ID。保存后会重新初始化云能力。
+          Copy the environment ID from WeChat DevTools Cloud Development console. Saving will
+          reinitialize cloud access.
         </text>
 
         <view class="status-card" :class="{ 'is-ok': capability.ok }">
-          <text class="status-card__title">{{
-            capability.ok ? '云能力就绪' : '云能力未就绪'
-          }}</text>
-          <text class="status-card__meta">环境：{{ capability.envId || '未配置' }}</text>
+          <text class="status-card__title">
+            {{ capability.ok ? 'Cloud Ready' : 'Cloud Not Ready' }}
+          </text>
+          <text class="status-card__meta">Env: {{ capability.envId || 'Not configured' }}</text>
           <text class="status-card__meta">
-            {{ capability.message || '当前已经可以调用云函数。' }}
+            {{ capability.message || 'Cloud functions can be called in the current environment.' }}
           </text>
         </view>
 
         <view class="action-row">
           <view class="action-button action-button--primary" @tap="saveEnvId">
-            <text>保存环境</text>
+            <text>Save Env</text>
           </view>
           <view class="action-button" @tap="checkCapability">
-            <text>检测状态</text>
+            <text>Check Status</text>
           </view>
         </view>
         <view class="action-row">
           <view class="action-button action-button--danger" @tap="clearEnvId">
-            <text>清空配置</text>
+            <text>Clear Env</text>
           </view>
           <view class="action-button" @tap="openCloudDoc">
-            <text>查看部署文档</text>
+            <text>Open Guide</text>
           </view>
         </view>
       </view>
@@ -90,30 +91,30 @@ export default {
     saveEnvId() {
       const normalized = String(this.draftEnvId || '').trim();
       if (!normalized) {
-        uni.showToast({ title: '请先输入环境 ID', icon: 'none' });
+        uni.showToast({ title: 'Enter env ID first', icon: 'none' });
         return;
       }
 
       setCloudEnvId(normalized);
       this.refreshCapability();
-      uni.showToast({ title: '环境已保存', icon: 'success' });
+      uni.showToast({ title: 'Env saved', icon: 'success' });
     },
     clearEnvId() {
       resetCloudEnvId();
       this.refreshCapability();
-      uni.showToast({ title: '已清空环境配置', icon: 'none' });
+      uni.showToast({ title: 'Env cleared', icon: 'none' });
     },
     checkCapability() {
       this.refreshCapability();
       uni.showToast({
-        title: this.capability.ok ? '云能力可用' : '请先完成配置',
+        title: this.capability.ok ? 'Cloud is ready' : 'Cloud setup required',
         icon: 'none',
       });
     },
     openCloudDoc() {
       uni.showModal({
-        title: '部署文档',
-        content: '请查看 docs/wechat-cloud-setup.md，按文档完成集合、索引和云函数部署。',
+        title: 'Deployment Guide',
+        content: 'Open docs/wechat-cloud-setup.md in the repository for step-by-step setup.',
         showCancel: false,
       });
     },

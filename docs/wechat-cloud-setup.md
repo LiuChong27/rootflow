@@ -8,7 +8,7 @@ This document covers the first-time setup for RootFlow's real user layer on WeCh
 2. Open the project's Cloud Development panel.
 3. Create a new environment.
 4. Copy the environment ID.
-5. In the mini program, open `我的 -> 云环境配置` and paste the environment ID.
+5. In the mini program, open `My -> Cloud Env Setup` and paste the environment ID.
 
 Recommended naming:
 
@@ -156,7 +156,7 @@ For production readiness, consider:
 
 After setup, verify this flow:
 
-1. Open `我的`
+1. Open `My`
 2. Configure env id
 3. Tap login
 4. Expand a root and mark one word as mastered
@@ -174,7 +174,7 @@ Cause:
 
 Fix:
 
-- open `我的 -> 云环境配置`
+- open `My -> Cloud Env Setup`
 - save the correct env id
 
 ### `WX_CLOUD_UNAVAILABLE`
