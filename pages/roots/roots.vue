@@ -414,9 +414,9 @@ export default {
       const baseSnapshot = this.baseSnapshot;
       return Boolean(
         baseSnapshot &&
-          Array.isArray(baseSnapshot.words) &&
-          baseSnapshot.words.length &&
-          this.shouldShowWords(this.baseRoot.rootId, baseSnapshot),
+        Array.isArray(baseSnapshot.words) &&
+        baseSnapshot.words.length &&
+        this.shouldShowWords(this.baseRoot.rootId, baseSnapshot),
       );
     },
     isCloudLinked() {
@@ -1371,8 +1371,7 @@ export default {
           from: parentNode.id,
           to: currentNode.id,
           side,
-          tone:
-            currentNode.isFocused || currentNode.isPath ? 'primary' : 'secondary',
+          tone: currentNode.isFocused || currentNode.isPath ? 'primary' : 'secondary',
         });
       }
       if (!tree.children.length) return;
@@ -1558,12 +1557,7 @@ export default {
     },
 
     getNodeStyle(node) {
-      const zIndex =
-        node.kind === 'base'
-          ? 4
-          : node.kind === 'word'
-            ? 2
-            : 3;
+      const zIndex = node.kind === 'base' ? 4 : node.kind === 'word' ? 2 : 3;
       return {
         left: Math.round(node.x - node.width / 2) + 'px',
         top: Math.round(node.y - node.height / 2) + 'px',
@@ -1601,7 +1595,11 @@ export default {
         this.setTreeScroll(0, 0, { animate: false });
         return;
       }
-      this.setTreeScroll(targetNode.x - this.viewportWidth / 2, targetNode.y - this.viewportHeight / 2, options);
+      this.setTreeScroll(
+        targetNode.x - this.viewportWidth / 2,
+        targetNode.y - this.viewportHeight / 2,
+        options,
+      );
     },
 
     scheduleDraw() {

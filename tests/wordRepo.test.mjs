@@ -54,16 +54,28 @@ test('getRootBranch returns complete direct children and words for deep root cha
   const acBranch = await wordRepo.getRootBranch('ac');
   assert.equal(acBranch.children.length, acBranch.totalChildren);
   assert.equal(acBranch.words.length, acBranch.totalWords);
-  assert.equal(acBranch.children.some((item) => item.rootId === 'acrobatics'), true);
+  assert.equal(
+    acBranch.children.some((item) => item.rootId === 'acrobatics'),
+    true,
+  );
 
   const acrobaticsBranch = await wordRepo.getRootBranch('acrobatics');
   assert.equal(acrobaticsBranch.children.length, acrobaticsBranch.totalChildren);
-  assert.equal(acrobaticsBranch.children.some((item) => item.rootId === 'acrobatic'), true);
+  assert.equal(
+    acrobaticsBranch.children.some((item) => item.rootId === 'acrobatic'),
+    true,
+  );
 
   const architectBranch = await wordRepo.getRootBranch('architect');
   assert.equal(architectBranch.children.length, architectBranch.totalChildren);
-  assert.equal(architectBranch.children.some((item) => item.rootId === 'architecture'), true);
-  assert.equal(architectBranch.children.some((item) => item.rootId === 'architectural'), true);
+  assert.equal(
+    architectBranch.children.some((item) => item.rootId === 'architecture'),
+    true,
+  );
+  assert.equal(
+    architectBranch.children.some((item) => item.rootId === 'architectural'),
+    true,
+  );
 });
 
 test('getSeedMindTree returns full branch previews without more-pagination truncation', async () => {
@@ -73,6 +85,12 @@ test('getSeedMindTree returns full branch previews without more-pagination trunc
   assert.ok(otherBranch);
   assert.equal(otherBranch.previewChildren.length, otherBranch.totalChildren);
   assert.equal(otherBranch.previewWords.length, otherBranch.totalWords);
-  assert.equal(otherBranch.previewChildren.some((item) => item.rootId === 'ac'), true);
-  assert.equal(otherBranch.previewChildren.some((item) => item.rootId === 'arch'), true);
+  assert.equal(
+    otherBranch.previewChildren.some((item) => item.rootId === 'ac'),
+    true,
+  );
+  assert.equal(
+    otherBranch.previewChildren.some((item) => item.rootId === 'arch'),
+    true,
+  );
 });
