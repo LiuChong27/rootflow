@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "m-other-war",
+  "root": "\u6218",
+  "meaning": "war",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-other-war-march",
+      "word": "march",
+      "display": "March",
+      "phonetic": "",
+      "translation": "\u884c\u519b\uff1b\u884c\u7a0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-war-milit",
+      "word": "milit",
+      "display": "Milit",
+      "phonetic": "",
+      "translation": "\u5175",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-war-militant",
+      "word": "militant",
+      "display": "Militant",
+      "phonetic": "",
+      "translation": "\u597d\u6218\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-war-military",
+      "word": "military",
+      "display": "Military",
+      "phonetic": "",
+      "translation": "\u519b\u4e8b\u7684\uff1b\u519b\u7528\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-war-mort",
+      "word": "mort",
+      "display": "Mort",
+      "phonetic": "",
+      "translation": "\u6b7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-other",
+  "rootLevel": 3,
+  "rootPath": "m>m-other>m-other-war",
+  "type": "branch",
+  "notes": ""
+}

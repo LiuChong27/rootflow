@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "n-negr",
+  "root": "negr=nigr=black\u9ed1",
+  "meaning": "black",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-negr-negro",
+      "word": "negro",
+      "display": "Negro",
+      "phonetic": "",
+      "translation": "\u9ed1\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-negr-night",
+      "word": "night",
+      "display": "Night",
+      "phonetic": "",
+      "translation": "\u591c\u665a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-negr-nightmare",
+      "word": "nightmare",
+      "display": "Nightmare",
+      "phonetic": "",
+      "translation": "\u5669\u68a6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-negr",
+  "type": "root",
+  "notes": ""
+}

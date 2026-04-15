@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "rootId": "s-mind",
+  "root": "\u795e\u5fd7",
+  "meaning": "mind",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-mind-sat",
+      "word": "sat",
+      "display": "Sat",
+      "phonetic": "",
+      "translation": "\u6ee1\u8db3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-satis",
+      "word": "satis",
+      "display": "Satis",
+      "phonetic": "",
+      "translation": "\u6ee1\u8db3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-satisfy",
+      "word": "satisfy",
+      "display": "Satisfy",
+      "phonetic": "",
+      "translation": "\u6ee1\u610f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-satur",
+      "word": "satur",
+      "display": "Satur",
+      "phonetic": "",
+      "translation": "\u6ee1\u8db3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-saturate",
+      "word": "saturate",
+      "display": "Saturate",
+      "phonetic": "",
+      "translation": "\u6d78\u900f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sens",
+      "word": "sens",
+      "display": "Sens",
+      "phonetic": "",
+      "translation": "\u611f\u89c9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sense",
+      "word": "sense",
+      "display": "Sense",
+      "phonetic": "",
+      "translation": "\u611f\u89c9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sensible",
+      "word": "sensible",
+      "display": "Sensible",
+      "phonetic": "",
+      "translation": "\u660e\u667a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sensitive",
+      "word": "sensitive",
+      "display": "Sensitive",
+      "phonetic": "",
+      "translation": "\u654f\u611f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sent",
+      "word": "sent",
+      "display": "Sent",
+      "phonetic": "",
+      "translation": "\u611f\u89c9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sentiment",
+      "word": "sentiment",
+      "display": "Sentiment",
+      "phonetic": "",
+      "translation": "\u611f\u60c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-servant",
+      "word": "servant",
+      "display": "Servant",
+      "phonetic": "",
+      "translation": "\u4ec6\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-serve",
+      "word": "serve",
+      "display": "Serve",
+      "phonetic": "",
+      "translation": "\u670d\u52a1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-service",
+      "word": "service",
+      "display": "Service",
+      "phonetic": "",
+      "translation": "\u670d\u52a1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sore",
+      "word": "sore",
+      "display": "Sore",
+      "phonetic": "",
+      "translation": "\u75bc\u75db\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sorrow",
+      "word": "sorrow",
+      "display": "Sorrow",
+      "phonetic": "",
+      "translation": "\u60b2\u75db",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-mind-sorry",
+      "word": "sorry",
+      "display": "Sorry",
+      "phonetic": "",
+      "translation": "\u96be\u8fc7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-mind",
+  "type": "root",
+  "notes": ""
+}

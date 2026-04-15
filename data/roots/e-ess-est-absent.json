@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "e-ess-est-absent",
+  "root": "absent\u7f3a\u5e2d",
+  "meaning": "absent",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-ess-est-absent-absent",
+      "word": "absent",
+      "display": "Absent",
+      "phonetic": "",
+      "translation": "\u7f3a\u5e2d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ess-est-absent-absent-adj",
+      "word": "absent",
+      "display": "Absent",
+      "phonetic": "",
+      "translation": "\u7f3a\u5e2d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ess-est-absent-presence",
+      "word": "presence",
+      "display": "Presence",
+      "phonetic": "",
+      "translation": "\u51fa\u5e2d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ess-est-absent-present",
+      "word": "present",
+      "display": "Present",
+      "phonetic": "",
+      "translation": "\u51fa\u5e2d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-ess-est",
+  "rootLevel": 3,
+  "rootPath": "e>e-ess-est>e-ess-est-absent",
+  "type": "branch",
+  "notes": ""
+}

@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "rootId": "s-sc",
+  "root": "s=c",
+  "meaning": "s=c",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-sc-scissors",
+      "word": "scissors",
+      "display": "Scissors",
+      "phonetic": "",
+      "translation": "\u526a\u5200",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-sculpture",
+      "word": "sculpture",
+      "display": "Sculpture",
+      "phonetic": "",
+      "translation": "\u96d5\u523b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-seam",
+      "word": "seam",
+      "display": "Seam",
+      "phonetic": "",
+      "translation": "\u63a5\u7f1d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-sect",
+      "word": "sect",
+      "display": "Sect",
+      "phonetic": "",
+      "translation": "\u5207\u5272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-segment",
+      "word": "segment",
+      "display": "Segment",
+      "phonetic": "",
+      "translation": "\u7247\u6bb5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-segregate",
+      "word": "segregate",
+      "display": "Segregate",
+      "phonetic": "",
+      "translation": "\u9694\u79bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-semiconductor",
+      "word": "semiconductor",
+      "display": "Semiconductor",
+      "phonetic": "",
+      "translation": "\u534a\u5bfc\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-serial",
+      "word": "serial",
+      "display": "Serial",
+      "phonetic": "",
+      "translation": "\u8fde\u7eed\u5267",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-session",
+      "word": "session",
+      "display": "Session",
+      "phonetic": "",
+      "translation": "\u4f1a\u8bae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-sew",
+      "word": "sew",
+      "display": "Sew",
+      "phonetic": "",
+      "translation": "\u7f1d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-sharp",
+      "word": "sharp",
+      "display": "Sharp",
+      "phonetic": "",
+      "translation": "\u950b\u5229\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-shatter",
+      "word": "shatter",
+      "display": "Shatter",
+      "phonetic": "",
+      "translation": "\u788e\u7247",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-shave",
+      "word": "shave",
+      "display": "Shave",
+      "phonetic": "",
+      "translation": "\u68af\uff1b\u522e\u8138",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-shear",
+      "word": "shear",
+      "display": "Shear",
+      "phonetic": "",
+      "translation": "\u4fee\u526a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sc-shed",
+      "word": "shed",
+      "display": "Shed",
+      "phonetic": "",
+      "translation": "\u53d1\u6563\uff1b\u8131\u843d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-sc",
+  "type": "root",
+  "notes": ""
+}

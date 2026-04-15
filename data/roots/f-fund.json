@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "rootId": "f-fund",
+  "root": "fund=found=fus\u57fa\u7840\uff1b\u5e95\u90e8",
+  "meaning": "fund",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-fund-circumfuse",
+      "word": "circumfuse",
+      "display": "Circumfuse",
+      "phonetic": "",
+      "translation": "\u56f4\u7ed5\uff1b\u4ece\u56db\u9762\u6d47\u704c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-circumfusion",
+      "word": "circumfusion",
+      "display": "Circumfusion",
+      "phonetic": "",
+      "translation": "\u6563\u5e03\uff1b\u56f4\u7ed5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-confound",
+      "word": "confound",
+      "display": "Confound",
+      "phonetic": "",
+      "translation": "\u4f7f\u60ca\u8bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-confuse",
+      "word": "confuse",
+      "display": "Confuse",
+      "phonetic": "",
+      "translation": "\u4f7f\u6df7\u6dc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-diffuse",
+      "word": "diffuse",
+      "display": "Diffuse",
+      "phonetic": "",
+      "translation": "\u6563\u64ad\uff1b\u4f20\u64ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-found",
+      "word": "found",
+      "display": "Found",
+      "phonetic": "",
+      "translation": "\u5efa\u7acb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-fundamental",
+      "word": "fundamental",
+      "display": "Fundamental",
+      "phonetic": "",
+      "translation": "\u57fa\u7840\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-fuse",
+      "word": "fuse",
+      "display": "Fuse",
+      "phonetic": "",
+      "translation": "\u4fdd\u9669\u4e1d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-fusion",
+      "word": "fusion",
+      "display": "Fusion",
+      "phonetic": "",
+      "translation": "\u878d\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-infuse",
+      "word": "infuse",
+      "display": "Infuse",
+      "phonetic": "",
+      "translation": "\u704c\u8f93",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-interfuse",
+      "word": "interfuse",
+      "display": "Interfuse",
+      "phonetic": "",
+      "translation": "\u4f7f\u878d\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-perfuse",
+      "word": "perfuse",
+      "display": "Perfuse",
+      "phonetic": "",
+      "translation": "\u704c\u6ce8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-profound",
+      "word": "profound",
+      "display": "Profound",
+      "phonetic": "",
+      "translation": "\u6df1\u523b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-profundity",
+      "word": "profundity",
+      "display": "Profundity",
+      "phonetic": "",
+      "translation": "\u6df1\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-profuse",
+      "word": "profuse",
+      "display": "Profuse",
+      "phonetic": "",
+      "translation": "\u6d6a\u8d39\u7684\uff1b\u5927\u91cf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-profuse-generous",
+      "word": "profuse",
+      "display": "Profuse",
+      "phonetic": "",
+      "translation": "\u6177\u6168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-profusion",
+      "word": "profusion",
+      "display": "Profusion",
+      "phonetic": "",
+      "translation": "\u5927\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-refuse",
+      "word": "refuse",
+      "display": "Refuse",
+      "phonetic": "",
+      "translation": "\u62d2\u7edd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-refute",
+      "word": "refute",
+      "display": "Refute",
+      "phonetic": "",
+      "translation": "\u53cd\u9a73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-suffuse",
+      "word": "suffuse",
+      "display": "Suffuse",
+      "phonetic": "",
+      "translation": "\u5145\u6ee1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-transfuse",
+      "word": "transfuse",
+      "display": "Transfuse",
+      "phonetic": "",
+      "translation": "\u6ce8\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-transfusion",
+      "word": "transfusion",
+      "display": "Transfusion",
+      "phonetic": "",
+      "translation": "\u6ce8\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f",
+  "rootLevel": 2,
+  "rootPath": "f>f-fund",
+  "type": "root",
+  "notes": ""
+}

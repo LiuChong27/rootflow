@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "t-text",
+  "root": "text",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-text-test",
+      "word": "test",
+      "display": "Test",
+      "phonetic": "",
+      "translation": "\u6d4b\u9a8c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-text-testify",
+      "word": "testify",
+      "display": "Testify",
+      "phonetic": "",
+      "translation": "\u8bc1\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-text-testimony",
+      "word": "testimony",
+      "display": "Testimony",
+      "phonetic": "",
+      "translation": "\u8bc1\u636e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-text-textbook",
+      "word": "textbook",
+      "display": "Textbook",
+      "phonetic": "",
+      "translation": "\u6559\u79d1\u4e66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-text-textile",
+      "word": "textile",
+      "display": "Textile",
+      "phonetic": "",
+      "translation": "\u7eba\u7ec7\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-text-texture",
+      "word": "texture",
+      "display": "Texture",
+      "phonetic": "",
+      "translation": "\u8d28\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-text-thesis",
+      "word": "thesis",
+      "display": "Thesis",
+      "phonetic": "",
+      "translation": "\u8bba\u6587",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-text",
+  "type": "root",
+  "notes": ""
+}

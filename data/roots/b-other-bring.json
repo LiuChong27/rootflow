@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "rootId": "b-other-bring",
+  "root": "bring\u5e26\u6765",
+  "meaning": "carry",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-other-bring-aphorism",
+      "word": "aphorism",
+      "display": "Aphorism",
+      "phonetic": "",
+      "translation": "\u683c\u8a00\uff08\u5e26\u6765\u601d\u60f3\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-breed",
+      "word": "breed",
+      "display": "Breed",
+      "phonetic": "",
+      "translation": "\u7e41\u6b96\uff1b\u629a\u517b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-breeze",
+      "word": "breeze",
+      "display": "Breeze",
+      "phonetic": "",
+      "translation": "\u5fae\u98ce\uff1b\u6765\u53bb\u5306\u5306",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-bribe",
+      "word": "bribe",
+      "display": "Bribe",
+      "phonetic": "",
+      "translation": "\u8d3f\u8d42\uff08\u5e26\u70b9\u4e1c\u897f\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-bright",
+      "word": "bright",
+      "display": "Bright",
+      "phonetic": "",
+      "translation": "\u660e\u4eae\u7684\uff1b\u6b22\u5feb\u7f8e\u597d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-brilliant",
+      "word": "brilliant",
+      "display": "Brilliant",
+      "phonetic": "",
+      "translation": "\u5149\u8f89\u7684\uff1b\u707f\u70c2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-brittle",
+      "word": "brittle",
+      "display": "Brittle",
+      "phonetic": "",
+      "translation": "\u8106\u5f31\u7684\uff1b\u6613\u788e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-confer",
+      "word": "confer",
+      "display": "Confer",
+      "phonetic": "",
+      "translation": "\u8c08\u5224",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-conferment",
+      "word": "conferment",
+      "display": "Conferment",
+      "phonetic": "",
+      "translation": "\u7ed9\u4e88",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-defer",
+      "word": "defer",
+      "display": "Defer",
+      "phonetic": "",
+      "translation": "\u5ef6\u671f\uff1b\u656c\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-deference",
+      "word": "deference",
+      "display": "Deference",
+      "phonetic": "",
+      "translation": "\u5c0a\u656c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-dysphoria",
+      "word": "dysphoria",
+      "display": "Dysphoria",
+      "phonetic": "",
+      "translation": "\u70e6\u8e81\u4e0d\u5b89\uff08\u5e26\u6765\u4e0d\u597d\u7684\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-euphoria",
+      "word": "euphoria",
+      "display": "Euphoria",
+      "phonetic": "",
+      "translation": "\u6109\u5feb\u611f\uff08\u5e26\u6765\u5feb\u4e50\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-fertile",
+      "word": "fertile",
+      "display": "Fertile",
+      "phonetic": "",
+      "translation": "\u80a5\u6c83\u7684\uff08\u5e26\u6765\u8425\u517b\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-fertilize",
+      "word": "fertilize",
+      "display": "Fertilize",
+      "phonetic": "",
+      "translation": "\u65bd\u80a5\uff1b\u53d7\u7cbe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-proffer",
+      "word": "proffer",
+      "display": "Proffer",
+      "phonetic": "",
+      "translation": "\u63d0\u4f9b\uff1b\u5171\u4eab",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-refer",
+      "word": "refer",
+      "display": "Refer",
+      "phonetic": "",
+      "translation": "\u63d0\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-referable",
+      "word": "referable",
+      "display": "Referable",
+      "phonetic": "",
+      "translation": "\u53ef\u5f52\u56e0\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-bring-referendum",
+      "word": "referendum",
+      "display": "Referendum",
+      "phonetic": "",
+      "translation": "\u516c\u6c11\u6295\u7968\u9009\u4e3e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-other",
+  "rootLevel": 3,
+  "rootPath": "b>b-other>b-other-bring",
+  "type": "root",
+  "notes": ""
+}

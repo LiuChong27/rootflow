@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "rootId": "r-re-again",
+  "root": "\u518d\u6b21",
+  "meaning": "again",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-re-again-rally",
+      "word": "rally",
+      "display": "Rally",
+      "phonetic": "",
+      "translation": "\u6062\u590d\uff1b\u805a\u96c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-recipe",
+      "word": "recipe",
+      "display": "Recipe",
+      "phonetic": "",
+      "translation": "\u70f9\u996a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-recite",
+      "word": "recite",
+      "display": "Recite",
+      "phonetic": "",
+      "translation": "\u80cc\u8bf5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-recover",
+      "word": "recover",
+      "display": "Recover",
+      "phonetic": "",
+      "translation": "\u6062\u590d\uff1b\u75ca\u6108",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-recruit",
+      "word": "recruit",
+      "display": "Recruit",
+      "phonetic": "",
+      "translation": "\u5f81\u52df\uff1b\u5438\u6536",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-recur",
+      "word": "recur",
+      "display": "Recur",
+      "phonetic": "",
+      "translation": "\u91cd\u73b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-recycle",
+      "word": "recycle",
+      "display": "Recycle",
+      "phonetic": "",
+      "translation": "\u518d\u5faa\u73af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-refine",
+      "word": "refine",
+      "display": "Refine",
+      "phonetic": "",
+      "translation": "\u7cbe\u7ec3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-reflect",
+      "word": "reflect",
+      "display": "Reflect",
+      "phonetic": "",
+      "translation": "\u53cd\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-reflection",
+      "word": "reflection",
+      "display": "Reflection",
+      "phonetic": "",
+      "translation": "\u5012\u5f71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-reform",
+      "word": "reform",
+      "display": "Reform",
+      "phonetic": "",
+      "translation": "\u6539\u826f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-refrain",
+      "word": "refrain",
+      "display": "Refrain",
+      "phonetic": "",
+      "translation": "\u8282\u5236\uff1b\u907f\u514d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-rehearsal",
+      "word": "rehearsal",
+      "display": "Rehearsal",
+      "phonetic": "",
+      "translation": "\u6392\u7ec3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-remember",
+      "word": "remember",
+      "display": "Remember",
+      "phonetic": "",
+      "translation": "\u60f3\u8d77",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-renaissance",
+      "word": "renaissance",
+      "display": "Renaissance",
+      "phonetic": "",
+      "translation": "\u6587\u827a\u590d\u5174",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-repair",
+      "word": "repair",
+      "display": "Repair",
+      "phonetic": "",
+      "translation": "\u4fee\u7406",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-repay",
+      "word": "repay",
+      "display": "Repay",
+      "phonetic": "",
+      "translation": "\u62a5\u7b54",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-repertoire",
+      "word": "repertoire",
+      "display": "Repertoire",
+      "phonetic": "",
+      "translation": "\u8282\u76ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-replace",
+      "word": "replace",
+      "display": "Replace",
+      "phonetic": "",
+      "translation": "\u66ff\u4ee3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-replacement",
+      "word": "replacement",
+      "display": "Replacement",
+      "phonetic": "",
+      "translation": "\u53d6\u4ee3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-rescue",
+      "word": "rescue",
+      "display": "Rescue",
+      "phonetic": "",
+      "translation": "\u8425\u6551",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-resolve",
+      "word": "resolve",
+      "display": "Resolve",
+      "phonetic": "",
+      "translation": "\u89e3\u51b3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-resort",
+      "word": "resort",
+      "display": "Resort",
+      "phonetic": "",
+      "translation": "\u6551\u52a9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-resource",
+      "word": "resource",
+      "display": "Resource",
+      "phonetic": "",
+      "translation": "\u8d44\u6e90",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-retail",
+      "word": "retail",
+      "display": "Retail",
+      "phonetic": "",
+      "translation": "\u96f6\u552e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-retrospect",
+      "word": "retrospect",
+      "display": "Retrospect",
+      "phonetic": "",
+      "translation": "\u56de\u987e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-revenue",
+      "word": "revenue",
+      "display": "Revenue",
+      "phonetic": "",
+      "translation": "\u7a0e\u6536",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-review",
+      "word": "review",
+      "display": "Review",
+      "phonetic": "",
+      "translation": "\u56de\u987e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-revise",
+      "word": "revise",
+      "display": "Revise",
+      "phonetic": "",
+      "translation": "\u4fee\u8ba2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-again-revive",
+      "word": "revive",
+      "display": "Revive",
+      "phonetic": "",
+      "translation": "\u6062\u590d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r-re",
+  "rootLevel": 3,
+  "rootPath": "r>r-re>r-re-again",
+  "type": "root",
+  "notes": ""
+}

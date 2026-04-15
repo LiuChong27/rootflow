@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "m-operation-mod",
+  "root": "mod\u65b9\u5f0f",
+  "meaning": "mode",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-operation-mod-mode",
+      "word": "mode",
+      "display": "Mode",
+      "phonetic": "",
+      "translation": "\u65b9\u5f0f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-model",
+      "word": "model",
+      "display": "Model",
+      "phonetic": "",
+      "translation": "\u6a21\u578b\uff1b\u6a21\u4eff",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-moderate",
+      "word": "moderate",
+      "display": "Moderate",
+      "phonetic": "",
+      "translation": "\u4e2d\u7b49\u7684\uff1b\u6e29\u548c\u7684\uff1b\u6587\u4ef6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-modern",
+      "word": "modern",
+      "display": "Modern",
+      "phonetic": "",
+      "translation": "\u73b0\u4ee3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-modernization",
+      "word": "modernization",
+      "display": "Modernization",
+      "phonetic": "",
+      "translation": "\u73b0\u4ee3\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-modest",
+      "word": "modest",
+      "display": "Modest",
+      "phonetic": "",
+      "translation": "\u8c26\u865a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-modify",
+      "word": "modify",
+      "display": "Modify",
+      "phonetic": "",
+      "translation": "\u66f4\u6539\uff1b\u4fee\u9970",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-module",
+      "word": "module",
+      "display": "Module",
+      "phonetic": "",
+      "translation": "\u7ec4\u4ef6\uff1b\u6a21\u5757",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mod-mould",
+      "word": "mould",
+      "display": "Mould",
+      "phonetic": "",
+      "translation": "\u6d47\u94f8\uff1b\u9020\u578b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-mod",
+  "type": "branch",
+  "notes": ""
+}

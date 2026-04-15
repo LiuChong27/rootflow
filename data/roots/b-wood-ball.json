@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "b-wood-ball",
+  "root": "ball\u7403\uff1b\u821e\u4f1a",
+  "meaning": "ball",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-wood-ball-badminton",
+      "word": "badminton",
+      "display": "Badminton",
+      "phonetic": "",
+      "translation": "\u7fbd\u6bdb\u7403",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-ball-ballet",
+      "word": "ballet",
+      "display": "Ballet",
+      "phonetic": "",
+      "translation": "\u82ad\u857e\u821e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-ball-ballot",
+      "word": "ballot",
+      "display": "Ballot",
+      "phonetic": "",
+      "translation": "\u6295\u7968",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-ball-beverage",
+      "word": "beverage",
+      "display": "Beverage",
+      "phonetic": "",
+      "translation": "\u996e\u6599",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-ball-bowling",
+      "word": "bowling",
+      "display": "Bowling",
+      "phonetic": "",
+      "translation": "\u4fdd\u9f84\u7403",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-ball-bubble",
+      "word": "bubble",
+      "display": "Bubble",
+      "phonetic": "",
+      "translation": "\u6c14\u6ce1\uff1b\u5192\u6ce1\uff1b\u6cb8\u817e\uff1b\u6fc0\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-ball-bulb",
+      "word": "bulb",
+      "display": "Bulb",
+      "phonetic": "",
+      "translation": "\u706f\u6ce1\uff1b\u7403\u72b6\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-ball-imbibe",
+      "word": "imbibe",
+      "display": "Imbibe",
+      "phonetic": "",
+      "translation": "\u5438\u6536",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-wood",
+  "rootLevel": 3,
+  "rootPath": "b>b-wood>b-wood-ball",
+  "type": "root",
+  "notes": ""
+}

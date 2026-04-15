@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "c-common",
+  "root": "C\u5171\u540c",
+  "meaning": "common",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-common",
+  "type": "root",
+  "notes": ""
+}

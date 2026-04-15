@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "rootId": "p-other-plac",
+  "root": "plac=pleas \u53d6\u60a6",
+  "meaning": "please",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-other-plac-complacent",
+      "word": "complacent",
+      "display": "Complacent",
+      "phonetic": "",
+      "translation": "\u81ea\u6ee1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-complaisance",
+      "word": "complaisance",
+      "display": "Complaisance",
+      "phonetic": "",
+      "translation": "\u6bb7\u52e4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-complaisant",
+      "word": "complaisant",
+      "display": "Complaisant",
+      "phonetic": "",
+      "translation": "\u6bb7\u52e4\u7684\uff1b\u987a\u4ece\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-displease",
+      "word": "displease",
+      "display": "Displease",
+      "phonetic": "",
+      "translation": "\u4f7f\u4e0d\u9ad8\u5174",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-implacable",
+      "word": "implacable",
+      "display": "Implacable",
+      "phonetic": "",
+      "translation": "\u96be\u5e73\u606f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-placate",
+      "word": "placate",
+      "display": "Placate",
+      "phonetic": "",
+      "translation": "\u5b89\u629a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-placatory",
+      "word": "placatory",
+      "display": "Placatory",
+      "phonetic": "",
+      "translation": "\u5b89\u629a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-pleasant",
+      "word": "pleasant",
+      "display": "Pleasant",
+      "phonetic": "",
+      "translation": "\u4ee4\u4eba\u6109\u5feb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-pleasantry",
+      "word": "pleasantry",
+      "display": "Pleasantry",
+      "phonetic": "",
+      "translation": "\u5e7d\u9ed8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-please",
+      "word": "please",
+      "display": "Please",
+      "phonetic": "",
+      "translation": "\u559c\u6b22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-pleasing",
+      "word": "pleasing",
+      "display": "Pleasing",
+      "phonetic": "",
+      "translation": "\u6109\u5feb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-pleasure",
+      "word": "pleasure",
+      "display": "Pleasure",
+      "phonetic": "",
+      "translation": "\u6109\u5feb\uff1b\u4e50\u8da3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-pledge",
+      "word": "pledge",
+      "display": "Pledge",
+      "phonetic": "",
+      "translation": "\u8a93\u7ea6\uff1b\u53d1\u8a93",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-plac-unpleasant",
+      "word": "unpleasant",
+      "display": "Unpleasant",
+      "phonetic": "",
+      "translation": "\u4f7f\u4e0d\u5feb\u4e50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p-other",
+  "rootLevel": 3,
+  "rootPath": "p>p-other>p-other-plac",
+  "type": "branch",
+  "notes": ""
+}

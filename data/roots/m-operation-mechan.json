@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "m-operation-mechan",
+  "root": "mechan\u673a\u68b0",
+  "meaning": "mechanic",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-operation-mechan-mechanic",
+      "word": "mechanic",
+      "display": "Mechanic",
+      "phonetic": "",
+      "translation": "\u6280\u5de5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mechan-mechanical",
+      "word": "mechanical",
+      "display": "Mechanical",
+      "phonetic": "",
+      "translation": "\u673a\u68b0\u7684\uff1b\u5446\u677f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mechan-mechanism",
+      "word": "mechanism",
+      "display": "Mechanism",
+      "phonetic": "",
+      "translation": "\u673a\u68b0\u88c5\u7f6e\uff1b\u673a\u6784\uff1b\u673a\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-mechan",
+  "type": "branch",
+  "notes": ""
+}

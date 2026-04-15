@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "rootId": "g-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-other-gauge",
+      "word": "gauge",
+      "display": "Gauge",
+      "phonetic": "",
+      "translation": "\u6d4b\u91cf\uff1b\u89c4\u683c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-gear",
+      "word": "gear",
+      "display": "Gear",
+      "phonetic": "",
+      "translation": "\u9f7f\u8f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-glamor",
+      "word": "glamor",
+      "display": "Glamor",
+      "phonetic": "",
+      "translation": "\u9b45\u529b\uff1b\u9b54\u6cd5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-glare",
+      "word": "glare",
+      "display": "Glare",
+      "phonetic": "",
+      "translation": "\u6012\u89c6\uff1b\u70ab\u8000",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-glitter",
+      "word": "glitter",
+      "display": "Glitter",
+      "phonetic": "",
+      "translation": "\u5149\u8f89\uff1b\u95ea\u8000",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-gloomy",
+      "word": "gloomy",
+      "display": "Gloomy",
+      "phonetic": "",
+      "translation": "\u9634\u90c1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-glory",
+      "word": "glory",
+      "display": "Glory",
+      "phonetic": "",
+      "translation": "\u5149\u8363\uff1b\u8363\u8a89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-good",
+      "word": "good",
+      "display": "Good",
+      "phonetic": "",
+      "translation": "\u597d\u7684\uff1b\u5229\u76ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-goodness",
+      "word": "goodness",
+      "display": "Goodness",
+      "phonetic": "",
+      "translation": "\u5546\u91cf\uff1b\u4ec1\u6148",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-goods",
+      "word": "goods",
+      "display": "Goods",
+      "phonetic": "",
+      "translation": "\u5546\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-gorgeous",
+      "word": "gorgeous",
+      "display": "Gorgeous",
+      "phonetic": "",
+      "translation": "\u534e\u4e3d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-govern",
+      "word": "govern",
+      "display": "Govern",
+      "phonetic": "",
+      "translation": "\u7edf\u6cbb\uff1b\u7ba1\u7406",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-government",
+      "word": "government",
+      "display": "Government",
+      "phonetic": "",
+      "translation": "\u653f\u5e9c\uff1b\u653f\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-governor",
+      "word": "governor",
+      "display": "Governor",
+      "phonetic": "",
+      "translation": "\u7edf\u6cbb\u8005\uff1b\u7ba1\u7406\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-gown",
+      "word": "gown",
+      "display": "Gown",
+      "phonetic": "",
+      "translation": "\u957f\u888d\uff1b\u7279\u6b8a\u573a\u5408\u7a7f\u7684\u957f\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-grace",
+      "word": "grace",
+      "display": "Grace",
+      "phonetic": "",
+      "translation": "\u4f18\u7f8e\uff1b\u6587\u96c5\uff1b\u7f13\u5211",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-graceful",
+      "word": "graceful",
+      "display": "Graceful",
+      "phonetic": "",
+      "translation": "\u4f18\u7f8e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-gracious",
+      "word": "gracious",
+      "display": "Gracious",
+      "phonetic": "",
+      "translation": "\u4eb2\u5207\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-grand",
+      "word": "grand",
+      "display": "Grand",
+      "phonetic": "",
+      "translation": "\u91cd\u5927\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-grant",
+      "word": "grant",
+      "display": "Grant",
+      "phonetic": "",
+      "translation": "\u540c\u610f\uff1b\u6388\u4e88",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-great",
+      "word": "great",
+      "display": "Great",
+      "phonetic": "",
+      "translation": "\u4f1f\u5927\u7684\uff1b\u91cd\u8981\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-greedy",
+      "word": "greedy",
+      "display": "Greedy",
+      "phonetic": "",
+      "translation": "\u8d2a\u5a6a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-greet",
+      "word": "greet",
+      "display": "Greet",
+      "phonetic": "",
+      "translation": "\u81f4\u656c\uff1b\u656c\u610f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-greeting",
+      "word": "greeting",
+      "display": "Greeting",
+      "phonetic": "",
+      "translation": "\u95ee\u5019",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-grim",
+      "word": "grim",
+      "display": "Grim",
+      "phonetic": "",
+      "translation": "\u4e25\u9177\u7684\uff1b\u4ee4\u4eba\u5bb3\u6015\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-grin",
+      "word": "grin",
+      "display": "Grin",
+      "phonetic": "",
+      "translation": "\u9732\u9f7f\u800c\u7b11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-grind",
+      "word": "grind",
+      "display": "Grind",
+      "phonetic": "",
+      "translation": "\u78e8\u788e\uff1b\u78be\u788e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-other-grocer",
+      "word": "grocer",
+      "display": "Grocer",
+      "phonetic": "",
+      "translation": "\u98df\u54c1\u5546",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-other",
+  "type": "root",
+  "notes": ""
+}

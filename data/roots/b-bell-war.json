@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "b-bell-war",
+  "root": "bell=war\u6218\u4e89",
+  "meaning": "war",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-bell-babel",
+      "word": "babel",
+      "display": "Babel",
+      "phonetic": "",
+      "translation": "\u6df7\u4e71\uff1b\u5608\u6742",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bell-ballot",
+      "word": "ballot",
+      "display": "Ballot",
+      "phonetic": "",
+      "translation": "\u9009\u7968",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bell-bellicose",
+      "word": "bellicose",
+      "display": "Bellicose",
+      "phonetic": "",
+      "translation": "\u597d\u6218\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bell-belligerent",
+      "word": "belligerent",
+      "display": "Belligerent",
+      "phonetic": "",
+      "translation": "\u597d\u6218\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bell-rebel",
+      "word": "rebel",
+      "display": "Rebel",
+      "phonetic": "",
+      "translation": "\u53db\u5f92",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-bell-war",
+  "type": "root",
+  "notes": ""
+}

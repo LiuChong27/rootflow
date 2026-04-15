@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "o-other-oper",
+  "root": "oper=work\u5de5\u4f5c",
+  "meaning": "work",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-other-oper-opera",
+      "word": "opera",
+      "display": "Opera",
+      "phonetic": "",
+      "translation": "\u6b4c\u5267",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-other-oper-operate",
+      "word": "operate",
+      "display": "Operate",
+      "phonetic": "",
+      "translation": "\u64cd\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-other-oper-operation",
+      "word": "operation",
+      "display": "Operation",
+      "phonetic": "",
+      "translation": "\u624b\u672f\uff1b\u7ecf\u8425\uff1b\u8fd0\u8f6c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-other-oper-operator",
+      "word": "operator",
+      "display": "Operator",
+      "phonetic": "",
+      "translation": "\u64cd\u4f5c\u4eba\u5458\uff1b\u63a5\u7ebf\u5458",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o-other",
+  "rootLevel": 3,
+  "rootPath": "o>o-other>o-other-oper",
+  "type": "branch",
+  "notes": ""
+}

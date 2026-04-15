@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "n-new-nerv",
+  "root": "nerv\u795e\u7ecf",
+  "meaning": "nerve",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-new-nerv-nephew",
+      "word": "nephew",
+      "display": "Nephew",
+      "phonetic": "",
+      "translation": "\u4f84\u5b50\uff1b\u5916\u7525",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nerv-nerve",
+      "word": "nerve",
+      "display": "Nerve",
+      "phonetic": "",
+      "translation": "\u795e\u7ecf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nerv-nervous",
+      "word": "nervous",
+      "display": "Nervous",
+      "phonetic": "",
+      "translation": "\u795e\u7ecf\u7684\uff1b\u7d27\u5f20\u4e0d\u5b89\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nerv-neural",
+      "word": "neural",
+      "display": "Neural",
+      "phonetic": "",
+      "translation": "\u795e\u7ecf\u4e2d\u67a2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nerv-neure",
+      "word": "neure",
+      "display": "Neure",
+      "phonetic": "",
+      "translation": "\u795e\u7ecf\u5143",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nerv-niece",
+      "word": "niece",
+      "display": "Niece",
+      "phonetic": "",
+      "translation": "\u4f84\u5973",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n-new",
+  "rootLevel": 3,
+  "rootPath": "n>n-new>n-new-nerv",
+  "type": "branch",
+  "notes": ""
+}

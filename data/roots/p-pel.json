@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "rootId": "p-pel",
+  "root": "pel=push \u63a8",
+  "meaning": "push",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-pel-compel",
+      "word": "compel",
+      "display": "Compel",
+      "phonetic": "",
+      "translation": "\u5f3a\u8feb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-compulsion",
+      "word": "compulsion",
+      "display": "Compulsion",
+      "phonetic": "",
+      "translation": "\u538b\u529b\uff1b\u5f3a\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-expulse",
+      "word": "expulse",
+      "display": "Expulse",
+      "phonetic": "",
+      "translation": "\u9a71\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-expulsion",
+      "word": "expulsion",
+      "display": "Expulsion",
+      "phonetic": "",
+      "translation": "\u9a71\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-impel",
+      "word": "impel",
+      "display": "Impel",
+      "phonetic": "",
+      "translation": "\u63a8\u52a8\uff1b\u6fc0\u52b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-impeller",
+      "word": "impeller",
+      "display": "Impeller",
+      "phonetic": "",
+      "translation": "\u63a8\u8fdb\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-impulse",
+      "word": "impulse",
+      "display": "Impulse",
+      "phonetic": "",
+      "translation": "\u63a8\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-impulsion",
+      "word": "impulsion",
+      "display": "Impulsion",
+      "phonetic": "",
+      "translation": "\u9a71\u4f7f\uff1b\u63a8\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-impulsive",
+      "word": "impulsive",
+      "display": "Impulsive",
+      "phonetic": "",
+      "translation": "\u5bb9\u6613\u51b2\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-propel",
+      "word": "propel",
+      "display": "Propel",
+      "phonetic": "",
+      "translation": "\u63a8\u52a8\uff1b\u9f13\u52b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-propeller",
+      "word": "propeller",
+      "display": "Propeller",
+      "phonetic": "",
+      "translation": "\u87ba\u65cb\u6868",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-pulsate",
+      "word": "pulsate",
+      "display": "Pulsate",
+      "phonetic": "",
+      "translation": "\u640f\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-pulse",
+      "word": "pulse",
+      "display": "Pulse",
+      "phonetic": "",
+      "translation": "\u8109\u640f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-pump",
+      "word": "pump",
+      "display": "Pump",
+      "phonetic": "",
+      "translation": "\u6cf5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-punch",
+      "word": "punch",
+      "display": "Punch",
+      "phonetic": "",
+      "translation": "\u51b2\u538b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-punctual",
+      "word": "punctual",
+      "display": "Punctual",
+      "phonetic": "",
+      "translation": "\u51c6\u65f6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-punish",
+      "word": "punish",
+      "display": "Punish",
+      "phonetic": "",
+      "translation": "\u60e9\u7f5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-repel",
+      "word": "repel",
+      "display": "Repel",
+      "phonetic": "",
+      "translation": "\u51fb\u9000\uff1b\u4f7f\u8ba8\u538c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-repellent",
+      "word": "repellent",
+      "display": "Repellent",
+      "phonetic": "",
+      "translation": "\u8ba8\u538c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-repulse",
+      "word": "repulse",
+      "display": "Repulse",
+      "phonetic": "",
+      "translation": "\u53cd\u51fb\uff1b\u8c22\u7edd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-repulsion",
+      "word": "repulsion",
+      "display": "Repulsion",
+      "phonetic": "",
+      "translation": "\u538c\u6076\uff1b\u53cd\u9a73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pel-repulsive",
+      "word": "repulsive",
+      "display": "Repulsive",
+      "phonetic": "",
+      "translation": "\u6392\u65a5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-pel",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,459 @@
+{
+  "version": 1,
+  "rootId": "f-fac-fac",
+  "root": "fac=fair=feat=fit=f'ect=f'ic=fic",
+  "meaning": "fac",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-fac-fac-affair",
+      "word": "affair",
+      "display": "Affair",
+      "phonetic": "",
+      "translation": "\u4e8b\u52a1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-affect",
+      "word": "affect",
+      "display": "Affect",
+      "phonetic": "",
+      "translation": "\u5f71\u54cd\uff1b\u611f\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-affectation",
+      "word": "affectation",
+      "display": "Affectation",
+      "phonetic": "",
+      "translation": "\u7231\uff1b\u60c5\u611f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-affection",
+      "word": "affection",
+      "display": "Affection",
+      "phonetic": "",
+      "translation": "\u5047\u88c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-affectionate",
+      "word": "affectionate",
+      "display": "Affectionate",
+      "phonetic": "",
+      "translation": "\u4eb2\u7231\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-beneficent",
+      "word": "beneficent",
+      "display": "Beneficent",
+      "phonetic": "",
+      "translation": "\u4ec1\u6148\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-benefit",
+      "word": "benefit",
+      "display": "Benefit",
+      "phonetic": "",
+      "translation": "\u597d\u5904",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-confection",
+      "word": "confection",
+      "display": "Confection",
+      "phonetic": "",
+      "translation": "\u7cd6\u679c\uff1b\u5236\u9020",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-counterfeit",
+      "word": "counterfeit",
+      "display": "Counterfeit",
+      "phonetic": "",
+      "translation": "\u8d5d\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-defeat",
+      "word": "defeat",
+      "display": "Defeat",
+      "phonetic": "",
+      "translation": "\u51fb\u8d25",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-defect",
+      "word": "defect",
+      "display": "Defect",
+      "phonetic": "",
+      "translation": "\u7f3a\u70b9\uff1b\u53db\u53d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-deficient",
+      "word": "deficient",
+      "display": "Deficient",
+      "phonetic": "",
+      "translation": "\u7f3a\u4e4f\u7684\uff1b\u4e0d\u8db3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-difficult",
+      "word": "difficult",
+      "display": "Difficult",
+      "phonetic": "",
+      "translation": "\u56f0\u96be\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-effect",
+      "word": "effect",
+      "display": "Effect",
+      "phonetic": "",
+      "translation": "\u6548\u679c\uff1b\u5f71\u54cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-efficacious",
+      "word": "efficacious",
+      "display": "Efficacious",
+      "phonetic": "",
+      "translation": "\u6709\u6548\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-efficiency",
+      "word": "efficiency",
+      "display": "Efficiency",
+      "phonetic": "",
+      "translation": "\u9ad8\u6548\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-facile",
+      "word": "facile",
+      "display": "Facile",
+      "phonetic": "",
+      "translation": "\u5bb9\u6613\u505a\u5230\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-facilitate",
+      "word": "facilitate",
+      "display": "Facilitate",
+      "phonetic": "",
+      "translation": "\u4f7f\u5bb9\u6613",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-facility",
+      "word": "facility",
+      "display": "Facility",
+      "phonetic": "",
+      "translation": "\u719f\u7ec3\uff1b\u8bbe\u5907",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-faction",
+      "word": "faction",
+      "display": "Faction",
+      "phonetic": "",
+      "translation": "\u5c0f\u96c6\u56e2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-factor",
+      "word": "factor",
+      "display": "Factor",
+      "phonetic": "",
+      "translation": "\u56e0\u7d20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-factory",
+      "word": "factory",
+      "display": "Factory",
+      "phonetic": "",
+      "translation": "\u5de5\u5382",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-faculty",
+      "word": "faculty",
+      "display": "Faculty",
+      "phonetic": "",
+      "translation": "\u624d\u80fd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-feat",
+      "word": "feat",
+      "display": "Feat",
+      "phonetic": "",
+      "translation": "\u6280\u827a\uff1b\u529f\u7ee9\uff1b\u58ee\u4e3e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-feature",
+      "word": "feature",
+      "display": "Feature",
+      "phonetic": "",
+      "translation": "\u7279\u5f81\uff1b\u5bb9\u8c8c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-forfeit",
+      "word": "forfeit",
+      "display": "Forfeit",
+      "phonetic": "",
+      "translation": "\u7f5a\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-infect",
+      "word": "infect",
+      "display": "Infect",
+      "phonetic": "",
+      "translation": "\u4f20\u67d3\uff1b\u611f\u67d3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-magnificence",
+      "word": "magnificence",
+      "display": "Magnificence",
+      "phonetic": "",
+      "translation": "\u534e\u4e3d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-magnificent",
+      "word": "magnificent",
+      "display": "Magnificent",
+      "phonetic": "",
+      "translation": "\u534e\u4e3d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-malefaction",
+      "word": "malefaction",
+      "display": "Malefaction",
+      "phonetic": "",
+      "translation": "\u574f\u4e8b\uff1b\u7f6a\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-manufacture",
+      "word": "manufacture",
+      "display": "Manufacture",
+      "phonetic": "",
+      "translation": "\u5236\u9020",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-perfect",
+      "word": "perfect",
+      "display": "Perfect",
+      "phonetic": "",
+      "translation": "\u5b8c\u7f8e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-profit",
+      "word": "profit",
+      "display": "Profit",
+      "phonetic": "",
+      "translation": "\u5229\u6da6\uff1b\u6709\u5229\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-sacrifice",
+      "word": "sacrifice",
+      "display": "Sacrifice",
+      "phonetic": "",
+      "translation": "\u727a\u7272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-suffice",
+      "word": "suffice",
+      "display": "Suffice",
+      "phonetic": "",
+      "translation": "\u4f7f\u6ee1\u8db3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-sufficient",
+      "word": "sufficient",
+      "display": "Sufficient",
+      "phonetic": "",
+      "translation": "\u5145\u8db3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fac-fac-surfeit",
+      "word": "surfeit",
+      "display": "Surfeit",
+      "phonetic": "",
+      "translation": "\u8fc7\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-fac",
+  "rootLevel": 3,
+  "rootPath": "f>f-fac>f-fac-fac",
+  "type": "branch",
+  "notes": ""
+}

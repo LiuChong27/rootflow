@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "v-vert",
+  "root": "vert=vers=turn",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-vert-versatile",
+      "word": "versatile",
+      "display": "Versatile",
+      "phonetic": "",
+      "translation": "\u901a\u7528\u7684;\u591a\u65b9\u9762\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vert-verse",
+      "word": "verse",
+      "display": "Verse",
+      "phonetic": "",
+      "translation": "\u8bd7\u53e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vert-version",
+      "word": "version",
+      "display": "Version",
+      "phonetic": "",
+      "translation": "\u7248\u672c;\u8bd1\u6587",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vert-versus",
+      "word": "versus",
+      "display": "Versus",
+      "phonetic": "",
+      "translation": "\u4e0e...\u76f8\u5bf9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vert-vertical",
+      "word": "vertical",
+      "display": "Vertical",
+      "phonetic": "",
+      "translation": "\u5782\u76f4\u7684;\u5782\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-vert",
+  "type": "root",
+  "notes": ""
+}

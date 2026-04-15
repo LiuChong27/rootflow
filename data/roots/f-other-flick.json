@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "f-other-flick",
+  "root": "flick\u6253\u51fb",
+  "meaning": "flick",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-other-flick-afflict",
+      "word": "afflict",
+      "display": "Afflict",
+      "phonetic": "",
+      "translation": "\u4f7f\u75db\u82e6\uff1b\u6298\u78e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-flick-affliction",
+      "word": "affliction",
+      "display": "Affliction",
+      "phonetic": "",
+      "translation": "\u75db\u82e6\uff1b\u6298\u78e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-flick-conflict",
+      "word": "conflict",
+      "display": "Conflict",
+      "phonetic": "",
+      "translation": "\u6597\u4e89\uff1b\u51b2\u7a81",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-flick-inflict",
+      "word": "inflict",
+      "display": "Inflict",
+      "phonetic": "",
+      "translation": "\u7ed9\u4e88\uff1b\u5904\u7f5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-flick-infliction",
+      "word": "infliction",
+      "display": "Infliction",
+      "phonetic": "",
+      "translation": "\u4e16\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-flick-inflictive",
+      "word": "inflictive",
+      "display": "Inflictive",
+      "phonetic": "",
+      "translation": "\u52a0\u4ee5\u6253\u51fb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-other",
+  "rootLevel": 3,
+  "rootPath": "f>f-other>f-other-flick",
+  "type": "branch",
+  "notes": ""
+}

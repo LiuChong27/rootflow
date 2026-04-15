@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "g-grad",
+  "root": "grad=step\u6b65",
+  "meaning": "grad",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-grad-grandsire",
+      "word": "grandsire",
+      "display": "Grandsire",
+      "phonetic": "",
+      "translation": "\u7956\u5148",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grad-grannie",
+      "word": "grannie",
+      "display": "Grannie",
+      "phonetic": "",
+      "translation": "\u7956\u6bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-grad",
+  "type": "root",
+  "notes": ""
+}

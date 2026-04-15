@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "rootId": "c-other-cre",
+  "root": "c-other-cre",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-cre-concrete",
+      "word": "concrete",
+      "display": "Concrete",
+      "phonetic": "",
+      "translation": "\u5177\u4f53\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-create",
+      "word": "create",
+      "display": "Create",
+      "phonetic": "",
+      "translation": "\u521b\u9020",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-creation",
+      "word": "creation",
+      "display": "Creation",
+      "phonetic": "",
+      "translation": "\u4ea7\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-creative",
+      "word": "creative",
+      "display": "Creative",
+      "phonetic": "",
+      "translation": "\u521b\u9020\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-creature",
+      "word": "creature",
+      "display": "Creature",
+      "phonetic": "",
+      "translation": "\u52a8\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-decrease",
+      "word": "decrease",
+      "display": "Decrease",
+      "phonetic": "",
+      "translation": "\u51cf\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-increase",
+      "word": "increase",
+      "display": "Increase",
+      "phonetic": "",
+      "translation": "\u589e\u52a0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-procreate",
+      "word": "procreate",
+      "display": "Procreate",
+      "phonetic": "",
+      "translation": "\u751f\u80b2\u5b50\u5973\uff1b\u751f\u6b96",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-recreation",
+      "word": "recreation",
+      "display": "Recreation",
+      "phonetic": "",
+      "translation": "\u5a31\u4e50\uff1b\u6d88\u9063",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-recreative",
+      "word": "recreative",
+      "display": "Recreative",
+      "phonetic": "",
+      "translation": "\u6d88\u9063\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cre-recruit",
+      "word": "recruit",
+      "display": "Recruit",
+      "phonetic": "",
+      "translation": "\u8865\u5145\uff1b\u5f81\u52df",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

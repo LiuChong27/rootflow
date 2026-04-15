@@ -1,0 +1,831 @@
+{
+  "version": 1,
+  "rootId": "c-common-com",
+  "root": "com",
+  "meaning": "com",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-common-com-comb",
+      "word": "comb",
+      "display": "Comb",
+      "phonetic": "",
+      "translation": "\u68b3\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-combat",
+      "word": "combat",
+      "display": "Combat",
+      "phonetic": "",
+      "translation": "\u6218\u6597",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-combination",
+      "word": "combination",
+      "display": "Combination",
+      "phonetic": "",
+      "translation": "\u7ed3\u5408\uff1b\u56e2\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-combine",
+      "word": "combine",
+      "display": "Combine",
+      "phonetic": "",
+      "translation": "\u7ed3\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comedy",
+      "word": "comedy",
+      "display": "Comedy",
+      "phonetic": "",
+      "translation": "\u559c\u5267",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comfort",
+      "word": "comfort",
+      "display": "Comfort",
+      "phonetic": "",
+      "translation": "\u8212\u9002\uff1b\u5b89\u9038",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comfortable",
+      "word": "comfortable",
+      "display": "Comfortable",
+      "phonetic": "",
+      "translation": "\u8212\u670d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comic",
+      "word": "comic",
+      "display": "Comic",
+      "phonetic": "",
+      "translation": "\u559c\u5267\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-command",
+      "word": "command",
+      "display": "Command",
+      "phonetic": "",
+      "translation": "\u547d\u4ee4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commemorate",
+      "word": "commemorate",
+      "display": "Commemorate",
+      "phonetic": "",
+      "translation": "\u7eaa\u5ff5\uff1b\u5e86\u795d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commence",
+      "word": "commence",
+      "display": "Commence",
+      "phonetic": "",
+      "translation": "\u5f00\u59cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commend",
+      "word": "commend",
+      "display": "Commend",
+      "phonetic": "",
+      "translation": "\u8868\u626c\uff1b\u79f0\u8d5e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comment",
+      "word": "comment",
+      "display": "Comment",
+      "phonetic": "",
+      "translation": "\u610f\u89c1\uff1b\u6ce8\u91ca\uff1b\u8bc4\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commerce",
+      "word": "commerce",
+      "display": "Commerce",
+      "phonetic": "",
+      "translation": "\u8d38\u6613\uff1b\u4ea4\u5f80",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commercial",
+      "word": "commercial",
+      "display": "Commercial",
+      "phonetic": "",
+      "translation": "\u5546\u4e1a\u7684\uff1b\u5546\u52a1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commission",
+      "word": "commission",
+      "display": "Commission",
+      "phonetic": "",
+      "translation": "\u5c45\u59d4\u4f1a\uff1b\u59d4\u6258",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commit",
+      "word": "commit",
+      "display": "Commit",
+      "phonetic": "",
+      "translation": "\u4ea4\u7ed9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-committee",
+      "word": "committee",
+      "display": "Committee",
+      "phonetic": "",
+      "translation": "\u59d4\u5458\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commodity",
+      "word": "commodity",
+      "display": "Commodity",
+      "phonetic": "",
+      "translation": "\u65e5\u7528\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-common",
+      "word": "common",
+      "display": "Common",
+      "phonetic": "",
+      "translation": "\u666e\u901a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commonplace",
+      "word": "commonplace",
+      "display": "Commonplace",
+      "phonetic": "",
+      "translation": "\u666e\u901a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commonwealth",
+      "word": "commonwealth",
+      "display": "Commonwealth",
+      "phonetic": "",
+      "translation": "\u5171\u548c\u56fd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-communicate",
+      "word": "communicate",
+      "display": "Communicate",
+      "phonetic": "",
+      "translation": "\u4f20\u8fbe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-communication",
+      "word": "communication",
+      "display": "Communication",
+      "phonetic": "",
+      "translation": "\u901a\u8baf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-communism",
+      "word": "communism",
+      "display": "Communism",
+      "phonetic": "",
+      "translation": "\u5171\u4ea7\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-community",
+      "word": "community",
+      "display": "Community",
+      "phonetic": "",
+      "translation": "\u5171\u540c\u4f53\uff1b\u5168\u4f53\u5c45\u6c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-commute",
+      "word": "commute",
+      "display": "Commute",
+      "phonetic": "",
+      "translation": "\u4e58\u8f66\u5f80\u8fd4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compact",
+      "word": "compact",
+      "display": "Compact",
+      "phonetic": "",
+      "translation": "\u7d27\u5bc6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-companion",
+      "word": "companion",
+      "display": "Companion",
+      "phonetic": "",
+      "translation": "\u540c\u4f34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-company",
+      "word": "company",
+      "display": "Company",
+      "phonetic": "",
+      "translation": "\u516c\u53f8\uff1b\u966a\u4f34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comparable",
+      "word": "comparable",
+      "display": "Comparable",
+      "phonetic": "",
+      "translation": "\u53ef\u6bd4\u8f83\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comparative",
+      "word": "comparative",
+      "display": "Comparative",
+      "phonetic": "",
+      "translation": "\u6bd4\u8f83\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comparison",
+      "word": "comparison",
+      "display": "Comparison",
+      "phonetic": "",
+      "translation": "\u5bf9\u6bd4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compartment",
+      "word": "compartment",
+      "display": "Compartment",
+      "phonetic": "",
+      "translation": "\u9694\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compass",
+      "word": "compass",
+      "display": "Compass",
+      "phonetic": "",
+      "translation": "\u7f57\u76d8\uff1b\u5706\u89c4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compassion",
+      "word": "compassion",
+      "display": "Compassion",
+      "phonetic": "",
+      "translation": "\u540c\u60c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compatible",
+      "word": "compatible",
+      "display": "Compatible",
+      "phonetic": "",
+      "translation": "\u5408\u5f97\u6765\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compel",
+      "word": "compel",
+      "display": "Compel",
+      "phonetic": "",
+      "translation": "\u5f3a\u8feb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compensate",
+      "word": "compensate",
+      "display": "Compensate",
+      "phonetic": "",
+      "translation": "\u8865\u507f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compensation",
+      "word": "compensation",
+      "display": "Compensation",
+      "phonetic": "",
+      "translation": "\u8d54\u507f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compete",
+      "word": "compete",
+      "display": "Compete",
+      "phonetic": "",
+      "translation": "\u6bd4\u8d5b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-competent",
+      "word": "competent",
+      "display": "Competent",
+      "phonetic": "",
+      "translation": "\u6709\u80fd\u529b\u7684\uff1b\u8db3\u591f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-competition",
+      "word": "competition",
+      "display": "Competition",
+      "phonetic": "",
+      "translation": "\u7ade\u8d5b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-competitive",
+      "word": "competitive",
+      "display": "Competitive",
+      "phonetic": "",
+      "translation": "\u7ade\u4e89\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compile",
+      "word": "compile",
+      "display": "Compile",
+      "phonetic": "",
+      "translation": "\u7f16\u8f91",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complain",
+      "word": "complain",
+      "display": "Complain",
+      "phonetic": "",
+      "translation": "\u62b1\u6028",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complaint",
+      "word": "complaint",
+      "display": "Complaint",
+      "phonetic": "",
+      "translation": "\u62b1\u6028",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complement",
+      "word": "complement",
+      "display": "Complement",
+      "phonetic": "",
+      "translation": "\u8865\u5145\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complete",
+      "word": "complete",
+      "display": "Complete",
+      "phonetic": "",
+      "translation": "\u5b8c\u5168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complex",
+      "word": "complex",
+      "display": "Complex",
+      "phonetic": "",
+      "translation": "\u590d\u6742\u7684\uff1b\u5408\u6210\u7684\uff1b\u7efc\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complicate",
+      "word": "complicate",
+      "display": "Complicate",
+      "phonetic": "",
+      "translation": "\u4f7f...\u590d\u6742",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complicated",
+      "word": "complicated",
+      "display": "Complicated",
+      "phonetic": "",
+      "translation": "\u9ebb\u70e6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-complication",
+      "word": "complication",
+      "display": "Complication",
+      "phonetic": "",
+      "translation": "\u590d\u6742",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compliment",
+      "word": "compliment",
+      "display": "Compliment",
+      "phonetic": "",
+      "translation": "\u95ee\u5019",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-component",
+      "word": "component",
+      "display": "Component",
+      "phonetic": "",
+      "translation": "\u7ec4\u6210\u7684\uff1b\u5408\u6210\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compose",
+      "word": "compose",
+      "display": "Compose",
+      "phonetic": "",
+      "translation": "\u7ec4\u6210\uff1b\u6784\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-composition",
+      "word": "composition",
+      "display": "Composition",
+      "phonetic": "",
+      "translation": "\u4f5c\u54c1\uff1b\u6210\u5206",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compound",
+      "word": "compound",
+      "display": "Compound",
+      "phonetic": "",
+      "translation": "\u6df7\u5408\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comprehend",
+      "word": "comprehend",
+      "display": "Comprehend",
+      "phonetic": "",
+      "translation": "\u7406\u89e3\uff1b\u5305\u62ec",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comprehension",
+      "word": "comprehension",
+      "display": "Comprehension",
+      "phonetic": "",
+      "translation": "\u7406\u89e3\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comprehensive",
+      "word": "comprehensive",
+      "display": "Comprehensive",
+      "phonetic": "",
+      "translation": "\u7efc\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compress",
+      "word": "compress",
+      "display": "Compress",
+      "phonetic": "",
+      "translation": "\u538b\u7f29",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comprise",
+      "word": "comprise",
+      "display": "Comprise",
+      "phonetic": "",
+      "translation": "\u5305\u542b\uff1b\u7ec4\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compromise",
+      "word": "compromise",
+      "display": "Compromise",
+      "phonetic": "",
+      "translation": "\u59a5\u534f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compulsory",
+      "word": "compulsory",
+      "display": "Compulsory",
+      "phonetic": "",
+      "translation": "\u5fc5\u4fee\u7684\uff1b\u5f3a\u5236\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-compute",
+      "word": "compute",
+      "display": "Compute",
+      "phonetic": "",
+      "translation": "\u8ba1\u7b97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-computer",
+      "word": "computer",
+      "display": "Computer",
+      "phonetic": "",
+      "translation": "\u8ba1\u7b97\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-com-comrade",
+      "word": "comrade",
+      "display": "Comrade",
+      "phonetic": "",
+      "translation": "\u540c\u4f34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-common",
+  "rootLevel": 3,
+  "rootPath": "c>c-common>c-common-com",
+  "type": "branch",
+  "notes": ""
+}

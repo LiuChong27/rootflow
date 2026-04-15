@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "n-net",
+  "root": "net\u7f51",
+  "meaning": "net",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-net-nest",
+      "word": "nest",
+      "display": "Nest",
+      "phonetic": "",
+      "translation": "\u7b51\u5de2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-net-net",
+      "word": "net",
+      "display": "Net",
+      "phonetic": "",
+      "translation": "\u7f51",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-net-network",
+      "word": "network",
+      "display": "Network",
+      "phonetic": "",
+      "translation": "\u7f51\u7edc\uff1b\u7f51\u72b6\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-net",
+  "type": "root",
+  "notes": ""
+}

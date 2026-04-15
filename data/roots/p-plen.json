@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "rootId": "p-plen",
+  "root": "plen=plet=ple pli=ply \u5145\u6ee1",
+  "meaning": "full",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-plen-accomplish",
+      "word": "accomplish",
+      "display": "Accomplish",
+      "phonetic": "",
+      "translation": "\u5b8c\u6210\uff1b\u5b9e\u73b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-ample",
+      "word": "ample",
+      "display": "Ample",
+      "phonetic": "",
+      "translation": "\u5145\u8db3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-amplify",
+      "word": "amplify",
+      "display": "Amplify",
+      "phonetic": "",
+      "translation": "\u6269\u5927\uff1b\u8be6\u8ff0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-complement",
+      "word": "complement",
+      "display": "Complement",
+      "phonetic": "",
+      "translation": "\u8865\u5145\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-complete",
+      "word": "complete",
+      "display": "Complete",
+      "phonetic": "",
+      "translation": "\u5b8c\u6574\u7684\uff1b\u5b8c\u7f8e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-compliance",
+      "word": "compliance",
+      "display": "Compliance",
+      "phonetic": "",
+      "translation": "\u670d\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-comply",
+      "word": "comply",
+      "display": "Comply",
+      "phonetic": "",
+      "translation": "\u987a\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-deplete",
+      "word": "deplete",
+      "display": "Deplete",
+      "phonetic": "",
+      "translation": "\u8017\u5c3d\uff1b\u4f7f\u8870\u7aed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-plenary",
+      "word": "plenary",
+      "display": "Plenary",
+      "phonetic": "",
+      "translation": "\u5145\u5206\u7684\uff1b\u5b8c\u5168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-supplement",
+      "word": "supplement",
+      "display": "Supplement",
+      "phonetic": "",
+      "translation": "\u8865\u5145\uff1b\u9644\u5f55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-supplementary",
+      "word": "supplementary",
+      "display": "Supplementary",
+      "phonetic": "",
+      "translation": "\u8865\u5145\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-plen-supply",
+      "word": "supply",
+      "display": "Supply",
+      "phonetic": "",
+      "translation": "\u8865\u7ed9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-plen",
+  "type": "root",
+  "notes": ""
+}

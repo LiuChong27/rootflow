@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "rootId": "d-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-other-damp",
+      "word": "damp",
+      "display": "Damp",
+      "phonetic": "",
+      "translation": "\u6f6e\u6e7f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dare",
+      "word": "dare",
+      "display": "Dare",
+      "phonetic": "",
+      "translation": "\u6562",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-darling",
+      "word": "darling",
+      "display": "Darling",
+      "phonetic": "",
+      "translation": "\u5fc3\u7231\u7684\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-deal",
+      "word": "deal",
+      "display": "Deal",
+      "phonetic": "",
+      "translation": "\u5904\u7406\uff0c\u5bf9\u5f85\uff0c\u4ea4\u6613",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dealer",
+      "word": "dealer",
+      "display": "Dealer",
+      "phonetic": "",
+      "translation": "\u5546\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dean",
+      "word": "dean",
+      "display": "Dean",
+      "phonetic": "",
+      "translation": "\u5927\u5b66\u9662\u957f\uff1b\u7267\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dexter",
+      "word": "dexter",
+      "display": "Dexter",
+      "phonetic": "",
+      "translation": "right\u53f3\u3001\u53f3\u624b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dexterous",
+      "word": "dexterous",
+      "display": "Dexterous",
+      "phonetic": "",
+      "translation": "\u7075\u5de7\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-diamond",
+      "word": "diamond",
+      "display": "Diamond",
+      "phonetic": "",
+      "translation": "\u94bb\u77f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-disc",
+      "word": "disc",
+      "display": "Disc",
+      "phonetic": "",
+      "translation": "\u5706\u76d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-doom",
+      "word": "doom",
+      "display": "Doom",
+      "phonetic": "",
+      "translation": "\u60b2\u89c2\uff1b\u6cae\u4e27",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-drom-syndrome",
+      "word": "syndrome",
+      "display": "Syndrome",
+      "phonetic": "",
+      "translation": "\u7efc\u5408\u75c7\u72b6\uff08\u4e00\u7cfb\u5217\u95ee\u9898\u51fa\u73b0\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d",
+  "rootLevel": 2,
+  "rootPath": "d>d-other",
+  "type": "root",
+  "notes": ""
+}

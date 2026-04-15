@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "n-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-other-nap",
+      "word": "nap",
+      "display": "Nap",
+      "phonetic": "",
+      "translation": "\u6253\u76f9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-napkin",
+      "word": "napkin",
+      "display": "Napkin",
+      "phonetic": "",
+      "translation": "\u9910\u5dfe\uff1b\u5c3f\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-narrative",
+      "word": "narrative",
+      "display": "Narrative",
+      "phonetic": "",
+      "translation": "\u53d9\u8ff0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-narrow",
+      "word": "narrow",
+      "display": "Narrow",
+      "phonetic": "",
+      "translation": "\u72ed\u7a84\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-nasty",
+      "word": "nasty",
+      "display": "Nasty",
+      "phonetic": "",
+      "translation": "\u5351\u9119\u4e0b\u6d41\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-near",
+      "word": "near",
+      "display": "Near",
+      "phonetic": "",
+      "translation": "\u63a5\u8fd1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-nearby",
+      "word": "nearby",
+      "display": "Nearby",
+      "phonetic": "",
+      "translation": "\u9644\u8fd1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-nearly",
+      "word": "nearly",
+      "display": "Nearly",
+      "phonetic": "",
+      "translation": "\u5dee\u4e0d\u591a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-neat",
+      "word": "neat",
+      "display": "Neat",
+      "phonetic": "",
+      "translation": "\u6574\u6d01\u7684\uff1b\u5e72\u51c0\u7684\uff1b\u4f18\u7f8e\u7684\uff1b\u7cbe\u81f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-necessarily",
+      "word": "necessarily",
+      "display": "Necessarily",
+      "phonetic": "",
+      "translation": "\u5fc5\u9700\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-necessitate",
+      "word": "necessitate",
+      "display": "Necessitate",
+      "phonetic": "",
+      "translation": "\u4f7f\u5fc5\u8981",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-necessity",
+      "word": "necessity",
+      "display": "Necessity",
+      "phonetic": "",
+      "translation": "\u5fc5\u8981\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-neck",
+      "word": "neck",
+      "display": "Neck",
+      "phonetic": "",
+      "translation": "\u8116\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-necklace",
+      "word": "necklace",
+      "display": "Necklace",
+      "phonetic": "",
+      "translation": "\u9879\u94fe\uff1b\u9879\u5708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-need",
+      "word": "need",
+      "display": "Need",
+      "phonetic": "",
+      "translation": "\u9700\u8981",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-neutral",
+      "word": "neutral",
+      "display": "Neutral",
+      "phonetic": "",
+      "translation": "\u4e2d\u7acb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-nuclear",
+      "word": "nuclear",
+      "display": "Nuclear",
+      "phonetic": "",
+      "translation": "\u6838\u5fc3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-nucleus",
+      "word": "nucleus",
+      "display": "Nucleus",
+      "phonetic": "",
+      "translation": "\u539f\u5b50\u6838",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-nuisance",
+      "word": "nuisance",
+      "display": "Nuisance",
+      "phonetic": "",
+      "translation": "\u8ba8\u538c\u7684\u4eba\uff1b\u9ebb\u70e6\u4e8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-other-nylon",
+      "word": "nylon",
+      "display": "Nylon",
+      "phonetic": "",
+      "translation": "\u5c3c\u9f99",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-other",
+  "type": "root",
+  "notes": ""
+}

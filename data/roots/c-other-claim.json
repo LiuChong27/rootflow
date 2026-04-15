@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "rootId": "c-other-claim",
+  "root": "c-other-claim",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-claim-acclaim",
+      "word": "acclaim",
+      "display": "Acclaim",
+      "phonetic": "",
+      "translation": "\u79f0\u8d5e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-acclamation",
+      "word": "acclamation",
+      "display": "Acclamation",
+      "phonetic": "",
+      "translation": "\u58f0\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-claim",
+      "word": "claim",
+      "display": "Claim",
+      "phonetic": "",
+      "translation": "\u5ba3\u79f0\uff1b\u8981\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-clamor",
+      "word": "clamor",
+      "display": "Clamor",
+      "phonetic": "",
+      "translation": "\u55a7\u95f9\uff1b\u53eb\u56a3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-clamorous",
+      "word": "clamorous",
+      "display": "Clamorous",
+      "phonetic": "",
+      "translation": "\u5435\u95f9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-declaim",
+      "word": "declaim",
+      "display": "Declaim",
+      "phonetic": "",
+      "translation": "\u6f14\u8bb2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-disclaim",
+      "word": "disclaim",
+      "display": "Disclaim",
+      "phonetic": "",
+      "translation": "\u5426\u8ba4\uff1b\u653e\u5f03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-exclaim",
+      "word": "exclaim",
+      "display": "Exclaim",
+      "phonetic": "",
+      "translation": "\u547c\u558a\uff1b\u60ca\u53eb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-proclaim",
+      "word": "proclaim",
+      "display": "Proclaim",
+      "phonetic": "",
+      "translation": "\u5ba3\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-claim-reclaim",
+      "word": "reclaim",
+      "display": "Reclaim",
+      "phonetic": "",
+      "translation": "\u53d6\u56de\uff1b\u5f00\u62d3\uff1b\u7ea0\u6b63",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

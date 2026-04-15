@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "j-joke",
+  "root": "joke\u7b11\u8bdd\uff1b\u5f00\u73a9\u7b11",
+  "meaning": "joke",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-joke-jolly",
+      "word": "jolly",
+      "display": "Jolly",
+      "phonetic": "",
+      "translation": "\u6b22\u4e50\u7684\uff1b\u9ad8\u5174\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-joke-joy",
+      "word": "joy",
+      "display": "Joy",
+      "phonetic": "",
+      "translation": "\u6b22\u4e50\uff1b\u559c\u60a6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-joke",
+  "type": "root",
+  "notes": ""
+}

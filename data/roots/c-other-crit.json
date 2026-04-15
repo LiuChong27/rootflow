@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "rootId": "c-other-crit",
+  "root": "c-other-crit",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-crit-criteria",
+      "word": "criteria",
+      "display": "Criteria",
+      "phonetic": "",
+      "translation": "\u6807\u51c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-crit-criterion",
+      "word": "criterion",
+      "display": "Criterion",
+      "phonetic": "",
+      "translation": "\u6807\u51c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-crit-critic",
+      "word": "critic",
+      "display": "Critic",
+      "phonetic": "",
+      "translation": "\u6279\u8bc4\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-crit-critical",
+      "word": "critical",
+      "display": "Critical",
+      "phonetic": "",
+      "translation": "\u6279\u8bc4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-crit-criticism",
+      "word": "criticism",
+      "display": "Criticism",
+      "phonetic": "",
+      "translation": "\u6279\u8bc4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-crit-criticize",
+      "word": "criticize",
+      "display": "Criticize",
+      "phonetic": "",
+      "translation": "\u6279\u8bc4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-crit-critique",
+      "word": "critique",
+      "display": "Critique",
+      "phonetic": "",
+      "translation": "\u6279\u8bc4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-crit-hypercritical",
+      "word": "hypercritical",
+      "display": "Hypercritical",
+      "phonetic": "",
+      "translation": "\u5439\u6bdb\u6c42\u75b5\u7684\uff1b\u82db\u6c42\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

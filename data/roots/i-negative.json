@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "rootId": "i-negative",
+  "root": "\u5426\u5b9a",
+  "meaning": "negative",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "i-negative-independence",
+      "word": "independence",
+      "display": "Independence",
+      "phonetic": "",
+      "translation": "\u72ec\u7acb\uff1b\u81ea\u4e3b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-independent",
+      "word": "independent",
+      "display": "Independent",
+      "phonetic": "",
+      "translation": "\u72ec\u7acb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-indignant",
+      "word": "indignant",
+      "display": "Indignant",
+      "phonetic": "",
+      "translation": "\u6124\u6168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-indignation",
+      "word": "indignation",
+      "display": "Indignation",
+      "phonetic": "",
+      "translation": "\u6124\u6012\u7684\uff1b\u6124\u6168\u4e0d\u5e73\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-indispensable",
+      "word": "indispensable",
+      "display": "Indispensable",
+      "phonetic": "",
+      "translation": "\u5fc5\u9700\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-individual",
+      "word": "individual",
+      "display": "Individual",
+      "phonetic": "",
+      "translation": "\u4e2a\u4eba\u7684\uff1b\u5355\u72ec\u7684\uff1b\u72ec\u7279\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-inertia",
+      "word": "inertia",
+      "display": "Inertia",
+      "phonetic": "",
+      "translation": "\u4e0d\u6d3b\u52a8\uff1b\u60f0\u6027\uff1b\u60ef\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-inevitable",
+      "word": "inevitable",
+      "display": "Inevitable",
+      "phonetic": "",
+      "translation": "\u4e0d\u53ef\u907f\u514d\u5730\uff1b\u5fc5\u7136\u53d1\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-infinite",
+      "word": "infinite",
+      "display": "Infinite",
+      "phonetic": "",
+      "translation": "\u65e0\u9650\u7684\uff1b\u65e0\u7a77\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-inflation",
+      "word": "inflation",
+      "display": "Inflation",
+      "phonetic": "",
+      "translation": "\u901a\u8d27\u81a8\u80c0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-innumerable",
+      "word": "innumerable",
+      "display": "Innumerable",
+      "phonetic": "",
+      "translation": "\u65e0\u6570\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-intact",
+      "word": "intact",
+      "display": "Intact",
+      "phonetic": "",
+      "translation": "\u5b8c\u6574\u65e0\u7f3a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-integral",
+      "word": "integral",
+      "display": "Integral",
+      "phonetic": "",
+      "translation": "\u5b8c\u6574\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-integrate",
+      "word": "integrate",
+      "display": "Integrate",
+      "phonetic": "",
+      "translation": "\u4f7f\u6210\u4e3a\u4e00\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-integrity",
+      "word": "integrity",
+      "display": "Integrity",
+      "phonetic": "",
+      "translation": "\u6b63\u76f4\uff1b\u8bda\u5b9e\uff1b\u5b8c\u6574",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-invalid",
+      "word": "invalid",
+      "display": "Invalid",
+      "phonetic": "",
+      "translation": "\u75c5\u4eba\uff1b\u4f24\u6b8b\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-invariably",
+      "word": "invariably",
+      "display": "Invariably",
+      "phonetic": "",
+      "translation": "\u4e0d\u53d8\u7684\uff1b\u6c38\u6052\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-invert",
+      "word": "invert",
+      "display": "Invert",
+      "phonetic": "",
+      "translation": "\u5012\u7f6e\uff1b\u5012\u8f6c\uff1b\u98a0\u5012",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-negative-invisible",
+      "word": "invisible",
+      "display": "Invisible",
+      "phonetic": "",
+      "translation": "\u770b\u4e0d\u89c1\u7684\uff1b\u65e0\u5f62\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "i",
+  "rootLevel": 2,
+  "rootPath": "i>i-negative",
+  "type": "root",
+  "notes": ""
+}

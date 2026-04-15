@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "c-cogn-known",
+  "root": "cogn=known\u77e5\u9053",
+  "meaning": "know",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cogn-known-agnostic",
+      "word": "agnostic",
+      "display": "Agnostic",
+      "phonetic": "",
+      "translation": "\u4e0d\u53ef\u77e5\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cogn-known-cognition",
+      "word": "cognition",
+      "display": "Cognition",
+      "phonetic": "",
+      "translation": "\u8ba4\u8bc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cogn-known-cognizable",
+      "word": "cognizable",
+      "display": "Cognizable",
+      "phonetic": "",
+      "translation": "\u53ef\u8ba4\u8bc6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cogn-known-ignorance",
+      "word": "ignorance",
+      "display": "Ignorance",
+      "phonetic": "",
+      "translation": "\u65e0\u77e5\uff1b\u611a\u6627",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cogn-known-ignorant",
+      "word": "ignorant",
+      "display": "Ignorant",
+      "phonetic": "",
+      "translation": "\u65e0\u77e5\u7684\uff1b\u611a\u6627\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cogn-known-prognosticate",
+      "word": "prognosticate",
+      "display": "Prognosticate",
+      "phonetic": "",
+      "translation": "\u9884\u6d4b\uff1b\u9884\u8a00\uff1b\u9884\u793a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cogn-known-recognize",
+      "word": "recognize",
+      "display": "Recognize",
+      "phonetic": "",
+      "translation": "\u8ba4\u53ef\uff1b\u627f\u8ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-cogn-known",
+  "type": "root",
+  "notes": ""
+}

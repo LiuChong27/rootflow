@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "s-simil",
+  "root": "simil=simul alike\u3001same\u76f8\u540c",
+  "meaning": "same",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-simil-familiar",
+      "word": "familiar",
+      "display": "Familiar",
+      "phonetic": "",
+      "translation": "\u719f\u6089\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-simil-same",
+      "word": "same",
+      "display": "Same",
+      "phonetic": "",
+      "translation": "\u540c\u6837\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-simil-sample",
+      "word": "sample",
+      "display": "Sample",
+      "phonetic": "",
+      "translation": "\u6837\u672c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-simil-seem",
+      "word": "seem",
+      "display": "Seem",
+      "phonetic": "",
+      "translation": "\u4f3c\u4e4e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-simil-seemingly",
+      "word": "seemingly",
+      "display": "Seemingly",
+      "phonetic": "",
+      "translation": "\u8868\u9762\u4e0a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-simil-similar",
+      "word": "similar",
+      "display": "Similar",
+      "phonetic": "",
+      "translation": "\u76f8\u4f3c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-simil-simulate",
+      "word": "simulate",
+      "display": "Simulate",
+      "phonetic": "",
+      "translation": "\u6a21\u4eff",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-simil-simultaneous",
+      "word": "simultaneous",
+      "display": "Simultaneous",
+      "phonetic": "",
+      "translation": "\u540c\u65f6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-simil",
+  "type": "root",
+  "notes": ""
+}

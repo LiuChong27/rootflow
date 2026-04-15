@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "t-tact",
+  "root": "tact=tag",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-tact-attain",
+      "word": "attain",
+      "display": "Attain",
+      "phonetic": "",
+      "translation": "\u83b7\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tact-attainment",
+      "word": "attainment",
+      "display": "Attainment",
+      "phonetic": "",
+      "translation": "\u8fbe\u5230\uff1b\u6210\u5c31",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tact-contact",
+      "word": "contact",
+      "display": "Contact",
+      "phonetic": "",
+      "translation": "\u63a5\u89e6\uff1b\u8054\u7cfb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tact-contagion",
+      "word": "contagion",
+      "display": "Contagion",
+      "phonetic": "",
+      "translation": "\u4f20\u67d3\uff1b\u4f20\u67d3\u75c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tact-contingency",
+      "word": "contingency",
+      "display": "Contingency",
+      "phonetic": "",
+      "translation": "\u5076\u7136",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tact-contingent",
+      "word": "contingent",
+      "display": "Contingent",
+      "phonetic": "",
+      "translation": "\u6682\u65f6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tact-tangle",
+      "word": "tangle",
+      "display": "Tangle",
+      "phonetic": "",
+      "translation": "\u7ea0\u7f20\uff1b\u6df7\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-tact",
+  "type": "root",
+  "notes": ""
+}

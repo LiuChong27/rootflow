@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "v-val",
+  "root": "val=vail",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-val-valid",
+      "word": "valid",
+      "display": "Valid",
+      "phonetic": "",
+      "translation": "\u6709\u6548\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-val",
+  "type": "root",
+  "notes": ""
+}

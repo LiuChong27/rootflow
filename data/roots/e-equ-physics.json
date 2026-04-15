@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "e-equ-physics",
+  "root": "\u7269\u7406",
+  "meaning": "physics",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-equ-physics-equation",
+      "word": "equation",
+      "display": "Equation",
+      "phonetic": "",
+      "translation": "\u7b49\u5f0f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-physics-equator",
+      "word": "equator",
+      "display": "Equator",
+      "phonetic": "",
+      "translation": "\u8d64\u9053\uff08\u628a\u5730\u7403\u5206\u6210\u76f8\u7b49\u4e24\u534a\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-physics-equidistant",
+      "word": "equidistant",
+      "display": "Equidistant",
+      "phonetic": "",
+      "translation": "\u7b49\u8ddd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-physics-equilibrium",
+      "word": "equilibrium",
+      "display": "Equilibrium",
+      "phonetic": "",
+      "translation": "\u5e73\u8861",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-physics-equinox",
+      "word": "equinox",
+      "display": "Equinox",
+      "phonetic": "",
+      "translation": "\u663c\u591c\u5e73\u5206\u70b9\uff1b\u6625\u5206\u79cb\u5206",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-equ",
+  "rootLevel": 3,
+  "rootPath": "e>e-equ>e-equ-physics",
+  "type": "branch",
+  "notes": ""
+}

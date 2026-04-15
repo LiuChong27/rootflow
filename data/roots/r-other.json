@@ -1,0 +1,447 @@
+{
+  "version": 1,
+  "rootId": "r-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-other-racket",
+      "word": "racket",
+      "display": "Racket",
+      "phonetic": "",
+      "translation": "\u7403\u62cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rag",
+      "word": "rag",
+      "display": "Rag",
+      "phonetic": "",
+      "translation": "\u62b9\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rake",
+      "word": "rake",
+      "display": "Rake",
+      "phonetic": "",
+      "translation": "\u8019\u5b50\uff1b\u641c\u7d22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rank",
+      "word": "rank",
+      "display": "Rank",
+      "phonetic": "",
+      "translation": "\u7b49\u7ea7\uff1b\u519b\u8854",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-reason",
+      "word": "reason",
+      "display": "Reason",
+      "phonetic": "",
+      "translation": "\u539f\u56e0\uff1b\u7406\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-reasonable",
+      "word": "reasonable",
+      "display": "Reasonable",
+      "phonetic": "",
+      "translation": "\u5408\u7406\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-reassure",
+      "word": "reassure",
+      "display": "Reassure",
+      "phonetic": "",
+      "translation": "\u4f7f\u5b89\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-recreation",
+      "word": "recreation",
+      "display": "Recreation",
+      "phonetic": "",
+      "translation": "\u5a31\u4e50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-remedy",
+      "word": "remedy",
+      "display": "Remedy",
+      "phonetic": "",
+      "translation": "\u836f\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-render",
+      "word": "render",
+      "display": "Render",
+      "phonetic": "",
+      "translation": "\u63d0\u4f9b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rent",
+      "word": "rent",
+      "display": "Rent",
+      "phonetic": "",
+      "translation": "\u79df",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rhythm",
+      "word": "rhythm",
+      "display": "Rhythm",
+      "phonetic": "",
+      "translation": "\u8282\u594f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rid",
+      "word": "rid",
+      "display": "Rid",
+      "phonetic": "",
+      "translation": "\u6446\u8131\u6389",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-riddle",
+      "word": "riddle",
+      "display": "Riddle",
+      "phonetic": "",
+      "translation": "\u8c1c\u8bed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-ride",
+      "word": "ride",
+      "display": "Ride",
+      "phonetic": "",
+      "translation": "\u9a91",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-ridge",
+      "word": "ridge",
+      "display": "Ridge",
+      "phonetic": "",
+      "translation": "\u5c71\u8109",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-ridiculous",
+      "word": "ridiculous",
+      "display": "Ridiculous",
+      "phonetic": "",
+      "translation": "\u8352\u8c2c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rifle",
+      "word": "rifle",
+      "display": "Rifle",
+      "phonetic": "",
+      "translation": "\u6b65\u67aa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rim",
+      "word": "rim",
+      "display": "Rim",
+      "phonetic": "",
+      "translation": "\u8fb9\u7f18",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rise",
+      "word": "rise",
+      "display": "Rise",
+      "phonetic": "",
+      "translation": "\u4e0a\u6da8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-risk",
+      "word": "risk",
+      "display": "Risk",
+      "phonetic": "",
+      "translation": "\u98ce\u9669",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-ritual",
+      "word": "ritual",
+      "display": "Ritual",
+      "phonetic": "",
+      "translation": "\u5178\u793c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-role",
+      "word": "role",
+      "display": "Role",
+      "phonetic": "",
+      "translation": "\u89d2\u8272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-romance",
+      "word": "romance",
+      "display": "Romance",
+      "phonetic": "",
+      "translation": "\u7231\u60c5\u6545\u4e8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-romantic",
+      "word": "romantic",
+      "display": "Romantic",
+      "phonetic": "",
+      "translation": "\u6d6a\u6f2b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rough",
+      "word": "rough",
+      "display": "Rough",
+      "phonetic": "",
+      "translation": "\u7c97\u7cd9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rouse",
+      "word": "rouse",
+      "display": "Rouse",
+      "phonetic": "",
+      "translation": "\u5524\u9192",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-royal",
+      "word": "royal",
+      "display": "Royal",
+      "phonetic": "",
+      "translation": "\u7687\u5bb6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-royalty",
+      "word": "royalty",
+      "display": "Royalty",
+      "phonetic": "",
+      "translation": "\u7687\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-ruby",
+      "word": "ruby",
+      "display": "Ruby",
+      "phonetic": "",
+      "translation": "\u7ea2\u5b9d\u77f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rug",
+      "word": "rug",
+      "display": "Rug",
+      "phonetic": "",
+      "translation": "\u5730\u6bef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rumor",
+      "word": "rumor",
+      "display": "Rumor",
+      "phonetic": "",
+      "translation": "\u4f20\u95fb\uff1b\u8c23\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-run",
+      "word": "run",
+      "display": "Run",
+      "phonetic": "",
+      "translation": "\u8dd1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rural",
+      "word": "rural",
+      "display": "Rural",
+      "phonetic": "",
+      "translation": "\u4e61\u4e0b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rush",
+      "word": "rush",
+      "display": "Rush",
+      "phonetic": "",
+      "translation": "\u51b2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-other-rust",
+      "word": "rust",
+      "display": "Rust",
+      "phonetic": "",
+      "translation": "\u751f\u9508\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r",
+  "rootLevel": 2,
+  "rootPath": "r>r-other",
+  "type": "root",
+  "notes": ""
+}

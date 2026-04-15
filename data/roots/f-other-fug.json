@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "f-other-fug",
+  "root": "fug=flee\u9003\u6563",
+  "meaning": "fug",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-other-fug-defloration",
+      "word": "defloration",
+      "display": "Defloration",
+      "phonetic": "",
+      "translation": "\u73b7\u6c61",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fug-febrifuge",
+      "word": "febrifuge",
+      "display": "Febrifuge",
+      "phonetic": "",
+      "translation": "\u9000\u70ed\u836f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fug-fugitive",
+      "word": "fugitive",
+      "display": "Fugitive",
+      "phonetic": "",
+      "translation": "\u9003\u4ea1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fug-lucifuge",
+      "word": "lucifuge",
+      "display": "Lucifuge",
+      "phonetic": "",
+      "translation": "\u907f\u5149",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fug-lucifugous",
+      "word": "lucifugous",
+      "display": "Lucifugous",
+      "phonetic": "",
+      "translation": "\u907f\u5149\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fug-refuge",
+      "word": "refuge",
+      "display": "Refuge",
+      "phonetic": "",
+      "translation": "\u907f\u96be\u6240",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fug-refugee",
+      "word": "refugee",
+      "display": "Refugee",
+      "phonetic": "",
+      "translation": "\u96be\u6c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-other",
+  "rootLevel": 3,
+  "rootPath": "f>f-other>f-other-fug",
+  "type": "branch",
+  "notes": ""
+}

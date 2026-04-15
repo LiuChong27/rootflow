@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "q-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "q-other-quarrel",
+      "word": "quarrel",
+      "display": "Quarrel",
+      "phonetic": "",
+      "translation": "\u4e89\u5435",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-other-quilt",
+      "word": "quilt",
+      "display": "Quilt",
+      "phonetic": "",
+      "translation": "\u88ab\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-other-quiver",
+      "word": "quiver",
+      "display": "Quiver",
+      "phonetic": "",
+      "translation": "\u98a4\u6296",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-other-quiz",
+      "word": "quiz",
+      "display": "Quiz",
+      "phonetic": "",
+      "translation": "\u6d4b\u9a8c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-other-quota",
+      "word": "quota",
+      "display": "Quota",
+      "phonetic": "",
+      "translation": "\u9650\u989d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "q",
+  "rootLevel": 2,
+  "rootPath": "q>q-other",
+  "type": "root",
+  "notes": ""
+}

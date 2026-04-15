@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "rootId": "o-ob",
+  "root": "ob=ab\u8fdc\u79bb\u52a0\u5f3a",
+  "meaning": "away, strengthen",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-ob-obedience",
+      "word": "obedience",
+      "display": "Obedience",
+      "phonetic": "",
+      "translation": "\u670d\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obedient",
+      "word": "obedient",
+      "display": "Obedient",
+      "phonetic": "",
+      "translation": "\u670d\u4ece\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obey",
+      "word": "obey",
+      "display": "Obey",
+      "phonetic": "",
+      "translation": "\u670d\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-object",
+      "word": "object",
+      "display": "Object",
+      "phonetic": "",
+      "translation": "\u7269\u4f53\uff1b\u5ba2\u4f53\uff1b\u5bbe\u8bed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-objection",
+      "word": "objection",
+      "display": "Objection",
+      "phonetic": "",
+      "translation": "\u53cd\u5bf9\uff1b\u5f02\u8bae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-objective",
+      "word": "objective",
+      "display": "Objective",
+      "phonetic": "",
+      "translation": "\u76ee\u6807\uff1b\u5ba2\u89c2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obligation",
+      "word": "obligation",
+      "display": "Obligation",
+      "phonetic": "",
+      "translation": "\u4e49\u52a1\uff1b\u8d23\u4efb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-oblige",
+      "word": "oblige",
+      "display": "Oblige",
+      "phonetic": "",
+      "translation": "\u5f3a\u8feb\uff1b\u8feb\u4f7f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obscure",
+      "word": "obscure",
+      "display": "Obscure",
+      "phonetic": "",
+      "translation": "\u6666\u6da9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-observation",
+      "word": "observation",
+      "display": "Observation",
+      "phonetic": "",
+      "translation": "\u89c2\u5bdf\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-observe",
+      "word": "observe",
+      "display": "Observe",
+      "phonetic": "",
+      "translation": "\u89c2\u5bdf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obsession",
+      "word": "obsession",
+      "display": "Obsession",
+      "phonetic": "",
+      "translation": "\u8ff7\u4f4f\uff1b\u56f0\u6270",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obsolete",
+      "word": "obsolete",
+      "display": "Obsolete",
+      "phonetic": "",
+      "translation": "\u5df2\u5e9f\u5f03\u7684\uff1b\u8fc7\u65f6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obstacle",
+      "word": "obstacle",
+      "display": "Obstacle",
+      "phonetic": "",
+      "translation": "\u969c\u788d\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obstruct",
+      "word": "obstruct",
+      "display": "Obstruct",
+      "phonetic": "",
+      "translation": "\u963b\u788d\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obstruction",
+      "word": "obstruction",
+      "display": "Obstruction",
+      "phonetic": "",
+      "translation": "\u59a8\u788d\uff1b\u969c\u788d\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ob-obtain",
+      "word": "obtain",
+      "display": "Obtain",
+      "phonetic": "",
+      "translation": "\u83b7\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o",
+  "rootLevel": 2,
+  "rootPath": "o>o-ob",
+  "type": "root",
+  "notes": ""
+}

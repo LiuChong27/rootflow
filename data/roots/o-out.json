@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "o-out",
+  "root": "out\u5916",
+  "meaning": "out",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-out-out",
+      "word": "out",
+      "display": "Out",
+      "phonetic": "",
+      "translation": "\u79bb\u5bb6\uff1b\u5411\u5916",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outbreak",
+      "word": "outbreak",
+      "display": "Outbreak",
+      "phonetic": "",
+      "translation": "\u7206\u53d1\uff1b\u53d1\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outcome",
+      "word": "outcome",
+      "display": "Outcome",
+      "phonetic": "",
+      "translation": "\u7ed3\u679c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outdoor",
+      "word": "outdoor",
+      "display": "Outdoor",
+      "phonetic": "",
+      "translation": "\u5ba4\u5916\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outer",
+      "word": "outer",
+      "display": "Outer",
+      "phonetic": "",
+      "translation": "\u5916\u90e8\u7684\uff1b\u5916\u5c42\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outfit",
+      "word": "outfit",
+      "display": "Outfit",
+      "phonetic": "",
+      "translation": "\u88c5\u5907",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outing",
+      "word": "outing",
+      "display": "Outing",
+      "phonetic": "",
+      "translation": "\u5916\u51fa\uff1b\u6563\u6b65",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outlet",
+      "word": "outlet",
+      "display": "Outlet",
+      "phonetic": "",
+      "translation": "\u51fa\u53e3\uff1b\u5e02\u573a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outlook",
+      "word": "outlook",
+      "display": "Outlook",
+      "phonetic": "",
+      "translation": "\u666f\u8272\uff1b\u98ce\u5149",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-output",
+      "word": "output",
+      "display": "Output",
+      "phonetic": "",
+      "translation": "\u4ea7\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outrage",
+      "word": "outrage",
+      "display": "Outrage",
+      "phonetic": "",
+      "translation": "\u66b4\u884c\uff1b\u4fae\u8fb1\uff1b\u6124\u6012",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outset",
+      "word": "outset",
+      "display": "Outset",
+      "phonetic": "",
+      "translation": "\u5f00\u59cb\uff1b\u5f00\u7aef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outside",
+      "word": "outside",
+      "display": "Outside",
+      "phonetic": "",
+      "translation": "\u5916\u90e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outskirts",
+      "word": "outskirts",
+      "display": "Outskirts",
+      "phonetic": "",
+      "translation": "\u90ca\u533a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outstanding",
+      "word": "outstanding",
+      "display": "Outstanding",
+      "phonetic": "",
+      "translation": "\u7a81\u51fa\u7684\uff1b\u663e\u8457\u7684\uff1b\u6770\u51fa\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-out-outward",
+      "word": "outward",
+      "display": "Outward",
+      "phonetic": "",
+      "translation": "\u5916\u9762\u7684\uff1b\u516c\u5f00\u7684\uff1b\u5916\u8868",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o",
+  "rootLevel": 2,
+  "rootPath": "o>o-out",
+  "type": "root",
+  "notes": ""
+}

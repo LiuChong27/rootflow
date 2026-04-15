@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "rootId": "d-other-dis-create",
+  "root": "\u4ece\u65e0\u5230\u6709",
+  "meaning": "create",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-other-dis-create-diffuse",
+      "word": "diffuse",
+      "display": "Diffuse",
+      "phonetic": "",
+      "translation": "\u6269\u6563",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disappear",
+      "word": "disappear",
+      "display": "Disappear",
+      "phonetic": "",
+      "translation": "\u6d88\u5931",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disappoint",
+      "word": "disappoint",
+      "display": "Disappoint",
+      "phonetic": "",
+      "translation": "\u5931\u671b\uff1b\u632b\u8d25",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disarace",
+      "word": "disarace",
+      "display": "Disarace",
+      "phonetic": "",
+      "translation": "\u803b\u8fb1\uff0c\u5931\u5ba0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disaster",
+      "word": "disaster",
+      "display": "Disaster",
+      "phonetic": "",
+      "translation": "\u707e\u96be",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disastrous",
+      "word": "disastrous",
+      "display": "Disastrous",
+      "phonetic": "",
+      "translation": "\u707e\u96be\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-discern",
+      "word": "discern",
+      "display": "Discern",
+      "phonetic": "",
+      "translation": "\u8fa8\u522b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-discount",
+      "word": "discount",
+      "display": "Discount",
+      "phonetic": "",
+      "translation": "\u6298\u6263",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-discourage",
+      "word": "discourage",
+      "display": "Discourage",
+      "phonetic": "",
+      "translation": "\u6cc4\u6c14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-discourse",
+      "word": "discourse",
+      "display": "Discourse",
+      "phonetic": "",
+      "translation": "\u8bba\u6587\uff1b\u6f14\u8bf4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-discreet",
+      "word": "discreet",
+      "display": "Discreet",
+      "phonetic": "",
+      "translation": "\u8c28\u614e\u7684\uff1b\u6709\u5224\u65ad\u529b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-discrepancy",
+      "word": "discrepancy",
+      "display": "Discrepancy",
+      "phonetic": "",
+      "translation": "\u5dee\u5f02\uff1b\u77db\u76fe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-discuss",
+      "word": "discuss",
+      "display": "Discuss",
+      "phonetic": "",
+      "translation": "\u8ba8\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disease",
+      "word": "disease",
+      "display": "Disease",
+      "phonetic": "",
+      "translation": "\u75be\u75c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-dislike",
+      "word": "dislike",
+      "display": "Dislike",
+      "phonetic": "",
+      "translation": "\u4e0d\u559c\u6b22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-dismay",
+      "word": "dismay",
+      "display": "Dismay",
+      "phonetic": "",
+      "translation": "\u6cae\u4e27\uff1b\u5931\u671b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-display",
+      "word": "display",
+      "display": "Display",
+      "phonetic": "",
+      "translation": "\u5c55\u793a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disposition",
+      "word": "disposition",
+      "display": "Disposition",
+      "phonetic": "",
+      "translation": "\u6392\u5217\uff1b\u90e8\u7f72\uff1b\u503e\u5411",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-disregard",
+      "word": "disregard",
+      "display": "Disregard",
+      "phonetic": "",
+      "translation": "\u5ffd\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-dissolve",
+      "word": "dissolve",
+      "display": "Dissolve",
+      "phonetic": "",
+      "translation": "\u6eb6\u89e3\uff1b\u53d6\u6d88\uff1b\u89e3\u6563",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-distill",
+      "word": "distill",
+      "display": "Distill",
+      "phonetic": "",
+      "translation": "\u84b8\u998f\uff1b\u63d0\u53d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-distort",
+      "word": "distort",
+      "display": "Distort",
+      "phonetic": "",
+      "translation": "\u626d\u66f2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-distress",
+      "word": "distress",
+      "display": "Distress",
+      "phonetic": "",
+      "translation": "\u82e6\u607c\uff1b\u4e0d\u5e78",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-create-district",
+      "word": "district",
+      "display": "District",
+      "phonetic": "",
+      "translation": "\u5730\u533a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-other-dis",
+  "rootLevel": 4,
+  "rootPath": "d>d-other>d-other-dis>d-other-dis-create",
+  "type": "branch",
+  "notes": ""
+}

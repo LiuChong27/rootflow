@@ -1,20 +1,1620 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09",
+  "updatedAt": "2026-04-15",
   "strategy": "alpha",
   "shardId": "alpha-t",
   "rootIds": [
+    "t",
+    "t-tact",
+    "t-tail",
+    "t-tain-contain",
+    "t-tain-hold",
+    "t-tect",
+    "t-tel",
+    "t-tend",
+    "t-text",
+    "t-thr",
+    "t-to",
+    "t-tor",
+    "t-trace",
+    "t-tract",
+    "t-trans",
+    "t-turn",
+    "t-two",
     "transact",
     "transaction"
   ],
   "roots": {
+    "t": {
+      "version": 1,
+      "rootId": "t",
+      "root": "T",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "t",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tact": {
+      "version": 1,
+      "rootId": "t-tact",
+      "root": "tact=tag",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-tact-attain",
+          "word": "attain",
+          "display": "Attain",
+          "phonetic": "",
+          "translation": "\u83b7\u5f97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tact-attainment",
+          "word": "attainment",
+          "display": "Attainment",
+          "phonetic": "",
+          "translation": "\u8fbe\u5230\uff1b\u6210\u5c31",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tact-contact",
+          "word": "contact",
+          "display": "Contact",
+          "phonetic": "",
+          "translation": "\u63a5\u89e6\uff1b\u8054\u7cfb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tact-contagion",
+          "word": "contagion",
+          "display": "Contagion",
+          "phonetic": "",
+          "translation": "\u4f20\u67d3\uff1b\u4f20\u67d3\u75c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tact-contingency",
+          "word": "contingency",
+          "display": "Contingency",
+          "phonetic": "",
+          "translation": "\u5076\u7136",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tact-contingent",
+          "word": "contingent",
+          "display": "Contingent",
+          "phonetic": "",
+          "translation": "\u6682\u65f6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tact-tangle",
+          "word": "tangle",
+          "display": "Tangle",
+          "phonetic": "",
+          "translation": "\u7ea0\u7f20\uff1b\u6df7\u4e71",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tact",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tail": {
+      "version": 1,
+      "rootId": "t-tail",
+      "root": "tail",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-tail-tackle",
+          "word": "tackle",
+          "display": "Tackle",
+          "phonetic": "",
+          "translation": "\u5904\u7406\uff1b\u7528\u5177",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tail-tactic",
+          "word": "tactic",
+          "display": "Tactic",
+          "phonetic": "",
+          "translation": "\u7b56\u7565",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tail-tease",
+          "word": "tease",
+          "display": "Tease",
+          "phonetic": "",
+          "translation": "\u620f\u5f04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tail-tenant",
+          "word": "tenant",
+          "display": "Tenant",
+          "phonetic": "",
+          "translation": "\u79df\u501f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tail",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tain-contain": {
+      "version": 1,
+      "rootId": "t-tain-contain",
+      "root": "tain=ten=tin",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-tain-contain-contain",
+          "word": "contain",
+          "display": "Contain",
+          "phonetic": "",
+          "translation": "\u5305\u542b\uff1b\u5bb9\u7eb3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-content",
+          "word": "content",
+          "display": "Content",
+          "phonetic": "",
+          "translation": "\u6ee1\u8db3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-impertinent",
+          "word": "impertinent",
+          "display": "Impertinent",
+          "phonetic": "",
+          "translation": "\u65e0\u793c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-maintain",
+          "word": "maintain",
+          "display": "Maintain",
+          "phonetic": "",
+          "translation": "\u7ef4\u6301",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-retain",
+          "word": "retain",
+          "display": "Retain",
+          "phonetic": "",
+          "translation": "\u4fdd\u6301",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-sustain",
+          "word": "sustain",
+          "display": "Sustain",
+          "phonetic": "",
+          "translation": "\u652f\u6301",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-tenet",
+          "word": "tenet",
+          "display": "Tenet",
+          "phonetic": "",
+          "translation": "\u4fe1\u6761\uff1b\u6559\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-tolerance",
+          "word": "tolerance",
+          "display": "Tolerance",
+          "phonetic": "",
+          "translation": "\u5bbd\u5bb9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-tolerate",
+          "word": "tolerate",
+          "display": "Tolerate",
+          "phonetic": "",
+          "translation": "\u5bb9\u5fcd\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-contain-tolerate-2",
+          "word": "tolerate",
+          "display": "Tolerate",
+          "phonetic": "",
+          "translation": "\u5bb9\u8bb8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tain-contain",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tain-hold": {
+      "version": 1,
+      "rootId": "t-tain-hold",
+      "root": "tain=ten=tin=hold",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-tain-hold-tow",
+          "word": "tow",
+          "display": "Tow",
+          "phonetic": "",
+          "translation": "\u62d6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-hold-toward",
+          "word": "toward",
+          "display": "Toward",
+          "phonetic": "",
+          "translation": "\u671d\u5411",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-hold-tuck",
+          "word": "tuck",
+          "display": "Tuck",
+          "phonetic": "",
+          "translation": "\u5377\u8d77",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-hold-tug",
+          "word": "tug",
+          "display": "Tug",
+          "phonetic": "",
+          "translation": "\u62d6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-hold-turn",
+          "word": "turn",
+          "display": "Turn",
+          "phonetic": "",
+          "translation": "\u8f6c\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tain-hold-turnover",
+          "word": "turnover",
+          "display": "Turnover",
+          "phonetic": "",
+          "translation": "\u7ffb\u5230",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tain-hold",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tect": {
+      "version": 1,
+      "rootId": "t-tect",
+      "root": "tect",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tect",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tel": {
+      "version": 1,
+      "rootId": "t-tel",
+      "root": "tel",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-tel-telegram",
+          "word": "telegram",
+          "display": "Telegram",
+          "phonetic": "",
+          "translation": "\u7535\u62a5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tel-telegraph",
+          "word": "telegraph",
+          "display": "Telegraph",
+          "phonetic": "",
+          "translation": "\u7535\u62a5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tel-telephone",
+          "word": "telephone",
+          "display": "Telephone",
+          "phonetic": "",
+          "translation": "\u7535\u8bdd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tel-telescope",
+          "word": "telescope",
+          "display": "Telescope",
+          "phonetic": "",
+          "translation": "\u671b\u8fdc\u955c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tel-tell",
+          "word": "tell",
+          "display": "Tell",
+          "phonetic": "",
+          "translation": "\u544a\u8bc9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tel",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tend": {
+      "version": 1,
+      "rootId": "t-tend",
+      "root": "tend tens tent",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-tend-attend",
+          "word": "attend",
+          "display": "Attend",
+          "phonetic": "",
+          "translation": "\u51fa\u5e2d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-attendance",
+          "word": "attendance",
+          "display": "Attendance",
+          "phonetic": "",
+          "translation": "\u51fa\u5e2d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-attendant",
+          "word": "attendant",
+          "display": "Attendant",
+          "phonetic": "",
+          "translation": "\u968f\u4ece",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-contend",
+          "word": "contend",
+          "display": "Contend",
+          "phonetic": "",
+          "translation": "\u7ade\u4e89",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-contention",
+          "word": "contention",
+          "display": "Contention",
+          "phonetic": "",
+          "translation": "\u4e89\u8bba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-contentious",
+          "word": "contentious",
+          "display": "Contentious",
+          "phonetic": "",
+          "translation": "\u4e89\u8bba\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-distend",
+          "word": "distend",
+          "display": "Distend",
+          "phonetic": "",
+          "translation": "\u6269\u5f20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-distent",
+          "word": "distent",
+          "display": "Distent",
+          "phonetic": "",
+          "translation": "\u81a8\u80c0\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-distention",
+          "word": "distention",
+          "display": "Distention",
+          "phonetic": "",
+          "translation": "\u81a8\u80c0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-extend",
+          "word": "extend",
+          "display": "Extend",
+          "phonetic": "",
+          "translation": "\u5ef6\u4f38\uff1b\u6269\u5145",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-extent",
+          "word": "extent",
+          "display": "Extent",
+          "phonetic": "",
+          "translation": "\u957f\u5ea6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-intend",
+          "word": "intend",
+          "display": "Intend",
+          "phonetic": "",
+          "translation": "\u6253\u7b97\uff1b\u76ee\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-intense",
+          "word": "intense",
+          "display": "Intense",
+          "phonetic": "",
+          "translation": "\u5f3a\u70c8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-intensify",
+          "word": "intensify",
+          "display": "Intensify",
+          "phonetic": "",
+          "translation": "\u4f7f\u5f3a\u70c8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-tend",
+          "word": "tend",
+          "display": "Tend",
+          "phonetic": "",
+          "translation": "\u8d8b\u5411",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-tendency",
+          "word": "tendency",
+          "display": "Tendency",
+          "phonetic": "",
+          "translation": "\u8d8b\u52bf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-tender",
+          "word": "tender",
+          "display": "Tender",
+          "phonetic": "",
+          "translation": "\u6e29\u67d4\u7684\uff1b\u654f\u611f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-tense",
+          "word": "tense",
+          "display": "Tense",
+          "phonetic": "",
+          "translation": "\u62c9\u7d27\uff1b\u65f6\u6001",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-tension",
+          "word": "tension",
+          "display": "Tension",
+          "phonetic": "",
+          "translation": "\u72b6\u6001",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tend-tent",
+          "word": "tent",
+          "display": "Tent",
+          "phonetic": "",
+          "translation": "\u5e10\u7bf7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tend",
+      "type": "root",
+      "notes": ""
+    },
+    "t-text": {
+      "version": 1,
+      "rootId": "t-text",
+      "root": "text",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-text-test",
+          "word": "test",
+          "display": "Test",
+          "phonetic": "",
+          "translation": "\u6d4b\u9a8c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-text-testify",
+          "word": "testify",
+          "display": "Testify",
+          "phonetic": "",
+          "translation": "\u8bc1\u660e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-text-testimony",
+          "word": "testimony",
+          "display": "Testimony",
+          "phonetic": "",
+          "translation": "\u8bc1\u636e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-text-textbook",
+          "word": "textbook",
+          "display": "Textbook",
+          "phonetic": "",
+          "translation": "\u6559\u79d1\u4e66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-text-textile",
+          "word": "textile",
+          "display": "Textile",
+          "phonetic": "",
+          "translation": "\u7eba\u7ec7\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-text-texture",
+          "word": "texture",
+          "display": "Texture",
+          "phonetic": "",
+          "translation": "\u8d28\u5730",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-text-thesis",
+          "word": "thesis",
+          "display": "Thesis",
+          "phonetic": "",
+          "translation": "\u8bba\u6587",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-text",
+      "type": "root",
+      "notes": ""
+    },
+    "t-thr": {
+      "version": 1,
+      "rootId": "t-thr",
+      "root": "thr",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-thr-third",
+          "word": "third",
+          "display": "Third",
+          "phonetic": "",
+          "translation": "\u7b2c\u4e09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-thr-thirst",
+          "word": "thirst",
+          "display": "Thirst",
+          "phonetic": "",
+          "translation": "\u53e3\u6e34",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-thr-thirsty",
+          "word": "thirsty",
+          "display": "Thirsty",
+          "phonetic": "",
+          "translation": "\u53e3\u6e34\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-thr-thirteen",
+          "word": "thirteen",
+          "display": "Thirteen",
+          "phonetic": "",
+          "translation": "\u5341\u4e09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-thr-thirty",
+          "word": "thirty",
+          "display": "Thirty",
+          "phonetic": "",
+          "translation": "\u4e09\u5341",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-thr-triangle",
+          "word": "triangle",
+          "display": "Triangle",
+          "phonetic": "",
+          "translation": "\u4e09\u89d2\u5f62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-thr-triple",
+          "word": "triple",
+          "display": "Triple",
+          "phonetic": "",
+          "translation": "\u4e09\u500d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-thr",
+      "type": "root",
+      "notes": ""
+    },
+    "t-to": {
+      "version": 1,
+      "rootId": "t-to",
+      "root": "to",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-to",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tor": {
+      "version": 1,
+      "rootId": "t-tor",
+      "root": "tor",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-tor-tempt",
+          "word": "tempt",
+          "display": "Tempt",
+          "phonetic": "",
+          "translation": "\u8bf1\u60d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tor-temptation",
+          "word": "temptation",
+          "display": "Temptation",
+          "phonetic": "",
+          "translation": "\u5f15\u8bf1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tor-tentative",
+          "word": "tentative",
+          "display": "Tentative",
+          "phonetic": "",
+          "translation": "\u8bd5\u63a2\u6027\u7684\uff1b\u6682\u65f6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tor-thrust",
+          "word": "thrust",
+          "display": "Thrust",
+          "phonetic": "",
+          "translation": "\u63d2\u5165",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-tor-trail",
+          "word": "trail",
+          "display": "Trail",
+          "phonetic": "",
+          "translation": "\u5c1d\u8bd5\uff1b\u5ba1\u8baf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tor",
+      "type": "root",
+      "notes": ""
+    },
+    "t-trace": {
+      "version": 1,
+      "rootId": "t-trace",
+      "root": "trace",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-trace-trace",
+          "word": "trace",
+          "display": "Trace",
+          "phonetic": "",
+          "translation": "\u75d5\u8ff9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-track",
+          "word": "track",
+          "display": "Track",
+          "phonetic": "",
+          "translation": "\u8dd1\u9053",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-tractor",
+          "word": "tractor",
+          "display": "Tractor",
+          "phonetic": "",
+          "translation": "\u62d6\u62c9\u673a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-trade",
+          "word": "trade",
+          "display": "Trade",
+          "phonetic": "",
+          "translation": "\u8d38\u6613",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-trademark",
+          "word": "trademark",
+          "display": "Trademark",
+          "phonetic": "",
+          "translation": "\u5546\u6807\uff1b\u7279\u5f81",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-trail",
+          "word": "trail",
+          "display": "Trail",
+          "phonetic": "",
+          "translation": "\u75d5\u8ff9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-trait",
+          "word": "trait",
+          "display": "Trait",
+          "phonetic": "",
+          "translation": "\u7279\u5f81",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-traitor",
+          "word": "traitor",
+          "display": "Traitor",
+          "phonetic": "",
+          "translation": "\u53db\u5f92",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-tram",
+          "word": "tram",
+          "display": "Tram",
+          "phonetic": "",
+          "translation": "\u6709\u8f68\u7535\u8f66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-tramp",
+          "word": "tramp",
+          "display": "Tramp",
+          "phonetic": "",
+          "translation": "\u6b65\u884c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trace-trolley",
+          "word": "trolley",
+          "display": "Trolley",
+          "phonetic": "",
+          "translation": "\u624b\u63a8\u8f66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-trace",
+      "type": "root",
+      "notes": ""
+    },
+    "t-tract": {
+      "version": 1,
+      "rootId": "t-tract",
+      "root": "tract",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-tract",
+      "type": "root",
+      "notes": ""
+    },
+    "t-trans": {
+      "version": 1,
+      "rootId": "t-trans",
+      "root": "trans",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-trans-thorough",
+          "word": "thorough",
+          "display": "Thorough",
+          "phonetic": "",
+          "translation": "\u5f7b\u5e95\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-through",
+          "word": "through",
+          "display": "Through",
+          "phonetic": "",
+          "translation": "\u7a7f\u8fc7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-throughout",
+          "word": "throughout",
+          "display": "Throughout",
+          "phonetic": "",
+          "translation": "\u8d2f\u7a7f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transaction",
+          "word": "transaction",
+          "display": "Transaction",
+          "phonetic": "",
+          "translation": "\u5904\u7406\uff1b\u4ea4\u6613",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transcend",
+          "word": "transcend",
+          "display": "Transcend",
+          "phonetic": "",
+          "translation": "\u8d85\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transfer",
+          "word": "transfer",
+          "display": "Transfer",
+          "phonetic": "",
+          "translation": "\u8f6c\u79fb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transform",
+          "word": "transform",
+          "display": "Transform",
+          "phonetic": "",
+          "translation": "\u6539\u53d8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transient",
+          "word": "transient",
+          "display": "Transient",
+          "phonetic": "",
+          "translation": "\u77ed\u6682\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transistor",
+          "word": "transistor",
+          "display": "Transistor",
+          "phonetic": "",
+          "translation": "\u6676\u4f53\u7ba1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-translate",
+          "word": "translate",
+          "display": "Translate",
+          "phonetic": "",
+          "translation": "\u7ffb\u8bd1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-translation",
+          "word": "translation",
+          "display": "Translation",
+          "phonetic": "",
+          "translation": "\u7ffb\u8bd1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transmission",
+          "word": "transmission",
+          "display": "Transmission",
+          "phonetic": "",
+          "translation": "\u53d1\u5c04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transmit",
+          "word": "transmit",
+          "display": "Transmit",
+          "phonetic": "",
+          "translation": "\u53d1\u5c04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transparent",
+          "word": "transparent",
+          "display": "Transparent",
+          "phonetic": "",
+          "translation": "\u900f\u660e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transplant",
+          "word": "transplant",
+          "display": "Transplant",
+          "phonetic": "",
+          "translation": "\u8fd0\u8f93",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-trans-transport",
+          "word": "transport",
+          "display": "Transport",
+          "phonetic": "",
+          "translation": "\u8fd0\u8f93",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-trans",
+      "type": "root",
+      "notes": ""
+    },
+    "t-turn": {
+      "version": 1,
+      "rootId": "t-turn",
+      "root": "turn",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-turn-tempo",
+          "word": "tempo",
+          "display": "Tempo",
+          "phonetic": "",
+          "translation": "\u8282\u594f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-temporary",
+          "word": "temporary",
+          "display": "Temporary",
+          "phonetic": "",
+          "translation": "\u6682\u65f6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-term",
+          "word": "term",
+          "display": "Term",
+          "phonetic": "",
+          "translation": "\u5b66\u671f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-terminal",
+          "word": "terminal",
+          "display": "Terminal",
+          "phonetic": "",
+          "translation": "\u665a\u671f\u7684\uff1b\u7ec8\u70b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-terminate",
+          "word": "terminate",
+          "display": "Terminate",
+          "phonetic": "",
+          "translation": "\u7ed3\u675f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-tide",
+          "word": "tide",
+          "display": "Tide",
+          "phonetic": "",
+          "translation": "\u6f6e\u6c50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-tune",
+          "word": "tune",
+          "display": "Tune",
+          "phonetic": "",
+          "translation": "\u66f2\u8c03",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-tunnel",
+          "word": "tunnel",
+          "display": "Tunnel",
+          "phonetic": "",
+          "translation": "\u96a7\u9053",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-turbine",
+          "word": "turbine",
+          "display": "Turbine",
+          "phonetic": "",
+          "translation": "\u6da1\u8f6e\u673a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-turn-typhoon",
+          "word": "typhoon",
+          "display": "Typhoon",
+          "phonetic": "",
+          "translation": "\u53f0\u98ce",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-turn",
+      "type": "root",
+      "notes": ""
+    },
+    "t-two": {
+      "version": 1,
+      "rootId": "t-two",
+      "root": "two",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "t-two-twice",
+          "word": "twice",
+          "display": "Twice",
+          "phonetic": "",
+          "translation": "\u4e24\u6b21",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-two-twin",
+          "word": "twin",
+          "display": "Twin",
+          "phonetic": "",
+          "translation": "\u53cc\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "t-two-twinkle",
+          "word": "twinkle",
+          "display": "Twinkle",
+          "phonetic": "",
+          "translation": "\u95ea\u70c1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "t",
+      "rootLevel": 1,
+      "rootPath": "t>t-two",
+      "type": "root",
+      "notes": ""
+    },
     "transact": {
       "version": 1,
       "rootId": "transact",
       "root": "transact",
       "meaning": "",
       "descriptionCn": "\u529e\u7406\uff1b\u4ea4\u6613",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "transact",
@@ -41,7 +1641,7 @@
       "root": "transaction",
       "meaning": "",
       "descriptionCn": "\u4ea4\u6613\uff1b\u4e70\u5356",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "transaction",

@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "rootId": "s-sist",
+  "root": "sist=stand\u7ad9",
+  "meaning": "stand",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-sist-assist",
+      "word": "assist",
+      "display": "Assist",
+      "phonetic": "",
+      "translation": "\u652f\u6301\uff1b\u5e2e\u52a9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-assistance",
+      "word": "assistance",
+      "display": "Assistance",
+      "phonetic": "",
+      "translation": "\u5e2e\u52a9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-assistant",
+      "word": "assistant",
+      "display": "Assistant",
+      "phonetic": "",
+      "translation": "\u52a9\u624b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-consist",
+      "word": "consist",
+      "display": "Consist",
+      "phonetic": "",
+      "translation": "\u5b58\u5728\uff1b\u7531..\u6784\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-exist",
+      "word": "exist",
+      "display": "Exist",
+      "phonetic": "",
+      "translation": "\u5b58\u5728",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-persist",
+      "word": "persist",
+      "display": "Persist",
+      "phonetic": "",
+      "translation": "\u575a\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-resist",
+      "word": "resist",
+      "display": "Resist",
+      "phonetic": "",
+      "translation": "\u53cd\u5bf9\uff1b\u62b5\u6297",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stand",
+      "word": "stand",
+      "display": "Stand",
+      "phonetic": "",
+      "translation": "\u7ad9\u7acb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-standard",
+      "word": "standard",
+      "display": "Standard",
+      "phonetic": "",
+      "translation": "\u6807\u51c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-standpoint",
+      "word": "standpoint",
+      "display": "Standpoint",
+      "phonetic": "",
+      "translation": "\u7acb\u573a\uff1b\u89c2\u70b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-start",
+      "word": "start",
+      "display": "Start",
+      "phonetic": "",
+      "translation": "\u52a8\u8eab\uff1b\u5403\u60ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-startle",
+      "word": "startle",
+      "display": "Startle",
+      "phonetic": "",
+      "translation": "\u60ca\u5413",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-starve",
+      "word": "starve",
+      "display": "Starve",
+      "phonetic": "",
+      "translation": "\u997f\u6b7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-state",
+      "word": "state",
+      "display": "State",
+      "phonetic": "",
+      "translation": "\u72b6\u6001",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-statement",
+      "word": "statement",
+      "display": "Statement",
+      "phonetic": "",
+      "translation": "\u58f0\u660e\uff1b\u9648\u8ff0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-statesman",
+      "word": "statesman",
+      "display": "Statesman",
+      "phonetic": "",
+      "translation": "\u653f\u6cbb\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-static",
+      "word": "static",
+      "display": "Static",
+      "phonetic": "",
+      "translation": "\u9759\u6001\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-station",
+      "word": "station",
+      "display": "Station",
+      "phonetic": "",
+      "translation": "\u8f66\u7ad9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stationary",
+      "word": "stationary",
+      "display": "Stationary",
+      "phonetic": "",
+      "translation": "\u9759\u6b62\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stationery",
+      "word": "stationery",
+      "display": "Stationery",
+      "phonetic": "",
+      "translation": "\u6587\u5177",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-statistical",
+      "word": "statistical",
+      "display": "Statistical",
+      "phonetic": "",
+      "translation": "\u7edf\u8ba1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-statue",
+      "word": "statue",
+      "display": "Statue",
+      "phonetic": "",
+      "translation": "\u96d5\u50cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-status",
+      "word": "status",
+      "display": "Status",
+      "phonetic": "",
+      "translation": "\u5730\u4f4d\uff1b\u8eab\u4efd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-statute",
+      "word": "statute",
+      "display": "Statute",
+      "phonetic": "",
+      "translation": "\u6cd5\u89c4\uff1b\u7ae0\u7a0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stay",
+      "word": "stay",
+      "display": "Stay",
+      "phonetic": "",
+      "translation": "\u9017\u7559\uff1b\u4fdd\u6301\uff1b\u5ef6\u7f13",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-steady",
+      "word": "steady",
+      "display": "Steady",
+      "phonetic": "",
+      "translation": "\u7a33\u5b9a\u7684\uff1b\u7a33\u56fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-still",
+      "word": "still",
+      "display": "Still",
+      "phonetic": "",
+      "translation": "\u9759\u6b62\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stock",
+      "word": "stock",
+      "display": "Stock",
+      "phonetic": "",
+      "translation": "\u5b58\u8d27",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stocking",
+      "word": "stocking",
+      "display": "Stocking",
+      "phonetic": "",
+      "translation": "\u957f\u889c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stoop",
+      "word": "stoop",
+      "display": "Stoop",
+      "phonetic": "",
+      "translation": "\u5f2f\u8170",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-storage",
+      "word": "storage",
+      "display": "Storage",
+      "phonetic": "",
+      "translation": "\u8d2e\u85cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-stride",
+      "word": "stride",
+      "display": "Stride",
+      "phonetic": "",
+      "translation": "\u8de8\u8d8a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sist-survival",
+      "word": "survival",
+      "display": "Survival",
+      "phonetic": "",
+      "translation": "\u751f\u5b58",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-sist",
+  "type": "root",
+  "notes": ""
+}

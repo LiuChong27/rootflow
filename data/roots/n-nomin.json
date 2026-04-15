@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "n-nomin",
+  "root": "nomin=name\u540d\u5b57",
+  "meaning": "name",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-nomin-denomination",
+      "word": "denomination",
+      "display": "Denomination",
+      "phonetic": "",
+      "translation": "\u547d\u540d\uff1b\u540d\u79f0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nomin-ignominy",
+      "word": "ignominy",
+      "display": "Ignominy",
+      "phonetic": "",
+      "translation": "\u803b\u8fb1\uff1b\u7f9e\u803b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nomin-nominal",
+      "word": "nominal",
+      "display": "Nominal",
+      "phonetic": "",
+      "translation": "\u540d\u4e49\u4e0a\u7684\uff1b\u5fae\u4e0d\u8db3\u9053\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nomin-nominate",
+      "word": "nominate",
+      "display": "Nominate",
+      "phonetic": "",
+      "translation": "\u63d0\u540d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nomin-noun",
+      "word": "noun",
+      "display": "Noun",
+      "phonetic": "",
+      "translation": "\u540d\u8bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nomin-renown",
+      "word": "renown",
+      "display": "Renown",
+      "phonetic": "",
+      "translation": "\u58f0\u8a89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nomin-renowned",
+      "word": "renowned",
+      "display": "Renowned",
+      "phonetic": "",
+      "translation": "\u8457\u540d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-nomin",
+  "type": "root",
+  "notes": ""
+}

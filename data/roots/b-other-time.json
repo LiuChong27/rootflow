@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "rootId": "b-other-time",
+  "root": "\u65f6\u7a7a",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-other-time-back",
+      "word": "back",
+      "display": "Back",
+      "phonetic": "",
+      "translation": "\u5012\u9000\uff1b\u540e\u9762\uff1b\u80cc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-background",
+      "word": "background",
+      "display": "Background",
+      "phonetic": "",
+      "translation": "\u80cc\u666f\uff1b\u7ecf\u5386",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-backward",
+      "word": "backward",
+      "display": "Backward",
+      "phonetic": "",
+      "translation": "\u5411\u540e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-because",
+      "word": "because",
+      "display": "Because",
+      "phonetic": "",
+      "translation": "\u56e0\u4e3a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-become",
+      "word": "become",
+      "display": "Become",
+      "phonetic": "",
+      "translation": "\u53d8\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-before",
+      "word": "before",
+      "display": "Before",
+      "phonetic": "",
+      "translation": "\u5728...\u4ee5\u524d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-beforehand",
+      "word": "beforehand",
+      "display": "Beforehand",
+      "phonetic": "",
+      "translation": "\u9884\u5148",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-begin",
+      "word": "begin",
+      "display": "Begin",
+      "phonetic": "",
+      "translation": "\u5f00\u59cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-beginning",
+      "word": "beginning",
+      "display": "Beginning",
+      "phonetic": "",
+      "translation": "\u5f00\u59cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-behind",
+      "word": "behind",
+      "display": "Behind",
+      "phonetic": "",
+      "translation": "\u5728...\u80cc\u540e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-belong",
+      "word": "belong",
+      "display": "Belong",
+      "phonetic": "",
+      "translation": "\u5c5e\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-below",
+      "word": "below",
+      "display": "Below",
+      "phonetic": "",
+      "translation": "\u5728...\u4e0b\u9762",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-beneath",
+      "word": "beneath",
+      "display": "Beneath",
+      "phonetic": "",
+      "translation": "\u5728...\u4e0b\u8fb9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-beside",
+      "word": "beside",
+      "display": "Beside",
+      "phonetic": "",
+      "translation": "\u5728...\u65c1\u8fb9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-besides",
+      "word": "besides",
+      "display": "Besides",
+      "phonetic": "",
+      "translation": "\u6b64\u5916",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-between",
+      "word": "between",
+      "display": "Between",
+      "phonetic": "",
+      "translation": "\u5728...\u4e4b\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-time-beyond",
+      "word": "beyond",
+      "display": "Beyond",
+      "phonetic": "",
+      "translation": "\u5728...\u90a3\u8fb9\uff1b\u8d85\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-other",
+  "rootLevel": 3,
+  "rootPath": "b>b-other>b-other-time",
+  "type": "category",
+  "notes": ""
+}

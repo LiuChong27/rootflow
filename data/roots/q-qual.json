@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "q-qual",
+  "root": "qual\u6027\u8d28 \u7279\u5f81",
+  "meaning": "quality, characteristic",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "q-qual-qualification",
+      "word": "qualification",
+      "display": "Qualification",
+      "phonetic": "",
+      "translation": "\u8d44\u683c\uff1b\u5408\u683c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-qual-qualify",
+      "word": "qualify",
+      "display": "Qualify",
+      "phonetic": "",
+      "translation": "\u4f7f\u5177\u6709\u8d44\u683c\uff1b\u4fee\u9970",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-qual-qualitative",
+      "word": "qualitative",
+      "display": "Qualitative",
+      "phonetic": "",
+      "translation": "\u6027\u8d28\u4e0a\u7684 \u5b9a\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-qual-quality",
+      "word": "quality",
+      "display": "Quality",
+      "phonetic": "",
+      "translation": "\u8d28\u91cf \u7279\u6027\uff1b\u54c1\u8d28",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-qual-quantify",
+      "word": "quantify",
+      "display": "Quantify",
+      "phonetic": "",
+      "translation": "\u786e\u5b9a\u6570\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-qual-quantitative",
+      "word": "quantitative",
+      "display": "Quantitative",
+      "phonetic": "",
+      "translation": "\u5b9a\u91cf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "q",
+  "rootLevel": 2,
+  "rootPath": "q>q-qual",
+  "type": "root",
+  "notes": ""
+}

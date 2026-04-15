@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "r-re-emotion",
+  "root": "\u60c5\u611f",
+  "meaning": "emotion",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-re-emotion-refresh",
+      "word": "refresh",
+      "display": "Refresh",
+      "phonetic": "",
+      "translation": "\u4f7f\u7cbe\u795e\u632f\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-refreshment",
+      "word": "refreshment",
+      "display": "Refreshment",
+      "phonetic": "",
+      "translation": "\u70b9\u5fc3\uff1b\u996e\u6599",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-rejoice",
+      "word": "rejoice",
+      "display": "Rejoice",
+      "phonetic": "",
+      "translation": "\u4f7f\u9ad8\u5174",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-relax",
+      "word": "relax",
+      "display": "Relax",
+      "phonetic": "",
+      "translation": "\u653e\u677e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-relay",
+      "word": "relay",
+      "display": "Relay",
+      "phonetic": "",
+      "translation": "\u63a5\u529b\uff1b\u63a5\u73ed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-release",
+      "word": "release",
+      "display": "Release",
+      "phonetic": "",
+      "translation": "\u91ca\u653e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-relief",
+      "word": "relief",
+      "display": "Relief",
+      "phonetic": "",
+      "translation": "\u51cf\u8f7b\uff1b\u89e3\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-relieve",
+      "word": "relieve",
+      "display": "Relieve",
+      "phonetic": "",
+      "translation": "\u51cf\u8f7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-reluctant",
+      "word": "reluctant",
+      "display": "Reluctant",
+      "phonetic": "",
+      "translation": "\u4e0d\u613f\u7684\uff1b\u52c9\u5f3a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-resolute",
+      "word": "resolute",
+      "display": "Resolute",
+      "phonetic": "",
+      "translation": "\u575a\u51b3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-emotion-resolution",
+      "word": "resolution",
+      "display": "Resolution",
+      "phonetic": "",
+      "translation": "\u575a\u51b3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r-re",
+  "rootLevel": 3,
+  "rootPath": "r>r-re>r-re-emotion",
+  "type": "root",
+  "notes": ""
+}

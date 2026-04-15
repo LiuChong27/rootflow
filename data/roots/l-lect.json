@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "rootId": "l-lect",
+  "root": "lect=lig=select\u9009\u62e9 \u6536\u96c6",
+  "meaning": "select, collect",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-lect-collect",
+      "word": "collect",
+      "display": "Collect",
+      "phonetic": "",
+      "translation": "\u6536\u96c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-collection",
+      "word": "collection",
+      "display": "Collection",
+      "phonetic": "",
+      "translation": "\u6536\u85cf\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-collective",
+      "word": "collective",
+      "display": "Collective",
+      "phonetic": "",
+      "translation": "\u96c6\u4f53\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-collector",
+      "word": "collector",
+      "display": "Collector",
+      "phonetic": "",
+      "translation": "\u6536\u85cf\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-elect",
+      "word": "elect",
+      "display": "Elect",
+      "phonetic": "",
+      "translation": "\u9009\u4e3e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-election",
+      "word": "election",
+      "display": "Election",
+      "phonetic": "",
+      "translation": "\u9009\u4e3e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-elective",
+      "word": "elective",
+      "display": "Elective",
+      "phonetic": "",
+      "translation": "\u9009\u4fee\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-elegance",
+      "word": "elegance",
+      "display": "Elegance",
+      "phonetic": "",
+      "translation": "\u4f18\u96c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-elegant",
+      "word": "elegant",
+      "display": "Elegant",
+      "phonetic": "",
+      "translation": "\u4f18\u96c5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-eligible",
+      "word": "eligible",
+      "display": "Eligible",
+      "phonetic": "",
+      "translation": "\u6709\u8d44\u683c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-intellect",
+      "word": "intellect",
+      "display": "Intellect",
+      "phonetic": "",
+      "translation": "\u667a\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-intellectual",
+      "word": "intellectual",
+      "display": "Intellectual",
+      "phonetic": "",
+      "translation": "\u77e5\u8bc6\u5206\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-intelligence",
+      "word": "intelligence",
+      "display": "Intelligence",
+      "phonetic": "",
+      "translation": "\u667a\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-intelligent",
+      "word": "intelligent",
+      "display": "Intelligent",
+      "phonetic": "",
+      "translation": "\u806a\u660e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-neglect",
+      "word": "neglect",
+      "display": "Neglect",
+      "phonetic": "",
+      "translation": "\u5ffd\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-negligent",
+      "word": "negligent",
+      "display": "Negligent",
+      "phonetic": "",
+      "translation": "\u758f\u5ffd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-select",
+      "word": "select",
+      "display": "Select",
+      "phonetic": "",
+      "translation": "\u9009\u62e9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-selection",
+      "word": "selection",
+      "display": "Selection",
+      "phonetic": "",
+      "translation": "\u9009\u62e9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lect-selective",
+      "word": "selective",
+      "display": "Selective",
+      "phonetic": "",
+      "translation": "\u9009\u62e9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-lect",
+  "type": "root",
+  "notes": ""
+}

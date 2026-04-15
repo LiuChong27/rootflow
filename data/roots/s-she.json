@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "rootId": "s-she",
+  "root": "\u5979--\u5bb3\u7f9e--\u9634\u5f71--\u53d1\u5149--\u907f\u96be\u6240",
+  "meaning": "she, shy, shadow, shine, shelter",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-she-shabby",
+      "word": "shabby",
+      "display": "Shabby",
+      "phonetic": "",
+      "translation": "\u7b80\u964b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shaby",
+      "word": "shaby",
+      "display": "Shaby",
+      "phonetic": "",
+      "translation": "\u6210\u836b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shade",
+      "word": "shade",
+      "display": "Shade",
+      "phonetic": "",
+      "translation": "\u9634\u5f71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shadow",
+      "word": "shadow",
+      "display": "Shadow",
+      "phonetic": "",
+      "translation": "\u9634\u5f71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shaft",
+      "word": "shaft",
+      "display": "Shaft",
+      "phonetic": "",
+      "translation": "\u8f74\uff1b\u6746\u72b6\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shake",
+      "word": "shake",
+      "display": "Shake",
+      "phonetic": "",
+      "translation": "\u98a4\u6296",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-sham",
+      "word": "sham",
+      "display": "Sham",
+      "phonetic": "",
+      "translation": "\u5047\u5192\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shame",
+      "word": "shame",
+      "display": "Shame",
+      "phonetic": "",
+      "translation": "\u7f9e\u803b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shed",
+      "word": "shed",
+      "display": "Shed",
+      "phonetic": "",
+      "translation": "\u5c0f\u5c4b\uff1b\u8131\u843d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-sheer",
+      "word": "sheer",
+      "display": "Sheer",
+      "phonetic": "",
+      "translation": "\u9661\u5ced\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shelter",
+      "word": "shelter",
+      "display": "Shelter",
+      "phonetic": "",
+      "translation": "\u63a9\u853d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shiver",
+      "word": "shiver",
+      "display": "Shiver",
+      "phonetic": "",
+      "translation": "\u98a4\u6296",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-she-shock",
+      "word": "shock",
+      "display": "Shock",
+      "phonetic": "",
+      "translation": "\u9707\u52a8\uff1b\u9707\u60ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-she",
+  "type": "root",
+  "notes": ""
+}

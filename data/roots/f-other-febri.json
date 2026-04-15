@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "f-other-febri",
+  "root": "febri\u70ed",
+  "meaning": "febri",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-other-febri-antifebrile",
+      "word": "antifebrile",
+      "display": "Antifebrile",
+      "phonetic": "",
+      "translation": "\u9000\u70ed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-febricide",
+      "word": "febricide",
+      "display": "Febricide",
+      "phonetic": "",
+      "translation": "\u9000\u70e7\u836f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-febrifacient",
+      "word": "febrifacient",
+      "display": "Febrifacient",
+      "phonetic": "",
+      "translation": "\u4ea7\u70ed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-febrific",
+      "word": "febrific",
+      "display": "Febrific",
+      "phonetic": "",
+      "translation": "\u4ea7\u70ed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-febrifugal",
+      "word": "febrifugal",
+      "display": "Febrifugal",
+      "phonetic": "",
+      "translation": "\u9000\u70ed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-febrile",
+      "word": "febrile",
+      "display": "Febrile",
+      "phonetic": "",
+      "translation": "\u53d1\u70ed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-febriphobia",
+      "word": "febriphobia",
+      "display": "Febriphobia",
+      "phonetic": "",
+      "translation": "\u53d1\u70e7\u6050\u6016",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-fever",
+      "word": "fever",
+      "display": "Fever",
+      "phonetic": "",
+      "translation": "\u53d1\u70e7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-febri-feverish",
+      "word": "feverish",
+      "display": "Feverish",
+      "phonetic": "",
+      "translation": "\u53d1\u70e7\u7684\uff1b\u5174\u594b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-other",
+  "rootLevel": 3,
+  "rootPath": "f>f-other>f-other-febri",
+  "type": "branch",
+  "notes": ""
+}

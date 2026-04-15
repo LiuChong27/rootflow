@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "p-pen",
+  "root": "pen=pun \u7f5a",
+  "meaning": "punish",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-pen-impunity",
+      "word": "impunity",
+      "display": "Impunity",
+      "phonetic": "",
+      "translation": "\u514d\u7f5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pen-penal",
+      "word": "penal",
+      "display": "Penal",
+      "phonetic": "",
+      "translation": "\u5211\u4e8b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pen-penalize",
+      "word": "penalize",
+      "display": "Penalize",
+      "phonetic": "",
+      "translation": "\u5904\u7f5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pen-penalty",
+      "word": "penalty",
+      "display": "Penalty",
+      "phonetic": "",
+      "translation": "\u5904\u7f5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pen-penny",
+      "word": "penny",
+      "display": "Penny",
+      "phonetic": "",
+      "translation": "\u4fbf\u58eb\uff1b\u7f8e\u5206",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pen-pension",
+      "word": "pension",
+      "display": "Pension",
+      "phonetic": "",
+      "translation": "\u517b\u8001\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pen-repent",
+      "word": "repent",
+      "display": "Repent",
+      "phonetic": "",
+      "translation": "\u540e\u6094\uff1b\u5fcf\u6094",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-pen",
+  "type": "root",
+  "notes": ""
+}

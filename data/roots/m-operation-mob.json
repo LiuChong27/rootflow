@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "m-operation-mob",
+  "root": "mob=mot mov=move\u79fb\u52a8",
+  "meaning": "move",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-operation-mob-mobile",
+      "word": "mobile",
+      "display": "Mobile",
+      "phonetic": "",
+      "translation": "\u53ef\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mob-mobilize",
+      "word": "mobilize",
+      "display": "Mobilize",
+      "phonetic": "",
+      "translation": "\u52a8\u5458",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mob-motion",
+      "word": "motion",
+      "display": "Motion",
+      "phonetic": "",
+      "translation": "\u8fd0\u52a8\uff1b\u63d0\u8bae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mob-motivate",
+      "word": "motivate",
+      "display": "Motivate",
+      "phonetic": "",
+      "translation": "\u6fc0\u52b1\uff1b\u9f13\u52b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mob-motive",
+      "word": "motive",
+      "display": "Motive",
+      "phonetic": "",
+      "translation": "\u52a8\u673a\uff1b\u8fd0\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mob-motor",
+      "word": "motor",
+      "display": "Motor",
+      "phonetic": "",
+      "translation": "\u53d1\u52a8\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mob-movement",
+      "word": "movement",
+      "display": "Movement",
+      "phonetic": "",
+      "translation": "\u8fd0\u52a8\uff1b\u8fc1\u79fb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-mob",
+  "type": "branch",
+  "notes": ""
+}

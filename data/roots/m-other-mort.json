@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "m-other-mort",
+  "root": "mort\u6b7b",
+  "meaning": "death",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-other-mort-mortal",
+      "word": "mortal",
+      "display": "Mortal",
+      "phonetic": "",
+      "translation": "\u81f4\u547d\u7684\uff1b\u51e1\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mort-mortgage",
+      "word": "mortgage",
+      "display": "Mortgage",
+      "phonetic": "",
+      "translation": "\u62b5\u62bc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-other",
+  "rootLevel": 3,
+  "rootPath": "m>m-other>m-other-mort",
+  "type": "branch",
+  "notes": ""
+}

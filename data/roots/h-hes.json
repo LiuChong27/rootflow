@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "rootId": "h-hes",
+  "root": "hes=here=stick\u7c98\u7740",
+  "meaning": "hes",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-hes-adhere",
+      "word": "adhere",
+      "display": "Adhere",
+      "phonetic": "",
+      "translation": "\u9ecf\u9644\uff1b\u575a\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-adherence",
+      "word": "adherence",
+      "display": "Adherence",
+      "phonetic": "",
+      "translation": "\u7c98\u7740\uff1b\u5fe0\u8bda\uff1b\u575a\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-adherent",
+      "word": "adherent",
+      "display": "Adherent",
+      "phonetic": "",
+      "translation": "\u7c98\u7740\u7684\uff1b\u8ffd\u968f\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-adhesion",
+      "word": "adhesion",
+      "display": "Adhesion",
+      "phonetic": "",
+      "translation": "\u7c98\u7740",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-cohere",
+      "word": "cohere",
+      "display": "Cohere",
+      "phonetic": "",
+      "translation": "\u8fde\u8d2f\uff1b\u7c98\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-coherence",
+      "word": "coherence",
+      "display": "Coherence",
+      "phonetic": "",
+      "translation": "\u8fde\u8d2f\u6027\uff1b\u4e00\u81f4\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-cohesible",
+      "word": "cohesible",
+      "display": "Cohesible",
+      "phonetic": "",
+      "translation": "\u53ef\u7c98\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-cohesion",
+      "word": "cohesion",
+      "display": "Cohesion",
+      "phonetic": "",
+      "translation": "\u7ed3\u5408\uff1b\u51dd\u805a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-cohesive",
+      "word": "cohesive",
+      "display": "Cohesive",
+      "phonetic": "",
+      "translation": "\u51dd\u805a\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-hesitance",
+      "word": "hesitance",
+      "display": "Hesitance",
+      "phonetic": "",
+      "translation": "\u8e0c\u8e87\uff1b\u72b9\u8c6b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-hesitancy",
+      "word": "hesitancy",
+      "display": "Hesitancy",
+      "phonetic": "",
+      "translation": "\u8fdf\u7591\uff1b\u8e0c\u8e87",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-hesitant",
+      "word": "hesitant",
+      "display": "Hesitant",
+      "phonetic": "",
+      "translation": "\u72b9\u8c6b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-hesitate",
+      "word": "hesitate",
+      "display": "Hesitate",
+      "phonetic": "",
+      "translation": "\u72b9\u8c6b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-hesitative",
+      "word": "hesitative",
+      "display": "Hesitative",
+      "phonetic": "",
+      "translation": "\u652f\u543e\u5176\u8bcd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-incoherent",
+      "word": "incoherent",
+      "display": "Incoherent",
+      "phonetic": "",
+      "translation": "\u4e0d\u8fde\u8d2f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-inhere",
+      "word": "inhere",
+      "display": "Inhere",
+      "phonetic": "",
+      "translation": "\u56fa\u6709\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hes-inherence",
+      "word": "inherence",
+      "display": "Inherence",
+      "phonetic": "",
+      "translation": "\u5185\u5728\uff1b\u56fa\u6709\uff1b\u5929\u8d4b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h",
+  "rootLevel": 2,
+  "rootPath": "h>h-hes",
+  "type": "root",
+  "notes": ""
+}

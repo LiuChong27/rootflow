@@ -1,0 +1,459 @@
+{
+  "version": 1,
+  "rootId": "p-pend",
+  "root": "pend=pens \u60ac\u6302\u3001\u82b1\u8d39",
+  "meaning": "hang, spend",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-pend-append",
+      "word": "append",
+      "display": "Append",
+      "phonetic": "",
+      "translation": "\u9644\u52a0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-appendant",
+      "word": "appendant",
+      "display": "Appendant",
+      "phonetic": "",
+      "translation": "\u9644\u5c5e\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-appendicle",
+      "word": "appendicle",
+      "display": "Appendicle",
+      "phonetic": "",
+      "translation": "\u5c0f\u9644\u5c5e\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-appendix",
+      "word": "appendix",
+      "display": "Appendix",
+      "phonetic": "",
+      "translation": "\u9644\u5f55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-compendious",
+      "word": "compendious",
+      "display": "Compendious",
+      "phonetic": "",
+      "translation": "\u7b80\u6d01\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-compendium",
+      "word": "compendium",
+      "display": "Compendium",
+      "phonetic": "",
+      "translation": "\u6458\u8981",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-compensate",
+      "word": "compensate",
+      "display": "Compensate",
+      "phonetic": "",
+      "translation": "\u8865\u507f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-counterpoise",
+      "word": "counterpoise",
+      "display": "Counterpoise",
+      "phonetic": "",
+      "translation": "\u8865\u507f\uff1b\u5747\u5300",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-depend",
+      "word": "depend",
+      "display": "Depend",
+      "phonetic": "",
+      "translation": "\u4f9d\u9760",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-dependence",
+      "word": "dependence",
+      "display": "Dependence",
+      "phonetic": "",
+      "translation": "\u4fe1\u8d56\uff1b\u4f9d\u8d56",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-dependent",
+      "word": "dependent",
+      "display": "Dependent",
+      "phonetic": "",
+      "translation": "\u4f9d\u9760\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-dispensable",
+      "word": "dispensable",
+      "display": "Dispensable",
+      "phonetic": "",
+      "translation": "\u53ef\u6709\u53ef\u65e0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-dispensary",
+      "word": "dispensary",
+      "display": "Dispensary",
+      "phonetic": "",
+      "translation": "\u836f\u623f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-dispense",
+      "word": "dispense",
+      "display": "Dispense",
+      "phonetic": "",
+      "translation": "\u7ed9\u4e88\uff1b\u5206\u914d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-expend",
+      "word": "expend",
+      "display": "Expend",
+      "phonetic": "",
+      "translation": "\u82b1\u8d39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-expenditure",
+      "word": "expenditure",
+      "display": "Expenditure",
+      "phonetic": "",
+      "translation": "\u5f00\u652f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-expensive",
+      "word": "expensive",
+      "display": "Expensive",
+      "phonetic": "",
+      "translation": "\u6602\u8d35\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-impend",
+      "word": "impend",
+      "display": "Impend",
+      "phonetic": "",
+      "translation": "\u60ac\u6302\uff1b\u5a01\u80c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-impending",
+      "word": "impending",
+      "display": "Impending",
+      "phonetic": "",
+      "translation": "\u7d27\u6025\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-independence",
+      "word": "independence",
+      "display": "Independence",
+      "phonetic": "",
+      "translation": "\u72ec\u7acb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-independent",
+      "word": "independent",
+      "display": "Independent",
+      "phonetic": "",
+      "translation": "\u72ec\u7acb\u81ea\u4e3b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-indispensable",
+      "word": "indispensable",
+      "display": "Indispensable",
+      "phonetic": "",
+      "translation": "\u4e0d\u53ef\u7f3a\u5c11\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-pendant",
+      "word": "pendant",
+      "display": "Pendant",
+      "phonetic": "",
+      "translation": "\u5782\u9970\uff1b\u4e0b\u5782\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-pendent",
+      "word": "pendent",
+      "display": "Pendent",
+      "phonetic": "",
+      "translation": "\u4e0b\u5782\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-pending",
+      "word": "pending",
+      "display": "Pending",
+      "phonetic": "",
+      "translation": "\u60ac\u800c\u672a\u51b3\u7684\uff1b\u5373\u5c06\u53d1\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-pension",
+      "word": "pension",
+      "display": "Pension",
+      "phonetic": "",
+      "translation": "\u9000\u4f11\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-pensive",
+      "word": "pensive",
+      "display": "Pensive",
+      "phonetic": "",
+      "translation": "\u5fe7\u90c1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-perpendicular",
+      "word": "perpendicular",
+      "display": "Perpendicular",
+      "phonetic": "",
+      "translation": "\u5782\u76f4\u7684\uff1b\u6b63\u4ea4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-poise",
+      "word": "poise",
+      "display": "Poise",
+      "phonetic": "",
+      "translation": "\u5e73\u8861\uff1b\u59ff\u52bf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-ponder",
+      "word": "ponder",
+      "display": "Ponder",
+      "phonetic": "",
+      "translation": "\u6c89\u601d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-ponderous",
+      "word": "ponderous",
+      "display": "Ponderous",
+      "phonetic": "",
+      "translation": "\u6c89\u91cd\u7684\uff1b\u5446\u677f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-prepense",
+      "word": "prepense",
+      "display": "Prepense",
+      "phonetic": "",
+      "translation": "\u6545\u610f\u7684\uff1b\u84c4\u610f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-propensity",
+      "word": "propensity",
+      "display": "Propensity",
+      "phonetic": "",
+      "translation": "\u7231\u597d\uff1b\u503e\u5411",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-purchase",
+      "word": "purchase",
+      "display": "Purchase",
+      "phonetic": "",
+      "translation": "\u8d2d\u4e70",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-recompense",
+      "word": "recompense",
+      "display": "Recompense",
+      "phonetic": "",
+      "translation": "\u62a5\u7b54",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-spend",
+      "word": "spend",
+      "display": "Spend",
+      "phonetic": "",
+      "translation": "\u82b1\u8d39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pend-suspense",
+      "word": "suspense",
+      "display": "Suspense",
+      "phonetic": "",
+      "translation": "\u60ac\u800c\u672a\u51b3\uff1b\u60ac\u5ff5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-pend",
+  "type": "root",
+  "notes": ""
+}

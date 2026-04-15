@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "t-tend",
+  "root": "tend tens tent",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-tend-attend",
+      "word": "attend",
+      "display": "Attend",
+      "phonetic": "",
+      "translation": "\u51fa\u5e2d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-attendance",
+      "word": "attendance",
+      "display": "Attendance",
+      "phonetic": "",
+      "translation": "\u51fa\u5e2d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-attendant",
+      "word": "attendant",
+      "display": "Attendant",
+      "phonetic": "",
+      "translation": "\u968f\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-contend",
+      "word": "contend",
+      "display": "Contend",
+      "phonetic": "",
+      "translation": "\u7ade\u4e89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-contention",
+      "word": "contention",
+      "display": "Contention",
+      "phonetic": "",
+      "translation": "\u4e89\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-contentious",
+      "word": "contentious",
+      "display": "Contentious",
+      "phonetic": "",
+      "translation": "\u4e89\u8bba\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-distend",
+      "word": "distend",
+      "display": "Distend",
+      "phonetic": "",
+      "translation": "\u6269\u5f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-distent",
+      "word": "distent",
+      "display": "Distent",
+      "phonetic": "",
+      "translation": "\u81a8\u80c0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-distention",
+      "word": "distention",
+      "display": "Distention",
+      "phonetic": "",
+      "translation": "\u81a8\u80c0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-extend",
+      "word": "extend",
+      "display": "Extend",
+      "phonetic": "",
+      "translation": "\u5ef6\u4f38\uff1b\u6269\u5145",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-extent",
+      "word": "extent",
+      "display": "Extent",
+      "phonetic": "",
+      "translation": "\u957f\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-intend",
+      "word": "intend",
+      "display": "Intend",
+      "phonetic": "",
+      "translation": "\u6253\u7b97\uff1b\u76ee\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-intense",
+      "word": "intense",
+      "display": "Intense",
+      "phonetic": "",
+      "translation": "\u5f3a\u70c8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-intensify",
+      "word": "intensify",
+      "display": "Intensify",
+      "phonetic": "",
+      "translation": "\u4f7f\u5f3a\u70c8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-tend",
+      "word": "tend",
+      "display": "Tend",
+      "phonetic": "",
+      "translation": "\u8d8b\u5411",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-tendency",
+      "word": "tendency",
+      "display": "Tendency",
+      "phonetic": "",
+      "translation": "\u8d8b\u52bf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-tender",
+      "word": "tender",
+      "display": "Tender",
+      "phonetic": "",
+      "translation": "\u6e29\u67d4\u7684\uff1b\u654f\u611f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-tense",
+      "word": "tense",
+      "display": "Tense",
+      "phonetic": "",
+      "translation": "\u62c9\u7d27\uff1b\u65f6\u6001",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-tension",
+      "word": "tension",
+      "display": "Tension",
+      "phonetic": "",
+      "translation": "\u72b6\u6001",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tend-tent",
+      "word": "tent",
+      "display": "Tent",
+      "phonetic": "",
+      "translation": "\u5e10\u7bf7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-tend",
+  "type": "root",
+  "notes": ""
+}

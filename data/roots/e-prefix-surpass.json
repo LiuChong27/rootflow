@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "e-prefix-surpass",
+  "root": "\u8d85\u8d8a",
+  "meaning": "surpass",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-prefix-surpass-eminent",
+      "word": "eminent",
+      "display": "Eminent",
+      "phonetic": "",
+      "translation": "\u663e\u8d6b\u7684\uff1b\u6770\u51fa\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-exceed",
+      "word": "exceed",
+      "display": "Exceed",
+      "phonetic": "",
+      "translation": "\u8d85\u8fc7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-exceedingly",
+      "word": "exceedingly",
+      "display": "Exceedingly",
+      "phonetic": "",
+      "translation": "\u6781\u7aef\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-excel",
+      "word": "excel",
+      "display": "Excel",
+      "phonetic": "",
+      "translation": "\u64c5\u957f\uff1b\u80dc\u8fc7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-excellent",
+      "word": "excellent",
+      "display": "Excellent",
+      "phonetic": "",
+      "translation": "\u5353\u8d8a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-excess",
+      "word": "excess",
+      "display": "Excess",
+      "phonetic": "",
+      "translation": "\u8fc7\u91cf\u7684\uff1b\u989d\u5916\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-excessive",
+      "word": "excessive",
+      "display": "Excessive",
+      "phonetic": "",
+      "translation": "\u8fc7\u591a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-expert",
+      "word": "expert",
+      "display": "Expert",
+      "phonetic": "",
+      "translation": "\u4e13\u5bb6\uff1b\u719f\u7ec3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-surpass-expertise",
+      "word": "expertise",
+      "display": "Expertise",
+      "phonetic": "",
+      "translation": "\u4e13\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-prefix",
+  "rootLevel": 3,
+  "rootPath": "e>e-prefix>e-prefix-surpass",
+  "type": "branch",
+  "notes": ""
+}

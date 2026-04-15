@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "rootId": "i-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "i-other-idea",
+      "word": "idea",
+      "display": "Idea",
+      "phonetic": "",
+      "translation": "\u60f3\u6cd5\uff1b\u6982\u5ff5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-ideal",
+      "word": "ideal",
+      "display": "Ideal",
+      "phonetic": "",
+      "translation": "\u7406\u60f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-identical",
+      "word": "identical",
+      "display": "Identical",
+      "phonetic": "",
+      "translation": "\u540c\u6837\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-identification",
+      "word": "identification",
+      "display": "Identification",
+      "phonetic": "",
+      "translation": "\u8bc6\u522b\uff1b\u9274\u522b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-identify",
+      "word": "identify",
+      "display": "Identify",
+      "phonetic": "",
+      "translation": "\u8bc6\u522b\uff1b\u9274\u522b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-identity",
+      "word": "identity",
+      "display": "Identity",
+      "phonetic": "",
+      "translation": "\u8eab\u4efd\uff1b\u7279\u5f81",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-ideology",
+      "word": "ideology",
+      "display": "Ideology",
+      "phonetic": "",
+      "translation": "\u610f\u8bc6\u5f62\u6001",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-idiom",
+      "word": "idiom",
+      "display": "Idiom",
+      "phonetic": "",
+      "translation": "\u4e60\u8bed\uff1b\u98ce\u683c\uff1b\u7279\u8272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-idiot",
+      "word": "idiot",
+      "display": "Idiot",
+      "phonetic": "",
+      "translation": "\u767d\u75f4\uff1b\u7b28\u86cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-idle",
+      "word": "idle",
+      "display": "Idle",
+      "phonetic": "",
+      "translation": "\u7a7a\u95f2\u7684\uff1b\u61d2\u6563\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-ignorance",
+      "word": "ignorance",
+      "display": "Ignorance",
+      "phonetic": "",
+      "translation": "\u65e0\u77e5\uff1b\u611a\u6627",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-ignorant",
+      "word": "ignorant",
+      "display": "Ignorant",
+      "phonetic": "",
+      "translation": "\u65e0\u77e5\u7684\uff1b\u611a\u6627\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-ignore",
+      "word": "ignore",
+      "display": "Ignore",
+      "phonetic": "",
+      "translation": "\u5ffd\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-il",
+      "word": "il \u6709\u75c5\u7684\uff1b\u574f\u7684",
+      "display": "il \u6709\u75c5\u7684\uff1b\u574f\u7684",
+      "phonetic": "",
+      "translation": "\u6709\u75c5\u7684\uff1b\u574f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-illegal",
+      "word": "illegal",
+      "display": "Illegal",
+      "phonetic": "",
+      "translation": "\u975e\u6cd5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-illiterate",
+      "word": "illiterate",
+      "display": "Illiterate",
+      "phonetic": "",
+      "translation": "\u6587\u76f2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-illness",
+      "word": "illness",
+      "display": "Illness",
+      "phonetic": "",
+      "translation": "\u75be\u75c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-illuminate",
+      "word": "illuminate",
+      "display": "Illuminate",
+      "phonetic": "",
+      "translation": "\u7167\u660e\uff1b\u89e3\u91ca\uff1b\u8bf4\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-illusion",
+      "word": "illusion",
+      "display": "Illusion",
+      "phonetic": "",
+      "translation": "\u5e7b\u60f3\uff1b\u9519\u89c9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-illustrate",
+      "word": "illustrate",
+      "display": "Illustrate",
+      "phonetic": "",
+      "translation": "\u4e3e\u4f8b\u8bf4\u660e\uff1b\u9610\u660e\uff1b\u56fe\u89e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-illustration",
+      "word": "illustration",
+      "display": "Illustration",
+      "phonetic": "",
+      "translation": "\u8bf4\u660e\uff1b\u63d2\u56fe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-incline",
+      "word": "incline",
+      "display": "Incline",
+      "phonetic": "",
+      "translation": "\u503e\u659c\uff1b\u659c\u5761",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-index",
+      "word": "index",
+      "display": "Index",
+      "phonetic": "",
+      "translation": "\u7d22\u5f15",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-industrial",
+      "word": "industrial",
+      "display": "Industrial",
+      "phonetic": "",
+      "translation": "\u5de5\u4e1a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-industrialize",
+      "word": "industrialize",
+      "display": "Industrialize",
+      "phonetic": "",
+      "translation": "\u4f7f\u5de5\u4e1a\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-industry",
+      "word": "industry",
+      "display": "Industry",
+      "phonetic": "",
+      "translation": "\u5de5\u4e1a\uff1b\u4ea7\u4e1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-infant",
+      "word": "infant",
+      "display": "Infant",
+      "phonetic": "",
+      "translation": "\u5a74\u513f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-inferior",
+      "word": "inferior",
+      "display": "Inferior",
+      "phonetic": "",
+      "translation": "\u4e0b\u7b49\u7684\uff1b\u665a\u8f88",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-infrared",
+      "word": "infrared",
+      "display": "Infrared",
+      "phonetic": "",
+      "translation": "\u7ea2\u5916\u7ebf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-infrastructure",
+      "word": "infrastructure",
+      "display": "Infrastructure",
+      "phonetic": "",
+      "translation": "\u57fa\u7840\u7ed3\u6784",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-ink",
+      "word": "ink",
+      "display": "Ink",
+      "phonetic": "",
+      "translation": "\u58a8\u6c34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-inland",
+      "word": "inland",
+      "display": "Inland",
+      "phonetic": "",
+      "translation": "\u9646\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-inlet",
+      "word": "inlet",
+      "display": "Inlet",
+      "phonetic": "",
+      "translation": "\u6e7e\uff1b\u5165\u53e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-other-innocent",
+      "word": "innocent",
+      "display": "Innocent",
+      "phonetic": "",
+      "translation": "\u6e05\u767d\u7684\uff1b\u5355\u7eaf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "i",
+  "rootLevel": 2,
+  "rootPath": "i>i-other",
+  "type": "root",
+  "notes": ""
+}

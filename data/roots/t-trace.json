@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "t-trace",
+  "root": "trace",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-trace-trace",
+      "word": "trace",
+      "display": "Trace",
+      "phonetic": "",
+      "translation": "\u75d5\u8ff9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-track",
+      "word": "track",
+      "display": "Track",
+      "phonetic": "",
+      "translation": "\u8dd1\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-tractor",
+      "word": "tractor",
+      "display": "Tractor",
+      "phonetic": "",
+      "translation": "\u62d6\u62c9\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-trade",
+      "word": "trade",
+      "display": "Trade",
+      "phonetic": "",
+      "translation": "\u8d38\u6613",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-trademark",
+      "word": "trademark",
+      "display": "Trademark",
+      "phonetic": "",
+      "translation": "\u5546\u6807\uff1b\u7279\u5f81",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-trail",
+      "word": "trail",
+      "display": "Trail",
+      "phonetic": "",
+      "translation": "\u75d5\u8ff9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-trait",
+      "word": "trait",
+      "display": "Trait",
+      "phonetic": "",
+      "translation": "\u7279\u5f81",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-traitor",
+      "word": "traitor",
+      "display": "Traitor",
+      "phonetic": "",
+      "translation": "\u53db\u5f92",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-tram",
+      "word": "tram",
+      "display": "Tram",
+      "phonetic": "",
+      "translation": "\u6709\u8f68\u7535\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-tramp",
+      "word": "tramp",
+      "display": "Tramp",
+      "phonetic": "",
+      "translation": "\u6b65\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trace-trolley",
+      "word": "trolley",
+      "display": "Trolley",
+      "phonetic": "",
+      "translation": "\u624b\u63a8\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-trace",
+  "type": "root",
+  "notes": ""
+}

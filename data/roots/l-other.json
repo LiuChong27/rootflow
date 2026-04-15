@@ -1,0 +1,1251 @@
+{
+  "version": 1,
+  "rootId": "l-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-other-alive",
+      "word": "alive",
+      "display": "Alive",
+      "phonetic": "",
+      "translation": "\u6d3b\u7740\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-alone",
+      "word": "alone",
+      "display": "Alone",
+      "phonetic": "",
+      "translation": "\u72ec\u81ea",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-aloud",
+      "word": "aloud",
+      "display": "Aloud",
+      "phonetic": "",
+      "translation": "\u5927\u58f0\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-clumsy",
+      "word": "clumsy",
+      "display": "Clumsy",
+      "phonetic": "",
+      "translation": "\u7b28\u62d9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-collapse",
+      "word": "collapse",
+      "display": "Collapse",
+      "phonetic": "",
+      "translation": "\u5012\u584c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-elaborate",
+      "word": "elaborate",
+      "display": "Elaborate",
+      "phonetic": "",
+      "translation": "\u7cbe\u5fc3\u5236\u4f5c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-elevator",
+      "word": "elevator",
+      "display": "Elevator",
+      "phonetic": "",
+      "translation": "\u7535\u68af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-labor",
+      "word": "labor",
+      "display": "Labor",
+      "phonetic": "",
+      "translation": "\u5de5\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-laboratory",
+      "word": "laboratory",
+      "display": "Laboratory",
+      "phonetic": "",
+      "translation": "\u5b9e\u9a8c\u5ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lapse",
+      "word": "lapse",
+      "display": "Lapse",
+      "phonetic": "",
+      "translation": "\u6ed1\u843d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-late",
+      "word": "late",
+      "display": "Late",
+      "phonetic": "",
+      "translation": "\u665a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-later",
+      "word": "later",
+      "display": "Later",
+      "phonetic": "",
+      "translation": "\u540e\u6765",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-latest",
+      "word": "latest",
+      "display": "Latest",
+      "phonetic": "",
+      "translation": "\u6700\u65b0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-law",
+      "word": "law",
+      "display": "Law",
+      "phonetic": "",
+      "translation": "\u6cd5\u5f8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lawyer",
+      "word": "lawyer",
+      "display": "Lawyer",
+      "phonetic": "",
+      "translation": "\u5f8b\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lay",
+      "word": "lay",
+      "display": "Lay",
+      "phonetic": "",
+      "translation": "\u653e\u7f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-layer",
+      "word": "layer",
+      "display": "Layer",
+      "phonetic": "",
+      "translation": "\u5c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-layout",
+      "word": "layout",
+      "display": "Layout",
+      "phonetic": "",
+      "translation": "\u5e03\u5c40",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lead",
+      "word": "lead",
+      "display": "Lead",
+      "phonetic": "",
+      "translation": "\u9886\u5bfc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-leader",
+      "word": "leader",
+      "display": "Leader",
+      "phonetic": "",
+      "translation": "\u9886\u8896",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-leadership",
+      "word": "leadership",
+      "display": "Leadership",
+      "phonetic": "",
+      "translation": "\u9886\u5bfc\u80fd\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-leaf",
+      "word": "leaf",
+      "display": "Leaf",
+      "phonetic": "",
+      "translation": "\u53f6\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-leaflet",
+      "word": "leaflet",
+      "display": "Leaflet",
+      "phonetic": "",
+      "translation": "\u4f20\u5355",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-learn",
+      "word": "learn",
+      "display": "Learn",
+      "phonetic": "",
+      "translation": "\u5b66\u4e60",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-learned",
+      "word": "learned",
+      "display": "Learned",
+      "phonetic": "",
+      "translation": "\u6709\u5b66\u95ee\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-least",
+      "word": "least",
+      "display": "Least",
+      "phonetic": "",
+      "translation": "\u6700\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-leave",
+      "word": "leave",
+      "display": "Leave",
+      "phonetic": "",
+      "translation": "\u79bb\u5f00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-left",
+      "word": "left",
+      "display": "Left",
+      "phonetic": "",
+      "translation": "\u5de6\u8fb9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-leg",
+      "word": "leg",
+      "display": "Leg",
+      "phonetic": "",
+      "translation": "\u817f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-legal",
+      "word": "legal",
+      "display": "Legal",
+      "phonetic": "",
+      "translation": "\u5408\u6cd5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-legend",
+      "word": "legend",
+      "display": "Legend",
+      "phonetic": "",
+      "translation": "\u4f20\u8bf4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lend",
+      "word": "lend",
+      "display": "Lend",
+      "phonetic": "",
+      "translation": "\u501f\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-length",
+      "word": "length",
+      "display": "Length",
+      "phonetic": "",
+      "translation": "\u957f\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lengthen",
+      "word": "lengthen",
+      "display": "Lengthen",
+      "phonetic": "",
+      "translation": "\u5ef6\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-less",
+      "word": "less",
+      "display": "Less",
+      "phonetic": "",
+      "translation": "\u66f4\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lessen",
+      "word": "lessen",
+      "display": "Lessen",
+      "phonetic": "",
+      "translation": "\u51cf\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-let",
+      "word": "let",
+      "display": "Let",
+      "phonetic": "",
+      "translation": "\u8ba9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-letter",
+      "word": "letter",
+      "display": "Letter",
+      "phonetic": "",
+      "translation": "\u5b57\u6bcd\uff1b\u4fe1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-life",
+      "word": "life",
+      "display": "Life",
+      "phonetic": "",
+      "translation": "\u751f\u547d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lift",
+      "word": "lift",
+      "display": "Lift",
+      "phonetic": "",
+      "translation": "\u4e3e\u8d77",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-light",
+      "word": "light",
+      "display": "Light",
+      "phonetic": "",
+      "translation": "\u5149\uff1b\u8f7b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lighten",
+      "word": "lighten",
+      "display": "Lighten",
+      "phonetic": "",
+      "translation": "\u7167\u4eae\uff1b\u51cf\u8f7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lightly",
+      "word": "lightly",
+      "display": "Lightly",
+      "phonetic": "",
+      "translation": "\u8f7b\u8f7b\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-like",
+      "word": "like",
+      "display": "Like",
+      "phonetic": "",
+      "translation": "\u559c\u6b22\uff1b\u50cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-likely",
+      "word": "likely",
+      "display": "Likely",
+      "phonetic": "",
+      "translation": "\u53ef\u80fd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-likeness",
+      "word": "likeness",
+      "display": "Likeness",
+      "phonetic": "",
+      "translation": "\u76f8\u4f3c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-limit",
+      "word": "limit",
+      "display": "Limit",
+      "phonetic": "",
+      "translation": "\u9650\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-limitation",
+      "word": "limitation",
+      "display": "Limitation",
+      "phonetic": "",
+      "translation": "\u9650\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-limited",
+      "word": "limited",
+      "display": "Limited",
+      "phonetic": "",
+      "translation": "\u6709\u9650\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-line",
+      "word": "line",
+      "display": "Line",
+      "phonetic": "",
+      "translation": "\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-linear",
+      "word": "linear",
+      "display": "Linear",
+      "phonetic": "",
+      "translation": "\u7ebf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-link",
+      "word": "link",
+      "display": "Link",
+      "phonetic": "",
+      "translation": "\u8fde\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lip",
+      "word": "lip",
+      "display": "Lip",
+      "phonetic": "",
+      "translation": "\u5634\u5507",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lipstick",
+      "word": "lipstick",
+      "display": "Lipstick",
+      "phonetic": "",
+      "translation": "\u53e3\u7ea2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-liquid",
+      "word": "liquid",
+      "display": "Liquid",
+      "phonetic": "",
+      "translation": "\u6db2\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-liquor",
+      "word": "liquor",
+      "display": "Liquor",
+      "phonetic": "",
+      "translation": "\u9152",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-list",
+      "word": "list",
+      "display": "List",
+      "phonetic": "",
+      "translation": "\u6e05\u5355",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-listen",
+      "word": "listen",
+      "display": "Listen",
+      "phonetic": "",
+      "translation": "\u542c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-liter",
+      "word": "liter",
+      "display": "Liter",
+      "phonetic": "",
+      "translation": "\u5347",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-literal",
+      "word": "literal",
+      "display": "Literal",
+      "phonetic": "",
+      "translation": "\u6587\u5b57\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-literature",
+      "word": "literature",
+      "display": "Literature",
+      "phonetic": "",
+      "translation": "\u6587\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-little",
+      "word": "little",
+      "display": "Little",
+      "phonetic": "",
+      "translation": "\u5c0f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-live",
+      "word": "live",
+      "display": "Live",
+      "phonetic": "",
+      "translation": "\u751f\u6d3b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lively",
+      "word": "lively",
+      "display": "Lively",
+      "phonetic": "",
+      "translation": "\u6d3b\u6cfc\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-living",
+      "word": "living",
+      "display": "Living",
+      "phonetic": "",
+      "translation": "\u6d3b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-load",
+      "word": "load",
+      "display": "Load",
+      "phonetic": "",
+      "translation": "\u88c5\u8f7d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-loan",
+      "word": "loan",
+      "display": "Loan",
+      "phonetic": "",
+      "translation": "\u8d37\u6b3e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-local",
+      "word": "local",
+      "display": "Local",
+      "phonetic": "",
+      "translation": "\u5730\u65b9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-locate",
+      "word": "locate",
+      "display": "Locate",
+      "phonetic": "",
+      "translation": "\u4f4d\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-location",
+      "word": "location",
+      "display": "Location",
+      "phonetic": "",
+      "translation": "\u4f4d\u7f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lock",
+      "word": "lock",
+      "display": "Lock",
+      "phonetic": "",
+      "translation": "\u9501",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-log",
+      "word": "log",
+      "display": "Log",
+      "phonetic": "",
+      "translation": "\u539f\u6728",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-logic",
+      "word": "logic",
+      "display": "Logic",
+      "phonetic": "",
+      "translation": "\u903b\u8f91",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lone",
+      "word": "lone",
+      "display": "Lone",
+      "phonetic": "",
+      "translation": "\u5b64\u72ec\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lonely",
+      "word": "lonely",
+      "display": "Lonely",
+      "phonetic": "",
+      "translation": "\u5b64\u72ec\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-long",
+      "word": "long",
+      "display": "Long",
+      "phonetic": "",
+      "translation": "\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-look",
+      "word": "look",
+      "display": "Look",
+      "phonetic": "",
+      "translation": "\u770b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-loose",
+      "word": "loose",
+      "display": "Loose",
+      "phonetic": "",
+      "translation": "\u677e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-loosen",
+      "word": "loosen",
+      "display": "Loosen",
+      "phonetic": "",
+      "translation": "\u677e\u5f00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lose",
+      "word": "lose",
+      "display": "Lose",
+      "phonetic": "",
+      "translation": "\u5931\u53bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-loss",
+      "word": "loss",
+      "display": "Loss",
+      "phonetic": "",
+      "translation": "\u635f\u5931",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lost",
+      "word": "lost",
+      "display": "Lost",
+      "phonetic": "",
+      "translation": "\u4e22\u5931\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lot",
+      "word": "lot",
+      "display": "Lot",
+      "phonetic": "",
+      "translation": "\u8bb8\u591a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lottery",
+      "word": "lottery",
+      "display": "Lottery",
+      "phonetic": "",
+      "translation": "\u5f69\u7968",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-loud",
+      "word": "loud",
+      "display": "Loud",
+      "phonetic": "",
+      "translation": "\u5927\u58f0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-love",
+      "word": "love",
+      "display": "Love",
+      "phonetic": "",
+      "translation": "\u7231",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lovely",
+      "word": "lovely",
+      "display": "Lovely",
+      "phonetic": "",
+      "translation": "\u53ef\u7231\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lover",
+      "word": "lover",
+      "display": "Lover",
+      "phonetic": "",
+      "translation": "\u7231\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-low",
+      "word": "low",
+      "display": "Low",
+      "phonetic": "",
+      "translation": "\u4f4e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lower",
+      "word": "lower",
+      "display": "Lower",
+      "phonetic": "",
+      "translation": "\u964d\u4f4e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-loyal",
+      "word": "loyal",
+      "display": "Loyal",
+      "phonetic": "",
+      "translation": "\u5fe0\u8bda\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-loyalty",
+      "word": "loyalty",
+      "display": "Loyalty",
+      "phonetic": "",
+      "translation": "\u5fe0\u8bda",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-luck",
+      "word": "luck",
+      "display": "Luck",
+      "phonetic": "",
+      "translation": "\u8fd0\u6c14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-luckily",
+      "word": "luckily",
+      "display": "Luckily",
+      "phonetic": "",
+      "translation": "\u5e78\u8fd0\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lucky",
+      "word": "lucky",
+      "display": "Lucky",
+      "phonetic": "",
+      "translation": "\u5e78\u8fd0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lump",
+      "word": "lump",
+      "display": "Lump",
+      "phonetic": "",
+      "translation": "\u5757",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lunch",
+      "word": "lunch",
+      "display": "Lunch",
+      "phonetic": "",
+      "translation": "\u5348\u9910",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-lure",
+      "word": "lure",
+      "display": "Lure",
+      "phonetic": "",
+      "translation": "\u5f15\u8bf1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-outline",
+      "word": "outline",
+      "display": "Outline",
+      "phonetic": "",
+      "translation": "\u8f6e\u5ed3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-outlook",
+      "word": "outlook",
+      "display": "Outlook",
+      "phonetic": "",
+      "translation": "\u89c2\u70b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-overlook",
+      "word": "overlook",
+      "display": "Overlook",
+      "phonetic": "",
+      "translation": "\u4fef\u77b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-relapse",
+      "word": "relapse",
+      "display": "Relapse",
+      "phonetic": "",
+      "translation": "\u590d\u53d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-other-unload",
+      "word": "unload",
+      "display": "Unload",
+      "phonetic": "",
+      "translation": "\u5378\u8f7d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-other",
+  "type": "root",
+  "notes": ""
+}

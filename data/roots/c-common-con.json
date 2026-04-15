@@ -1,0 +1,1647 @@
+{
+  "version": 1,
+  "rootId": "c-common-con",
+  "root": "con",
+  "meaning": "con",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-common-con-coach",
+      "word": "coach",
+      "display": "Coach",
+      "phonetic": "",
+      "translation": "\u6559\u7ec3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coal",
+      "word": "coal",
+      "display": "Coal",
+      "phonetic": "",
+      "translation": "\u7164\u5757",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coalition",
+      "word": "coalition",
+      "display": "Coalition",
+      "phonetic": "",
+      "translation": "\u540c\u76df\uff1b\u7ed3\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coarse",
+      "word": "coarse",
+      "display": "Coarse",
+      "phonetic": "",
+      "translation": "\u7c97\u7cd9\u7684\uff1b\u7c97\u9c81\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coast",
+      "word": "coast",
+      "display": "Coast",
+      "phonetic": "",
+      "translation": "\u6d77\u5cb8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coat",
+      "word": "coat",
+      "display": "Coat",
+      "phonetic": "",
+      "translation": "\u5916\u5957\uff1b\u8986\u76d6\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cocaine",
+      "word": "cocaine",
+      "display": "Cocaine",
+      "phonetic": "",
+      "translation": "\u53ef\u5361\u56e0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-code",
+      "word": "code",
+      "display": "Code",
+      "phonetic": "",
+      "translation": "\u4ee3\u7801\uff1b\u5bc6\u7801",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coffee",
+      "word": "coffee",
+      "display": "Coffee",
+      "phonetic": "",
+      "translation": "\u5496\u5561",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cognitive",
+      "word": "cognitive",
+      "display": "Cognitive",
+      "phonetic": "",
+      "translation": "\u8ba4\u77e5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coherent",
+      "word": "coherent",
+      "display": "Coherent",
+      "phonetic": "",
+      "translation": "\u4e00\u81f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cohesive",
+      "word": "cohesive",
+      "display": "Cohesive",
+      "phonetic": "",
+      "translation": "\u7c98\u5408\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coil",
+      "word": "coil",
+      "display": "Coil",
+      "phonetic": "",
+      "translation": "\u4e00\u5708\uff1b\u76d8\u7ed5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coin",
+      "word": "coin",
+      "display": "Coin",
+      "phonetic": "",
+      "translation": "\u786c\u5e01",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coincide",
+      "word": "coincide",
+      "display": "Coincide",
+      "phonetic": "",
+      "translation": "\u540c\u65f6\u53d1\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coincidence",
+      "word": "coincidence",
+      "display": "Coincidence",
+      "phonetic": "",
+      "translation": "\u5de7\u5408\uff1b\u540c\u65f6\u53d1\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coke",
+      "word": "coke",
+      "display": "Coke",
+      "phonetic": "",
+      "translation": "\u7126\u70ad\uff1b\u53ef\u53e3\u53ef\u4e50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cold",
+      "word": "cold",
+      "display": "Cold",
+      "phonetic": "",
+      "translation": "\u5bd2\u51b7\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collaborate",
+      "word": "collaborate",
+      "display": "Collaborate",
+      "phonetic": "",
+      "translation": "\u5408\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collapse",
+      "word": "collapse",
+      "display": "Collapse",
+      "phonetic": "",
+      "translation": "\u5012\u584c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collar",
+      "word": "collar",
+      "display": "Collar",
+      "phonetic": "",
+      "translation": "\u8863\u9886",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-colleague",
+      "word": "colleague",
+      "display": "Colleague",
+      "phonetic": "",
+      "translation": "\u540c\u4e8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collect",
+      "word": "collect",
+      "display": "Collect",
+      "phonetic": "",
+      "translation": "\u6536\u96c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collection",
+      "word": "collection",
+      "display": "Collection",
+      "phonetic": "",
+      "translation": "\u6536\u85cf\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collective",
+      "word": "collective",
+      "display": "Collective",
+      "phonetic": "",
+      "translation": "\u96c6\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-college",
+      "word": "college",
+      "display": "College",
+      "phonetic": "",
+      "translation": "\u5b66\u9662",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collide",
+      "word": "collide",
+      "display": "Collide",
+      "phonetic": "",
+      "translation": "\u78b0\u649e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-collision",
+      "word": "collision",
+      "display": "Collision",
+      "phonetic": "",
+      "translation": "\u78b0\u649e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-colonel",
+      "word": "colonel",
+      "display": "Colonel",
+      "phonetic": "",
+      "translation": "\u4e0a\u6821",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-color",
+      "word": "color",
+      "display": "Color",
+      "phonetic": "",
+      "translation": "\u989c\u8272\uff1b\u80a4\u8272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-column",
+      "word": "column",
+      "display": "Column",
+      "phonetic": "",
+      "translation": "\u5706\u67f1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concede",
+      "word": "concede",
+      "display": "Concede",
+      "phonetic": "",
+      "translation": "\u627f\u8ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conceive",
+      "word": "conceive",
+      "display": "Conceive",
+      "phonetic": "",
+      "translation": "\u8bbe\u60f3\uff1b\u6784\u601d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concentrate",
+      "word": "concentrate",
+      "display": "Concentrate",
+      "phonetic": "",
+      "translation": "\u96c6\u4e2d\uff1b\u4e13\u6ce8\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concentration",
+      "word": "concentration",
+      "display": "Concentration",
+      "phonetic": "",
+      "translation": "\u4e13\u6ce8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concern",
+      "word": "concern",
+      "display": "Concern",
+      "phonetic": "",
+      "translation": "\u5173\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concerning",
+      "word": "concerning",
+      "display": "Concerning",
+      "phonetic": "",
+      "translation": "\u5173\u5fc3\uff1b\u6d89\u53ca\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concert",
+      "word": "concert",
+      "display": "Concert",
+      "phonetic": "",
+      "translation": "\u4e00\u81f4\uff1b\u97f3\u4e50\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concession",
+      "word": "concession",
+      "display": "Concession",
+      "phonetic": "",
+      "translation": "\u59a5\u534f\uff1b\u8ba9\u6b65",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conclude",
+      "word": "conclude",
+      "display": "Conclude",
+      "phonetic": "",
+      "translation": "\u65ad\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conclusion",
+      "word": "conclusion",
+      "display": "Conclusion",
+      "phonetic": "",
+      "translation": "\u7ed3\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-concrete",
+      "word": "concrete",
+      "display": "Concrete",
+      "phonetic": "",
+      "translation": "\u5177\u4f53\u7684\uff1b\u5b9e\u8d28\u6027\u7684\uff1b\u6df7\u51dd\u571f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-condemn",
+      "word": "condemn",
+      "display": "Condemn",
+      "phonetic": "",
+      "translation": "\u8c34\u8d23\uff1b\u6307\u8d23",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-condition",
+      "word": "condition",
+      "display": "Condition",
+      "phonetic": "",
+      "translation": "\u6761\u4ef6\uff1b\u73af\u5883\uff1b\u51b3\u5b9a\uff1b\u652f\u914d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conduct",
+      "word": "conduct",
+      "display": "Conduct",
+      "phonetic": "",
+      "translation": "\u884c\u4e3a\uff1b\u5f15\u5bfc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conductor",
+      "word": "conductor",
+      "display": "Conductor",
+      "phonetic": "",
+      "translation": "\u7ba1\u7406\u8005\uff1b\u9886\u961f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confer",
+      "word": "confer",
+      "display": "Confer",
+      "phonetic": "",
+      "translation": "\u6388\u4e88",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conference",
+      "word": "conference",
+      "display": "Conference",
+      "phonetic": "",
+      "translation": "\u8ba8\u8bba\uff1b\u5546\u8c08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confess",
+      "word": "confess",
+      "display": "Confess",
+      "phonetic": "",
+      "translation": "\u627f\u8ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confidence",
+      "word": "confidence",
+      "display": "Confidence",
+      "phonetic": "",
+      "translation": "\u4fe1\u5fc3\uff1b\u79d8\u5bc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confident",
+      "word": "confident",
+      "display": "Confident",
+      "phonetic": "",
+      "translation": "\u81ea\u4fe1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confidential",
+      "word": "confidential",
+      "display": "Confidential",
+      "phonetic": "",
+      "translation": "\u79d8\u5bc6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confine",
+      "word": "confine",
+      "display": "Confine",
+      "phonetic": "",
+      "translation": "\u9650\u5236\uff1b\u754c\u9650",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confirm",
+      "word": "confirm",
+      "display": "Confirm",
+      "phonetic": "",
+      "translation": "\u575a\u4fe1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conflict",
+      "word": "conflict",
+      "display": "Conflict",
+      "phonetic": "",
+      "translation": "\u51b2\u7a81\uff1b\u6218\u6597",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conform",
+      "word": "conform",
+      "display": "Conform",
+      "phonetic": "",
+      "translation": "\u9075\u5b88\uff1b\u4e00\u81f4\uff1b\u7b26\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confront",
+      "word": "confront",
+      "display": "Confront",
+      "phonetic": "",
+      "translation": "\u9762\u5bf9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confuse",
+      "word": "confuse",
+      "display": "Confuse",
+      "phonetic": "",
+      "translation": "\u6df7\u6dc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-confusion",
+      "word": "confusion",
+      "display": "Confusion",
+      "phonetic": "",
+      "translation": "\u6df7\u6dc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-congratulate",
+      "word": "congratulate",
+      "display": "Congratulate",
+      "phonetic": "",
+      "translation": "\u795d\u8d3a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-congratulation",
+      "word": "congratulation",
+      "display": "Congratulation",
+      "phonetic": "",
+      "translation": "\u795d\u8d3a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-congress",
+      "word": "congress",
+      "display": "Congress",
+      "phonetic": "",
+      "translation": "\u5927\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conjunction",
+      "word": "conjunction",
+      "display": "Conjunction",
+      "phonetic": "",
+      "translation": "\u8fde\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-connect",
+      "word": "connect",
+      "display": "Connect",
+      "phonetic": "",
+      "translation": "\u8fde\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-connection",
+      "word": "connection",
+      "display": "Connection",
+      "phonetic": "",
+      "translation": "\u8054\u7cfb\uff1b\u4eb2\u621a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conquer",
+      "word": "conquer",
+      "display": "Conquer",
+      "phonetic": "",
+      "translation": "\u5f81\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conquest",
+      "word": "conquest",
+      "display": "Conquest",
+      "phonetic": "",
+      "translation": "\u63a0\u53d6\u5f97\u5230\u7684\u4e1c\u897f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conscience",
+      "word": "conscience",
+      "display": "Conscience",
+      "phonetic": "",
+      "translation": "\u826f\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conscientious",
+      "word": "conscientious",
+      "display": "Conscientious",
+      "phonetic": "",
+      "translation": "\u8ba4\u771f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conscious",
+      "word": "conscious",
+      "display": "Conscious",
+      "phonetic": "",
+      "translation": "\u610f\u8bc6\u5230\uff1b\u81ea\u89c9\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consent",
+      "word": "consent",
+      "display": "Consent",
+      "phonetic": "",
+      "translation": "\u540c\u610f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consequence",
+      "word": "consequence",
+      "display": "Consequence",
+      "phonetic": "",
+      "translation": "\u7ed3\u679c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consequently",
+      "word": "consequently",
+      "display": "Consequently",
+      "phonetic": "",
+      "translation": "\u7ed3\u679c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conservation",
+      "word": "conservation",
+      "display": "Conservation",
+      "phonetic": "",
+      "translation": "\u4fdd\u62a4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conservative",
+      "word": "conservative",
+      "display": "Conservative",
+      "phonetic": "",
+      "translation": "\u4fdd\u5b88\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consider",
+      "word": "consider",
+      "display": "Consider",
+      "phonetic": "",
+      "translation": "\u8003\u8651",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-considerable",
+      "word": "considerable",
+      "display": "Considerable",
+      "phonetic": "",
+      "translation": "\u76f8\u5f53\u5927\u7684\uff1b\u5ba2\u89c2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-considerate",
+      "word": "considerate",
+      "display": "Considerate",
+      "phonetic": "",
+      "translation": "\u4f53\u8c05\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consideration",
+      "word": "consideration",
+      "display": "Consideration",
+      "phonetic": "",
+      "translation": "\u8003\u8651\uff1b\u7406\u7531",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consist",
+      "word": "consist",
+      "display": "Consist",
+      "phonetic": "",
+      "translation": "\u7531...\u6784\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consistent",
+      "word": "consistent",
+      "display": "Consistent",
+      "phonetic": "",
+      "translation": "\u4e00\u81f4\uff1b\u7b26\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-console",
+      "word": "console",
+      "display": "Console",
+      "phonetic": "",
+      "translation": "\u63a7\u5236\u53f0\uff1b\u6170\u95ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consolidate",
+      "word": "consolidate",
+      "display": "Consolidate",
+      "phonetic": "",
+      "translation": "\u4f7f\u52a0\u56fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conspicuous",
+      "word": "conspicuous",
+      "display": "Conspicuous",
+      "phonetic": "",
+      "translation": "\u663e\u773c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conspiracy",
+      "word": "conspiracy",
+      "display": "Conspiracy",
+      "phonetic": "",
+      "translation": "\u9634\u8c0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-constant",
+      "word": "constant",
+      "display": "Constant",
+      "phonetic": "",
+      "translation": "\u6301\u7eed\u7684\uff1b\u56fa\u5b9a\u7684\uff1b\u5e38\u6570",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-constituent",
+      "word": "constituent",
+      "display": "Constituent",
+      "phonetic": "",
+      "translation": "\u6210\u5206\uff1b\u9009\u6c11\uff1b\u6784\u6210\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-constitute",
+      "word": "constitute",
+      "display": "Constitute",
+      "phonetic": "",
+      "translation": "\u7ec4\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-constitution",
+      "word": "constitution",
+      "display": "Constitution",
+      "phonetic": "",
+      "translation": "\u6784\u6210\uff1b\u6210\u5206",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-constrain",
+      "word": "constrain",
+      "display": "Constrain",
+      "phonetic": "",
+      "translation": "\u9650\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-construct",
+      "word": "construct",
+      "display": "Construct",
+      "phonetic": "",
+      "translation": "\u5efa\u8bbe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-construction",
+      "word": "construction",
+      "display": "Construction",
+      "phonetic": "",
+      "translation": "\u5efa\u9020\uff1b\u6784\u9020\uff1b\u5efa\u7b51\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consult",
+      "word": "consult",
+      "display": "Consult",
+      "phonetic": "",
+      "translation": "\u8bf7\u6559",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consultant",
+      "word": "consultant",
+      "display": "Consultant",
+      "phonetic": "",
+      "translation": "\u987e\u95ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consume",
+      "word": "consume",
+      "display": "Consume",
+      "phonetic": "",
+      "translation": "\u6d88\u8017",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-consumption",
+      "word": "consumption",
+      "display": "Consumption",
+      "phonetic": "",
+      "translation": "\u6d88\u8017",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contain",
+      "word": "contain",
+      "display": "Contain",
+      "phonetic": "",
+      "translation": "\u5305\u542b\uff1b\u5bb9\u5fcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-container",
+      "word": "container",
+      "display": "Container",
+      "phonetic": "",
+      "translation": "\u5bb9\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contaminate",
+      "word": "contaminate",
+      "display": "Contaminate",
+      "phonetic": "",
+      "translation": "\u5f04\u810f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contempt",
+      "word": "contempt",
+      "display": "Contempt",
+      "phonetic": "",
+      "translation": "\u8511\u89c6\uff1b\u8f7b\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contend",
+      "word": "contend",
+      "display": "Contend",
+      "phonetic": "",
+      "translation": "\u6597\u4e89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contest",
+      "word": "contest",
+      "display": "Contest",
+      "phonetic": "",
+      "translation": "\u6bd4\u8d5b\uff1b\u7ade\u4e89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-context",
+      "word": "context",
+      "display": "Context",
+      "phonetic": "",
+      "translation": "\u80cc\u666f\uff1b\u6587\u7ae0\u524d\u540e\u5173\u7cfb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-continent",
+      "word": "continent",
+      "display": "Continent",
+      "phonetic": "",
+      "translation": "\u5927\u9646\uff1b\u6d32",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-continual",
+      "word": "continual",
+      "display": "Continual",
+      "phonetic": "",
+      "translation": "\u4e0d\u65ad\u5730\uff1b\u8fde\u7eed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-continue",
+      "word": "continue",
+      "display": "Continue",
+      "phonetic": "",
+      "translation": "\u7ee7\u7eed\uff1b\u5ef6\u4f38",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-continuous",
+      "word": "continuous",
+      "display": "Continuous",
+      "phonetic": "",
+      "translation": "\u8fde\u7eed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contract",
+      "word": "contract",
+      "display": "Contract",
+      "phonetic": "",
+      "translation": "\u5408\u540c\uff1b\u5951\u7ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contradict",
+      "word": "contradict",
+      "display": "Contradict",
+      "phonetic": "",
+      "translation": "\u53cd\u9a73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contradiction",
+      "word": "contradiction",
+      "display": "Contradiction",
+      "phonetic": "",
+      "translation": "\u53cd\u9a73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contrary",
+      "word": "contrary",
+      "display": "Contrary",
+      "phonetic": "",
+      "translation": "\u76f8\u53cd\u7684\uff1b\u77db\u76fe\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contrast",
+      "word": "contrast",
+      "display": "Contrast",
+      "phonetic": "",
+      "translation": "\u5bf9\u6bd4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contribute",
+      "word": "contribute",
+      "display": "Contribute",
+      "phonetic": "",
+      "translation": "\u8d21\u732e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contribution",
+      "word": "contribution",
+      "display": "Contribution",
+      "phonetic": "",
+      "translation": "\u8d21\u732e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-contrive",
+      "word": "contrive",
+      "display": "Contrive",
+      "phonetic": "",
+      "translation": "\u7b56\u5212",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-control",
+      "word": "control",
+      "display": "Control",
+      "phonetic": "",
+      "translation": "\u63a7\u5236\uff1b\u652f\u914d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-controversial",
+      "word": "controversial",
+      "display": "Controversial",
+      "phonetic": "",
+      "translation": "\u6709\u4e89\u8bae\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-controversy",
+      "word": "controversy",
+      "display": "Controversy",
+      "phonetic": "",
+      "translation": "\u4e89\u8bba\uff1b\u8fa9\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-convenience",
+      "word": "convenience",
+      "display": "Convenience",
+      "phonetic": "",
+      "translation": "\u65b9\u4fbf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-convenient",
+      "word": "convenient",
+      "display": "Convenient",
+      "phonetic": "",
+      "translation": "\u65b9\u4fbf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-convention",
+      "word": "convention",
+      "display": "Convention",
+      "phonetic": "",
+      "translation": "\u5927\u4f1a\uff1b\u5e38\u89c4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conventional",
+      "word": "conventional",
+      "display": "Conventional",
+      "phonetic": "",
+      "translation": "\u5e38\u89c4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conversation",
+      "word": "conversation",
+      "display": "Conversation",
+      "phonetic": "",
+      "translation": "\u8c08\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conversely",
+      "word": "conversely",
+      "display": "Conversely",
+      "phonetic": "",
+      "translation": "\u76f8\u53cd\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conversion",
+      "word": "conversion",
+      "display": "Conversion",
+      "phonetic": "",
+      "translation": "\u8f6c\u53d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-convert",
+      "word": "convert",
+      "display": "Convert",
+      "phonetic": "",
+      "translation": "\u8f6c\u53d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-convey",
+      "word": "convey",
+      "display": "Convey",
+      "phonetic": "",
+      "translation": "\u642c\u8fd0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-convict",
+      "word": "convict",
+      "display": "Convict",
+      "phonetic": "",
+      "translation": "\u8bc1\u660e...\u6709\u7f6a\uff1b\u56da\u72af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-conviction",
+      "word": "conviction",
+      "display": "Conviction",
+      "phonetic": "",
+      "translation": "\u6df1\u4fe1\uff1b\u5b9a\u7f6a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-convince",
+      "word": "convince",
+      "display": "Convince",
+      "phonetic": "",
+      "translation": "\u4f7f\u4fe1\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cool",
+      "word": "cool",
+      "display": "Cool",
+      "phonetic": "",
+      "translation": "\u51b7\u9759\uff1b\u51c9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cooperate",
+      "word": "cooperate",
+      "display": "Cooperate",
+      "phonetic": "",
+      "translation": "\u5408\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cooperative",
+      "word": "cooperative",
+      "display": "Cooperative",
+      "phonetic": "",
+      "translation": "\u5408\u4f5c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-coordinate",
+      "word": "coordinate",
+      "display": "Coordinate",
+      "phonetic": "",
+      "translation": "\u540c\u7b49\u7684\uff1b\u5e76\u5217\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-cop",
+      "word": "cop",
+      "display": "Cop",
+      "phonetic": "",
+      "translation": "\u8b66\u5bdf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-common-con-course",
+      "word": "course",
+      "display": "Course",
+      "phonetic": "",
+      "translation": "\u8bfe\u7a0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-common",
+  "rootLevel": 3,
+  "rootPath": "c>c-common>c-common-con",
+  "type": "branch",
+  "notes": ""
+}

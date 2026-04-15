@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "rootId": "c-wrap-other",
+  "root": "c-wrap-other",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-wrap-other-calendar",
+      "word": "calendar",
+      "display": "Calendar",
+      "phonetic": "",
+      "translation": "\u65e5\u5386",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-camel",
+      "word": "camel",
+      "display": "Camel",
+      "phonetic": "",
+      "translation": "\u9a86\u9a7c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-camera",
+      "word": "camera",
+      "display": "Camera",
+      "phonetic": "",
+      "translation": "\u7167\u76f8\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-candidate",
+      "word": "candidate",
+      "display": "Candidate",
+      "phonetic": "",
+      "translation": "\u5019\u9009\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-candle",
+      "word": "candle",
+      "display": "Candle",
+      "phonetic": "",
+      "translation": "\u8721\u70db",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-cannon",
+      "word": "cannon",
+      "display": "Cannon",
+      "phonetic": "",
+      "translation": "\u5927\u70ae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-centimeter",
+      "word": "centimeter",
+      "display": "Centimeter",
+      "phonetic": "",
+      "translation": "\u5398\u7c73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-central",
+      "word": "central",
+      "display": "Central",
+      "phonetic": "",
+      "translation": "\u4e2d\u5fc3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-centre",
+      "word": "centre",
+      "display": "Centre",
+      "phonetic": "",
+      "translation": "\u4e2d\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-century",
+      "word": "century",
+      "display": "Century",
+      "phonetic": "",
+      "translation": "\u4e16\u7eaa\uff1b\u4e00\u767e\u5e74",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-certain",
+      "word": "certain",
+      "display": "Certain",
+      "phonetic": "",
+      "translation": "\u786e\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-certainty",
+      "word": "certainty",
+      "display": "Certainty",
+      "phonetic": "",
+      "translation": "\u5fc5\u7136",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-chain",
+      "word": "chain",
+      "display": "Chain",
+      "phonetic": "",
+      "translation": "\u94fe\u6761",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-chair",
+      "word": "chair",
+      "display": "Chair",
+      "phonetic": "",
+      "translation": "\u6905\u5b50\uff1b\u4e3b\u5e2d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-chairman",
+      "word": "chairman",
+      "display": "Chairman",
+      "phonetic": "",
+      "translation": "\u4e3b\u5e2d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-chalk",
+      "word": "chalk",
+      "display": "Chalk",
+      "phonetic": "",
+      "translation": "\u7c89\u7b14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-challenge",
+      "word": "challenge",
+      "display": "Challenge",
+      "phonetic": "",
+      "translation": "\u6311\u6218",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-chamber",
+      "word": "chamber",
+      "display": "Chamber",
+      "phonetic": "",
+      "translation": "\u623f\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-other-champion",
+      "word": "champion",
+      "display": "Champion",
+      "phonetic": "",
+      "translation": "\u51a0\u519b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

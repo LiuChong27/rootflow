@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "h-home",
+  "root": "home\u5bb6",
+  "meaning": "home",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-home-hotel",
+      "word": "hotel",
+      "display": "Hotel",
+      "phonetic": "",
+      "translation": "\u65c5\u9986",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-home-house",
+      "word": "house",
+      "display": "House",
+      "phonetic": "",
+      "translation": "\u623f\u5c4b\uff1b\u5546\u4e1a\u673a\u6784\uff1b\u8bae\u9662",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-home-household",
+      "word": "household",
+      "display": "Household",
+      "phonetic": "",
+      "translation": "\u5bb6\u5ead\uff1b\u52a0\u957f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-home-housing",
+      "word": "housing",
+      "display": "Housing",
+      "phonetic": "",
+      "translation": "\u4f4f\u623f\uff1b\u9632\u62a4\u7f69",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-home-hut",
+      "word": "hut",
+      "display": "Hut",
+      "phonetic": "",
+      "translation": "\u5c0f\u5c4b\uff1b\u68da\u5c4b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h",
+  "rootLevel": 2,
+  "rootPath": "h>h-home",
+  "type": "root",
+  "notes": ""
+}

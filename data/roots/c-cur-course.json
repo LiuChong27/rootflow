@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "c-cur-course",
+  "root": "course\u8bfe\u7a0b\uff1b\u6559\u7a0b\uff1b\u8fc7\u7a0b\uff1b\u8def\u7a0b",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cur-course-curriculum",
+      "word": "curriculum",
+      "display": "Curriculum",
+      "phonetic": "",
+      "translation": "\u8bfe\u7a0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-cur",
+  "rootLevel": 3,
+  "rootPath": "c>c-cur>c-cur-course",
+  "type": "branch",
+  "notes": ""
+}

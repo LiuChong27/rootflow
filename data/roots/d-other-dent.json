@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "d-other-dent",
+  "root": "dent\u7259\u9f7f",
+  "meaning": "dent",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-other-dent-dandelion",
+      "word": "dandelion",
+      "display": "Dandelion",
+      "phonetic": "",
+      "translation": "\u84b2\u516c\u82f1/\u952f\u9f7f\u72b6\u53f6\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-dentagia",
+      "word": "dentagia",
+      "display": "Dentagia",
+      "phonetic": "",
+      "translation": "\u9f7f\u75db",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-dental",
+      "word": "dental",
+      "display": "Dental",
+      "phonetic": "",
+      "translation": "\u7259\u79d1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-dentary",
+      "word": "dentary",
+      "display": "Dentary",
+      "phonetic": "",
+      "translation": "\u7259\u9f7f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-dentifrice",
+      "word": "dentifrice",
+      "display": "Dentifrice",
+      "phonetic": "",
+      "translation": "\u7259\u7c89\uff1b\u7259\u818f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-dentist",
+      "word": "dentist",
+      "display": "Dentist",
+      "phonetic": "",
+      "translation": "\u7259\u533b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-dentography",
+      "word": "dentography",
+      "display": "Dentography",
+      "phonetic": "",
+      "translation": "\u7259\u56fe\u89e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-dentosurgical",
+      "word": "dentosurgical",
+      "display": "Dentosurgical",
+      "phonetic": "",
+      "translation": "\u7259\u9f7f\u5916\u79d1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-denture",
+      "word": "denture",
+      "display": "Denture",
+      "phonetic": "",
+      "translation": "\u4e00\u526f\u5047\u7259",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-indent",
+      "word": "indent",
+      "display": "Indent",
+      "phonetic": "",
+      "translation": "\u4f7f\u6210\u4e3a\u952f\u9f7f\u72b6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dent-orthodontist",
+      "word": "orthodontist",
+      "display": "Orthodontist",
+      "phonetic": "",
+      "translation": "\u6b63\u7259\u533b\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-other",
+  "rootLevel": 3,
+  "rootPath": "d>d-other>d-other-dent",
+  "type": "branch",
+  "notes": ""
+}

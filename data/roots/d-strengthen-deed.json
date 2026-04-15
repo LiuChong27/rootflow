@@ -1,0 +1,399 @@
+{
+  "version": 1,
+  "rootId": "d-strengthen-deed",
+  "root": "deed\u884c\u52a8",
+  "meaning": "deed",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-strengthen-deed",
+      "word": "deed",
+      "display": "Deed",
+      "phonetic": "",
+      "translation": "\u884c\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-debt",
+      "word": "debt",
+      "display": "Debt",
+      "phonetic": "",
+      "translation": "\u503a\u52a1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-decade",
+      "word": "decade",
+      "display": "Decade",
+      "phonetic": "",
+      "translation": "\u5341\u5e74",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-decay",
+      "word": "decay",
+      "display": "Decay",
+      "phonetic": "",
+      "translation": "\u8150\u673d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-december",
+      "word": "december",
+      "display": "December",
+      "phonetic": "",
+      "translation": "\u5341\u4e8c\u6708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-decent",
+      "word": "decent",
+      "display": "Decent",
+      "phonetic": "",
+      "translation": "\u4f53\u9762\u7684\uff1b\u5408\u9002\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-decimal",
+      "word": "decimal",
+      "display": "Decimal",
+      "phonetic": "",
+      "translation": "\u5341\u8fdb\u5236\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-decision",
+      "word": "decision",
+      "display": "Decision",
+      "phonetic": "",
+      "translation": "\u51b3\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-decisive",
+      "word": "decisive",
+      "display": "Decisive",
+      "phonetic": "",
+      "translation": "\u51b3\u5b9a\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-deck",
+      "word": "deck",
+      "display": "Deck",
+      "phonetic": "",
+      "translation": "\u7532\u677f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-decorate",
+      "word": "decorate",
+      "display": "Decorate",
+      "phonetic": "",
+      "translation": "\u88c5\u9970",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-deem",
+      "word": "deem",
+      "display": "Deem",
+      "phonetic": "",
+      "translation": "\u6df1\u4fe1\uff1b\u8ba4\u4e3a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-deep",
+      "word": "deep",
+      "display": "Deep",
+      "phonetic": "",
+      "translation": "\u6df1\u7684\uff1b\u6df1\u5965\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-defeat",
+      "word": "defeat",
+      "display": "Defeat",
+      "phonetic": "",
+      "translation": "\u51fb\u8d25",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-defence",
+      "word": "defence",
+      "display": "Defence",
+      "phonetic": "",
+      "translation": "\u9632\u5fa1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-defend",
+      "word": "defend",
+      "display": "Defend",
+      "phonetic": "",
+      "translation": "\u9632\u5b88\uff1b\u4fdd\u536b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-definite",
+      "word": "definite",
+      "display": "Definite",
+      "phonetic": "",
+      "translation": "\u786e\u5b9a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-definition",
+      "word": "definition",
+      "display": "Definition",
+      "phonetic": "",
+      "translation": "\u5b9a\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-defy",
+      "word": "defy",
+      "display": "Defy",
+      "phonetic": "",
+      "translation": "\u8fdd\u6297\uff1b\u8511\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-deliberate",
+      "word": "deliberate",
+      "display": "Deliberate",
+      "phonetic": "",
+      "translation": "\u6df1\u601d\u719f\u8651\u7684\uff1b\u6545\u610f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-delicate",
+      "word": "delicate",
+      "display": "Delicate",
+      "phonetic": "",
+      "translation": "\u7cbe\u81f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-delicious",
+      "word": "delicious",
+      "display": "Delicious",
+      "phonetic": "",
+      "translation": "\u7f8e\u5473\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-delight",
+      "word": "delight",
+      "display": "Delight",
+      "phonetic": "",
+      "translation": "\u9ad8\u5174",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-demand",
+      "word": "demand",
+      "display": "Demand",
+      "phonetic": "",
+      "translation": "\u8981\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-denote",
+      "word": "denote",
+      "display": "Denote",
+      "phonetic": "",
+      "translation": "\u8868\u793a\uff1b\u610f\u5473\u7740",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-dense",
+      "word": "dense",
+      "display": "Dense",
+      "phonetic": "",
+      "translation": "\u6d53\u5bc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-depend",
+      "word": "depend",
+      "display": "Depend",
+      "phonetic": "",
+      "translation": "\u4f9d\u9760",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-dependent",
+      "word": "dependent",
+      "display": "Dependent",
+      "phonetic": "",
+      "translation": "\u4f9d\u9760\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-deposit",
+      "word": "deposit",
+      "display": "Deposit",
+      "phonetic": "",
+      "translation": "\u5b58\u653e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-deputy",
+      "word": "deputy",
+      "display": "Deputy",
+      "phonetic": "",
+      "translation": "\u4ee3\u8868\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-derive",
+      "word": "derive",
+      "display": "Derive",
+      "phonetic": "",
+      "translation": "\u53d6\u5f97\uff1b\u6e90\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deed-descent",
+      "word": "descent",
+      "display": "Descent",
+      "phonetic": "",
+      "translation": "\u4e0b\u964d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-strengthen",
+  "rootLevel": 3,
+  "rootPath": "d>d-strengthen>d-strengthen-deed",
+  "type": "branch",
+  "notes": ""
+}

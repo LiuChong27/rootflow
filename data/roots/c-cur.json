@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "rootId": "c-cur",
+  "root": "cur\u8dd1",
+  "meaning": "run",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cur-concourse",
+      "word": "concourse",
+      "display": "Concourse",
+      "phonetic": "",
+      "translation": "\u6c47\u5408\uff1b\u5e7f\u573a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-currency",
+      "word": "currency",
+      "display": "Currency",
+      "phonetic": "",
+      "translation": "\u8d27\u5e01",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-current",
+      "word": "current",
+      "display": "Current",
+      "phonetic": "",
+      "translation": "\u8d8b\u52bf\uff1b\u6c34\u6d41\uff1b\u5f53\u524d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-discourse",
+      "word": "discourse",
+      "display": "Discourse",
+      "phonetic": "",
+      "translation": "\u6f14\u8bb2\uff1b\u8bba\u8ff0\uff1b\u8bba\u6587",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-discursive",
+      "word": "discursive",
+      "display": "Discursive",
+      "phonetic": "",
+      "translation": "\u6563\u6f2b\u7684\uff1b\u79bb\u9898\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-excursion",
+      "word": "excursion",
+      "display": "Excursion",
+      "phonetic": "",
+      "translation": "\u6e38\u89c8\uff1b\u77ed\u9014\u65c5\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-incur",
+      "word": "incur",
+      "display": "Incur",
+      "phonetic": "",
+      "translation": "\u62db\u60f9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-incursion",
+      "word": "incursion",
+      "display": "Incursion",
+      "phonetic": "",
+      "translation": "\u5165\u4fb5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-intercourse",
+      "word": "intercourse",
+      "display": "Intercourse",
+      "phonetic": "",
+      "translation": "\u4ea4\u9645\uff1b\u4ea4\u6d41\u601d\u60f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-precursor",
+      "word": "precursor",
+      "display": "Precursor",
+      "phonetic": "",
+      "translation": "\u524d\u8f88\uff1b\u5148\u9a71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-succor",
+      "word": "succor",
+      "display": "Succor",
+      "phonetic": "",
+      "translation": "\u6551\u63f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-transcurrent",
+      "word": "transcurrent",
+      "display": "Transcurrent",
+      "phonetic": "",
+      "translation": "\u6a2a\u8d2f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-cur",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "rootId": "c-wrap-cycl",
+  "root": "c-wrap-cycl",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-wrap-cycl-circle",
+      "word": "circle",
+      "display": "Circle",
+      "phonetic": "",
+      "translation": "\u5706\u5708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-circlet",
+      "word": "circlet",
+      "display": "Circlet",
+      "phonetic": "",
+      "translation": "\u624b\u956f\uff1b\u5c0f\u5708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-circuitous",
+      "word": "circuitous",
+      "display": "Circuitous",
+      "phonetic": "",
+      "translation": "\u7b80\u6d01\u7684\uff1b\u8fc2\u56de\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-circuitry",
+      "word": "circuitry",
+      "display": "Circuitry",
+      "phonetic": "",
+      "translation": "\u7535\u8def\uff1b\u8def\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-circularize",
+      "word": "circularize",
+      "display": "Circularize",
+      "phonetic": "",
+      "translation": "\u5206\u53d1\u4f20\u5355",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-circulate",
+      "word": "circulate",
+      "display": "Circulate",
+      "phonetic": "",
+      "translation": "\u5faa\u73af\uff1b\u6d41\u901a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-circus",
+      "word": "circus",
+      "display": "Circus",
+      "phonetic": "",
+      "translation": "\u9a6c\u620f\u56e2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-cosmic",
+      "word": "cosmic",
+      "display": "Cosmic",
+      "phonetic": "",
+      "translation": "\u5b87\u5b99\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-cyberspace",
+      "word": "cyberspace",
+      "display": "Cyberspace",
+      "phonetic": "",
+      "translation": "\u7f51\u7edc\u7a7a\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-cyclone",
+      "word": "cyclone",
+      "display": "Cyclone",
+      "phonetic": "",
+      "translation": "\u65cb\u98ce\uff1b\u98d3\u98ce",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-cylinder",
+      "word": "cylinder",
+      "display": "Cylinder",
+      "phonetic": "",
+      "translation": "\u5706\u7b52",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-encirclement",
+      "word": "encirclement",
+      "display": "Encirclement",
+      "phonetic": "",
+      "translation": "\u73af\u7ed5\uff1b\u5305\u56f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-encyclopaedia",
+      "word": "encyclopaedia",
+      "display": "Encyclopaedia",
+      "phonetic": "",
+      "translation": "\u767e\u79d1\u5168\u4e66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-cycl-semicircle",
+      "word": "semicircle",
+      "display": "Semicircle",
+      "phonetic": "",
+      "translation": "\u534a\u5706",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

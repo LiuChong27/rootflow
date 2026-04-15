@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "rootId": "s-sub",
+  "root": "sub\u4e0b",
+  "meaning": "under",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-sub-submarine",
+      "word": "submarine",
+      "display": "Submarine",
+      "phonetic": "",
+      "translation": "\u6f5c\u6c34\u8247",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-submerge",
+      "word": "submerge",
+      "display": "Submerge",
+      "phonetic": "",
+      "translation": "\u6c89\u6ca1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-subordinate",
+      "word": "subordinate",
+      "display": "Subordinate",
+      "phonetic": "",
+      "translation": "\u4e0b\u7ea7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-subscribe",
+      "word": "subscribe",
+      "display": "Subscribe",
+      "phonetic": "",
+      "translation": "\u8ba2\u9605",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-subsequent",
+      "word": "subsequent",
+      "display": "Subsequent",
+      "phonetic": "",
+      "translation": "\u968f\u540e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-subsidy",
+      "word": "subsidy",
+      "display": "Subsidy",
+      "phonetic": "",
+      "translation": "\u8865\u52a9\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-substance",
+      "word": "substance",
+      "display": "Substance",
+      "phonetic": "",
+      "translation": "\u7269\u8d28\uff1b\u672c\u8d28",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-substantial",
+      "word": "substantial",
+      "display": "Substantial",
+      "phonetic": "",
+      "translation": "\u5b9e\u8d28\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-substitute",
+      "word": "substitute",
+      "display": "Substitute",
+      "phonetic": "",
+      "translation": "\u66ff\u4ee3\u8005\uff1b\u66ff\u4ee3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-subtle",
+      "word": "subtle",
+      "display": "Subtle",
+      "phonetic": "",
+      "translation": "\u7cbe\u5de7\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-subtract",
+      "word": "subtract",
+      "display": "Subtract",
+      "phonetic": "",
+      "translation": "\u51cf\u53bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-suburb",
+      "word": "suburb",
+      "display": "Suburb",
+      "phonetic": "",
+      "translation": "\u90ca\u533a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-subway",
+      "word": "subway",
+      "display": "Subway",
+      "phonetic": "",
+      "translation": "\u5730\u94c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-succeed",
+      "word": "succeed",
+      "display": "Succeed",
+      "phonetic": "",
+      "translation": "\u6210\u529f\uff1b\u7ee7\u627f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-success",
+      "word": "success",
+      "display": "Success",
+      "phonetic": "",
+      "translation": "\u6210\u5c31",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-successful",
+      "word": "successful",
+      "display": "Successful",
+      "phonetic": "",
+      "translation": "\u6210\u529f\u7684\uff1b\u5706\u6ee1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-succession",
+      "word": "succession",
+      "display": "Succession",
+      "phonetic": "",
+      "translation": "\u8fde\u7eed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-successive",
+      "word": "successive",
+      "display": "Successive",
+      "phonetic": "",
+      "translation": "\u63a5\u8fde\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sub-successor",
+      "word": "successor",
+      "display": "Successor",
+      "phonetic": "",
+      "translation": "\u7ee7\u4efb\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-sub",
+  "type": "root",
+  "notes": ""
+}

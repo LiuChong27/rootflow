@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "m-other-mir",
+  "root": "mir\u60ca\u5947",
+  "meaning": "surprise",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-other-mir-miracle",
+      "word": "miracle",
+      "display": "Miracle",
+      "phonetic": "",
+      "translation": "\u5947\u8ff9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mir-mirror",
+      "word": "mirror",
+      "display": "Mirror",
+      "phonetic": "",
+      "translation": "\u955c\u5b50\uff1b\u53cd\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-other",
+  "rootLevel": 3,
+  "rootPath": "m>m-other>m-other-mir",
+  "type": "branch",
+  "notes": ""
+}

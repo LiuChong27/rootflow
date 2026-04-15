@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "h-summary",
+  "root": "\u5c0f\u7ed3",
+  "meaning": "summary",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-summary-h-hand",
+      "word": "h=\u624b",
+      "display": "h=\u624b",
+      "phonetic": "",
+      "translation": "\u624b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-summary-h-zero",
+      "word": "h-0\u65e0\u610f\u4e49\u4e0d\u53d1\u97f3",
+      "display": "h-0\u65e0\u610f\u4e49\u4e0d\u53d1\u97f3",
+      "phonetic": "",
+      "translation": "\u65e0\u610f\u4e49\u4e0d\u53d1\u97f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-summary-high",
+      "word": "\u9ad8",
+      "display": "\u9ad8",
+      "phonetic": "",
+      "translation": "\u9ad8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-summary-hum",
+      "word": "hum\u571f\uff1b\u4eba",
+      "display": "hum\u571f\uff1b\u4eba",
+      "phonetic": "",
+      "translation": "\u571f\uff1b\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h",
+  "rootLevel": 2,
+  "rootPath": "h>h-summary",
+  "type": "root",
+  "notes": ""
+}

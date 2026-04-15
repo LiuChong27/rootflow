@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "h-helic",
+  "root": "helic=helico=spiral\u87ba\u65cb",
+  "meaning": "helic",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-helic-heliborne",
+      "word": "heliborne",
+      "display": "Heliborne",
+      "phonetic": "",
+      "translation": "\u76f4\u5347\u673a\u8fd0\u8f93\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-helic-helicab",
+      "word": "helicab",
+      "display": "Helicab",
+      "phonetic": "",
+      "translation": "\u51fa\u79df\u76f4\u5347\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-helic-helical",
+      "word": "helical",
+      "display": "Helical",
+      "phonetic": "",
+      "translation": "\u87ba\u65cb\u72b6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-helic-helicity",
+      "word": "helicity",
+      "display": "Helicity",
+      "phonetic": "",
+      "translation": "\u87ba\u65cb\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-helic-helicoid",
+      "word": "helicoid",
+      "display": "Helicoid",
+      "phonetic": "",
+      "translation": "\u87ba\u65cb\u9762",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-helic-helicopter",
+      "word": "helicopter",
+      "display": "Helicopter",
+      "phonetic": "",
+      "translation": "\u76f4\u5347\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h",
+  "rootLevel": 2,
+  "rootPath": "h>h-helic",
+  "type": "root",
+  "notes": ""
+}

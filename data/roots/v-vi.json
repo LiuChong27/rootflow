@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "v-vi",
+  "root": "vi=via=vey=voy",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-vi-convey",
+      "word": "convey",
+      "display": "Convey",
+      "phonetic": "",
+      "translation": "\u642c\u8fd0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-deviate",
+      "word": "deviate",
+      "display": "Deviate",
+      "phonetic": "",
+      "translation": "\u80cc\u79bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-evade",
+      "word": "evade",
+      "display": "Evade",
+      "phonetic": "",
+      "translation": "\u9003\u907f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-invade",
+      "word": "invade",
+      "display": "Invade",
+      "phonetic": "",
+      "translation": "\u5165\u4fb5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-obvious",
+      "word": "obvious",
+      "display": "Obvious",
+      "phonetic": "",
+      "translation": "\u660e\u663e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-pervade",
+      "word": "pervade",
+      "display": "Pervade",
+      "phonetic": "",
+      "translation": "\u8513\u5ef6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-vague",
+      "word": "vague",
+      "display": "Vague",
+      "phonetic": "",
+      "translation": "\u542b\u7cca\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-vehicle",
+      "word": "vehicle",
+      "display": "Vehicle",
+      "phonetic": "",
+      "translation": "\u4ea4\u901a\u5de5\u5177",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vi-via",
+      "word": "via",
+      "display": "Via",
+      "phonetic": "",
+      "translation": "\u7ecf\u8fc7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-vi",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "rootId": "r-re-say",
+  "root": "\u8bf4",
+  "meaning": "say",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-re-say-recall",
+      "word": "recall",
+      "display": "Recall",
+      "phonetic": "",
+      "translation": "\u56de\u5fc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-receive",
+      "word": "receive",
+      "display": "Receive",
+      "phonetic": "",
+      "translation": "\u6536\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-recent",
+      "word": "recent",
+      "display": "Recent",
+      "phonetic": "",
+      "translation": "\u6700\u8fd1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reception",
+      "word": "reception",
+      "display": "Reception",
+      "phonetic": "",
+      "translation": "\u62db\u5f85\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reclaim",
+      "word": "reclaim",
+      "display": "Reclaim",
+      "phonetic": "",
+      "translation": "\u8981\u6c42\u5f52\u8fd8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-recollect",
+      "word": "recollect",
+      "display": "Recollect",
+      "phonetic": "",
+      "translation": "\u56de\u5fc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-record",
+      "word": "record",
+      "display": "Record",
+      "phonetic": "",
+      "translation": "\u8bb0\u5f55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-recorder",
+      "word": "recorder",
+      "display": "Recorder",
+      "phonetic": "",
+      "translation": "\u8bb0\u5f55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reel",
+      "word": "reel",
+      "display": "Reel",
+      "phonetic": "",
+      "translation": "\u5377\u7b52",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-regard",
+      "word": "regard",
+      "display": "Regard",
+      "phonetic": "",
+      "translation": "\u8003\u8651",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-regarding",
+      "word": "regarding",
+      "display": "Regarding",
+      "phonetic": "",
+      "translation": "\u5173\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-regardless",
+      "word": "regardless",
+      "display": "Regardless",
+      "phonetic": "",
+      "translation": "\u4e0d\u7ba1\u4e0d\u987e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-regret",
+      "word": "regret",
+      "display": "Regret",
+      "phonetic": "",
+      "translation": "\u540e\u6094",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-remark",
+      "word": "remark",
+      "display": "Remark",
+      "phonetic": "",
+      "translation": "\u8bc4\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-remarkable",
+      "word": "remarkable",
+      "display": "Remarkable",
+      "phonetic": "",
+      "translation": "\u663e\u8457\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-repeat",
+      "word": "repeat",
+      "display": "Repeat",
+      "phonetic": "",
+      "translation": "\u91cd\u590d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-repeatedly",
+      "word": "repeatedly",
+      "display": "Repeatedly",
+      "phonetic": "",
+      "translation": "\u91cd\u590d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-repetition",
+      "word": "repetition",
+      "display": "Repetition",
+      "phonetic": "",
+      "translation": "\u53cd\u590d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reply",
+      "word": "reply",
+      "display": "Reply",
+      "phonetic": "",
+      "translation": "\u56de\u7b54",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-report",
+      "word": "report",
+      "display": "Report",
+      "phonetic": "",
+      "translation": "\u62a5\u544a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reporter",
+      "word": "reporter",
+      "display": "Reporter",
+      "phonetic": "",
+      "translation": "\u8bb0\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reproach",
+      "word": "reproach",
+      "display": "Reproach",
+      "phonetic": "",
+      "translation": "\u8d23\u5907\uff1b\u6307\u8d23",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reputation",
+      "word": "reputation",
+      "display": "Reputation",
+      "phonetic": "",
+      "translation": "\u58f0\u8a89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-request",
+      "word": "request",
+      "display": "Request",
+      "phonetic": "",
+      "translation": "\u8bf7\u6c42\uff1b\u8981\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-require",
+      "word": "require",
+      "display": "Require",
+      "phonetic": "",
+      "translation": "\u9700\u8981",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-requirement",
+      "word": "requirement",
+      "display": "Requirement",
+      "phonetic": "",
+      "translation": "\u9700\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-research",
+      "word": "research",
+      "display": "Research",
+      "phonetic": "",
+      "translation": "\u8c03\u67e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-respect",
+      "word": "respect",
+      "display": "Respect",
+      "phonetic": "",
+      "translation": "\u5c0a\u656c\uff1b\u5c0a\u91cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-respective",
+      "word": "respective",
+      "display": "Respective",
+      "phonetic": "",
+      "translation": "\u5404\u81ea\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-respond",
+      "word": "respond",
+      "display": "Respond",
+      "phonetic": "",
+      "translation": "\u56de\u7b54",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-response",
+      "word": "response",
+      "display": "Response",
+      "phonetic": "",
+      "translation": "\u56de\u7b54",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-responsibility",
+      "word": "responsibility",
+      "display": "Responsibility",
+      "phonetic": "",
+      "translation": "\u8d23\u4efb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-responsible",
+      "word": "responsible",
+      "display": "Responsible",
+      "phonetic": "",
+      "translation": "\u53ef\u9760\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-reveal",
+      "word": "reveal",
+      "display": "Reveal",
+      "phonetic": "",
+      "translation": "\u5c55\u793a\uff1b\u63ed\u9732",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-say-revelation",
+      "word": "revelation",
+      "display": "Revelation",
+      "phonetic": "",
+      "translation": "\u63ed\u793a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r-re",
+  "rootLevel": 3,
+  "rootPath": "r>r-re>r-re-say",
+  "type": "root",
+  "notes": ""
+}

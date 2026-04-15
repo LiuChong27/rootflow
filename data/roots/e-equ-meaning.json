@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "e-equ-meaning",
+  "root": "\u542b\u4e49",
+  "meaning": "meaning",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-equ-meaning-equivalent",
+      "word": "equivalent",
+      "display": "Equivalent",
+      "phonetic": "",
+      "translation": "\u7b49\u4ef7\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-meaning-equivocal",
+      "word": "equivocal",
+      "display": "Equivocal",
+      "phonetic": "",
+      "translation": "\u6a21\u68f1\u4e24\u53ef\uff1b\u53ef\u7591\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-meaning-equivocal-ambiguous",
+      "word": "equivocal",
+      "display": "Equivocal",
+      "phonetic": "",
+      "translation": "\u6b67\u4e49\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-meaning-equivocally",
+      "word": "equivocally",
+      "display": "Equivocally",
+      "phonetic": "",
+      "translation": "\u542b\u7cca\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-meaning-equivocate",
+      "word": "equivocate",
+      "display": "Equivocate",
+      "phonetic": "",
+      "translation": "\u652f\u543e\uff1b\u542b\u7cca\u5176\u8f9e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-equ",
+  "rootLevel": 3,
+  "rootPath": "e>e-equ>e-equ-meaning",
+  "type": "branch",
+  "notes": ""
+}

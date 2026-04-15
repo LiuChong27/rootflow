@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "rootId": "e-ev",
+  "root": "ev age\u5e74\u9f84 \u65f6\u95f4",
+  "meaning": "ev",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-ev-coeval",
+      "word": "coeval",
+      "display": "Coeval",
+      "phonetic": "",
+      "translation": "\u540c\u65f6\u4ee3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-epoch",
+      "word": "epoch",
+      "display": "Epoch",
+      "phonetic": "",
+      "translation": "\u65b0\u7eaa\u5143",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-era",
+      "word": "era",
+      "display": "Era",
+      "phonetic": "",
+      "translation": "\u65f6\u4ee3\uff1b\u7eaa\u5143\uff1b\u9636\u6bb5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-eve",
+      "word": "eve",
+      "display": "Eve",
+      "phonetic": "",
+      "translation": "\u524d\u5915",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-evening",
+      "word": "evening",
+      "display": "Evening",
+      "phonetic": "",
+      "translation": "\u9ec4\u660f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-ever",
+      "word": "ever",
+      "display": "Ever",
+      "phonetic": "",
+      "translation": "\u66fe\u7ecf\uff1b\u6c38\u8fdc\uff1b\u7a76\u7adf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-forever",
+      "word": "forever",
+      "display": "Forever",
+      "phonetic": "",
+      "translation": "\u6c38\u8fdc=for ever",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-inevitable",
+      "word": "inevitable",
+      "display": "Inevitable",
+      "phonetic": "",
+      "translation": "\u4e0d\u53ef\u907f\u514d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-longeval",
+      "word": "longeval",
+      "display": "Longeval",
+      "phonetic": "",
+      "translation": "\u957f\u547d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-longevous",
+      "word": "longevous",
+      "display": "Longevous",
+      "phonetic": "",
+      "translation": "\u957f\u5bff",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-mediaeval",
+      "word": "mediaeval",
+      "display": "Mediaeval",
+      "phonetic": "",
+      "translation": "\u4e2d\u53e4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-medieval",
+      "word": "medieval",
+      "display": "Medieval",
+      "phonetic": "",
+      "translation": "\u4e2d\u4e16\u7eaa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-never",
+      "word": "never",
+      "display": "Never",
+      "phonetic": "",
+      "translation": "\u7edd\u4e0d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-nevertheless",
+      "word": "nevertheless",
+      "display": "Nevertheless",
+      "phonetic": "",
+      "translation": "\u7136\u800c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ev-primeval",
+      "word": "primeval",
+      "display": "Primeval",
+      "phonetic": "",
+      "translation": "\u6700\u521d\u7684\uff1b\u65e9\u671f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e",
+  "rootLevel": 2,
+  "rootPath": "e>e-ev",
+  "type": "root",
+  "notes": ""
+}

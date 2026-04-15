@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "d-other-dom-dorm",
+  "root": "dorm \u7761\u7720",
+  "meaning": "dorm",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-other-dom-dorm-dormancy",
+      "word": "dormancy",
+      "display": "Dormancy",
+      "phonetic": "",
+      "translation": "\u51ac\u7720\uff1b\u9759\u6b62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dom-dorm-dormer",
+      "word": "dormer",
+      "display": "Dormer",
+      "phonetic": "",
+      "translation": "\u5929\u7a97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dom-dorm-dormition",
+      "word": "dormition",
+      "display": "Dormition",
+      "phonetic": "",
+      "translation": "\u50cf\u51ac\u7720\u4e00\u6837\u7684\u6b7b\u4ea1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dom-dorm-dormitory",
+      "word": "dormitory",
+      "display": "Dormitory",
+      "phonetic": "",
+      "translation": "\u5bbf\u820d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dom-dorm-dormouse",
+      "word": "dormouse",
+      "display": "Dormouse",
+      "phonetic": "",
+      "translation": "\u51ac\u7720\u9f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-other-dom",
+  "rootLevel": 4,
+  "rootPath": "d>d-other>d-other-dom>d-other-dom-dorm",
+  "type": "branch",
+  "notes": ""
+}

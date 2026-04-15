@@ -806,7 +806,7 @@ async function getSeedOverview(seed, options = {}) {
 }
 
 async function getSeedMindTree(seed, options = {}) {
-  const { withProgress = true, childLimit = 6, wordLimit = 5 } = options;
+  const { withProgress = true } = options;
   const normalizedSeed = normalizeWordId(seed);
   if (!normalizedSeed) {
     return {
@@ -825,10 +825,6 @@ async function getSeedMindTree(seed, options = {}) {
       if (!summary) return null;
       const branch = await getRootBranch(rootId, {
         withProgress,
-        childOffset: 0,
-        childLimit,
-        wordOffset: 0,
-        wordLimit,
       });
 
       return {
@@ -837,8 +833,6 @@ async function getSeedMindTree(seed, options = {}) {
         previewWords: branch.words,
         totalChildren: branch.totalChildren,
         totalWords: branch.totalWords,
-        hasMoreChildren: branch.hasMoreChildren,
-        hasMoreWords: branch.hasMoreWords,
       };
     }),
   );
@@ -897,13 +891,7 @@ async function getRootFocus(rootId, options = {}) {
 }
 
 async function getRootBranch(rootId, options = {}) {
-  const {
-    withProgress = true,
-    childOffset = 0,
-    childLimit = 6,
-    wordOffset = 0,
-    wordLimit = 5,
-  } = options;
+  const { withProgress = true } = options;
   const normalizedRootId = normalizeWordId(rootId);
   if (!normalizedRootId) {
     return {
@@ -916,8 +904,6 @@ async function getRootBranch(rootId, options = {}) {
       totalSiblings: 0,
       totalChildren: 0,
       totalWords: 0,
-      hasMoreChildren: false,
-      hasMoreWords: false,
     };
   }
 
@@ -926,11 +912,6 @@ async function getRootBranch(rootId, options = {}) {
   if (!focusSummary) {
     throw new Error(`No raw root data found for "${normalizedRootId}"`);
   }
-
-  const safeChildOffset = Math.max(0, Number(childOffset || 0));
-  const safeChildLimit = Math.max(0, Number(childLimit || 0));
-  const safeWordOffset = Math.max(0, Number(wordOffset || 0));
-  const safeWordLimit = Math.max(0, Number(wordLimit || 0));
 
   const path = getPathSegments(focusRoot.rootPath || focusSummary.rootPath, normalizedRootId)
     .map((segment) => buildRootSummary(segment))
@@ -942,29 +923,18 @@ async function getRootBranch(rootId, options = {}) {
   const allChildren = getSourceOrderedChildIds(normalizedRootId)
     .map((item) => buildRootSummary(item))
     .filter(Boolean);
-  const children =
-    safeChildLimit > 0 ? allChildren.slice(safeChildOffset, safeChildOffset + safeChildLimit) : [];
-
   const sourceWords = Array.isArray(focusRoot.words) ? focusRoot.words : [];
-  const words =
-    safeWordLimit > 0 ? sourceWords.slice(safeWordOffset, safeWordOffset + safeWordLimit) : [];
 
   return {
     root: buildRootDetail(focusRoot, focusSummary),
     path,
     parent,
     siblings,
-    children,
-    words,
+    children: allChildren,
+    words: sourceWords,
     totalSiblings: siblings.length,
     totalChildren: allChildren.length,
     totalWords: sourceWords.length,
-    childOffset: safeChildOffset,
-    childLimit: safeChildLimit,
-    wordOffset: safeWordOffset,
-    wordLimit: safeWordLimit,
-    hasMoreChildren: safeChildOffset + children.length < allChildren.length,
-    hasMoreWords: safeWordOffset + words.length < sourceWords.length,
   };
 }
 

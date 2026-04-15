@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "rootId": "c-wrap-ring",
+  "root": "c-wrap-ring",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-wrap-ring-asynchronous",
+      "word": "asynchronous",
+      "display": "Asynchronous",
+      "phonetic": "",
+      "translation": "\u4e0d\u540c\u65f6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-asynchrony",
+      "word": "asynchrony",
+      "display": "Asynchrony",
+      "phonetic": "",
+      "translation": "\u4e0d\u540c\u65f6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-camp",
+      "word": "camp",
+      "display": "Camp",
+      "phonetic": "",
+      "translation": "\u5e10\u7bf7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-campaign",
+      "word": "campaign",
+      "display": "Campaign",
+      "phonetic": "",
+      "translation": "\u6218\u5f79",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-campus",
+      "word": "campus",
+      "display": "Campus",
+      "phonetic": "",
+      "translation": "\u6821\u56ed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-canvas",
+      "word": "canvas",
+      "display": "Canvas",
+      "phonetic": "",
+      "translation": "\u5e06\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-cap",
+      "word": "cap",
+      "display": "Cap",
+      "phonetic": "",
+      "translation": "\u519b\u5e3d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-castle",
+      "word": "castle",
+      "display": "Castle",
+      "phonetic": "",
+      "translation": "\u57ce\u5821",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-cave",
+      "word": "cave",
+      "display": "Cave",
+      "phonetic": "",
+      "translation": "\u6d1e\u7a74",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-chron",
+      "word": "chron",
+      "display": "Chron",
+      "phonetic": "",
+      "translation": "\u65f6\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-chronaximeter",
+      "word": "chronaximeter",
+      "display": "Chronaximeter",
+      "phonetic": "",
+      "translation": "\u7535\u5b50\u8bca\u65ad\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-cloak",
+      "word": "cloak",
+      "display": "Cloak",
+      "phonetic": "",
+      "translation": "\u6597\u7bf7\uff1b\u63a9\u76d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-clock",
+      "word": "clock",
+      "display": "Clock",
+      "phonetic": "",
+      "translation": "\u949f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-clockwise",
+      "word": "clockwise",
+      "display": "Clockwise",
+      "phonetic": "",
+      "translation": "\u987a\u65f6\u9488\u65b9\u5411",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-copper",
+      "word": "copper",
+      "display": "Copper",
+      "phonetic": "",
+      "translation": "\u94dc\u5e01",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-cottage",
+      "word": "cottage",
+      "display": "Cottage",
+      "phonetic": "",
+      "translation": "\u5c0f\u5c4b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-cotton",
+      "word": "cotton",
+      "display": "Cotton",
+      "phonetic": "",
+      "translation": "\u68c9\u82b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-couch",
+      "word": "couch",
+      "display": "Couch",
+      "phonetic": "",
+      "translation": "\u957f\u6c99\u53d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-ring-cradle",
+      "word": "cradle",
+      "display": "Cradle",
+      "phonetic": "",
+      "translation": "\u6447\u7bee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

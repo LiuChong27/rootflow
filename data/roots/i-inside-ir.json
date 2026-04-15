@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "i-inside-ir",
+  "root": "ir",
+  "meaning": "ir",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "i-inside-ir-irrigate",
+      "word": "irrigate",
+      "display": "Irrigate",
+      "phonetic": "",
+      "translation": "\u704c\u6e89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-ir-irritate",
+      "word": "irritate",
+      "display": "Irritate",
+      "phonetic": "",
+      "translation": "\u6fc0\u6012\uff1b\u607c\u706b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "i-inside",
+  "rootLevel": 3,
+  "rootPath": "i>i-inside>i-inside-ir",
+  "type": "branch",
+  "notes": ""
+}

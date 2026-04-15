@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "g-gran",
+  "root": "gran\u8c37\u7269",
+  "meaning": "gran",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-gran-gamble",
+      "word": "gamble",
+      "display": "Gamble",
+      "phonetic": "",
+      "translation": "\u5192\u9669\uff1b\u8d4c\u535a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gran-game",
+      "word": "game",
+      "display": "Game",
+      "phonetic": "",
+      "translation": "\u6e38\u620f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gran-grange",
+      "word": "grange",
+      "display": "Grange",
+      "phonetic": "",
+      "translation": "\u519c\u573a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gran-granger",
+      "word": "granger",
+      "display": "Granger",
+      "phonetic": "",
+      "translation": "\u519c\u592b\uff1b\u519c\u6c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gran-granular",
+      "word": "granular",
+      "display": "Granular",
+      "phonetic": "",
+      "translation": "\u7c92\u88c5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-gran",
+  "type": "root",
+  "notes": ""
+}

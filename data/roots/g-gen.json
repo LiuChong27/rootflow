@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "g-gen",
+  "root": "gen\u51fa\u751f",
+  "meaning": "gen",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-gen-abiogenesis",
+      "word": "abiogenesis",
+      "display": "Abiogenesis",
+      "phonetic": "",
+      "translation": "\u65e0\u751f\u6e90\u8bf4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-degenerate",
+      "word": "degenerate",
+      "display": "Degenerate",
+      "phonetic": "",
+      "translation": "\u9000\u6b65\u7684\uff1b\u5815\u843d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-ectogenesis",
+      "word": "ectogenesis",
+      "display": "Ectogenesis",
+      "phonetic": "",
+      "translation": "\u4f53\u5916\u57f9\u517b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-endogenesis",
+      "word": "endogenesis",
+      "display": "Endogenesis",
+      "phonetic": "",
+      "translation": "\u5185\u6e90",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-eugenics",
+      "word": "eugenics",
+      "display": "Eugenics",
+      "phonetic": "",
+      "translation": "\u4f18\u751f\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-genesis-creation",
+      "word": "genesis",
+      "display": "Genesis",
+      "phonetic": "",
+      "translation": "\u521b\u59cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-genial",
+      "word": "genial",
+      "display": "Genial",
+      "phonetic": "",
+      "translation": "\u6109\u5feb\u7684\uff1b\u548c\u853c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-genre",
+      "word": "genre",
+      "display": "Genre",
+      "phonetic": "",
+      "translation": "\u7c7b\u578b\uff1b\u6d41\u6d3e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-genteel",
+      "word": "genteel",
+      "display": "Genteel",
+      "phonetic": "",
+      "translation": "\u6709\u793c\u8c8c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gentle",
+      "word": "gentle",
+      "display": "Gentle",
+      "phonetic": "",
+      "translation": "\u6e29\u548c\u7684\uff1b\u548c\u5584\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gentleman",
+      "word": "gentleman",
+      "display": "Gentleman",
+      "phonetic": "",
+      "translation": "\u6587\u96c5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-genus",
+      "word": "genus",
+      "display": "Genus",
+      "phonetic": "",
+      "translation": "\u79cd\u7c7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-homogeneous",
+      "word": "homogeneous",
+      "display": "Homogeneous",
+      "phonetic": "",
+      "translation": "\u540c\u5b97\u7684\uff1b\u5747\u8d28\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-ingenious",
+      "word": "ingenious",
+      "display": "Ingenious",
+      "phonetic": "",
+      "translation": "\u7075\u654f\u7684\uff1b\u8db3\u667a\u591a\u8c0b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-ingenuous",
+      "word": "ingenuous",
+      "display": "Ingenuous",
+      "phonetic": "",
+      "translation": "\u5766\u767d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-ovogenesis",
+      "word": "ovogenesis",
+      "display": "Ovogenesis",
+      "phonetic": "",
+      "translation": "\u5375\u5b50\u53d1\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-oxygen",
+      "word": "oxygen",
+      "display": "Oxygen",
+      "phonetic": "",
+      "translation": "\u6c27\u6c14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-pregnant",
+      "word": "pregnant",
+      "display": "Pregnant",
+      "phonetic": "",
+      "translation": "\u6000\u5b55\u7684\uff1b\u4e30\u5bcc\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-progenitor",
+      "word": "progenitor",
+      "display": "Progenitor",
+      "phonetic": "",
+      "translation": "\u7956\u5148\uff1b\u9f3b\u7956",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-progeny",
+      "word": "progeny",
+      "display": "Progeny",
+      "phonetic": "",
+      "translation": "\u5b50\u5b59\uff1b\u6210\u679c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-gen",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "o-organ",
+  "root": "organ\u5668\u5b98",
+  "meaning": "organ",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-organ-organ",
+      "word": "organ",
+      "display": "Organ",
+      "phonetic": "",
+      "translation": "\u5668\u5b98\uff1b\u673a\u6784\uff1b\u98ce\u7434",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-organ-organic",
+      "word": "organic",
+      "display": "Organic",
+      "phonetic": "",
+      "translation": "\u5668\u5b98\u7684\uff1b\u6709\u673a\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-organ-organism",
+      "word": "organism",
+      "display": "Organism",
+      "phonetic": "",
+      "translation": "\u751f\u7269\uff1b\u6709\u673a\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-organ-organization",
+      "word": "organization",
+      "display": "Organization",
+      "phonetic": "",
+      "translation": "\u7ec4\u7ec7\uff1b\u673a\u6784",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-organ-organize",
+      "word": "organize",
+      "display": "Organize",
+      "phonetic": "",
+      "translation": "\u7ec4\u7ec7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o",
+  "rootLevel": 2,
+  "rootPath": "o>o-organ",
+  "type": "root",
+  "notes": ""
+}

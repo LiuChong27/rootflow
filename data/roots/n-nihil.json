@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "n-nihil",
+  "root": "nihil=nothing\u65e0",
+  "meaning": "nothing",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-nihil-annihilate",
+      "word": "annihilate",
+      "display": "Annihilate",
+      "phonetic": "",
+      "translation": "\u6d88\u706d\uff1b\u6b7c\u706d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nihil-nihil",
+      "word": "nihil",
+      "display": "Nihil",
+      "phonetic": "",
+      "translation": "\u865a\u65e0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nihil-nihilism",
+      "word": "nihilism",
+      "display": "Nihilism",
+      "phonetic": "",
+      "translation": "\u865a\u65e0\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nihil-nonetheless",
+      "word": "nonetheless",
+      "display": "Nonetheless",
+      "phonetic": "",
+      "translation": "\u867d\u7136\u5982\u6b64\uff1b\u4f46\u662f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nihil-nonsense",
+      "word": "nonsense",
+      "display": "Nonsense",
+      "phonetic": "",
+      "translation": "\u80e1\u8bf4\uff1b\u5e9f\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nihil-nor",
+      "word": "nor",
+      "display": "Nor",
+      "phonetic": "",
+      "translation": "\u4e5f\u4e0d\uff1b\u4e5f\u6ca1\u6709",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nihil-not",
+      "word": "not",
+      "display": "Not",
+      "phonetic": "",
+      "translation": "\u975e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nihil-notwithstanding",
+      "word": "notwithstanding",
+      "display": "Notwithstanding",
+      "phonetic": "",
+      "translation": "\u5c3d\u7ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-nihil",
+  "type": "root",
+  "notes": ""
+}

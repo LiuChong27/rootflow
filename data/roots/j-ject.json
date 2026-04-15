@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "rootId": "j-ject",
+  "root": "ject=jac=jet\u6254",
+  "meaning": "throw",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-ject-adjacent",
+      "word": "adjacent",
+      "display": "Adjacent",
+      "phonetic": "",
+      "translation": "\u63a5\u8fd1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-adjective",
+      "word": "adjective",
+      "display": "Adjective",
+      "phonetic": "",
+      "translation": "\u5f62\u5bb9\u8bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-conjecture",
+      "word": "conjecture",
+      "display": "Conjecture",
+      "phonetic": "",
+      "translation": "\u63a8\u6d4b\uff1b\u5047\u8bbe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-deject",
+      "word": "deject",
+      "display": "Deject",
+      "phonetic": "",
+      "translation": "\u4f7f\u6cae\u4e27",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-ejaculate",
+      "word": "ejaculate",
+      "display": "Ejaculate",
+      "phonetic": "",
+      "translation": "\u7a81\u7136\u8bf4\u51fa\uff1b\u5c04\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-eject",
+      "word": "eject",
+      "display": "Eject",
+      "phonetic": "",
+      "translation": "\u55b7\u51fa\uff1b\u9a71\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-inject",
+      "word": "inject",
+      "display": "Inject",
+      "phonetic": "",
+      "translation": "\u6ce8\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-injection",
+      "word": "injection",
+      "display": "Injection",
+      "phonetic": "",
+      "translation": "\u6ce8\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-interject",
+      "word": "interject",
+      "display": "Interject",
+      "phonetic": "",
+      "translation": "\u63d2\u5634",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-jet",
+      "word": "jet",
+      "display": "Jet",
+      "phonetic": "",
+      "translation": "\u55b7\u5c04\uff1b\u55b7\u6c14\u5f0f\u98de\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-jettison",
+      "word": "jettison",
+      "display": "Jettison",
+      "phonetic": "",
+      "translation": "\u629b\u5f03\uff1b\u6254\u6389",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-object",
+      "word": "object",
+      "display": "Object",
+      "phonetic": "",
+      "translation": "\u7269\u4f53\uff1b\u76ee\u6807\uff1b\u53cd\u5bf9\uff1b\u5bbe\u8bed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-objection",
+      "word": "objection",
+      "display": "Objection",
+      "phonetic": "",
+      "translation": "\u53cd\u5bf9\uff1b\u5f02\u8bae\uff1b\u4e0d\u559c\u6b22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-objective",
+      "word": "objective",
+      "display": "Objective",
+      "phonetic": "",
+      "translation": "\u76ee\u6807\uff1b\u5ba2\u89c2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-project",
+      "word": "project",
+      "display": "Project",
+      "phonetic": "",
+      "translation": "\u8ba1\u5212\uff1b\u65b9\u6848\uff1b\u53d1\u5c04\uff1b\u653e\u6620",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-projector",
+      "word": "projector",
+      "display": "Projector",
+      "phonetic": "",
+      "translation": "\u6295\u5f71\u4eea",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-reject",
+      "word": "reject",
+      "display": "Reject",
+      "phonetic": "",
+      "translation": "\u62d2\u7edd\uff1b\u843d\u9009\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-subject",
+      "word": "subject",
+      "display": "Subject",
+      "phonetic": "",
+      "translation": "\u9898\u76ee\uff1b\u95ee\u9898\uff1b\u4e3b\u9898\uff1b\u5b66\u79d1\uff1b\u79d1\u76ee\uff1b\u53d7\u5b9e\u9a8c\u8005\uff1b\u4f7f\u96b6\u5c5e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-ject-subjective",
+      "word": "subjective",
+      "display": "Subjective",
+      "phonetic": "",
+      "translation": "\u4e3b\u89c2\u7684\uff1b\u4e2a\u4eba\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-ject",
+  "type": "root",
+  "notes": ""
+}

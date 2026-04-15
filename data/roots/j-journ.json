@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "j-journ",
+  "root": "journ\u6bcf\u65e5",
+  "meaning": "daily",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-journ-adjourn",
+      "word": "adjourn",
+      "display": "Adjourn",
+      "phonetic": "",
+      "translation": "\u4f11\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-journ-journal",
+      "word": "journal",
+      "display": "Journal",
+      "phonetic": "",
+      "translation": "\u6742\u5fd7\uff1b\u65e5\u62a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-journ-journalism",
+      "word": "journalism",
+      "display": "Journalism",
+      "phonetic": "",
+      "translation": "\u65b0\u95fb\u5de5\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-journ-journalist",
+      "word": "journalist",
+      "display": "Journalist",
+      "phonetic": "",
+      "translation": "\u8bb0\u8005\uff1b\u65b0\u95fb\u5de5\u4f5c\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-journ-journey",
+      "word": "journey",
+      "display": "Journey",
+      "phonetic": "",
+      "translation": "\u65c5\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-journ",
+  "type": "root",
+  "notes": ""
+}

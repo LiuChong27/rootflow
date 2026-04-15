@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "rootId": "c-other-cr",
+  "root": "c-other-cr",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-cr-crab",
+      "word": "crab",
+      "display": "Crab",
+      "phonetic": "",
+      "translation": "\u8783\u87f9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cr-crane",
+      "word": "crane",
+      "display": "Crane",
+      "phonetic": "",
+      "translation": "\u8d77\u91cd\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cr-crawl",
+      "word": "crawl",
+      "display": "Crawl",
+      "phonetic": "",
+      "translation": "\u722c\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cr-creep",
+      "word": "creep",
+      "display": "Creep",
+      "phonetic": "",
+      "translation": "\u722c\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cr-cricket",
+      "word": "cricket",
+      "display": "Cricket",
+      "phonetic": "",
+      "translation": "\u87cb\u87c0\uff1b\u677f\u7403",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cr-crime",
+      "word": "crime",
+      "display": "Crime",
+      "phonetic": "",
+      "translation": "\u72af\u7f6a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cr-criminal",
+      "word": "criminal",
+      "display": "Criminal",
+      "phonetic": "",
+      "translation": "\u7f6a\u72af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cr-cripple",
+      "word": "cripple",
+      "display": "Cripple",
+      "phonetic": "",
+      "translation": "\u6b8b\u75be\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

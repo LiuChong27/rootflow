@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "e-equ-politics",
+  "root": "\u653f\u6cbb",
+  "meaning": "politics",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-equ-politics-equitable",
+      "word": "equitable",
+      "display": "Equitable",
+      "phonetic": "",
+      "translation": "\u516c\u5e73\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-politics-equity",
+      "word": "equity",
+      "display": "Equity",
+      "phonetic": "",
+      "translation": "\u516c\u5e73\u516c\u6b63",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-equ-politics-iniquity",
+      "word": "iniquity",
+      "display": "Iniquity",
+      "phonetic": "",
+      "translation": "\u4e0d\u516c\u6b63\uff1b\u90aa\u6076",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-equ",
+  "rootLevel": 3,
+  "rootPath": "e>e-equ>e-equ-politics",
+  "type": "branch",
+  "notes": ""
+}

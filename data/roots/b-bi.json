@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "b-bi",
+  "root": "bi \u4e24\u4e2a",
+  "meaning": "two",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-bi-biannual",
+      "word": "biannual",
+      "display": "Biannual",
+      "phonetic": "",
+      "translation": "\u6bcf\u5e74\u4e24\u6b21\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-bias",
+      "word": "bias",
+      "display": "Bias",
+      "phonetic": "",
+      "translation": "\u504f\u89c1\uff1b\u504f\u8892",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-bicarbonate",
+      "word": "bicarbonate",
+      "display": "Bicarbonate",
+      "phonetic": "",
+      "translation": "\u91cd\u78b3\u9178\u76d0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-biconvex",
+      "word": "biconvex",
+      "display": "Biconvex",
+      "phonetic": "",
+      "translation": "\u4e24\u9762\u51f8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-bicycle",
+      "word": "bicycle",
+      "display": "Bicycle",
+      "phonetic": "",
+      "translation": "\u81ea\u884c\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-biennial",
+      "word": "biennial",
+      "display": "Biennial",
+      "phonetic": "",
+      "translation": "\u4e24\u5e74\u4e00\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-binal",
+      "word": "binal",
+      "display": "Binal",
+      "phonetic": "",
+      "translation": "\u53cc\u500d\u7684\uff1b\u5b6a\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-binary",
+      "word": "binary",
+      "display": "Binary",
+      "phonetic": "",
+      "translation": "\u4e8c\u7ea7\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-bipartisan",
+      "word": "bipartisan",
+      "display": "Bipartisan",
+      "phonetic": "",
+      "translation": "\u4e24\u515a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-bizarre",
+      "word": "bizarre",
+      "display": "Bizarre",
+      "phonetic": "",
+      "translation": "\u7a00\u5947\u53e4\u602a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bi-both",
+      "word": "both",
+      "display": "Both",
+      "phonetic": "",
+      "translation": "\u4e24\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-bi",
+  "type": "prefix",
+  "notes": ""
+}

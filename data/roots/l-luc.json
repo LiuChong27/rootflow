@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "l-luc",
+  "root": "luc=lus\u5149",
+  "meaning": "light",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-luc-elucidate",
+      "word": "elucidate",
+      "display": "Elucidate",
+      "phonetic": "",
+      "translation": "\u9610\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-luc-illustrate",
+      "word": "illustrate",
+      "display": "Illustrate",
+      "phonetic": "",
+      "translation": "\u8bf4\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-luc-illustration",
+      "word": "illustration",
+      "display": "Illustration",
+      "phonetic": "",
+      "translation": "\u63d2\u56fe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-luc-lucid",
+      "word": "lucid",
+      "display": "Lucid",
+      "phonetic": "",
+      "translation": "\u6e05\u6670\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-luc-lustrous",
+      "word": "lustrous",
+      "display": "Lustrous",
+      "phonetic": "",
+      "translation": "\u6709\u5149\u6cfd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-luc",
+  "type": "root",
+  "notes": ""
+}

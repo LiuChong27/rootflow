@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "p-person",
+  "root": "person popul publ \u4eba",
+  "meaning": "person",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-person-depopulate",
+      "word": "depopulate",
+      "display": "Depopulate",
+      "phonetic": "",
+      "translation": "\u51cf\u5c11\u4eba\u53e3\u7ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-personal",
+      "word": "personal",
+      "display": "Personal",
+      "phonetic": "",
+      "translation": "\u4e2a\u4eba\u7684\uff1b\u79c1\u4eba\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-personality",
+      "word": "personality",
+      "display": "Personality",
+      "phonetic": "",
+      "translation": "\u4eba\u683c\uff1b\u4e2a\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-personnel",
+      "word": "personnel",
+      "display": "Personnel",
+      "phonetic": "",
+      "translation": "\u5168\u4f53\u4eba\u5458",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-populace",
+      "word": "populace",
+      "display": "Populace",
+      "phonetic": "",
+      "translation": "\u5e73\u6c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-popular",
+      "word": "popular",
+      "display": "Popular",
+      "phonetic": "",
+      "translation": "\u5927\u4f17\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-popularity",
+      "word": "popularity",
+      "display": "Popularity",
+      "phonetic": "",
+      "translation": "\u666e\u53ca\uff1b\u6d41\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-public",
+      "word": "public",
+      "display": "Public",
+      "phonetic": "",
+      "translation": "\u516c\u4f17\uff1b\u516c\u5171\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-publication",
+      "word": "publication",
+      "display": "Publication",
+      "phonetic": "",
+      "translation": "\u51fa\u7248\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-publicity",
+      "word": "publicity",
+      "display": "Publicity",
+      "phonetic": "",
+      "translation": "\u5ba3\u4f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-publicize",
+      "word": "publicize",
+      "display": "Publicize",
+      "phonetic": "",
+      "translation": "\u5ba3\u626c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-publish",
+      "word": "publish",
+      "display": "Publish",
+      "phonetic": "",
+      "translation": "\u51fa\u7248\uff1b\u53d1\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-pupil",
+      "word": "pupil",
+      "display": "Pupil",
+      "phonetic": "",
+      "translation": "\u5b66\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-puppet",
+      "word": "puppet",
+      "display": "Puppet",
+      "phonetic": "",
+      "translation": "\u6728\u5076",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-republic",
+      "word": "republic",
+      "display": "Republic",
+      "phonetic": "",
+      "translation": "\u5171\u548c\u56fd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-person-republican",
+      "word": "republican",
+      "display": "Republican",
+      "phonetic": "",
+      "translation": "\u5171\u548c\u56fd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-person",
+  "type": "root",
+  "notes": ""
+}

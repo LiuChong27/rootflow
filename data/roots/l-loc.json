@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "l-loc",
+  "root": "loc\u5730\u65b9",
+  "meaning": "place",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-loc-allocate",
+      "word": "allocate",
+      "display": "Allocate",
+      "phonetic": "",
+      "translation": "\u5206\u914d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-loc-allocation",
+      "word": "allocation",
+      "display": "Allocation",
+      "phonetic": "",
+      "translation": "\u5206\u914d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-loc-local",
+      "word": "local",
+      "display": "Local",
+      "phonetic": "",
+      "translation": "\u5730\u65b9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-loc-locality",
+      "word": "locality",
+      "display": "Locality",
+      "phonetic": "",
+      "translation": "\u4f4d\u7f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-loc-locate",
+      "word": "locate",
+      "display": "Locate",
+      "phonetic": "",
+      "translation": "\u4f4d\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-loc-location",
+      "word": "location",
+      "display": "Location",
+      "phonetic": "",
+      "translation": "\u4f4d\u7f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-loc-relocate",
+      "word": "relocate",
+      "display": "Relocate",
+      "phonetic": "",
+      "translation": "\u91cd\u65b0\u5b89\u7f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-loc",
+  "type": "root",
+  "notes": ""
+}

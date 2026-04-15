@@ -1,0 +1,363 @@
+{
+  "version": 1,
+  "rootId": "s-sea",
+  "root": "\u6d77\u6d0b",
+  "meaning": "sea",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-sea-sail",
+      "word": "sail",
+      "display": "Sail",
+      "phonetic": "",
+      "translation": "\u822a\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sailor",
+      "word": "sailor",
+      "display": "Sailor",
+      "phonetic": "",
+      "translation": "\u6c34\u624b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-salad",
+      "word": "salad",
+      "display": "Salad",
+      "phonetic": "",
+      "translation": "\u6c99\u62c9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-salary",
+      "word": "salary",
+      "display": "Salary",
+      "phonetic": "",
+      "translation": "\u85aa\u6c34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sale",
+      "word": "sale",
+      "display": "Sale",
+      "phonetic": "",
+      "translation": "\u51fa\u552e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-salesman",
+      "word": "salesman",
+      "display": "Salesman",
+      "phonetic": "",
+      "translation": "\u552e\u8d27\u5458",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-salt",
+      "word": "salt",
+      "display": "Salt",
+      "phonetic": "",
+      "translation": "\u76d0=\u94b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sand",
+      "word": "sand",
+      "display": "Sand",
+      "phonetic": "",
+      "translation": "\u6c99\u6ee9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sandwich",
+      "word": "sandwich",
+      "display": "Sandwich",
+      "phonetic": "",
+      "translation": "\u4e09\u660e\u6cbb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sauce",
+      "word": "sauce",
+      "display": "Sauce",
+      "phonetic": "",
+      "translation": "\u9171\u6c41",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-saucer",
+      "word": "saucer",
+      "display": "Saucer",
+      "phonetic": "",
+      "translation": "\u789f\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sausage",
+      "word": "sausage",
+      "display": "Sausage",
+      "phonetic": "",
+      "translation": "\u9999\u80a0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-scatter",
+      "word": "scatter",
+      "display": "Scatter",
+      "phonetic": "",
+      "translation": "\u6563\u5f00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sea",
+      "word": "sea",
+      "display": "Sea",
+      "phonetic": "",
+      "translation": "\u6d77\u6d0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-seal",
+      "word": "seal",
+      "display": "Seal",
+      "phonetic": "",
+      "translation": "\u6d77\u8c79",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-season",
+      "word": "season",
+      "display": "Season",
+      "phonetic": "",
+      "translation": "\u5b63\u8282",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-seed",
+      "word": "seed",
+      "display": "Seed",
+      "phonetic": "",
+      "translation": "\u79cd\u5b50\uff1b\u64ad\u79cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sell",
+      "word": "sell",
+      "display": "Sell",
+      "phonetic": "",
+      "translation": "\u51fa\u552e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-shallow",
+      "word": "shallow",
+      "display": "Shallow",
+      "phonetic": "",
+      "translation": "\u6d45\u6ee9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-shampoo",
+      "word": "shampoo",
+      "display": "Shampoo",
+      "phonetic": "",
+      "translation": "\u6d17\u53d1\u818f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-shark",
+      "word": "shark",
+      "display": "Shark",
+      "phonetic": "",
+      "translation": "\u9ca8\u9c7c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-shell",
+      "word": "shell",
+      "display": "Shell",
+      "phonetic": "",
+      "translation": "\u8d1d\u58f3\uff1b\u70ae\u5f39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-ship",
+      "word": "ship",
+      "display": "Ship",
+      "phonetic": "",
+      "translation": "\u8239",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-shipment",
+      "word": "shipment",
+      "display": "Shipment",
+      "phonetic": "",
+      "translation": "\u88c5\u8239",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-shore",
+      "word": "shore",
+      "display": "Shore",
+      "phonetic": "",
+      "translation": "\u6d77\u6ee8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sink",
+      "word": "sink",
+      "display": "Sink",
+      "phonetic": "",
+      "translation": "\u4e0b\u6c89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-sip",
+      "word": "sip",
+      "display": "Sip",
+      "phonetic": "",
+      "translation": "\u5c0f\u53e3\u7684\u559d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-submarine",
+      "word": "submarine",
+      "display": "Submarine",
+      "phonetic": "",
+      "translation": "\u6f5c\u6c34\u8247\uff1b\u6d77\u5e95\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sea-submerge",
+      "word": "submerge",
+      "display": "Submerge",
+      "phonetic": "",
+      "translation": "\u6c89\u6ca1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-sea",
+  "type": "root",
+  "notes": ""
+}

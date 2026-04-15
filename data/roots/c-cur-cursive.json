@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "c-cur-cursive",
+  "root": "cursive\u7c97\u7565\u7684\uff1b\u8349\u7387\u7684",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cur-cursive",
+      "word": "cursive",
+      "display": "Cursive",
+      "phonetic": "",
+      "translation": "\u7c97\u7565\u7684\uff1b\u8349\u7387\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-cur",
+  "rootLevel": 3,
+  "rootPath": "c>c-cur>c-cur-cursive",
+  "type": "branch",
+  "notes": ""
+}

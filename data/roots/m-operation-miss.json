@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "m-operation-miss",
+  "root": "miss=mit=send\u53d1\u5c04",
+  "meaning": "send",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-miss",
+  "type": "branch",
+  "notes": ""
+}

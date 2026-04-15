@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "rootId": "c-other-cruc",
+  "root": "c-other-cruc",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-cruc-country",
+      "word": "country",
+      "display": "Country",
+      "phonetic": "",
+      "translation": "\u4e61\u4e0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-countryside",
+      "word": "countryside",
+      "display": "Countryside",
+      "phonetic": "",
+      "translation": "\u4e61\u4e0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-county",
+      "word": "county",
+      "display": "County",
+      "phonetic": "",
+      "translation": "\u53bf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crisis",
+      "word": "crisis",
+      "display": "Crisis",
+      "phonetic": "",
+      "translation": "\u7d27\u8981\u5173\u5934",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-cross",
+      "word": "cross",
+      "display": "Cross",
+      "phonetic": "",
+      "translation": "\u5341\u5b57\u67b6\uff1b\u4ea4\u53c9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crucial",
+      "word": "crucial",
+      "display": "Crucial",
+      "phonetic": "",
+      "translation": "\u91cd\u8981\u7684\uff08\u4ea4\u53c9\u8def\u53e3\u5f88\u91cd\u8981\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crucifix",
+      "word": "crucifix",
+      "display": "Crucifix",
+      "phonetic": "",
+      "translation": "\u5341\u5b57\u67b6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crucifixion",
+      "word": "crucifixion",
+      "display": "Crucifixion",
+      "phonetic": "",
+      "translation": "\u5211\u7f5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-cruciform",
+      "word": "cruciform",
+      "display": "Cruciform",
+      "phonetic": "",
+      "translation": "\u5341\u5b57\u67b6\u72b6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crucify",
+      "word": "crucify",
+      "display": "Crucify",
+      "phonetic": "",
+      "translation": "\u6298\u78e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crude",
+      "word": "crude",
+      "display": "Crude",
+      "phonetic": "",
+      "translation": "\u5929\u7136\u7684\uff1b\u7c97\u9c81\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-cruel",
+      "word": "cruel",
+      "display": "Cruel",
+      "phonetic": "",
+      "translation": "\u6b8b\u5fcd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-cruise",
+      "word": "cruise",
+      "display": "Cruise",
+      "phonetic": "",
+      "translation": "\u5de1\u822a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-cruisetile",
+      "word": "cruisetile",
+      "display": "Cruisetile",
+      "phonetic": "",
+      "translation": "\u5c0f\u5de1\u822a\u8230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crusade",
+      "word": "crusade",
+      "display": "Crusade",
+      "phonetic": "",
+      "translation": "\u52a0\u5165\u5341\u5b57\u519b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crusader",
+      "word": "crusader",
+      "display": "Crusader",
+      "phonetic": "",
+      "translation": "\u5341\u5b57\u519b\u6218\u58eb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-crush",
+      "word": "crush",
+      "display": "Crush",
+      "phonetic": "",
+      "translation": "\u538b\u788e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-curb",
+      "word": "curb",
+      "display": "Curb",
+      "phonetic": "",
+      "translation": "\u8def\u8fb9\uff1b\u6291\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cruc-excruciate",
+      "word": "excruciate",
+      "display": "Excruciate",
+      "phonetic": "",
+      "translation": "\u6298\u78e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

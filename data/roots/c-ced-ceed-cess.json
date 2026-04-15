@@ -1,0 +1,382 @@
+{
+  "version": 1,
+  "rootId": "c-ced-ceed-cess",
+  "root": "c-ced-ceed-cess",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-ced-ceed-cess-accede",
+      "word": "accede",
+      "display": "Accede",
+      "phonetic": "",
+      "translation": "\u540c\u610f\uff1b\u5c31\u804c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-access",
+      "word": "access",
+      "display": "Access",
+      "phonetic": "",
+      "translation": "\u63a5\u8fd1\uff1b\u8fdb\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-accessible",
+      "word": "accessible",
+      "display": "Accessible",
+      "phonetic": "",
+      "translation": "\u6613\u63a5\u8fd1\u7684\uff1b\u53ef\u7406\u89e3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-antecedent",
+      "word": "antecedent",
+      "display": "Antecedent",
+      "phonetic": "",
+      "translation": "\u524d\u4e8b\uff1b\u5148\u884c\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-concession",
+      "word": "concession",
+      "display": "Concession",
+      "phonetic": "",
+      "translation": "\u8ba9\u6b65\uff1b\u7279\u8bb8\u6743",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-exceed",
+      "word": "exceed",
+      "display": "Exceed",
+      "phonetic": "",
+      "translation": "\u8d85\u8d8a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-excess",
+      "word": "excess",
+      "display": "Excess",
+      "phonetic": "",
+      "translation": "\u8fc7\u5ea6\uff1b\u8d85\u8fc7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-excessive",
+      "word": "excessive",
+      "display": "Excessive",
+      "phonetic": "",
+      "translation": "\u8fc7\u5ea6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-inaccessible",
+      "word": "inaccessible",
+      "display": "Inaccessible",
+      "phonetic": "",
+      "translation": "\u96be\u4ee5\u63a5\u8fd1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-intercede",
+      "word": "intercede",
+      "display": "Intercede",
+      "phonetic": "",
+      "translation": "\u8c03\u89e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-necessary",
+      "word": "necessary",
+      "display": "Necessary",
+      "phonetic": "",
+      "translation": "\u5fc5\u8981\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-necessity",
+      "word": "necessity",
+      "display": "Necessity",
+      "phonetic": "",
+      "translation": "\u5fc5\u8981\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-precede",
+      "word": "precede",
+      "display": "Precede",
+      "phonetic": "",
+      "translation": "\u9886\u5148\uff1b\u4f18\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-precedent",
+      "word": "precedent",
+      "display": "Precedent",
+      "phonetic": "",
+      "translation": "\u5148\u4f8b\uff1b\u60ef\u4f8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-preceding",
+      "word": "preceding",
+      "display": "Preceding",
+      "phonetic": "",
+      "translation": "\u5728\u524d\u7684\uff1b\u524d\u8ff0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-procedure",
+      "word": "procedure",
+      "display": "Procedure",
+      "phonetic": "",
+      "translation": "\u7a0b\u5e8f\uff1b\u624b\u7eed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-proceed",
+      "word": "proceed",
+      "display": "Proceed",
+      "phonetic": "",
+      "translation": "\u8fdb\u884c\uff1b\u7ee7\u7eed\u4e0b\u53bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-process",
+      "word": "process",
+      "display": "Process",
+      "phonetic": "",
+      "translation": "\u8fc7\u7a0b\uff1b\u7a0b\u5e8f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-recede",
+      "word": "recede",
+      "display": "Recede",
+      "phonetic": "",
+      "translation": "\u540e\u9000",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-recess",
+      "word": "recess",
+      "display": "Recess",
+      "phonetic": "",
+      "translation": "\u4f11\u606f\uff1b\u4f11\u5047",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-recession",
+      "word": "recession",
+      "display": "Recession",
+      "phonetic": "",
+      "translation": "\u8870\u9000",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-recessional",
+      "word": "recessional",
+      "display": "Recessional",
+      "phonetic": "",
+      "translation": "\u9000\u573a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-secede",
+      "word": "secede",
+      "display": "Secede",
+      "phonetic": "",
+      "translation": "\u8131\u79bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-secession",
+      "word": "secession",
+      "display": "Secession",
+      "phonetic": "",
+      "translation": "\u8131\u79bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-session",
+      "word": "session",
+      "display": "Session",
+      "phonetic": "",
+      "translation": "\u4f1a\u8bae\uff1b\u5b66\u671f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-succeed",
+      "word": "succeed",
+      "display": "Succeed",
+      "phonetic": "",
+      "translation": "\u6210\u529f\uff1b\u7ee7\u627f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-success",
+      "word": "success",
+      "display": "Success",
+      "phonetic": "",
+      "translation": "\u6210\u529f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-successful",
+      "word": "successful",
+      "display": "Successful",
+      "phonetic": "",
+      "translation": "\u6210\u529f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-succession",
+      "word": "succession",
+      "display": "Succession",
+      "phonetic": "",
+      "translation": "\u8fde\u7eed\uff1b\u7ee7\u627f\u6743",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-successive",
+      "word": "successive",
+      "display": "Successive",
+      "phonetic": "",
+      "translation": "\u8fde\u7eed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-ced-ceed-cess-successor",
+      "word": "successor",
+      "display": "Successor",
+      "phonetic": "",
+      "translation": "\u7ee7\u627f\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

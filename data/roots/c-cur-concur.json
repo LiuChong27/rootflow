@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "c-cur-concur",
+  "root": "concur\u540c\u610f\uff1b\u540c\u65f6\u53d1\u751f",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cur-concur-concurrence",
+      "word": "concurrence",
+      "display": "Concurrence",
+      "phonetic": "",
+      "translation": "\u540c\u610f\uff1b\u540c\u65f6\u53d1\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cur-concur-concurrent",
+      "word": "concurrent",
+      "display": "Concurrent",
+      "phonetic": "",
+      "translation": "\u540c\u65f6\u53d1\u751f\uff1b\u4e00\u81f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-cur",
+  "rootLevel": 3,
+  "rootPath": "c>c-cur>c-cur-concur",
+  "type": "branch",
+  "notes": ""
+}

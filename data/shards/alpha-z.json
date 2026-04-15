@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-z",
+  "rootIds": [
+    "z"
+  ],
+  "roots": {
+    "z": {
+      "version": 1,
+      "rootId": "z",
+      "root": "Z",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "z-zeal",
+          "word": "zeal",
+          "display": "Zeal",
+          "phonetic": "",
+          "translation": "\u70ed\u5fc3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "z-zebra",
+          "word": "zebra",
+          "display": "Zebra",
+          "phonetic": "",
+          "translation": "\u6591\u9a6c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "z-zigzag",
+          "word": "zigzag",
+          "display": "Zigzag",
+          "phonetic": "",
+          "translation": "Z\u5b57\u5f62;\u5f2f\u66f2\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "z-zinc",
+          "word": "zinc",
+          "display": "Zinc",
+          "phonetic": "",
+          "translation": "\u950c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "z-zip",
+          "word": "zip",
+          "display": "Zip",
+          "phonetic": "",
+          "translation": "\u62c9\u94fe",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "z-zoom",
+          "word": "zoom",
+          "display": "Zoom",
+          "phonetic": "",
+          "translation": "(\u98de\u673a)\u9661\u5347",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "z",
+      "type": "root",
+      "notes": ""
+    }
+  }
+}

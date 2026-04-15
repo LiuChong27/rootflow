@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "e-err-error",
+  "root": "error\u9519\u8bef",
+  "meaning": "error",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-err-error-err",
+      "word": "err",
+      "display": "Err",
+      "phonetic": "",
+      "translation": "\u72af\u9519\uff1b\u72af\u7f6a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-err-error-errant",
+      "word": "errant",
+      "display": "Errant",
+      "phonetic": "",
+      "translation": "\u79bb\u6e38\u7684\uff1b\u9519\u8bef\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-err-error-errantry",
+      "word": "errantry",
+      "display": "Errantry",
+      "phonetic": "",
+      "translation": "\u9a91\u58eb\u7cbe\u795e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-err-error-erroneous",
+      "word": "erroneous",
+      "display": "Erroneous",
+      "phonetic": "",
+      "translation": "\u9519\u8bef\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-err-error-error",
+      "word": "error",
+      "display": "Error",
+      "phonetic": "",
+      "translation": "\u9519\u8bef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-err-error-inerrancy",
+      "word": "inerrancy",
+      "display": "Inerrancy",
+      "phonetic": "",
+      "translation": "\u7edd\u5bf9\u6b63\u786e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-err",
+  "rootLevel": 3,
+  "rootPath": "e>e-err>e-err-error",
+  "type": "branch",
+  "notes": ""
+}

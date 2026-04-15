@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "o-other-or",
+  "root": "or\u8bf4",
+  "meaning": "say",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-other-or-oral",
+      "word": "oral",
+      "display": "Oral",
+      "phonetic": "",
+      "translation": "\u53e3\u5934\u7684\uff1b\u53e3\u8ff0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-other-or-oration",
+      "word": "oration",
+      "display": "Oration",
+      "phonetic": "",
+      "translation": "\u6f14\u8bf4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-other-or-orchestra",
+      "word": "orchestra",
+      "display": "Orchestra",
+      "phonetic": "",
+      "translation": "\u7ba1\u5f26\u4e50\u961f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o-other",
+  "rootLevel": 3,
+  "rootPath": "o>o-other>o-other-or",
+  "type": "branch",
+  "notes": ""
+}

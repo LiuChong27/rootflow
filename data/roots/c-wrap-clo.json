@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "rootId": "c-wrap-clo",
+  "root": "c-wrap-clo",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-wrap-clo-clause",
+      "word": "clause",
+      "display": "Clause",
+      "phonetic": "",
+      "translation": "\u6761\u6b3e\uff1b\u4ece\u53e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-claustra",
+      "word": "claustra",
+      "display": "Claustra",
+      "phonetic": "",
+      "translation": "\u4fee\u9053\u9662\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-claustrophobia",
+      "word": "claustrophobia",
+      "display": "Claustrophobia",
+      "phonetic": "",
+      "translation": "\u5e7d\u95ed\u6050\u60e7\u75c7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-cloister",
+      "word": "cloister",
+      "display": "Cloister",
+      "phonetic": "",
+      "translation": "\u4fee\u9053\u9662\uff1b\u56de\u5eca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-cloistral",
+      "word": "cloistral",
+      "display": "Cloistral",
+      "phonetic": "",
+      "translation": "\u4fee\u9053\u9662\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-close",
+      "word": "close",
+      "display": "Close",
+      "phonetic": "",
+      "translation": "\u5173\u95ed\uff1b\u7d27\u5bc6\u7684\uff1b\u4eb2\u5bc6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-closet",
+      "word": "closet",
+      "display": "Closet",
+      "phonetic": "",
+      "translation": "\u6a71\u67dc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-closure",
+      "word": "closure",
+      "display": "Closure",
+      "phonetic": "",
+      "translation": "\u5173\u95ed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-conclude",
+      "word": "conclude",
+      "display": "Conclude",
+      "phonetic": "",
+      "translation": "\u51b3\u5b9a\uff1b\u505a\u7ed3\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-conclusion",
+      "word": "conclusion",
+      "display": "Conclusion",
+      "phonetic": "",
+      "translation": "\u7ed3\u8bba\uff1b\u7ed3\u5c40",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-conclusive",
+      "word": "conclusive",
+      "display": "Conclusive",
+      "phonetic": "",
+      "translation": "\u51b3\u5b9a\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-disclose",
+      "word": "disclose",
+      "display": "Disclose",
+      "phonetic": "",
+      "translation": "\u516c\u5f00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-disclosure",
+      "word": "disclosure",
+      "display": "Disclosure",
+      "phonetic": "",
+      "translation": "\u63ed\u53d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-enclose",
+      "word": "enclose",
+      "display": "Enclose",
+      "phonetic": "",
+      "translation": "\u56f4\u7ed5\uff1b\u653e\u5165\u888b\u4e2d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-enclosure",
+      "word": "enclosure",
+      "display": "Enclosure",
+      "phonetic": "",
+      "translation": "\u9644\u4ef6\uff1b\u5305\u542b\u7269\uff1b\u56f4\u5899",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-exclude",
+      "word": "exclude",
+      "display": "Exclude",
+      "phonetic": "",
+      "translation": "\u6392\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-exclusion",
+      "word": "exclusion",
+      "display": "Exclusion",
+      "phonetic": "",
+      "translation": "\u6392\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-include",
+      "word": "include",
+      "display": "Include",
+      "phonetic": "",
+      "translation": "\u5305\u62ec",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-inclusion",
+      "word": "inclusion",
+      "display": "Inclusion",
+      "phonetic": "",
+      "translation": "\u5305\u542b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-wrap-clo-inclusive",
+      "word": "inclusive",
+      "display": "Inclusive",
+      "phonetic": "",
+      "translation": "\u5305\u542b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

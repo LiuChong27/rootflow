@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "p-port",
+  "root": "port\u642c\u8fd0\uff1b\u627f\u62c5",
+  "meaning": "carry, bear",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-port-comport",
+      "word": "comport",
+      "display": "Comport",
+      "phonetic": "",
+      "translation": "\u4e3e\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-deport",
+      "word": "deport",
+      "display": "Deport",
+      "phonetic": "",
+      "translation": "\u9a71\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-deportation",
+      "word": "deportation",
+      "display": "Deportation",
+      "phonetic": "",
+      "translation": "\u653e\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-deportee",
+      "word": "deportee",
+      "display": "Deportee",
+      "phonetic": "",
+      "translation": "\u88ab\u653e\u9010\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-export",
+      "word": "export",
+      "display": "Export",
+      "phonetic": "",
+      "translation": "\u51fa\u53e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-import",
+      "word": "import",
+      "display": "Import",
+      "phonetic": "",
+      "translation": "\u8fdb\u53e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-important",
+      "word": "important",
+      "display": "Important",
+      "phonetic": "",
+      "translation": "\u91cd\u8981\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-importunate",
+      "word": "importunate",
+      "display": "Importunate",
+      "phonetic": "",
+      "translation": "\u6025\u5207\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-importune",
+      "word": "importune",
+      "display": "Importune",
+      "phonetic": "",
+      "translation": "\u5f3a\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-importunity",
+      "word": "importunity",
+      "display": "Importunity",
+      "phonetic": "",
+      "translation": "\u5f3a\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-opportunist",
+      "word": "opportunist",
+      "display": "Opportunist",
+      "phonetic": "",
+      "translation": "\u673a\u4f1a\u4e3b\u4e49\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-port",
+      "word": "port",
+      "display": "Port",
+      "phonetic": "",
+      "translation": "\u6e2f\u53e3\uff1b\u59ff\u52bf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-portable",
+      "word": "portable",
+      "display": "Portable",
+      "phonetic": "",
+      "translation": "\u8f7b\u4fbf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-portage",
+      "word": "portage",
+      "display": "Portage",
+      "phonetic": "",
+      "translation": "\u642c\u8fd0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-purport",
+      "word": "purport",
+      "display": "Purport",
+      "phonetic": "",
+      "translation": "\u4e3b\u65e8\uff1b\u58f0\u79f0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-report",
+      "word": "report",
+      "display": "Report",
+      "phonetic": "",
+      "translation": "\u62a5\u544a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-reportage",
+      "word": "reportage",
+      "display": "Reportage",
+      "phonetic": "",
+      "translation": "\u62a5\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-sport",
+      "word": "sport",
+      "display": "Sport",
+      "phonetic": "",
+      "translation": "\u5a31\u4e50\uff1b\u8fd0\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-support",
+      "word": "support",
+      "display": "Support",
+      "phonetic": "",
+      "translation": "\u652f\u6301\uff1b\u8d61\u517b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-port-transport",
+      "word": "transport",
+      "display": "Transport",
+      "phonetic": "",
+      "translation": "\u8fd0\u8f93\uff1b\u653e\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-port",
+  "type": "root",
+  "notes": ""
+}

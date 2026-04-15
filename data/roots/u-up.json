@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "u-up",
+  "root": "up",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "u-up-update",
+      "word": "update",
+      "display": "Update",
+      "phonetic": "",
+      "translation": "\u66f4\u65b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-up-upgrade",
+      "word": "upgrade",
+      "display": "Upgrade",
+      "phonetic": "",
+      "translation": "\u66f4\u65b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-up-uphold",
+      "word": "uphold",
+      "display": "Uphold",
+      "phonetic": "",
+      "translation": "\u652f\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-up-upright",
+      "word": "upright",
+      "display": "Upright",
+      "phonetic": "",
+      "translation": "\u5782\u76f4\u7684\uff1b\u8bda\u5b9e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-up-uproar",
+      "word": "uproar",
+      "display": "Uproar",
+      "phonetic": "",
+      "translation": "\u9a9a\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-up-upstairs",
+      "word": "upstairs",
+      "display": "Upstairs",
+      "phonetic": "",
+      "translation": "\u5728\u697c\u4e0a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "u",
+  "rootLevel": 1,
+  "rootPath": "u>u-up",
+  "type": "root",
+  "notes": ""
+}

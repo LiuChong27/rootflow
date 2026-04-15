@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "c-clar-clear",
+  "root": "clar=clear\u6e05\u695a",
+  "meaning": "clear",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-clar-clear-clarificant",
+      "word": "clarificant",
+      "display": "Clarificant",
+      "phonetic": "",
+      "translation": "\u51c0\u5316\u5242",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-clar-clear-clarification",
+      "word": "clarification",
+      "display": "Clarification",
+      "phonetic": "",
+      "translation": "\u51c0\u5316\uff1b\u89e3\u91ca\u8bf4\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-clar-clear-clarify",
+      "word": "clarify",
+      "display": "Clarify",
+      "phonetic": "",
+      "translation": "\u6f84\u6e05\uff1b\u9610\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-clar-clear-clarity",
+      "word": "clarity",
+      "display": "Clarity",
+      "phonetic": "",
+      "translation": "\u6e05\u695a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-clar-clear",
+  "type": "root",
+  "notes": ""
+}

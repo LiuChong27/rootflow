@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "e-eco-ecology",
+  "root": "ecology\u751f\u6001\u5b66",
+  "meaning": "ecology",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-eco-ecology-ecoagriculture",
+      "word": "ecoagriculture",
+      "display": "Ecoagriculture",
+      "phonetic": "",
+      "translation": "\u751f\u6001\u519c\u4e1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-eco-ecology-ecology",
+      "word": "ecology",
+      "display": "Ecology",
+      "phonetic": "",
+      "translation": "\u751f\u6001\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-eco-ecology-ecosystem",
+      "word": "ecosystem",
+      "display": "Ecosystem",
+      "phonetic": "",
+      "translation": "\u751f\u6001\u7cfb\u7edf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-eco",
+  "rootLevel": 3,
+  "rootPath": "e>e-eco>e-eco-ecology",
+  "type": "branch",
+  "notes": ""
+}

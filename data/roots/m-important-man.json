@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "rootId": "m-important-man",
+  "root": "man main manu\u624b",
+  "meaning": "hand",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-important-man-main",
+      "word": "main",
+      "display": "Main",
+      "phonetic": "",
+      "translation": "\u4e3b\u8981\u7684\uff1b\u603b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-mainland",
+      "word": "mainland",
+      "display": "Mainland",
+      "phonetic": "",
+      "translation": "\u5927\u9646\uff1b\u672c\u571f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-maintain",
+      "word": "maintain",
+      "display": "Maintain",
+      "phonetic": "",
+      "translation": "\u7ef4\u6301\uff1b\u4e3b\u5f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-maintenance",
+      "word": "maintenance",
+      "display": "Maintenance",
+      "phonetic": "",
+      "translation": "\u7ef4\u4fee\uff1b\u4fdd\u517b\uff1b\u4e3b\u5f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manage",
+      "word": "manage",
+      "display": "Manage",
+      "phonetic": "",
+      "translation": "\u60ef\u4f8b\uff1b\u5904\u7406",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manageable",
+      "word": "manageable",
+      "display": "Manageable",
+      "phonetic": "",
+      "translation": "\u5bb9\u6613\u5904\u7406\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-management",
+      "word": "management",
+      "display": "Management",
+      "phonetic": "",
+      "translation": "\u7ecf\u8425\uff1b\u7ba1\u7406\u90e8\u95e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-maneuver",
+      "word": "maneuver",
+      "display": "Maneuver",
+      "phonetic": "",
+      "translation": "\u8fd0\u7528\uff1b\u64cd\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manifest",
+      "word": "manifest",
+      "display": "Manifest",
+      "phonetic": "",
+      "translation": "\u663e\u7136\u7684\uff1b\u8868\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manifesto",
+      "word": "manifesto",
+      "display": "Manifesto",
+      "phonetic": "",
+      "translation": "\u5ba3\u8a00\uff1b\u58f0\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manipulate",
+      "word": "manipulate",
+      "display": "Manipulate",
+      "phonetic": "",
+      "translation": "\u4f7f\u7528\uff1b\u64cd\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manner",
+      "word": "manner",
+      "display": "Manner",
+      "phonetic": "",
+      "translation": "\u65b9\u6cd5\uff1b\u6001\u5ea6 \u4e3e\u6b62\uff1b\u793c\u8c8c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manual",
+      "word": "manual",
+      "display": "Manual",
+      "phonetic": "",
+      "translation": "\u624b\u518c\uff1b\u624b\u5de5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manufacture",
+      "word": "manufacture",
+      "display": "Manufacture",
+      "phonetic": "",
+      "translation": "\u5236\u9020\uff1b\u52a0\u5de5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-man-manuscript",
+      "word": "manuscript",
+      "display": "Manuscript",
+      "phonetic": "",
+      "translation": "\u624b\u7a3f\uff1b\u539f\u7a3f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-important",
+  "rootLevel": 3,
+  "rootPath": "m>m-important>m-important-man",
+  "type": "branch",
+  "notes": ""
+}

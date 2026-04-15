@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09",
+  "updatedAt": "2026-04-15",
   "strategy": "alpha",
   "shardId": "alpha-a",
   "rootIds": [
@@ -225,7 +225,7 @@
       "root": "A",
       "meaning": "A root map",
       "descriptionCn": "A \u8bcd\u6839\u8bcd\u7f00\u603b\u56fe",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [],
       "parentRootId": "",
       "rootLevel": 1,
@@ -239,7 +239,7 @@
       "root": "\u5176\u4ed6",
       "meaning": "",
       "descriptionCn": "\u4e2d\u5fc3\u8282\u70b9\uff1a\u5176\u4ed6",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ac",
@@ -350,7 +350,7 @@
       "root": "\u524d\u7f00",
       "meaning": "",
       "descriptionCn": "\u524d\u7f00\u5206\u652f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "a",
@@ -437,7 +437,7 @@
       "root": "a-=an-=without",
       "meaning": "without",
       "descriptionCn": "\u6ca1\u6709",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abyss",
@@ -634,7 +634,7 @@
       "root": "\u62bd\u8c61\u6982\u5ff5",
       "meaning": "",
       "descriptionCn": "\u62bd\u8c61\u6982\u5ff5\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anarchy-a-without-abstract-2",
@@ -688,7 +688,7 @@
       "root": "\u60c5\u611f",
       "meaning": "",
       "descriptionCn": "\u60c5\u611f\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anharmonic-a-without-emotion-2",
@@ -729,7 +729,7 @@
       "root": "\u4e0d\u5305\u542b",
       "meaning": "",
       "descriptionCn": "\u4e0d\u5305\u542b\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abyss-a-without-notinclude-2",
@@ -796,7 +796,7 @@
       "root": "\u7269\u7406/\u72b6\u6001",
       "meaning": "",
       "descriptionCn": "\u7269\u7406/\u72b6\u6001\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anomaly-a-without-physical-2",
@@ -876,7 +876,7 @@
       "root": "abide",
       "meaning": "",
       "descriptionCn": "\u575a\u6301",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abide-abide-2",
@@ -904,7 +904,7 @@
       "root": "abound",
       "meaning": "",
       "descriptionCn": "\u5145\u6ee1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abound",
@@ -932,7 +932,7 @@
       "root": "abundance",
       "meaning": "",
       "descriptionCn": "\u4e30\u5bcc",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abundance",
@@ -960,7 +960,7 @@
       "root": "abundant",
       "meaning": "",
       "descriptionCn": "\u4e30\u5bcc\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abundant-abundant-2",
@@ -988,7 +988,7 @@
       "root": "abuse",
       "meaning": "",
       "descriptionCn": "\u6ee5\u7528",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abuse",
@@ -1016,7 +1016,7 @@
       "root": "abut",
       "meaning": "",
       "descriptionCn": "\u90bb\u63a5",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abut-abut-2",
@@ -1044,7 +1044,7 @@
       "root": "ac",
       "meaning": "sharp/sour",
       "descriptionCn": "\u5c16\u9510\u7684\uff1b\u950b\u5229\uff1b\u9178\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acet",
@@ -1107,7 +1107,7 @@
       "root": "acute",
       "meaning": "",
       "descriptionCn": "\u4e25\u91cd\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acute-ac-acute-2",
@@ -1134,7 +1134,7 @@
       "root": "accession",
       "meaning": "",
       "descriptionCn": "\u5c31\u804c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accession-accession-2",
@@ -1162,7 +1162,7 @@
       "root": "accessory",
       "meaning": "",
       "descriptionCn": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accessory-accessory-2",
@@ -1190,7 +1190,7 @@
       "root": "acclive",
       "meaning": "",
       "descriptionCn": "\u503e\u659c\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acclive-acclive-2",
@@ -1218,7 +1218,7 @@
       "root": "accommodate",
       "meaning": "",
       "descriptionCn": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accommodate-accommodate-2",
@@ -1246,7 +1246,7 @@
       "root": "accommodation",
       "meaning": "",
       "descriptionCn": "\u4f4f\u5bbf",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accommodation",
@@ -1274,7 +1274,7 @@
       "root": "accompany",
       "meaning": "",
       "descriptionCn": "\u966a\u4f34",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accompany-accompany-2",
@@ -1302,7 +1302,7 @@
       "root": "accomplish",
       "meaning": "",
       "descriptionCn": "\u5b9e\u73b0",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accomplish-accomplish-2",
@@ -1330,7 +1330,7 @@
       "root": "accost",
       "meaning": "",
       "descriptionCn": "\u6253\u62db\u547c\uff1b\u52fe\u5f15",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accost-accost-2",
@@ -1358,7 +1358,7 @@
       "root": "accumbent",
       "meaning": "",
       "descriptionCn": "\u6a2a\u5367",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accumbent-accumbent-2",
@@ -1386,7 +1386,7 @@
       "root": "accumulate",
       "meaning": "",
       "descriptionCn": "\u79ef\u7d2f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accumulate-accumulate-2",
@@ -1414,7 +1414,7 @@
       "root": "accurate",
       "meaning": "",
       "descriptionCn": "\u51c6\u786e\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accurate",
@@ -1442,7 +1442,7 @@
       "root": "accuse",
       "meaning": "",
       "descriptionCn": "\u63a7\u544a\uff1b\u8c34\u8d23",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accuse-accuse-2",
@@ -1470,7 +1470,7 @@
       "root": "acet=aceto",
       "meaning": "",
       "descriptionCn": "\u53d8\u9178",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acet-acet-aceto-2",
@@ -1509,7 +1509,7 @@
       "root": "acid=acr",
       "meaning": "",
       "descriptionCn": "\u9178\u3001\u5c16\u9178",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acid-acid-acr-2",
@@ -1548,7 +1548,7 @@
       "root": "acknowledge",
       "meaning": "",
       "descriptionCn": "\u7b54\u8c22\uff1b\u627f\u8ba4",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acknowledge-acknowledge-2",
@@ -1576,7 +1576,7 @@
       "root": "acquaint",
       "meaning": "",
       "descriptionCn": "\u4f7f\u4e86\u89e3",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acquaint",
@@ -1604,7 +1604,7 @@
       "root": "acquaintance",
       "meaning": "",
       "descriptionCn": "\u8ba4\u8bc6\uff1b\u719f\u4eba",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acquaintance",
@@ -1632,7 +1632,7 @@
       "root": "acquire",
       "meaning": "",
       "descriptionCn": "\u83b7\u5f97",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acquire-acquire-2",
@@ -1660,7 +1660,7 @@
       "root": "acquisition",
       "meaning": "",
       "descriptionCn": "\u83b7\u5f97\uff1b\u517b\u6210",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acquisition",
@@ -1688,7 +1688,7 @@
       "root": "acquisitive",
       "meaning": "",
       "descriptionCn": "\u6e34\u671b\u5f97\u5230\u7684\uff1b\u8d2a\u5a6a\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acquisitive",
@@ -1716,7 +1716,7 @@
       "root": "acrobat",
       "meaning": "",
       "descriptionCn": "\u6742\u6280\u6f14\u5458",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acrobat",
@@ -1743,7 +1743,7 @@
       "root": "acrobatic",
       "meaning": "",
       "descriptionCn": "\u6742\u6280\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acrobatic",
@@ -1770,7 +1770,7 @@
       "root": "acrobatics",
       "meaning": "",
       "descriptionCn": "\u6742\u6280",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acrobatics-acrobatics-2",
@@ -1797,7 +1797,7 @@
       "root": "act=ag=ig",
       "meaning": "do/act",
       "descriptionCn": "\u505a\u3001\u884c\u52a8",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "actualize",
@@ -1908,7 +1908,7 @@
       "root": "actualize",
       "meaning": "",
       "descriptionCn": "\u4f7f\u5b9e\u73b0",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "actualize-actualize-2",
@@ -1935,7 +1935,7 @@
       "root": "actuary",
       "meaning": "",
       "descriptionCn": "\u7edf\u8ba1\u5b66\u5bb6",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "actuary",
@@ -1963,7 +1963,7 @@
       "root": "actuate",
       "meaning": "",
       "descriptionCn": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "actuate-actuate-2",
@@ -1990,7 +1990,7 @@
       "root": "acuity",
       "meaning": "",
       "descriptionCn": "\u654f\u9510",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acuity",
@@ -2017,7 +2017,7 @@
       "root": "acumen",
       "meaning": "",
       "descriptionCn": "\u806a\u660e",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acumen",
@@ -2044,7 +2044,7 @@
       "root": "a-=an-",
       "meaning": "",
       "descriptionCn": "\u589e\u52a0",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abide-ad-a-an-2",
@@ -2189,7 +2189,7 @@
       "root": "ac-",
       "meaning": "",
       "descriptionCn": "c/k \u524d\u53d8\u4f53",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "accession",
@@ -2373,7 +2373,7 @@
       "root": "acute",
       "meaning": "",
       "descriptionCn": "\u5267\u70c8\uff1b\u5c16\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "acute-ad-ac-acute-2",
@@ -2401,7 +2401,7 @@
       "root": "ad=add=axx",
       "meaning": "toward/intensify",
       "descriptionCn": "\u52a0\u5f3a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abide",
@@ -2546,7 +2546,7 @@
       "root": "af-",
       "meaning": "",
       "descriptionCn": "f \u524d\u53d8\u4f53",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "affair",
@@ -2639,7 +2639,7 @@
       "root": "ag-",
       "meaning": "",
       "descriptionCn": "g \u524d\u53d8\u4f53",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agglomerate-ad-ag-2",
@@ -2706,7 +2706,7 @@
       "root": "al-",
       "meaning": "",
       "descriptionCn": "l \u524d\u53d8\u4f53",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "allege-ad-al-2",
@@ -2838,7 +2838,7 @@
       "root": "aug-=auc-=aut-",
       "meaning": "",
       "descriptionCn": "\u589e\u52a0\u3001\u521b\u9020",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "augment-ad-aug-2",
@@ -2931,7 +2931,7 @@
       "root": "ad-",
       "meaning": "",
       "descriptionCn": "\u57fa\u7840\u5f62\u5f0f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adhere-ad-core-2",
@@ -2998,7 +2998,7 @@
       "root": "additional",
       "meaning": "",
       "descriptionCn": "\u9644\u52a0\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "additional",
@@ -3026,7 +3026,7 @@
       "root": "adhere",
       "meaning": "",
       "descriptionCn": "\u4f9d\u9644",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adhere-adhere-2",
@@ -3054,7 +3054,7 @@
       "root": "adjacent",
       "meaning": "",
       "descriptionCn": "\u90bb\u63a5\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adjacent",
@@ -3082,7 +3082,7 @@
       "root": "adjective",
       "meaning": "",
       "descriptionCn": "\u5f62\u5bb9\u8bcd",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adjective",
@@ -3110,7 +3110,7 @@
       "root": "adjoin",
       "meaning": "",
       "descriptionCn": "\u9760\u8fd1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adjoin",
@@ -3138,7 +3138,7 @@
       "root": "adjourn",
       "meaning": "",
       "descriptionCn": "\u5ef6\u671f\uff1b\u4f11\u4f1a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adjourn",
@@ -3166,7 +3166,7 @@
       "root": "adjure",
       "meaning": "",
       "descriptionCn": "\u6073\u8bf7",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adjure-adjure-2",
@@ -3194,7 +3194,7 @@
       "root": "adjust",
       "meaning": "",
       "descriptionCn": "\u8c03\u8282\uff1b\u6574\u987f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adjust",
@@ -3222,7 +3222,7 @@
       "root": "administer",
       "meaning": "",
       "descriptionCn": "\u5b9e\u65bd\uff1b\u638c\u7ba1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "administer",
@@ -3250,7 +3250,7 @@
       "root": "administration",
       "meaning": "",
       "descriptionCn": "\u7ecf\u8425\uff1b\u884c\u653f\u90e8\u95e8",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "administration",
@@ -3278,7 +3278,7 @@
       "root": "admit",
       "meaning": "",
       "descriptionCn": "\u5141\u8bb8\u8fdb\u5165",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "admit-admit-2",
@@ -3306,7 +3306,7 @@
       "root": "admonish",
       "meaning": "",
       "descriptionCn": "\u529d\u544a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "admonish-admonish-2",
@@ -3334,7 +3334,7 @@
       "root": "adulterate",
       "meaning": "",
       "descriptionCn": "\u53c2\u6742",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adulterate",
@@ -3362,7 +3362,7 @@
       "root": "advent",
       "meaning": "",
       "descriptionCn": "\u5230\u6765",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "advent",
@@ -3390,7 +3390,7 @@
       "root": "adventure",
       "meaning": "",
       "descriptionCn": "\u5192\u9669",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adventure",
@@ -3418,7 +3418,7 @@
       "root": "adverse",
       "meaning": "",
       "descriptionCn": "\u654c\u5bf9\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "adverse",
@@ -3446,7 +3446,7 @@
       "root": "advertise",
       "meaning": "",
       "descriptionCn": "\u516c\u544a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "advertise",
@@ -3474,7 +3474,7 @@
       "root": "advisable",
       "meaning": "",
       "descriptionCn": "\u53ef\u53d6\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "advisable",
@@ -3502,7 +3502,7 @@
       "root": "aer=aero=air",
       "meaning": "air",
       "descriptionCn": "\u7a7a\u6c14",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aerial",
@@ -3577,7 +3577,7 @@
       "root": "aerial",
       "meaning": "",
       "descriptionCn": "\u822a\u7a7a\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aerial-aerial-2",
@@ -3604,7 +3604,7 @@
       "root": "aerobiology",
       "meaning": "",
       "descriptionCn": "\u5927\u6c14\u751f\u7269\u5b66",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aerobiology-aerobiology-2",
@@ -3631,7 +3631,7 @@
       "root": "aeroplane",
       "meaning": "",
       "descriptionCn": "\u98de\u673a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aeroplane-aeroplane-2",
@@ -3658,7 +3658,7 @@
       "root": "aerostatics",
       "meaning": "",
       "descriptionCn": "\u7a7a\u6c14\u9759\u529b\u5b66",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aerostatics-aerostatics-2",
@@ -3685,7 +3685,7 @@
       "root": "affair",
       "meaning": "",
       "descriptionCn": "\u4e8b\u52a1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "affair-affair-2",
@@ -3713,7 +3713,7 @@
       "root": "affiance",
       "meaning": "",
       "descriptionCn": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "affiance-affiance-2",
@@ -3741,7 +3741,7 @@
       "root": "affiliate",
       "meaning": "",
       "descriptionCn": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "affiliate-affiliate-2",
@@ -3769,7 +3769,7 @@
       "root": "afford",
       "meaning": "",
       "descriptionCn": "\u62c5\u8d1f\u5f97\u8d77",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "afford",
@@ -3797,7 +3797,7 @@
       "root": "afforest",
       "meaning": "",
       "descriptionCn": "\u9020\u6797\u4e8e",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "afforest-afforest-2",
@@ -3825,7 +3825,7 @@
       "root": "affright",
       "meaning": "",
       "descriptionCn": "\u60ca\u5413\uff1b\u6050\u6016",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "affright-affright-2",
@@ -3853,7 +3853,7 @@
       "root": "affusion",
       "meaning": "",
       "descriptionCn": "\u6d47\u704c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "affusion-affusion-2",
@@ -3881,7 +3881,7 @@
       "root": "against",
       "meaning": "",
       "descriptionCn": "\u53cd\u5bf9",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "against",
@@ -3909,7 +3909,7 @@
       "root": "agenda",
       "meaning": "",
       "descriptionCn": "\u8bae\u4e8b\u65e5\u7a0b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agenda",
@@ -3937,7 +3937,7 @@
       "root": "agent",
       "meaning": "",
       "descriptionCn": "\u4ee3\u7406\u4eba",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agent-agent-2",
@@ -3965,7 +3965,7 @@
       "root": "agglomerate",
       "meaning": "",
       "descriptionCn": "\u5927\u5757",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agglomerate-agglomerate-2",
@@ -3993,7 +3993,7 @@
       "root": "aggrade",
       "meaning": "",
       "descriptionCn": "\u6de4\u79ef",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aggrade-aggrade-2",
@@ -4021,7 +4021,7 @@
       "root": "aggravate",
       "meaning": "",
       "descriptionCn": "\u52a0\u91cd\uff1b\u6076\u5316",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aggravate-aggravate-2",
@@ -4049,7 +4049,7 @@
       "root": "aggress",
       "meaning": "",
       "descriptionCn": "\u653b\u51fb",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aggress-aggress-2",
@@ -4077,7 +4077,7 @@
       "root": "aggrieve",
       "meaning": "",
       "descriptionCn": "\u4f7f\u70e6\u607c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aggrieve",
@@ -4105,7 +4105,7 @@
       "root": "agile",
       "meaning": "",
       "descriptionCn": "\u7075\u6d3b\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agile",
@@ -4133,7 +4133,7 @@
       "root": "agitate",
       "meaning": "",
       "descriptionCn": "\u6270\u52a8\uff1b\u6fc0\u52a8",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agitate",
@@ -4160,7 +4160,7 @@
       "root": "agitator",
       "meaning": "",
       "descriptionCn": "\u717d\u52a8\u8005",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agitator",
@@ -4187,7 +4187,7 @@
       "root": "agony",
       "meaning": "",
       "descriptionCn": "\u6781\u5927\u7684\u75db\u82e6",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "agony-agony-2",
@@ -4214,7 +4214,7 @@
       "root": "aisle",
       "meaning": "",
       "descriptionCn": "\u8fc7\u9053",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aisle-aisle-2",
@@ -4241,7 +4241,7 @@
       "root": "allege",
       "meaning": "",
       "descriptionCn": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "allege-allege-2",
@@ -4269,7 +4269,7 @@
       "root": "alleviate",
       "meaning": "",
       "descriptionCn": "\u51cf\u8f7b\uff1b\u7f13\u548c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "alleviate-alleviate-2",
@@ -4297,7 +4297,7 @@
       "root": "alliance",
       "meaning": "",
       "descriptionCn": "\u540c\u76df",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "alliance-alliance-2",
@@ -4325,7 +4325,7 @@
       "root": "allowance",
       "meaning": "",
       "descriptionCn": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "allowance-allowance-2",
@@ -4353,7 +4353,7 @@
       "root": "ally",
       "meaning": "",
       "descriptionCn": "\u540c\u76df",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ally-ally-2",
@@ -4381,7 +4381,7 @@
       "root": "alt=alti=alto=high",
       "meaning": "high",
       "descriptionCn": "\u9ad8",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "altar",
@@ -4444,7 +4444,7 @@
       "root": "altar",
       "meaning": "",
       "descriptionCn": "\u796d\u575b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "altar-altar-2",
@@ -4471,7 +4471,7 @@
       "root": "altimeter",
       "meaning": "",
       "descriptionCn": "\u9ad8\u5ea6\u8ba1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "altimeter-altimeter-2",
@@ -4498,7 +4498,7 @@
       "root": "alto",
       "meaning": "",
       "descriptionCn": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "alto-alto-2",
@@ -4525,7 +4525,7 @@
       "root": "am=amor",
       "meaning": "love",
       "descriptionCn": "\u7231",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amatoria",
@@ -4564,7 +4564,7 @@
       "root": "amass",
       "meaning": "",
       "descriptionCn": "\u79ef\u84c4",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amass-amass-2",
@@ -4592,7 +4592,7 @@
       "root": "amatoria",
       "meaning": "",
       "descriptionCn": "\u597d\u8272\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amatoria-amatoria-2",
@@ -4619,7 +4619,7 @@
       "root": "ambiance=ambience",
       "meaning": "",
       "descriptionCn": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambiance",
@@ -4660,7 +4660,7 @@
       "root": "ambient",
       "meaning": "",
       "descriptionCn": "\u5468\u56f4\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambient",
@@ -4688,7 +4688,7 @@
       "root": "ambiguity",
       "meaning": "",
       "descriptionCn": "\u6a21\u68f1\u4e24\u53ef\uff1b\u542b\u4e49\u6a21\u7cca",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambiguity-ambiguity-2",
@@ -4716,7 +4716,7 @@
       "root": "ambiguous",
       "meaning": "",
       "descriptionCn": "\u542b\u7cca\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambiguous",
@@ -4744,7 +4744,7 @@
       "root": "ambiquity",
       "meaning": "",
       "descriptionCn": "\u542b\u7cca\u7684\uff08\u53d8\u4f53\u62fc\u5199\uff09",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambiquity",
@@ -4772,7 +4772,7 @@
       "root": "ambit",
       "meaning": "",
       "descriptionCn": "\u754c\u9650\uff1b\u8303\u56f4",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambit-ambit-2",
@@ -4800,7 +4800,7 @@
       "root": "ambition",
       "meaning": "",
       "descriptionCn": "\u96c4\u5fc3",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambition-ambition-2",
@@ -4827,7 +4827,7 @@
       "root": "ambitious",
       "meaning": "",
       "descriptionCn": "\u6709\u62b1\u8d1f\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambitious",
@@ -4854,7 +4854,7 @@
       "root": "ambul=walk=\u8d70",
       "meaning": "walk",
       "descriptionCn": "\u8d70",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambition",
@@ -4893,7 +4893,7 @@
       "root": "ambulance",
       "meaning": "",
       "descriptionCn": "\u6551\u62a4\u8f66",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambulance-ambulance-2",
@@ -4920,7 +4920,7 @@
       "root": "ameliorate",
       "meaning": "",
       "descriptionCn": "\u6539\u5584",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ameliorate",
@@ -4948,7 +4948,7 @@
       "root": "amenable",
       "meaning": "",
       "descriptionCn": "\u5e94\u670d\u4ece\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amenable-amenable-2",
@@ -4976,7 +4976,7 @@
       "root": "amorist",
       "meaning": "",
       "descriptionCn": "\u597d\u8272\u4e4b\u5f92",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amorist",
@@ -5003,7 +5003,7 @@
       "root": "amorous",
       "meaning": "",
       "descriptionCn": "\u597d\u8272\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amorous",
@@ -5030,7 +5030,7 @@
       "root": "amphi-=ambi-",
       "meaning": "two/both",
       "descriptionCn": "\u4e24\u4e2a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambidextrous",
@@ -5175,7 +5175,7 @@
       "root": "\u60c5\u611f/\u6027\u683c",
       "meaning": "",
       "descriptionCn": "\u60c5\u611f/\u6027\u683c\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambidextrous-amphi-emotion-2",
@@ -5242,7 +5242,7 @@
       "root": "\u8bed\u8a00/\u751f\u7269",
       "meaning": "",
       "descriptionCn": "\u8bed\u8a00/\u751f\u7269\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ambilingual-amphi-language-biology-2",
@@ -5309,7 +5309,7 @@
       "root": "amphibian",
       "meaning": "",
       "descriptionCn": "\u4e24\u6816\u7c7b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amphibian-amphibian-2",
@@ -5337,7 +5337,7 @@
       "root": "amphibiology",
       "meaning": "",
       "descriptionCn": "\u4e24\u6816\u52a8\u7269\u5b66",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amphibiology",
@@ -5365,7 +5365,7 @@
       "root": "amplifier",
       "meaning": "",
       "descriptionCn": "\u653e\u5927\uff1b\u589e\u5f3a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "amplifier-amplifier-2",
@@ -5393,7 +5393,7 @@
       "root": "anim",
       "meaning": "soul/life",
       "descriptionCn": "\u5fc3\u7075\uff1b\u751f\u547d",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "unanimous",
@@ -5420,7 +5420,7 @@
       "root": "anomaly",
       "meaning": "",
       "descriptionCn": "\u4e0d\u89c4\u5219",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anomaly-anomaly-2",
@@ -5448,7 +5448,7 @@
       "root": "anomy",
       "meaning": "",
       "descriptionCn": "\u5931\u8303\u72b6\u6001\uff1b\u6df7\u4e71",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anomy",
@@ -5476,7 +5476,7 @@
       "root": "ante-",
       "meaning": "before",
       "descriptionCn": "\u5148\u524d",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antecessor",
@@ -5543,7 +5543,7 @@
       "root": "antecessor",
       "meaning": "",
       "descriptionCn": "\u5148\u884c\u8005\uff1b\u7956\u5148",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antecessor-antecessor-2",
@@ -5571,7 +5571,7 @@
       "root": "antechapel",
       "meaning": "",
       "descriptionCn": "\u6559\u5802\u95e8\u5385",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antechapel",
@@ -5599,7 +5599,7 @@
       "root": "antediluvian",
       "meaning": "",
       "descriptionCn": "\u5927\u6d2a\u6c34\u4e4b\u524d\uff1b\u8fdc\u53e4\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antediluvian",
@@ -5627,7 +5627,7 @@
       "root": "antehuman",
       "meaning": "",
       "descriptionCn": "\u5728\u4eba\u7c7b\u4ee5\u524d\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antehuman",
@@ -5655,7 +5655,7 @@
       "root": "antemarital",
       "meaning": "",
       "descriptionCn": "\u5a5a\u524d\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antemarital",
@@ -5683,7 +5683,7 @@
       "root": "antemortem",
       "meaning": "",
       "descriptionCn": "\u4e34\u6b7b\u524d",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antemortem",
@@ -5711,7 +5711,7 @@
       "root": "antenatal",
       "meaning": "",
       "descriptionCn": "\u51fa\u751f\u524d",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antenatal",
@@ -5739,7 +5739,7 @@
       "root": "antenna",
       "meaning": "",
       "descriptionCn": "\u89e6\u89d2\uff1b\u5929\u7ebf",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antenna-antenna-2",
@@ -5767,7 +5767,7 @@
       "root": "anteprandial",
       "meaning": "",
       "descriptionCn": "\u996d\u524d\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anteprandial",
@@ -5795,7 +5795,7 @@
       "root": "anterior",
       "meaning": "",
       "descriptionCn": "\u524d\u9762\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anterior-anterior-2",
@@ -5823,7 +5823,7 @@
       "root": "anteroom",
       "meaning": "",
       "descriptionCn": "\u63a5\u5f85\u5ba4",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anteroom",
@@ -5851,7 +5851,7 @@
       "root": "antewar",
       "meaning": "",
       "descriptionCn": "\u6218\u4e89\u524d",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antewar",
@@ -5879,7 +5879,7 @@
       "root": "anthropology",
       "meaning": "",
       "descriptionCn": "\u4eba\u7c7b\u5b66",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anthropology-anthropology-2",
@@ -5906,7 +5906,7 @@
       "root": "anti-",
       "meaning": "against",
       "descriptionCn": "\u76f8\u53cd\uff1b\u5bf9\u6297",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "antiaging",
@@ -5986,7 +5986,7 @@
       "root": "anticipate",
       "meaning": "",
       "descriptionCn": "\u9884\u6599",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anticipate-anticipate-2",
@@ -6014,7 +6014,7 @@
       "root": "antrop",
       "meaning": "human",
       "descriptionCn": "\u4eba\u7c7b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anthropology",
@@ -6041,7 +6041,7 @@
       "root": "apathetic",
       "meaning": "",
       "descriptionCn": "\u51b7\u6de1\u7684\uff1b\u6f20\u4e0d\u5173\u5fc3\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "apathetic",
@@ -6069,7 +6069,7 @@
       "root": "apathy",
       "meaning": "",
       "descriptionCn": "\u51b7\u6f20",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "apathy-apathy-2",
@@ -6097,7 +6097,7 @@
       "root": "apo-=ab-",
       "meaning": "away/from",
       "descriptionCn": "\u8fdc\u79bb",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abaxial",
@@ -6359,7 +6359,7 @@
       "root": "\u60c5\u611f/\u6001\u5ea6",
       "meaning": "",
       "descriptionCn": "\u60c5\u611f/\u6001\u5ea6\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abhor-apo-emotion-2",
@@ -6504,7 +6504,7 @@
       "root": "\u62bd\u8c61/\u5176\u4ed6",
       "meaning": "",
       "descriptionCn": "\u62bd\u8c61/\u5176\u4ed6\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abstract-apo-other-2",
@@ -6558,7 +6558,7 @@
       "root": "\u7269\u7406/\u52a8\u4f5c",
       "meaning": "",
       "descriptionCn": "\u7269\u7406/\u52a8\u4f5c\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abaxial-apo-physical-2",
@@ -6599,7 +6599,7 @@
       "root": "\u53bb\u9664/\u5426\u5b9a",
       "meaning": "",
       "descriptionCn": "\u53bb\u9664/\u5426\u5b9a\u7c7b\u6d3e\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "abort-apo-remove-2",
@@ -6653,7 +6653,7 @@
       "root": "approval",
       "meaning": "",
       "descriptionCn": "\u8d5e\u6210",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "approval-approval-2",
@@ -6681,7 +6681,7 @@
       "root": "approve",
       "meaning": "",
       "descriptionCn": "\u8d5e\u6210",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "approve-approve-2",
@@ -6709,7 +6709,7 @@
       "root": "aqu=water",
       "meaning": "water",
       "descriptionCn": "\u6c34",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aquamarine",
@@ -6784,7 +6784,7 @@
       "root": "aquamarine",
       "meaning": "",
       "descriptionCn": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aquamarine-aquamarine-2",
@@ -6811,7 +6811,7 @@
       "root": "aquanaut",
       "meaning": "",
       "descriptionCn": "\u6f5c\u6c34\u4eba",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aquanaut-aquanaut-2",
@@ -6838,7 +6838,7 @@
       "root": "aquatic",
       "meaning": "",
       "descriptionCn": "\u6c34\u751f\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aquatic-aquatic-2",
@@ -6865,7 +6865,7 @@
       "root": "aquation",
       "meaning": "",
       "descriptionCn": "\u6c34\u5408\u4f5c\u7528",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aquation",
@@ -6892,7 +6892,7 @@
       "root": "aqueduct",
       "meaning": "",
       "descriptionCn": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aqueduct-aqueduct-2",
@@ -6919,7 +6919,7 @@
       "root": "aqueous",
       "meaning": "",
       "descriptionCn": "\u50cf\u6c34\u4e00\u6837\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aqueous-aqueous-2",
@@ -6946,7 +6946,7 @@
       "root": "arch=rule",
       "meaning": "rule/leader",
       "descriptionCn": "\u7edf\u6cbb\uff1b\u9996\u9886",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anarchy",
@@ -7009,7 +7009,7 @@
       "root": "anarchy",
       "meaning": "",
       "descriptionCn": "\u65e0\u653f\u5e9c\u72b6\u6001\uff1b\u6df7\u4e71",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "anarchy-arch-anarchy-2",
@@ -7036,7 +7036,7 @@
       "root": "architect",
       "meaning": "",
       "descriptionCn": "\u5efa\u7b51\u5e08",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "architect-architect-2",
@@ -7063,7 +7063,7 @@
       "root": "architectural",
       "meaning": "",
       "descriptionCn": "\u5efa\u7b51\u5b66\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "architectural",
@@ -7090,7 +7090,7 @@
       "root": "architecture",
       "meaning": "",
       "descriptionCn": "\u5efa\u7b51\u5b66",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "architecture",
@@ -7117,7 +7117,7 @@
       "root": "ascribe",
       "meaning": "",
       "descriptionCn": "\u5f52\u56e0\u4e8e",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "ascribe-ascribe-2",
@@ -7145,7 +7145,7 @@
       "root": "aspire",
       "meaning": "",
       "descriptionCn": "\u6e34\u671b\uff1b\u8ffd\u6c42",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aspire",
@@ -7173,7 +7173,7 @@
       "root": "assembly",
       "meaning": "",
       "descriptionCn": "\u96c6\u5408",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "assembly-assembly-2",
@@ -7201,7 +7201,7 @@
       "root": "astir",
       "meaning": "",
       "descriptionCn": "\u6fc0\u52a8\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "astir-astir-2",
@@ -7229,7 +7229,7 @@
       "root": "astray",
       "meaning": "",
       "descriptionCn": "\u8ff7\u9014\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "astray-astray-2",
@@ -7257,7 +7257,7 @@
       "root": "atmosphere",
       "meaning": "",
       "descriptionCn": "\u6c1b\u56f4\uff1b\u5927\u6c14\u5c42",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "atmosphere",
@@ -7285,7 +7285,7 @@
       "root": "audi",
       "meaning": "hear",
       "descriptionCn": "\u542c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "audio",
@@ -7324,7 +7324,7 @@
       "root": "audio",
       "meaning": "",
       "descriptionCn": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "audio-audio-2",
@@ -7387,7 +7387,7 @@
       "root": "audiogram",
       "meaning": "",
       "descriptionCn": "\u542c\u529b\u654f\u611f\u56fe",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "audiogram-audiogram-2",
@@ -7414,7 +7414,7 @@
       "root": "audiology",
       "meaning": "",
       "descriptionCn": "\u542c\u89c9\u5b66",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "audiology-audiology-2",
@@ -7441,7 +7441,7 @@
       "root": "audit",
       "meaning": "",
       "descriptionCn": "\u67e5\u8d26\uff1b\u65c1\u542c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "audit-audit-2",
@@ -7468,7 +7468,7 @@
       "root": "audition",
       "meaning": "",
       "descriptionCn": "\u89c6\u542c\uff1b\u8bd5\u955c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "audit",
@@ -7531,7 +7531,7 @@
       "root": "auditor",
       "meaning": "",
       "descriptionCn": "\u65c1\u542c\u751f",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "auditor-auditor-2",
@@ -7558,7 +7558,7 @@
       "root": "auditory",
       "meaning": "",
       "descriptionCn": "\u542c\u89c9\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "auditory-auditory-2",
@@ -7585,7 +7585,7 @@
       "root": "augment",
       "meaning": "",
       "descriptionCn": "\u589e\u5927",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "augment-aug-augment-2",
@@ -7613,7 +7613,7 @@
       "root": "augment=enhance",
       "meaning": "",
       "descriptionCn": "\u589e\u52a0",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "augment-augment-enhance-2",
@@ -7654,7 +7654,7 @@
       "root": "augur",
       "meaning": "",
       "descriptionCn": "\u5360\u535c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "augur-augur-2",
@@ -7681,7 +7681,7 @@
       "root": "august",
       "meaning": "",
       "descriptionCn": "\u5c0a\u4e25\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "august-august-2",
@@ -7709,7 +7709,7 @@
       "root": "auspice",
       "meaning": "",
       "descriptionCn": "\u9884\u5146",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "auspice-auspice-2",
@@ -7736,7 +7736,7 @@
       "root": "auspicious",
       "meaning": "",
       "descriptionCn": "\u5409\u5146\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "auspicious",
@@ -7763,7 +7763,7 @@
       "root": "authentic",
       "meaning": "",
       "descriptionCn": "\u53ef\u4fe1\u7684\uff1b\u6743\u5a01\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "authentic-authentic-2",
@@ -7791,7 +7791,7 @@
       "root": "author",
       "meaning": "",
       "descriptionCn": "\u521b\u9020\u8005\uff1b\u4f5c\u8005",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "author-author-2",
@@ -7819,7 +7819,7 @@
       "root": "authority",
       "meaning": "",
       "descriptionCn": "\u6743\u5a01\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "authority-authority-2",
@@ -7847,7 +7847,7 @@
       "root": "authorize",
       "meaning": "",
       "descriptionCn": "\u6388\u6743\uff1b\u59d4\u6258",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "authorize-authorize-2",
@@ -7875,7 +7875,7 @@
       "root": "auto=aut",
       "meaning": "self",
       "descriptionCn": "\u81ea\u5df1",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "autobiography",
@@ -7926,7 +7926,7 @@
       "root": "autoalarm",
       "meaning": "",
       "descriptionCn": "\u81ea\u52a8\u62a5\u8b66\u5668",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "autoalarm-autoalarm-2",
@@ -7953,7 +7953,7 @@
       "root": "autobiography",
       "meaning": "",
       "descriptionCn": "\u81ea\u4f20\u4f5c\u8005",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "autobiography-autobiography-2",
@@ -7980,7 +7980,7 @@
       "root": "autocide",
       "meaning": "",
       "descriptionCn": "\u81ea\u6740",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "autocide-autocide-2",
@@ -8007,7 +8007,7 @@
       "root": "automatic",
       "meaning": "",
       "descriptionCn": "\u81ea\u52a8\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "autoalarm",
@@ -8070,7 +8070,7 @@
       "root": "autoscope",
       "meaning": "",
       "descriptionCn": "\u81ea\u68c0\u5668",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "autoscope-autoscope-2",
@@ -8097,7 +8097,7 @@
       "root": "autoxidation",
       "meaning": "",
       "descriptionCn": "\u81ea\u7136\u6c27\u5316",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "autoxidation-autoxidation-2",
@@ -8124,7 +8124,7 @@
       "root": "avarice",
       "meaning": "",
       "descriptionCn": "\u8d2a\u5a6a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "avarice-avarice-2",
@@ -8151,7 +8151,7 @@
       "root": "avaricious",
       "meaning": "",
       "descriptionCn": "\u8d2a\u5a6a\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "avaricious",
@@ -8178,7 +8178,7 @@
       "root": "avenue",
       "meaning": "",
       "descriptionCn": "\u6797\u836b\u9053\uff1b\u65b9\u6cd5\u9014\u5f84",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "avenue",
@@ -8206,7 +8206,7 @@
       "root": "aver",
       "meaning": "",
       "descriptionCn": "\u58f0\u79f0\uff1b\u65ad\u8a00",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aver-aver-2",
@@ -8234,7 +8234,7 @@
       "root": "avi=av=avar=bird",
       "meaning": "bird/avid/avarice",
       "descriptionCn": "\u9e1f\uff1b\u6e34\u671b\uff1b\u8d2a\u5a6a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "augur",
@@ -8321,7 +8321,7 @@
       "root": "avian",
       "meaning": "",
       "descriptionCn": "\u9e1f\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "avian-avian-2",
@@ -8348,7 +8348,7 @@
       "root": "aviarist",
       "meaning": "",
       "descriptionCn": "\u98de\u79bd\u9972\u517b\u5bb6",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aviarist",
@@ -8375,7 +8375,7 @@
       "root": "aviary",
       "meaning": "",
       "descriptionCn": "\u9e1f\u820d",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aviary",
@@ -8402,7 +8402,7 @@
       "root": "aviate",
       "meaning": "",
       "descriptionCn": "\u98de\u884c",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "aviate-aviate-2",
@@ -8429,7 +8429,7 @@
       "root": "avid",
       "meaning": "",
       "descriptionCn": "\u6e34\u671b\u7684\uff1b\u8d2a\u5a6a\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "avid-avid-2",
@@ -8456,7 +8456,7 @@
       "root": "avidity",
       "meaning": "",
       "descriptionCn": "\u8d2a\u5a6a",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "avidity",
@@ -8483,7 +8483,7 @@
       "root": "avow",
       "meaning": "",
       "descriptionCn": "\u516c\u5f00\u58f0\u660e",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "avow",

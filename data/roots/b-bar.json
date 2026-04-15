@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "rootId": "b-bar",
+  "root": "bar\u6728\u6761",
+  "meaning": "wood",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-bar-barber",
+      "word": "barber",
+      "display": "Barber",
+      "phonetic": "",
+      "translation": "\u7406\u53d1\u5e08\uff08\u6728\u5934=\u68b3\u5b50\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bargain",
+      "word": "bargain",
+      "display": "Bargain",
+      "phonetic": "",
+      "translation": "\u5408\u540c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-barrel",
+      "word": "barrel",
+      "display": "Barrel",
+      "phonetic": "",
+      "translation": "\u6876\uff1b\u67aa\u7ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-barrier",
+      "word": "barrier",
+      "display": "Barrier",
+      "phonetic": "",
+      "translation": "\u6805\u680f\uff1b\u5c4f\u969c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-basic",
+      "word": "basic",
+      "display": "Basic",
+      "phonetic": "",
+      "translation": "\u57fa\u672c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bloom",
+      "word": "bloom",
+      "display": "Bloom",
+      "phonetic": "",
+      "translation": "\u5f00\u82b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-blossom",
+      "word": "blossom",
+      "display": "Blossom",
+      "phonetic": "",
+      "translation": "\u7e41\u8363\uff1b\u9752\u6625",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-blouse",
+      "word": "blouse",
+      "display": "Blouse",
+      "phonetic": "",
+      "translation": "\u5973\u886c\u8863",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bolt",
+      "word": "bolt",
+      "display": "Bolt",
+      "phonetic": "",
+      "translation": "\u63d2\u9500\uff1b\u87ba\u6813",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-boost",
+      "word": "boost",
+      "display": "Boost",
+      "phonetic": "",
+      "translation": "\u63d0\u5347",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-booth",
+      "word": "booth",
+      "display": "Booth",
+      "phonetic": "",
+      "translation": "\u7535\u8bdd\u4ead\uff1b\u8d27\u644a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-borrow",
+      "word": "borrow",
+      "display": "Borrow",
+      "phonetic": "",
+      "translation": "\u501f\uff0c\u6284\u88ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-brace",
+      "word": "brace",
+      "display": "Brace",
+      "phonetic": "",
+      "translation": "\u652f\u6491\uff1b\u6258\u67b6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bracket",
+      "word": "bracket",
+      "display": "Bracket",
+      "phonetic": "",
+      "translation": "\u62ec\u53f7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-branch",
+      "word": "branch",
+      "display": "Branch",
+      "phonetic": "",
+      "translation": "\u6811\u6761\uff1b\u5206\u652f\uff1b\u90e8\u95e8\uff1b\u4ea4\u6d41",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-brisk",
+      "word": "brisk",
+      "display": "Brisk",
+      "phonetic": "",
+      "translation": "\u751f\u673a\u52c3\u52c3\u7684\uff1b\u8f7b\u5feb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-broom",
+      "word": "broom",
+      "display": "Broom",
+      "phonetic": "",
+      "translation": "\u626b\u5e1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bruise",
+      "word": "bruise",
+      "display": "Bruise",
+      "phonetic": "",
+      "translation": "\u4f24\u75d5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-brush",
+      "word": "brush",
+      "display": "Brush",
+      "phonetic": "",
+      "translation": "\u5237\u5b50\uff1b\u753b\u7b14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bruta",
+      "word": "bruta",
+      "display": "Bruta",
+      "phonetic": "",
+      "translation": "\u6b8b\u5fcd\u7684\uff1b\u4e25\u5cfb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bucket",
+      "word": "bucket",
+      "display": "Bucket",
+      "phonetic": "",
+      "translation": "\u6c34\u6876",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-bulletin",
+      "word": "bulletin",
+      "display": "Bulletin",
+      "phonetic": "",
+      "translation": "\u516c\u544a\uff1b\u544a\u793a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-burden",
+      "word": "burden",
+      "display": "Burden",
+      "phonetic": "",
+      "translation": "\u8d1f\u62c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bar-embar",
+      "word": "embar",
+      "display": "Embar",
+      "phonetic": "",
+      "translation": "\u56da\u7981",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-bar",
+  "type": "root",
+  "notes": ""
+}

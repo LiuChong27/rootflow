@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "c-prefix",
+  "root": "C\u524d\u7f00",
+  "meaning": "prefix",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-prefix",
+  "type": "root",
+  "notes": ""
+}

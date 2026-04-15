@@ -1,0 +1,4872 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-s",
+  "rootIds": [
+    "s",
+    "s-adj",
+    "s-expand",
+    "s-form",
+    "s-mind",
+    "s-n",
+    "s-other1",
+    "s-other2",
+    "s-root",
+    "s-sacr",
+    "s-safe",
+    "s-sc",
+    "s-scend",
+    "s-sea",
+    "s-sec",
+    "s-set",
+    "s-she",
+    "s-short",
+    "s-sid",
+    "s-sign",
+    "s-simil",
+    "s-simple",
+    "s-sir",
+    "s-sist",
+    "s-ski",
+    "s-snap",
+    "s-social",
+    "s-solar",
+    "s-sole",
+    "s-son",
+    "s-soph",
+    "s-sp",
+    "s-space",
+    "s-special",
+    "s-spect",
+    "s-stell",
+    "s-study",
+    "s-sub",
+    "s-suffer",
+    "s-suit",
+    "s-sum",
+    "s-supply",
+    "s-sur",
+    "s-sus",
+    "s-system",
+    "s-v"
+  ],
+  "roots": {
+    "s": {
+      "version": 1,
+      "rootId": "s",
+      "root": "S",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "s",
+      "type": "root",
+      "notes": "\u6839\u636eS.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "s-adj": {
+      "version": 1,
+      "rootId": "s-adj",
+      "root": "adj",
+      "meaning": "adjective",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-adj",
+      "type": "root",
+      "notes": ""
+    },
+    "s-expand": {
+      "version": 1,
+      "rootId": "s-expand",
+      "root": "\u5c55\u5f00",
+      "meaning": "expand",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-expand-spray",
+          "word": "spray",
+          "display": "Spray",
+          "phonetic": "",
+          "translation": "\u55b7\u96fe\uff1b\u98de\u6cab\uff1b\u6c34\u82b1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-spread",
+          "word": "spread",
+          "display": "Spread",
+          "phonetic": "",
+          "translation": "\u4f38\u5c55\uff1b\u4f20\u64ad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-spring",
+          "word": "spring",
+          "display": "Spring",
+          "phonetic": "",
+          "translation": "\u6625\uff1b\u5f39\u7c27",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-sprinkle",
+          "word": "sprinkle",
+          "display": "Sprinkle",
+          "phonetic": "",
+          "translation": "\u55b7\u6d12",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-sprout",
+          "word": "sprout",
+          "display": "Sprout",
+          "phonetic": "",
+          "translation": "\u53d1\u82bd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-spur",
+          "word": "spur",
+          "display": "Spur",
+          "phonetic": "",
+          "translation": "\u97ad\u7b56\uff1b\u523a\u6fc0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-stretch",
+          "word": "stretch",
+          "display": "Stretch",
+          "phonetic": "",
+          "translation": "\u4f38\u5c55",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-string",
+          "word": "string",
+          "display": "String",
+          "phonetic": "",
+          "translation": "\u7ef3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-strip",
+          "word": "strip",
+          "display": "Strip",
+          "phonetic": "",
+          "translation": "\u6761\u7eb9\uff1b\u5265\u53bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-stripe",
+          "word": "stripe",
+          "display": "Stripe",
+          "phonetic": "",
+          "translation": "\u6761\u7eb9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-expand-stroll",
+          "word": "stroll",
+          "display": "Stroll",
+          "phonetic": "",
+          "translation": "\u6f2b\u6b65\uff1b\u6563\u6b65",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-expand",
+      "type": "root",
+      "notes": ""
+    },
+    "s-form": {
+      "version": 1,
+      "rootId": "s-form",
+      "root": "\u5f62\u6001",
+      "meaning": "form",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-form-scar",
+          "word": "scar",
+          "display": "Scar",
+          "phonetic": "",
+          "translation": "\u4f24\u75a4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-scent",
+          "word": "scent",
+          "display": "Scent",
+          "phonetic": "",
+          "translation": "\u9999\u6c34",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-shoulder",
+          "word": "shoulder",
+          "display": "Shoulder",
+          "phonetic": "",
+          "translation": "\u80a9\u8180",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-shrug",
+          "word": "shrug",
+          "display": "Shrug",
+          "phonetic": "",
+          "translation": "\u8038\u80a9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-sketch",
+          "word": "sketch",
+          "display": "Sketch",
+          "phonetic": "",
+          "translation": "\u7d20\u63cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-sleeve",
+          "word": "sleeve",
+          "display": "Sleeve",
+          "phonetic": "",
+          "translation": "\u8896\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-slender",
+          "word": "slender",
+          "display": "Slender",
+          "phonetic": "",
+          "translation": "\u4fee\u957f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-slim",
+          "word": "slim",
+          "display": "Slim",
+          "phonetic": "",
+          "translation": "\u82d7\u6761\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-smooth",
+          "word": "smooth",
+          "display": "Smooth",
+          "phonetic": "",
+          "translation": "\u5149\u6ed1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-sniff",
+          "word": "sniff",
+          "display": "Sniff",
+          "phonetic": "",
+          "translation": "\u95fb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-snuggle",
+          "word": "snuggle",
+          "display": "Snuggle",
+          "phonetic": "",
+          "translation": "\u4f9d\u504e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-sock",
+          "word": "sock",
+          "display": "Sock",
+          "phonetic": "",
+          "translation": "\u77ed\u889c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-suit",
+          "word": "suit",
+          "display": "Suit",
+          "phonetic": "",
+          "translation": "\u5957\u88c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-sweater",
+          "word": "sweater",
+          "display": "Sweater",
+          "phonetic": "",
+          "translation": "\u6bdb\u8863",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-sword",
+          "word": "sword",
+          "display": "Sword",
+          "phonetic": "",
+          "translation": "\u5251",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-tail",
+          "word": "tail",
+          "display": "Tail",
+          "phonetic": "",
+          "translation": "\u5c3e\u5df4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-tap",
+          "word": "tap",
+          "display": "Tap",
+          "phonetic": "",
+          "translation": "\u8f7b\u62cd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-tip",
+          "word": "tip",
+          "display": "Tip",
+          "phonetic": "",
+          "translation": "\u5c16\u7aef",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-toe",
+          "word": "toe",
+          "display": "Toe",
+          "phonetic": "",
+          "translation": "\u811a\u8dbe",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-tongue",
+          "word": "tongue",
+          "display": "Tongue",
+          "phonetic": "",
+          "translation": "\u820c\u5934",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-tooth",
+          "word": "tooth",
+          "display": "Tooth",
+          "phonetic": "",
+          "translation": "\u7259\u9f7f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-top",
+          "word": "top",
+          "display": "Top",
+          "phonetic": "",
+          "translation": "\u9876\u90e8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-trunk",
+          "word": "trunk",
+          "display": "Trunk",
+          "phonetic": "",
+          "translation": "\u6811\u5e72",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-wool",
+          "word": "wool",
+          "display": "Wool",
+          "phonetic": "",
+          "translation": "\u7f8a\u6bdb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-wrinkle",
+          "word": "wrinkle",
+          "display": "Wrinkle",
+          "phonetic": "",
+          "translation": "\u76b1\u7eb9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-wrist",
+          "word": "wrist",
+          "display": "Wrist",
+          "phonetic": "",
+          "translation": "\u624b\u8155",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-zigzag",
+          "word": "zigzag",
+          "display": "Zigzag",
+          "phonetic": "",
+          "translation": "\u952f\u9f7f\u5f62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-form-zip",
+          "word": "zip",
+          "display": "Zip",
+          "phonetic": "",
+          "translation": "\u62c9\u94fe",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-form",
+      "type": "root",
+      "notes": ""
+    },
+    "s-mind": {
+      "version": 1,
+      "rootId": "s-mind",
+      "root": "\u795e\u5fd7",
+      "meaning": "mind",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-mind-sat",
+          "word": "sat",
+          "display": "Sat",
+          "phonetic": "",
+          "translation": "\u6ee1\u8db3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-satis",
+          "word": "satis",
+          "display": "Satis",
+          "phonetic": "",
+          "translation": "\u6ee1\u8db3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-satisfy",
+          "word": "satisfy",
+          "display": "Satisfy",
+          "phonetic": "",
+          "translation": "\u6ee1\u610f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-satur",
+          "word": "satur",
+          "display": "Satur",
+          "phonetic": "",
+          "translation": "\u6ee1\u8db3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-saturate",
+          "word": "saturate",
+          "display": "Saturate",
+          "phonetic": "",
+          "translation": "\u6d78\u900f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sens",
+          "word": "sens",
+          "display": "Sens",
+          "phonetic": "",
+          "translation": "\u611f\u89c9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sense",
+          "word": "sense",
+          "display": "Sense",
+          "phonetic": "",
+          "translation": "\u611f\u89c9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sensible",
+          "word": "sensible",
+          "display": "Sensible",
+          "phonetic": "",
+          "translation": "\u660e\u667a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sensitive",
+          "word": "sensitive",
+          "display": "Sensitive",
+          "phonetic": "",
+          "translation": "\u654f\u611f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sent",
+          "word": "sent",
+          "display": "Sent",
+          "phonetic": "",
+          "translation": "\u611f\u89c9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sentiment",
+          "word": "sentiment",
+          "display": "Sentiment",
+          "phonetic": "",
+          "translation": "\u611f\u60c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-servant",
+          "word": "servant",
+          "display": "Servant",
+          "phonetic": "",
+          "translation": "\u4ec6\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-serve",
+          "word": "serve",
+          "display": "Serve",
+          "phonetic": "",
+          "translation": "\u670d\u52a1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-service",
+          "word": "service",
+          "display": "Service",
+          "phonetic": "",
+          "translation": "\u670d\u52a1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sore",
+          "word": "sore",
+          "display": "Sore",
+          "phonetic": "",
+          "translation": "\u75bc\u75db\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sorrow",
+          "word": "sorrow",
+          "display": "Sorrow",
+          "phonetic": "",
+          "translation": "\u60b2\u75db",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-mind-sorry",
+          "word": "sorry",
+          "display": "Sorry",
+          "phonetic": "",
+          "translation": "\u96be\u8fc7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-mind",
+      "type": "root",
+      "notes": ""
+    },
+    "s-n": {
+      "version": 1,
+      "rootId": "s-n",
+      "root": "n",
+      "meaning": "noun",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-n",
+      "type": "root",
+      "notes": ""
+    },
+    "s-other1": {
+      "version": 1,
+      "rootId": "s-other1",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-other1-sane",
+          "word": "sane",
+          "display": "Sane",
+          "phonetic": "",
+          "translation": "\u660e\u667a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-sarcastic",
+          "word": "sarcastic",
+          "display": "Sarcastic",
+          "phonetic": "",
+          "translation": "\u8bbd\u523a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-satire",
+          "word": "satire",
+          "display": "Satire",
+          "phonetic": "",
+          "translation": "\u8bbd\u523a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-scarce",
+          "word": "scarce",
+          "display": "Scarce",
+          "phonetic": "",
+          "translation": "\u7f3a\u4e4f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-scarcely",
+          "word": "scarcely",
+          "display": "Scarcely",
+          "phonetic": "",
+          "translation": "\u51e0\u4e4e\u4e0d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-scare",
+          "word": "scare",
+          "display": "Scare",
+          "phonetic": "",
+          "translation": "\u5bb3\u6015",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-scold",
+          "word": "scold",
+          "display": "Scold",
+          "phonetic": "",
+          "translation": "\u8d23\u9a82",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-scorn",
+          "word": "scorn",
+          "display": "Scorn",
+          "phonetic": "",
+          "translation": "\u8511\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-serious",
+          "word": "serious",
+          "display": "Serious",
+          "phonetic": "",
+          "translation": "\u4e25\u8083\u7684\uff1b\u8ba4\u771f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-shrewd",
+          "word": "shrewd",
+          "display": "Shrewd",
+          "phonetic": "",
+          "translation": "\u673a\u7075\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-sick",
+          "word": "sick",
+          "display": "Sick",
+          "phonetic": "",
+          "translation": "\u6709\u75c5\u7684\uff1b\u6076\u5fc3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-sigh",
+          "word": "sigh",
+          "display": "Sigh",
+          "phonetic": "",
+          "translation": "\u53f9\u606f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-silence",
+          "word": "silence",
+          "display": "Silence",
+          "phonetic": "",
+          "translation": "\u6c89\u9ed8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-silent",
+          "word": "silent",
+          "display": "Silent",
+          "phonetic": "",
+          "translation": "\u6c89\u9ed8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-silly",
+          "word": "silly",
+          "display": "Silly",
+          "phonetic": "",
+          "translation": "\u50bb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-sincere",
+          "word": "sincere",
+          "display": "Sincere",
+          "phonetic": "",
+          "translation": "\u8bda\u6073\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-slack",
+          "word": "slack",
+          "display": "Slack",
+          "phonetic": "",
+          "translation": "\u61c8\u6020\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-sly",
+          "word": "sly",
+          "display": "Sly",
+          "phonetic": "",
+          "translation": "\u72e1\u733e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-smart",
+          "word": "smart",
+          "display": "Smart",
+          "phonetic": "",
+          "translation": "\u806a\u660e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-sniff",
+          "word": "sniff",
+          "display": "Sniff",
+          "phonetic": "",
+          "translation": "\u8511\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-soul",
+          "word": "soul",
+          "display": "Soul",
+          "phonetic": "",
+          "translation": "\u7075\u9b42\uff1b\u7cbe\u795e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-other1-sour",
+          "word": "sour",
+          "display": "Sour",
+          "phonetic": "",
+          "translation": "\u9178\u7684\uff1b\u5c16\u9178\u523b\u8584\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-other1",
+      "type": "root",
+      "notes": ""
+    },
+    "s-other2": {
+      "version": 1,
+      "rootId": "s-other2",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-other2",
+      "type": "root",
+      "notes": ""
+    },
+    "s-root": {
+      "version": 1,
+      "rootId": "s-root",
+      "root": "\u6839\u6e90 \u76f4\u7684 \u6233\u523a \u9759\u6b62\u7684\u4e1c\u897f \u5f3a\u786c\u7684\u4e1c\u897f",
+      "meaning": "root, straight, stab, stationary, strong",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-root-spear",
+          "word": "spear",
+          "display": "Spear",
+          "phonetic": "",
+          "translation": "\u77db\uff1b\u67aa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stab",
+          "word": "stab",
+          "display": "Stab",
+          "phonetic": "",
+          "translation": "\u523a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stability",
+          "word": "stability",
+          "display": "Stability",
+          "phonetic": "",
+          "translation": "\u7a33\u5b9a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stable",
+          "word": "stable",
+          "display": "Stable",
+          "phonetic": "",
+          "translation": "\u7a33\u5b9a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stadium",
+          "word": "stadium",
+          "display": "Stadium",
+          "phonetic": "",
+          "translation": "\u4f53\u80b2\u9986",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-staff",
+          "word": "staff",
+          "display": "Staff",
+          "phonetic": "",
+          "translation": "\u804c\u5de5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stage",
+          "word": "stage",
+          "display": "Stage",
+          "phonetic": "",
+          "translation": "\u821e\u53f0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stagger",
+          "word": "stagger",
+          "display": "Stagger",
+          "phonetic": "",
+          "translation": "\u8e52\u8dda",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stain",
+          "word": "stain",
+          "display": "Stain",
+          "phonetic": "",
+          "translation": "\u6c61\u70b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stair",
+          "word": "stair",
+          "display": "Stair",
+          "phonetic": "",
+          "translation": "\u697c\u68af",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-staircase",
+          "word": "staircase",
+          "display": "Staircase",
+          "phonetic": "",
+          "translation": "\u697c\u68af",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stake",
+          "word": "stake",
+          "display": "Stake",
+          "phonetic": "",
+          "translation": "\u8d4c\u6ce8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stale",
+          "word": "stale",
+          "display": "Stale",
+          "phonetic": "",
+          "translation": "\u53d8\u8d28\u7684\uff1b\u9648\u65e7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stall",
+          "word": "stall",
+          "display": "Stall",
+          "phonetic": "",
+          "translation": "\u8d27\u644a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stamp",
+          "word": "stamp",
+          "display": "Stamp",
+          "phonetic": "",
+          "translation": "\u90ae\u7968\uff1b\u6807\u5fd7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-staple",
+          "word": "staple",
+          "display": "Staple",
+          "phonetic": "",
+          "translation": "\u4e3b\u8981\u4ea7\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-steam",
+          "word": "steam",
+          "display": "Steam",
+          "phonetic": "",
+          "translation": "\u84b8\u6c7d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-steamer",
+          "word": "steamer",
+          "display": "Steamer",
+          "phonetic": "",
+          "translation": "\u8f6e\u8239",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stem",
+          "word": "stem",
+          "display": "Stem",
+          "phonetic": "",
+          "translation": "\u8d77\u6e90\u4e8e\uff1b\u6839\u830e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-step",
+          "word": "step",
+          "display": "Step",
+          "phonetic": "",
+          "translation": "\u53f0\u9636\uff1b\u697c\u68af",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stick",
+          "word": "stick",
+          "display": "Stick",
+          "phonetic": "",
+          "translation": "\u68cd\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stimulate",
+          "word": "stimulate",
+          "display": "Stimulate",
+          "phonetic": "",
+          "translation": "\u523a\u6fc0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-sting",
+          "word": "sting",
+          "display": "Sting",
+          "phonetic": "",
+          "translation": "\u523a\u75db",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stir",
+          "word": "stir",
+          "display": "Stir",
+          "phonetic": "",
+          "translation": "\u6405\u62cc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stitch",
+          "word": "stitch",
+          "display": "Stitch",
+          "phonetic": "",
+          "translation": "\u4e00\u9488",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stone",
+          "word": "stone",
+          "display": "Stone",
+          "phonetic": "",
+          "translation": "\u77f3\u5934",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stool",
+          "word": "stool",
+          "display": "Stool",
+          "phonetic": "",
+          "translation": "\u51f3\u5b50\uff1b\u5927\u4fbf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-store",
+          "word": "store",
+          "display": "Store",
+          "phonetic": "",
+          "translation": "\u5546\u5e97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-storey",
+          "word": "storey",
+          "display": "Storey",
+          "phonetic": "",
+          "translation": "\u697c\u5c42\uff08\u767e\u8d27\u5927\u697c\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-storm",
+          "word": "storm",
+          "display": "Storm",
+          "phonetic": "",
+          "translation": "\u66b4\u98ce\u96ea",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stove",
+          "word": "stove",
+          "display": "Stove",
+          "phonetic": "",
+          "translation": "\u706b\u7089",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-straight",
+          "word": "straight",
+          "display": "Straight",
+          "phonetic": "",
+          "translation": "\u76f4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-straightforward",
+          "word": "straightforward",
+          "display": "Straightforward",
+          "phonetic": "",
+          "translation": "\u6b63\u76f4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strain",
+          "word": "strain",
+          "display": "Strain",
+          "phonetic": "",
+          "translation": "\u62c9\u7d27",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strange",
+          "word": "strange",
+          "display": "Strange",
+          "phonetic": "",
+          "translation": "\u5947\u602a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stranger",
+          "word": "stranger",
+          "display": "Stranger",
+          "phonetic": "",
+          "translation": "\u964c\u751f\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strap",
+          "word": "strap",
+          "display": "Strap",
+          "phonetic": "",
+          "translation": "\u76ae\u5e26",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strategy",
+          "word": "strategy",
+          "display": "Strategy",
+          "phonetic": "",
+          "translation": "\u6218\u7565\uff1b\u653f\u7b56",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-straw",
+          "word": "straw",
+          "display": "Straw",
+          "phonetic": "",
+          "translation": "\u7a3b\u8349",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strawberry",
+          "word": "strawberry",
+          "display": "Strawberry",
+          "phonetic": "",
+          "translation": "\u8349\u8393",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stream",
+          "word": "stream",
+          "display": "Stream",
+          "phonetic": "",
+          "translation": "\u6eaa\u6d41",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-streamline",
+          "word": "streamline",
+          "display": "Streamline",
+          "phonetic": "",
+          "translation": "\u6d41\u7ebf\u578b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-street",
+          "word": "street",
+          "display": "Street",
+          "phonetic": "",
+          "translation": "\u8857\u9053",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strength",
+          "word": "strength",
+          "display": "Strength",
+          "phonetic": "",
+          "translation": "\u529b\u91cf\uff1b\u4f18\u70b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strengthen",
+          "word": "strengthen",
+          "display": "Strengthen",
+          "phonetic": "",
+          "translation": "\u52a0\u5f3a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strenuous",
+          "word": "strenuous",
+          "display": "Strenuous",
+          "phonetic": "",
+          "translation": "\u8d39\u529b\u5730\uff1b\u8270\u8f9b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stress",
+          "word": "stress",
+          "display": "Stress",
+          "phonetic": "",
+          "translation": "\u538b\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strict",
+          "word": "strict",
+          "display": "Strict",
+          "phonetic": "",
+          "translation": "\u4e25\u683c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strife",
+          "word": "strife",
+          "display": "Strife",
+          "phonetic": "",
+          "translation": "\u4e89\u5435",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strike",
+          "word": "strike",
+          "display": "Strike",
+          "phonetic": "",
+          "translation": "\u653b\u51fb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-striking",
+          "word": "striking",
+          "display": "Striking",
+          "phonetic": "",
+          "translation": "\u663e\u8457\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-strive",
+          "word": "strive",
+          "display": "Strive",
+          "phonetic": "",
+          "translation": "\u594b\u6597",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stroke",
+          "word": "stroke",
+          "display": "Stroke",
+          "phonetic": "",
+          "translation": "\u629a\u6478",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-structure",
+          "word": "structure",
+          "display": "Structure",
+          "phonetic": "",
+          "translation": "\u7ed3\u6784\uff1b\u6784\u9020",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-struggle",
+          "word": "struggle",
+          "display": "Struggle",
+          "phonetic": "",
+          "translation": "\u6597\u4e89\uff1b\u594b\u6597",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stubborn",
+          "word": "stubborn",
+          "display": "Stubborn",
+          "phonetic": "",
+          "translation": "\u987d\u56fa\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stuff",
+          "word": "stuff",
+          "display": "Stuff",
+          "phonetic": "",
+          "translation": "\u539f\u6599\uff1b\u6750\u6599",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-stumble",
+          "word": "stumble",
+          "display": "Stumble",
+          "phonetic": "",
+          "translation": "\u7eca\u5012",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-sturdy",
+          "word": "sturdy",
+          "display": "Sturdy",
+          "phonetic": "",
+          "translation": "\u575a\u5b9a\u7684\uff1b\u5f3a\u5065\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-root-style",
+          "word": "style",
+          "display": "Style",
+          "phonetic": "",
+          "translation": "\u98ce\u683c\uff1b\u7c7b\u578b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-root",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sacr": {
+      "version": 1,
+      "rootId": "s-sacr",
+      "root": "sacr=sanct secre\u795e\u5723\u7684",
+      "meaning": "sacred",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sacr",
+      "type": "root",
+      "notes": ""
+    },
+    "s-safe": {
+      "version": 1,
+      "rootId": "s-safe",
+      "root": "safe\u5b89\u5168\u7684",
+      "meaning": "safe",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-safe",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sc": {
+      "version": 1,
+      "rootId": "s-sc",
+      "root": "s=c",
+      "meaning": "s=c",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sc-scissors",
+          "word": "scissors",
+          "display": "Scissors",
+          "phonetic": "",
+          "translation": "\u526a\u5200",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-sculpture",
+          "word": "sculpture",
+          "display": "Sculpture",
+          "phonetic": "",
+          "translation": "\u96d5\u523b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-seam",
+          "word": "seam",
+          "display": "Seam",
+          "phonetic": "",
+          "translation": "\u63a5\u7f1d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-sect",
+          "word": "sect",
+          "display": "Sect",
+          "phonetic": "",
+          "translation": "\u5207\u5272",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-segment",
+          "word": "segment",
+          "display": "Segment",
+          "phonetic": "",
+          "translation": "\u7247\u6bb5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-segregate",
+          "word": "segregate",
+          "display": "Segregate",
+          "phonetic": "",
+          "translation": "\u9694\u79bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-semiconductor",
+          "word": "semiconductor",
+          "display": "Semiconductor",
+          "phonetic": "",
+          "translation": "\u534a\u5bfc\u4f53",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-serial",
+          "word": "serial",
+          "display": "Serial",
+          "phonetic": "",
+          "translation": "\u8fde\u7eed\u5267",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-session",
+          "word": "session",
+          "display": "Session",
+          "phonetic": "",
+          "translation": "\u4f1a\u8bae",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-sew",
+          "word": "sew",
+          "display": "Sew",
+          "phonetic": "",
+          "translation": "\u7f1d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-sharp",
+          "word": "sharp",
+          "display": "Sharp",
+          "phonetic": "",
+          "translation": "\u950b\u5229\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-shatter",
+          "word": "shatter",
+          "display": "Shatter",
+          "phonetic": "",
+          "translation": "\u788e\u7247",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-shave",
+          "word": "shave",
+          "display": "Shave",
+          "phonetic": "",
+          "translation": "\u68af\uff1b\u522e\u8138",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-shear",
+          "word": "shear",
+          "display": "Shear",
+          "phonetic": "",
+          "translation": "\u4fee\u526a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sc-shed",
+          "word": "shed",
+          "display": "Shed",
+          "phonetic": "",
+          "translation": "\u53d1\u6563\uff1b\u8131\u843d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sc",
+      "type": "root",
+      "notes": ""
+    },
+    "s-scend": {
+      "version": 1,
+      "rootId": "s-scend",
+      "root": "scend=scens=climb\u722c",
+      "meaning": "climb",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-scend-scramble",
+          "word": "scramble",
+          "display": "Scramble",
+          "phonetic": "",
+          "translation": "\u6500\u767b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-scrap",
+          "word": "scrap",
+          "display": "Scrap",
+          "phonetic": "",
+          "translation": "\u788e\u7247\uff1b\u5e9f\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-scrape",
+          "word": "scrape",
+          "display": "Scrape",
+          "phonetic": "",
+          "translation": "\u64e6\u75d5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-scratch",
+          "word": "scratch",
+          "display": "Scratch",
+          "phonetic": "",
+          "translation": "\u6293\u75d5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-scream",
+          "word": "scream",
+          "display": "Scream",
+          "phonetic": "",
+          "translation": "\u5c16\u53eb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-slaughter",
+          "word": "slaughter",
+          "display": "Slaughter",
+          "phonetic": "",
+          "translation": "\u5c60\u6740",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-slice",
+          "word": "slice",
+          "display": "Slice",
+          "phonetic": "",
+          "translation": "\u5207\u7247",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-slide",
+          "word": "slide",
+          "display": "Slide",
+          "phonetic": "",
+          "translation": "\u6ed1\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-slip",
+          "word": "slip",
+          "display": "Slip",
+          "phonetic": "",
+          "translation": "\u6ed1\u5012",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-slipper",
+          "word": "slipper",
+          "display": "Slipper",
+          "phonetic": "",
+          "translation": "\u62d6\u978b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-slippery",
+          "word": "slippery",
+          "display": "Slippery",
+          "phonetic": "",
+          "translation": "\u6ed1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-scend-slit",
+          "word": "slit",
+          "display": "Slit",
+          "phonetic": "",
+          "translation": "\u88c2\u7f1d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-scend",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sea": {
+      "version": 1,
+      "rootId": "s-sea",
+      "root": "\u6d77\u6d0b",
+      "meaning": "sea",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sea-sail",
+          "word": "sail",
+          "display": "Sail",
+          "phonetic": "",
+          "translation": "\u822a\u884c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sailor",
+          "word": "sailor",
+          "display": "Sailor",
+          "phonetic": "",
+          "translation": "\u6c34\u624b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-salad",
+          "word": "salad",
+          "display": "Salad",
+          "phonetic": "",
+          "translation": "\u6c99\u62c9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-salary",
+          "word": "salary",
+          "display": "Salary",
+          "phonetic": "",
+          "translation": "\u85aa\u6c34",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sale",
+          "word": "sale",
+          "display": "Sale",
+          "phonetic": "",
+          "translation": "\u51fa\u552e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-salesman",
+          "word": "salesman",
+          "display": "Salesman",
+          "phonetic": "",
+          "translation": "\u552e\u8d27\u5458",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-salt",
+          "word": "salt",
+          "display": "Salt",
+          "phonetic": "",
+          "translation": "\u76d0=\u94b1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sand",
+          "word": "sand",
+          "display": "Sand",
+          "phonetic": "",
+          "translation": "\u6c99\u6ee9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sandwich",
+          "word": "sandwich",
+          "display": "Sandwich",
+          "phonetic": "",
+          "translation": "\u4e09\u660e\u6cbb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sauce",
+          "word": "sauce",
+          "display": "Sauce",
+          "phonetic": "",
+          "translation": "\u9171\u6c41",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-saucer",
+          "word": "saucer",
+          "display": "Saucer",
+          "phonetic": "",
+          "translation": "\u789f\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sausage",
+          "word": "sausage",
+          "display": "Sausage",
+          "phonetic": "",
+          "translation": "\u9999\u80a0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-scatter",
+          "word": "scatter",
+          "display": "Scatter",
+          "phonetic": "",
+          "translation": "\u6563\u5f00",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sea",
+          "word": "sea",
+          "display": "Sea",
+          "phonetic": "",
+          "translation": "\u6d77\u6d0b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-seal",
+          "word": "seal",
+          "display": "Seal",
+          "phonetic": "",
+          "translation": "\u6d77\u8c79",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-season",
+          "word": "season",
+          "display": "Season",
+          "phonetic": "",
+          "translation": "\u5b63\u8282",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-seed",
+          "word": "seed",
+          "display": "Seed",
+          "phonetic": "",
+          "translation": "\u79cd\u5b50\uff1b\u64ad\u79cd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sell",
+          "word": "sell",
+          "display": "Sell",
+          "phonetic": "",
+          "translation": "\u51fa\u552e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-shallow",
+          "word": "shallow",
+          "display": "Shallow",
+          "phonetic": "",
+          "translation": "\u6d45\u6ee9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-shampoo",
+          "word": "shampoo",
+          "display": "Shampoo",
+          "phonetic": "",
+          "translation": "\u6d17\u53d1\u818f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-shark",
+          "word": "shark",
+          "display": "Shark",
+          "phonetic": "",
+          "translation": "\u9ca8\u9c7c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-shell",
+          "word": "shell",
+          "display": "Shell",
+          "phonetic": "",
+          "translation": "\u8d1d\u58f3\uff1b\u70ae\u5f39",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-ship",
+          "word": "ship",
+          "display": "Ship",
+          "phonetic": "",
+          "translation": "\u8239",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-shipment",
+          "word": "shipment",
+          "display": "Shipment",
+          "phonetic": "",
+          "translation": "\u88c5\u8239",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-shore",
+          "word": "shore",
+          "display": "Shore",
+          "phonetic": "",
+          "translation": "\u6d77\u6ee8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sink",
+          "word": "sink",
+          "display": "Sink",
+          "phonetic": "",
+          "translation": "\u4e0b\u6c89",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-sip",
+          "word": "sip",
+          "display": "Sip",
+          "phonetic": "",
+          "translation": "\u5c0f\u53e3\u7684\u559d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-submarine",
+          "word": "submarine",
+          "display": "Submarine",
+          "phonetic": "",
+          "translation": "\u6f5c\u6c34\u8247\uff1b\u6d77\u5e95\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sea-submerge",
+          "word": "submerge",
+          "display": "Submerge",
+          "phonetic": "",
+          "translation": "\u6c89\u6ca1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sea",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sec": {
+      "version": 1,
+      "rootId": "s-sec",
+      "root": "sec=sequ\u8ddf\u968f",
+      "meaning": "follow",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sec-second",
+          "word": "second",
+          "display": "Second",
+          "phonetic": "",
+          "translation": "\u7b2c\u4e8c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sec-secondary",
+          "word": "secondary",
+          "display": "Secondary",
+          "phonetic": "",
+          "translation": "\u6b21\u8981\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sec-separate",
+          "word": "separate",
+          "display": "Separate",
+          "phonetic": "",
+          "translation": "\u5206\u79bb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sec-sequence",
+          "word": "sequence",
+          "display": "Sequence",
+          "phonetic": "",
+          "translation": "\u8fde\u7eed\uff1b\u5e8f\u5217",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sec-series",
+          "word": "series",
+          "display": "Series",
+          "phonetic": "",
+          "translation": "\u4e00\u7cfb\u5217",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sec-subordinate",
+          "word": "subordinate",
+          "display": "Subordinate",
+          "phonetic": "",
+          "translation": "\u6b21\u8981\u7684\uff1b\u4e0b\u7ea7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sec",
+      "type": "root",
+      "notes": ""
+    },
+    "s-set": {
+      "version": 1,
+      "rootId": "s-set",
+      "root": "set\u88c5\u7f6e\uff1b\u4e00\u5957",
+      "meaning": "set",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-set",
+      "type": "root",
+      "notes": ""
+    },
+    "s-she": {
+      "version": 1,
+      "rootId": "s-she",
+      "root": "\u5979--\u5bb3\u7f9e--\u9634\u5f71--\u53d1\u5149--\u907f\u96be\u6240",
+      "meaning": "she, shy, shadow, shine, shelter",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-she-shabby",
+          "word": "shabby",
+          "display": "Shabby",
+          "phonetic": "",
+          "translation": "\u7b80\u964b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shaby",
+          "word": "shaby",
+          "display": "Shaby",
+          "phonetic": "",
+          "translation": "\u6210\u836b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shade",
+          "word": "shade",
+          "display": "Shade",
+          "phonetic": "",
+          "translation": "\u9634\u5f71",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shadow",
+          "word": "shadow",
+          "display": "Shadow",
+          "phonetic": "",
+          "translation": "\u9634\u5f71",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shaft",
+          "word": "shaft",
+          "display": "Shaft",
+          "phonetic": "",
+          "translation": "\u8f74\uff1b\u6746\u72b6\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shake",
+          "word": "shake",
+          "display": "Shake",
+          "phonetic": "",
+          "translation": "\u98a4\u6296",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-sham",
+          "word": "sham",
+          "display": "Sham",
+          "phonetic": "",
+          "translation": "\u5047\u5192\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shame",
+          "word": "shame",
+          "display": "Shame",
+          "phonetic": "",
+          "translation": "\u7f9e\u803b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shed",
+          "word": "shed",
+          "display": "Shed",
+          "phonetic": "",
+          "translation": "\u5c0f\u5c4b\uff1b\u8131\u843d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-sheer",
+          "word": "sheer",
+          "display": "Sheer",
+          "phonetic": "",
+          "translation": "\u9661\u5ced\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shelter",
+          "word": "shelter",
+          "display": "Shelter",
+          "phonetic": "",
+          "translation": "\u63a9\u853d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shiver",
+          "word": "shiver",
+          "display": "Shiver",
+          "phonetic": "",
+          "translation": "\u98a4\u6296",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-she-shock",
+          "word": "shock",
+          "display": "Shock",
+          "phonetic": "",
+          "translation": "\u9707\u52a8\uff1b\u9707\u60ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-she",
+      "type": "root",
+      "notes": ""
+    },
+    "s-short": {
+      "version": 1,
+      "rootId": "s-short",
+      "root": "short\u77ed\u7684",
+      "meaning": "short",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-short-shortage",
+          "word": "shortage",
+          "display": "Shortage",
+          "phonetic": "",
+          "translation": "\u4e0d\u8db3\uff1b\u7f3a\u5c11",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-short-shortcoming",
+          "word": "shortcoming",
+          "display": "Shortcoming",
+          "phonetic": "",
+          "translation": "\u7f3a\u70b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-short-shorthand",
+          "word": "shorthand",
+          "display": "Shorthand",
+          "phonetic": "",
+          "translation": "\u901f\u8bb0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-short-shortly",
+          "word": "shortly",
+          "display": "Shortly",
+          "phonetic": "",
+          "translation": "\u7acb\u523b\uff1b\u4e0d\u4e45",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-short-shut",
+          "word": "shut",
+          "display": "Shut",
+          "phonetic": "",
+          "translation": "\u5173\u95ed",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-short-shutter",
+          "word": "shutter",
+          "display": "Shutter",
+          "phonetic": "",
+          "translation": "\u767e\u53f6\u7a97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-short-shuttle",
+          "word": "shuttle",
+          "display": "Shuttle",
+          "phonetic": "",
+          "translation": "\u7a7f\u68ad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-short-sock",
+          "word": "sock",
+          "display": "Sock",
+          "phonetic": "",
+          "translation": "\u77ed\u889c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-short",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sid": {
+      "version": 1,
+      "rootId": "s-sid",
+      "root": "sid=sit\u5750",
+      "meaning": "sit",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sid-seat",
+          "word": "seat",
+          "display": "Seat",
+          "phonetic": "",
+          "translation": "\u5ea7\u4f4d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sid-site",
+          "word": "site",
+          "display": "Site",
+          "phonetic": "",
+          "translation": "\u4f4d\u7f6e\uff1b\u573a\u6240",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sid-situated",
+          "word": "situated",
+          "display": "Situated",
+          "phonetic": "",
+          "translation": "\u5750\u843d\u5728",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sid-situation",
+          "word": "situation",
+          "display": "Situation",
+          "phonetic": "",
+          "translation": "\u4f4d\u7f6e\uff1b\u73af\u5883\uff1b\u5f62\u5f0f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sid",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sign": {
+      "version": 1,
+      "rootId": "s-sign",
+      "root": "sign\u6807\u8bb0",
+      "meaning": "sign",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sign",
+      "type": "root",
+      "notes": ""
+    },
+    "s-simil": {
+      "version": 1,
+      "rootId": "s-simil",
+      "root": "simil=simul alike\u3001same\u76f8\u540c",
+      "meaning": "same",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-simil-familiar",
+          "word": "familiar",
+          "display": "Familiar",
+          "phonetic": "",
+          "translation": "\u719f\u6089\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-simil-same",
+          "word": "same",
+          "display": "Same",
+          "phonetic": "",
+          "translation": "\u540c\u6837\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-simil-sample",
+          "word": "sample",
+          "display": "Sample",
+          "phonetic": "",
+          "translation": "\u6837\u672c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-simil-seem",
+          "word": "seem",
+          "display": "Seem",
+          "phonetic": "",
+          "translation": "\u4f3c\u4e4e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-simil-seemingly",
+          "word": "seemingly",
+          "display": "Seemingly",
+          "phonetic": "",
+          "translation": "\u8868\u9762\u4e0a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-simil-similar",
+          "word": "similar",
+          "display": "Similar",
+          "phonetic": "",
+          "translation": "\u76f8\u4f3c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-simil-simulate",
+          "word": "simulate",
+          "display": "Simulate",
+          "phonetic": "",
+          "translation": "\u6a21\u4eff",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-simil-simultaneous",
+          "word": "simultaneous",
+          "display": "Simultaneous",
+          "phonetic": "",
+          "translation": "\u540c\u65f6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-simil",
+      "type": "root",
+      "notes": ""
+    },
+    "s-simple": {
+      "version": 1,
+      "rootId": "s-simple",
+      "root": "simple\u7b80\u5355",
+      "meaning": "simple",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-simple",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sir": {
+      "version": 1,
+      "rootId": "s-sir",
+      "root": "sir\u5148\u751f",
+      "meaning": "sir",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sir",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sist": {
+      "version": 1,
+      "rootId": "s-sist",
+      "root": "sist=stand\u7ad9",
+      "meaning": "stand",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sist-assist",
+          "word": "assist",
+          "display": "Assist",
+          "phonetic": "",
+          "translation": "\u652f\u6301\uff1b\u5e2e\u52a9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-assistance",
+          "word": "assistance",
+          "display": "Assistance",
+          "phonetic": "",
+          "translation": "\u5e2e\u52a9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-assistant",
+          "word": "assistant",
+          "display": "Assistant",
+          "phonetic": "",
+          "translation": "\u52a9\u624b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-consist",
+          "word": "consist",
+          "display": "Consist",
+          "phonetic": "",
+          "translation": "\u5b58\u5728\uff1b\u7531..\u6784\u6210",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-exist",
+          "word": "exist",
+          "display": "Exist",
+          "phonetic": "",
+          "translation": "\u5b58\u5728",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-persist",
+          "word": "persist",
+          "display": "Persist",
+          "phonetic": "",
+          "translation": "\u575a\u6301",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-resist",
+          "word": "resist",
+          "display": "Resist",
+          "phonetic": "",
+          "translation": "\u53cd\u5bf9\uff1b\u62b5\u6297",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stand",
+          "word": "stand",
+          "display": "Stand",
+          "phonetic": "",
+          "translation": "\u7ad9\u7acb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-standard",
+          "word": "standard",
+          "display": "Standard",
+          "phonetic": "",
+          "translation": "\u6807\u51c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-standpoint",
+          "word": "standpoint",
+          "display": "Standpoint",
+          "phonetic": "",
+          "translation": "\u7acb\u573a\uff1b\u89c2\u70b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-start",
+          "word": "start",
+          "display": "Start",
+          "phonetic": "",
+          "translation": "\u52a8\u8eab\uff1b\u5403\u60ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-startle",
+          "word": "startle",
+          "display": "Startle",
+          "phonetic": "",
+          "translation": "\u60ca\u5413",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-starve",
+          "word": "starve",
+          "display": "Starve",
+          "phonetic": "",
+          "translation": "\u997f\u6b7b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-state",
+          "word": "state",
+          "display": "State",
+          "phonetic": "",
+          "translation": "\u72b6\u6001",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-statement",
+          "word": "statement",
+          "display": "Statement",
+          "phonetic": "",
+          "translation": "\u58f0\u660e\uff1b\u9648\u8ff0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-statesman",
+          "word": "statesman",
+          "display": "Statesman",
+          "phonetic": "",
+          "translation": "\u653f\u6cbb\u5bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-static",
+          "word": "static",
+          "display": "Static",
+          "phonetic": "",
+          "translation": "\u9759\u6001\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-station",
+          "word": "station",
+          "display": "Station",
+          "phonetic": "",
+          "translation": "\u8f66\u7ad9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stationary",
+          "word": "stationary",
+          "display": "Stationary",
+          "phonetic": "",
+          "translation": "\u9759\u6b62\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stationery",
+          "word": "stationery",
+          "display": "Stationery",
+          "phonetic": "",
+          "translation": "\u6587\u5177",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-statistical",
+          "word": "statistical",
+          "display": "Statistical",
+          "phonetic": "",
+          "translation": "\u7edf\u8ba1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-statue",
+          "word": "statue",
+          "display": "Statue",
+          "phonetic": "",
+          "translation": "\u96d5\u50cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-status",
+          "word": "status",
+          "display": "Status",
+          "phonetic": "",
+          "translation": "\u5730\u4f4d\uff1b\u8eab\u4efd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-statute",
+          "word": "statute",
+          "display": "Statute",
+          "phonetic": "",
+          "translation": "\u6cd5\u89c4\uff1b\u7ae0\u7a0b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stay",
+          "word": "stay",
+          "display": "Stay",
+          "phonetic": "",
+          "translation": "\u9017\u7559\uff1b\u4fdd\u6301\uff1b\u5ef6\u7f13",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-steady",
+          "word": "steady",
+          "display": "Steady",
+          "phonetic": "",
+          "translation": "\u7a33\u5b9a\u7684\uff1b\u7a33\u56fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-still",
+          "word": "still",
+          "display": "Still",
+          "phonetic": "",
+          "translation": "\u9759\u6b62\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stock",
+          "word": "stock",
+          "display": "Stock",
+          "phonetic": "",
+          "translation": "\u5b58\u8d27",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stocking",
+          "word": "stocking",
+          "display": "Stocking",
+          "phonetic": "",
+          "translation": "\u957f\u889c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stoop",
+          "word": "stoop",
+          "display": "Stoop",
+          "phonetic": "",
+          "translation": "\u5f2f\u8170",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-storage",
+          "word": "storage",
+          "display": "Storage",
+          "phonetic": "",
+          "translation": "\u8d2e\u85cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-stride",
+          "word": "stride",
+          "display": "Stride",
+          "phonetic": "",
+          "translation": "\u8de8\u8d8a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sist-survival",
+          "word": "survival",
+          "display": "Survival",
+          "phonetic": "",
+          "translation": "\u751f\u5b58",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sist",
+      "type": "root",
+      "notes": ""
+    },
+    "s-ski": {
+      "version": 1,
+      "rootId": "s-ski",
+      "root": "ski\u96ea\u6a47",
+      "meaning": "ski",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-ski",
+      "type": "root",
+      "notes": ""
+    },
+    "s-snap": {
+      "version": 1,
+      "rootId": "s-snap",
+      "root": "snap\u65ad\u5f00",
+      "meaning": "snap",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-snap",
+      "type": "root",
+      "notes": ""
+    },
+    "s-social": {
+      "version": 1,
+      "rootId": "s-social",
+      "root": "social\u793e\u4f1a\u7684",
+      "meaning": "social",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-social",
+      "type": "root",
+      "notes": ""
+    },
+    "s-solar": {
+      "version": 1,
+      "rootId": "s-solar",
+      "root": "solar\u592a\u9633\u7684 \u65e5\u5149\u7684",
+      "meaning": "solar",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-solar",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sole": {
+      "version": 1,
+      "rootId": "s-sole",
+      "root": "sole\u5355\u72ec\u7684\uff1b\u552f\u4e00\u7684",
+      "meaning": "sole",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sole",
+      "type": "root",
+      "notes": ""
+    },
+    "s-son": {
+      "version": 1,
+      "rootId": "s-son",
+      "root": "son=sound\u58f0\u97f3",
+      "meaning": "sound",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-son",
+      "type": "root",
+      "notes": ""
+    },
+    "s-soph": {
+      "version": 1,
+      "rootId": "s-soph",
+      "root": "soph\u667a\u6167",
+      "meaning": "wisdom",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-soph",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sp": {
+      "version": 1,
+      "rootId": "s-sp",
+      "root": "sp\u770b \u8bf4",
+      "meaning": "see, speak",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sp",
+      "type": "root",
+      "notes": ""
+    },
+    "s-space": {
+      "version": 1,
+      "rootId": "s-space",
+      "root": "space\u7a7a\u95f4",
+      "meaning": "space",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-space",
+      "type": "root",
+      "notes": ""
+    },
+    "s-special": {
+      "version": 1,
+      "rootId": "s-special",
+      "root": "special\u7279\u6b8a\u7684",
+      "meaning": "special",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-special",
+      "type": "root",
+      "notes": ""
+    },
+    "s-spect": {
+      "version": 1,
+      "rootId": "s-spect",
+      "root": "spect=look\u770b",
+      "meaning": "look",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-spect-scan",
+          "word": "scan",
+          "display": "Scan",
+          "phonetic": "",
+          "translation": "\u626b\u63cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-scandal",
+          "word": "scandal",
+          "display": "Scandal",
+          "phonetic": "",
+          "translation": "\u8bfd\u8c24",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-scene",
+          "word": "scene",
+          "display": "Scene",
+          "phonetic": "",
+          "translation": "\u666f\u8c61",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-scenery",
+          "word": "scenery",
+          "display": "Scenery",
+          "phonetic": "",
+          "translation": "\u98ce\u666f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-script",
+          "word": "script",
+          "display": "Script",
+          "phonetic": "",
+          "translation": "\u624b\u7a3f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-scrutiny",
+          "word": "scrutiny",
+          "display": "Scrutiny",
+          "phonetic": "",
+          "translation": "\u76d1\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-seek",
+          "word": "seek",
+          "display": "Seek",
+          "phonetic": "",
+          "translation": "\u5bfb\u627e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-sight",
+          "word": "sight",
+          "display": "Sight",
+          "phonetic": "",
+          "translation": "\u89c6\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-spect-sightseeing",
+          "word": "sightseeing",
+          "display": "Sightseeing",
+          "phonetic": "",
+          "translation": "\u89c2\u5149",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-spect",
+      "type": "root",
+      "notes": ""
+    },
+    "s-stell": {
+      "version": 1,
+      "rootId": "s-stell",
+      "root": "stell=star\u661f\u661f",
+      "meaning": "star",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-stell-resplendent",
+          "word": "resplendent",
+          "display": "Resplendent",
+          "phonetic": "",
+          "translation": "\u8f89\u714c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-stell-satellite",
+          "word": "satellite",
+          "display": "Satellite",
+          "phonetic": "",
+          "translation": "\u536b\u661f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-stell-scout",
+          "word": "scout",
+          "display": "Scout",
+          "phonetic": "",
+          "translation": "\u4fa6\u67e5\u5458",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-stell-splend",
+          "word": "splend",
+          "display": "Splend",
+          "phonetic": "",
+          "translation": "\u53d1\u5149",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-stell-star",
+          "word": "star",
+          "display": "Star",
+          "phonetic": "",
+          "translation": "\u6052\u661f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-stell-stare",
+          "word": "stare",
+          "display": "Stare",
+          "phonetic": "",
+          "translation": "\u76ef\uff1b\u51dd\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-stell",
+      "type": "root",
+      "notes": ""
+    },
+    "s-study": {
+      "version": 1,
+      "rootId": "s-study",
+      "root": "\u5b66\u4e60",
+      "meaning": "study",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-study-scholar",
+          "word": "scholar",
+          "display": "Scholar",
+          "phonetic": "",
+          "translation": "\u5b66\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-scholarship",
+          "word": "scholarship",
+          "display": "Scholarship",
+          "phonetic": "",
+          "translation": "\u5b66\u95ee",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-school",
+          "word": "school",
+          "display": "School",
+          "phonetic": "",
+          "translation": "\u5b66\u6821",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-science",
+          "word": "science",
+          "display": "Science",
+          "phonetic": "",
+          "translation": "\u5b66\u79d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-scientific",
+          "word": "scientific",
+          "display": "Scientific",
+          "phonetic": "",
+          "translation": "\u79d1\u5b66\u4e0a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-scientist",
+          "word": "scientist",
+          "display": "Scientist",
+          "phonetic": "",
+          "translation": "\u79d1\u5b66\u5bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-script",
+          "word": "script",
+          "display": "Script",
+          "phonetic": "",
+          "translation": "\u624b\u7a3f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-semester",
+          "word": "semester",
+          "display": "Semester",
+          "phonetic": "",
+          "translation": "\u5b66\u671f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-seminar",
+          "word": "seminar",
+          "display": "Seminar",
+          "phonetic": "",
+          "translation": "\u7814\u8ba8\u4f1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-senate",
+          "word": "senate",
+          "display": "Senate",
+          "phonetic": "",
+          "translation": "\u53c2\u8bae\u9662",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-senator",
+          "word": "senator",
+          "display": "Senator",
+          "phonetic": "",
+          "translation": "\u53c2\u8bae\u5458",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-senior",
+          "word": "senior",
+          "display": "Senior",
+          "phonetic": "",
+          "translation": "\u5e74\u957f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-subject",
+          "word": "subject",
+          "display": "Subject",
+          "phonetic": "",
+          "translation": "\u4e3b\u9898\uff1b\u5b66\u79d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-study-subjective",
+          "word": "subjective",
+          "display": "Subjective",
+          "phonetic": "",
+          "translation": "\u4e3b\u89c2\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-study",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sub": {
+      "version": 1,
+      "rootId": "s-sub",
+      "root": "sub\u4e0b",
+      "meaning": "under",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sub-submarine",
+          "word": "submarine",
+          "display": "Submarine",
+          "phonetic": "",
+          "translation": "\u6f5c\u6c34\u8247",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-submerge",
+          "word": "submerge",
+          "display": "Submerge",
+          "phonetic": "",
+          "translation": "\u6c89\u6ca1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-subordinate",
+          "word": "subordinate",
+          "display": "Subordinate",
+          "phonetic": "",
+          "translation": "\u4e0b\u7ea7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-subscribe",
+          "word": "subscribe",
+          "display": "Subscribe",
+          "phonetic": "",
+          "translation": "\u8ba2\u9605",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-subsequent",
+          "word": "subsequent",
+          "display": "Subsequent",
+          "phonetic": "",
+          "translation": "\u968f\u540e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-subsidy",
+          "word": "subsidy",
+          "display": "Subsidy",
+          "phonetic": "",
+          "translation": "\u8865\u52a9\u91d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-substance",
+          "word": "substance",
+          "display": "Substance",
+          "phonetic": "",
+          "translation": "\u7269\u8d28\uff1b\u672c\u8d28",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-substantial",
+          "word": "substantial",
+          "display": "Substantial",
+          "phonetic": "",
+          "translation": "\u5b9e\u8d28\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-substitute",
+          "word": "substitute",
+          "display": "Substitute",
+          "phonetic": "",
+          "translation": "\u66ff\u4ee3\u8005\uff1b\u66ff\u4ee3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-subtle",
+          "word": "subtle",
+          "display": "Subtle",
+          "phonetic": "",
+          "translation": "\u7cbe\u5de7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-subtract",
+          "word": "subtract",
+          "display": "Subtract",
+          "phonetic": "",
+          "translation": "\u51cf\u53bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-suburb",
+          "word": "suburb",
+          "display": "Suburb",
+          "phonetic": "",
+          "translation": "\u90ca\u533a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-subway",
+          "word": "subway",
+          "display": "Subway",
+          "phonetic": "",
+          "translation": "\u5730\u94c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-succeed",
+          "word": "succeed",
+          "display": "Succeed",
+          "phonetic": "",
+          "translation": "\u6210\u529f\uff1b\u7ee7\u627f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-success",
+          "word": "success",
+          "display": "Success",
+          "phonetic": "",
+          "translation": "\u6210\u5c31",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-successful",
+          "word": "successful",
+          "display": "Successful",
+          "phonetic": "",
+          "translation": "\u6210\u529f\u7684\uff1b\u5706\u6ee1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-succession",
+          "word": "succession",
+          "display": "Succession",
+          "phonetic": "",
+          "translation": "\u8fde\u7eed\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-successive",
+          "word": "successive",
+          "display": "Successive",
+          "phonetic": "",
+          "translation": "\u63a5\u8fde\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sub-successor",
+          "word": "successor",
+          "display": "Successor",
+          "phonetic": "",
+          "translation": "\u7ee7\u4efb\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sub",
+      "type": "root",
+      "notes": ""
+    },
+    "s-suffer": {
+      "version": 1,
+      "rootId": "s-suffer",
+      "root": "suffer\u906d\u53d7",
+      "meaning": "suffer",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-suffer",
+      "type": "root",
+      "notes": ""
+    },
+    "s-suit": {
+      "version": 1,
+      "rootId": "s-suit",
+      "root": "suit\u5408\u9002",
+      "meaning": "suit",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-suit",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sum": {
+      "version": 1,
+      "rootId": "s-sum",
+      "root": "sum\u52a0",
+      "meaning": "sum",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sum",
+      "type": "root",
+      "notes": ""
+    },
+    "s-supply": {
+      "version": 1,
+      "rootId": "s-supply",
+      "root": "supply\u63d0\u4f9b",
+      "meaning": "supply",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-supply",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sur": {
+      "version": 1,
+      "rootId": "s-sur",
+      "root": "sur=super\u4e0a\u9762",
+      "meaning": "above",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sur-superb",
+          "word": "superb",
+          "display": "Superb",
+          "phonetic": "",
+          "translation": "\u6781\u597d\u7684\uff1b\u6770\u51fa\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-superficial",
+          "word": "superficial",
+          "display": "Superficial",
+          "phonetic": "",
+          "translation": "\u8868\u9762\u7684\uff1b\u80a4\u6d45\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-superfluous",
+          "word": "superfluous",
+          "display": "Superfluous",
+          "phonetic": "",
+          "translation": "\u591a\u4f59\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-superior",
+          "word": "superior",
+          "display": "Superior",
+          "phonetic": "",
+          "translation": "\u4f18\u826f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-superiority",
+          "word": "superiority",
+          "display": "Superiority",
+          "phonetic": "",
+          "translation": "\u4f18\u52bf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-supermarket",
+          "word": "supermarket",
+          "display": "Supermarket",
+          "phonetic": "",
+          "translation": "\u8d85\u7ea7\u5e02\u573a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-supersonic",
+          "word": "supersonic",
+          "display": "Supersonic",
+          "phonetic": "",
+          "translation": "\u8d85\u97f3\u6ce2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-superstition",
+          "word": "superstition",
+          "display": "Superstition",
+          "phonetic": "",
+          "translation": "\u8ff7\u4fe1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-supervise",
+          "word": "supervise",
+          "display": "Supervise",
+          "phonetic": "",
+          "translation": "\u76d1\u7ba1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-supper",
+          "word": "supper",
+          "display": "Supper",
+          "phonetic": "",
+          "translation": "\u6781\u597d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-supreme",
+          "word": "supreme",
+          "display": "Supreme",
+          "phonetic": "",
+          "translation": "\u81f3\u9ad8\u7684\uff1b\u6781\u5ea6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-sure",
+          "word": "sure",
+          "display": "Sure",
+          "phonetic": "",
+          "translation": "\u80af\u5b9a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surface",
+          "word": "surface",
+          "display": "Surface",
+          "phonetic": "",
+          "translation": "\u8868\u9762",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surge",
+          "word": "surge",
+          "display": "Surge",
+          "phonetic": "",
+          "translation": "\u6c79\u6d8c\u6f8e\u6e43\uff1b\u8702\u62e5\u800c\u81f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surgeon",
+          "word": "surgeon",
+          "display": "Surgeon",
+          "phonetic": "",
+          "translation": "\u5916\u79d1\u533b\u751f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surgery",
+          "word": "surgery",
+          "display": "Surgery",
+          "phonetic": "",
+          "translation": "\u5916\u79d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surname",
+          "word": "surname",
+          "display": "Surname",
+          "phonetic": "",
+          "translation": "\u59d3\uff08\u5199\u5728\u524d\u9762\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surpass",
+          "word": "surpass",
+          "display": "Surpass",
+          "phonetic": "",
+          "translation": "\u8d85\u8fc7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surplus",
+          "word": "surplus",
+          "display": "Surplus",
+          "phonetic": "",
+          "translation": "\u8fc7\u5269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surprise",
+          "word": "surprise",
+          "display": "Surprise",
+          "phonetic": "",
+          "translation": "\u60ca\u5f02",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surrender",
+          "word": "surrender",
+          "display": "Surrender",
+          "phonetic": "",
+          "translation": "\u6295\u964d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surround",
+          "word": "surround",
+          "display": "Surround",
+          "phonetic": "",
+          "translation": "\u5305\u56f4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-surroundings",
+          "word": "surroundings",
+          "display": "Surroundings",
+          "phonetic": "",
+          "translation": "\u73af\u5883",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-survey",
+          "word": "survey",
+          "display": "Survey",
+          "phonetic": "",
+          "translation": "\u4fef\u77b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-survival",
+          "word": "survival",
+          "display": "Survival",
+          "phonetic": "",
+          "translation": "\u5e78\u5b58\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sur-survive",
+          "word": "survive",
+          "display": "Survive",
+          "phonetic": "",
+          "translation": "\u5e78\u5b58",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sur",
+      "type": "root",
+      "notes": ""
+    },
+    "s-sus": {
+      "version": 1,
+      "rootId": "s-sus",
+      "root": "sus\u4e0b",
+      "meaning": "under",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "s-sus-susceptible",
+          "word": "susceptible",
+          "display": "Susceptible",
+          "phonetic": "",
+          "translation": "\u6613\u53d7\u5f71\u54cd\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sus-suspect",
+          "word": "suspect",
+          "display": "Suspect",
+          "phonetic": "",
+          "translation": "\u6000\u7591",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sus-suspend",
+          "word": "suspend",
+          "display": "Suspend",
+          "phonetic": "",
+          "translation": "\u60ac\u6302",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sus-suspicion",
+          "word": "suspicion",
+          "display": "Suspicion",
+          "phonetic": "",
+          "translation": "\u6000\u7591",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sus-suspicious",
+          "word": "suspicious",
+          "display": "Suspicious",
+          "phonetic": "",
+          "translation": "\u53ef\u7591\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "s-sus-sustain",
+          "word": "sustain",
+          "display": "Sustain",
+          "phonetic": "",
+          "translation": "\u652f\u6491",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-sus",
+      "type": "root",
+      "notes": ""
+    },
+    "s-system": {
+      "version": 1,
+      "rootId": "s-system",
+      "root": "system\u7cfb\u7edf",
+      "meaning": "system",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-system",
+      "type": "root",
+      "notes": ""
+    },
+    "s-v": {
+      "version": 1,
+      "rootId": "s-v",
+      "root": "v",
+      "meaning": "verb",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "s",
+      "rootLevel": 2,
+      "rootPath": "s>s-v",
+      "type": "root",
+      "notes": ""
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "rootId": "p-preci",
+  "root": "preci=value \u4ef7\u503c",
+  "meaning": "value",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-preci-appraisable",
+      "word": "appraisable",
+      "display": "Appraisable",
+      "phonetic": "",
+      "translation": "\u53ef\u8bc4\u4f30\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-appraisal",
+      "word": "appraisal",
+      "display": "Appraisal",
+      "phonetic": "",
+      "translation": "\u9274\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-appraise",
+      "word": "appraise",
+      "display": "Appraise",
+      "phonetic": "",
+      "translation": "\u8bc4\u4ef7\uff1b\u9274\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-appraiser",
+      "word": "appraiser",
+      "display": "Appraiser",
+      "phonetic": "",
+      "translation": "\u575a\u5b9a\u7740",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-appreciable",
+      "word": "appreciable",
+      "display": "Appreciable",
+      "phonetic": "",
+      "translation": "\u53ef\u89c2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-appreciate",
+      "word": "appreciate",
+      "display": "Appreciate",
+      "phonetic": "",
+      "translation": "\u9274\u8d4f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-appreciative",
+      "word": "appreciative",
+      "display": "Appreciative",
+      "phonetic": "",
+      "translation": "\u6b23\u8d4f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-depreciate",
+      "word": "depreciate",
+      "display": "Depreciate",
+      "phonetic": "",
+      "translation": "\u8d2c\u503c\uff1b\u964d\u4f4e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-depreciative",
+      "word": "depreciative",
+      "display": "Depreciative",
+      "phonetic": "",
+      "translation": "\u8d2c\u503c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-disappreciate",
+      "word": "disappreciate",
+      "display": "Disappreciate",
+      "phonetic": "",
+      "translation": "\u8f7b\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-praise",
+      "word": "praise",
+      "display": "Praise",
+      "phonetic": "",
+      "translation": "\u79f0\u8d5e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-preciosity",
+      "word": "preciosity",
+      "display": "Preciosity",
+      "phonetic": "",
+      "translation": "\u8fc7\u5206\u8bb2\u7a76\uff1b\u77eb\u63c9\u9020\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-precious",
+      "word": "precious",
+      "display": "Precious",
+      "phonetic": "",
+      "translation": "\u5b9d\u8d35\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-preci-pride",
+      "word": "pride",
+      "display": "Pride",
+      "phonetic": "",
+      "translation": "\u81ea\u8c6a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-preci",
+  "type": "root",
+  "notes": ""
+}

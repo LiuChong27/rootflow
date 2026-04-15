@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "m-important-mon-warning",
+  "root": "\u544a\u8beb",
+  "meaning": "warning",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-important-mon-warning-menace",
+      "word": "menace",
+      "display": "Menace",
+      "phonetic": "",
+      "translation": "\u5a01\u80c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-moan",
+      "word": "moan",
+      "display": "Moan",
+      "phonetic": "",
+      "translation": "\u547b\u541f\u58f0\uff1b\u60b2\u53f9\u58f0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-mob",
+      "word": "mob",
+      "display": "Mob",
+      "phonetic": "",
+      "translation": "\u4e4c\u5408\u4e4b\u4f17\uff1b\u805a\u4f17\u95f9\u4e8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-monitor",
+      "word": "monitor",
+      "display": "Monitor",
+      "phonetic": "",
+      "translation": "\u76d1\u89c6\u5668\uff1b\u73ed\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-monster",
+      "word": "monster",
+      "display": "Monster",
+      "phonetic": "",
+      "translation": "\u602a\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-mourn",
+      "word": "mourn",
+      "display": "Mourn",
+      "phonetic": "",
+      "translation": "\u54c0\u60bc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-murder",
+      "word": "murder",
+      "display": "Murder",
+      "phonetic": "",
+      "translation": "\u8c0b\u6740",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-murmur",
+      "word": "murmur",
+      "display": "Murmur",
+      "phonetic": "",
+      "translation": "\u5c0f\u58f0\u62b1\u6028",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-mon-warning-mutter",
+      "word": "mutter",
+      "display": "Mutter",
+      "phonetic": "",
+      "translation": "\u62b1\u6028",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-important-mon",
+  "rootLevel": 4,
+  "rootPath": "m>m-important>m-important-mon>m-important-mon-warning",
+  "type": "branch",
+  "notes": ""
+}

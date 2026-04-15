@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "m-operation-mill",
+  "root": "mill\u78e8\u574a \u2500\u2500 milk\u725b\u5976",
+  "meaning": "mill, milk",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-operation-mill-milk",
+      "word": "milk",
+      "display": "Milk",
+      "phonetic": "",
+      "translation": "\u725b\u5976",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mill-mill",
+      "word": "mill",
+      "display": "Mill",
+      "phonetic": "",
+      "translation": "\u78e8\u574a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-mill",
+  "type": "branch",
+  "notes": ""
+}

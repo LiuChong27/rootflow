@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "m-operation-merc",
+  "root": "merc\u4e70\u5356",
+  "meaning": "trade",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-operation-merc-merchandise",
+      "word": "merchandise",
+      "display": "Merchandise",
+      "phonetic": "",
+      "translation": "\u5546\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-merc-merchant",
+      "word": "merchant",
+      "display": "Merchant",
+      "phonetic": "",
+      "translation": "\u5546\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-merc-mercy",
+      "word": "mercy",
+      "display": "Mercy",
+      "phonetic": "",
+      "translation": "\u4ec1\u6148",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-merc-merge",
+      "word": "merge",
+      "display": "Merge",
+      "phonetic": "",
+      "translation": "\u7ed3\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-merc",
+  "type": "branch",
+  "notes": ""
+}

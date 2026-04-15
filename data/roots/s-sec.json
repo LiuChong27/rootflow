@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "s-sec",
+  "root": "sec=sequ\u8ddf\u968f",
+  "meaning": "follow",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-sec-second",
+      "word": "second",
+      "display": "Second",
+      "phonetic": "",
+      "translation": "\u7b2c\u4e8c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sec-secondary",
+      "word": "secondary",
+      "display": "Secondary",
+      "phonetic": "",
+      "translation": "\u6b21\u8981\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sec-separate",
+      "word": "separate",
+      "display": "Separate",
+      "phonetic": "",
+      "translation": "\u5206\u79bb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sec-sequence",
+      "word": "sequence",
+      "display": "Sequence",
+      "phonetic": "",
+      "translation": "\u8fde\u7eed\uff1b\u5e8f\u5217",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sec-series",
+      "word": "series",
+      "display": "Series",
+      "phonetic": "",
+      "translation": "\u4e00\u7cfb\u5217",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sec-subordinate",
+      "word": "subordinate",
+      "display": "Subordinate",
+      "phonetic": "",
+      "translation": "\u6b21\u8981\u7684\uff1b\u4e0b\u7ea7\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-sec",
+  "type": "root",
+  "notes": ""
+}

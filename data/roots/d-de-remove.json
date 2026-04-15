@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "d-de-remove",
+  "root": "\u53bb\u9664\uff1b\u4e0b",
+  "meaning": "remove",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-de-remove-decline",
+      "word": "decline",
+      "display": "Decline",
+      "phonetic": "",
+      "translation": "\u4e0b\u964d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-decrease",
+      "word": "decrease",
+      "display": "Decrease",
+      "phonetic": "",
+      "translation": "\u51cf\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-defect",
+      "word": "defect",
+      "display": "Defect",
+      "phonetic": "",
+      "translation": "\u8fc7\u5931\uff1b\u7f3a\u70b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-deficiency",
+      "word": "deficiency",
+      "display": "Deficiency",
+      "phonetic": "",
+      "translation": "\u7f3a\u4e4f\uff1b\u4e0d\u8db3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-deficit",
+      "word": "deficit",
+      "display": "Deficit",
+      "phonetic": "",
+      "translation": "\u4e8f\u635f\uff1b\u7f3a\u4e4f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-define",
+      "word": "define",
+      "display": "Define",
+      "phonetic": "",
+      "translation": "\u4e0b\u5b9a\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-definition",
+      "word": "definition",
+      "display": "Definition",
+      "phonetic": "",
+      "translation": "\u5b9a\u4e49\uff1b\u89e3\u91ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-degenerate",
+      "word": "degenerate",
+      "display": "Degenerate",
+      "phonetic": "",
+      "translation": "\u8870\u9000",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-delay",
+      "word": "delay",
+      "display": "Delay",
+      "phonetic": "",
+      "translation": "\u5ef6\u8fdf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-denial",
+      "word": "denial",
+      "display": "Denial",
+      "phonetic": "",
+      "translation": "\u5426\u8ba4\uff1b\u62d2\u7edd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-deny",
+      "word": "deny",
+      "display": "Deny",
+      "phonetic": "",
+      "translation": "\u5426\u8ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-depart",
+      "word": "depart",
+      "display": "Depart",
+      "phonetic": "",
+      "translation": "\u79bb\u5f00\uff1b\u8fc7\u53bb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-department",
+      "word": "department",
+      "display": "Department",
+      "phonetic": "",
+      "translation": "\u90e8\u95e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-depress",
+      "word": "depress",
+      "display": "Depress",
+      "phonetic": "",
+      "translation": "\u538b\u6291\uff1b\u964d\u4f4e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-deprive",
+      "word": "deprive",
+      "display": "Deprive",
+      "phonetic": "",
+      "translation": "\u5265\u593a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-de-remove-descendant",
+      "word": "descendant",
+      "display": "Descendant",
+      "phonetic": "",
+      "translation": "\u5b50\u5b59",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-de",
+  "rootLevel": 3,
+  "rootPath": "d>d-de>d-de-remove",
+  "type": "branch",
+  "notes": ""
+}

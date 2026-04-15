@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "j-juven",
+  "root": "juven=young\u5e74\u8f7b",
+  "meaning": "young",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-juven-junior",
+      "word": "junior",
+      "display": "Junior",
+      "phonetic": "",
+      "translation": "\u5b66\u751f\uff1b\u4e0b\u7ea7\uff1b\u5e74\u5c11\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-juven-juvenile",
+      "word": "juvenile",
+      "display": "Juvenile",
+      "phonetic": "",
+      "translation": "\u9752\u5c11\u5e74\uff1b\u4f18\u8d28\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-juven",
+  "type": "root",
+  "notes": ""
+}

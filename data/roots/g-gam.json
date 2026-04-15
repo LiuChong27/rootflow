@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "g-gam",
+  "root": "gam\u5a5a\u59fb",
+  "meaning": "gam",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-gam-bigamist",
+      "word": "bigamist",
+      "display": "Bigamist",
+      "phonetic": "",
+      "translation": "\u91cd\u65b0\u7ed3\u5a5a\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gam-bigamous",
+      "word": "bigamous",
+      "display": "Bigamous",
+      "phonetic": "",
+      "translation": "\u72af\u91cd\u5a5a\u7f6a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gam-bigamy",
+      "word": "bigamy",
+      "display": "Bigamy",
+      "phonetic": "",
+      "translation": "\u91cd\u5a5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gam-monogamist",
+      "word": "monogamist",
+      "display": "Monogamist",
+      "phonetic": "",
+      "translation": "\u4e00\u592b\u4e00\u59bb\u4e3b\u4e49\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gam-monogamous",
+      "word": "monogamous",
+      "display": "Monogamous",
+      "phonetic": "",
+      "translation": "\u4e00\u592b\u4e00\u59bb\u5236\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gam-monogamy",
+      "word": "monogamy",
+      "display": "Monogamy",
+      "phonetic": "",
+      "translation": "\u4e00\u592b\u4e00\u59bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gam-polygamist",
+      "word": "polygamist",
+      "display": "Polygamist",
+      "phonetic": "",
+      "translation": "\u591a\u914d\u5076\u8bba\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gam-polygamous",
+      "word": "polygamous",
+      "display": "Polygamous",
+      "phonetic": "",
+      "translation": "\u4e00\u592b\u591a\u59bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-gam",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "t-two",
+  "root": "two",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-two-twice",
+      "word": "twice",
+      "display": "Twice",
+      "phonetic": "",
+      "translation": "\u4e24\u6b21",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-two-twin",
+      "word": "twin",
+      "display": "Twin",
+      "phonetic": "",
+      "translation": "\u53cc\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-two-twinkle",
+      "word": "twinkle",
+      "display": "Twinkle",
+      "phonetic": "",
+      "translation": "\u95ea\u70c1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-two",
+  "type": "root",
+  "notes": ""
+}

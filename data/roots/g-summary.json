@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "g-summary",
+  "root": "\u5c0f\u7ed3",
+  "meaning": "summary",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-summary-g",
+      "word": "g=k=c=\u6293",
+      "display": "g=k=c=\u6293",
+      "phonetic": "",
+      "translation": "\u6293",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-summary",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "e-err-aberrant",
+  "root": "aberrant\u8131\u79bb\u6b63\u8f68",
+  "meaning": "aberrant",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-err-aberrant-aberrance",
+      "word": "aberrance",
+      "display": "Aberrance",
+      "phonetic": "",
+      "translation": "\u53cd\u5e38\uff1b\u53d8\u5f02",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-err-aberrant-aberrant",
+      "word": "aberrant",
+      "display": "Aberrant",
+      "phonetic": "",
+      "translation": "\u8131\u79bb\u6b63\u8f68",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-err",
+  "rootLevel": 3,
+  "rootPath": "e>e-err>e-err-aberrant",
+  "type": "branch",
+  "notes": ""
+}

@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "rootId": "f-flu",
+  "root": "flu=fluc=flux\u6d41",
+  "meaning": "flu",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-flu-affluence",
+      "word": "affluence",
+      "display": "Affluence",
+      "phonetic": "",
+      "translation": "\u4e30\u5bcc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-affluence-rich",
+      "word": "affluence",
+      "display": "Affluence",
+      "phonetic": "",
+      "translation": "\u5bcc\u88d5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-affluent",
+      "word": "affluent",
+      "display": "Affluent",
+      "phonetic": "",
+      "translation": "\u4e30\u5bcc\u7684\uff1b\u6d41\u7545\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-afflux",
+      "word": "afflux",
+      "display": "Afflux",
+      "phonetic": "",
+      "translation": "\u6d41\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-circumfluent",
+      "word": "circumfluent",
+      "display": "Circumfluent",
+      "phonetic": "",
+      "translation": "\u73af\u6d41\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-confluence",
+      "word": "confluence",
+      "display": "Confluence",
+      "phonetic": "",
+      "translation": "\u6c47\u6d41",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-confluent",
+      "word": "confluent",
+      "display": "Confluent",
+      "phonetic": "",
+      "translation": "\u6c47\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-effluence",
+      "word": "effluence",
+      "display": "Effluence",
+      "phonetic": "",
+      "translation": "\u6d41\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-effluent",
+      "word": "effluent",
+      "display": "Effluent",
+      "phonetic": "",
+      "translation": "\u6d41\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-fluency",
+      "word": "fluency",
+      "display": "Fluency",
+      "phonetic": "",
+      "translation": "\u6d41\u5229\uff1b\u6d41\u7545",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-fluent",
+      "word": "fluent",
+      "display": "Fluent",
+      "phonetic": "",
+      "translation": "\u6d41\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-flush",
+      "word": "flush",
+      "display": "Flush",
+      "phonetic": "",
+      "translation": "\u5954\u6d41",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-fluvent",
+      "word": "fluvent",
+      "display": "Fluvent",
+      "phonetic": "",
+      "translation": "\u51b2\u51fb\u65b0\u6210\u571f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-fluvial",
+      "word": "fluvial",
+      "display": "Fluvial",
+      "phonetic": "",
+      "translation": "\u6cb3\u6d41\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-fluviatic",
+      "word": "fluviatic",
+      "display": "Fluviatic",
+      "phonetic": "",
+      "translation": "\u6cb3\u5ddd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-fluviatile",
+      "word": "fluviatile",
+      "display": "Fluviatile",
+      "phonetic": "",
+      "translation": "\u6cb3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-fluviation",
+      "word": "fluviation",
+      "display": "Fluviation",
+      "phonetic": "",
+      "translation": "\u6cb3\u6c34\u4f5c\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-flux",
+      "word": "flux",
+      "display": "Flux",
+      "phonetic": "",
+      "translation": "\u6d41\u91cf\uff1b\u6da8\u6f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-inflow",
+      "word": "inflow",
+      "display": "Inflow",
+      "phonetic": "",
+      "translation": "\u6d41\u5165\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-influence",
+      "word": "influence",
+      "display": "Influence",
+      "phonetic": "",
+      "translation": "\u5f71\u54cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-influential",
+      "word": "influential",
+      "display": "Influential",
+      "phonetic": "",
+      "translation": "\u6709\u5f71\u54cd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-influx",
+      "word": "influx",
+      "display": "Influx",
+      "phonetic": "",
+      "translation": "\u6c47\u96c6\uff1b\u6d41\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-reflux",
+      "word": "reflux",
+      "display": "Reflux",
+      "phonetic": "",
+      "translation": "\u9006\u6d41\uff1b\u9000\u6f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-superfluity",
+      "word": "superfluity",
+      "display": "Superfluity",
+      "phonetic": "",
+      "translation": "\u5962\u4f88\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flu-superflux",
+      "word": "superflux",
+      "display": "Superflux",
+      "phonetic": "",
+      "translation": "\u6ea2\u51fa\uff1b\u5927\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f",
+  "rootLevel": 2,
+  "rootPath": "f>f-flu",
+  "type": "root",
+  "notes": ""
+}

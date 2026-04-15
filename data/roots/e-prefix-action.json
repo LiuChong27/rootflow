@@ -1,0 +1,771 @@
+{
+  "version": 1,
+  "rootId": "e-prefix-action",
+  "root": "\u52a8\u4f5c",
+  "meaning": "action",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-prefix-action-echo",
+      "word": "echo",
+      "display": "Echo",
+      "phonetic": "",
+      "translation": "\u53cd\u54cd\uff1b\u5171\u9e23\uff1b\u56de\u58f0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-edge",
+      "word": "edge",
+      "display": "Edge",
+      "phonetic": "",
+      "translation": "\u5200\u5203\uff1b\u6324\u8fdb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-eject",
+      "word": "eject",
+      "display": "Eject",
+      "phonetic": "",
+      "translation": "\u55b7\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-elect",
+      "word": "elect",
+      "display": "Elect",
+      "phonetic": "",
+      "translation": "\u9009\u4e3e\uff1b\u9009\u62e9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-embed",
+      "word": "embed",
+      "display": "Embed",
+      "phonetic": "",
+      "translation": "\u628a...\u5d4c\u5165\uff1b\u624e\u7262",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-emerge",
+      "word": "emerge",
+      "display": "Emerge",
+      "phonetic": "",
+      "translation": "\u663e\u73b0\uff1b\u66b4\u9732\uff1b\u5f62\u6210",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-emergency",
+      "word": "emergency",
+      "display": "Emergency",
+      "phonetic": "",
+      "translation": "\u7d27\u6025\u60c5\u51b5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-emigrate",
+      "word": "emigrate",
+      "display": "Emigrate",
+      "phonetic": "",
+      "translation": "\u79fb\u5c45",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-emit",
+      "word": "emit",
+      "display": "Emit",
+      "phonetic": "",
+      "translation": "\u53d1\u51fa\uff1b\u5410\u9732\uff1b\u53d1\u8868",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-emotion",
+      "word": "emotion",
+      "display": "Emotion",
+      "phonetic": "",
+      "translation": "\u60c5\u611f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-emphasis",
+      "word": "emphasis",
+      "display": "Emphasis",
+      "phonetic": "",
+      "translation": "\u5f3a\u8c03\uff1b\u91cd\u70b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-emphasize",
+      "word": "emphasize",
+      "display": "Emphasize",
+      "phonetic": "",
+      "translation": "\u5f3a\u8c03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-eradiate",
+      "word": "eradiate",
+      "display": "Eradiate",
+      "phonetic": "",
+      "translation": "\u53d1\u5c04\uff1b\u8f90\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-erase",
+      "word": "erase",
+      "display": "Erase",
+      "phonetic": "",
+      "translation": "\u64e6\u6389\uff1b\u5220\u53bb\uff1b\u6d88\u78c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-escape",
+      "word": "escape",
+      "display": "Escape",
+      "phonetic": "",
+      "translation": "\u9003\u8dd1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-escort",
+      "word": "escort",
+      "display": "Escort",
+      "phonetic": "",
+      "translation": "\u62a4\u9001\uff1b\u8b66\u536b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-especial",
+      "word": "especial",
+      "display": "Especial",
+      "phonetic": "",
+      "translation": "\u7279\u522b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-especially",
+      "word": "especially",
+      "display": "Especially",
+      "phonetic": "",
+      "translation": "\u7279\u522b\uff1b\u4e3b\u8981\u7b2c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-establish",
+      "word": "establish",
+      "display": "Establish",
+      "phonetic": "",
+      "translation": "\u5efa\u7acb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-establishment",
+      "word": "establishment",
+      "display": "Establishment",
+      "phonetic": "",
+      "translation": "\u8bbe\u7acb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-evacuate",
+      "word": "evacuate",
+      "display": "Evacuate",
+      "phonetic": "",
+      "translation": "\u64a4\u79bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-evade",
+      "word": "evade",
+      "display": "Evade",
+      "phonetic": "",
+      "translation": "\u9003\u907f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-evoke",
+      "word": "evoke",
+      "display": "Evoke",
+      "phonetic": "",
+      "translation": "\u5524\u8d77",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-evolution",
+      "word": "evolution",
+      "display": "Evolution",
+      "phonetic": "",
+      "translation": "\u8fdb\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-evolve",
+      "word": "evolve",
+      "display": "Evolve",
+      "phonetic": "",
+      "translation": "\u8fdb\u5316\uff1b\u53d1\u5c55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-excerpt",
+      "word": "excerpt",
+      "display": "Excerpt",
+      "phonetic": "",
+      "translation": "\u6458\u5f55\uff1b\u5f15\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exclaim",
+      "word": "exclaim",
+      "display": "Exclaim",
+      "phonetic": "",
+      "translation": "\u547c\u558a\uff1b\u60ca\u53eb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exclude",
+      "word": "exclude",
+      "display": "Exclude",
+      "phonetic": "",
+      "translation": "\u62d2\u7edd\uff1b\u6392\u65a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exclusive",
+      "word": "exclusive",
+      "display": "Exclusive",
+      "phonetic": "",
+      "translation": "\u72ec\u5360\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-excursion",
+      "word": "excursion",
+      "display": "Excursion",
+      "phonetic": "",
+      "translation": "\u77ed\u9014\u65c5\u884c\uff1b\u6e38\u89c8\uff1b\u4fbf\u5b9c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-excuse",
+      "word": "excuse",
+      "display": "Excuse",
+      "phonetic": "",
+      "translation": "\u539f\u8c05\uff1b\u5bbd\u6055\uff1b\u501f\u53e3\uff1b\u8fa9\u89e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-excute",
+      "word": "excute",
+      "display": "Excute",
+      "phonetic": "",
+      "translation": "\u5b9e\u884c\uff1b\u5904\u6b7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-executive",
+      "word": "executive",
+      "display": "Executive",
+      "phonetic": "",
+      "translation": "\u603b\u7ecf\u7406\uff1b\u6267\u884c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exempt",
+      "word": "exempt",
+      "display": "Exempt",
+      "phonetic": "",
+      "translation": "\u514d\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exhibit",
+      "word": "exhibit",
+      "display": "Exhibit",
+      "phonetic": "",
+      "translation": "\u5c55\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exhibition",
+      "word": "exhibition",
+      "display": "Exhibition",
+      "phonetic": "",
+      "translation": "\u5c55\u89c8\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exile",
+      "word": "exile",
+      "display": "Exile",
+      "phonetic": "",
+      "translation": "\u653e\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exit",
+      "word": "exit",
+      "display": "Exit",
+      "phonetic": "",
+      "translation": "\u51fa\u53e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expand",
+      "word": "expand",
+      "display": "Expand",
+      "phonetic": "",
+      "translation": "\u6269\u5f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expansion",
+      "word": "expansion",
+      "display": "Expansion",
+      "phonetic": "",
+      "translation": "\u81a8\u80c0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expel",
+      "word": "expel",
+      "display": "Expel",
+      "phonetic": "",
+      "translation": "\u9a71\u9010\uff1b\u53d1\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expend",
+      "word": "expend",
+      "display": "Expend",
+      "phonetic": "",
+      "translation": "\u82b1\u8d39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expenditure",
+      "word": "expenditure",
+      "display": "Expenditure",
+      "phonetic": "",
+      "translation": "\u82b1\u8d39\uff1b\u6d88\u8017",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expense",
+      "word": "expense",
+      "display": "Expense",
+      "phonetic": "",
+      "translation": "\u6d88\u8d39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expensive",
+      "word": "expensive",
+      "display": "Expensive",
+      "phonetic": "",
+      "translation": "\u82b1\u8d39\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-experience",
+      "word": "experience",
+      "display": "Experience",
+      "phonetic": "",
+      "translation": "\u7ecf\u5386",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-experiment",
+      "word": "experiment",
+      "display": "Experiment",
+      "phonetic": "",
+      "translation": "\u5b9e\u9a8c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-experimental",
+      "word": "experimental",
+      "display": "Experimental",
+      "phonetic": "",
+      "translation": "\u5b9e\u9a8c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expire",
+      "word": "expire",
+      "display": "Expire",
+      "phonetic": "",
+      "translation": "\u65ad\u6c14\uff1b\u671f\u6ee1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-explain",
+      "word": "explain",
+      "display": "Explain",
+      "phonetic": "",
+      "translation": "\u89e3\u91ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-explanation",
+      "word": "explanation",
+      "display": "Explanation",
+      "phonetic": "",
+      "translation": "\u89e3\u91ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-explode",
+      "word": "explode",
+      "display": "Explode",
+      "phonetic": "",
+      "translation": "\u7206\u70b8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exploit",
+      "word": "exploit",
+      "display": "Exploit",
+      "phonetic": "",
+      "translation": "\u5f00\u62d3\uff1b\u5265\u524a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-explosion",
+      "word": "explosion",
+      "display": "Explosion",
+      "phonetic": "",
+      "translation": "\u7206\u70b8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-explosive",
+      "word": "explosive",
+      "display": "Explosive",
+      "phonetic": "",
+      "translation": "\u7206\u70b8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-export",
+      "word": "export",
+      "display": "Export",
+      "phonetic": "",
+      "translation": "\u8f93\u51fa\uff1b\u51fa\u53e3\u5546\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expose",
+      "word": "expose",
+      "display": "Expose",
+      "phonetic": "",
+      "translation": "\u66b4\u9732",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-exposure",
+      "word": "exposure",
+      "display": "Exposure",
+      "phonetic": "",
+      "translation": "\u66b4\u9732\uff1b\u9057\u5f03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-express",
+      "word": "express",
+      "display": "Express",
+      "phonetic": "",
+      "translation": "\u8868\u793a\uff1b\u5feb\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-expression",
+      "word": "expression",
+      "display": "Expression",
+      "phonetic": "",
+      "translation": "\u8868\u8fbe\uff1b\u8868\u60c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-extension",
+      "word": "extension",
+      "display": "Extension",
+      "phonetic": "",
+      "translation": "\u5ef6\u957f\uff1b\u6269\u5927",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-extensive",
+      "word": "extensive",
+      "display": "Extensive",
+      "phonetic": "",
+      "translation": "\u5e7f\u9614\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-prefix-action-extent",
+      "word": "extent",
+      "display": "Extent",
+      "phonetic": "",
+      "translation": "\u5bbd\u5ea6\uff1b\u957f\u5ea6\uff1b\u957f\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-prefix",
+  "rootLevel": 3,
+  "rootPath": "e>e-prefix>e-prefix-action",
+  "type": "branch",
+  "notes": ""
+}

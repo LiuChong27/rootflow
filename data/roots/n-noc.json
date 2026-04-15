@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "n-noc",
+  "root": "noc=nox hurt, poison\u4f24\u5bb3",
+  "meaning": "hurt, poison",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-noc-innocence",
+      "word": "innocence",
+      "display": "Innocence",
+      "phonetic": "",
+      "translation": "\u65e0\u7f6a\uff1b\u5355\u7eaf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-noc-innocency",
+      "word": "innocency",
+      "display": "Innocency",
+      "phonetic": "",
+      "translation": "\u6e05\u767d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-noc-innocent",
+      "word": "innocent",
+      "display": "Innocent",
+      "phonetic": "",
+      "translation": "\u65e0\u7f6a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-noc-innocuity",
+      "word": "innocuity",
+      "display": "Innocuity",
+      "phonetic": "",
+      "translation": "\u65e0\u6bd2\u65e0\u5bb3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-noc-nocent",
+      "word": "nocent",
+      "display": "Nocent",
+      "phonetic": "",
+      "translation": "\u6709\u5bb3\u7684\uff1b\u4f24\u5bb3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-noc-nocuity",
+      "word": "nocuity",
+      "display": "Nocuity",
+      "phonetic": "",
+      "translation": "\u6709\u5bb3\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-noc-nocuous",
+      "word": "nocuous",
+      "display": "Nocuous",
+      "phonetic": "",
+      "translation": "\u6709\u5bb3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-noc-noxious",
+      "word": "noxious",
+      "display": "Noxious",
+      "phonetic": "",
+      "translation": "\u6709\u5bb3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-noc",
+  "type": "root",
+  "notes": ""
+}

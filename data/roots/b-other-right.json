@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "rootId": "b-other-right",
+  "root": "\u5176\u4ed6\uff08\u53f3\u4fa7\uff09",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-other-right-badge",
+      "word": "badge",
+      "display": "Badge",
+      "phonetic": "",
+      "translation": "\u4f1a\u957f\uff1b\u6807\u8bb0\uff1b\u8c61\u5f81",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-balance",
+      "word": "balance",
+      "display": "Balance",
+      "phonetic": "",
+      "translation": "\u5e73\u8861",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-balcony",
+      "word": "balcony",
+      "display": "Balcony",
+      "phonetic": "",
+      "translation": "\u9633\u53f0\uff1b\u697c\u5ea7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-ban",
+      "word": "ban",
+      "display": "Ban",
+      "phonetic": "",
+      "translation": "\u7981\u6b62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-bay",
+      "word": "bay",
+      "display": "Bay",
+      "phonetic": "",
+      "translation": "\u6d77\u6e7e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-beach",
+      "word": "beach",
+      "display": "Beach",
+      "phonetic": "",
+      "translation": "\u6d77\u6ee9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-beam",
+      "word": "beam",
+      "display": "Beam",
+      "phonetic": "",
+      "translation": "\u5149\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-behalf",
+      "word": "behalf",
+      "display": "Behalf",
+      "phonetic": "",
+      "translation": "\u5229\u76ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-bell",
+      "word": "bell",
+      "display": "Bell",
+      "phonetic": "",
+      "translation": "\u949f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-big",
+      "word": "big",
+      "display": "Big",
+      "phonetic": "",
+      "translation": "\u5927\u7684\uff1b\u91cd\u8981\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-bill",
+      "word": "bill",
+      "display": "Bill",
+      "phonetic": "",
+      "translation": "\u8d26\u5355\uff1b\u5e7f\u544a\uff1b\u949e\u7968",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-billion",
+      "word": "billion",
+      "display": "Billion",
+      "phonetic": "",
+      "translation": "\u5341\u4ebf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-biscuits",
+      "word": "biscuits",
+      "display": "Biscuits",
+      "phonetic": "",
+      "translation": "\u997c\u5e72",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-bite",
+      "word": "bite",
+      "display": "Bite",
+      "phonetic": "",
+      "translation": "\u54ac",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-bitter",
+      "word": "bitter",
+      "display": "Bitter",
+      "phonetic": "",
+      "translation": "\u75bc\u75db\u7684\uff1b\u82e6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-blend",
+      "word": "blend",
+      "display": "Blend",
+      "phonetic": "",
+      "translation": "\u6df7\u5408\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-boil",
+      "word": "boil",
+      "display": "Boil",
+      "phonetic": "",
+      "translation": "\u716e\u6cb8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-bonus",
+      "word": "bonus",
+      "display": "Bonus",
+      "phonetic": "",
+      "translation": "\u5956\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-brake",
+      "word": "brake",
+      "display": "Brake",
+      "phonetic": "",
+      "translation": "\u5236\u52a8\uff1b\u5239\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-bread",
+      "word": "bread",
+      "display": "Bread",
+      "phonetic": "",
+      "translation": "\u9762\u5305",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-break",
+      "word": "break",
+      "display": "Break",
+      "phonetic": "",
+      "translation": "\u6253\u7834",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-breakdown",
+      "word": "breakdown",
+      "display": "Breakdown",
+      "phonetic": "",
+      "translation": "\u4e2d\u65ad\uff1b\u51fb\u6e83",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-breakfast",
+      "word": "breakfast",
+      "display": "Breakfast",
+      "phonetic": "",
+      "translation": "\u65e9\u9910",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-browse",
+      "word": "browse",
+      "display": "Browse",
+      "phonetic": "",
+      "translation": "\u6d4f\u89c8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-buffet",
+      "word": "buffet",
+      "display": "Buffet",
+      "phonetic": "",
+      "translation": "\u81ea\u52a9\u9910",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-but",
+      "word": "but",
+      "display": "But",
+      "phonetic": "",
+      "translation": "\u4f46\u662f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-button",
+      "word": "button",
+      "display": "Button",
+      "phonetic": "",
+      "translation": "\u6309\u94ae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-right-buy",
+      "word": "buy",
+      "display": "Buy",
+      "phonetic": "",
+      "translation": "\u4e70",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-other",
+  "rootLevel": 3,
+  "rootPath": "b>b-other>b-other-right",
+  "type": "category",
+  "notes": ""
+}

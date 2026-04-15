@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "u-uni",
+  "root": "uni",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "u-uni-unify",
+      "word": "unify",
+      "display": "Unify",
+      "phonetic": "",
+      "translation": "\u4f7f\u8054\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-uni-union",
+      "word": "union",
+      "display": "Union",
+      "phonetic": "",
+      "translation": "\u8054\u5408\uff1b\u56e2\u7ed3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-uni-unique",
+      "word": "unique",
+      "display": "Unique",
+      "phonetic": "",
+      "translation": "\u552f\u4e00\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-uni-unit",
+      "word": "unit",
+      "display": "Unit",
+      "phonetic": "",
+      "translation": "\u5355\u4f4d\uff1b\u5143\u4ef6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-uni-unite",
+      "word": "unite",
+      "display": "Unite",
+      "phonetic": "",
+      "translation": "\u56e2\u7ed3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-uni-universal",
+      "word": "universal",
+      "display": "Universal",
+      "phonetic": "",
+      "translation": "\u666e\u904d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-uni-universe",
+      "word": "universe",
+      "display": "Universe",
+      "phonetic": "",
+      "translation": "\u5b87\u5b99",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-uni-university",
+      "word": "university",
+      "display": "University",
+      "phonetic": "",
+      "translation": "\u5927\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "u",
+  "rootLevel": 1,
+  "rootPath": "u>u-uni",
+  "type": "root",
+  "notes": ""
+}

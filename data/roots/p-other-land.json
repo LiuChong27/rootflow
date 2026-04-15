@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "rootId": "p-other-land",
+  "root": "\u571f\u5730",
+  "meaning": "land",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-other-land-paddle",
+      "word": "paddle",
+      "display": "Paddle",
+      "phonetic": "",
+      "translation": "\u8239\u6868",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-panorama",
+      "word": "panorama",
+      "display": "Panorama",
+      "phonetic": "",
+      "translation": "\u5168\u666f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pathway",
+      "word": "pathway",
+      "display": "Pathway",
+      "phonetic": "",
+      "translation": "\u8def\u5f84",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pea",
+      "word": "pea",
+      "display": "Pea",
+      "phonetic": "",
+      "translation": "\u8c4c\u8c46",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-peach",
+      "word": "peach",
+      "display": "Peach",
+      "phonetic": "",
+      "translation": "\u6843\u6811",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-peanut",
+      "word": "peanut",
+      "display": "Peanut",
+      "phonetic": "",
+      "translation": "\u82b1\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pear",
+      "word": "pear",
+      "display": "Pear",
+      "phonetic": "",
+      "translation": "\u68a8\u6811",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pearl",
+      "word": "pearl",
+      "display": "Pearl",
+      "phonetic": "",
+      "translation": "\u73cd\u73e0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-peninsula",
+      "word": "peninsula",
+      "display": "Peninsula",
+      "phonetic": "",
+      "translation": "\u534a\u5c9b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pile",
+      "word": "pile",
+      "display": "Pile",
+      "phonetic": "",
+      "translation": "\u5806\uff1b\u5927\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pillar",
+      "word": "pillar",
+      "display": "Pillar",
+      "phonetic": "",
+      "translation": "\u67f1\uff1b\u680b\u6881",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pioneer",
+      "word": "pioneer",
+      "display": "Pioneer",
+      "phonetic": "",
+      "translation": "\u5148\u9a71\uff1b\u5f00\u62d3\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pirate",
+      "word": "pirate",
+      "display": "Pirate",
+      "phonetic": "",
+      "translation": "\u6d77\u76d7\uff1b\u76d7\u7248",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pit",
+      "word": "pit",
+      "display": "Pit",
+      "phonetic": "",
+      "translation": "\u5751",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pitch",
+      "word": "pitch",
+      "display": "Pitch",
+      "phonetic": "",
+      "translation": "\u6ca5\u9752\uff1b\u6254",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-plague",
+      "word": "plague",
+      "display": "Plague",
+      "phonetic": "",
+      "translation": "\u761f\u75ab\uff1b\u707e\u5bb3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-plateau",
+      "word": "plateau",
+      "display": "Plateau",
+      "phonetic": "",
+      "translation": "\u9ad8\u539f\uff1b\u5e73\u7a33\u72b6\u6001",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-plentiful",
+      "word": "plentiful",
+      "display": "Plentiful",
+      "phonetic": "",
+      "translation": "\u5bcc\u88d5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-plenty",
+      "word": "plenty",
+      "display": "Plenty",
+      "phonetic": "",
+      "translation": "\u4e30\u5bcc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-plough",
+      "word": "plough",
+      "display": "Plough",
+      "phonetic": "",
+      "translation": "\u8015\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-porcelain",
+      "word": "porcelain",
+      "display": "Porcelain",
+      "phonetic": "",
+      "translation": "\u74f7\u5668\uff1b\u7cbe\u81f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-porch",
+      "word": "porch",
+      "display": "Porch",
+      "phonetic": "",
+      "translation": "\u5165\u53e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-pork",
+      "word": "pork",
+      "display": "Pork",
+      "phonetic": "",
+      "translation": "\u732a\u8089",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-portable",
+      "word": "portable",
+      "display": "Portable",
+      "phonetic": "",
+      "translation": "\u4fbf\u6377\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-land-porter",
+      "word": "porter",
+      "display": "Porter",
+      "phonetic": "",
+      "translation": "\u5b88\u95e8\u5458",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p-other",
+  "rootLevel": 3,
+  "rootPath": "p>p-other>p-other-land",
+  "type": "branch",
+  "notes": ""
+}

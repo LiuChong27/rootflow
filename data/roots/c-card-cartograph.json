@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "c-card-cartograph",
+  "root": "cartograph\u5730\u56fe",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-card-cartograph-cartographer",
+      "word": "cartographer",
+      "display": "Cartographer",
+      "phonetic": "",
+      "translation": "\u5236\u56fe\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-card-cartograph-cartographic",
+      "word": "cartographic",
+      "display": "Cartographic",
+      "phonetic": "",
+      "translation": "\u5730\u56fe\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-card-cartograph-cartography",
+      "word": "cartography",
+      "display": "Cartography",
+      "phonetic": "",
+      "translation": "\u7ed8\u56fe\u6cd5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-card",
+  "rootLevel": 3,
+  "rootPath": "c>c-card>c-card-cartograph",
+  "type": "branch",
+  "notes": ""
+}

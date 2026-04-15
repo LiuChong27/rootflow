@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "p-poli",
+  "root": "poli=polit=polis \u56fd\u5bb6\u57ce\u5e02",
+  "meaning": "city, state",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-poli-cosmopolis",
+      "word": "cosmopolis",
+      "display": "Cosmopolis",
+      "phonetic": "",
+      "translation": "\u56fd\u9645\u90fd\u5e02",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-impolitic",
+      "word": "impolitic",
+      "display": "Impolitic",
+      "phonetic": "",
+      "translation": "\u5931\u7b56\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-megalopolis",
+      "word": "megalopolis",
+      "display": "Megalopolis",
+      "phonetic": "",
+      "translation": "\u7279\u5927\u57ce\u5e02",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-metropolitan",
+      "word": "metropolitan",
+      "display": "Metropolitan",
+      "phonetic": "",
+      "translation": "\u9996\u90fd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-police",
+      "word": "police",
+      "display": "Police",
+      "phonetic": "",
+      "translation": "\u8b66\u5bdf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-policy",
+      "word": "policy",
+      "display": "Policy",
+      "phonetic": "",
+      "translation": "\u653f\u7b56\uff1b\u65b9\u9488",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-politic",
+      "word": "politic",
+      "display": "Politic",
+      "phonetic": "",
+      "translation": "\u7cbe\u660e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-political",
+      "word": "political",
+      "display": "Political",
+      "phonetic": "",
+      "translation": "\u653f\u6cbb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-politician",
+      "word": "politician",
+      "display": "Politician",
+      "phonetic": "",
+      "translation": "\u653f\u6cbb\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-politicize",
+      "word": "politicize",
+      "display": "Politicize",
+      "phonetic": "",
+      "translation": "\u4ece\u4e8b\u653f\u6cbb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-poli-polity",
+      "word": "polity",
+      "display": "Polity",
+      "phonetic": "",
+      "translation": "\u653f\u4f53\uff1b\u56fd\u5bb6\u7ec4\u7ec7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-poli",
+  "type": "root",
+  "notes": ""
+}

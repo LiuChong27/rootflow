@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "e-ego",
+  "root": "ego\u81ea\u6211",
+  "meaning": "ego",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-ego-egocentric",
+      "word": "egocentric",
+      "display": "Egocentric",
+      "phonetic": "",
+      "translation": "\u81ea\u6211\u4e2d\u5fc3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-egocentricity",
+      "word": "egocentricity",
+      "display": "Egocentricity",
+      "phonetic": "",
+      "translation": "\u81ea\u6211\u4e2d\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-egoism",
+      "word": "egoism",
+      "display": "Egoism",
+      "phonetic": "",
+      "translation": "\u81ea\u6211\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-egoist",
+      "word": "egoist",
+      "display": "Egoist",
+      "phonetic": "",
+      "translation": "\u81ea\u6211\u4e3b\u4e49\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-egotism",
+      "word": "egotism",
+      "display": "Egotism",
+      "phonetic": "",
+      "translation": "\u81ea\u6211\u4e2d\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-egotistic",
+      "word": "egotistic",
+      "display": "Egotistic",
+      "phonetic": "",
+      "translation": "\u4efb\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-egotize",
+      "word": "egotize",
+      "display": "Egotize",
+      "phonetic": "",
+      "translation": "\u8fc7\u5206\u5f3a\u8c03\u81ea\u6211",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-egotrip",
+      "word": "egotrip",
+      "display": "Egotrip",
+      "phonetic": "",
+      "translation": "\u8ffd\u540d\u9010\u5229",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ego-equal",
+      "word": "equal",
+      "display": "Equal",
+      "phonetic": "",
+      "translation": "\u76f8\u7b49\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e",
+  "rootLevel": 2,
+  "rootPath": "e>e-ego",
+  "type": "root",
+  "notes": ""
+}

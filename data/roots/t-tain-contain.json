@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "t-tain-contain",
+  "root": "tain=ten=tin",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-tain-contain-contain",
+      "word": "contain",
+      "display": "Contain",
+      "phonetic": "",
+      "translation": "\u5305\u542b\uff1b\u5bb9\u7eb3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-content",
+      "word": "content",
+      "display": "Content",
+      "phonetic": "",
+      "translation": "\u6ee1\u8db3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-impertinent",
+      "word": "impertinent",
+      "display": "Impertinent",
+      "phonetic": "",
+      "translation": "\u65e0\u793c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-maintain",
+      "word": "maintain",
+      "display": "Maintain",
+      "phonetic": "",
+      "translation": "\u7ef4\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-retain",
+      "word": "retain",
+      "display": "Retain",
+      "phonetic": "",
+      "translation": "\u4fdd\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-sustain",
+      "word": "sustain",
+      "display": "Sustain",
+      "phonetic": "",
+      "translation": "\u652f\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-tenet",
+      "word": "tenet",
+      "display": "Tenet",
+      "phonetic": "",
+      "translation": "\u4fe1\u6761\uff1b\u6559\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-tolerance",
+      "word": "tolerance",
+      "display": "Tolerance",
+      "phonetic": "",
+      "translation": "\u5bbd\u5bb9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-tolerate",
+      "word": "tolerate",
+      "display": "Tolerate",
+      "phonetic": "",
+      "translation": "\u5bb9\u5fcd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-contain-tolerate-2",
+      "word": "tolerate",
+      "display": "Tolerate",
+      "phonetic": "",
+      "translation": "\u5bb9\u8bb8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-tain-contain",
+  "type": "root",
+  "notes": ""
+}

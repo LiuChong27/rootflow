@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "p-other-negative",
+  "root": "\u8d1f\u9762\u8bcd",
+  "meaning": "negative",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-other-negative-panic",
+      "word": "panic",
+      "display": "Panic",
+      "phonetic": "",
+      "translation": "\u6050\u614c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pant",
+      "word": "pant",
+      "display": "Pant",
+      "phonetic": "",
+      "translation": "\u5598\u6c14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pants",
+      "word": "pants",
+      "display": "Pants",
+      "phonetic": "",
+      "translation": "\u88e4\u5b50\uff1b\u77ed\u88e4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pessimistic",
+      "word": "pessimistic",
+      "display": "Pessimistic",
+      "phonetic": "",
+      "translation": "\u60b2\u89c2\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pharmacy",
+      "word": "pharmacy",
+      "display": "Pharmacy",
+      "phonetic": "",
+      "translation": "\u836f\u623f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pill",
+      "word": "pill",
+      "display": "Pill",
+      "phonetic": "",
+      "translation": "\u836f\u4e38",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pity",
+      "word": "pity",
+      "display": "Pity",
+      "phonetic": "",
+      "translation": "\u53ef\u601c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-plaster",
+      "word": "plaster",
+      "display": "Plaster",
+      "phonetic": "",
+      "translation": "\u818f\u836f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pneumonia",
+      "word": "pneumonia",
+      "display": "Pneumonia",
+      "phonetic": "",
+      "translation": "\u80ba\u708e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-pray",
+      "word": "pray",
+      "display": "Pray",
+      "phonetic": "",
+      "translation": "\u6073\u6c42\uff1b\u7948\u7977",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-prayer",
+      "word": "prayer",
+      "display": "Prayer",
+      "phonetic": "",
+      "translation": "\u7948\u7977\uff1b\u7977\u544a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-preach",
+      "word": "preach",
+      "display": "Preach",
+      "phonetic": "",
+      "translation": "\u5ba3\u8bb2\uff1b\u8bf4\u5c06",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-prudent",
+      "word": "prudent",
+      "display": "Prudent",
+      "phonetic": "",
+      "translation": "\u8c28\u614e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-psychiatry",
+      "word": "psychiatry",
+      "display": "Psychiatry",
+      "phonetic": "",
+      "translation": "\u7cbe\u795e\u75c5\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-psychology",
+      "word": "psychology",
+      "display": "Psychology",
+      "phonetic": "",
+      "translation": "\u5fc3\u7406\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-other-negative-puzzle",
+      "word": "puzzle",
+      "display": "Puzzle",
+      "phonetic": "",
+      "translation": "\u96be\u9898",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p-other",
+  "rootLevel": 3,
+  "rootPath": "p>p-other>p-other-negative",
+  "type": "branch",
+  "notes": ""
+}

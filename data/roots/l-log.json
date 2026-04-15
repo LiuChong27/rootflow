@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "l-log",
+  "root": "log\u8bf4\u8bdd",
+  "meaning": "speak",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-log-apologize",
+      "word": "apologize",
+      "display": "Apologize",
+      "phonetic": "",
+      "translation": "\u9053\u6b49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-log-apology",
+      "word": "apology",
+      "display": "Apology",
+      "phonetic": "",
+      "translation": "\u9053\u6b49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-log-biology",
+      "word": "biology",
+      "display": "Biology",
+      "phonetic": "",
+      "translation": "\u751f\u7269\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-log-dialogue",
+      "word": "dialogue",
+      "display": "Dialogue",
+      "phonetic": "",
+      "translation": "\u5bf9\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-log-logic",
+      "word": "logic",
+      "display": "Logic",
+      "phonetic": "",
+      "translation": "\u903b\u8f91",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-log-logical",
+      "word": "logical",
+      "display": "Logical",
+      "phonetic": "",
+      "translation": "\u903b\u8f91\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-log-psychology",
+      "word": "psychology",
+      "display": "Psychology",
+      "phonetic": "",
+      "translation": "\u5fc3\u7406\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-log-technology",
+      "word": "technology",
+      "display": "Technology",
+      "phonetic": "",
+      "translation": "\u6280\u672f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-log",
+  "type": "root",
+  "notes": ""
+}

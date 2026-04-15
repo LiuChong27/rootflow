@@ -12,7 +12,11 @@
       </view>
 
       <view class="page-toolbar">
-        <view class="seed-picker" :class="{ 'is-disabled': isLoading }" @tap="openSeedSelector">
+        <view
+          class="seed-picker"
+          :class="{ 'is-disabled': isLoading, 'is-open': isSeedDropdownOpen }"
+          @tap="openSeedSelector"
+        >
           <text class="seed-picker__label">字母</text>
           <text class="seed-picker__value">{{ currentSeed.toUpperCase() }}</text>
           <text class="seed-picker__count">{{ currentSeedWordCount }} 词</text>
@@ -20,6 +24,30 @@
         </view>
         <view class="theme-toggle" :class="{ 'is-disabled': isLoading }" @tap="toggleTheme">
           <text>{{ currentTheme === 'theme-dark-zen' ? '夜' : '昼' }}</text>
+        </view>
+      </view>
+
+      <view v-if="isSeedDropdownOpen" class="seed-dropdown">
+        <view class="seed-dropdown__header">
+          <text class="seed-dropdown__title">切换字母</text>
+          <text class="seed-dropdown__meta">严格按现有词根树数据展示</text>
+        </view>
+        <view class="seed-dropdown__grid">
+          <view
+            v-for="option in alphabetOptions"
+            :key="option.seed"
+            class="seed-dropdown__item"
+            :class="{
+              'is-current': option.seed === currentSeed,
+              'is-disabled': !option.available,
+            }"
+            @tap="selectAlphabetOption(option)"
+          >
+            <text class="seed-dropdown__item-letter">{{ option.label }}</text>
+            <text class="seed-dropdown__item-count">{{
+              option.available ? option.wordCount + ' 词' : '暂无'
+            }}</text>
+          </view>
         </view>
       </view>
 
@@ -85,8 +113,12 @@
           <scroll-view
             class="tree-scroll"
             scroll-x
+            scroll-y
             :show-scrollbar="false"
             :scroll-left="treeScrollLeft"
+            :scroll-top="treeScrollTop"
+            :scroll-with-animation="isAutoScrollingTree"
+            @scroll="handleTreeScroll"
           >
             <view
               class="tree-stage"
@@ -161,7 +193,7 @@
                 </view>
               </view>
 
-              <view v-else-if="!isLoading && !errorMsg" class="tree-empty">
+              <view v-else-if="!isLoading && !errorMsg && !hasRenderableTree" class="tree-empty">
                 <text>当前字母暂时没有可展示的词根树。</text>
               </view>
             </view>
@@ -177,13 +209,6 @@ import authService from '../../services/authService';
 import progressSyncService from '../../services/progressSyncService';
 import wordRepo from '../../services/wordRepo';
 
-const TREE_LIMITS = {
-  previewChildren: 4, // 优化：降低从 6 到 4，避免初始布局过复杂
-  previewWords: 3, // 优化：降低从 5 到 3，避免单个词根因单词过多导致卡顿
-  detailWords: 12,
-  childGrowStep: 3, // 优化：点击 +N 时每次增加 3 个，而不是 6 个
-  wordGrowStep: 3,
-};
 const WORD_DOUBLE_TAP_WINDOW = 280;
 
 const TYPE_LABELS = {
@@ -229,8 +254,9 @@ const NODE_METRICS = {
     paddingX: 10,
   },
   word: { minWidth: 72, maxWidth: 180, height: 32, titleSize: 10, subtitleSize: 9, paddingX: 10 },
-  bud: { minWidth: 50, maxWidth: 80, height: 28, titleSize: 10, subtitleSize: 9, paddingX: 8 },
 };
+
+const ALPHABET_SEEDS = 'abcdefghijklmnopqrstuvwxyz'.split('');
 
 const LAYOUT = {
   paddingX: 48, // 优化：从 64 → 48
@@ -310,6 +336,7 @@ export default {
       currentSeed: 'a',
       seedList: [],
       seedStats: {},
+      isSeedDropdownOpen: false,
       dataSourceHealth: null,
       baseRoot: null,
       topBranches: [],
@@ -329,11 +356,15 @@ export default {
       isLoading: false,
       loadingCounter: 0,
       viewportWidth: 320,
+      viewportHeight: 480,
       canvasContext: null,
       drawTimer: null,
       treeScrollLeft: 0,
-      visibleChildLimits: {},
-      visibleWordLimits: {},
+      treeScrollTop: 0,
+      hasUserScrolledTree: false,
+      hasInitialTreePositioned: false,
+      isAutoScrollingTree: false,
+      autoScrollReleaseTimer: null,
       treeSideMap: {},
       cachedTreeModel: null,
       treeModelDeps: { expandedIds: null, expandedWordRootIds: null, focusPath: null },
@@ -364,14 +395,38 @@ export default {
     currentSeedWordCount() {
       return this.getSeedWordCount(this.currentSeed);
     },
+    baseSnapshot() {
+      const baseRootId = this.baseRoot && this.baseRoot.rootId;
+      if (!baseRootId) return null;
+      return this.getSnapshot(baseRootId) || null;
+    },
+    alphabetOptions() {
+      return ALPHABET_SEEDS.map((seed) => ({
+        seed,
+        label: seed.toUpperCase(),
+        available: this.seedList.includes(seed),
+        wordCount: this.getSeedWordCount(seed),
+      }));
+    },
+    hasRenderableTree() {
+      if (!this.baseRoot) return false;
+      if ((this.topBranches || []).length) return true;
+      const baseSnapshot = this.baseSnapshot;
+      return Boolean(
+        baseSnapshot &&
+          Array.isArray(baseSnapshot.words) &&
+          baseSnapshot.words.length &&
+          this.shouldShowWords(this.baseRoot.rootId, baseSnapshot),
+      );
+    },
     isCloudLinked() {
       return authService.isLoggedIn();
     },
     hintText() {
       if (this.errorMsg) return '';
       if (this.isLoading) return '正在同步词根树...';
-      if (this.focusedNodeId) return '单击词根展开或收起，双击单词朗读。';
-      return '单击词根探索，单击单词看卡片，双击朗读。';
+      if (this.focusedNodeId) return '单击词根继续展开或收起，单击单词看卡片，双击朗读。';
+      return '单击词根探索整棵词根树，单击单词看卡片，双击朗读。';
     },
     activeWordCardData() {
       if (!this.activeWordCardId) return null;
@@ -440,13 +495,19 @@ export default {
   },
 
   updated() {
-    this.scheduleDraw();
+    if (!this.isAutoScrollingTree) {
+      this.scheduleDraw();
+    }
   },
 
   onUnload() {
     if (this.drawTimer) {
       clearTimeout(this.drawTimer);
       this.drawTimer = null;
+    }
+    if (this.autoScrollReleaseTimer) {
+      clearTimeout(this.autoScrollReleaseTimer);
+      this.autoScrollReleaseTimer = null;
     }
     this.destroyAudioContext();
   },
@@ -463,20 +524,22 @@ export default {
     },
 
     openSeedSelector() {
-      if (this.isLoading || !Array.isArray(this.seedList) || !this.seedList.length) return;
-      const itemList = this.seedList.map((seed) => {
-        const prefix = seed === this.currentSeed ? '✓ ' : '';
-        return prefix + seed.toUpperCase() + ' · ' + this.getSeedWordCount(seed) + ' 词';
-      });
-      uni.showActionSheet({
-        itemList,
-        success: (res) => {
-          const tapIndex = Number(res && res.tapIndex);
-          if (Number.isNaN(tapIndex) || tapIndex < 0 || tapIndex >= this.seedList.length) return;
-          const targetSeed = this.seedList[tapIndex];
-          this.selectSeed(targetSeed);
-        },
-      });
+      if (this.isLoading) return;
+      this.isSeedDropdownOpen = !this.isSeedDropdownOpen;
+    },
+
+    closeSeedDropdown() {
+      this.isSeedDropdownOpen = false;
+    },
+
+    selectAlphabetOption(option) {
+      if (!option || !option.seed) return;
+      this.closeSeedDropdown();
+      if (!option.available) {
+        uni.showToast({ title: option.label + ' 暂无词根树', icon: 'none' });
+        return;
+      }
+      this.selectSeed(option.seed);
     },
 
     destroyAudioContext() {
@@ -627,37 +690,36 @@ export default {
         totalSiblings: siblings.length,
         totalChildren: Number(branch.totalChildren || branch.childCount || 0),
         totalWords: Number(branch.totalWords || branch.wordCount || 0),
-        childOffset: 0,
-        childLimit: this.visibleChildLimits[branch.rootId] || TREE_LIMITS.previewChildren,
-        wordOffset: 0,
-        wordLimit: this.visibleWordLimits[branch.rootId] || TREE_LIMITS.previewWords,
-        hasMoreChildren: Boolean(branch.hasMoreChildren),
-        hasMoreWords: Boolean(branch.hasMoreWords),
+      };
+    },
+
+    buildBaseSnapshot(siblings = []) {
+      if (!this.baseRoot) return null;
+      const baseWords = Array.isArray(this.baseRoot.words) ? this.baseRoot.words : [];
+      return {
+        root: this.baseRoot,
+        path: [this.baseRoot],
+        parent: null,
+        siblings: [],
+        children: siblings,
+        words: baseWords,
+        totalSiblings: 0,
+        totalChildren: siblings.length,
+        totalWords: baseWords.length,
       };
     },
 
     async loadSeedMindTree() {
       if (!this.currentSeed) return;
+      this.closeSeedDropdown();
       const requestToken = this.beginRequest('seed');
       this.startLoading();
       this.errorMsg = '';
       try {
-        // 优化：初始加载使用更小的窗口，减少首屏数据量
-        const tree = await wordRepo.getSeedMindTree(this.currentSeed, {
-          childLimit: 3, // 初始只加载 3 个子词根
-          wordLimit: 2, // 初始只加载 2 个单词
-        });
+        const tree = await wordRepo.getSeedMindTree(this.currentSeed);
         if (!this.isLatestRequest('seed', requestToken)) return;
         this.baseRoot = tree.baseRoot;
         this.topBranches = Array.isArray(tree.branches) ? tree.branches : [];
-        this.visibleChildLimits = this.topBranches.reduce((acc, branch) => {
-          acc[branch.rootId] = TREE_LIMITS.previewChildren;
-          return acc;
-        }, {});
-        this.visibleWordLimits = this.topBranches.reduce((acc, branch) => {
-          acc[branch.rootId] = TREE_LIMITS.previewWords;
-          return acc;
-        }, {});
         this.treeSideMap = this.topBranches.reduce((acc, branch) => {
           acc[branch.rootId] = branch.sideHint || 'left';
           return acc;
@@ -687,10 +749,20 @@ export default {
           acc[branch.rootId] = this.buildTopBranchSnapshot(branch, siblings);
           return acc;
         }, {});
+        const baseSnapshot = this.buildBaseSnapshot(siblings);
+        if (baseSnapshot && this.baseRoot && this.baseRoot.rootId) {
+          snapshotMap[this.baseRoot.rootId] = baseSnapshot;
+        }
         this.branchSnapshots = snapshotMap;
         // 首屏保持一级主干展开，后续由点击交互控制逐层展开/收起
         this.expandedNodeIds = this.topBranches.map((item) => item.rootId);
-        this.expandedWordRootIds = new Set();
+        this.expandedWordRootIds =
+          !this.topBranches.length &&
+          baseSnapshot &&
+          Array.isArray(baseSnapshot.words) &&
+          baseSnapshot.words.length
+            ? new Set([this.baseRoot.rootId])
+            : new Set();
         this.cachedTreeModel = null; // 清除缓存，避免显示旧数据
         this.focusedNodeId = '';
         this.activeWordCardId = '';
@@ -700,10 +772,18 @@ export default {
         this.focusPath = this.baseRoot ? [this.baseRoot] : [];
         this.activePathIds = this.baseRoot ? [this.baseRoot.rootId] : [];
         this.treeScrollLeft = 0;
+        this.treeScrollTop = 0;
+        this._treeViewportScrollLeft = 0;
+        this._treeViewportScrollTop = 0;
+        this.hasUserScrolledTree = false;
+        this.hasInitialTreePositioned = false;
         uni.setStorageSync('rf_root_seed', this.currentSeed);
         this.$nextTick(() => {
-          this.syncViewport();
-          this.syncTreeScroll();
+          this.centerTreeNode(this.baseRoot ? 'base-' + this.baseRoot.rootId : '', {
+            animate: false,
+          });
+          this.hasInitialTreePositioned = true;
+          this.scheduleDraw();
         });
       } catch (error) {
         if (!this.isLatestRequest('seed', requestToken)) return;
@@ -718,6 +798,7 @@ export default {
 
     selectSeed(seed) {
       if (!seed || seed === this.currentSeed || this.isLoading) return;
+      this.closeSeedDropdown();
       this.currentSeed = seed;
       this.loadSeedMindTree();
     },
@@ -746,6 +827,140 @@ export default {
 
     isRootNodeKind(kind) {
       return kind === 'root' || kind === 'section' || kind === 'branch' || kind === 'category';
+    },
+
+    releaseAutoScrollLock() {
+      if (this.autoScrollReleaseTimer) clearTimeout(this.autoScrollReleaseTimer);
+      this.autoScrollReleaseTimer = setTimeout(() => {
+        this.isAutoScrollingTree = false;
+        this.autoScrollReleaseTimer = null;
+      }, 220);
+    },
+
+    setTreeScroll(nextLeft, nextTop, options = {}) {
+      const { animate = true } = options;
+      const normalizedLeft = Math.max(0, Math.round(Number(nextLeft) || 0));
+      const normalizedTop = Math.max(0, Math.round(Number(nextTop) || 0));
+      this._treeViewportScrollLeft = normalizedLeft;
+      this._treeViewportScrollTop = normalizedTop;
+      this.isAutoScrollingTree = animate;
+      this.treeScrollLeft = normalizedLeft;
+      this.treeScrollTop = normalizedTop;
+      if (!animate) {
+        this.isAutoScrollingTree = false;
+        if (this.autoScrollReleaseTimer) {
+          clearTimeout(this.autoScrollReleaseTimer);
+          this.autoScrollReleaseTimer = null;
+        }
+        return;
+      }
+      this.releaseAutoScrollLock();
+    },
+
+    handleTreeScroll(event) {
+      const detail = (event && event.detail) || {};
+      this._treeViewportScrollLeft = Math.max(0, Math.round(Number(detail.scrollLeft) || 0));
+      this._treeViewportScrollTop = Math.max(0, Math.round(Number(detail.scrollTop) || 0));
+      if (!this.isAutoScrollingTree) {
+        this.hasUserScrolledTree = true;
+      }
+    },
+
+    getViewportBounds() {
+      const currentLeft = Number((this._treeViewportScrollLeft ?? this.treeScrollLeft) || 0);
+      const currentTop = Number((this._treeViewportScrollTop ?? this.treeScrollTop) || 0);
+      return {
+        minX: currentLeft,
+        maxX: currentLeft + Number(this.viewportWidth || 0),
+        minY: currentTop,
+        maxY: currentTop + Number(this.viewportHeight || 0),
+      };
+    },
+
+    getNodesBounds(nodes) {
+      const list = Array.isArray(nodes) ? nodes.filter(Boolean) : [];
+      if (!list.length) return null;
+      return list.reduce(
+        (acc, node) => ({
+          minX: Math.min(acc.minX, node.x - node.width / 2),
+          maxX: Math.max(acc.maxX, node.x + node.width / 2),
+          minY: Math.min(acc.minY, node.y - node.height / 2),
+          maxY: Math.max(acc.maxY, node.y + node.height / 2),
+        }),
+        {
+          minX: Number.POSITIVE_INFINITY,
+          maxX: Number.NEGATIVE_INFINITY,
+          minY: Number.POSITIVE_INFINITY,
+          maxY: Number.NEGATIVE_INFINITY,
+        },
+      );
+    },
+
+    getBranchNodes(rootId, options = {}) {
+      const { includeChildren = true, includeWords = true } = options;
+      const normalizedRootId = this.normalizeRootId(rootId);
+      if (!normalizedRootId) return [];
+      const model = this.treeModel;
+      return (model.nodes || []).filter((node) => {
+        if (!node) return false;
+        if (node.id === 'root-' + normalizedRootId) return true;
+        if (
+          includeWords &&
+          node.kind === 'word' &&
+          this.normalizeRootId(node.ownerId) === normalizedRootId
+        ) {
+          return true;
+        }
+        if (
+          includeChildren &&
+          this.isRootNodeKind(node.kind) &&
+          this.normalizeRootId(node.data && node.data.parentRootId) === normalizedRootId
+        ) {
+          return true;
+        }
+        return false;
+      });
+    },
+
+    ensureNodesVisible(nodes, options = {}) {
+      const { padding = 24, animate = true } = options;
+      const bounds = this.getNodesBounds(nodes);
+      if (!bounds) return;
+      const viewport = this.getViewportBounds();
+      let nextLeft = viewport.minX;
+      let nextTop = viewport.minY;
+      const horizontalPadding = Math.min(padding, Math.max(12, this.viewportWidth / 6));
+      const verticalPadding = Math.min(padding, Math.max(12, this.viewportHeight / 6));
+
+      if (bounds.minX < viewport.minX + horizontalPadding) {
+        nextLeft = bounds.minX - horizontalPadding;
+      } else if (bounds.maxX > viewport.maxX - horizontalPadding) {
+        nextLeft = bounds.maxX - this.viewportWidth + horizontalPadding;
+      }
+
+      if (bounds.minY < viewport.minY + verticalPadding) {
+        nextTop = bounds.minY - verticalPadding;
+      } else if (bounds.maxY > viewport.maxY - verticalPadding) {
+        nextTop = bounds.maxY - this.viewportHeight + verticalPadding;
+      }
+
+      const normalizedLeft = Math.max(0, Math.round(nextLeft));
+      const normalizedTop = Math.max(0, Math.round(nextTop));
+      const currentLeft = Math.max(
+        0,
+        Math.round(Number(this._treeViewportScrollLeft ?? this.treeScrollLeft) || 0),
+      );
+      const currentTop = Math.max(
+        0,
+        Math.round(Number(this._treeViewportScrollTop ?? this.treeScrollTop) || 0),
+      );
+      if (normalizedLeft === currentLeft && normalizedTop === currentTop) return;
+      this.setTreeScroll(normalizedLeft, normalizedTop, { animate });
+    },
+
+    ensureBranchVisible(rootId, options = {}) {
+      const branchNodes = this.getBranchNodes(rootId, options);
+      this.ensureNodesVisible(branchNodes, { padding: 28, animate: true });
     },
 
     getLoadedDescendantRootIds(rootId) {
@@ -784,8 +999,8 @@ export default {
       this.lastTappedWordId = '';
       this.lastTappedWordAt = 0;
       this.$nextTick(() => {
-        this.syncViewport();
-        this.syncTreeScroll();
+        this.ensureBranchVisible(normalizedRootId, { includeChildren: false, includeWords: false });
+        this.scheduleDraw();
       });
     },
 
@@ -798,7 +1013,6 @@ export default {
         return;
       }
       const requestToken = this.beginRequest('branch');
-      this.startLoading();
       this.errorMsg = '';
       try {
         const snapshot =
@@ -817,14 +1031,12 @@ export default {
         this.activePathIds = uniqueIds(this.focusPath.map((item) => item.rootId));
         this.cachedTreeModel = null;
         this.$nextTick(() => {
-          this.syncViewport();
-          this.syncTreeScroll();
+          this.ensureBranchVisible(rootId);
+          this.scheduleDraw();
         });
       } catch (error) {
         if (!this.isLatestRequest('branch', requestToken)) return;
         this.errorMsg = this.formatRepoError(error);
-      } finally {
-        this.stopLoading();
       }
     },
 
@@ -894,9 +1106,7 @@ export default {
         return;
       }
 
-      const childLimit = this.visibleChildLimits[ownerId] || TREE_LIMITS.previewChildren;
-      const wordLimit = this.visibleWordLimits[ownerId] || TREE_LIMITS.previewWords;
-      const snapshot = await this.fetchBranchSnapshot(ownerId, { childLimit, wordLimit }, {});
+      const snapshot = await this.fetchBranchSnapshot(ownerId, {}, {});
       if (snapshot && Array.isArray(snapshot.words)) {
         const refreshedWord = snapshot.words.find((item) => item.id === wordId);
         if (refreshedWord) {
@@ -911,23 +1121,8 @@ export default {
       if (!normalizedRootId) return null;
       const scope = normalizeText(requestMeta && requestMeta.scope) || 'branch';
       const token = Number((requestMeta && requestMeta.token) || 0);
-      const childLimit =
-        options && typeof options.childLimit === 'number'
-          ? options.childLimit
-          : this.visibleChildLimits[normalizedRootId] || TREE_LIMITS.previewChildren;
-      const wordLimit =
-        options && typeof options.wordLimit === 'number'
-          ? options.wordLimit
-          : this.visibleWordLimits[normalizedRootId] || TREE_LIMITS.previewWords;
-      const snapshot = await wordRepo.getRootBranch(normalizedRootId, {
-        childOffset: 0,
-        childLimit,
-        wordOffset: 0,
-        wordLimit,
-      });
+      const snapshot = await wordRepo.getRootBranch(normalizedRootId, options);
       if (token && !this.isLatestRequest(scope, token)) return null;
-      this.visibleChildLimits = { ...this.visibleChildLimits, [normalizedRootId]: childLimit };
-      this.visibleWordLimits = { ...this.visibleWordLimits, [normalizedRootId]: wordLimit };
       this.branchSnapshots = { ...this.branchSnapshots, [normalizedRootId]: snapshot };
       return snapshot;
     },
@@ -936,22 +1131,30 @@ export default {
       const normalizedRootId = normalizeText(rootId).toLowerCase();
       if (!normalizedRootId) return;
       if (normalizedRootId === (this.baseRoot && this.baseRoot.rootId)) {
+        const baseSnapshot = this.getSnapshot(normalizedRootId) || this.buildBaseSnapshot();
         this.focusedNodeId = '';
         this.focusPath = this.baseRoot ? [this.baseRoot] : [];
         this.activePathIds = this.baseRoot ? [this.baseRoot.rootId] : [];
         this.expandedNodeIds = [...this.topBranchIds];
-        this.expandedWordRootIds = new Set();
+        this.expandedWordRootIds =
+          !this.topBranches.length &&
+          baseSnapshot &&
+          Array.isArray(baseSnapshot.words) &&
+          baseSnapshot.words.length
+            ? new Set([normalizedRootId])
+            : new Set();
         this.cachedTreeModel = null; // 清除缓存
         this.activeWordCardId = '';
         this.lastTappedWordId = '';
         this.lastTappedWordAt = 0;
         this.$nextTick(() => {
-          this.syncTreeScroll();
+          this.centerTreeNode('base-' + this.baseRoot.rootId);
+          this.hasUserScrolledTree = false;
+          this.scheduleDraw();
         });
         return;
       }
       const requestToken = this.beginRequest('branch');
-      this.startLoading();
       this.errorMsg = '';
       try {
         const snapshot = await this.fetchBranchSnapshot(
@@ -972,60 +1175,18 @@ export default {
         this.expandedWordRootIds = new Set([...(this.expandedWordRootIds || []), normalizedRootId]);
         this.cachedTreeModel = null; // 清除缓存
         this.$nextTick(() => {
-          this.syncViewport();
-          this.syncTreeScroll();
+          this.ensureBranchVisible(normalizedRootId);
+          this.scheduleDraw();
         });
       } catch (error) {
         if (!this.isLatestRequest('branch', requestToken)) return;
         this.errorMsg = this.formatRepoError(error);
-      } finally {
-        this.stopLoading();
-      }
-    },
-
-    async expandBud(ownerId, scope) {
-      const normalizedOwnerId = normalizeText(ownerId).toLowerCase();
-      if (!normalizedOwnerId) return;
-      const nextChildLimit =
-        scope === 'children'
-          ? (this.visibleChildLimits[normalizedOwnerId] || TREE_LIMITS.previewChildren) +
-            TREE_LIMITS.childGrowStep
-          : this.visibleChildLimits[normalizedOwnerId] || TREE_LIMITS.previewChildren;
-      const nextWordLimit =
-        scope === 'words'
-          ? (this.visibleWordLimits[normalizedOwnerId] || TREE_LIMITS.previewWords) +
-            TREE_LIMITS.wordGrowStep
-          : this.visibleWordLimits[normalizedOwnerId] || TREE_LIMITS.previewWords;
-      const requestToken = this.beginRequest('branch');
-      this.startLoading();
-      this.errorMsg = '';
-      try {
-        const snapshot = await this.fetchBranchSnapshot(
-          normalizedOwnerId,
-          { childLimit: nextChildLimit, wordLimit: nextWordLimit },
-          { scope: 'branch', token: requestToken },
-        );
-        if (!snapshot || !this.isLatestRequest('branch', requestToken)) return;
-        this.focusedNodeId = normalizedOwnerId;
-        this.focusPath =
-          Array.isArray(snapshot.path) && snapshot.path.length ? snapshot.path : this.focusPath;
-        this.activePathIds = uniqueIds(this.focusPath.map((item) => item.rootId));
-        this.expandedNodeIds = this.buildExpandedIds(this.activePathIds, normalizedOwnerId);
-        this.cachedTreeModel = null; // 清除缓存
-        this.$nextTick(() => {
-          this.syncViewport();
-          this.syncTreeScroll();
-        });
-      } catch (error) {
-        if (!this.isLatestRequest('branch', requestToken)) return;
-        this.errorMsg = this.formatRepoError(error);
-      } finally {
-        this.stopLoading();
       }
     },
 
     toggleTheme() {
       if (this.isLoading) return;
+      this.closeSeedDropdown();
       this.currentTheme =
         this.currentTheme === 'theme-dark-zen' ? 'theme-clay-pastel' : 'theme-dark-zen';
       uni.setStorageSync('user_theme', this.currentTheme);
@@ -1034,12 +1195,9 @@ export default {
 
     async handleTreeNodeTap(node) {
       if (!node) return;
+      this.closeSeedDropdown();
       if (node.kind === 'base') {
         await this.openRoot(this.baseRoot ? this.baseRoot.rootId : this.currentSeed);
-        return;
-      }
-      if (node.kind === 'bud') {
-        await this.expandBud(node.ownerId, node.scope);
         return;
       }
       if (node.kind === 'word') {
@@ -1159,31 +1317,8 @@ export default {
       };
     },
 
-    makeBudNode(scope, ownerId, hiddenCount, side, depth) {
-      const title = '+' + hiddenCount;
-      const subtitle = scope === 'children' ? '更多子枝' : '更多单词';
-      const size = measureNodeSize('bud', title, subtitle, 'MORE');
-      return {
-        id: 'bud-' + scope + '-' + ownerId,
-        kind: 'bud',
-        side,
-        depth,
-        width: size.width,
-        height: size.height,
-        title,
-        subtitle,
-        eyebrow: 'MORE',
-        badge: '',
-        ownerId,
-        scope,
-        hiddenCount,
-        isFocused: false,
-        isPath: false,
-      };
-    },
-
     getGapBetween(previous, next) {
-      const leafKinds = ['word', 'bud'];
+      const leafKinds = ['word'];
       if (
         leafKinds.includes(previous && previous.node && previous.node.kind) &&
         leafKinds.includes(next && next.node && next.node.kind)
@@ -1202,7 +1337,7 @@ export default {
 
     getHorizontalGap(depth, kind) {
       const gapBase = depth <= 1 ? LAYOUT.trunkGapX : LAYOUT.depthGapX;
-      return kind === 'word' || kind === 'bud' ? gapBase - 6 : gapBase;
+      return kind === 'word' ? gapBase - 6 : gapBase;
     },
 
     buildVisualTree(rootSummary, side, depth, isTop) {
@@ -1216,22 +1351,12 @@ export default {
         childRoots.forEach((child) => {
           childTrees.push(this.buildVisualTree(child, side, depth + 1, false));
         });
-        const hiddenChildren = Math.max(0, Number(snapshot.totalChildren || 0) - childRoots.length);
-        if (hiddenChildren > 0 && snapshot.hasMoreChildren) {
-          const budNode = this.makeBudNode('children', rootId, hiddenChildren, side, depth + 1);
-          childTrees.push({ node: budNode, children: [], subtreeHeight: budNode.height });
-        }
         if (this.shouldShowWords(rootId, snapshot)) {
           const words = Array.isArray(snapshot.words) ? snapshot.words : [];
           words.forEach((word) => {
             const wordNode = this.makeWordNode(word, side, depth + 1, rootId);
             childTrees.push({ node: wordNode, children: [], subtreeHeight: wordNode.height });
           });
-          const hiddenWords = Math.max(0, Number(snapshot.totalWords || 0) - words.length);
-          if (hiddenWords > 0 && snapshot.hasMoreWords) {
-            const budNode = this.makeBudNode('words', rootId, hiddenWords, side, depth + 1);
-            childTrees.push({ node: budNode, children: [], subtreeHeight: budNode.height });
-          }
         }
       }
       const subtreeHeight = Math.max(node.height, this.getStackHeight(childTrees));
@@ -1247,11 +1372,7 @@ export default {
           to: currentNode.id,
           side,
           tone:
-            currentNode.kind === 'bud'
-              ? 'tertiary'
-              : currentNode.isFocused || currentNode.isPath
-                ? 'primary'
-                : 'secondary',
+            currentNode.isFocused || currentNode.isPath ? 'primary' : 'secondary',
         });
       }
       if (!tree.children.length) return;
@@ -1332,6 +1453,22 @@ export default {
         if (side === 'right') rightTrees.push(tree);
         else leftTrees.push(tree);
       });
+      if (!this.topBranches.length) {
+        const baseSnapshot = this.baseSnapshot;
+        const baseRootId = this.baseRoot && this.baseRoot.rootId;
+        if (baseRootId && this.shouldShowWords(baseRootId, baseSnapshot)) {
+          const baseWords = Array.isArray(baseSnapshot && baseSnapshot.words)
+            ? baseSnapshot.words
+            : [];
+          baseWords.forEach((word, index) => {
+            const side = index % 2 === 0 ? 'left' : 'right';
+            const wordNode = this.makeWordNode(word, side, 1, baseRootId);
+            const tree = { node: wordNode, children: [], subtreeHeight: wordNode.height };
+            if (side === 'right') rightTrees.push(tree);
+            else leftTrees.push(tree);
+          });
+        }
+      }
       const placedNodes = [];
       const connections = [];
       const totalLeftHeight = this.getStackHeight(leftTrees);
@@ -1421,11 +1558,18 @@ export default {
     },
 
     getNodeStyle(node) {
+      const zIndex =
+        node.kind === 'base'
+          ? 4
+          : node.kind === 'word'
+            ? 2
+            : 3;
       return {
         left: Math.round(node.x - node.width / 2) + 'px',
         top: Math.round(node.y - node.height / 2) + 'px',
         width: node.width + 'px',
         height: node.height + 'px',
+        zIndex,
       };
     },
 
@@ -1436,21 +1580,28 @@ export default {
         const rect = res && res[0];
         if (!rect) return;
         this.viewportWidth = Math.max(320, Math.round(rect.width || 320));
+        this.viewportHeight = Math.max(360, Math.round(rect.height || 360));
         this.canvasContext = uni.createCanvasContext('mindTreeCanvas', this);
         this.$nextTick(() => {
-          this.syncTreeScroll();
+          if (!this.hasInitialTreePositioned && this.baseRoot) {
+            this.centerTreeNode('base-' + this.baseRoot.rootId, { animate: false });
+            this.hasInitialTreePositioned = true;
+          }
           this.scheduleDraw();
         });
       });
     },
 
-    syncTreeScroll() {
+    centerTreeNode(nodeId, options = {}) {
       const model = this.treeModel;
-      if (!model.baseNode) {
-        this.treeScrollLeft = 0;
+      const targetId = normalizeText(nodeId);
+      const targetNode =
+        (targetId && model.nodes.find((node) => node.id === targetId)) || model.baseNode || null;
+      if (!targetNode) {
+        this.setTreeScroll(0, 0, { animate: false });
         return;
       }
-      this.treeScrollLeft = Math.max(0, Math.round(model.baseNode.x - this.viewportWidth / 2));
+      this.setTreeScroll(targetNode.x - this.viewportWidth / 2, targetNode.y - this.viewportHeight / 2, options);
     },
 
     scheduleDraw() {
@@ -1573,11 +1724,17 @@ export default {
   line-height: 1.54;
   opacity: 0.8;
 }
+.mind-card__subtitle {
+  min-height: 68rpx;
+  display: block;
+}
 .page-toolbar {
   margin-top: 24rpx;
   display: flex;
   align-items: center;
   gap: 14rpx;
+  position: relative;
+  z-index: 20;
 }
 .seed-picker {
   flex: 1;
@@ -1608,6 +1765,64 @@ export default {
   margin-left: auto;
   font-size: 18rpx;
   opacity: 0.62;
+  transition: transform 0.18s ease;
+}
+.seed-picker.is-open .seed-picker__arrow {
+  transform: rotate(180deg);
+}
+.seed-dropdown {
+  margin-top: 14rpx;
+  padding: 20rpx;
+  border-radius: 28rpx;
+  box-sizing: border-box;
+}
+.seed-dropdown__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12rpx;
+  margin-bottom: 18rpx;
+}
+.seed-dropdown__title {
+  font-size: 22rpx;
+  font-weight: 700;
+}
+.seed-dropdown__meta {
+  font-size: 18rpx;
+  opacity: 0.64;
+}
+.seed-dropdown__grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12rpx;
+}
+.seed-dropdown__item {
+  min-height: 86rpx;
+  padding: 14rpx 12rpx;
+  border-radius: 22rpx;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 8rpx;
+}
+.seed-dropdown__item-letter {
+  font-size: 28rpx;
+  font-weight: 700;
+  line-height: 1;
+}
+.seed-dropdown__item-count {
+  font-size: 18rpx;
+  opacity: 0.76;
+}
+.seed-dropdown__item.is-current {
+  transform: translateY(-2rpx);
+}
+.seed-dropdown__item.is-disabled {
+  opacity: 0.44;
+}
+.seed-dropdown__item.is-current .seed-dropdown__item-count {
+  opacity: 0.9;
 }
 .theme-toggle {
   flex-shrink: 0;
@@ -1648,6 +1863,7 @@ export default {
   box-sizing: border-box;
 }
 .theme-dark-zen .seed-picker,
+.theme-dark-zen .seed-dropdown,
 .theme-dark-zen .mind-card,
 .theme-dark-zen .detail-card,
 .theme-dark-zen .loading-banner,
@@ -1661,7 +1877,16 @@ export default {
   background: rgba(255, 255, 255, 0.06);
   border: 1rpx solid rgba(255, 255, 255, 0.1);
 }
+.theme-dark-zen .seed-dropdown__item {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1rpx solid rgba(255, 255, 255, 0.08);
+}
+.theme-dark-zen .seed-dropdown__item.is-current {
+  background: rgba(255, 126, 95, 0.16);
+  border-color: rgba(255, 126, 95, 0.34);
+}
 .theme-clay-pastel .seed-picker,
+.theme-clay-pastel .seed-dropdown,
 .theme-clay-pastel .mind-card,
 .theme-clay-pastel .detail-card,
 .theme-clay-pastel .loading-banner,
@@ -1675,6 +1900,14 @@ export default {
   background: rgba(255, 255, 255, 0.82);
   border: 1rpx solid rgba(72, 103, 138, 0.1);
 }
+.theme-clay-pastel .seed-dropdown__item {
+  background: rgba(247, 244, 238, 0.88);
+  border: 1rpx solid rgba(72, 103, 138, 0.08);
+}
+.theme-clay-pastel .seed-dropdown__item.is-current {
+  background: rgba(255, 126, 95, 0.12);
+  border-color: rgba(235, 104, 74, 0.24);
+}
 .theme-dark-zen .path-pill.is-current {
   background: rgba(255, 126, 95, 0.16);
   border-color: rgba(255, 126, 95, 0.34);
@@ -1686,6 +1919,11 @@ export default {
 .seed-picker.is-disabled,
 .theme-toggle.is-disabled {
   opacity: 0.5;
+}
+@media (max-width: 520px) {
+  .seed-dropdown__grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 .loading-banner,
 .error-banner,
@@ -1738,23 +1976,34 @@ export default {
   line-height: 1.56;
   opacity: 0.78;
 }
+.mind-hint {
+  min-height: 34rpx;
+}
 .tree-viewport {
   margin-top: 22rpx;
   width: 100%;
+  height: 72vh;
+  min-height: 760rpx;
+  overflow: hidden;
 }
 .tree-scroll {
   width: 100%;
+  height: 100%;
   white-space: nowrap;
 }
 .tree-stage {
   position: relative;
   display: inline-block;
   min-width: 100%;
+  min-height: 100%;
 }
 .tree-canvas,
 .tree-node-layer {
   position: absolute;
   inset: 0;
+}
+.tree-canvas {
+  pointer-events: none;
 }
 .tree-node-layer {
   pointer-events: none;
@@ -1902,6 +2151,10 @@ export default {
   justify-content: center;
   gap: 2rpx;
   pointer-events: auto;
+  transition:
+    transform 180ms ease,
+    box-shadow 180ms ease,
+    opacity 180ms ease;
 }
 .tree-node.is-left {
   text-align: right;
@@ -1960,19 +2213,27 @@ export default {
   background: rgba(244, 247, 251, 0.96);
   border: 1rpx solid rgba(222, 231, 247, 0.8);
   color: #1d2b39;
+  animation: wordNodeFadeIn 180ms ease;
 }
 .theme-clay-pastel .tree-node--word {
   background: rgba(255, 255, 255, 0.96);
   border: 1rpx solid rgba(88, 112, 138, 0.16);
-}
-.theme-dark-zen .tree-node--bud,
-.theme-clay-pastel .tree-node--bud {
-  border: 1rpx dashed rgba(255, 255, 255, 0.18);
+  animation: wordNodeFadeIn 180ms ease;
 }
 .tree-node.is-path,
 .tree-node.is-focused,
 .tree-node.is-word-active {
   transform: translateY(-2rpx);
+}
+@keyframes wordNodeFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8rpx);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 .tree-empty {
   position: absolute;

@@ -1,0 +1,4374 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-d",
+  "rootIds": [
+    "d",
+    "d-de",
+    "d-de-remove",
+    "d-de-say",
+    "d-dict",
+    "d-dict-speak",
+    "d-dit-don-dow",
+    "d-duc-duct",
+    "d-duc-duct-dic-doc",
+    "d-other",
+    "d-other-daily",
+    "d-other-demo",
+    "d-other-dent",
+    "d-other-dis",
+    "d-other-dis-around",
+    "d-other-dis-create",
+    "d-other-dis-separate",
+    "d-other-dom",
+    "d-other-dom-dorm",
+    "d-other-dwo",
+    "d-other-dwo-diplo",
+    "d-strengthen",
+    "d-strengthen-deed",
+    "d-summary"
+  ],
+  "roots": {
+    "d": {
+      "version": 1,
+      "rootId": "d",
+      "root": "D",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "d",
+      "type": "root",
+      "notes": "\u6839\u636ed.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "d-de": {
+      "version": 1,
+      "rootId": "d-de",
+      "root": "de",
+      "meaning": "de",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "d",
+      "rootLevel": 2,
+      "rootPath": "d>d-de",
+      "type": "root",
+      "notes": ""
+    },
+    "d-de-remove": {
+      "version": 1,
+      "rootId": "d-de-remove",
+      "root": "\u53bb\u9664\uff1b\u4e0b",
+      "meaning": "remove",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-de-remove-decline",
+          "word": "decline",
+          "display": "Decline",
+          "phonetic": "",
+          "translation": "\u4e0b\u964d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-decrease",
+          "word": "decrease",
+          "display": "Decrease",
+          "phonetic": "",
+          "translation": "\u51cf\u5c11",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-defect",
+          "word": "defect",
+          "display": "Defect",
+          "phonetic": "",
+          "translation": "\u8fc7\u5931\uff1b\u7f3a\u70b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-deficiency",
+          "word": "deficiency",
+          "display": "Deficiency",
+          "phonetic": "",
+          "translation": "\u7f3a\u4e4f\uff1b\u4e0d\u8db3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-deficit",
+          "word": "deficit",
+          "display": "Deficit",
+          "phonetic": "",
+          "translation": "\u4e8f\u635f\uff1b\u7f3a\u4e4f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-define",
+          "word": "define",
+          "display": "Define",
+          "phonetic": "",
+          "translation": "\u4e0b\u5b9a\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-definition",
+          "word": "definition",
+          "display": "Definition",
+          "phonetic": "",
+          "translation": "\u5b9a\u4e49\uff1b\u89e3\u91ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-degenerate",
+          "word": "degenerate",
+          "display": "Degenerate",
+          "phonetic": "",
+          "translation": "\u8870\u9000",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-delay",
+          "word": "delay",
+          "display": "Delay",
+          "phonetic": "",
+          "translation": "\u5ef6\u8fdf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-denial",
+          "word": "denial",
+          "display": "Denial",
+          "phonetic": "",
+          "translation": "\u5426\u8ba4\uff1b\u62d2\u7edd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-deny",
+          "word": "deny",
+          "display": "Deny",
+          "phonetic": "",
+          "translation": "\u5426\u8ba4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-depart",
+          "word": "depart",
+          "display": "Depart",
+          "phonetic": "",
+          "translation": "\u79bb\u5f00\uff1b\u8fc7\u53bb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-department",
+          "word": "department",
+          "display": "Department",
+          "phonetic": "",
+          "translation": "\u90e8\u95e8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-depress",
+          "word": "depress",
+          "display": "Depress",
+          "phonetic": "",
+          "translation": "\u538b\u6291\uff1b\u964d\u4f4e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-deprive",
+          "word": "deprive",
+          "display": "Deprive",
+          "phonetic": "",
+          "translation": "\u5265\u593a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-remove-descendant",
+          "word": "descendant",
+          "display": "Descendant",
+          "phonetic": "",
+          "translation": "\u5b50\u5b59",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-de",
+      "rootLevel": 3,
+      "rootPath": "d>d-de>d-de-remove",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-de-say": {
+      "version": 1,
+      "rootId": "d-de-say",
+      "root": "\u8bf4",
+      "meaning": "say",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-de-say-dam",
+          "word": "dam",
+          "display": "Dam",
+          "phonetic": "",
+          "translation": "\u6c34\u575d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-damage",
+          "word": "damage",
+          "display": "Damage",
+          "phonetic": "",
+          "translation": "\u635f\u5bb3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-damn",
+          "word": "damn",
+          "display": "Damn",
+          "phonetic": "",
+          "translation": "\u8c34\u8d23\uff1b\u8be5\u6b7b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-debate",
+          "word": "debate",
+          "display": "Debate",
+          "phonetic": "",
+          "translation": "\u4e89\u8fa9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-deceit",
+          "word": "deceit",
+          "display": "Deceit",
+          "phonetic": "",
+          "translation": "\u6b3a\u9a97\uff1b\u8499\u9a97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-deceive",
+          "word": "deceive",
+          "display": "Deceive",
+          "phonetic": "",
+          "translation": "\u6b3a\u9a97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-declaration",
+          "word": "declaration",
+          "display": "Declaration",
+          "phonetic": "",
+          "translation": "\u5ba3\u5e03",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-declare",
+          "word": "declare",
+          "display": "Declare",
+          "phonetic": "",
+          "translation": "\u5ba3\u544a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-deduct",
+          "word": "deduct",
+          "display": "Deduct",
+          "phonetic": "",
+          "translation": "\u6263\u9664\uff1b\u6f14\u7ece",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-delegate",
+          "word": "delegate",
+          "display": "Delegate",
+          "phonetic": "",
+          "translation": "\u4ee3\u8868\uff1b\u6388\u6743",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-denounce",
+          "word": "denounce",
+          "display": "Denounce",
+          "phonetic": "",
+          "translation": "\u516c\u5f00\u6307\u8d23",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-de-say-depict",
+          "word": "depict",
+          "display": "Depict",
+          "phonetic": "",
+          "translation": "\u63cf\u8ff0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-de",
+      "rootLevel": 3,
+      "rootPath": "d>d-de>d-de-say",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-dict": {
+      "version": 1,
+      "rootId": "d-dict",
+      "root": "dict \u8bf4 \u5ba3\u544a",
+      "meaning": "dict",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-dict-abdicant",
+          "word": "abdicant",
+          "display": "Abdicant",
+          "phonetic": "",
+          "translation": "\u9000\u4f4d\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-abdicate",
+          "word": "abdicate",
+          "display": "Abdicate",
+          "phonetic": "",
+          "translation": "\u653e\u5f03\uff1b\u8f9e\u804c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-abdication",
+          "word": "abdication",
+          "display": "Abdication",
+          "phonetic": "",
+          "translation": "\u5f03\u6743\uff1b\u8ba9\u4f4d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-addiction",
+          "word": "addiction",
+          "display": "Addiction",
+          "phonetic": "",
+          "translation": "\u4e0a\u763e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-addictology",
+          "word": "addictology",
+          "display": "Addictology",
+          "phonetic": "",
+          "translation": "\u763e\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-dedicate",
+          "word": "dedicate",
+          "display": "Dedicate",
+          "phonetic": "",
+          "translation": "\u732e\u8eab\u4e8e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-dictate",
+          "word": "dictate",
+          "display": "Dictate",
+          "phonetic": "",
+          "translation": "\u53e3\u8ff0\uff1b\u6307\u4ee4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-dictation",
+          "word": "dictation",
+          "display": "Dictation",
+          "phonetic": "",
+          "translation": "\u542c\u5199\uff1b\u53e3\u8ff0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-dictator",
+          "word": "dictator",
+          "display": "Dictator",
+          "phonetic": "",
+          "translation": "\u72ec\u88c1\u8005\uff1b\u4e13\u5236\u541b\u4e3b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-diction",
+          "word": "diction",
+          "display": "Diction",
+          "phonetic": "",
+          "translation": "\u63aa\u8f9e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-dictionary",
+          "word": "dictionary",
+          "display": "Dictionary",
+          "phonetic": "",
+          "translation": "\u8bcd\u5178",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-dictum",
+          "word": "dictum",
+          "display": "Dictum",
+          "phonetic": "",
+          "translation": "\u6743\u5a01\u7684\u65ad\u8a00\uff1b\u683c\u8a00\uff1b\u8b66\u53e5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-predicate",
+          "word": "predicate",
+          "display": "Predicate",
+          "phonetic": "",
+          "translation": "\u65ad\u8a00\uff1b\u8c13\u8bed",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d",
+      "rootLevel": 2,
+      "rootPath": "d>d-dict",
+      "type": "root",
+      "notes": ""
+    },
+    "d-dict-speak": {
+      "version": 1,
+      "rootId": "d-dict-speak",
+      "root": "\u5bf9\u7740\u4e0b\u9762\u4e00\u7fa4\u4eba\u8bf4",
+      "meaning": "speak",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-dict-speak-contradict",
+          "word": "contradict",
+          "display": "Contradict",
+          "phonetic": "",
+          "translation": "\u53cd\u9a73",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-index",
+          "word": "index",
+          "display": "Index",
+          "phonetic": "",
+          "translation": "\u7d22\u5f15\uff1b\u6307\u6570",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-indicate",
+          "word": "indicate",
+          "display": "Indicate",
+          "phonetic": "",
+          "translation": "\u6307\u660e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-indict",
+          "word": "indict",
+          "display": "Indict",
+          "phonetic": "",
+          "translation": "\u8d77\u8bc9\uff1b\u63a7\u544a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-interdict",
+          "word": "interdict",
+          "display": "Interdict",
+          "phonetic": "",
+          "translation": "\u7981\u6b62\uff1b\u9650\u5236",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-jurisdiction",
+          "word": "jurisdiction",
+          "display": "Jurisdiction",
+          "phonetic": "",
+          "translation": "\u53f8\u6cd5\u6743\uff1b\u88c1\u5224\u6743",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-malediction",
+          "word": "malediction",
+          "display": "Malediction",
+          "phonetic": "",
+          "translation": "\u8bc5\u5492\uff1b\u6c61\u8511\uff1b\u8bfd\u8c24",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-predicament",
+          "word": "predicament",
+          "display": "Predicament",
+          "phonetic": "",
+          "translation": "\u56f0\u5883\uff1b\u7a98\u5883",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-predict",
+          "word": "predict",
+          "display": "Predict",
+          "phonetic": "",
+          "translation": "\u9884\u77e5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dict-speak-valedictory",
+          "word": "valedictory",
+          "display": "Valedictory",
+          "phonetic": "",
+          "translation": "\u544a\u522b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-dict",
+      "rootLevel": 3,
+      "rootPath": "d>d-dict>d-dict-speak",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-dit-don-dow": {
+      "version": 1,
+      "rootId": "d-dit-don-dow",
+      "root": "dit don dow do dot dat give\u7ed9",
+      "meaning": "give",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-dit-don-dow-antidote",
+          "word": "antidote",
+          "display": "Antidote",
+          "phonetic": "",
+          "translation": "\u89e3\u6bd2\u5242",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-condonation",
+          "word": "condonation",
+          "display": "Condonation",
+          "phonetic": "",
+          "translation": "\u8d4e\u7f6a\uff1b\u8d4e\u6106",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-condone",
+          "word": "condone",
+          "display": "Condone",
+          "phonetic": "",
+          "translation": "\u539f\u8c05\uff1b\u5bbd\u6055",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-data",
+          "word": "data",
+          "display": "Data",
+          "phonetic": "",
+          "translation": "\u6570\u636e\uff08\u590d\u6570\u5f62\u5f0f\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-datum",
+          "word": "datum",
+          "display": "Datum",
+          "phonetic": "",
+          "translation": "\u8d44\u6599\uff1b\u8bba\u636e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-delegate",
+          "word": "delegate",
+          "display": "Delegate",
+          "phonetic": "",
+          "translation": "\u4ee3\u8868\uff1b\u6388\u6743\uff08\u5411\u4e0b\u9881\u53d1\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-deliver",
+          "word": "deliver",
+          "display": "Deliver",
+          "phonetic": "",
+          "translation": "\u4ea4\u4ed8\uff1b\u4f20\u9012\uff1b\u5206\u5a29",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-delivery",
+          "word": "delivery",
+          "display": "Delivery",
+          "phonetic": "",
+          "translation": "\u9012\u9001",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-donate",
+          "word": "donate",
+          "display": "Donate",
+          "phonetic": "",
+          "translation": "\u6350\u8d60",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-donation",
+          "word": "donation",
+          "display": "Donation",
+          "phonetic": "",
+          "translation": "\u6350\u8d60\u54c1\uff1b\u6350\u6b3e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-donee",
+          "word": "donee",
+          "display": "Donee",
+          "phonetic": "",
+          "translation": "\u53d7\u8d60\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-donor",
+          "word": "donor",
+          "display": "Donor",
+          "phonetic": "",
+          "translation": "\u6350\u8d60\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-dose",
+          "word": "dose",
+          "display": "Dose",
+          "phonetic": "",
+          "translation": "\u8ba1\u91cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-dot",
+          "word": "dot",
+          "display": "Dot",
+          "phonetic": "",
+          "translation": "\u5ac1\u5986",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-dowager",
+          "word": "dowager",
+          "display": "Dowager",
+          "phonetic": "",
+          "translation": "\u7ee7\u627f\u9057\u4ea7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-dower",
+          "word": "dower",
+          "display": "Dower",
+          "phonetic": "",
+          "translation": "\u5ac1\u5986",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-dowry",
+          "word": "dowry",
+          "display": "Dowry",
+          "phonetic": "",
+          "translation": "\u5ac1\u5986\uff1b\u5929\u8d44",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-edit",
+          "word": "edit",
+          "display": "Edit",
+          "phonetic": "",
+          "translation": "\u7f16\u8f91\uff1b\u526a\u8f91",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-editor",
+          "word": "editor",
+          "display": "Editor",
+          "phonetic": "",
+          "translation": "\u7f16\u8005\uff1b\u7f16\u8f91\u5668",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-editorial",
+          "word": "editorial",
+          "display": "Editorial",
+          "phonetic": "",
+          "translation": "\u793e\u8bba\uff1b\u7f16\u8f91\u4e0a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-editorship",
+          "word": "editorship",
+          "display": "Editorship",
+          "phonetic": "",
+          "translation": "\u7f16\u8f91\u5de5\u4f5c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-endow",
+          "word": "endow",
+          "display": "Endow",
+          "phonetic": "",
+          "translation": "\u6350\u8d60\uff1b\u7ed9\u4e88",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-extradite",
+          "word": "extradite",
+          "display": "Extradite",
+          "phonetic": "",
+          "translation": "\u5f15\u6e21",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-pardon",
+          "word": "pardon",
+          "display": "Pardon",
+          "phonetic": "",
+          "translation": "\u539f\u8c05\uff1b\u5bbd\u6055",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-subeditor",
+          "word": "subeditor",
+          "display": "Subeditor",
+          "phonetic": "",
+          "translation": "\u526f\u4e3b\u7f16",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-tradition",
+          "word": "tradition",
+          "display": "Tradition",
+          "phonetic": "",
+          "translation": "\u4f20\u7edf\uff1b\u7ba1\u7406",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-traditional",
+          "word": "traditional",
+          "display": "Traditional",
+          "phonetic": "",
+          "translation": "\u4f20\u7edf\u7684\uff1b\u60ef\u4f8b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-traditionally",
+          "word": "traditionally",
+          "display": "Traditionally",
+          "phonetic": "",
+          "translation": "\u4f20\u7edf\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-dit-don-dow-traditionist",
+          "word": "traditionist",
+          "display": "Traditionist",
+          "phonetic": "",
+          "translation": "\u4f20\u7edf\u4e3b\u4e49\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d",
+      "rootLevel": 2,
+      "rootPath": "d>d-dit-don-dow",
+      "type": "root",
+      "notes": ""
+    },
+    "d-duc-duct": {
+      "version": 1,
+      "rootId": "d-duc-duct",
+      "root": "duc duct lead \u5f15\u5bfc\uff1b\u6559\u5bfc",
+      "meaning": "lead",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-duc-duct-abduct",
+          "word": "abduct",
+          "display": "Abduct",
+          "phonetic": "",
+          "translation": "\u8bf1\u62d0\uff1b\u7ed1\u67b6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-adduce",
+          "word": "adduce",
+          "display": "Adduce",
+          "phonetic": "",
+          "translation": "\u5f15\u8bc1\uff1b\u4e3e\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-adduct",
+          "word": "adduct",
+          "display": "Adduct",
+          "phonetic": "",
+          "translation": "\u5185\u6536\u808c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-deduce",
+          "word": "deduce",
+          "display": "Deduce",
+          "phonetic": "",
+          "translation": "\u6f14\u7ece\uff1b\u63a8\u65ad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-duct",
+          "word": "duct",
+          "display": "Duct",
+          "phonetic": "",
+          "translation": "\u7ba1\u5b50\uff1b\u8fd0\u8f93\u7ba1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-educate",
+          "word": "educate",
+          "display": "Educate",
+          "phonetic": "",
+          "translation": "\u6559\u80b2\uff1b\u57f9\u517b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-educe",
+          "word": "educe",
+          "display": "Educe",
+          "phonetic": "",
+          "translation": "\u5f15\u8bf1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-induce",
+          "word": "induce",
+          "display": "Induce",
+          "phonetic": "",
+          "translation": "\u5f15\u8bf1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-induct",
+          "word": "induct",
+          "display": "Induct",
+          "phonetic": "",
+          "translation": "\u5f15\u5165",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-introduction",
+          "word": "introduction",
+          "display": "Introduction",
+          "phonetic": "",
+          "translation": "\u4ecb\u7ecd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-produce",
+          "word": "produce",
+          "display": "Produce",
+          "phonetic": "",
+          "translation": "\u63d0\u51fa\uff1b\u751f\u4ea7\uff1b\u4ea7\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-product",
+          "word": "product",
+          "display": "Product",
+          "phonetic": "",
+          "translation": "\u4ea7\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-traduce",
+          "word": "traduce",
+          "display": "Traduce",
+          "phonetic": "",
+          "translation": "\u8bcb\u6bc1\uff1b\u8bfd\u8c24",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d",
+      "rootLevel": 2,
+      "rootPath": "d>d-duc-duct",
+      "type": "root",
+      "notes": ""
+    },
+    "d-duc-duct-dic-doc": {
+      "version": 1,
+      "rootId": "d-duc-duct-dic-doc",
+      "root": "dic doc teach\u6559",
+      "meaning": "teach",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-duc-duct-dic-doc-didactic",
+          "word": "didactic",
+          "display": "Didactic",
+          "phonetic": "",
+          "translation": "\u8bf4\u6559\u7684\uff1b\u6559\u8bf2\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-disciple",
+          "word": "disciple",
+          "display": "Disciple",
+          "phonetic": "",
+          "translation": "\u5f1f\u5b50\uff1b\u5b66\u751f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-discipline",
+          "word": "discipline",
+          "display": "Discipline",
+          "phonetic": "",
+          "translation": "\u7eaa\u5f8b\uff1b\u5b66\u79d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-docent",
+          "word": "docent",
+          "display": "Docent",
+          "phonetic": "",
+          "translation": "\u8bb2\u5e08\uff1b\u5bfc\u6e38",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-docile",
+          "word": "docile",
+          "display": "Docile",
+          "phonetic": "",
+          "translation": "\u542c\u8bdd\u7684\uff1b\u6e29\u987a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-doctor",
+          "word": "doctor",
+          "display": "Doctor",
+          "phonetic": "",
+          "translation": "\u535a\u58eb\uff1b\u533b\u751f\uff1b\u4fee\u8865\uff1b\u4e32\u6539",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-doctoral",
+          "word": "doctoral",
+          "display": "Doctoral",
+          "phonetic": "",
+          "translation": "\u535a\u58eb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-document",
+          "word": "document",
+          "display": "Document",
+          "phonetic": "",
+          "translation": "\u6587\u4ef6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-documentary",
+          "word": "documentary",
+          "display": "Documentary",
+          "phonetic": "",
+          "translation": "\u7eaa\u5f55\u7247",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-duc-duct-dic-doc-indoctrinate",
+          "word": "indoctrinate",
+          "display": "Indoctrinate",
+          "phonetic": "",
+          "translation": "\u6559\u6388",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-duc-duct",
+      "rootLevel": 3,
+      "rootPath": "d>d-duc-duct>d-duc-duct-dic-doc",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other": {
+      "version": 1,
+      "rootId": "d-other",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-damp",
+          "word": "damp",
+          "display": "Damp",
+          "phonetic": "",
+          "translation": "\u6f6e\u6e7f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dare",
+          "word": "dare",
+          "display": "Dare",
+          "phonetic": "",
+          "translation": "\u6562",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-darling",
+          "word": "darling",
+          "display": "Darling",
+          "phonetic": "",
+          "translation": "\u5fc3\u7231\u7684\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-deal",
+          "word": "deal",
+          "display": "Deal",
+          "phonetic": "",
+          "translation": "\u5904\u7406\uff0c\u5bf9\u5f85\uff0c\u4ea4\u6613",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dealer",
+          "word": "dealer",
+          "display": "Dealer",
+          "phonetic": "",
+          "translation": "\u5546\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dean",
+          "word": "dean",
+          "display": "Dean",
+          "phonetic": "",
+          "translation": "\u5927\u5b66\u9662\u957f\uff1b\u7267\u5e08",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dexter",
+          "word": "dexter",
+          "display": "Dexter",
+          "phonetic": "",
+          "translation": "right\u53f3\u3001\u53f3\u624b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dexterous",
+          "word": "dexterous",
+          "display": "Dexterous",
+          "phonetic": "",
+          "translation": "\u7075\u5de7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-diamond",
+          "word": "diamond",
+          "display": "Diamond",
+          "phonetic": "",
+          "translation": "\u94bb\u77f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-disc",
+          "word": "disc",
+          "display": "Disc",
+          "phonetic": "",
+          "translation": "\u5706\u76d8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-doom",
+          "word": "doom",
+          "display": "Doom",
+          "phonetic": "",
+          "translation": "\u60b2\u89c2\uff1b\u6cae\u4e27",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-drom-syndrome",
+          "word": "syndrome",
+          "display": "Syndrome",
+          "phonetic": "",
+          "translation": "\u7efc\u5408\u75c7\u72b6\uff08\u4e00\u7cfb\u5217\u95ee\u9898\u51fa\u73b0\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d",
+      "rootLevel": 2,
+      "rootPath": "d>d-other",
+      "type": "root",
+      "notes": ""
+    },
+    "d-other-daily": {
+      "version": 1,
+      "rootId": "d-other-daily",
+      "root": "daily\u6bcf\u65e5\u7684",
+      "meaning": "daily",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-daily-dairy",
+          "word": "dairy",
+          "display": "Dairy",
+          "phonetic": "",
+          "translation": "\u725b\u5976\u5e97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-dawn",
+          "word": "dawn",
+          "display": "Dawn",
+          "phonetic": "",
+          "translation": "\u9ece\u660e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-day",
+          "word": "day",
+          "display": "Day",
+          "phonetic": "",
+          "translation": "\u5929",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-daylight",
+          "word": "daylight",
+          "display": "Daylight",
+          "phonetic": "",
+          "translation": "\u65e5\u5149",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-daytime",
+          "word": "daytime",
+          "display": "Daytime",
+          "phonetic": "",
+          "translation": "\u767d\u5929",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-dazzle",
+          "word": "dazzle",
+          "display": "Dazzle",
+          "phonetic": "",
+          "translation": "\u8000\u773c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-dead",
+          "word": "dead",
+          "display": "Dead",
+          "phonetic": "",
+          "translation": "\u5b8c\u5168\u5730\uff1b\u6b7b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-deadline",
+          "word": "deadline",
+          "display": "Deadline",
+          "phonetic": "",
+          "translation": "\u6700\u540e\u671f\u9650",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-deadly",
+          "word": "deadly",
+          "display": "Deadly",
+          "phonetic": "",
+          "translation": "\u77e5\u540d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-deaf",
+          "word": "deaf",
+          "display": "Deaf",
+          "phonetic": "",
+          "translation": "\u804b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-die",
+          "word": "die",
+          "display": "Die",
+          "phonetic": "",
+          "translation": "\u6b7b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-daily-diet",
+          "word": "diet",
+          "display": "Diet",
+          "phonetic": "",
+          "translation": "\u98df\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other",
+      "rootLevel": 3,
+      "rootPath": "d>d-other>d-other-daily",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-demo": {
+      "version": 1,
+      "rootId": "d-other-demo",
+      "root": "demo\u4eba\u6c11",
+      "meaning": "demo",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-demo-demagogism",
+          "word": "demagogism",
+          "display": "Demagogism",
+          "phonetic": "",
+          "translation": "\u717d\u52a8\u884c\u4e3a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-demagogue",
+          "word": "demagogue",
+          "display": "Demagogue",
+          "phonetic": "",
+          "translation": "\u717d\u52a8\u8005\uff08\u539f\u6c11\u4f17\u9886\u8896\uff0c\u540e\u86ca\u60d1\u6c11\u5fc3\u7684\u653f\u5ba2\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-demagogy",
+          "word": "demagogy",
+          "display": "Demagogy",
+          "phonetic": "",
+          "translation": "\u717d\u52a8\u884c\u4e3a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-democracy",
+          "word": "democracy",
+          "display": "Democracy",
+          "phonetic": "",
+          "translation": "\u6c11\u4e3b\u653f\u6743",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-democrat",
+          "word": "democrat",
+          "display": "Democrat",
+          "phonetic": "",
+          "translation": "\u6c11\u4e3b\u4e3b\u4e49\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-democratic",
+          "word": "democratic",
+          "display": "Democratic",
+          "phonetic": "",
+          "translation": "\u6c11\u4e3b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-demography",
+          "word": "demography",
+          "display": "Demography",
+          "phonetic": "",
+          "translation": "\u4eba\u53e3\u7edf\u8ba1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-demonstrate",
+          "word": "demonstrate",
+          "display": "Demonstrate",
+          "phonetic": "",
+          "translation": "\u8bc1\u660e\uff1b\u6f14\u793a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-demos",
+          "word": "demos",
+          "display": "Demos",
+          "phonetic": "",
+          "translation": "\u6c11\u4f17\uff0c\u5927\u4f17",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-demotic",
+          "word": "demotic",
+          "display": "Demotic",
+          "phonetic": "",
+          "translation": "\u6c11\u4f17\u7684\uff1b\u901a\u4fd7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-endemic",
+          "word": "endemic",
+          "display": "Endemic",
+          "phonetic": "",
+          "translation": "\u5730\u65b9\u6027\u7684\uff1b\u5730\u65b9\u75c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-epidemic",
+          "word": "epidemic",
+          "display": "Epidemic",
+          "phonetic": "",
+          "translation": "\u6d41\u884c\u75c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-demo-pandemic",
+          "word": "pandemic",
+          "display": "Pandemic",
+          "phonetic": "",
+          "translation": "\u5927\u6d41\u884c\u75c5\uff08pan=whole\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other",
+      "rootLevel": 3,
+      "rootPath": "d>d-other>d-other-demo",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dent": {
+      "version": 1,
+      "rootId": "d-other-dent",
+      "root": "dent\u7259\u9f7f",
+      "meaning": "dent",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dent-dandelion",
+          "word": "dandelion",
+          "display": "Dandelion",
+          "phonetic": "",
+          "translation": "\u84b2\u516c\u82f1/\u952f\u9f7f\u72b6\u53f6\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-dentagia",
+          "word": "dentagia",
+          "display": "Dentagia",
+          "phonetic": "",
+          "translation": "\u9f7f\u75db",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-dental",
+          "word": "dental",
+          "display": "Dental",
+          "phonetic": "",
+          "translation": "\u7259\u79d1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-dentary",
+          "word": "dentary",
+          "display": "Dentary",
+          "phonetic": "",
+          "translation": "\u7259\u9f7f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-dentifrice",
+          "word": "dentifrice",
+          "display": "Dentifrice",
+          "phonetic": "",
+          "translation": "\u7259\u7c89\uff1b\u7259\u818f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-dentist",
+          "word": "dentist",
+          "display": "Dentist",
+          "phonetic": "",
+          "translation": "\u7259\u533b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-dentography",
+          "word": "dentography",
+          "display": "Dentography",
+          "phonetic": "",
+          "translation": "\u7259\u56fe\u89e3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-dentosurgical",
+          "word": "dentosurgical",
+          "display": "Dentosurgical",
+          "phonetic": "",
+          "translation": "\u7259\u9f7f\u5916\u79d1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-denture",
+          "word": "denture",
+          "display": "Denture",
+          "phonetic": "",
+          "translation": "\u4e00\u526f\u5047\u7259",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-indent",
+          "word": "indent",
+          "display": "Indent",
+          "phonetic": "",
+          "translation": "\u4f7f\u6210\u4e3a\u952f\u9f7f\u72b6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dent-orthodontist",
+          "word": "orthodontist",
+          "display": "Orthodontist",
+          "phonetic": "",
+          "translation": "\u6b63\u7259\u533b\u751f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other",
+      "rootLevel": 3,
+      "rootPath": "d>d-other>d-other-dent",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dis": {
+      "version": 1,
+      "rootId": "d-other-dis",
+      "root": "dis",
+      "meaning": "dis",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "d-other",
+      "rootLevel": 3,
+      "rootPath": "d>d-other>d-other-dis",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dis-around": {
+      "version": 1,
+      "rootId": "d-other-dis-around",
+      "root": "\u5411\u56db\u5468",
+      "meaning": "around",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dis-around-discard",
+          "word": "discard",
+          "display": "Discard",
+          "phonetic": "",
+          "translation": "\u4e22\u5f03",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-around-discharge",
+          "word": "discharge",
+          "display": "Discharge",
+          "phonetic": "",
+          "translation": "\u5378\u8d27\uff1b\u89e3\u96c7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-around-discipline",
+          "word": "discipline",
+          "display": "Discipline",
+          "phonetic": "",
+          "translation": "\u7eaa\u5f8b\uff1b\u5b66\u79d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-around-disclaim",
+          "word": "disclaim",
+          "display": "Disclaim",
+          "phonetic": "",
+          "translation": "\u653e\u5f03\uff1b\u5426\u8ba4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-around-disguise",
+          "word": "disguise",
+          "display": "Disguise",
+          "phonetic": "",
+          "translation": "\u4f2a\u88c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-around-distance",
+          "word": "distance",
+          "display": "Distance",
+          "phonetic": "",
+          "translation": "\u9065\u8fdc\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other-dis",
+      "rootLevel": 4,
+      "rootPath": "d>d-other>d-other-dis>d-other-dis-around",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dis-create": {
+      "version": 1,
+      "rootId": "d-other-dis-create",
+      "root": "\u4ece\u65e0\u5230\u6709",
+      "meaning": "create",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dis-create-diffuse",
+          "word": "diffuse",
+          "display": "Diffuse",
+          "phonetic": "",
+          "translation": "\u6269\u6563",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disappear",
+          "word": "disappear",
+          "display": "Disappear",
+          "phonetic": "",
+          "translation": "\u6d88\u5931",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disappoint",
+          "word": "disappoint",
+          "display": "Disappoint",
+          "phonetic": "",
+          "translation": "\u5931\u671b\uff1b\u632b\u8d25",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disarace",
+          "word": "disarace",
+          "display": "Disarace",
+          "phonetic": "",
+          "translation": "\u803b\u8fb1\uff0c\u5931\u5ba0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disaster",
+          "word": "disaster",
+          "display": "Disaster",
+          "phonetic": "",
+          "translation": "\u707e\u96be",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disastrous",
+          "word": "disastrous",
+          "display": "Disastrous",
+          "phonetic": "",
+          "translation": "\u707e\u96be\u6027\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-discern",
+          "word": "discern",
+          "display": "Discern",
+          "phonetic": "",
+          "translation": "\u8fa8\u522b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-discount",
+          "word": "discount",
+          "display": "Discount",
+          "phonetic": "",
+          "translation": "\u6298\u6263",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-discourage",
+          "word": "discourage",
+          "display": "Discourage",
+          "phonetic": "",
+          "translation": "\u6cc4\u6c14",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-discourse",
+          "word": "discourse",
+          "display": "Discourse",
+          "phonetic": "",
+          "translation": "\u8bba\u6587\uff1b\u6f14\u8bf4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-discreet",
+          "word": "discreet",
+          "display": "Discreet",
+          "phonetic": "",
+          "translation": "\u8c28\u614e\u7684\uff1b\u6709\u5224\u65ad\u529b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-discrepancy",
+          "word": "discrepancy",
+          "display": "Discrepancy",
+          "phonetic": "",
+          "translation": "\u5dee\u5f02\uff1b\u77db\u76fe",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-discuss",
+          "word": "discuss",
+          "display": "Discuss",
+          "phonetic": "",
+          "translation": "\u8ba8\u8bba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disease",
+          "word": "disease",
+          "display": "Disease",
+          "phonetic": "",
+          "translation": "\u75be\u75c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-dislike",
+          "word": "dislike",
+          "display": "Dislike",
+          "phonetic": "",
+          "translation": "\u4e0d\u559c\u6b22",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-dismay",
+          "word": "dismay",
+          "display": "Dismay",
+          "phonetic": "",
+          "translation": "\u6cae\u4e27\uff1b\u5931\u671b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-display",
+          "word": "display",
+          "display": "Display",
+          "phonetic": "",
+          "translation": "\u5c55\u793a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disposition",
+          "word": "disposition",
+          "display": "Disposition",
+          "phonetic": "",
+          "translation": "\u6392\u5217\uff1b\u90e8\u7f72\uff1b\u503e\u5411",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-disregard",
+          "word": "disregard",
+          "display": "Disregard",
+          "phonetic": "",
+          "translation": "\u5ffd\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-dissolve",
+          "word": "dissolve",
+          "display": "Dissolve",
+          "phonetic": "",
+          "translation": "\u6eb6\u89e3\uff1b\u53d6\u6d88\uff1b\u89e3\u6563",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-distill",
+          "word": "distill",
+          "display": "Distill",
+          "phonetic": "",
+          "translation": "\u84b8\u998f\uff1b\u63d0\u53d6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-distort",
+          "word": "distort",
+          "display": "Distort",
+          "phonetic": "",
+          "translation": "\u626d\u66f2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-distress",
+          "word": "distress",
+          "display": "Distress",
+          "phonetic": "",
+          "translation": "\u82e6\u607c\uff1b\u4e0d\u5e78",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-create-district",
+          "word": "district",
+          "display": "District",
+          "phonetic": "",
+          "translation": "\u5730\u533a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other-dis",
+      "rootLevel": 4,
+      "rootPath": "d>d-other>d-other-dis>d-other-dis-create",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dis-separate": {
+      "version": 1,
+      "rootId": "d-other-dis-separate",
+      "root": "\u5206\u5f00",
+      "meaning": "separate",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dis-separate-disable",
+          "word": "disable",
+          "display": "Disable",
+          "phonetic": "",
+          "translation": "\u4f7f\u6b8b\u75be",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-disclose",
+          "word": "disclose",
+          "display": "Disclose",
+          "phonetic": "",
+          "translation": "\u63ed\u793a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-discover",
+          "word": "discover",
+          "display": "Discover",
+          "phonetic": "",
+          "translation": "\u53d1\u73b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-discovery",
+          "word": "discovery",
+          "display": "Discovery",
+          "phonetic": "",
+          "translation": "\u53d1\u73b0\uff1b\u88ab\u53d1\u73b0\u7684\u4e1c\u897f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-discriminate",
+          "word": "discriminate",
+          "display": "Discriminate",
+          "phonetic": "",
+          "translation": "\u533a\u522b\uff0c\u6b67\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-dismiss",
+          "word": "dismiss",
+          "display": "Dismiss",
+          "phonetic": "",
+          "translation": "\u5f00\u9664\uff1b\u89e3\u6563",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-disorder",
+          "word": "disorder",
+          "display": "Disorder",
+          "phonetic": "",
+          "translation": "\u6df7\u4e71\uff1b\u75be\u75c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-disposal",
+          "word": "disposal",
+          "display": "Disposal",
+          "phonetic": "",
+          "translation": "\u5904\u7406\uff1b\u4e0d\u77e5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-dispose",
+          "word": "dispose",
+          "display": "Dispose",
+          "phonetic": "",
+          "translation": "\u5904\u7f6e\uff0c\u5b89\u6392",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-dispute",
+          "word": "dispute",
+          "display": "Dispute",
+          "phonetic": "",
+          "translation": "\u4e89\u8bba\uff1b\u8fa9\u8bba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-disrupt",
+          "word": "disrupt",
+          "display": "Disrupt",
+          "phonetic": "",
+          "translation": "\u4f7f\u5206\u88c2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-dissipate",
+          "word": "dissipate",
+          "display": "Dissipate",
+          "phonetic": "",
+          "translation": "\u9a71\u6563",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-distinct",
+          "word": "distinct",
+          "display": "Distinct",
+          "phonetic": "",
+          "translation": "\u660e\u663e\u7684\uff1b\u6e05\u695a\u7684\uff1b\u622a\u7136\u4e0d\u540c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-distinction",
+          "word": "distinction",
+          "display": "Distinction",
+          "phonetic": "",
+          "translation": "\u5dee\u522b\uff1b\u7279\u6027",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-distinguish",
+          "word": "distinguish",
+          "display": "Distinguish",
+          "phonetic": "",
+          "translation": "\u8fa8\u8ba4\uff1b\u533a\u522b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-distract",
+          "word": "distract",
+          "display": "Distract",
+          "phonetic": "",
+          "translation": "\u4f7f\u5206\u5fc3\uff1b\u6253\u6270",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dis-separate-distribute",
+          "word": "distribute",
+          "display": "Distribute",
+          "phonetic": "",
+          "translation": "\u5206\u53d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other-dis",
+      "rootLevel": 4,
+      "rootPath": "d>d-other>d-other-dis>d-other-dis-separate",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dom": {
+      "version": 1,
+      "rootId": "d-other-dom",
+      "root": "dom \u5c4b\u3001\u5bb6",
+      "meaning": "dom",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dom-daunt",
+          "word": "daunt",
+          "display": "Daunt",
+          "phonetic": "",
+          "translation": "\u4f7f\u6c14\u9981",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domain",
+          "word": "domain",
+          "display": "Domain",
+          "phonetic": "",
+          "translation": "\u9886\u571f\uff1b\u9886\u57df",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dome",
+          "word": "dome",
+          "display": "Dome",
+          "phonetic": "",
+          "translation": "\u5706\u5c4b\u9876",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domestic",
+          "word": "domestic",
+          "display": "Domestic",
+          "phonetic": "",
+          "translation": "\u5bb6\u91cc\u7684\uff1b\u9a6f\u670d\u7684\uff1b\u56fd\u5185\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domesticate",
+          "word": "domesticate",
+          "display": "Domesticate",
+          "phonetic": "",
+          "translation": "\u4f7f\u559c\u7231\u5bb6\u52a1\uff1b\u9a6f\u517b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domesticity",
+          "word": "domesticity",
+          "display": "Domesticity",
+          "phonetic": "",
+          "translation": "\u5bb6\u5ead\u751f\u6d3b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domical",
+          "word": "domical",
+          "display": "Domical",
+          "phonetic": "",
+          "translation": "\u5706\u5c4b\u9876\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domicile",
+          "word": "domicile",
+          "display": "Domicile",
+          "phonetic": "",
+          "translation": "\u5bb6\uff1b\u4f4f\u6240",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dominant",
+          "word": "dominant",
+          "display": "Dominant",
+          "phonetic": "",
+          "translation": "\u6709\u652f\u914d\u6743",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dominate",
+          "word": "dominate",
+          "display": "Dominate",
+          "phonetic": "",
+          "translation": "\u7edf\u6cbb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domination",
+          "word": "domination",
+          "display": "Domination",
+          "phonetic": "",
+          "translation": "\u63a7\u5236",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-domineer",
+          "word": "domineer",
+          "display": "Domineer",
+          "phonetic": "",
+          "translation": "\u538b\u5236",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dominion",
+          "word": "dominion",
+          "display": "Dominion",
+          "phonetic": "",
+          "translation": "\u4e3b\u6743",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-predominance",
+          "word": "predominance",
+          "display": "Predominance",
+          "phonetic": "",
+          "translation": "\u4f18\u52bf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-predominant",
+          "word": "predominant",
+          "display": "Predominant",
+          "phonetic": "",
+          "translation": "\u5353\u8d8a\u7684\uff1b\u652f\u914d\u7684\uff1b\u4e3b\u8981\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-undaunted",
+          "word": "undaunted",
+          "display": "Undaunted",
+          "phonetic": "",
+          "translation": "\u65e0\u6240\u754f\u60e7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other",
+      "rootLevel": 3,
+      "rootPath": "d>d-other>d-other-dom",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dom-dorm": {
+      "version": 1,
+      "rootId": "d-other-dom-dorm",
+      "root": "dorm \u7761\u7720",
+      "meaning": "dorm",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dom-dorm-dormancy",
+          "word": "dormancy",
+          "display": "Dormancy",
+          "phonetic": "",
+          "translation": "\u51ac\u7720\uff1b\u9759\u6b62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dorm-dormer",
+          "word": "dormer",
+          "display": "Dormer",
+          "phonetic": "",
+          "translation": "\u5929\u7a97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dorm-dormition",
+          "word": "dormition",
+          "display": "Dormition",
+          "phonetic": "",
+          "translation": "\u50cf\u51ac\u7720\u4e00\u6837\u7684\u6b7b\u4ea1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dorm-dormitory",
+          "word": "dormitory",
+          "display": "Dormitory",
+          "phonetic": "",
+          "translation": "\u5bbf\u820d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dom-dorm-dormouse",
+          "word": "dormouse",
+          "display": "Dormouse",
+          "phonetic": "",
+          "translation": "\u51ac\u7720\u9f20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other-dom",
+      "rootLevel": 4,
+      "rootPath": "d>d-other>d-other-dom>d-other-dom-dorm",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dwo": {
+      "version": 1,
+      "rootId": "d-other-dwo",
+      "root": "dwo du di two \u4e24\u4e2a",
+      "meaning": "two",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dwo-dial",
+          "word": "dial",
+          "display": "Dial",
+          "phonetic": "",
+          "translation": "\u523b\u5ea6\u76d8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dialect",
+          "word": "dialect",
+          "display": "Dialect",
+          "phonetic": "",
+          "translation": "\u65b9\u8a00",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dialog",
+          "word": "dialog",
+          "display": "Dialog",
+          "phonetic": "",
+          "translation": "\u5bf9\u8bdd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diameter",
+          "word": "diameter",
+          "display": "Diameter",
+          "phonetic": "",
+          "translation": "\u76f4\u5f84",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diary",
+          "word": "diary",
+          "display": "Diary",
+          "phonetic": "",
+          "translation": "\u65e5\u8bb0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-differ",
+          "word": "differ",
+          "display": "Differ",
+          "phonetic": "",
+          "translation": "\u4e0e...\u4e0d\u540c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-difference",
+          "word": "difference",
+          "display": "Difference",
+          "phonetic": "",
+          "translation": "\u5dee\u5f02",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-different",
+          "word": "different",
+          "display": "Different",
+          "phonetic": "",
+          "translation": "\u5dee\u5f02\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-differentiate",
+          "word": "differentiate",
+          "display": "Differentiate",
+          "phonetic": "",
+          "translation": "\u533a\u522b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-difficult",
+          "word": "difficult",
+          "display": "Difficult",
+          "phonetic": "",
+          "translation": "\u56f0\u96be\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-difficulty",
+          "word": "difficulty",
+          "display": "Difficulty",
+          "phonetic": "",
+          "translation": "\u56f0\u96be",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-digest",
+          "word": "digest",
+          "display": "Digest",
+          "phonetic": "",
+          "translation": "\u7b11\u8bdd\uff1b\u9886\u4f1a\uff1b\u6458\u8981",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-digital",
+          "word": "digital",
+          "display": "Digital",
+          "phonetic": "",
+          "translation": "\u6570\u5b57\u7684\uff1b\u624b\u6307\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dilemma",
+          "word": "dilemma",
+          "display": "Dilemma",
+          "phonetic": "",
+          "translation": "\u8fdb\u9000\u4e24\u96be",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dilute",
+          "word": "dilute",
+          "display": "Dilute",
+          "phonetic": "",
+          "translation": "\u7a00\u91ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dim",
+          "word": "dim",
+          "display": "Dim",
+          "phonetic": "",
+          "translation": "\u6a21\u7cca\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dimension",
+          "word": "dimension",
+          "display": "Dimension",
+          "phonetic": "",
+          "translation": "\u5c3a\u5ea6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diminish",
+          "word": "diminish",
+          "display": "Diminish",
+          "phonetic": "",
+          "translation": "\u51cf\u5c11",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dine",
+          "word": "dine",
+          "display": "Dine",
+          "phonetic": "",
+          "translation": "\u5403\u996d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dinner",
+          "word": "dinner",
+          "display": "Dinner",
+          "phonetic": "",
+          "translation": "\u6b63\u9910",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dip",
+          "word": "dip",
+          "display": "Dip",
+          "phonetic": "",
+          "translation": "\u8638",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diploma",
+          "word": "diploma",
+          "display": "Diploma",
+          "phonetic": "",
+          "translation": "\u6587\u51ed\uff1b\u6bd5\u4e1a\u8bc1\u4e66\uff08\u4e24\u9875\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diplomaism",
+          "word": "diplomaism",
+          "display": "Diplomaism",
+          "phonetic": "",
+          "translation": "\u6587\u51ed\u81f3\u4e0a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diplomat",
+          "word": "diplomat",
+          "display": "Diplomat",
+          "phonetic": "",
+          "translation": "\u5916\u4ea4\u5b98",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diplomatic",
+          "word": "diplomatic",
+          "display": "Diplomatic",
+          "phonetic": "",
+          "translation": "\u5916\u4ea4\u7684\uff1b\u5706\u6ed1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diplomatize",
+          "word": "diplomatize",
+          "display": "Diplomatize",
+          "phonetic": "",
+          "translation": "\u4f7f\u7528\u5916\u4ea4\u624b\u8155",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-direct",
+          "word": "direct",
+          "display": "Direct",
+          "phonetic": "",
+          "translation": "\u65b9\u5411\uff1b\u77e5\u9053",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-directly",
+          "word": "directly",
+          "display": "Directly",
+          "phonetic": "",
+          "translation": "\u76f4\u63a5\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-director",
+          "word": "director",
+          "display": "Director",
+          "phonetic": "",
+          "translation": "\u5bfc\u6f14\uff0c\u4e3b\u5bfc\u7684\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-directory",
+          "word": "directory",
+          "display": "Directory",
+          "phonetic": "",
+          "translation": "\u7535\u8bdd\u7c3f\u76ee\u5f55",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dirt",
+          "word": "dirt",
+          "display": "Dirt",
+          "phonetic": "",
+          "translation": "\u7070\u5c18",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dirty",
+          "word": "dirty",
+          "display": "Dirty",
+          "phonetic": "",
+          "translation": "\u5f04\u810f\uff1b\u73b7\u6c61",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dish",
+          "word": "dish",
+          "display": "Dish",
+          "phonetic": "",
+          "translation": "\u789f\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-ditch",
+          "word": "ditch",
+          "display": "Ditch",
+          "phonetic": "",
+          "translation": "\u6c9f\u6e20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dive",
+          "word": "dive",
+          "display": "Dive",
+          "phonetic": "",
+          "translation": "\u6f5c\u6c34",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diverse",
+          "word": "diverse",
+          "display": "Diverse",
+          "phonetic": "",
+          "translation": "\u591a\u79cd\u591a\u6837\u7684\uff1b\u4e0d\u540c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-divide",
+          "word": "divide",
+          "display": "Divide",
+          "phonetic": "",
+          "translation": "\u5206\u5f00\uff1b\u5206\u6c34\u5cad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dividend",
+          "word": "dividend",
+          "display": "Dividend",
+          "phonetic": "",
+          "translation": "\u7ea2\u5229\uff1b\u5956\u91d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-divine",
+          "word": "divine",
+          "display": "Divine",
+          "phonetic": "",
+          "translation": "\u795e\u5723\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-division",
+          "word": "division",
+          "display": "Division",
+          "phonetic": "",
+          "translation": "\u5206\u5f00\uff1b\u5206\u5272",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-divisor",
+          "word": "divisor",
+          "display": "Divisor",
+          "phonetic": "",
+          "translation": "\u9664\u6570\uff08\u9664\u6cd5\u5c31\u662f\u62c6\u5206\u4e00\u4e2a\u6570\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-dizzy",
+          "word": "dizzy",
+          "display": "Dizzy",
+          "phonetic": "",
+          "translation": "\u5934\u6655\u76ee\u7729\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-individual",
+          "word": "individual",
+          "display": "Individual",
+          "phonetic": "",
+          "translation": "\u4e2a\u4eba\uff08in\u4e0d\u53ef\u5206\u5272\u7684\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-indivisible",
+          "word": "indivisible",
+          "display": "Indivisible",
+          "phonetic": "",
+          "translation": "\u4e0d\u53ef\u5206\u5272\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other",
+      "rootLevel": 3,
+      "rootPath": "d>d-other>d-other-dwo",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-other-dwo-diplo": {
+      "version": 1,
+      "rootId": "d-other-dwo-diplo",
+      "root": "diplo \u4e24\u4e2a\uff08\u751f\u7269\u4e0a\uff09",
+      "meaning": "diplo",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-other-dwo-diplo-diplegia",
+          "word": "diplegia",
+          "display": "Diplegia",
+          "phonetic": "",
+          "translation": "\u53cc\u4fa7\u762b\u75ea",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diplo-diploblastic",
+          "word": "diploblastic",
+          "display": "Diploblastic",
+          "phonetic": "",
+          "translation": "\u53cc\u80da\u5c42\u7684\uff08blast\u80da\u82bd\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-other-dwo-diplo-diploid",
+          "word": "diploid",
+          "display": "Diploid",
+          "phonetic": "",
+          "translation": "\u53cc\u500d\u7684\uff1b\u591a\u500d\u4f53",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-other-dwo",
+      "rootLevel": 4,
+      "rootPath": "d>d-other>d-other-dwo>d-other-dwo-diplo",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-strengthen": {
+      "version": 1,
+      "rootId": "d-strengthen",
+      "root": "\u52a0\u5f3a",
+      "meaning": "strengthen",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-strengthen-describe",
+          "word": "describe",
+          "display": "Describe",
+          "phonetic": "",
+          "translation": "\u63cf\u8ff0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-description",
+          "word": "description",
+          "display": "Description",
+          "phonetic": "",
+          "translation": "\u63cf\u8ff0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deserve",
+          "word": "deserve",
+          "display": "Deserve",
+          "phonetic": "",
+          "translation": "\u503c\u5f97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-design",
+          "word": "design",
+          "display": "Design",
+          "phonetic": "",
+          "translation": "\u8bbe\u8ba1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-designate",
+          "word": "designate",
+          "display": "Designate",
+          "phonetic": "",
+          "translation": "\u4efb\u547d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-desirable",
+          "word": "desirable",
+          "display": "Desirable",
+          "phonetic": "",
+          "translation": "\u503c\u5f97\u505a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-desire",
+          "word": "desire",
+          "display": "Desire",
+          "phonetic": "",
+          "translation": "\u613f\u671b\uff1b\u8981\u6c42",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-desolate",
+          "word": "desolate",
+          "display": "Desolate",
+          "phonetic": "",
+          "translation": "\u5b64\u72ec\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-despair",
+          "word": "despair",
+          "display": "Despair",
+          "phonetic": "",
+          "translation": "\u5931\u671b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-despatch",
+          "word": "despatch",
+          "display": "Despatch",
+          "phonetic": "",
+          "translation": "\u6d3e\u9063",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-desperate",
+          "word": "desperate",
+          "display": "Desperate",
+          "phonetic": "",
+          "translation": "\u7edd\u671b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-despise",
+          "word": "despise",
+          "display": "Despise",
+          "phonetic": "",
+          "translation": "\u8511\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-despite",
+          "word": "despite",
+          "display": "Despite",
+          "phonetic": "",
+          "translation": "\u4e0d\u7ba1\u4e0d\u987e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-destination",
+          "word": "destination",
+          "display": "Destination",
+          "phonetic": "",
+          "translation": "\u76ee\u7684\u5730",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-destiny",
+          "word": "destiny",
+          "display": "Destiny",
+          "phonetic": "",
+          "translation": "\u547d\u8fd0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-destroy",
+          "word": "destroy",
+          "display": "Destroy",
+          "phonetic": "",
+          "translation": "\u6467\u6bc1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-destruction",
+          "word": "destruction",
+          "display": "Destruction",
+          "phonetic": "",
+          "translation": "\u6bc1\u574f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-destructive",
+          "word": "destructive",
+          "display": "Destructive",
+          "phonetic": "",
+          "translation": "\u7834\u574f\u6027\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-detach",
+          "word": "detach",
+          "display": "Detach",
+          "phonetic": "",
+          "translation": "\u5206\u79bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-detail",
+          "word": "detail",
+          "display": "Detail",
+          "phonetic": "",
+          "translation": "\u7ec6\u8282",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-detain",
+          "word": "detain",
+          "display": "Detain",
+          "phonetic": "",
+          "translation": "\u62d8\u7559",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-detect",
+          "word": "detect",
+          "display": "Detect",
+          "phonetic": "",
+          "translation": "\u5bdf\u89c9\uff1b\u63a2\u6d4b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-detective",
+          "word": "detective",
+          "display": "Detective",
+          "phonetic": "",
+          "translation": "\u4fa6\u63a2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-detector",
+          "word": "detector",
+          "display": "Detector",
+          "phonetic": "",
+          "translation": "\u68c0\u6d4b\u5668",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deteriorate",
+          "word": "deteriorate",
+          "display": "Deteriorate",
+          "phonetic": "",
+          "translation": "\u6076\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-determine",
+          "word": "determine",
+          "display": "Determine",
+          "phonetic": "",
+          "translation": "\u51b3\u5b9a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-develop",
+          "word": "develop",
+          "display": "Develop",
+          "phonetic": "",
+          "translation": "\u7814\u53d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deviate",
+          "word": "deviate",
+          "display": "Deviate",
+          "phonetic": "",
+          "translation": "\u80cc\u79bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-device",
+          "word": "device",
+          "display": "Device",
+          "phonetic": "",
+          "translation": "\u8bbe\u5907",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-devil",
+          "word": "devil",
+          "display": "Devil",
+          "phonetic": "",
+          "translation": "\u9b54\u9b3c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-devise",
+          "word": "devise",
+          "display": "Devise",
+          "phonetic": "",
+          "translation": "\u8bbe\u8ba1\uff1b\u53d1\u660e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-devote",
+          "word": "devote",
+          "display": "Devote",
+          "phonetic": "",
+          "translation": "\u81f4\u529b\u4e8e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-dew",
+          "word": "dew",
+          "display": "Dew",
+          "phonetic": "",
+          "translation": "\u9732\u6c34",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-dig",
+          "word": "dig",
+          "display": "Dig",
+          "phonetic": "",
+          "translation": "\u6316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d",
+      "rootLevel": 2,
+      "rootPath": "d>d-strengthen",
+      "type": "root",
+      "notes": ""
+    },
+    "d-strengthen-deed": {
+      "version": 1,
+      "rootId": "d-strengthen-deed",
+      "root": "deed\u884c\u52a8",
+      "meaning": "deed",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "d-strengthen-deed",
+          "word": "deed",
+          "display": "Deed",
+          "phonetic": "",
+          "translation": "\u884c\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-debt",
+          "word": "debt",
+          "display": "Debt",
+          "phonetic": "",
+          "translation": "\u503a\u52a1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-decade",
+          "word": "decade",
+          "display": "Decade",
+          "phonetic": "",
+          "translation": "\u5341\u5e74",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-decay",
+          "word": "decay",
+          "display": "Decay",
+          "phonetic": "",
+          "translation": "\u8150\u673d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-december",
+          "word": "december",
+          "display": "December",
+          "phonetic": "",
+          "translation": "\u5341\u4e8c\u6708",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-decent",
+          "word": "decent",
+          "display": "Decent",
+          "phonetic": "",
+          "translation": "\u4f53\u9762\u7684\uff1b\u5408\u9002\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-decimal",
+          "word": "decimal",
+          "display": "Decimal",
+          "phonetic": "",
+          "translation": "\u5341\u8fdb\u5236\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-decision",
+          "word": "decision",
+          "display": "Decision",
+          "phonetic": "",
+          "translation": "\u51b3\u5b9a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-decisive",
+          "word": "decisive",
+          "display": "Decisive",
+          "phonetic": "",
+          "translation": "\u51b3\u5b9a\u6027\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-deck",
+          "word": "deck",
+          "display": "Deck",
+          "phonetic": "",
+          "translation": "\u7532\u677f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-decorate",
+          "word": "decorate",
+          "display": "Decorate",
+          "phonetic": "",
+          "translation": "\u88c5\u9970",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-deem",
+          "word": "deem",
+          "display": "Deem",
+          "phonetic": "",
+          "translation": "\u6df1\u4fe1\uff1b\u8ba4\u4e3a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-deep",
+          "word": "deep",
+          "display": "Deep",
+          "phonetic": "",
+          "translation": "\u6df1\u7684\uff1b\u6df1\u5965\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-defeat",
+          "word": "defeat",
+          "display": "Defeat",
+          "phonetic": "",
+          "translation": "\u51fb\u8d25",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-defence",
+          "word": "defence",
+          "display": "Defence",
+          "phonetic": "",
+          "translation": "\u9632\u5fa1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-defend",
+          "word": "defend",
+          "display": "Defend",
+          "phonetic": "",
+          "translation": "\u9632\u5b88\uff1b\u4fdd\u536b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-definite",
+          "word": "definite",
+          "display": "Definite",
+          "phonetic": "",
+          "translation": "\u786e\u5b9a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-definition",
+          "word": "definition",
+          "display": "Definition",
+          "phonetic": "",
+          "translation": "\u5b9a\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-defy",
+          "word": "defy",
+          "display": "Defy",
+          "phonetic": "",
+          "translation": "\u8fdd\u6297\uff1b\u8511\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-deliberate",
+          "word": "deliberate",
+          "display": "Deliberate",
+          "phonetic": "",
+          "translation": "\u6df1\u601d\u719f\u8651\u7684\uff1b\u6545\u610f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-delicate",
+          "word": "delicate",
+          "display": "Delicate",
+          "phonetic": "",
+          "translation": "\u7cbe\u81f4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-delicious",
+          "word": "delicious",
+          "display": "Delicious",
+          "phonetic": "",
+          "translation": "\u7f8e\u5473\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-delight",
+          "word": "delight",
+          "display": "Delight",
+          "phonetic": "",
+          "translation": "\u9ad8\u5174",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-demand",
+          "word": "demand",
+          "display": "Demand",
+          "phonetic": "",
+          "translation": "\u8981\u6c42",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-denote",
+          "word": "denote",
+          "display": "Denote",
+          "phonetic": "",
+          "translation": "\u8868\u793a\uff1b\u610f\u5473\u7740",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-dense",
+          "word": "dense",
+          "display": "Dense",
+          "phonetic": "",
+          "translation": "\u6d53\u5bc6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-depend",
+          "word": "depend",
+          "display": "Depend",
+          "phonetic": "",
+          "translation": "\u4f9d\u9760",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-dependent",
+          "word": "dependent",
+          "display": "Dependent",
+          "phonetic": "",
+          "translation": "\u4f9d\u9760\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-deposit",
+          "word": "deposit",
+          "display": "Deposit",
+          "phonetic": "",
+          "translation": "\u5b58\u653e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-deputy",
+          "word": "deputy",
+          "display": "Deputy",
+          "phonetic": "",
+          "translation": "\u4ee3\u8868\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-derive",
+          "word": "derive",
+          "display": "Derive",
+          "phonetic": "",
+          "translation": "\u53d6\u5f97\uff1b\u6e90\u4e8e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "d-strengthen-deed-descent",
+          "word": "descent",
+          "display": "Descent",
+          "phonetic": "",
+          "translation": "\u4e0b\u964d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "d-strengthen",
+      "rootLevel": 3,
+      "rootPath": "d>d-strengthen>d-strengthen-deed",
+      "type": "branch",
+      "notes": ""
+    },
+    "d-summary": {
+      "version": 1,
+      "rootId": "d-summary",
+      "root": "\u603b\u7ed3",
+      "meaning": "summary",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "d",
+      "rootLevel": 2,
+      "rootPath": "d>d-summary",
+      "type": "root",
+      "notes": ""
+    }
+  }
+}

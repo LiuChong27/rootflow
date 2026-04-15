@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "rootId": "p-par",
+  "root": "par",
+  "meaning": "par",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-par-appear",
+      "word": "appear",
+      "display": "Appear",
+      "phonetic": "",
+      "translation": "\u51fa\u73b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-appearance",
+      "word": "appearance",
+      "display": "Appearance",
+      "phonetic": "",
+      "translation": "\u51fa\u73b0\uff1b\u9732\u9762",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-appearent",
+      "word": "appearent",
+      "display": "Appearent",
+      "phonetic": "",
+      "translation": "\u660e\u663e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paperback",
+      "word": "paperback",
+      "display": "Paperback",
+      "phonetic": "",
+      "translation": "\u5e73\u88c5\u672c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-parachute",
+      "word": "parachute",
+      "display": "Parachute",
+      "phonetic": "",
+      "translation": "\u964d\u843d\u4f1e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-parade",
+      "word": "parade",
+      "display": "Parade",
+      "phonetic": "",
+      "translation": "\u68c0\u9605\uff1b\u9605\u5175\u5f0f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paradigm",
+      "word": "paradigm",
+      "display": "Paradigm",
+      "phonetic": "",
+      "translation": "\u5178\u8303\uff1b\u793a\u4f8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paradox",
+      "word": "paradox",
+      "display": "Paradox",
+      "phonetic": "",
+      "translation": "\u81ea\u76f8\u77db\u76fe\u7684\u8bdd\uff1b\u53cd\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paradrop",
+      "word": "paradrop",
+      "display": "Paradrop",
+      "phonetic": "",
+      "translation": "\u8df3\u4f1e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paragon",
+      "word": "paragon",
+      "display": "Paragon",
+      "phonetic": "",
+      "translation": "\u6a21\u8303\uff1b\u5178\u578b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paragraph",
+      "word": "paragraph",
+      "display": "Paragraph",
+      "phonetic": "",
+      "translation": "\u77ed\u8bc4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-parallel",
+      "word": "parallel",
+      "display": "Parallel",
+      "phonetic": "",
+      "translation": "\u5e73\u884c\u7684\uff1b\u7c7b\u4f3c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paralogism",
+      "word": "paralogism",
+      "display": "Paralogism",
+      "phonetic": "",
+      "translation": "\u8c2c\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paralyze",
+      "word": "paralyze",
+      "display": "Paralyze",
+      "phonetic": "",
+      "translation": "\u4f7f\u762b\u75ea",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-parameter",
+      "word": "parameter",
+      "display": "Parameter",
+      "phonetic": "",
+      "translation": "\u53c2\u6570\uff1b\u53c2\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-parasite",
+      "word": "parasite",
+      "display": "Parasite",
+      "phonetic": "",
+      "translation": "\u5bc4\u751f\u866b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-parent",
+      "word": "parent",
+      "display": "Parent",
+      "phonetic": "",
+      "translation": "\u7236\u6bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-parliament",
+      "word": "parliament",
+      "display": "Parliament",
+      "phonetic": "",
+      "translation": "\u8bae\u4f1a\uff1b\u56fd\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-part",
+      "word": "part",
+      "display": "Part",
+      "phonetic": "",
+      "translation": "\u90e8\u5206",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-partial",
+      "word": "partial",
+      "display": "Partial",
+      "phonetic": "",
+      "translation": "\u90e8\u5206\u7684\uff1b\u504f\u7231\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-participant",
+      "word": "participant",
+      "display": "Participant",
+      "phonetic": "",
+      "translation": "\u53c2\u52a0\u8005\uff1b\u53c2\u4e0e\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-participate",
+      "word": "participate",
+      "display": "Participate",
+      "phonetic": "",
+      "translation": "\u53c2\u4e0e\uff1b\u5206\u4eab",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-particle",
+      "word": "particle",
+      "display": "Particle",
+      "phonetic": "",
+      "translation": "\u7c92\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-particular",
+      "word": "particular",
+      "display": "Particular",
+      "phonetic": "",
+      "translation": "\u7279\u6b8a\u7684\uff1b\u82db\u6c42\u7684\uff1b\u7ec6\u8282",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-partly",
+      "word": "partly",
+      "display": "Partly",
+      "phonetic": "",
+      "translation": "\u90e8\u5206\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-partner",
+      "word": "partner",
+      "display": "Partner",
+      "phonetic": "",
+      "translation": "\u5408\u4f5c\u8005\uff1b\u914d\u5076",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-party",
+      "word": "party",
+      "display": "Party",
+      "phonetic": "",
+      "translation": "\u805a\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-paternal",
+      "word": "paternal",
+      "display": "Paternal",
+      "phonetic": "",
+      "translation": "\u7236\u4eb2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-patriot",
+      "word": "patriot",
+      "display": "Patriot",
+      "phonetic": "",
+      "translation": "\u7231\u56fd\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-patriotic",
+      "word": "patriotic",
+      "display": "Patriotic",
+      "phonetic": "",
+      "translation": "\u7231\u56fd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-patriotism",
+      "word": "patriotism",
+      "display": "Patriotism",
+      "phonetic": "",
+      "translation": "\u7231\u56fd\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-patrol",
+      "word": "patrol",
+      "display": "Patrol",
+      "phonetic": "",
+      "translation": "\u5de1\u903b\u961f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-patron",
+      "word": "patron",
+      "display": "Patron",
+      "phonetic": "",
+      "translation": "\u8d5e\u52a9\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-par-portion",
+      "word": "portion",
+      "display": "Portion",
+      "phonetic": "",
+      "translation": "\u4e00\u90e8\u5206",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-par",
+  "type": "root",
+  "notes": ""
+}

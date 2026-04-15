@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "c-cert-sure",
+  "root": "cert=sure\u786e\u5b9a",
+  "meaning": "sure",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cert-sure-ascertain",
+      "word": "ascertain",
+      "display": "Ascertain",
+      "phonetic": "",
+      "translation": "\u53d1\u73b0\uff1b\u67e5\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cert-sure-certificate",
+      "word": "certificate",
+      "display": "Certificate",
+      "phonetic": "",
+      "translation": "\u8bc1\u4e66\uff1b\u8bc1\u660e\u4e66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cert-sure-certify",
+      "word": "certify",
+      "display": "Certify",
+      "phonetic": "",
+      "translation": "\u8bc1\u660e\uff1b\u8bc1\u5b9e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cert-sure-certitude",
+      "word": "certitude",
+      "display": "Certitude",
+      "phonetic": "",
+      "translation": "\u786e\u5b9e\uff1b\u786e\u4fe1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cert-sure-concert",
+      "word": "concert",
+      "display": "Concert",
+      "phonetic": "",
+      "translation": "\u534f\u594f\u66f2\uff1b\u97f3\u4e50\u4f1a\uff1b\u4e00\u81f4\uff1b\u548c\u8c10",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cert-sure-disconcert",
+      "word": "disconcert",
+      "display": "Disconcert",
+      "phonetic": "",
+      "translation": "\u4f7f\u4e3a\u96be",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-cert-sure",
+  "type": "root",
+  "notes": ""
+}

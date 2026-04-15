@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "s-stell",
+  "root": "stell=star\u661f\u661f",
+  "meaning": "star",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-stell-resplendent",
+      "word": "resplendent",
+      "display": "Resplendent",
+      "phonetic": "",
+      "translation": "\u8f89\u714c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-stell-satellite",
+      "word": "satellite",
+      "display": "Satellite",
+      "phonetic": "",
+      "translation": "\u536b\u661f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-stell-scout",
+      "word": "scout",
+      "display": "Scout",
+      "phonetic": "",
+      "translation": "\u4fa6\u67e5\u5458",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-stell-splend",
+      "word": "splend",
+      "display": "Splend",
+      "phonetic": "",
+      "translation": "\u53d1\u5149",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-stell-star",
+      "word": "star",
+      "display": "Star",
+      "phonetic": "",
+      "translation": "\u6052\u661f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-stell-stare",
+      "word": "stare",
+      "display": "Stare",
+      "phonetic": "",
+      "translation": "\u76ef\uff1b\u51dd\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-stell",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "e-eco-economic",
+  "root": "economic\u7ecf\u6d4e\u5b66\u7684",
+  "meaning": "economic",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-eco-economic-economic",
+      "word": "economic",
+      "display": "Economic",
+      "phonetic": "",
+      "translation": "\u7ecf\u6d4e\u5b66\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-eco-economic-economical",
+      "word": "economical",
+      "display": "Economical",
+      "phonetic": "",
+      "translation": "\u8282\u7ea6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-eco-economic-economics",
+      "word": "economics",
+      "display": "Economics",
+      "phonetic": "",
+      "translation": "\u7ecf\u6d4e\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-eco-economic-economize",
+      "word": "economize",
+      "display": "Economize",
+      "phonetic": "",
+      "translation": "\u8282\u7ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-eco-economic-economy",
+      "word": "economy",
+      "display": "Economy",
+      "phonetic": "",
+      "translation": "\u8282\u7ea6\uff1b\u7ecf\u6d4e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-eco",
+  "rootLevel": 3,
+  "rootPath": "e>e-eco>e-eco-economic",
+  "type": "branch",
+  "notes": ""
+}

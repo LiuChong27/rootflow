@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "m-operation-min",
+  "root": "min=project\u4f38\u51fa",
+  "meaning": "project",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-min",
+  "type": "branch",
+  "notes": ""
+}

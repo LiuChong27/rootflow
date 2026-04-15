@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "t-turn",
+  "root": "turn",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-turn-tempo",
+      "word": "tempo",
+      "display": "Tempo",
+      "phonetic": "",
+      "translation": "\u8282\u594f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-temporary",
+      "word": "temporary",
+      "display": "Temporary",
+      "phonetic": "",
+      "translation": "\u6682\u65f6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-term",
+      "word": "term",
+      "display": "Term",
+      "phonetic": "",
+      "translation": "\u5b66\u671f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-terminal",
+      "word": "terminal",
+      "display": "Terminal",
+      "phonetic": "",
+      "translation": "\u665a\u671f\u7684\uff1b\u7ec8\u70b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-terminate",
+      "word": "terminate",
+      "display": "Terminate",
+      "phonetic": "",
+      "translation": "\u7ed3\u675f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-tide",
+      "word": "tide",
+      "display": "Tide",
+      "phonetic": "",
+      "translation": "\u6f6e\u6c50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-tune",
+      "word": "tune",
+      "display": "Tune",
+      "phonetic": "",
+      "translation": "\u66f2\u8c03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-tunnel",
+      "word": "tunnel",
+      "display": "Tunnel",
+      "phonetic": "",
+      "translation": "\u96a7\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-turbine",
+      "word": "turbine",
+      "display": "Turbine",
+      "phonetic": "",
+      "translation": "\u6da1\u8f6e\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-turn-typhoon",
+      "word": "typhoon",
+      "display": "Typhoon",
+      "phonetic": "",
+      "translation": "\u53f0\u98ce",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-turn",
+  "type": "root",
+  "notes": ""
+}

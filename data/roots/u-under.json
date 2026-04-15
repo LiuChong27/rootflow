@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "u-under",
+  "root": "under",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "u-under-underestimate",
+      "word": "underestimate",
+      "display": "Underestimate",
+      "phonetic": "",
+      "translation": "\u4f4e\u4f30",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-undergo",
+      "word": "undergo",
+      "display": "Undergo",
+      "phonetic": "",
+      "translation": "\u906d\u53d7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-undergraduate",
+      "word": "undergraduate",
+      "display": "Undergraduate",
+      "phonetic": "",
+      "translation": "\u5927\u5b66\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-underground",
+      "word": "underground",
+      "display": "Underground",
+      "phonetic": "",
+      "translation": "\u5730\u4e0b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-underlie",
+      "word": "underlie",
+      "display": "Underlie",
+      "phonetic": "",
+      "translation": "\u6210\u4e3a... \u7684\u57fa\u7840",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-underline",
+      "word": "underline",
+      "display": "Underline",
+      "phonetic": "",
+      "translation": "\u5f3a\u8c03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-underlying",
+      "word": "underlying",
+      "display": "Underlying",
+      "phonetic": "",
+      "translation": "\u542b\u84c4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-undermine",
+      "word": "undermine",
+      "display": "Undermine",
+      "phonetic": "",
+      "translation": "\u6697\u4e2d\u7834\u574f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-underneath",
+      "word": "underneath",
+      "display": "Underneath",
+      "phonetic": "",
+      "translation": "\u5728\u4e0b\u9762",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-under-undertake",
+      "word": "undertake",
+      "display": "Undertake",
+      "phonetic": "",
+      "translation": "\u627f\u62c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "u",
+  "rootLevel": 1,
+  "rootPath": "u>u-under",
+  "type": "root",
+  "notes": ""
+}

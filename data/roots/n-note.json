@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "n-note",
+  "root": "note\u7b14\u8bb0",
+  "meaning": "note",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-note-annotate",
+      "word": "annotate",
+      "display": "Annotate",
+      "phonetic": "",
+      "translation": "\u6ce8\u91ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-note-cannot",
+      "word": "cannot",
+      "display": "Cannot",
+      "phonetic": "",
+      "translation": "\u6697\u793a\uff1b\u542b\u84c4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-note-notary",
+      "word": "notary",
+      "display": "Notary",
+      "phonetic": "",
+      "translation": "\u516c\u8bc1\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-note-noted",
+      "word": "noted",
+      "display": "Noted",
+      "phonetic": "",
+      "translation": "\u8457\u540d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-note-noticeable",
+      "word": "noticeable",
+      "display": "Noticeable",
+      "phonetic": "",
+      "translation": "\u663e\u800c\u6613\u89c1\u7684\uff1b\u91cd\u8981\u7684\uff1b\u503c\u5f97\u6ce8\u610f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-note-notify",
+      "word": "notify",
+      "display": "Notify",
+      "phonetic": "",
+      "translation": "\u901a\u77e5\uff1b\u544a\u77e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-note-notion",
+      "word": "notion",
+      "display": "Notion",
+      "phonetic": "",
+      "translation": "\u6982\u5ff5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-note-notorious",
+      "word": "notorious",
+      "display": "Notorious",
+      "phonetic": "",
+      "translation": "\u81ed\u540d\u662d\u8457\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-note",
+  "type": "root",
+  "notes": ""
+}

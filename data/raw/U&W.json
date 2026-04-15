@@ -1,0 +1,1318 @@
+{
+  "version": 1,
+  "letter": "u&w",
+  "updatedAt": "2026-04-15",
+  "roots": [
+    {
+      "rootId": "u",
+      "root": "U",
+      "parentRootId": "",
+      "rootPath": "u",
+      "sourceLabel": "U"
+    },
+    {
+      "rootId": "u-un",
+      "root": "un",
+      "parentRootId": "u",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "rootId": "u-under",
+      "root": "under",
+      "parentRootId": "u",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "rootId": "u-up",
+      "root": "up",
+      "parentRootId": "u",
+      "rootPath": "u>u-up",
+      "sourceLabel": "up 上"
+    },
+    {
+      "rootId": "u-uni",
+      "root": "uni",
+      "parentRootId": "u",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "rootId": "u-other",
+      "root": "other",
+      "parentRootId": "u",
+      "rootPath": "u>u-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "rootId": "w",
+      "root": "W",
+      "parentRootId": "",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    }
+  ],
+  "wordsFlat": [
+    {
+      "id": "u-un-uncover",
+      "word": "uncover",
+      "display": "Uncover",
+      "phonetic": "",
+      "translation": "揭露",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-undo",
+      "word": "undo",
+      "display": "Undo",
+      "phonetic": "",
+      "translation": "松开",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-undoubtedly",
+      "word": "undoubtedly",
+      "display": "Undoubtedly",
+      "phonetic": "",
+      "translation": "无疑",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-uneasy",
+      "word": "uneasy",
+      "display": "Uneasy",
+      "phonetic": "",
+      "translation": "不安的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unemployment",
+      "word": "unemployment",
+      "display": "Unemployment",
+      "phonetic": "",
+      "translation": "失业",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unexpected",
+      "word": "unexpected",
+      "display": "Unexpected",
+      "phonetic": "",
+      "translation": "意外的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unfold",
+      "word": "unfold",
+      "display": "Unfold",
+      "phonetic": "",
+      "translation": "打开",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unfortunately",
+      "word": "unfortunately",
+      "display": "Unfortunately",
+      "phonetic": "",
+      "translation": "不幸的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unless",
+      "word": "unless",
+      "display": "Unless",
+      "phonetic": "",
+      "translation": "除非",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unlike",
+      "word": "unlike",
+      "display": "Unlike",
+      "phonetic": "",
+      "translation": "不相似的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unlikely",
+      "word": "unlikely",
+      "display": "Unlikely",
+      "phonetic": "",
+      "translation": "未必的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-un-unload",
+      "word": "unload",
+      "display": "Unload",
+      "phonetic": "",
+      "translation": "卸货",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-un",
+      "rootPath": "u>u-un",
+      "sourceLabel": "un 否定"
+    },
+    {
+      "id": "u-under-underestimate",
+      "word": "underestimate",
+      "display": "Underestimate",
+      "phonetic": "",
+      "translation": "低估",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-undergo",
+      "word": "undergo",
+      "display": "Undergo",
+      "phonetic": "",
+      "translation": "遭受",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-undergraduate",
+      "word": "undergraduate",
+      "display": "Undergraduate",
+      "phonetic": "",
+      "translation": "大学生",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-underground",
+      "word": "underground",
+      "display": "Underground",
+      "phonetic": "",
+      "translation": "地下的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-underlie",
+      "word": "underlie",
+      "display": "Underlie",
+      "phonetic": "",
+      "translation": "成为... 的基础",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-underline",
+      "word": "underline",
+      "display": "Underline",
+      "phonetic": "",
+      "translation": "强调",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-underlying",
+      "word": "underlying",
+      "display": "Underlying",
+      "phonetic": "",
+      "translation": "含蓄的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-undermine",
+      "word": "undermine",
+      "display": "Undermine",
+      "phonetic": "",
+      "translation": "暗中破坏",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-underneath",
+      "word": "underneath",
+      "display": "Underneath",
+      "phonetic": "",
+      "translation": "在下面",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-under-undertake",
+      "word": "undertake",
+      "display": "Undertake",
+      "phonetic": "",
+      "translation": "承担",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-under",
+      "rootPath": "u>u-under",
+      "sourceLabel": "under 下面"
+    },
+    {
+      "id": "u-up-update",
+      "word": "update",
+      "display": "Update",
+      "phonetic": "",
+      "translation": "更新",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-up",
+      "rootPath": "u>u-up",
+      "sourceLabel": "up 上"
+    },
+    {
+      "id": "u-up-upgrade",
+      "word": "upgrade",
+      "display": "Upgrade",
+      "phonetic": "",
+      "translation": "更新",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-up",
+      "rootPath": "u>u-up",
+      "sourceLabel": "up 上"
+    },
+    {
+      "id": "u-up-uphold",
+      "word": "uphold",
+      "display": "Uphold",
+      "phonetic": "",
+      "translation": "支持",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-up",
+      "rootPath": "u>u-up",
+      "sourceLabel": "up 上"
+    },
+    {
+      "id": "u-up-upright",
+      "word": "upright",
+      "display": "Upright",
+      "phonetic": "",
+      "translation": "垂直的；诚实的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-up",
+      "rootPath": "u>u-up",
+      "sourceLabel": "up 上"
+    },
+    {
+      "id": "u-up-uproar",
+      "word": "uproar",
+      "display": "Uproar",
+      "phonetic": "",
+      "translation": "骚动",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-up",
+      "rootPath": "u>u-up",
+      "sourceLabel": "up 上"
+    },
+    {
+      "id": "u-up-upstairs",
+      "word": "upstairs",
+      "display": "Upstairs",
+      "phonetic": "",
+      "translation": "在楼上的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-up",
+      "rootPath": "u>u-up",
+      "sourceLabel": "up 上"
+    },
+    {
+      "id": "u-uni-unify",
+      "word": "unify",
+      "display": "Unify",
+      "phonetic": "",
+      "translation": "使联合",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-uni-union",
+      "word": "union",
+      "display": "Union",
+      "phonetic": "",
+      "translation": "联合；团结",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-uni-unique",
+      "word": "unique",
+      "display": "Unique",
+      "phonetic": "",
+      "translation": "唯一的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-uni-unit",
+      "word": "unit",
+      "display": "Unit",
+      "phonetic": "",
+      "translation": "单位；元件",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-uni-unite",
+      "word": "unite",
+      "display": "Unite",
+      "phonetic": "",
+      "translation": "团结",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-uni-universal",
+      "word": "universal",
+      "display": "Universal",
+      "phonetic": "",
+      "translation": "普遍的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-uni-universe",
+      "word": "universe",
+      "display": "Universe",
+      "phonetic": "",
+      "translation": "宇宙",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-uni-university",
+      "word": "university",
+      "display": "University",
+      "phonetic": "",
+      "translation": "大学",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-uni",
+      "rootPath": "u>u-uni",
+      "sourceLabel": "uni 唯一"
+    },
+    {
+      "id": "u-other-ultimate",
+      "word": "ultimate",
+      "display": "Ultimate",
+      "phonetic": "",
+      "translation": "最后的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-other",
+      "rootPath": "u>u-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "u-other-ultraviolet",
+      "word": "ultraviolet",
+      "display": "Ultraviolet",
+      "phonetic": "",
+      "translation": "紫外线的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-other",
+      "rootPath": "u>u-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "u-other-unanimous",
+      "word": "unanimous",
+      "display": "Unanimous",
+      "phonetic": "",
+      "translation": "一致同意的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-other",
+      "rootPath": "u>u-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "u-other-utter",
+      "word": "utter",
+      "display": "Utter",
+      "phonetic": "",
+      "translation": "彻底的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-other",
+      "rootPath": "u>u-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "u-other-urban",
+      "word": "urban",
+      "display": "Urban",
+      "phonetic": "",
+      "translation": "城市的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "u-other",
+      "rootPath": "u>u-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "w-wage",
+      "word": "wage",
+      "display": "Wage",
+      "phonetic": "",
+      "translation": "工资",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wagon",
+      "word": "wagon",
+      "display": "Wagon",
+      "phonetic": "",
+      "translation": "货运车",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-waist",
+      "word": "waist",
+      "display": "Waist",
+      "phonetic": "",
+      "translation": "腰部",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-waken",
+      "word": "waken",
+      "display": "Waken",
+      "phonetic": "",
+      "translation": "弄醒",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wake",
+      "word": "wake",
+      "display": "Wake",
+      "phonetic": "",
+      "translation": "唤醒",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wallet",
+      "word": "wallet",
+      "display": "Wallet",
+      "phonetic": "",
+      "translation": "钱包",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wander",
+      "word": "wander",
+      "display": "Wander",
+      "phonetic": "",
+      "translation": "漫步",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-ward",
+      "word": "ward",
+      "display": "Ward",
+      "phonetic": "",
+      "translation": "病房",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-war",
+      "word": "war",
+      "display": "War",
+      "phonetic": "",
+      "translation": "战争",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-warfare",
+      "word": "warfare",
+      "display": "Warfare",
+      "phonetic": "",
+      "translation": "战争",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-warehouse",
+      "word": "warehouse",
+      "display": "Warehouse",
+      "phonetic": "",
+      "translation": "仓库",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wardrobe",
+      "word": "wardrobe",
+      "display": "Wardrobe",
+      "phonetic": "",
+      "translation": "衣柜",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-warmth",
+      "word": "warmth",
+      "display": "Warmth",
+      "phonetic": "",
+      "translation": "温暖",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-warm",
+      "word": "warm",
+      "display": "Warm",
+      "phonetic": "",
+      "translation": "温暖的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-warn",
+      "word": "warn",
+      "display": "Warn",
+      "phonetic": "",
+      "translation": "警告",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-warrant",
+      "word": "warrant",
+      "display": "Warrant",
+      "phonetic": "",
+      "translation": "保证",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-waterproof",
+      "word": "waterproof",
+      "display": "Waterproof",
+      "phonetic": "",
+      "translation": "防水的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-watt",
+      "word": "watt",
+      "display": "Watt",
+      "phonetic": "",
+      "translation": "瓦特",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wave",
+      "word": "wave",
+      "display": "Wave",
+      "phonetic": "",
+      "translation": "挥手示意；飘扬",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wax",
+      "word": "wax",
+      "display": "Wax",
+      "phonetic": "",
+      "translation": "蜂蜡",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-weapon",
+      "word": "weapon",
+      "display": "Weapon",
+      "phonetic": "",
+      "translation": "武器",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-weary",
+      "word": "weary",
+      "display": "Weary",
+      "phonetic": "",
+      "translation": "疲倦的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-weave",
+      "word": "weave",
+      "display": "Weave",
+      "phonetic": "",
+      "translation": "编织法",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wedge",
+      "word": "wedge",
+      "display": "Wedge",
+      "phonetic": "",
+      "translation": "楔形",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-weird",
+      "word": "weird",
+      "display": "Weird",
+      "phonetic": "",
+      "translation": "古怪的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-weld",
+      "word": "weld",
+      "display": "Weld",
+      "phonetic": "",
+      "translation": "焊接",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-whirl",
+      "word": "whirl",
+      "display": "Whirl",
+      "phonetic": "",
+      "translation": "旋转",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-whisky",
+      "word": "whisky",
+      "display": "Whisky",
+      "phonetic": "",
+      "translation": "威士忌酒",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wire",
+      "word": "wire",
+      "display": "Wire",
+      "phonetic": "",
+      "translation": "电线",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wool",
+      "word": "wool",
+      "display": "Wool",
+      "phonetic": "",
+      "translation": "羊毛",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-worm",
+      "word": "worm",
+      "display": "Worm",
+      "phonetic": "",
+      "translation": "蠕虫",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-warp",
+      "word": "warp",
+      "display": "Warp",
+      "phonetic": "",
+      "translation": "裹住",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wreath",
+      "word": "wreath",
+      "display": "Wreath",
+      "phonetic": "",
+      "translation": "花圈",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wreck",
+      "word": "wreck",
+      "display": "Wreck",
+      "phonetic": "",
+      "translation": "遇难",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wretched",
+      "word": "wretched",
+      "display": "Wretched",
+      "phonetic": "",
+      "translation": "可怜的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wrench",
+      "word": "wrench",
+      "display": "Wrench",
+      "phonetic": "",
+      "translation": "挣脱",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wrist",
+      "word": "wrist",
+      "display": "Wrist",
+      "phonetic": "",
+      "translation": "关节",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wit",
+      "word": "wit",
+      "display": "Wit",
+      "phonetic": "",
+      "translation": "才智",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wis",
+      "word": "wis=wit",
+      "display": "Wis=wit",
+      "phonetic": "",
+      "translation": "明智的；知道的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-wizard",
+      "word": "wizard",
+      "display": "Wizard",
+      "phonetic": "",
+      "translation": "术士",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-withdraw",
+      "word": "withdraw",
+      "display": "Withdraw",
+      "phonetic": "",
+      "translation": "撤回",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-with",
+      "word": "with",
+      "display": "With",
+      "phonetic": "",
+      "translation": "相反；对抗",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    },
+    {
+      "id": "w-withstand",
+      "word": "withstand",
+      "display": "Withstand",
+      "phonetic": "",
+      "translation": "抵抗",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "w",
+      "rootPath": "w",
+      "sourceLabel": "W"
+    }
+  ]
+}

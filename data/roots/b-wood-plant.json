@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "b-wood-plant",
+  "root": "\u690d\u7269",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-wood-plant-banana",
+      "word": "banana",
+      "display": "Banana",
+      "phonetic": "",
+      "translation": "\u9999\u8549",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-bean",
+      "word": "bean",
+      "display": "Bean",
+      "phonetic": "",
+      "translation": "\u8c46",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-bee",
+      "word": "bee",
+      "display": "Bee",
+      "phonetic": "",
+      "translation": "\u871c\u8702",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-blast",
+      "word": "blast",
+      "display": "Blast",
+      "phonetic": "",
+      "translation": "\u7206\u70b8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-blow",
+      "word": "blow",
+      "display": "Blow",
+      "phonetic": "",
+      "translation": "\u5439\u6c14\uff1b\u7206\u70b8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-bomb",
+      "word": "bomb",
+      "display": "Bomb",
+      "phonetic": "",
+      "translation": "\u70b8\u5f39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-boom",
+      "word": "boom",
+      "display": "Boom",
+      "phonetic": "",
+      "translation": "\u7206\u70b8\uff1b\u5174\u65fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-boost",
+      "word": "boost",
+      "display": "Boost",
+      "phonetic": "",
+      "translation": "\u63d0\u5347",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-bud",
+      "word": "bud",
+      "display": "Bud",
+      "phonetic": "",
+      "translation": "\u82b1\u82de",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-bump",
+      "word": "bump",
+      "display": "Bump",
+      "phonetic": "",
+      "translation": "\u78b0\u649e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-burn",
+      "word": "burn",
+      "display": "Burn",
+      "phonetic": "",
+      "translation": "\u71c3\u70e7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-burst",
+      "word": "burst",
+      "display": "Burst",
+      "phonetic": "",
+      "translation": "\u7206\u88c2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-bury",
+      "word": "bury",
+      "display": "Bury",
+      "phonetic": "",
+      "translation": "\u57cb\u846c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-bush",
+      "word": "bush",
+      "display": "Bush",
+      "phonetic": "",
+      "translation": "\u704c\u6728\u4e1b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-butter",
+      "word": "butter",
+      "display": "Butter",
+      "phonetic": "",
+      "translation": "\u9ec4\u6cb9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-plant-butterfly",
+      "word": "butterfly",
+      "display": "Butterfly",
+      "phonetic": "",
+      "translation": "\u8774\u8776",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-wood",
+  "rootLevel": 3,
+  "rootPath": "b>b-wood>b-wood-plant",
+  "type": "category",
+  "notes": ""
+}

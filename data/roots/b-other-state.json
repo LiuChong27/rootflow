@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "rootId": "b-other-state",
+  "root": "\u72b6\u6001",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-other-state-bad",
+      "word": "bad",
+      "display": "Bad",
+      "phonetic": "",
+      "translation": "\u574f\u7684\uff1b\u4e25\u91cd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-badly",
+      "word": "badly",
+      "display": "Badly",
+      "phonetic": "",
+      "translation": "\u975e\u5e38\uff1b\u4e25\u91cd\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-be",
+      "word": "be",
+      "display": "Be",
+      "phonetic": "",
+      "translation": "\u7b49\u4e8e\uff1b\u662f\uff1b\u5230\u8fbe\uff1b\u53d1\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-beautiful",
+      "word": "beautiful",
+      "display": "Beautiful",
+      "phonetic": "",
+      "translation": "\u7f8e\u4e3d\u7684\uff1b\u51fa\u8272\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-beauty",
+      "word": "beauty",
+      "display": "Beauty",
+      "phonetic": "",
+      "translation": "\u7f8e\u4e3d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-beg",
+      "word": "beg",
+      "display": "Beg",
+      "phonetic": "",
+      "translation": "\u4e5e\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-behave",
+      "word": "behave",
+      "display": "Behave",
+      "phonetic": "",
+      "translation": "\u4e3e\u6b62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-behavior",
+      "word": "behavior",
+      "display": "Behavior",
+      "phonetic": "",
+      "translation": "\u884c\u4e3a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-believe",
+      "word": "believe",
+      "display": "Believe",
+      "phonetic": "",
+      "translation": "\u76f8\u4fe1\uff1b\u8ba4\u4e3a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-benign",
+      "word": "benign",
+      "display": "Benign",
+      "phonetic": "",
+      "translation": "\u826f\u5fc3\u7684\uff1b\u4ec1\u6148\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-best",
+      "word": "best",
+      "display": "Best",
+      "phonetic": "",
+      "translation": "\u6700\u597d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-betray",
+      "word": "betray",
+      "display": "Betray",
+      "phonetic": "",
+      "translation": "\u80cc\u53db",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-better",
+      "word": "better",
+      "display": "Better",
+      "phonetic": "",
+      "translation": "\u66f4\u597d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-beware",
+      "word": "beware",
+      "display": "Beware",
+      "phonetic": "",
+      "translation": "\u5f53\u5fc3\uff0c\u8c28\u9632",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-bewilder",
+      "word": "bewilder",
+      "display": "Bewilder",
+      "phonetic": "",
+      "translation": "\u4f7f\u8ff7\u60d1\uff1b\u96be\u4f4f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-bid",
+      "word": "bid",
+      "display": "Bid",
+      "phonetic": "",
+      "translation": "\u795d\u613f\uff1b\u547d\u4ee4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-blame",
+      "word": "blame",
+      "display": "Blame",
+      "phonetic": "",
+      "translation": "\u8d23\u5907",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-bless",
+      "word": "bless",
+      "display": "Bless",
+      "phonetic": "",
+      "translation": "\u795d\u798f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-brave",
+      "word": "brave",
+      "display": "Brave",
+      "phonetic": "",
+      "translation": "\u52c7\u6562",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-brook",
+      "word": "brook",
+      "display": "Brook",
+      "phonetic": "",
+      "translation": "\u5c0f\u6eaa\uff1b\u5bb9\u5fcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-business",
+      "word": "business",
+      "display": "Business",
+      "phonetic": "",
+      "translation": "\u751f\u610f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-state-busy",
+      "word": "busy",
+      "display": "Busy",
+      "phonetic": "",
+      "translation": "\u5fd9\u788c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-other",
+  "rootLevel": 3,
+  "rootPath": "b>b-other>b-other-state",
+  "type": "category",
+  "notes": ""
+}

@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "p-prefix-pri",
+  "root": "pri\u7b2c\u4e00",
+  "meaning": "first",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-prefix-pri-primary",
+      "word": "primary",
+      "display": "Primary",
+      "phonetic": "",
+      "translation": "\u6700\u521d\u7684\uff1b\u57fa\u672c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-prime",
+      "word": "prime",
+      "display": "Prime",
+      "phonetic": "",
+      "translation": "\u9996\u8981\u7684\uff1b\u9752\u6625",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-primitive",
+      "word": "primitive",
+      "display": "Primitive",
+      "phonetic": "",
+      "translation": "\u539f\u59cb\u7684\uff1b\u65e9\u671f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-prince",
+      "word": "prince",
+      "display": "Prince",
+      "phonetic": "",
+      "translation": "\u738b\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-princess",
+      "word": "princess",
+      "display": "Princess",
+      "phonetic": "",
+      "translation": "\u516c\u4e3b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-principal",
+      "word": "principal",
+      "display": "Principal",
+      "phonetic": "",
+      "translation": "\u6700\u91cd\u8981\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-principle",
+      "word": "principle",
+      "display": "Principle",
+      "phonetic": "",
+      "translation": "\u539f\u5219",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-print",
+      "word": "print",
+      "display": "Print",
+      "phonetic": "",
+      "translation": "\u5370\u5237",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-prior",
+      "word": "prior",
+      "display": "Prior",
+      "phonetic": "",
+      "translation": "\u4f18\u5148\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-priority",
+      "word": "priority",
+      "display": "Priority",
+      "phonetic": "",
+      "translation": "\u4f18\u5148",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-prison",
+      "word": "prison",
+      "display": "Prison",
+      "phonetic": "",
+      "translation": "\u76d1\u72f1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-prisoner",
+      "word": "prisoner",
+      "display": "Prisoner",
+      "phonetic": "",
+      "translation": "\u56da\u72af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-privacy",
+      "word": "privacy",
+      "display": "Privacy",
+      "phonetic": "",
+      "translation": "\u9690\u79c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-private",
+      "word": "private",
+      "display": "Private",
+      "phonetic": "",
+      "translation": "\u79c1\u4eba\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-privilege",
+      "word": "privilege",
+      "display": "Privilege",
+      "phonetic": "",
+      "translation": "\u7279\u6743",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pri-prize",
+      "word": "prize",
+      "display": "Prize",
+      "phonetic": "",
+      "translation": "\u5956\u54c1\uff1b\u73cd\u60dc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p-prefix",
+  "rootLevel": 3,
+  "rootPath": "p>p-prefix>p-prefix-pri",
+  "type": "branch",
+  "notes": ""
+}

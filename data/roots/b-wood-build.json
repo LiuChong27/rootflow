@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "b-wood-build",
+  "root": "build\u5efa\u7b51",
+  "meaning": "build",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-wood-build-baseball",
+      "word": "baseball",
+      "display": "Baseball",
+      "phonetic": "",
+      "translation": "\u68d2\u7403",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-basement",
+      "word": "basement",
+      "display": "Basement",
+      "phonetic": "",
+      "translation": "\u5730\u7a96\uff1b\u5730\u4e0b\u5ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-basic-problem",
+      "word": "basic problem",
+      "display": "Basic Problem",
+      "phonetic": "",
+      "translation": "\u6839\u672c\u95ee\u9898",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-block",
+      "word": "block",
+      "display": "Block",
+      "phonetic": "",
+      "translation": "\u77f3\u5757\uff1b\u969c\u788d\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-booth",
+      "word": "booth",
+      "display": "Booth",
+      "phonetic": "",
+      "translation": "\u7535\u8bdd\u4ead",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-brick",
+      "word": "brick",
+      "display": "Brick",
+      "phonetic": "",
+      "translation": "\u7816\u5757",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-bridge",
+      "word": "bridge",
+      "display": "Bridge",
+      "phonetic": "",
+      "translation": "\u6865",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-building",
+      "word": "building",
+      "display": "Building",
+      "phonetic": "",
+      "translation": "\u5efa\u7b51\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-burglar",
+      "word": "burglar",
+      "display": "Burglar",
+      "phonetic": "",
+      "translation": "\u5165\u5ba4\u76d7\u8d3c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-build-bus",
+      "word": "bus",
+      "display": "Bus",
+      "phonetic": "",
+      "translation": "\u516c\u5171\u6c7d\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-wood",
+  "rootLevel": 3,
+  "rootPath": "b>b-wood>b-wood-build",
+  "type": "root",
+  "notes": ""
+}

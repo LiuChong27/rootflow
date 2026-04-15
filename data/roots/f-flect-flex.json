@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "f-flect-flex",
+  "root": "flect=flex=bend\u5f2f\u66f2",
+  "meaning": "flect=flex",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-flect-flex-genuflect",
+      "word": "genuflect",
+      "display": "Genuflect",
+      "phonetic": "",
+      "translation": "\u5c48\u819d\uff1b\u8dea\u62dc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flect-flex-inflect",
+      "word": "inflect",
+      "display": "Inflect",
+      "phonetic": "",
+      "translation": "\u5f2f\u66f2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flect-flex-inflexible",
+      "word": "inflexible",
+      "display": "Inflexible",
+      "phonetic": "",
+      "translation": "\u4e0d\u6613\u5f2f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flect-flex-inflexion",
+      "word": "inflexion",
+      "display": "Inflexion",
+      "phonetic": "",
+      "translation": "\u5f2f\u66f2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flect-flex-reflect",
+      "word": "reflect",
+      "display": "Reflect",
+      "phonetic": "",
+      "translation": "\u53cd\u5c04\uff1b\u53cd\u7701",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flect-flex-reflex",
+      "word": "reflex",
+      "display": "Reflex",
+      "phonetic": "",
+      "translation": "\u53cd\u5c04\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flect-flex-reflexible",
+      "word": "reflexible",
+      "display": "Reflexible",
+      "phonetic": "",
+      "translation": "\u53ef\u53cd\u5c04\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-flect-flex-reflexive",
+      "word": "reflexive",
+      "display": "Reflexive",
+      "phonetic": "",
+      "translation": "\u53cd\u8eab\u52a8\u8bcd/\u4ee3\u8bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f",
+  "rootLevel": 2,
+  "rootPath": "f>f-flect-flex",
+  "type": "root",
+  "notes": ""
+}

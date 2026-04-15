@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "rootId": "v-other",
+  "root": "other",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-other-variable",
+      "word": "variable",
+      "display": "Variable",
+      "phonetic": "",
+      "translation": "\u53ef\u53d8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-variation",
+      "word": "variation",
+      "display": "Variation",
+      "phonetic": "",
+      "translation": "\u53d8\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-variety",
+      "word": "variety",
+      "display": "Variety",
+      "phonetic": "",
+      "translation": "\u79cd\u7c7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-various",
+      "word": "various",
+      "display": "Various",
+      "phonetic": "",
+      "translation": "\u4e0d\u540c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vary",
+      "word": "vary",
+      "display": "Vary",
+      "phonetic": "",
+      "translation": "\u6539\u53d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vegetarian",
+      "word": "vegetarian",
+      "display": "Vegetarian",
+      "phonetic": "",
+      "translation": "\u7d20\u98df\u4e3b\u4e49\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vegetation",
+      "word": "vegetation",
+      "display": "Vegetation",
+      "phonetic": "",
+      "translation": "\u690d\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vegtable",
+      "word": "vegtable",
+      "display": "Vegtable",
+      "phonetic": "",
+      "translation": "\u852c\u83dc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-verge",
+      "word": "verge",
+      "display": "Verge",
+      "phonetic": "",
+      "translation": "\u8fb9\u7f18",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-verify",
+      "word": "verify",
+      "display": "Verify",
+      "phonetic": "",
+      "translation": "\u8bc1\u5b9e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vibrate",
+      "word": "vibrate",
+      "display": "Vibrate",
+      "phonetic": "",
+      "translation": "\u6447\u6446",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vice",
+      "word": "vice",
+      "display": "Vice",
+      "phonetic": "",
+      "translation": "\u90aa\u6076",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vicinity",
+      "word": "vicinity",
+      "display": "Vicinity",
+      "phonetic": "",
+      "translation": "\u90bb\u8fd1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vicious",
+      "word": "vicious",
+      "display": "Vicious",
+      "phonetic": "",
+      "translation": "\u6076\u6bd2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-victim",
+      "word": "victim",
+      "display": "Victim",
+      "phonetic": "",
+      "translation": "\u53d7\u5bb3\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vigorous",
+      "word": "vigorous",
+      "display": "Vigorous",
+      "phonetic": "",
+      "translation": "\u671d\u6c14\u84ec\u52c3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vinegar",
+      "word": "vinegar",
+      "display": "Vinegar",
+      "phonetic": "",
+      "translation": "\u918b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-violate",
+      "word": "violate",
+      "display": "Violate",
+      "phonetic": "",
+      "translation": "\u8fdd\u80cc;\u5192\u72af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-violence",
+      "word": "violence",
+      "display": "Violence",
+      "phonetic": "",
+      "translation": "\u731b\u70c8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-violent",
+      "word": "violent",
+      "display": "Violent",
+      "phonetic": "",
+      "translation": "\u731b\u70c8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-virgin",
+      "word": "virgin",
+      "display": "Virgin",
+      "phonetic": "",
+      "translation": "\u5904\u5973;\u7eaf\u6d01\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-virtual",
+      "word": "virtual",
+      "display": "Virtual",
+      "phonetic": "",
+      "translation": "\u5b9e\u9645\u4e0a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-virtue",
+      "word": "virtue",
+      "display": "Virtue",
+      "phonetic": "",
+      "translation": "\u5fb7\u884c;\u529f\u6548",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-virus",
+      "word": "virus",
+      "display": "Virus",
+      "phonetic": "",
+      "translation": "\u75c5\u6bd2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vital",
+      "word": "vital",
+      "display": "Vital",
+      "phonetic": "",
+      "translation": "\u91cd\u5927\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vitamin",
+      "word": "vitamin",
+      "display": "Vitamin",
+      "phonetic": "",
+      "translation": "\u7ef4\u751f\u7d20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vivid",
+      "word": "vivid",
+      "display": "Vivid",
+      "phonetic": "",
+      "translation": "\u9c9c\u8273\u7684;\u751f\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-volt",
+      "word": "volt",
+      "display": "Volt",
+      "phonetic": "",
+      "translation": "\u4f0f\u7279",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-voltage",
+      "word": "voltage",
+      "display": "Voltage",
+      "phonetic": "",
+      "translation": "\u7535\u538b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-other-vulgar",
+      "word": "vulgar",
+      "display": "Vulgar",
+      "phonetic": "",
+      "translation": "\u7c97\u4fd7\u7684;\u666e\u901a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-other",
+  "type": "root",
+  "notes": ""
+}

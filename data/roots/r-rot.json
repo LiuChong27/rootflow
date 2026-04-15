@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "r-rot",
+  "root": "rot\u8f6c\u52a8",
+  "meaning": "rotate",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-rot-rotary",
+      "word": "rotary",
+      "display": "Rotary",
+      "phonetic": "",
+      "translation": "\u65cb\u8f6c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-rot-rotate",
+      "word": "rotate",
+      "display": "Rotate",
+      "phonetic": "",
+      "translation": "\u65cb\u8f6c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r",
+  "rootLevel": 2,
+  "rootPath": "r>r-rot",
+  "type": "root",
+  "notes": ""
+}

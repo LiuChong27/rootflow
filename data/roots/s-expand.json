@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "s-expand",
+  "root": "\u5c55\u5f00",
+  "meaning": "expand",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-expand-spray",
+      "word": "spray",
+      "display": "Spray",
+      "phonetic": "",
+      "translation": "\u55b7\u96fe\uff1b\u98de\u6cab\uff1b\u6c34\u82b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-spread",
+      "word": "spread",
+      "display": "Spread",
+      "phonetic": "",
+      "translation": "\u4f38\u5c55\uff1b\u4f20\u64ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-spring",
+      "word": "spring",
+      "display": "Spring",
+      "phonetic": "",
+      "translation": "\u6625\uff1b\u5f39\u7c27",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-sprinkle",
+      "word": "sprinkle",
+      "display": "Sprinkle",
+      "phonetic": "",
+      "translation": "\u55b7\u6d12",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-sprout",
+      "word": "sprout",
+      "display": "Sprout",
+      "phonetic": "",
+      "translation": "\u53d1\u82bd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-spur",
+      "word": "spur",
+      "display": "Spur",
+      "phonetic": "",
+      "translation": "\u97ad\u7b56\uff1b\u523a\u6fc0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-stretch",
+      "word": "stretch",
+      "display": "Stretch",
+      "phonetic": "",
+      "translation": "\u4f38\u5c55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-string",
+      "word": "string",
+      "display": "String",
+      "phonetic": "",
+      "translation": "\u7ef3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-strip",
+      "word": "strip",
+      "display": "Strip",
+      "phonetic": "",
+      "translation": "\u6761\u7eb9\uff1b\u5265\u53bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-stripe",
+      "word": "stripe",
+      "display": "Stripe",
+      "phonetic": "",
+      "translation": "\u6761\u7eb9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-expand-stroll",
+      "word": "stroll",
+      "display": "Stroll",
+      "phonetic": "",
+      "translation": "\u6f2b\u6b65\uff1b\u6563\u6b65",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-expand",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "v-voc",
+  "root": "voc",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-voc-vocabulary",
+      "word": "vocabulary",
+      "display": "Vocabulary",
+      "phonetic": "",
+      "translation": "\u8bcd\u6c47",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-voc-vocal",
+      "word": "vocal",
+      "display": "Vocal",
+      "phonetic": "",
+      "translation": "\u58f0\u97f3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-voc-vocation",
+      "word": "vocation",
+      "display": "Vocation",
+      "phonetic": "",
+      "translation": "\u804c\u4e1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-voc-voice",
+      "word": "voice",
+      "display": "Voice",
+      "phonetic": "",
+      "translation": "\u58f0\u97f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-voc-volume",
+      "word": "volume",
+      "display": "Volume",
+      "phonetic": "",
+      "translation": "\u5bb9\u79ef;\u97f3\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-voc-vowel",
+      "word": "vowel",
+      "display": "Vowel",
+      "phonetic": "",
+      "translation": "\u5143\u97f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-voc",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "b-biblio-book",
+  "root": "biblio=book\u4e66",
+  "meaning": "book",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-biblio-bibliographer",
+      "word": "bibliographer",
+      "display": "Bibliographer",
+      "phonetic": "",
+      "translation": "\u7f16\u8457\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-biblio-bibliography",
+      "word": "bibliography",
+      "display": "Bibliography",
+      "phonetic": "",
+      "translation": "\u6587\u732e\u5b66\uff1b\u53c2\u8003\u4e66\u76ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-biblio-bibliolater",
+      "word": "bibliolater",
+      "display": "Bibliolater",
+      "phonetic": "",
+      "translation": "\u5723\u7ecf\u5d07\u62dc\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-biblio-bibliology",
+      "word": "bibliology",
+      "display": "Bibliology",
+      "phonetic": "",
+      "translation": "\u5723\u7ecf\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-biblio-bibliomania",
+      "word": "bibliomania",
+      "display": "Bibliomania",
+      "phonetic": "",
+      "translation": "\u85cf\u4e66\u7656",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-biblio-bibliophilist",
+      "word": "bibliophilist",
+      "display": "Bibliophilist",
+      "phonetic": "",
+      "translation": "\u4e66\u7c4d\u6536\u85cf\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-biblio-bibliophobia",
+      "word": "bibliophobia",
+      "display": "Bibliophobia",
+      "phonetic": "",
+      "translation": "\u5bf9\u4e66\u7c4d\u6050\u6016",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-biblio-book",
+  "type": "root",
+  "notes": ""
+}

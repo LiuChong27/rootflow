@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "m-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-other-marvelous",
+      "word": "marvelous",
+      "display": "Marvelous",
+      "phonetic": "",
+      "translation": "\u60ca\u4eba\u7684\uff1b\u5947\u8ff9\u822c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-marxist",
+      "word": "marxist",
+      "display": "Marxist",
+      "phonetic": "",
+      "translation": "\u9a6c\u514b\u601d\u4e3b\u4e49\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-matter",
+      "word": "matter",
+      "display": "Matter",
+      "phonetic": "",
+      "translation": "\u7269\u8d28\uff1b\u9ebb\u70e6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-melody",
+      "word": "melody",
+      "display": "Melody",
+      "phonetic": "",
+      "translation": "\u60a6\u8033\u7684\uff1b\u65cb\u5f8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-melon",
+      "word": "melon",
+      "display": "Melon",
+      "phonetic": "",
+      "translation": "\u897f\u74dc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mercury",
+      "word": "mercury",
+      "display": "Mercury",
+      "phonetic": "",
+      "translation": "\u6c34\u94f6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-metaphor",
+      "word": "metaphor",
+      "display": "Metaphor",
+      "phonetic": "",
+      "translation": "\u6bd4\u55bb\uff1b\u9690\u55bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-metropolitan",
+      "word": "metropolitan",
+      "display": "Metropolitan",
+      "phonetic": "",
+      "translation": "\u9996\u90fd\u7684\uff1b\u5927\u57ce\u5e02",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mission",
+      "word": "mission",
+      "display": "Mission",
+      "phonetic": "",
+      "translation": "\u4efb\u52a1\uff1b\u4ee3\u8868\u56e2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-missionary",
+      "word": "missionary",
+      "display": "Missionary",
+      "phonetic": "",
+      "translation": "\u6559\u4f1a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mist",
+      "word": "mist",
+      "display": "Mist",
+      "phonetic": "",
+      "translation": "\u96fe\u972d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mock",
+      "word": "mock",
+      "display": "Mock",
+      "phonetic": "",
+      "translation": "\u5632\u7b11\uff1b\u6a21\u62df\u8003\u8bd5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-moist",
+      "word": "moist",
+      "display": "Moist",
+      "phonetic": "",
+      "translation": "\u6f6e\u6e7f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-moisture",
+      "word": "moisture",
+      "display": "Moisture",
+      "phonetic": "",
+      "translation": "\u8d85\u5e02",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-molecule",
+      "word": "molecule",
+      "display": "Molecule",
+      "phonetic": "",
+      "translation": "\u5206\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mosaic",
+      "word": "mosaic",
+      "display": "Mosaic",
+      "phonetic": "",
+      "translation": "\u9a6c\u8d5b\u514b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mosquito",
+      "word": "mosquito",
+      "display": "Mosquito",
+      "phonetic": "",
+      "translation": "\u868a\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-moss",
+      "word": "moss",
+      "display": "Moss",
+      "phonetic": "",
+      "translation": "\u82d4\u85d3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-mud",
+      "word": "mud",
+      "display": "Mud",
+      "phonetic": "",
+      "translation": "\u6ce5\u5df4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-other-myth",
+      "word": "myth",
+      "display": "Myth",
+      "phonetic": "",
+      "translation": "\u795e\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m",
+  "rootLevel": 2,
+  "rootPath": "m>m-other",
+  "type": "root",
+  "notes": ""
+}

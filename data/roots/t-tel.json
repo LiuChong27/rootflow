@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "t-tel",
+  "root": "tel",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-tel-telegram",
+      "word": "telegram",
+      "display": "Telegram",
+      "phonetic": "",
+      "translation": "\u7535\u62a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tel-telegraph",
+      "word": "telegraph",
+      "display": "Telegraph",
+      "phonetic": "",
+      "translation": "\u7535\u62a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tel-telephone",
+      "word": "telephone",
+      "display": "Telephone",
+      "phonetic": "",
+      "translation": "\u7535\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tel-telescope",
+      "word": "telescope",
+      "display": "Telescope",
+      "phonetic": "",
+      "translation": "\u671b\u8fdc\u955c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tel-tell",
+      "word": "tell",
+      "display": "Tell",
+      "phonetic": "",
+      "translation": "\u544a\u8bc9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-tel",
+  "type": "root",
+  "notes": ""
+}

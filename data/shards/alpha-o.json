@@ -1,0 +1,1801 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-o",
+  "rootIds": [
+    "o",
+    "o-ob",
+    "o-off",
+    "o-opp",
+    "o-opt",
+    "o-opt-opt",
+    "o-order",
+    "o-organ",
+    "o-ori",
+    "o-other",
+    "o-other-onym",
+    "o-other-oper",
+    "o-other-or",
+    "o-other-orn",
+    "o-out",
+    "o-over"
+  ],
+  "roots": {
+    "o": {
+      "version": 1,
+      "rootId": "o",
+      "root": "O",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "o",
+      "type": "root",
+      "notes": "\u6839\u636eO.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "o-ob": {
+      "version": 1,
+      "rootId": "o-ob",
+      "root": "ob=ab\u8fdc\u79bb\u52a0\u5f3a",
+      "meaning": "away, strengthen",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-ob-obedience",
+          "word": "obedience",
+          "display": "Obedience",
+          "phonetic": "",
+          "translation": "\u670d\u4ece",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obedient",
+          "word": "obedient",
+          "display": "Obedient",
+          "phonetic": "",
+          "translation": "\u670d\u4ece\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obey",
+          "word": "obey",
+          "display": "Obey",
+          "phonetic": "",
+          "translation": "\u670d\u4ece",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-object",
+          "word": "object",
+          "display": "Object",
+          "phonetic": "",
+          "translation": "\u7269\u4f53\uff1b\u5ba2\u4f53\uff1b\u5bbe\u8bed",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-objection",
+          "word": "objection",
+          "display": "Objection",
+          "phonetic": "",
+          "translation": "\u53cd\u5bf9\uff1b\u5f02\u8bae",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-objective",
+          "word": "objective",
+          "display": "Objective",
+          "phonetic": "",
+          "translation": "\u76ee\u6807\uff1b\u5ba2\u89c2\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obligation",
+          "word": "obligation",
+          "display": "Obligation",
+          "phonetic": "",
+          "translation": "\u4e49\u52a1\uff1b\u8d23\u4efb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-oblige",
+          "word": "oblige",
+          "display": "Oblige",
+          "phonetic": "",
+          "translation": "\u5f3a\u8feb\uff1b\u8feb\u4f7f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obscure",
+          "word": "obscure",
+          "display": "Obscure",
+          "phonetic": "",
+          "translation": "\u6666\u6da9\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-observation",
+          "word": "observation",
+          "display": "Observation",
+          "phonetic": "",
+          "translation": "\u89c2\u5bdf\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-observe",
+          "word": "observe",
+          "display": "Observe",
+          "phonetic": "",
+          "translation": "\u89c2\u5bdf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obsession",
+          "word": "obsession",
+          "display": "Obsession",
+          "phonetic": "",
+          "translation": "\u8ff7\u4f4f\uff1b\u56f0\u6270",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obsolete",
+          "word": "obsolete",
+          "display": "Obsolete",
+          "phonetic": "",
+          "translation": "\u5df2\u5e9f\u5f03\u7684\uff1b\u8fc7\u65f6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obstacle",
+          "word": "obstacle",
+          "display": "Obstacle",
+          "phonetic": "",
+          "translation": "\u969c\u788d\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obstruct",
+          "word": "obstruct",
+          "display": "Obstruct",
+          "phonetic": "",
+          "translation": "\u963b\u788d\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obstruction",
+          "word": "obstruction",
+          "display": "Obstruction",
+          "phonetic": "",
+          "translation": "\u59a8\u788d\uff1b\u969c\u788d\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ob-obtain",
+          "word": "obtain",
+          "display": "Obtain",
+          "phonetic": "",
+          "translation": "\u83b7\u5f97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-ob",
+      "type": "root",
+      "notes": ""
+    },
+    "o-off": {
+      "version": 1,
+      "rootId": "o-off",
+      "root": "off\u79bb\u5f00",
+      "meaning": "off",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-off-offend",
+          "word": "offend",
+          "display": "Offend",
+          "phonetic": "",
+          "translation": "\u72af\u7f6a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-off-offensive",
+          "word": "offensive",
+          "display": "Offensive",
+          "phonetic": "",
+          "translation": "\u5192\u72af",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-off-offer",
+          "word": "offer",
+          "display": "Offer",
+          "phonetic": "",
+          "translation": "\u63d0\u4f9b\uff1b\u51fa\u73b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-off-office",
+          "word": "office",
+          "display": "Office",
+          "phonetic": "",
+          "translation": "\u529e\u516c\u5ba4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-off-officer",
+          "word": "officer",
+          "display": "Officer",
+          "phonetic": "",
+          "translation": "\u5b98\u5458\uff1b\u519b\u5b98",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-off-official",
+          "word": "official",
+          "display": "Official",
+          "phonetic": "",
+          "translation": "\u5b98\u5458",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-off-offset",
+          "word": "offset",
+          "display": "Offset",
+          "phonetic": "",
+          "translation": "\u5206\u652f\uff1b\u8865\u507f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-off-offspring",
+          "word": "offspring",
+          "display": "Offspring",
+          "phonetic": "",
+          "translation": "\u5b50\u5b59\uff1b\u540e\u4ee3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-off",
+      "type": "root",
+      "notes": ""
+    },
+    "o-opp": {
+      "version": 1,
+      "rootId": "o-opp",
+      "root": "opp\u76f8\u5bf9",
+      "meaning": "opposite",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-opp-opponent",
+          "word": "opponent",
+          "display": "Opponent",
+          "phonetic": "",
+          "translation": "\u5bf9\u624b\uff1b\u5bf9\u6297\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opp-opportunity",
+          "word": "opportunity",
+          "display": "Opportunity",
+          "phonetic": "",
+          "translation": "\u673a\u4f1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opp-oppose",
+          "word": "oppose",
+          "display": "Oppose",
+          "phonetic": "",
+          "translation": "\u53cd\u5bf9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opp-opposite",
+          "word": "opposite",
+          "display": "Opposite",
+          "phonetic": "",
+          "translation": "\u5bf9\u9762\u7684\uff1b\u76f8\u5bf9\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opp-oppress",
+          "word": "oppress",
+          "display": "Oppress",
+          "phonetic": "",
+          "translation": "\u538b\u8feb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-opp",
+      "type": "root",
+      "notes": ""
+    },
+    "o-opt": {
+      "version": 1,
+      "rootId": "o-opt",
+      "root": "opt\u9009\u62e9",
+      "meaning": "choose",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-opt-optical",
+          "word": "optical",
+          "display": "Optical",
+          "phonetic": "",
+          "translation": "\u773c\u7684\uff1b\u5149\u5b66\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-optimism",
+          "word": "optimism",
+          "display": "Optimism",
+          "phonetic": "",
+          "translation": "\u4e50\u89c2\u4e3b\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-optimize",
+          "word": "optimize",
+          "display": "Optimize",
+          "phonetic": "",
+          "translation": "\u4f7f\u6700\u4f18\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-optimum",
+          "word": "optimum",
+          "display": "Optimum",
+          "phonetic": "",
+          "translation": "\u6700\u4f73\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-option",
+          "word": "option",
+          "display": "Option",
+          "phonetic": "",
+          "translation": "\u9009\u62e9\u6743",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-optional",
+          "word": "optional",
+          "display": "Optional",
+          "phonetic": "",
+          "translation": "\u968f\u610f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-pessimism",
+          "word": "pessimism",
+          "display": "Pessimism",
+          "phonetic": "",
+          "translation": "\u60b2\u89c2\u4e3b\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-opt",
+      "type": "root",
+      "notes": ""
+    },
+    "o-opt-opt": {
+      "version": 1,
+      "rootId": "o-opt-opt",
+      "root": "opt\u9009\u62e9",
+      "meaning": "choose",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-opt-opt-adopt",
+          "word": "adopt",
+          "display": "Adopt",
+          "phonetic": "",
+          "translation": "\u91c7\u7eb3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-opt-adopter",
+          "word": "adopter",
+          "display": "Adopter",
+          "phonetic": "",
+          "translation": "\u517b\u7236\u517b\u6bcd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-opt-adoption",
+          "word": "adoption",
+          "display": "Adoption",
+          "phonetic": "",
+          "translation": "\u6536\u517b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-opt-opt-optative",
+          "word": "optative",
+          "display": "Optative",
+          "phonetic": "",
+          "translation": "\u7948\u613f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o-opt",
+      "rootLevel": 3,
+      "rootPath": "o>o-opt>o-opt-opt",
+      "type": "branch",
+      "notes": ""
+    },
+    "o-order": {
+      "version": 1,
+      "rootId": "o-order",
+      "root": "order=ordin\u987a\u5e8f",
+      "meaning": "order",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-order-coordinate",
+          "word": "coordinate",
+          "display": "Coordinate",
+          "phonetic": "",
+          "translation": "\u540c\u7b49\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-order-disorder",
+          "word": "disorder",
+          "display": "Disorder",
+          "phonetic": "",
+          "translation": "\u6742\u4e71\uff1b\u6df7\u4e71",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-order-extraordinary",
+          "word": "extraordinary",
+          "display": "Extraordinary",
+          "phonetic": "",
+          "translation": "\u975e\u5e38\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-order-inordinate",
+          "word": "inordinate",
+          "display": "Inordinate",
+          "phonetic": "",
+          "translation": "\u65e0\u9650\u5236\u7684\uff1b\u7d0a\u4e71\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-order-ordinal",
+          "word": "ordinal",
+          "display": "Ordinal",
+          "phonetic": "",
+          "translation": "\u5e8f\u6570",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-order-ordinance",
+          "word": "ordinance",
+          "display": "Ordinance",
+          "phonetic": "",
+          "translation": "\u6cd5\u4ee4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-order-ordinary",
+          "word": "ordinary",
+          "display": "Ordinary",
+          "phonetic": "",
+          "translation": "\u5e73\u5e38\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-order-subordinate",
+          "word": "subordinate",
+          "display": "Subordinate",
+          "phonetic": "",
+          "translation": "\u6b21\u8981\u7684\uff1b\u4e0b\u5c5e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-order",
+      "type": "root",
+      "notes": ""
+    },
+    "o-organ": {
+      "version": 1,
+      "rootId": "o-organ",
+      "root": "organ\u5668\u5b98",
+      "meaning": "organ",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-organ-organ",
+          "word": "organ",
+          "display": "Organ",
+          "phonetic": "",
+          "translation": "\u5668\u5b98\uff1b\u673a\u6784\uff1b\u98ce\u7434",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-organ-organic",
+          "word": "organic",
+          "display": "Organic",
+          "phonetic": "",
+          "translation": "\u5668\u5b98\u7684\uff1b\u6709\u673a\u4f53",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-organ-organism",
+          "word": "organism",
+          "display": "Organism",
+          "phonetic": "",
+          "translation": "\u751f\u7269\uff1b\u6709\u673a\u4f53",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-organ-organization",
+          "word": "organization",
+          "display": "Organization",
+          "phonetic": "",
+          "translation": "\u7ec4\u7ec7\uff1b\u673a\u6784",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-organ-organize",
+          "word": "organize",
+          "display": "Organize",
+          "phonetic": "",
+          "translation": "\u7ec4\u7ec7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-organ",
+      "type": "root",
+      "notes": ""
+    },
+    "o-ori": {
+      "version": 1,
+      "rootId": "o-ori",
+      "root": "ori=rise\u5347\u8d77",
+      "meaning": "rise",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-ori-orient",
+          "word": "orient",
+          "display": "Orient",
+          "phonetic": "",
+          "translation": "\u4e1c\u65b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ori-oriental",
+          "word": "oriental",
+          "display": "Oriental",
+          "phonetic": "",
+          "translation": "\u4e1c\u65b9\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ori-orientation",
+          "word": "orientation",
+          "display": "Orientation",
+          "phonetic": "",
+          "translation": "\u65b9\u5411\uff1b\u5411\u4e1c\u65b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ori-origin",
+          "word": "origin",
+          "display": "Origin",
+          "phonetic": "",
+          "translation": "\u8d77\u6e90",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ori-original",
+          "word": "original",
+          "display": "Original",
+          "phonetic": "",
+          "translation": "\u6700\u521d\u7684\uff1b\u539f\u8457",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-ori-originate",
+          "word": "originate",
+          "display": "Originate",
+          "phonetic": "",
+          "translation": "\u8d77\u6e90\uff1b\u521b\u9020",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-ori",
+      "type": "root",
+      "notes": ""
+    },
+    "o-other": {
+      "version": 1,
+      "rootId": "o-other",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-other-adoral",
+          "word": "adoral",
+          "display": "Adoral",
+          "phonetic": "",
+          "translation": "\u53e3\u90e8\u9644\u8fd1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-adoration",
+          "word": "adoration",
+          "display": "Adoration",
+          "phonetic": "",
+          "translation": "\u5d07\u62dc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-adore",
+          "word": "adore",
+          "display": "Adore",
+          "phonetic": "",
+          "translation": "\u5d07\u62dc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-adorer",
+          "word": "adorer",
+          "display": "Adorer",
+          "phonetic": "",
+          "translation": "\u7231\u6155\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-oak",
+          "word": "oak",
+          "display": "Oak",
+          "phonetic": "",
+          "translation": "\u6a61\u6728\uff1b\u6a61\u6811",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-oar",
+          "word": "oar",
+          "display": "Oar",
+          "phonetic": "",
+          "translation": "\u6868\uff1b\u5212\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-oath",
+          "word": "oath",
+          "display": "Oath",
+          "phonetic": "",
+          "translation": "\u8a93\u8a00\uff1b\u8bc5\u5492",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-occasion",
+          "word": "occasion",
+          "display": "Occasion",
+          "phonetic": "",
+          "translation": "\u573a\u5408\uff1b\u673a\u4f1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-occasional",
+          "word": "occasional",
+          "display": "Occasional",
+          "phonetic": "",
+          "translation": "\u5076\u7136\u7684\uff1b\u4e34\u65f6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-occupation",
+          "word": "occupation",
+          "display": "Occupation",
+          "phonetic": "",
+          "translation": "\u5360\u9886\uff1b\u804c\u4e1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-occupy",
+          "word": "occupy",
+          "display": "Occupy",
+          "phonetic": "",
+          "translation": "\u5360\u7528",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-occur",
+          "word": "occur",
+          "display": "Occur",
+          "phonetic": "",
+          "translation": "\u53d1\u751f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-occurrence",
+          "word": "occurrence",
+          "display": "Occurrence",
+          "phonetic": "",
+          "translation": "\u53d1\u751f\uff1b\u4e8b\u6545",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-odd",
+          "word": "odd",
+          "display": "Odd",
+          "phonetic": "",
+          "translation": "\u5947\u602a\u7684\uff1b\u5947\u6570\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-odds",
+          "word": "odds",
+          "display": "Odds",
+          "phonetic": "",
+          "translation": "\u4e0d\u5e73\u7b49\uff1b\u5dee\u5f02",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-odor",
+          "word": "odor",
+          "display": "Odor",
+          "phonetic": "",
+          "translation": "\u6c14\u5473\uff1b\u9999\u5473",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-omit",
+          "word": "omit",
+          "display": "Omit",
+          "phonetic": "",
+          "translation": "\u7701\u7565",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-opaque",
+          "word": "opaque",
+          "display": "Opaque",
+          "phonetic": "",
+          "translation": "\u6666\u6da9\u7684\uff1b\u96be\u7406\u89e3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-orbit",
+          "word": "orbit",
+          "display": "Orbit",
+          "phonetic": "",
+          "translation": "\u8f68\u9053",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-orchard",
+          "word": "orchard",
+          "display": "Orchard",
+          "phonetic": "",
+          "translation": "\u679c\u56ed",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-orphan",
+          "word": "orphan",
+          "display": "Orphan",
+          "phonetic": "",
+          "translation": "\u5b64\u513f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-orthodox",
+          "word": "orthodox",
+          "display": "Orthodox",
+          "phonetic": "",
+          "translation": "\u4f20\u7edf\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-ought",
+          "word": "ought",
+          "display": "Ought",
+          "phonetic": "",
+          "translation": "\u5e94\u8be5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-ounce",
+          "word": "ounce",
+          "display": "Ounce",
+          "phonetic": "",
+          "translation": "\u76ce\u53f8,\u82f1\u4e24",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-oval",
+          "word": "oval",
+          "display": "Oval",
+          "phonetic": "",
+          "translation": "\u5375\u5f62\u7684\uff1b\u692d\u5706\u5f62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-owing",
+          "word": "owing",
+          "display": "Owing",
+          "phonetic": "",
+          "translation": "\u6b20\u503a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-own",
+          "word": "own",
+          "display": "Own",
+          "phonetic": "",
+          "translation": "\u6b20\u503a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-other",
+      "type": "root",
+      "notes": ""
+    },
+    "o-other-onym": {
+      "version": 1,
+      "rootId": "o-other-onym",
+      "root": "onym=name\u540d\u5b57",
+      "meaning": "name",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-other-onym-synonym",
+          "word": "synonym",
+          "display": "Synonym",
+          "phonetic": "",
+          "translation": "\u540c\u4e49\u8bcd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o-other",
+      "rootLevel": 3,
+      "rootPath": "o>o-other>o-other-onym",
+      "type": "branch",
+      "notes": ""
+    },
+    "o-other-oper": {
+      "version": 1,
+      "rootId": "o-other-oper",
+      "root": "oper=work\u5de5\u4f5c",
+      "meaning": "work",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-other-oper-opera",
+          "word": "opera",
+          "display": "Opera",
+          "phonetic": "",
+          "translation": "\u6b4c\u5267",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-oper-operate",
+          "word": "operate",
+          "display": "Operate",
+          "phonetic": "",
+          "translation": "\u64cd\u4f5c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-oper-operation",
+          "word": "operation",
+          "display": "Operation",
+          "phonetic": "",
+          "translation": "\u624b\u672f\uff1b\u7ecf\u8425\uff1b\u8fd0\u8f6c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-oper-operator",
+          "word": "operator",
+          "display": "Operator",
+          "phonetic": "",
+          "translation": "\u64cd\u4f5c\u4eba\u5458\uff1b\u63a5\u7ebf\u5458",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o-other",
+      "rootLevel": 3,
+      "rootPath": "o>o-other>o-other-oper",
+      "type": "branch",
+      "notes": ""
+    },
+    "o-other-or": {
+      "version": 1,
+      "rootId": "o-other-or",
+      "root": "or\u8bf4",
+      "meaning": "say",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-other-or-oral",
+          "word": "oral",
+          "display": "Oral",
+          "phonetic": "",
+          "translation": "\u53e3\u5934\u7684\uff1b\u53e3\u8ff0\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-or-oration",
+          "word": "oration",
+          "display": "Oration",
+          "phonetic": "",
+          "translation": "\u6f14\u8bf4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-other-or-orchestra",
+          "word": "orchestra",
+          "display": "Orchestra",
+          "phonetic": "",
+          "translation": "\u7ba1\u5f26\u4e50\u961f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o-other",
+      "rootLevel": 3,
+      "rootPath": "o>o-other>o-other-or",
+      "type": "branch",
+      "notes": ""
+    },
+    "o-other-orn": {
+      "version": 1,
+      "rootId": "o-other-orn",
+      "root": "orn=embellish\u88c5\u9970",
+      "meaning": "embellish",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-other-orn-ornament",
+          "word": "ornament",
+          "display": "Ornament",
+          "phonetic": "",
+          "translation": "\u88c5\u9970",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o-other",
+      "rootLevel": 3,
+      "rootPath": "o>o-other>o-other-orn",
+      "type": "branch",
+      "notes": ""
+    },
+    "o-out": {
+      "version": 1,
+      "rootId": "o-out",
+      "root": "out\u5916",
+      "meaning": "out",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-out-out",
+          "word": "out",
+          "display": "Out",
+          "phonetic": "",
+          "translation": "\u79bb\u5bb6\uff1b\u5411\u5916",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outbreak",
+          "word": "outbreak",
+          "display": "Outbreak",
+          "phonetic": "",
+          "translation": "\u7206\u53d1\uff1b\u53d1\u4f5c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outcome",
+          "word": "outcome",
+          "display": "Outcome",
+          "phonetic": "",
+          "translation": "\u7ed3\u679c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outdoor",
+          "word": "outdoor",
+          "display": "Outdoor",
+          "phonetic": "",
+          "translation": "\u5ba4\u5916\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outer",
+          "word": "outer",
+          "display": "Outer",
+          "phonetic": "",
+          "translation": "\u5916\u90e8\u7684\uff1b\u5916\u5c42\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outfit",
+          "word": "outfit",
+          "display": "Outfit",
+          "phonetic": "",
+          "translation": "\u88c5\u5907",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outing",
+          "word": "outing",
+          "display": "Outing",
+          "phonetic": "",
+          "translation": "\u5916\u51fa\uff1b\u6563\u6b65",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outlet",
+          "word": "outlet",
+          "display": "Outlet",
+          "phonetic": "",
+          "translation": "\u51fa\u53e3\uff1b\u5e02\u573a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outlook",
+          "word": "outlook",
+          "display": "Outlook",
+          "phonetic": "",
+          "translation": "\u666f\u8272\uff1b\u98ce\u5149",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-output",
+          "word": "output",
+          "display": "Output",
+          "phonetic": "",
+          "translation": "\u4ea7\u91cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outrage",
+          "word": "outrage",
+          "display": "Outrage",
+          "phonetic": "",
+          "translation": "\u66b4\u884c\uff1b\u4fae\u8fb1\uff1b\u6124\u6012",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outset",
+          "word": "outset",
+          "display": "Outset",
+          "phonetic": "",
+          "translation": "\u5f00\u59cb\uff1b\u5f00\u7aef",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outside",
+          "word": "outside",
+          "display": "Outside",
+          "phonetic": "",
+          "translation": "\u5916\u90e8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outskirts",
+          "word": "outskirts",
+          "display": "Outskirts",
+          "phonetic": "",
+          "translation": "\u90ca\u533a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outstanding",
+          "word": "outstanding",
+          "display": "Outstanding",
+          "phonetic": "",
+          "translation": "\u7a81\u51fa\u7684\uff1b\u663e\u8457\u7684\uff1b\u6770\u51fa\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-out-outward",
+          "word": "outward",
+          "display": "Outward",
+          "phonetic": "",
+          "translation": "\u5916\u9762\u7684\uff1b\u516c\u5f00\u7684\uff1b\u5916\u8868",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-out",
+      "type": "root",
+      "notes": ""
+    },
+    "o-over": {
+      "version": 1,
+      "rootId": "o-over",
+      "root": "over\u5728\u4e0a\u9762",
+      "meaning": "over",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "o-over-overall",
+          "word": "overall",
+          "display": "Overall",
+          "phonetic": "",
+          "translation": "\u5168\u9762\u7684\uff1b\u7efc\u5408\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overcoat",
+          "word": "overcoat",
+          "display": "Overcoat",
+          "phonetic": "",
+          "translation": "\u5916\u8863",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overflow",
+          "word": "overflow",
+          "display": "Overflow",
+          "phonetic": "",
+          "translation": "\u6ea2\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overhead",
+          "word": "overhead",
+          "display": "Overhead",
+          "phonetic": "",
+          "translation": "\u5728\u5934\u9876\u4e0a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overhear",
+          "word": "overhear",
+          "display": "Overhear",
+          "phonetic": "",
+          "translation": "\u5076\u7136\u542c\u5230",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overlap",
+          "word": "overlap",
+          "display": "Overlap",
+          "phonetic": "",
+          "translation": "\u91cd\u53e0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overlook",
+          "word": "overlook",
+          "display": "Overlook",
+          "phonetic": "",
+          "translation": "\u5ffd\u7565\uff1b\u4fef\u77b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overnight",
+          "word": "overnight",
+          "display": "Overnight",
+          "phonetic": "",
+          "translation": "\u901a\u5bb5\uff1b\u7a81\u7136",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overpass",
+          "word": "overpass",
+          "display": "Overpass",
+          "phonetic": "",
+          "translation": "\u80dc\u8fc7\uff1b\u5ffd\u89c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overseas",
+          "word": "overseas",
+          "display": "Overseas",
+          "phonetic": "",
+          "translation": "\u5916\u56fd\u7684\uff1b\u6d77\u5916\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overtake",
+          "word": "overtake",
+          "display": "Overtake",
+          "phonetic": "",
+          "translation": "\u8ffd\u4e0a\uff1b\u538b\u5012",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overthrow",
+          "word": "overthrow",
+          "display": "Overthrow",
+          "phonetic": "",
+          "translation": "\u63a8\u7ffb\uff1b\u98a0\u8986",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overtime",
+          "word": "overtime",
+          "display": "Overtime",
+          "phonetic": "",
+          "translation": "\u8d85\u65f6\u7684\uff1b\u52a0\u73ed",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overturn",
+          "word": "overturn",
+          "display": "Overturn",
+          "phonetic": "",
+          "translation": "\u9769\u547d\uff1b\u63a8\u7ffb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overwhelm",
+          "word": "overwhelm",
+          "display": "Overwhelm",
+          "phonetic": "",
+          "translation": "\u6df9\u6ca1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "o-over-overwhelming",
+          "word": "overwhelming",
+          "display": "Overwhelming",
+          "phonetic": "",
+          "translation": "\u52bf\u4e0d\u53ef\u6321",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "o",
+      "rootLevel": 2,
+      "rootPath": "o>o-over",
+      "type": "root",
+      "notes": ""
+    }
+  }
+}

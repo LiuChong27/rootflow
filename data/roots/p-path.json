@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "p-path",
+  "root": "path=pathy pati=passi \u611f\u60c5\uff1b\u5fcd\u53d7",
+  "meaning": "feeling, endure",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-path-antipathetic",
+      "word": "antipathetic",
+      "display": "Antipathetic",
+      "phonetic": "",
+      "translation": "\u8ba8\u538c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-antipathy",
+      "word": "antipathy",
+      "display": "Antipathy",
+      "phonetic": "",
+      "translation": "\u618e\u6076",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-apathy",
+      "word": "apathy",
+      "display": "Apathy",
+      "phonetic": "",
+      "translation": "\u51b7\u6de1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-compassion",
+      "word": "compassion",
+      "display": "Compassion",
+      "phonetic": "",
+      "translation": "\u540c\u60c5\uff1b\u601c\u60af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-compatible",
+      "word": "compatible",
+      "display": "Compatible",
+      "phonetic": "",
+      "translation": "\u80fd\u5171\u5904\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-dispassion",
+      "word": "dispassion",
+      "display": "Dispassion",
+      "phonetic": "",
+      "translation": "\u51b7\u9759\uff1b\u4e0d\u51b2\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-dispassionate",
+      "word": "dispassionate",
+      "display": "Dispassionate",
+      "phonetic": "",
+      "translation": "\u51b7\u9759",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-impassible",
+      "word": "impassible",
+      "display": "Impassible",
+      "phonetic": "",
+      "translation": "\u9ebb\u6728\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-impassioned",
+      "word": "impassioned",
+      "display": "Impassioned",
+      "phonetic": "",
+      "translation": "\u4f7f\u611f\u52a8\uff1b\u5145\u6ee1\u70ed\u60c5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-incompatible",
+      "word": "incompatible",
+      "display": "Incompatible",
+      "phonetic": "",
+      "translation": "\u77db\u76fe\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-neuropathy",
+      "word": "neuropathy",
+      "display": "Neuropathy",
+      "phonetic": "",
+      "translation": "\u795e\u7ecf\u75c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-passion",
+      "word": "passion",
+      "display": "Passion",
+      "phonetic": "",
+      "translation": "\u70ed\u60c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-passionate",
+      "word": "passionate",
+      "display": "Passionate",
+      "phonetic": "",
+      "translation": "\u70ed\u60c5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-passive",
+      "word": "passive",
+      "display": "Passive",
+      "phonetic": "",
+      "translation": "\u6d88\u6781\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-passivism",
+      "word": "passivism",
+      "display": "Passivism",
+      "phonetic": "",
+      "translation": "\u88ab\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-pathetic",
+      "word": "pathetic",
+      "display": "Pathetic",
+      "phonetic": "",
+      "translation": "\u53ef\u601c\u7684\uff1b\u53ef\u60b2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-pathology",
+      "word": "pathology",
+      "display": "Pathology",
+      "phonetic": "",
+      "translation": "\u75c5\u7406\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-patience",
+      "word": "patience",
+      "display": "Patience",
+      "phonetic": "",
+      "translation": "\u8010\u5fc3\uff1b\u5fcd\u8010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-patient",
+      "word": "patient",
+      "display": "Patient",
+      "phonetic": "",
+      "translation": "\u6709\u8010\u5fc3\u7684\uff1b\u75c5\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-path-sympathy",
+      "word": "sympathy",
+      "display": "Sympathy",
+      "phonetic": "",
+      "translation": "\u540c\u60c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-path",
+  "type": "root",
+  "notes": ""
+}

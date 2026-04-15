@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "f-fund-foundation",
+  "root": "foundation\u57fa\u7840\uff1b\u6839\u672c",
+  "meaning": "foundation",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-fund-foundation",
+      "word": "foundation",
+      "display": "Foundation",
+      "phonetic": "",
+      "translation": "\u57fa\u7840\uff1b\u6839\u672c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-foundation-founder",
+      "word": "founder",
+      "display": "Founder",
+      "phonetic": "",
+      "translation": "\u94f8\u5de5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fund-foundation-fund",
+      "word": "fund",
+      "display": "Fund",
+      "phonetic": "",
+      "translation": "\u8d44\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-fund",
+  "rootLevel": 3,
+  "rootPath": "f>f-fund>f-fund-foundation",
+  "type": "branch",
+  "notes": ""
+}

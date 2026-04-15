@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "rootId": "c-cord-cor-heart",
+  "root": "cord=cor=\u5fc3",
+  "meaning": "heart",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cord-cor-heart-cool",
+      "word": "cool",
+      "display": "Cool",
+      "phonetic": "",
+      "translation": "\u51b7\u9759\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cord",
+      "word": "cord",
+      "display": "Cord",
+      "phonetic": "",
+      "translation": "\u7ef3\u7d22\uff1b\u675f\u7f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cordial",
+      "word": "cordial",
+      "display": "Cordial",
+      "phonetic": "",
+      "translation": "\u8bda\u6073\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-corn",
+      "word": "corn",
+      "display": "Corn",
+      "phonetic": "",
+      "translation": "\u8c37\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-corner",
+      "word": "corner",
+      "display": "Corner",
+      "phonetic": "",
+      "translation": "\u89d2\u843d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-corporation",
+      "word": "corporation",
+      "display": "Corporation",
+      "phonetic": "",
+      "translation": "\u516c\u53f8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-correct",
+      "word": "correct",
+      "display": "Correct",
+      "phonetic": "",
+      "translation": "\u6b63\u786e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-correlate",
+      "word": "correlate",
+      "display": "Correlate",
+      "phonetic": "",
+      "translation": "\u76f8\u5173\u8054\u7684\u4e8b\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-corridor",
+      "word": "corridor",
+      "display": "Corridor",
+      "phonetic": "",
+      "translation": "\u8d70\u5eca\uff1b\u9053\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-corrode",
+      "word": "corrode",
+      "display": "Corrode",
+      "phonetic": "",
+      "translation": "\u8150\u8680",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-corrupt",
+      "word": "corrupt",
+      "display": "Corrupt",
+      "phonetic": "",
+      "translation": "\u8d3f\u8d42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-crop",
+      "word": "crop",
+      "display": "Crop",
+      "phonetic": "",
+      "translation": "\u4f5c\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-cord-cor-heart",
+  "type": "root",
+  "notes": ""
+}

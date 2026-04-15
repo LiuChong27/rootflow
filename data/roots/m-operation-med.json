@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "m-operation-med",
+  "root": "med\u6cbb\u6108",
+  "meaning": "heal",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-operation-med-medical",
+      "word": "medical",
+      "display": "Medical",
+      "phonetic": "",
+      "translation": "\u533b\u5b66\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-med-medicine",
+      "word": "medicine",
+      "display": "Medicine",
+      "phonetic": "",
+      "translation": "\u5185\u79d1\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-med",
+  "type": "branch",
+  "notes": ""
+}

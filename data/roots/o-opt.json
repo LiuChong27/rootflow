@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "o-opt",
+  "root": "opt\u9009\u62e9",
+  "meaning": "choose",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-opt-optical",
+      "word": "optical",
+      "display": "Optical",
+      "phonetic": "",
+      "translation": "\u773c\u7684\uff1b\u5149\u5b66\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-optimism",
+      "word": "optimism",
+      "display": "Optimism",
+      "phonetic": "",
+      "translation": "\u4e50\u89c2\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-optimize",
+      "word": "optimize",
+      "display": "Optimize",
+      "phonetic": "",
+      "translation": "\u4f7f\u6700\u4f18\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-optimum",
+      "word": "optimum",
+      "display": "Optimum",
+      "phonetic": "",
+      "translation": "\u6700\u4f73\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-option",
+      "word": "option",
+      "display": "Option",
+      "phonetic": "",
+      "translation": "\u9009\u62e9\u6743",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-optional",
+      "word": "optional",
+      "display": "Optional",
+      "phonetic": "",
+      "translation": "\u968f\u610f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-pessimism",
+      "word": "pessimism",
+      "display": "Pessimism",
+      "phonetic": "",
+      "translation": "\u60b2\u89c2\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o",
+  "rootLevel": 2,
+  "rootPath": "o>o-opt",
+  "type": "root",
+  "notes": ""
+}

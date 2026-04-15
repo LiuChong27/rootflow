@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "l-lev",
+  "root": "lev\u4e3e\u8d77 \u8f7b",
+  "meaning": "lift, light",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-lev-alleviate",
+      "word": "alleviate",
+      "display": "Alleviate",
+      "phonetic": "",
+      "translation": "\u51cf\u8f7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-alleviation",
+      "word": "alleviation",
+      "display": "Alleviation",
+      "phonetic": "",
+      "translation": "\u7f13\u548c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-elevate",
+      "word": "elevate",
+      "display": "Elevate",
+      "phonetic": "",
+      "translation": "\u4e3e\u8d77",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-elevator",
+      "word": "elevator",
+      "display": "Elevator",
+      "phonetic": "",
+      "translation": "\u7535\u68af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-lever",
+      "word": "lever",
+      "display": "Lever",
+      "phonetic": "",
+      "translation": "\u6760\u6746",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-leverage",
+      "word": "leverage",
+      "display": "Leverage",
+      "phonetic": "",
+      "translation": "\u6760\u6746\u4f5c\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-levity",
+      "word": "levity",
+      "display": "Levity",
+      "phonetic": "",
+      "translation": "\u8f7b\u6d6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-levy",
+      "word": "levy",
+      "display": "Levy",
+      "phonetic": "",
+      "translation": "\u5f81\u6536",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-relevant",
+      "word": "relevant",
+      "display": "Relevant",
+      "phonetic": "",
+      "translation": "\u6709\u5173\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-relief",
+      "word": "relief",
+      "display": "Relief",
+      "phonetic": "",
+      "translation": "\u6551\u6d4e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-lev-relieve",
+      "word": "relieve",
+      "display": "Relieve",
+      "phonetic": "",
+      "translation": "\u51cf\u8f7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-lev",
+  "type": "root",
+  "notes": ""
+}

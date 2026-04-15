@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "y",
+  "root": "Y",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "y-yard",
+      "word": "yard",
+      "display": "Yard",
+      "phonetic": "",
+      "translation": "\u9662\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "y-yawn",
+      "word": "yawn",
+      "display": "Yawn",
+      "phonetic": "",
+      "translation": "\u6253\u5475\u6b20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "y-yell",
+      "word": "yell",
+      "display": "Yell",
+      "phonetic": "",
+      "translation": "\u5927\u558a\u5927\u53eb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "y-yield",
+      "word": "yield",
+      "display": "Yield",
+      "phonetic": "",
+      "translation": "\u751f\u4ea7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "y",
+  "type": "root",
+  "notes": ""
+}

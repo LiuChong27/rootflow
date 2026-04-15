@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "n-new-nat",
+  "root": "nat\u8bde\u751f",
+  "meaning": "birth",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-new-nat-nation",
+      "word": "nation",
+      "display": "Nation",
+      "phonetic": "",
+      "translation": "\u6c11\u65cf\uff1b\u56fd\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nat-nationality",
+      "word": "nationality",
+      "display": "Nationality",
+      "phonetic": "",
+      "translation": "\u56fd\u7c4d\uff1b\u6c11\u65cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nat-native",
+      "word": "native",
+      "display": "Native",
+      "phonetic": "",
+      "translation": "\u672c\u5730\u7684\uff1b\u5929\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nat-natural",
+      "word": "natural",
+      "display": "Natural",
+      "phonetic": "",
+      "translation": "\u6b63\u5e38\u7684\uff1b\u5929\u7136\u7684\uff1b\u56fa\u6709\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nat-nature",
+      "word": "nature",
+      "display": "Nature",
+      "phonetic": "",
+      "translation": "\u5927\u81ea\u7136\uff1b\u672c\u8d28\uff1b\u5929\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n-new",
+  "rootLevel": 3,
+  "rootPath": "n>n-new>n-new-nat",
+  "type": "branch",
+  "notes": ""
+}

@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "c-car-char",
+  "root": "car/char",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-car-char-cargo",
+      "word": "cargo",
+      "display": "Cargo",
+      "phonetic": "",
+      "translation": "\u8d27\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-charge",
+      "word": "charge",
+      "display": "Charge",
+      "phonetic": "",
+      "translation": "\u5145\u7535\uff1b\u638c\u7ba1\uff1b\u88c5\u6ee1\uff1b\u63a7\u8bc9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-charger",
+      "word": "charger",
+      "display": "Charger",
+      "phonetic": "",
+      "translation": "\u5145\u7535\u5668\uff1b\u59d4\u6258\u4eba\uff1b\u63a7\u8bc9\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-chase",
+      "word": "chase",
+      "display": "Chase",
+      "phonetic": "",
+      "translation": "\u8ffd\u9010",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-discharge",
+      "word": "discharge",
+      "display": "Discharge",
+      "phonetic": "",
+      "translation": "\u5378\u4e0b\uff1b\u89e3\u96c7\uff1b\u653e\u7535",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-car-char",
+  "type": "root",
+  "notes": ""
+}

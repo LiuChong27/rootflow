@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "f-other-fil",
+  "root": "fil=thread\u7ebf",
+  "meaning": "fil",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-other-fil-bifilar",
+      "word": "bifilar",
+      "display": "Bifilar",
+      "phonetic": "",
+      "translation": "\u53cc\u7ebf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fil-defile",
+      "word": "defile",
+      "display": "Defile",
+      "phonetic": "",
+      "translation": "\u5f04\u810f\uff1b\u6c61\u6e0d\uff1b\u4eb5\u6e0e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fil-filament",
+      "word": "filament",
+      "display": "Filament",
+      "phonetic": "",
+      "translation": "\u706f\u4e1d\uff1b\u7ec6\u4e1d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fil-filar",
+      "word": "filar",
+      "display": "Filar",
+      "phonetic": "",
+      "translation": "\u4e1d\u72b6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fil-filiform",
+      "word": "filiform",
+      "display": "Filiform",
+      "phonetic": "",
+      "translation": "\u4e1d\u72b6\u7684\uff1b\u7ea4\u7ef4\u72b6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fil-profile",
+      "word": "profile",
+      "display": "Profile",
+      "phonetic": "",
+      "translation": "\u4fa7\u9762\uff1b\u5916\u5f62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-other",
+  "rootLevel": 3,
+  "rootPath": "f>f-other>f-other-fil",
+  "type": "branch",
+  "notes": ""
+}

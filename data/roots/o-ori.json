@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "o-ori",
+  "root": "ori=rise\u5347\u8d77",
+  "meaning": "rise",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-ori-orient",
+      "word": "orient",
+      "display": "Orient",
+      "phonetic": "",
+      "translation": "\u4e1c\u65b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ori-oriental",
+      "word": "oriental",
+      "display": "Oriental",
+      "phonetic": "",
+      "translation": "\u4e1c\u65b9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ori-orientation",
+      "word": "orientation",
+      "display": "Orientation",
+      "phonetic": "",
+      "translation": "\u65b9\u5411\uff1b\u5411\u4e1c\u65b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ori-origin",
+      "word": "origin",
+      "display": "Origin",
+      "phonetic": "",
+      "translation": "\u8d77\u6e90",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ori-original",
+      "word": "original",
+      "display": "Original",
+      "phonetic": "",
+      "translation": "\u6700\u521d\u7684\uff1b\u539f\u8457",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-ori-originate",
+      "word": "originate",
+      "display": "Originate",
+      "phonetic": "",
+      "translation": "\u8d77\u6e90\uff1b\u521b\u9020",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o",
+  "rootLevel": 2,
+  "rootPath": "o>o-ori",
+  "type": "root",
+  "notes": ""
+}

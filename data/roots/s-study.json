@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "rootId": "s-study",
+  "root": "\u5b66\u4e60",
+  "meaning": "study",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-study-scholar",
+      "word": "scholar",
+      "display": "Scholar",
+      "phonetic": "",
+      "translation": "\u5b66\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-scholarship",
+      "word": "scholarship",
+      "display": "Scholarship",
+      "phonetic": "",
+      "translation": "\u5b66\u95ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-school",
+      "word": "school",
+      "display": "School",
+      "phonetic": "",
+      "translation": "\u5b66\u6821",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-science",
+      "word": "science",
+      "display": "Science",
+      "phonetic": "",
+      "translation": "\u5b66\u79d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-scientific",
+      "word": "scientific",
+      "display": "Scientific",
+      "phonetic": "",
+      "translation": "\u79d1\u5b66\u4e0a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-scientist",
+      "word": "scientist",
+      "display": "Scientist",
+      "phonetic": "",
+      "translation": "\u79d1\u5b66\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-script",
+      "word": "script",
+      "display": "Script",
+      "phonetic": "",
+      "translation": "\u624b\u7a3f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-semester",
+      "word": "semester",
+      "display": "Semester",
+      "phonetic": "",
+      "translation": "\u5b66\u671f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-seminar",
+      "word": "seminar",
+      "display": "Seminar",
+      "phonetic": "",
+      "translation": "\u7814\u8ba8\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-senate",
+      "word": "senate",
+      "display": "Senate",
+      "phonetic": "",
+      "translation": "\u53c2\u8bae\u9662",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-senator",
+      "word": "senator",
+      "display": "Senator",
+      "phonetic": "",
+      "translation": "\u53c2\u8bae\u5458",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-senior",
+      "word": "senior",
+      "display": "Senior",
+      "phonetic": "",
+      "translation": "\u5e74\u957f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-subject",
+      "word": "subject",
+      "display": "Subject",
+      "phonetic": "",
+      "translation": "\u4e3b\u9898\uff1b\u5b66\u79d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-study-subjective",
+      "word": "subjective",
+      "display": "Subjective",
+      "phonetic": "",
+      "translation": "\u4e3b\u89c2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-study",
+  "type": "root",
+  "notes": ""
+}

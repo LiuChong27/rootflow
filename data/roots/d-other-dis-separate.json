@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "rootId": "d-other-dis-separate",
+  "root": "\u5206\u5f00",
+  "meaning": "separate",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-other-dis-separate-disable",
+      "word": "disable",
+      "display": "Disable",
+      "phonetic": "",
+      "translation": "\u4f7f\u6b8b\u75be",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-disclose",
+      "word": "disclose",
+      "display": "Disclose",
+      "phonetic": "",
+      "translation": "\u63ed\u793a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-discover",
+      "word": "discover",
+      "display": "Discover",
+      "phonetic": "",
+      "translation": "\u53d1\u73b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-discovery",
+      "word": "discovery",
+      "display": "Discovery",
+      "phonetic": "",
+      "translation": "\u53d1\u73b0\uff1b\u88ab\u53d1\u73b0\u7684\u4e1c\u897f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-discriminate",
+      "word": "discriminate",
+      "display": "Discriminate",
+      "phonetic": "",
+      "translation": "\u533a\u522b\uff0c\u6b67\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-dismiss",
+      "word": "dismiss",
+      "display": "Dismiss",
+      "phonetic": "",
+      "translation": "\u5f00\u9664\uff1b\u89e3\u6563",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-disorder",
+      "word": "disorder",
+      "display": "Disorder",
+      "phonetic": "",
+      "translation": "\u6df7\u4e71\uff1b\u75be\u75c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-disposal",
+      "word": "disposal",
+      "display": "Disposal",
+      "phonetic": "",
+      "translation": "\u5904\u7406\uff1b\u4e0d\u77e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-dispose",
+      "word": "dispose",
+      "display": "Dispose",
+      "phonetic": "",
+      "translation": "\u5904\u7f6e\uff0c\u5b89\u6392",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-dispute",
+      "word": "dispute",
+      "display": "Dispute",
+      "phonetic": "",
+      "translation": "\u4e89\u8bba\uff1b\u8fa9\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-disrupt",
+      "word": "disrupt",
+      "display": "Disrupt",
+      "phonetic": "",
+      "translation": "\u4f7f\u5206\u88c2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-dissipate",
+      "word": "dissipate",
+      "display": "Dissipate",
+      "phonetic": "",
+      "translation": "\u9a71\u6563",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-distinct",
+      "word": "distinct",
+      "display": "Distinct",
+      "phonetic": "",
+      "translation": "\u660e\u663e\u7684\uff1b\u6e05\u695a\u7684\uff1b\u622a\u7136\u4e0d\u540c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-distinction",
+      "word": "distinction",
+      "display": "Distinction",
+      "phonetic": "",
+      "translation": "\u5dee\u522b\uff1b\u7279\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-distinguish",
+      "word": "distinguish",
+      "display": "Distinguish",
+      "phonetic": "",
+      "translation": "\u8fa8\u8ba4\uff1b\u533a\u522b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-distract",
+      "word": "distract",
+      "display": "Distract",
+      "phonetic": "",
+      "translation": "\u4f7f\u5206\u5fc3\uff1b\u6253\u6270",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dis-separate-distribute",
+      "word": "distribute",
+      "display": "Distribute",
+      "phonetic": "",
+      "translation": "\u5206\u53d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-other-dis",
+  "rootLevel": 4,
+  "rootPath": "d>d-other>d-other-dis>d-other-dis-separate",
+  "type": "branch",
+  "notes": ""
+}

@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "rootId": "q-quer",
+  "root": "quer=quire quisit=quest \u95ee\uff1b\u8ffd\u6c42",
+  "meaning": "ask, seek",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "q-quer-acquest",
+      "word": "acquest",
+      "display": "Acquest",
+      "phonetic": "",
+      "translation": "\u83b7\u53d6\uff1b\u53d6\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-acquire",
+      "word": "acquire",
+      "display": "Acquire",
+      "phonetic": "",
+      "translation": "\u83b7\u5f97\uff1b\u5b66\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-acquisition",
+      "word": "acquisition",
+      "display": "Acquisition",
+      "phonetic": "",
+      "translation": "\u83b7\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-conquer",
+      "word": "conquer",
+      "display": "Conquer",
+      "phonetic": "",
+      "translation": "\u5f81\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-conquest",
+      "word": "conquest",
+      "display": "Conquest",
+      "phonetic": "",
+      "translation": "\u5f81\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-disquisition",
+      "word": "disquisition",
+      "display": "Disquisition",
+      "phonetic": "",
+      "translation": "\u4e13\u9898\u8bba\u6587",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-disquisitive",
+      "word": "disquisitive",
+      "display": "Disquisitive",
+      "phonetic": "",
+      "translation": "\u7814\u7a76\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-enquire",
+      "word": "enquire",
+      "display": "Enquire",
+      "phonetic": "",
+      "translation": "\u8be2\u95ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-inquire",
+      "word": "inquire",
+      "display": "Inquire",
+      "phonetic": "",
+      "translation": "\u8be2\u95ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-inquiry",
+      "word": "inquiry",
+      "display": "Inquiry",
+      "phonetic": "",
+      "translation": "\u8c03\u67e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-inquisite",
+      "word": "inquisite",
+      "display": "Inquisite",
+      "phonetic": "",
+      "translation": "\u5ba1\u8baf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-inquisition",
+      "word": "inquisition",
+      "display": "Inquisition",
+      "phonetic": "",
+      "translation": "\u8c03\u67e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-query",
+      "word": "query",
+      "display": "Query",
+      "phonetic": "",
+      "translation": "\u8be2\u95ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-quest",
+      "word": "quest",
+      "display": "Quest",
+      "phonetic": "",
+      "translation": "\u63a2\u5bfb\uff1b\u8ffd\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-question",
+      "word": "question",
+      "display": "Question",
+      "phonetic": "",
+      "translation": "\u95ee\u9898",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-questionnaire",
+      "word": "questionnaire",
+      "display": "Questionnaire",
+      "phonetic": "",
+      "translation": "\u95ee\u9898",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quer-require",
+      "word": "require",
+      "display": "Require",
+      "phonetic": "",
+      "translation": "\u8981\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "q",
+  "rootLevel": 2,
+  "rootPath": "q>q-quer",
+  "type": "root",
+  "notes": ""
+}

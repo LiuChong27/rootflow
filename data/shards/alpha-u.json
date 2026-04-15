@@ -1,19 +1,606 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09",
+  "updatedAt": "2026-04-15",
   "strategy": "alpha",
   "shardId": "alpha-u",
   "rootIds": [
+    "u",
+    "u-other",
+    "u-un",
+    "u-under",
+    "u-uni",
+    "u-up",
     "unanimous"
   ],
   "roots": {
+    "u": {
+      "version": 1,
+      "rootId": "u",
+      "root": "U",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "u",
+      "type": "root",
+      "notes": ""
+    },
+    "u-other": {
+      "version": 1,
+      "rootId": "u-other",
+      "root": "other",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "u-other-ultimate",
+          "word": "ultimate",
+          "display": "Ultimate",
+          "phonetic": "",
+          "translation": "\u6700\u540e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-other-ultraviolet",
+          "word": "ultraviolet",
+          "display": "Ultraviolet",
+          "phonetic": "",
+          "translation": "\u7d2b\u5916\u7ebf\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-other-unanimous",
+          "word": "unanimous",
+          "display": "Unanimous",
+          "phonetic": "",
+          "translation": "\u4e00\u81f4\u540c\u610f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-other-urban",
+          "word": "urban",
+          "display": "Urban",
+          "phonetic": "",
+          "translation": "\u57ce\u5e02\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-other-utter",
+          "word": "utter",
+          "display": "Utter",
+          "phonetic": "",
+          "translation": "\u5f7b\u5e95\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "u",
+      "rootLevel": 1,
+      "rootPath": "u>u-other",
+      "type": "root",
+      "notes": ""
+    },
+    "u-un": {
+      "version": 1,
+      "rootId": "u-un",
+      "root": "un",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "u-un-uncover",
+          "word": "uncover",
+          "display": "Uncover",
+          "phonetic": "",
+          "translation": "\u63ed\u9732",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-undo",
+          "word": "undo",
+          "display": "Undo",
+          "phonetic": "",
+          "translation": "\u677e\u5f00",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-undoubtedly",
+          "word": "undoubtedly",
+          "display": "Undoubtedly",
+          "phonetic": "",
+          "translation": "\u65e0\u7591",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-uneasy",
+          "word": "uneasy",
+          "display": "Uneasy",
+          "phonetic": "",
+          "translation": "\u4e0d\u5b89\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unemployment",
+          "word": "unemployment",
+          "display": "Unemployment",
+          "phonetic": "",
+          "translation": "\u5931\u4e1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unexpected",
+          "word": "unexpected",
+          "display": "Unexpected",
+          "phonetic": "",
+          "translation": "\u610f\u5916\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unfold",
+          "word": "unfold",
+          "display": "Unfold",
+          "phonetic": "",
+          "translation": "\u6253\u5f00",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unfortunately",
+          "word": "unfortunately",
+          "display": "Unfortunately",
+          "phonetic": "",
+          "translation": "\u4e0d\u5e78\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unless",
+          "word": "unless",
+          "display": "Unless",
+          "phonetic": "",
+          "translation": "\u9664\u975e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unlike",
+          "word": "unlike",
+          "display": "Unlike",
+          "phonetic": "",
+          "translation": "\u4e0d\u76f8\u4f3c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unlikely",
+          "word": "unlikely",
+          "display": "Unlikely",
+          "phonetic": "",
+          "translation": "\u672a\u5fc5\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-un-unload",
+          "word": "unload",
+          "display": "Unload",
+          "phonetic": "",
+          "translation": "\u5378\u8d27",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "u",
+      "rootLevel": 1,
+      "rootPath": "u>u-un",
+      "type": "root",
+      "notes": ""
+    },
+    "u-under": {
+      "version": 1,
+      "rootId": "u-under",
+      "root": "under",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "u-under-underestimate",
+          "word": "underestimate",
+          "display": "Underestimate",
+          "phonetic": "",
+          "translation": "\u4f4e\u4f30",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-undergo",
+          "word": "undergo",
+          "display": "Undergo",
+          "phonetic": "",
+          "translation": "\u906d\u53d7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-undergraduate",
+          "word": "undergraduate",
+          "display": "Undergraduate",
+          "phonetic": "",
+          "translation": "\u5927\u5b66\u751f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-underground",
+          "word": "underground",
+          "display": "Underground",
+          "phonetic": "",
+          "translation": "\u5730\u4e0b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-underlie",
+          "word": "underlie",
+          "display": "Underlie",
+          "phonetic": "",
+          "translation": "\u6210\u4e3a... \u7684\u57fa\u7840",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-underline",
+          "word": "underline",
+          "display": "Underline",
+          "phonetic": "",
+          "translation": "\u5f3a\u8c03",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-underlying",
+          "word": "underlying",
+          "display": "Underlying",
+          "phonetic": "",
+          "translation": "\u542b\u84c4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-undermine",
+          "word": "undermine",
+          "display": "Undermine",
+          "phonetic": "",
+          "translation": "\u6697\u4e2d\u7834\u574f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-underneath",
+          "word": "underneath",
+          "display": "Underneath",
+          "phonetic": "",
+          "translation": "\u5728\u4e0b\u9762",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-under-undertake",
+          "word": "undertake",
+          "display": "Undertake",
+          "phonetic": "",
+          "translation": "\u627f\u62c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "u",
+      "rootLevel": 1,
+      "rootPath": "u>u-under",
+      "type": "root",
+      "notes": ""
+    },
+    "u-uni": {
+      "version": 1,
+      "rootId": "u-uni",
+      "root": "uni",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "u-uni-unify",
+          "word": "unify",
+          "display": "Unify",
+          "phonetic": "",
+          "translation": "\u4f7f\u8054\u5408",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-uni-union",
+          "word": "union",
+          "display": "Union",
+          "phonetic": "",
+          "translation": "\u8054\u5408\uff1b\u56e2\u7ed3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-uni-unique",
+          "word": "unique",
+          "display": "Unique",
+          "phonetic": "",
+          "translation": "\u552f\u4e00\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-uni-unit",
+          "word": "unit",
+          "display": "Unit",
+          "phonetic": "",
+          "translation": "\u5355\u4f4d\uff1b\u5143\u4ef6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-uni-unite",
+          "word": "unite",
+          "display": "Unite",
+          "phonetic": "",
+          "translation": "\u56e2\u7ed3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-uni-universal",
+          "word": "universal",
+          "display": "Universal",
+          "phonetic": "",
+          "translation": "\u666e\u904d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-uni-universe",
+          "word": "universe",
+          "display": "Universe",
+          "phonetic": "",
+          "translation": "\u5b87\u5b99",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-uni-university",
+          "word": "university",
+          "display": "University",
+          "phonetic": "",
+          "translation": "\u5927\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "u",
+      "rootLevel": 1,
+      "rootPath": "u>u-uni",
+      "type": "root",
+      "notes": ""
+    },
+    "u-up": {
+      "version": 1,
+      "rootId": "u-up",
+      "root": "up",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "u-up-update",
+          "word": "update",
+          "display": "Update",
+          "phonetic": "",
+          "translation": "\u66f4\u65b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-up-upgrade",
+          "word": "upgrade",
+          "display": "Upgrade",
+          "phonetic": "",
+          "translation": "\u66f4\u65b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-up-uphold",
+          "word": "uphold",
+          "display": "Uphold",
+          "phonetic": "",
+          "translation": "\u652f\u6301",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-up-upright",
+          "word": "upright",
+          "display": "Upright",
+          "phonetic": "",
+          "translation": "\u5782\u76f4\u7684\uff1b\u8bda\u5b9e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-up-uproar",
+          "word": "uproar",
+          "display": "Uproar",
+          "phonetic": "",
+          "translation": "\u9a9a\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "u-up-upstairs",
+          "word": "upstairs",
+          "display": "Upstairs",
+          "phonetic": "",
+          "translation": "\u5728\u697c\u4e0a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "u",
+      "rootLevel": 1,
+      "rootPath": "u>u-up",
+      "type": "root",
+      "notes": ""
+    },
     "unanimous": {
       "version": 1,
       "rootId": "unanimous",
       "root": "unanimous",
       "meaning": "",
       "descriptionCn": "\u65e0\u5f02\u8bae\u7684\uff0c\u610f\u89c1\u4e00\u81f4\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "unanimous-unanimous-2",

@@ -1,0 +1,327 @@
+{
+  "version": 1,
+  "rootId": "p-prefix-per",
+  "root": "per\u5b8c\u5168",
+  "meaning": "complete",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-prefix-per-pardon",
+      "word": "pardon",
+      "display": "Pardon",
+      "phonetic": "",
+      "translation": "\u539f\u8c05\uff1b\u5bbd\u6055",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perceive",
+      "word": "perceive",
+      "display": "Perceive",
+      "phonetic": "",
+      "translation": "\u5bdf\u89c9\uff1b\u611f\u77e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-percent",
+      "word": "percent",
+      "display": "Percent",
+      "phonetic": "",
+      "translation": "\u767e\u5206\u4e4b..\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-percentage",
+      "word": "percentage",
+      "display": "Percentage",
+      "phonetic": "",
+      "translation": "\u767e\u5206\u6bd4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perfect",
+      "word": "perfect",
+      "display": "Perfect",
+      "phonetic": "",
+      "translation": "\u5b8c\u5168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perfection",
+      "word": "perfection",
+      "display": "Perfection",
+      "phonetic": "",
+      "translation": "\u5b8c\u7f8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perform",
+      "word": "perform",
+      "display": "Perform",
+      "phonetic": "",
+      "translation": "\u8868\u6f14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-performance",
+      "word": "performance",
+      "display": "Performance",
+      "phonetic": "",
+      "translation": "\u5c65\u884c\uff1b\u6267\u884c\uff1b\u8868\u6f14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perfume",
+      "word": "perfume",
+      "display": "Perfume",
+      "phonetic": "",
+      "translation": "\u9999\u5473",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perhaps",
+      "word": "perhaps",
+      "display": "Perhaps",
+      "phonetic": "",
+      "translation": "\u4e5f\u8bb8\uff1b\u5927\u6982\uff1b\u6050\u6015",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-period",
+      "word": "period",
+      "display": "Period",
+      "phonetic": "",
+      "translation": "\u65f6\u671f\uff1b\u65f6\u4ee3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-periodical",
+      "word": "periodical",
+      "display": "Periodical",
+      "phonetic": "",
+      "translation": "\u671f\u520a\uff1b\u6742\u5fd7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perish",
+      "word": "perish",
+      "display": "Perish",
+      "phonetic": "",
+      "translation": "\u4e27\u751f\uff1b\u51cb\u8c22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-permanent",
+      "word": "permanent",
+      "display": "Permanent",
+      "phonetic": "",
+      "translation": "\u6c38\u4e45\u7684\uff1b\u6301\u4e45\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-permeate",
+      "word": "permeate",
+      "display": "Permeate",
+      "phonetic": "",
+      "translation": "\u5f25\u6f2b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-permission",
+      "word": "permission",
+      "display": "Permission",
+      "phonetic": "",
+      "translation": "\u5141\u8bb8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-permit",
+      "word": "permit",
+      "display": "Permit",
+      "phonetic": "",
+      "translation": "\u8bb8\u53ef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perpetual",
+      "word": "perpetual",
+      "display": "Perpetual",
+      "phonetic": "",
+      "translation": "\u6c38\u4e45\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perplex",
+      "word": "perplex",
+      "display": "Perplex",
+      "phonetic": "",
+      "translation": "\u4f7f\u56f0\u60d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-persecute",
+      "word": "persecute",
+      "display": "Persecute",
+      "phonetic": "",
+      "translation": "\u8feb\u5bb3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-persevere",
+      "word": "persevere",
+      "display": "Persevere",
+      "phonetic": "",
+      "translation": "\u575a\u6301\uff1b\u4e0d\u5c48\u4e0d\u6320",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-persist",
+      "word": "persist",
+      "display": "Persist",
+      "phonetic": "",
+      "translation": "\u575a\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-perspective",
+      "word": "perspective",
+      "display": "Perspective",
+      "phonetic": "",
+      "translation": "\u900f\u89c6\u753b\u6cd5\uff1b\u524d\u9014\uff1b\u89c2\u70b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-persuade",
+      "word": "persuade",
+      "display": "Persuade",
+      "phonetic": "",
+      "translation": "\u8bf4\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-persuasion",
+      "word": "persuasion",
+      "display": "Persuasion",
+      "phonetic": "",
+      "translation": "\u8bf4\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-per-pilgrim",
+      "word": "pilgrim",
+      "display": "Pilgrim",
+      "phonetic": "",
+      "translation": "\u671d\u5723\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p-prefix",
+  "rootLevel": 3,
+  "rootPath": "p>p-prefix>p-prefix-per",
+  "type": "branch",
+  "notes": ""
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "c-cord-cor-concord",
+  "root": "concord\u548c\u8c10\uff1b\u534f\u8c03",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cord-cor-heart-concord-concordant",
+      "word": "concordant",
+      "display": "Concordant",
+      "phonetic": "",
+      "translation": "\u548c\u8c10\u7684\uff1b\u4e00\u81f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-concord-discordant",
+      "word": "discordant",
+      "display": "Discordant",
+      "phonetic": "",
+      "translation": "\u4e0d\u4e00\u81f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-cord-cor-heart",
+  "rootLevel": 3,
+  "rootPath": "c>c-cord-cor-heart>c-cord-cor-concord",
+  "type": "branch",
+  "notes": ""
+}

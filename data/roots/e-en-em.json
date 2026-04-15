@@ -1,0 +1,363 @@
+{
+  "version": 1,
+  "rootId": "e-en-em",
+  "root": "en/em \u4f7f\u52a8 \u8d4b\u4e88",
+  "meaning": "en/em",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-en-em-embark",
+      "word": "embark",
+      "display": "Embark",
+      "phonetic": "",
+      "translation": "\u7740\u624b\uff1b\u4ece\u4e8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-embody",
+      "word": "embody",
+      "display": "Embody",
+      "phonetic": "",
+      "translation": "\u4f7f\u5177\u4f53\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-embrace",
+      "word": "embrace",
+      "display": "Embrace",
+      "phonetic": "",
+      "translation": "\u62e5\u62b1\uff1b\u91c7\u7528\uff1b\u63a5\u53d7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-employ",
+      "word": "employ",
+      "display": "Employ",
+      "phonetic": "",
+      "translation": "\u96c7\u7528\uff1b\u4f7f\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-employee",
+      "word": "employee",
+      "display": "Employee",
+      "phonetic": "",
+      "translation": "\u96c7\u5de5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-employer",
+      "word": "employer",
+      "display": "Employer",
+      "phonetic": "",
+      "translation": "\u96c7\u4e3b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-employment",
+      "word": "employment",
+      "display": "Employment",
+      "phonetic": "",
+      "translation": "\u96c7\u4f63\uff1b\u804c\u4e1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-empty",
+      "word": "empty",
+      "display": "Empty",
+      "phonetic": "",
+      "translation": "\u4f7f...\u53d8\u7a7a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enable",
+      "word": "enable",
+      "display": "Enable",
+      "phonetic": "",
+      "translation": "\u4f7f\u80fd\u591f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enforce",
+      "word": "enforce",
+      "display": "Enforce",
+      "phonetic": "",
+      "translation": "\u5b9e\u65bd\uff1b\u6267\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-engage",
+      "word": "engage",
+      "display": "Engage",
+      "phonetic": "",
+      "translation": "\u7740\u624b\u8ba2\u5a5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-engagement",
+      "word": "engagement",
+      "display": "Engagement",
+      "phonetic": "",
+      "translation": "\u8ba2\u5a5a\uff1b\u7ea6\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enjoy",
+      "word": "enjoy",
+      "display": "Enjoy",
+      "phonetic": "",
+      "translation": "\u4eab\u53d7\u4e50\u8da3\uff1b\u6b23\u8d4f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enlighten",
+      "word": "enlighten",
+      "display": "Enlighten",
+      "phonetic": "",
+      "translation": "\u542f\u53d1\uff1b\u6559\u5bfc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enroll",
+      "word": "enroll",
+      "display": "Enroll",
+      "phonetic": "",
+      "translation": "\u6210\u4e3a\u4f1a\u5458\uff1b\u62db\u6536",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-ensure",
+      "word": "ensure",
+      "display": "Ensure",
+      "phonetic": "",
+      "translation": "\u786e\u4fdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-entail",
+      "word": "entail",
+      "display": "Entail",
+      "phonetic": "",
+      "translation": "\u4f7f\u627f\u62c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enter",
+      "word": "enter",
+      "display": "Enter",
+      "phonetic": "",
+      "translation": "\u8fdb\u5165\uff1b\u53c2\u52a0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enterprise",
+      "word": "enterprise",
+      "display": "Enterprise",
+      "phonetic": "",
+      "translation": "\u4e8b\u4e1a\uff1b\u8fdb\u53d6\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-entertain",
+      "word": "entertain",
+      "display": "Entertain",
+      "phonetic": "",
+      "translation": "\u62db\u5f85\uff1b\u4f7f\u5feb\u4e50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-entertainment",
+      "word": "entertainment",
+      "display": "Entertainment",
+      "phonetic": "",
+      "translation": "\u62db\u5f85\uff1b\u5bbd\u5e26",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enthusiasm",
+      "word": "enthusiasm",
+      "display": "Enthusiasm",
+      "phonetic": "",
+      "translation": "\u70ed\u5fc3\uff1b\u70ed\u60c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-enthusiastic",
+      "word": "enthusiastic",
+      "display": "Enthusiastic",
+      "phonetic": "",
+      "translation": "\u70ed\u60c5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-entitle",
+      "word": "entitle",
+      "display": "Entitle",
+      "phonetic": "",
+      "translation": "\u6388\u6743\uff1b\u7ed9...\u79f0\u53f7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-entity",
+      "word": "entity",
+      "display": "Entity",
+      "phonetic": "",
+      "translation": "\u672c\u8d28\uff1b\u5b9e\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-entrance",
+      "word": "entrance",
+      "display": "Entrance",
+      "phonetic": "",
+      "translation": "\u5165\u53e3\uff1b\u5165\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-entrepreneur",
+      "word": "entrepreneur",
+      "display": "Entrepreneur",
+      "phonetic": "",
+      "translation": "\u4f01\u4e1a\u5bb6\uff1b\u4e3b\u529e\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-envisage",
+      "word": "envisage",
+      "display": "Envisage",
+      "phonetic": "",
+      "translation": "\u60f3\u8c61\uff1b\u8bbe\u60f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-en-em-envy",
+      "word": "envy",
+      "display": "Envy",
+      "phonetic": "",
+      "translation": "\u5ac9\u5992\uff1b\u7fa1\u6155",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e",
+  "rootLevel": 2,
+  "rootPath": "e>e-en-em",
+  "type": "root",
+  "notes": ""
+}

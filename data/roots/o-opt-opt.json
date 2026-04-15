@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "o-opt-opt",
+  "root": "opt\u9009\u62e9",
+  "meaning": "choose",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-opt-opt-adopt",
+      "word": "adopt",
+      "display": "Adopt",
+      "phonetic": "",
+      "translation": "\u91c7\u7eb3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-opt-adopter",
+      "word": "adopter",
+      "display": "Adopter",
+      "phonetic": "",
+      "translation": "\u517b\u7236\u517b\u6bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-opt-adoption",
+      "word": "adoption",
+      "display": "Adoption",
+      "phonetic": "",
+      "translation": "\u6536\u517b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-opt-opt-optative",
+      "word": "optative",
+      "display": "Optative",
+      "phonetic": "",
+      "translation": "\u7948\u613f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o-opt",
+  "rootLevel": 3,
+  "rootPath": "o>o-opt>o-opt-opt",
+  "type": "branch",
+  "notes": ""
+}

@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "b-vowel-change",
+  "root": "\u5143\u97f3\u53d8\u6362",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-vowel-band",
+      "word": "band",
+      "display": "Band",
+      "phonetic": "",
+      "translation": "\u6761\u7eb9\uff1b\u4e50\u961f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-bandage",
+      "word": "bandage",
+      "display": "Bandage",
+      "phonetic": "",
+      "translation": "\u7ef7\u5e26",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-banner",
+      "word": "banner",
+      "display": "Banner",
+      "phonetic": "",
+      "translation": "\u65d7\u5e1c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-bend",
+      "word": "bend",
+      "display": "Bend",
+      "phonetic": "",
+      "translation": "\u5f2f\u66f2\uff1b\u5c48\u670d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-bind",
+      "word": "bind",
+      "display": "Bind",
+      "phonetic": "",
+      "translation": "\u6346\u7ed1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-bond",
+      "word": "bond",
+      "display": "Bond",
+      "phonetic": "",
+      "translation": "\u7c98\u8fde\uff1b\u8054\u7cfb\uff1b\u5951\u7ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-bounce",
+      "word": "bounce",
+      "display": "Bounce",
+      "phonetic": "",
+      "translation": "\u8df3\u8dc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-bound",
+      "word": "bound",
+      "display": "Bound",
+      "phonetic": "",
+      "translation": "\u8df3\u8dc3\uff1b\u9650\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-boundary",
+      "word": "boundary",
+      "display": "Boundary",
+      "phonetic": "",
+      "translation": "\u5206\u754c\u7ebf\uff1b\u8fb9\u754c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-brand",
+      "word": "brand",
+      "display": "Brand",
+      "phonetic": "",
+      "translation": "\u724c\u5b50\uff1b\u6807\u8bb0\uff1b\u5546\u6807",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-vowel-bund",
+      "word": "bund",
+      "display": "Bund",
+      "phonetic": "",
+      "translation": "\u8054\u76df",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-vowel-change",
+  "type": "category",
+  "notes": ""
+}

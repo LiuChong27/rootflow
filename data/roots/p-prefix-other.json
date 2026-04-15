@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "p-prefix-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [],
+  "parentRootId": "p-prefix",
+  "rootLevel": 3,
+  "rootPath": "p>p-prefix>p-prefix-other",
+  "type": "branch",
+  "notes": ""
+}

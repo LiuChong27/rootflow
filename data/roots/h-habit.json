@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "rootId": "h-habit",
+  "root": "habit/hab/hibit=dwell\u5c45\u4f4f",
+  "meaning": "habit",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-habit-cohabit",
+      "word": "cohabit",
+      "display": "Cohabit",
+      "phonetic": "",
+      "translation": "\u672a\u5a5a\u540c\u5c45",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-cohabitant",
+      "word": "cohabitant",
+      "display": "Cohabitant",
+      "phonetic": "",
+      "translation": "\u540c\u5c45\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-cohabitation",
+      "word": "cohabitation",
+      "display": "Cohabitation",
+      "phonetic": "",
+      "translation": "\u540c\u5c45\uff1b\u540c\u5c45\u751f\u6d3b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-exhibit",
+      "word": "exhibit",
+      "display": "Exhibit",
+      "phonetic": "",
+      "translation": "\u5c55\u51fa\uff1b\u6210\u5217\uff1b\u5c55\u89c8\u5e73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-exhibition",
+      "word": "exhibition",
+      "display": "Exhibition",
+      "phonetic": "",
+      "translation": "\u8868\u73b0\uff1b\u663e\u793a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-exhibitor",
+      "word": "exhibitor",
+      "display": "Exhibitor",
+      "phonetic": "",
+      "translation": "\u5c55\u51fa\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-habit",
+      "word": "habit",
+      "display": "Habit",
+      "phonetic": "",
+      "translation": "\u4e60\u60ef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-habitat",
+      "word": "habitat",
+      "display": "Habitat",
+      "phonetic": "",
+      "translation": "\u6816\u606f\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-habitation",
+      "word": "habitation",
+      "display": "Habitation",
+      "phonetic": "",
+      "translation": "\u5c45\u4f4f\uff1b\u751f\u6d3b\u73af\u5883",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-habitual",
+      "word": "habitual",
+      "display": "Habitual",
+      "phonetic": "",
+      "translation": "\u4e60\u60ef\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-inhabitant",
+      "word": "inhabitant",
+      "display": "Inhabitant",
+      "phonetic": "",
+      "translation": "\u5c45\u6c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-prohibit",
+      "word": "prohibit",
+      "display": "Prohibit",
+      "phonetic": "",
+      "translation": "\u7981\u6b62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-habit-prohibition",
+      "word": "prohibition",
+      "display": "Prohibition",
+      "phonetic": "",
+      "translation": "\u7981\u6b62\uff1b\u963b\u6b62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h",
+  "rootLevel": 2,
+  "rootPath": "h>h-habit",
+  "type": "root",
+  "notes": ""
+}

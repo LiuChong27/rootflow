@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "n-nav",
+  "root": "nav=ship\u8239",
+  "meaning": "ship",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-nav-naval",
+      "word": "naval",
+      "display": "Naval",
+      "phonetic": "",
+      "translation": "\u6d77\u519b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nav-navigation",
+      "word": "navigation",
+      "display": "Navigation",
+      "phonetic": "",
+      "translation": "\u822a\u6d77\uff1b\u5bfc\u822a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nav-navy",
+      "word": "navy",
+      "display": "Navy",
+      "phonetic": "",
+      "translation": "\u6d77\u519b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-nav",
+  "type": "root",
+  "notes": ""
+}

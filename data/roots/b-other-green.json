@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "rootId": "b-other-green",
+  "root": "\u5176\u4ed6\uff08\u7eff\u8272\u5206\u652f\uff09",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-green-bankrupt",
+      "word": "bankrupt",
+      "display": "Bankrupt",
+      "phonetic": "",
+      "translation": "\u7834\u4ea7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-banquet",
+      "word": "banquet",
+      "display": "Banquet",
+      "phonetic": "",
+      "translation": "\u5bb4\u8bf7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bare",
+      "word": "bare",
+      "display": "Bare",
+      "phonetic": "",
+      "translation": "\u8d64\u88f8\u7684\uff1b\u7a7a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bee",
+      "word": "bee",
+      "display": "Bee",
+      "phonetic": "",
+      "translation": "\u871c\u8702",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-behalf",
+      "word": "behalf",
+      "display": "Behalf",
+      "phonetic": "",
+      "translation": "\u5229\u76ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-beloved",
+      "word": "beloved",
+      "display": "Beloved",
+      "phonetic": "",
+      "translation": "\u7231\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bench",
+      "word": "bench",
+      "display": "Bench",
+      "phonetic": "",
+      "translation": "\u957f\u51f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-beverage",
+      "word": "beverage",
+      "display": "Beverage",
+      "phonetic": "",
+      "translation": "\u996e\u6599",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-beware",
+      "word": "beware",
+      "display": "Beware",
+      "phonetic": "",
+      "translation": "\u5f53\u5fc3\uff0c\u8c28\u9632",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bewilder",
+      "word": "bewilder",
+      "display": "Bewilder",
+      "phonetic": "",
+      "translation": "\u4f7f\u8ff7\u60d1\uff1b\u96be\u4f4f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-blade",
+      "word": "blade",
+      "display": "Blade",
+      "phonetic": "",
+      "translation": "\u5200\u5203\uff1b\u6868\u53f6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-blanket",
+      "word": "blanket",
+      "display": "Blanket",
+      "phonetic": "",
+      "translation": "\u6bef\u5b50\uff1b\u8986\u76d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-blaze",
+      "word": "blaze",
+      "display": "Blaze",
+      "phonetic": "",
+      "translation": "\u706b\u7130\uff1b\u95ea\u5149",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-blueprint",
+      "word": "blueprint",
+      "display": "Blueprint",
+      "phonetic": "",
+      "translation": "\u84dd\u56fe\uff1b\u8ba1\u5212",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-blunder",
+      "word": "blunder",
+      "display": "Blunder",
+      "phonetic": "",
+      "translation": "\u72af\u5927\u9519",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-blush",
+      "word": "blush",
+      "display": "Blush",
+      "phonetic": "",
+      "translation": "\u8138\u7ea2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-board",
+      "word": "board",
+      "display": "Board",
+      "phonetic": "",
+      "translation": "\u4e0a\u8239\uff1b\u4f19\u98df",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-boast",
+      "word": "boast",
+      "display": "Boast",
+      "phonetic": "",
+      "translation": "\u81ea\u5938\uff1b\u5927\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-broadcast",
+      "word": "broadcast",
+      "display": "Broadcast",
+      "phonetic": "",
+      "translation": "\u5e7f\u64ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-brochure",
+      "word": "brochure",
+      "display": "Brochure",
+      "phonetic": "",
+      "translation": "\u5c0f\u518c\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bubble",
+      "word": "bubble",
+      "display": "Bubble",
+      "phonetic": "",
+      "translation": "\u6c14\u6ce1\uff1b\u5192\u6ce1\uff1b\u6cb8\u817e\uff1b\u6fc0\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bud",
+      "word": "bud",
+      "display": "Bud",
+      "phonetic": "",
+      "translation": "\u82b1\u82de",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-budget",
+      "word": "budget",
+      "display": "Budget",
+      "phonetic": "",
+      "translation": "\u9884\u7b97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bug",
+      "word": "bug",
+      "display": "Bug",
+      "phonetic": "",
+      "translation": "\u7a83\u542c\u5668\uff1b\u5c0f\u6bdb\u75c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bump",
+      "word": "bump",
+      "display": "Bump",
+      "phonetic": "",
+      "translation": "\u78b0\u649e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-bureaucracy",
+      "word": "bureaucracy",
+      "display": "Bureaucracy",
+      "phonetic": "",
+      "translation": "\u5b98\u50da\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-burst",
+      "word": "burst",
+      "display": "Burst",
+      "phonetic": "",
+      "translation": "\u7206\u88c2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-green-imbibe",
+      "word": "imbibe",
+      "display": "Imbibe",
+      "phonetic": "",
+      "translation": "\u5438\u6536",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-other-green",
+  "type": "category",
+  "notes": ""
+}

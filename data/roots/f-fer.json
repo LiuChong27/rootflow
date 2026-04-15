@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "rootId": "f-fer",
+  "root": "fer\u5e26",
+  "meaning": "fer",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-fer-afferent",
+      "word": "afferent",
+      "display": "Afferent",
+      "phonetic": "",
+      "translation": "\u8f93\u5165\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-confer",
+      "word": "confer",
+      "display": "Confer",
+      "phonetic": "",
+      "translation": "\u6388\u4e88\uff1b\u534f\u5546",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-defer",
+      "word": "defer",
+      "display": "Defer",
+      "phonetic": "",
+      "translation": "\u63a8\u8fdf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-deference",
+      "word": "deference",
+      "display": "Deference",
+      "phonetic": "",
+      "translation": "\u987a\u4ece\uff1b\u5c0a\u91cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-deferential",
+      "word": "deferential",
+      "display": "Deferential",
+      "phonetic": "",
+      "translation": "\u606d\u656c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-differ",
+      "word": "differ",
+      "display": "Differ",
+      "phonetic": "",
+      "translation": "\u4e0d\u540c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-difference",
+      "word": "difference",
+      "display": "Difference",
+      "phonetic": "",
+      "translation": "\u5dee\u5f02\uff1b\u5206\u6b67",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-differential",
+      "word": "differential",
+      "display": "Differential",
+      "phonetic": "",
+      "translation": "\u533a\u522b\uff1b\u8fa8\u522b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-efferent",
+      "word": "efferent",
+      "display": "Efferent",
+      "phonetic": "",
+      "translation": "\u4f20\u51fa\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-ferry",
+      "word": "ferry",
+      "display": "Ferry",
+      "phonetic": "",
+      "translation": "\u6446\u6e21",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-fertile",
+      "word": "fertile",
+      "display": "Fertile",
+      "phonetic": "",
+      "translation": "\u80a5\u6c83\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-fertilize",
+      "word": "fertilize",
+      "display": "Fertilize",
+      "phonetic": "",
+      "translation": "\u80a5\u6c83",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-indifference",
+      "word": "indifference",
+      "display": "Indifference",
+      "phonetic": "",
+      "translation": "\u51b7\u6de1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-indifferent",
+      "word": "indifferent",
+      "display": "Indifferent",
+      "phonetic": "",
+      "translation": "\u4e0d\u611f\u5174\u8da3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-infer",
+      "word": "infer",
+      "display": "Infer",
+      "phonetic": "",
+      "translation": "\u63a8\u65ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-inferable",
+      "word": "inferable",
+      "display": "Inferable",
+      "phonetic": "",
+      "translation": "\u80fd\u63a8\u65ad\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-inference",
+      "word": "inference",
+      "display": "Inference",
+      "phonetic": "",
+      "translation": "\u63a8\u65ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-offer",
+      "word": "offer",
+      "display": "Offer",
+      "phonetic": "",
+      "translation": "\u63d0\u4f9b\uff1b\u62a5\u4ef7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-prefer",
+      "word": "prefer",
+      "display": "Prefer",
+      "phonetic": "",
+      "translation": "\u5b81\u613f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-preferable",
+      "word": "preferable",
+      "display": "Preferable",
+      "phonetic": "",
+      "translation": "\u66f4\u53ef\u53d6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-preference",
+      "word": "preference",
+      "display": "Preference",
+      "phonetic": "",
+      "translation": "\u504f\u7231",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-proffer",
+      "word": "proffer",
+      "display": "Proffer",
+      "phonetic": "",
+      "translation": "\u732e\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-refer",
+      "word": "refer",
+      "display": "Refer",
+      "phonetic": "",
+      "translation": "\u63d0\u53ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-reference",
+      "word": "reference",
+      "display": "Reference",
+      "phonetic": "",
+      "translation": "\u63d0\u53ca\uff1b\u53c2\u8003",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-referendum",
+      "word": "referendum",
+      "display": "Referendum",
+      "phonetic": "",
+      "translation": "\u6295\u7968",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-referential",
+      "word": "referential",
+      "display": "Referential",
+      "phonetic": "",
+      "translation": "\u6709\u53c2\u8003\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-suffer",
+      "word": "suffer",
+      "display": "Suffer",
+      "phonetic": "",
+      "translation": "\u906d\u53d7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fer-transfer",
+      "word": "transfer",
+      "display": "Transfer",
+      "phonetic": "",
+      "translation": "\u8f6c\u8d26\uff1b\u8fc1\u79fb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f",
+  "rootLevel": 2,
+  "rootPath": "f>f-fer",
+  "type": "root",
+  "notes": ""
+}

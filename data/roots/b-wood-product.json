@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "b-wood-product",
+  "root": "\u6728\u5236\u54c1",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-wood-product-bag",
+      "word": "bag",
+      "display": "Bag",
+      "phonetic": "",
+      "translation": "\u888b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bait",
+      "word": "bait",
+      "display": "Bait",
+      "phonetic": "",
+      "translation": "\u8bf1\u9975",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bankrupt",
+      "word": "bankrupt",
+      "display": "Bankrupt",
+      "phonetic": "",
+      "translation": "\u7834\u4ea7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-banquet",
+      "word": "banquet",
+      "display": "Banquet",
+      "phonetic": "",
+      "translation": "\u5bb4\u8bf7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bargain",
+      "word": "bargain",
+      "display": "Bargain",
+      "phonetic": "",
+      "translation": "\u5408\u540c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-barn",
+      "word": "barn",
+      "display": "Barn",
+      "phonetic": "",
+      "translation": "\u8c37\u4ed3\uff1b\u4ed3\u5e93",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bed",
+      "word": "bed",
+      "display": "Bed",
+      "phonetic": "",
+      "translation": "\u5e8a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bench",
+      "word": "bench",
+      "display": "Bench",
+      "phonetic": "",
+      "translation": "\u957f\u51f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bin",
+      "word": "bin",
+      "display": "Bin",
+      "phonetic": "",
+      "translation": "\u7bb1\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-board",
+      "word": "board",
+      "display": "Board",
+      "phonetic": "",
+      "translation": "\u4e0a\u8239\uff1b\u4f19\u98df",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-boast",
+      "word": "boast",
+      "display": "Boast",
+      "phonetic": "",
+      "translation": "\u81ea\u5938\uff1b\u5927\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bold",
+      "word": "bold",
+      "display": "Bold",
+      "phonetic": "",
+      "translation": "\u5927\u80c6\u7684\uff1b\u9ed1\u4f53\uff1b\u7c97\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bolt",
+      "word": "bolt",
+      "display": "Bolt",
+      "phonetic": "",
+      "translation": "\u63d2\u9500\uff1b\u87ba\u6813",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-booth",
+      "word": "booth",
+      "display": "Booth",
+      "phonetic": "",
+      "translation": "\u7535\u8bdd\u4ead\uff1b\u8d27\u644a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bottle",
+      "word": "bottle",
+      "display": "Bottle",
+      "phonetic": "",
+      "translation": "\u74f6\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bottom",
+      "word": "bottom",
+      "display": "Bottom",
+      "phonetic": "",
+      "translation": "\u5e95\u90e8\uff1b\u57fa\u7840",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bow",
+      "word": "bowl",
+      "display": "Bowl",
+      "phonetic": "",
+      "translation": "\u7897",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-box",
+      "word": "box",
+      "display": "Box",
+      "phonetic": "",
+      "translation": "\u7bb1\u5b50\uff1b\u62f3\u51fb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-brass",
+      "word": "brass",
+      "display": "Brass",
+      "phonetic": "",
+      "translation": "\u9ec4\u94dc\uff1b\u94dc\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-product-bronze",
+      "word": "bronze",
+      "display": "Bronze",
+      "phonetic": "",
+      "translation": "\u9752\u94dc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-wood",
+  "rootLevel": 3,
+  "rootPath": "b>b-wood>b-wood-product",
+  "type": "branch",
+  "notes": ""
+}

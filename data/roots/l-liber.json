@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "l-liber",
+  "root": "liber\u81ea\u7531",
+  "meaning": "free",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-liber-liberal",
+      "word": "liberal",
+      "display": "Liberal",
+      "phonetic": "",
+      "translation": "\u81ea\u7531\u7684\uff1b\u6177\u6168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-liber-liberate",
+      "word": "liberate",
+      "display": "Liberate",
+      "phonetic": "",
+      "translation": "\u89e3\u653e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-liber-liberation",
+      "word": "liberation",
+      "display": "Liberation",
+      "phonetic": "",
+      "translation": "\u89e3\u653e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-liber-liberty",
+      "word": "liberty",
+      "display": "Liberty",
+      "phonetic": "",
+      "translation": "\u81ea\u7531",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-liber",
+  "type": "root",
+  "notes": ""
+}

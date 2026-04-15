@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "v-ven",
+  "root": "ven=vent=come",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-ven-convene",
+      "word": "convene",
+      "display": "Convene",
+      "phonetic": "",
+      "translation": "\u53ec\u96c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-convenience",
+      "word": "convenience",
+      "display": "Convenience",
+      "phonetic": "",
+      "translation": "\u4fbf\u5229",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-convenient",
+      "word": "convenient",
+      "display": "Convenient",
+      "phonetic": "",
+      "translation": "\u4fbf\u5229\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-event",
+      "word": "event",
+      "display": "Event",
+      "phonetic": "",
+      "translation": "\u4e8b\u4ef6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-eventual",
+      "word": "eventual",
+      "display": "Eventual",
+      "phonetic": "",
+      "translation": "\u6700\u540e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-intervene",
+      "word": "intervene",
+      "display": "Intervene",
+      "phonetic": "",
+      "translation": "\u5e72\u9884",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-invent",
+      "word": "invent",
+      "display": "Invent",
+      "phonetic": "",
+      "translation": "\u53d1\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-inventory",
+      "word": "inventory",
+      "display": "Inventory",
+      "phonetic": "",
+      "translation": "\u5b58\u8d27",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-prevent",
+      "word": "prevent",
+      "display": "Prevent",
+      "phonetic": "",
+      "translation": "\u9884\u9632",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-preventive",
+      "word": "preventive",
+      "display": "Preventive",
+      "phonetic": "",
+      "translation": "\u9884\u9632\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-revenue",
+      "word": "revenue",
+      "display": "Revenue",
+      "phonetic": "",
+      "translation": "\u7a0e\u6536",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-ventilate",
+      "word": "ventilate",
+      "display": "Ventilate",
+      "phonetic": "",
+      "translation": "\u4f7f\u901a\u98ce",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-vessel",
+      "word": "vessel",
+      "display": "Vessel",
+      "phonetic": "",
+      "translation": "\u5bb9\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-vest",
+      "word": "vest",
+      "display": "Vest",
+      "phonetic": "",
+      "translation": "\u80cc\u5fc3;\u5185\u8863",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-veteran",
+      "word": "veteran",
+      "display": "Veteran",
+      "phonetic": "",
+      "translation": "\u8001\u624b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-ven-veto",
+      "word": "veto",
+      "display": "Veto",
+      "phonetic": "",
+      "translation": "\u5426\u51b3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-ven",
+  "type": "root",
+  "notes": ""
+}

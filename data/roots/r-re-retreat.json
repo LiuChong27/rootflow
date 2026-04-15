@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "rootId": "r-re-retreat",
+  "root": "\u64a4\u9000",
+  "meaning": "retreat",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-re-retreat-recede",
+      "word": "recede",
+      "display": "Recede",
+      "phonetic": "",
+      "translation": "\u9000\u540e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-refuge",
+      "word": "refuge",
+      "display": "Refuge",
+      "phonetic": "",
+      "translation": "\u85cf\u8eab\u5904",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-refugee",
+      "word": "refugee",
+      "display": "Refugee",
+      "phonetic": "",
+      "translation": "\u907f\u96be\u8005\uff1b\u96be\u6c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-refund",
+      "word": "refund",
+      "display": "Refund",
+      "phonetic": "",
+      "translation": "\u9000\u6b3e\uff1b\u9000\u8fd8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-refusal",
+      "word": "refusal",
+      "display": "Refusal",
+      "phonetic": "",
+      "translation": "\u62d2\u7edd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-refuse",
+      "word": "refuse",
+      "display": "Refuse",
+      "phonetic": "",
+      "translation": "\u62d2\u7edd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-reject",
+      "word": "reject",
+      "display": "Reject",
+      "phonetic": "",
+      "translation": "\u62d2\u7edd\uff1b\u62b5\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-removal",
+      "word": "removal",
+      "display": "Removal",
+      "phonetic": "",
+      "translation": "\u79fb\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-remove",
+      "word": "remove",
+      "display": "Remove",
+      "phonetic": "",
+      "translation": "\u79fb\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-renew",
+      "word": "renew",
+      "display": "Renew",
+      "phonetic": "",
+      "translation": "\u91cd\u65b0\u5f00\u59cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-renovate",
+      "word": "renovate",
+      "display": "Renovate",
+      "phonetic": "",
+      "translation": "\u66f4\u65b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-repel",
+      "word": "repel",
+      "display": "Repel",
+      "phonetic": "",
+      "translation": "\u51fb\u9000",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-repression",
+      "word": "repression",
+      "display": "Repression",
+      "phonetic": "",
+      "translation": "\u538b\u6291\uff1b\u538b\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-resign",
+      "word": "resign",
+      "display": "Resign",
+      "phonetic": "",
+      "translation": "\u8f9e\u53bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-rest",
+      "word": "rest",
+      "display": "Rest",
+      "phonetic": "",
+      "translation": "\u4f11\u606f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-restaurant",
+      "word": "restaurant",
+      "display": "Restaurant",
+      "phonetic": "",
+      "translation": "\u53c2\u89c2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-restless",
+      "word": "restless",
+      "display": "Restless",
+      "phonetic": "",
+      "translation": "\u5f97\u4e0d\u5230\u4f11\u606f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-restore",
+      "word": "restore",
+      "display": "Restore",
+      "phonetic": "",
+      "translation": "\u6062\u590d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-retire",
+      "word": "retire",
+      "display": "Retire",
+      "phonetic": "",
+      "translation": "\u9000\u4f11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-retreat",
+      "word": "retreat",
+      "display": "Retreat",
+      "phonetic": "",
+      "translation": "\u64a4\u9000",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-return",
+      "word": "return",
+      "display": "Return",
+      "phonetic": "",
+      "translation": "\u8fd4\u56de",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-retreat-reverse",
+      "word": "reverse",
+      "display": "Reverse",
+      "phonetic": "",
+      "translation": "\u76f8\u53cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r-re",
+  "rootLevel": 3,
+  "rootPath": "r>r-re>r-re-retreat",
+  "type": "root",
+  "notes": ""
+}

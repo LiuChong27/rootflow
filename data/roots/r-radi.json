@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "rootId": "r-radi",
+  "root": "radi\u5149\u7ebf",
+  "meaning": "light",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-radi-eradicate",
+      "word": "eradicate",
+      "display": "Eradicate",
+      "phonetic": "",
+      "translation": "\u6839\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-eradication",
+      "word": "eradication",
+      "display": "Eradication",
+      "phonetic": "",
+      "translation": "\u6839\u9664",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radar",
+      "word": "radar",
+      "display": "Radar",
+      "phonetic": "",
+      "translation": "\u96f7\u8fbe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radiant",
+      "word": "radiant",
+      "display": "Radiant",
+      "phonetic": "",
+      "translation": "\u53d1\u5149\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radical",
+      "word": "radical",
+      "display": "Radical",
+      "phonetic": "",
+      "translation": "\u6839\u672c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radicalism",
+      "word": "radicalism",
+      "display": "Radicalism",
+      "phonetic": "",
+      "translation": "\u6fc0\u8fdb\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radicle",
+      "word": "radicle",
+      "display": "Radicle",
+      "phonetic": "",
+      "translation": "\u6839",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radio",
+      "word": "radio",
+      "display": "Radio",
+      "phonetic": "",
+      "translation": "\u6536\u97f3\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radioactive",
+      "word": "radioactive",
+      "display": "Radioactive",
+      "phonetic": "",
+      "translation": "\u653e\u5c04\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-radius",
+      "word": "radius",
+      "display": "Radius",
+      "phonetic": "",
+      "translation": "\u534a\u5f84",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-ray",
+      "word": "ray",
+      "display": "Ray",
+      "phonetic": "",
+      "translation": "\u5149\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-radi-rear",
+      "word": "rear",
+      "display": "Rear",
+      "phonetic": "",
+      "translation": "\u9972\u517b\uff1b\u80cc\u540e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r",
+  "rootLevel": 2,
+  "rootPath": "r>r-radi",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,873 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-j",
+  "rootIds": [
+    "j",
+    "j-ject",
+    "j-joke",
+    "j-journ",
+    "j-jud",
+    "j-junct",
+    "j-just",
+    "j-juven",
+    "j-other"
+  ],
+  "roots": {
+    "j": {
+      "version": 1,
+      "rootId": "j",
+      "root": "J",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "j",
+      "type": "root",
+      "notes": "\u6839\u636eJ.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "j-ject": {
+      "version": 1,
+      "rootId": "j-ject",
+      "root": "ject=jac=jet\u6254",
+      "meaning": "throw",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-ject-adjacent",
+          "word": "adjacent",
+          "display": "Adjacent",
+          "phonetic": "",
+          "translation": "\u63a5\u8fd1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-adjective",
+          "word": "adjective",
+          "display": "Adjective",
+          "phonetic": "",
+          "translation": "\u5f62\u5bb9\u8bcd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-conjecture",
+          "word": "conjecture",
+          "display": "Conjecture",
+          "phonetic": "",
+          "translation": "\u63a8\u6d4b\uff1b\u5047\u8bbe",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-deject",
+          "word": "deject",
+          "display": "Deject",
+          "phonetic": "",
+          "translation": "\u4f7f\u6cae\u4e27",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-ejaculate",
+          "word": "ejaculate",
+          "display": "Ejaculate",
+          "phonetic": "",
+          "translation": "\u7a81\u7136\u8bf4\u51fa\uff1b\u5c04\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-eject",
+          "word": "eject",
+          "display": "Eject",
+          "phonetic": "",
+          "translation": "\u55b7\u51fa\uff1b\u9a71\u9010",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-inject",
+          "word": "inject",
+          "display": "Inject",
+          "phonetic": "",
+          "translation": "\u6ce8\u5c04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-injection",
+          "word": "injection",
+          "display": "Injection",
+          "phonetic": "",
+          "translation": "\u6ce8\u5c04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-interject",
+          "word": "interject",
+          "display": "Interject",
+          "phonetic": "",
+          "translation": "\u63d2\u5634",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-jet",
+          "word": "jet",
+          "display": "Jet",
+          "phonetic": "",
+          "translation": "\u55b7\u5c04\uff1b\u55b7\u6c14\u5f0f\u98de\u673a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-jettison",
+          "word": "jettison",
+          "display": "Jettison",
+          "phonetic": "",
+          "translation": "\u629b\u5f03\uff1b\u6254\u6389",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-object",
+          "word": "object",
+          "display": "Object",
+          "phonetic": "",
+          "translation": "\u7269\u4f53\uff1b\u76ee\u6807\uff1b\u53cd\u5bf9\uff1b\u5bbe\u8bed",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-objection",
+          "word": "objection",
+          "display": "Objection",
+          "phonetic": "",
+          "translation": "\u53cd\u5bf9\uff1b\u5f02\u8bae\uff1b\u4e0d\u559c\u6b22",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-objective",
+          "word": "objective",
+          "display": "Objective",
+          "phonetic": "",
+          "translation": "\u76ee\u6807\uff1b\u5ba2\u89c2\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-project",
+          "word": "project",
+          "display": "Project",
+          "phonetic": "",
+          "translation": "\u8ba1\u5212\uff1b\u65b9\u6848\uff1b\u53d1\u5c04\uff1b\u653e\u6620",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-projector",
+          "word": "projector",
+          "display": "Projector",
+          "phonetic": "",
+          "translation": "\u6295\u5f71\u4eea",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-reject",
+          "word": "reject",
+          "display": "Reject",
+          "phonetic": "",
+          "translation": "\u62d2\u7edd\uff1b\u843d\u9009\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-subject",
+          "word": "subject",
+          "display": "Subject",
+          "phonetic": "",
+          "translation": "\u9898\u76ee\uff1b\u95ee\u9898\uff1b\u4e3b\u9898\uff1b\u5b66\u79d1\uff1b\u79d1\u76ee\uff1b\u53d7\u5b9e\u9a8c\u8005\uff1b\u4f7f\u96b6\u5c5e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-ject-subjective",
+          "word": "subjective",
+          "display": "Subjective",
+          "phonetic": "",
+          "translation": "\u4e3b\u89c2\u7684\uff1b\u4e2a\u4eba\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-ject",
+      "type": "root",
+      "notes": ""
+    },
+    "j-joke": {
+      "version": 1,
+      "rootId": "j-joke",
+      "root": "joke\u7b11\u8bdd\uff1b\u5f00\u73a9\u7b11",
+      "meaning": "joke",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-joke-jolly",
+          "word": "jolly",
+          "display": "Jolly",
+          "phonetic": "",
+          "translation": "\u6b22\u4e50\u7684\uff1b\u9ad8\u5174\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-joke-joy",
+          "word": "joy",
+          "display": "Joy",
+          "phonetic": "",
+          "translation": "\u6b22\u4e50\uff1b\u559c\u60a6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-joke",
+      "type": "root",
+      "notes": ""
+    },
+    "j-journ": {
+      "version": 1,
+      "rootId": "j-journ",
+      "root": "journ\u6bcf\u65e5",
+      "meaning": "daily",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-journ-adjourn",
+          "word": "adjourn",
+          "display": "Adjourn",
+          "phonetic": "",
+          "translation": "\u4f11\u4f1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-journ-journal",
+          "word": "journal",
+          "display": "Journal",
+          "phonetic": "",
+          "translation": "\u6742\u5fd7\uff1b\u65e5\u62a5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-journ-journalism",
+          "word": "journalism",
+          "display": "Journalism",
+          "phonetic": "",
+          "translation": "\u65b0\u95fb\u5de5\u4f5c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-journ-journalist",
+          "word": "journalist",
+          "display": "Journalist",
+          "phonetic": "",
+          "translation": "\u8bb0\u8005\uff1b\u65b0\u95fb\u5de5\u4f5c\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-journ-journey",
+          "word": "journey",
+          "display": "Journey",
+          "phonetic": "",
+          "translation": "\u65c5\u884c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-journ",
+      "type": "root",
+      "notes": ""
+    },
+    "j-jud": {
+      "version": 1,
+      "rootId": "j-jud",
+      "root": "jud\u5224\u65ad\uff1b\u6cd5\u5b98",
+      "meaning": "judge",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-jud-judge",
+          "word": "judge",
+          "display": "Judge",
+          "phonetic": "",
+          "translation": "\u6cd5\u5b98\uff1b\u5ba1\u5224\uff1b\u8bc4\u8bba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-jud-judgement",
+          "word": "judgement",
+          "display": "Judgement",
+          "phonetic": "",
+          "translation": "\u5224\u65ad\u529b\uff1b\u770b\u6cd5\uff1b\u5224\u51b3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-jud-judicial",
+          "word": "judicial",
+          "display": "Judicial",
+          "phonetic": "",
+          "translation": "\u53f8\u6cd5\u7684\uff1b\u5ba1\u5224\u7684\uff1b\u516c\u6b63\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-jud-prejudice",
+          "word": "prejudice",
+          "display": "Prejudice",
+          "phonetic": "",
+          "translation": "\u9884\u5148\u5224\u65ad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-jud",
+      "type": "root",
+      "notes": ""
+    },
+    "j-junct": {
+      "version": 1,
+      "rootId": "j-junct",
+      "root": "junct=join\u8fde\u63a5",
+      "meaning": "join",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-junct-join",
+          "word": "join",
+          "display": "Join",
+          "phonetic": "",
+          "translation": "\u53c2\u52a0\uff1b\u8fde\u63a5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-junct-joint",
+          "word": "joint",
+          "display": "Joint",
+          "phonetic": "",
+          "translation": "\u7ed3\u5408\u5904\uff1b\u5173\u8282\uff1b\u5171\u540c\u7684\uff1b\u8054\u5408\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-junct-junction",
+          "word": "junction",
+          "display": "Junction",
+          "phonetic": "",
+          "translation": "\u8fde\u63a5\uff1b\u67a2\u7ebd\u7ad9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-junct",
+      "type": "root",
+      "notes": ""
+    },
+    "j-just": {
+      "version": 1,
+      "rootId": "j-just",
+      "root": "just=juris\u6cd5\u5f8b\uff1b\u6b63\u4e49",
+      "meaning": "law; justice",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-just-adjust",
+          "word": "adjust",
+          "display": "Adjust",
+          "phonetic": "",
+          "translation": "\u8c03\u6574\uff1b\u6821\u51c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-adjustable",
+          "word": "adjustable",
+          "display": "Adjustable",
+          "phonetic": "",
+          "translation": "\u53ef\u8c03\u6574\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-adjustment",
+          "word": "adjustment",
+          "display": "Adjustment",
+          "phonetic": "",
+          "translation": "\u8c03\u8282",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-adjustor",
+          "word": "adjustor",
+          "display": "Adjustor",
+          "phonetic": "",
+          "translation": "\u8c03\u8282\u5668\uff1b\u8c03\u505c\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-injure",
+          "word": "injure",
+          "display": "Injure",
+          "phonetic": "",
+          "translation": "\u635f\u5bb3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-injurious",
+          "word": "injurious",
+          "display": "Injurious",
+          "phonetic": "",
+          "translation": "\u8bfd\u8c24\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-injury",
+          "word": "injury",
+          "display": "Injury",
+          "phonetic": "",
+          "translation": "\u4fae\u8fb1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-injustice",
+          "word": "injustice",
+          "display": "Injustice",
+          "phonetic": "",
+          "translation": "\u4e0d\u516c\u5e73",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-juridical",
+          "word": "juridical",
+          "display": "Juridical",
+          "phonetic": "",
+          "translation": "\u88c1\u5224\u7684\uff1b\u53f8\u6cd5\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-jurisprudence",
+          "word": "jurisprudence",
+          "display": "Jurisprudence",
+          "phonetic": "",
+          "translation": "\u6cd5\u5b66\uff1b\u6cd5\u7406\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-jury",
+          "word": "jury",
+          "display": "Jury",
+          "phonetic": "",
+          "translation": "\u966a\u5ba1\u56e2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-just",
+          "word": "just",
+          "display": "Just",
+          "phonetic": "",
+          "translation": "\u6b63\u597d\u7684\uff1b\u53ea\u4e0d\u8fc7\uff1b\u516c\u6b63\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-justice",
+          "word": "justice",
+          "display": "Justice",
+          "phonetic": "",
+          "translation": "\u516c\u6b63\uff1b\u5ba1\u5224",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-just-justify",
+          "word": "justify",
+          "display": "Justify",
+          "phonetic": "",
+          "translation": "\u8bc1\u660e\uff1b\u4e3a...\u8fa9\u62a4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-just",
+      "type": "root",
+      "notes": ""
+    },
+    "j-juven": {
+      "version": 1,
+      "rootId": "j-juven",
+      "root": "juven=young\u5e74\u8f7b",
+      "meaning": "young",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-juven-junior",
+          "word": "junior",
+          "display": "Junior",
+          "phonetic": "",
+          "translation": "\u5b66\u751f\uff1b\u4e0b\u7ea7\uff1b\u5e74\u5c11\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-juven-juvenile",
+          "word": "juvenile",
+          "display": "Juvenile",
+          "phonetic": "",
+          "translation": "\u9752\u5c11\u5e74\uff1b\u4f18\u8d28\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-juven",
+      "type": "root",
+      "notes": ""
+    },
+    "j-other": {
+      "version": 1,
+      "rootId": "j-other",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "j-other-jam",
+          "word": "jam",
+          "display": "Jam",
+          "phonetic": "",
+          "translation": "\u679c\u9171\uff1b\u963b\u585e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-january",
+          "word": "january",
+          "display": "January",
+          "phonetic": "",
+          "translation": "\u4e00\u6708",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-jar",
+          "word": "jar",
+          "display": "Jar",
+          "phonetic": "",
+          "translation": "\u7f50\u5b50\uff1b\u575b\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-jargon",
+          "word": "jargon",
+          "display": "Jargon",
+          "phonetic": "",
+          "translation": "\u884c\u8bdd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-jazz",
+          "word": "jazz",
+          "display": "Jazz",
+          "phonetic": "",
+          "translation": "\u7235\u58eb\u4e50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-jewel",
+          "word": "jewel",
+          "display": "Jewel",
+          "phonetic": "",
+          "translation": "\u5b9d\u77f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-jewelry",
+          "word": "jewelry",
+          "display": "Jewelry",
+          "phonetic": "",
+          "translation": "\u73e0\u5b9d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-jog",
+          "word": "jog",
+          "display": "Jog",
+          "phonetic": "",
+          "translation": "\u6162\u8dd1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-jug",
+          "word": "jug",
+          "display": "Jug",
+          "phonetic": "",
+          "translation": "\u7f50\u5b50\uff1b\u76c2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-june",
+          "word": "june",
+          "display": "June",
+          "phonetic": "",
+          "translation": "\u516d\u6708",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "j-other-junk",
+          "word": "junk",
+          "display": "Junk",
+          "phonetic": "",
+          "translation": "\u5e9f\u7269\uff1b\u65e7\u8d27",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "j",
+      "rootLevel": 2,
+      "rootPath": "j>j-other",
+      "type": "root",
+      "notes": ""
+    }
+  }
+}

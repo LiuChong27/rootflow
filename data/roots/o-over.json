@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "o-over",
+  "root": "over\u5728\u4e0a\u9762",
+  "meaning": "over",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-over-overall",
+      "word": "overall",
+      "display": "Overall",
+      "phonetic": "",
+      "translation": "\u5168\u9762\u7684\uff1b\u7efc\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overcoat",
+      "word": "overcoat",
+      "display": "Overcoat",
+      "phonetic": "",
+      "translation": "\u5916\u8863",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overflow",
+      "word": "overflow",
+      "display": "Overflow",
+      "phonetic": "",
+      "translation": "\u6ea2\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overhead",
+      "word": "overhead",
+      "display": "Overhead",
+      "phonetic": "",
+      "translation": "\u5728\u5934\u9876\u4e0a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overhear",
+      "word": "overhear",
+      "display": "Overhear",
+      "phonetic": "",
+      "translation": "\u5076\u7136\u542c\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overlap",
+      "word": "overlap",
+      "display": "Overlap",
+      "phonetic": "",
+      "translation": "\u91cd\u53e0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overlook",
+      "word": "overlook",
+      "display": "Overlook",
+      "phonetic": "",
+      "translation": "\u5ffd\u7565\uff1b\u4fef\u77b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overnight",
+      "word": "overnight",
+      "display": "Overnight",
+      "phonetic": "",
+      "translation": "\u901a\u5bb5\uff1b\u7a81\u7136",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overpass",
+      "word": "overpass",
+      "display": "Overpass",
+      "phonetic": "",
+      "translation": "\u80dc\u8fc7\uff1b\u5ffd\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overseas",
+      "word": "overseas",
+      "display": "Overseas",
+      "phonetic": "",
+      "translation": "\u5916\u56fd\u7684\uff1b\u6d77\u5916\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overtake",
+      "word": "overtake",
+      "display": "Overtake",
+      "phonetic": "",
+      "translation": "\u8ffd\u4e0a\uff1b\u538b\u5012",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overthrow",
+      "word": "overthrow",
+      "display": "Overthrow",
+      "phonetic": "",
+      "translation": "\u63a8\u7ffb\uff1b\u98a0\u8986",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overtime",
+      "word": "overtime",
+      "display": "Overtime",
+      "phonetic": "",
+      "translation": "\u8d85\u65f6\u7684\uff1b\u52a0\u73ed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overturn",
+      "word": "overturn",
+      "display": "Overturn",
+      "phonetic": "",
+      "translation": "\u9769\u547d\uff1b\u63a8\u7ffb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overwhelm",
+      "word": "overwhelm",
+      "display": "Overwhelm",
+      "phonetic": "",
+      "translation": "\u6df9\u6ca1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-over-overwhelming",
+      "word": "overwhelming",
+      "display": "Overwhelming",
+      "phonetic": "",
+      "translation": "\u52bf\u4e0d\u53ef\u6321",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o",
+  "rootLevel": 2,
+  "rootPath": "o>o-over",
+  "type": "root",
+  "notes": ""
+}

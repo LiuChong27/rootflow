@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "g-grav",
+  "root": "grav=heavy\u91cd",
+  "meaning": "grav",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-grav-aggravate",
+      "word": "aggravate",
+      "display": "Aggravate",
+      "phonetic": "",
+      "translation": "\u52a0\u91cd\uff1b\u4f7f\u6076\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-aggravation",
+      "word": "aggravation",
+      "display": "Aggravation",
+      "phonetic": "",
+      "translation": "\u52a0\u91cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-grave",
+      "word": "grave",
+      "display": "Grave",
+      "phonetic": "",
+      "translation": "\u4e25\u8083\u7684\uff1b\u5e84\u91cd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-gravid",
+      "word": "gravid",
+      "display": "Gravid",
+      "phonetic": "",
+      "translation": "\u6000\u5b55\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-gravific",
+      "word": "gravific",
+      "display": "Gravific",
+      "phonetic": "",
+      "translation": "\u4f7f\u53d8\u91cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-gravisphere",
+      "word": "gravisphere",
+      "display": "Gravisphere",
+      "phonetic": "",
+      "translation": "\u5f15\u529b\u5c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-gravity",
+      "word": "gravity",
+      "display": "Gravity",
+      "phonetic": "",
+      "translation": "\u5e84\u91cd\uff1b\u91cd\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-grief",
+      "word": "grief",
+      "display": "Grief",
+      "phonetic": "",
+      "translation": "\u60b2\u75db",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-grav-grieve",
+      "word": "grieve",
+      "display": "Grieve",
+      "phonetic": "",
+      "translation": "\u60b2\u75db",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-grav",
+  "type": "root",
+  "notes": ""
+}

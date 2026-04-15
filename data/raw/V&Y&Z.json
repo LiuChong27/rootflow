@@ -1,0 +1,1645 @@
+{
+  "version": 1,
+  "letter": "v&y&z",
+  "updatedAt": "2026-04-15",
+  "roots": [
+    {
+      "rootId": "v",
+      "root": "V",
+      "parentRootId": "",
+      "rootPath": "v",
+      "sourceLabel": "V"
+    },
+    {
+      "rootId": "v-vac",
+      "root": "vac=van",
+      "parentRootId": "v",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "rootId": "v-val",
+      "root": "val=vail",
+      "parentRootId": "v",
+      "rootPath": "v>v-val",
+      "sourceLabel": "val=vail价值"
+    },
+    {
+      "rootId": "v-vis",
+      "root": "vis=vid=view",
+      "parentRootId": "v",
+      "rootPath": "v>v-vis",
+      "sourceLabel": "vis=vid=view看"
+    },
+    {
+      "rootId": "v-voc",
+      "root": "voc",
+      "parentRootId": "v",
+      "rootPath": "v>v-voc",
+      "sourceLabel": "voc说"
+    },
+    {
+      "rootId": "v-verb",
+      "root": "verb",
+      "parentRootId": "v",
+      "rootPath": "v>v-verb",
+      "sourceLabel": "verb动词"
+    },
+    {
+      "rootId": "v-vert",
+      "root": "vert=vers=turn",
+      "parentRootId": "v",
+      "rootPath": "v>v-vert",
+      "sourceLabel": "vert=vers=turn转"
+    },
+    {
+      "rootId": "v-vi",
+      "root": "vi=via=vey=voy",
+      "parentRootId": "v",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "rootId": "v-vas",
+      "root": "vas=vad=walk",
+      "parentRootId": "v",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "rootId": "v-ven",
+      "root": "ven=vent=come",
+      "parentRootId": "v",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "rootId": "v-other",
+      "root": "other",
+      "parentRootId": "v",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "rootId": "y",
+      "root": "Y",
+      "parentRootId": "",
+      "rootPath": "y",
+      "sourceLabel": "Y"
+    },
+    {
+      "rootId": "z",
+      "root": "Z",
+      "parentRootId": "",
+      "rootPath": "z",
+      "sourceLabel": "Z"
+    }
+  ],
+  "wordsFlat": [
+    {
+      "id": "v-vac-avoid",
+      "word": "avoid",
+      "display": "Avoid",
+      "phonetic": "",
+      "translation": "避免",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-avoidance",
+      "word": "avoidance",
+      "display": "Avoidance",
+      "phonetic": "",
+      "translation": "避免",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-vain",
+      "word": "vain",
+      "display": "Vain",
+      "phonetic": "",
+      "translation": "徒劳的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-vanish",
+      "word": "vanish",
+      "display": "Vanish",
+      "phonetic": "",
+      "translation": "消失",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-vanity",
+      "word": "vanity",
+      "display": "Vanity",
+      "phonetic": "",
+      "translation": "虚荣心",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-van",
+      "word": "van",
+      "display": "Van",
+      "phonetic": "",
+      "translation": "有蓬汽车",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-devoid",
+      "word": "devoid",
+      "display": "Devoid",
+      "phonetic": "",
+      "translation": "缺乏的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-evacuate",
+      "word": "evacuate",
+      "display": "Evacuate",
+      "phonetic": "",
+      "translation": "疏散",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-vacuum",
+      "word": "vacuum",
+      "display": "Vacuum",
+      "phonetic": "",
+      "translation": "真空",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-vac-vacant",
+      "word": "vacant",
+      "display": "Vacant",
+      "phonetic": "",
+      "translation": "空缺的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vac",
+      "rootPath": "v>v-vac",
+      "sourceLabel": "vac=van void空"
+    },
+    {
+      "id": "v-val-valid",
+      "word": "valid",
+      "display": "Valid",
+      "phonetic": "",
+      "translation": "有效的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-val",
+      "rootPath": "v>v-val",
+      "sourceLabel": "val=vail价值"
+    },
+    {
+      "id": "v-vis-visible",
+      "word": "visible",
+      "display": "Visible",
+      "phonetic": "",
+      "translation": "明显的;显著的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vis",
+      "rootPath": "v>v-vis",
+      "sourceLabel": "vis=vid=view看"
+    },
+    {
+      "id": "v-vis-vision",
+      "word": "vision",
+      "display": "Vision",
+      "phonetic": "",
+      "translation": "视力;想象力",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vis",
+      "rootPath": "v>v-vis",
+      "sourceLabel": "vis=vid=view看"
+    },
+    {
+      "id": "v-vis-viewpoint",
+      "word": "viewpoint",
+      "display": "Viewpoint",
+      "phonetic": "",
+      "translation": "观点",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vis",
+      "rootPath": "v>v-vis",
+      "sourceLabel": "vis=vid=view看"
+    },
+    {
+      "id": "v-vis-view",
+      "word": "view",
+      "display": "View",
+      "phonetic": "",
+      "translation": "观察;认为",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vis",
+      "rootPath": "v>v-vis",
+      "sourceLabel": "vis=vid=view看"
+    },
+    {
+      "id": "v-vis-visual",
+      "word": "visual",
+      "display": "Visual",
+      "phonetic": "",
+      "translation": "视觉的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vis",
+      "rootPath": "v>v-vis",
+      "sourceLabel": "vis=vid=view看"
+    },
+    {
+      "id": "v-voc-vocabulary",
+      "word": "vocabulary",
+      "display": "Vocabulary",
+      "phonetic": "",
+      "translation": "词汇",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-voc",
+      "rootPath": "v>v-voc",
+      "sourceLabel": "voc说"
+    },
+    {
+      "id": "v-voc-vocation",
+      "word": "vocation",
+      "display": "Vocation",
+      "phonetic": "",
+      "translation": "职业",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-voc",
+      "rootPath": "v>v-voc",
+      "sourceLabel": "voc说"
+    },
+    {
+      "id": "v-voc-vocal",
+      "word": "vocal",
+      "display": "Vocal",
+      "phonetic": "",
+      "translation": "声音的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-voc",
+      "rootPath": "v>v-voc",
+      "sourceLabel": "voc说"
+    },
+    {
+      "id": "v-voc-voice",
+      "word": "voice",
+      "display": "Voice",
+      "phonetic": "",
+      "translation": "声音",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-voc",
+      "rootPath": "v>v-voc",
+      "sourceLabel": "voc说"
+    },
+    {
+      "id": "v-voc-volume",
+      "word": "volume",
+      "display": "Volume",
+      "phonetic": "",
+      "translation": "容积;音量",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-voc",
+      "rootPath": "v>v-voc",
+      "sourceLabel": "voc说"
+    },
+    {
+      "id": "v-voc-vowel",
+      "word": "vowel",
+      "display": "Vowel",
+      "phonetic": "",
+      "translation": "元音",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-voc",
+      "rootPath": "v>v-voc",
+      "sourceLabel": "voc说"
+    },
+    {
+      "id": "v-verb-verbal",
+      "word": "verbal",
+      "display": "Verbal",
+      "phonetic": "",
+      "translation": "口头的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-verb",
+      "rootPath": "v>v-verb",
+      "sourceLabel": "verb动词"
+    },
+    {
+      "id": "v-verb-verdict",
+      "word": "verdict",
+      "display": "Verdict",
+      "phonetic": "",
+      "translation": "判决",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-verb",
+      "rootPath": "v>v-verb",
+      "sourceLabel": "verb动词"
+    },
+    {
+      "id": "v-vert-versatile",
+      "word": "versatile",
+      "display": "Versatile",
+      "phonetic": "",
+      "translation": "通用的;多方面的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vert",
+      "rootPath": "v>v-vert",
+      "sourceLabel": "vert=vers=turn转"
+    },
+    {
+      "id": "v-vert-verse",
+      "word": "verse",
+      "display": "Verse",
+      "phonetic": "",
+      "translation": "诗句",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vert",
+      "rootPath": "v>v-vert",
+      "sourceLabel": "vert=vers=turn转"
+    },
+    {
+      "id": "v-vert-version",
+      "word": "version",
+      "display": "Version",
+      "phonetic": "",
+      "translation": "版本;译文",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vert",
+      "rootPath": "v>v-vert",
+      "sourceLabel": "vert=vers=turn转"
+    },
+    {
+      "id": "v-vert-versus",
+      "word": "versus",
+      "display": "Versus",
+      "phonetic": "",
+      "translation": "与...相对",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vert",
+      "rootPath": "v>v-vert",
+      "sourceLabel": "vert=vers=turn转"
+    },
+    {
+      "id": "v-vert-vertical",
+      "word": "vertical",
+      "display": "Vertical",
+      "phonetic": "",
+      "translation": "垂直的;垂线",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vert",
+      "rootPath": "v>v-vert",
+      "sourceLabel": "vert=vers=turn转"
+    },
+    {
+      "id": "v-vi-via",
+      "word": "via",
+      "display": "Via",
+      "phonetic": "",
+      "translation": "经过",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-vague",
+      "word": "vague",
+      "display": "Vague",
+      "phonetic": "",
+      "translation": "含糊的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-convey",
+      "word": "convey",
+      "display": "Convey",
+      "phonetic": "",
+      "translation": "搬运",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-deviate",
+      "word": "deviate",
+      "display": "Deviate",
+      "phonetic": "",
+      "translation": "背离",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-obvious",
+      "word": "obvious",
+      "display": "Obvious",
+      "phonetic": "",
+      "translation": "明显的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-vehicle",
+      "word": "vehicle",
+      "display": "Vehicle",
+      "phonetic": "",
+      "translation": "交通工具",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-evade",
+      "word": "evade",
+      "display": "Evade",
+      "phonetic": "",
+      "translation": "逃避",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-invade",
+      "word": "invade",
+      "display": "Invade",
+      "phonetic": "",
+      "translation": "入侵",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vi-pervade",
+      "word": "pervade",
+      "display": "Pervade",
+      "phonetic": "",
+      "translation": "蔓延",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vi",
+      "rootPath": "v>v-vi",
+      "sourceLabel": "vi=via=vey=voy道路"
+    },
+    {
+      "id": "v-vas-vapour",
+      "word": "vapour",
+      "display": "Vapour",
+      "phonetic": "",
+      "translation": "水蒸气",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-vase",
+      "word": "vase",
+      "display": "Vase",
+      "phonetic": "",
+      "translation": "花瓶",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-veil",
+      "word": "veil",
+      "display": "Veil",
+      "phonetic": "",
+      "translation": "面纱",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-vein",
+      "word": "vein",
+      "display": "Vein",
+      "phonetic": "",
+      "translation": "血管;静脉",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-velocity",
+      "word": "velocity",
+      "display": "Velocity",
+      "phonetic": "",
+      "translation": "速度",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-velvet",
+      "word": "velvet",
+      "display": "Velvet",
+      "phonetic": "",
+      "translation": "天鹅绒",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-adventure",
+      "word": "adventure",
+      "display": "Adventure",
+      "phonetic": "",
+      "translation": "冒险",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-advent",
+      "word": "advent",
+      "display": "Advent",
+      "phonetic": "",
+      "translation": "到来",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-vas-venture",
+      "word": "venture",
+      "display": "Venture",
+      "phonetic": "",
+      "translation": "冒险",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-vas",
+      "rootPath": "v>v-vas",
+      "sourceLabel": "vas=vad=walk走"
+    },
+    {
+      "id": "v-ven-ventilate",
+      "word": "ventilate",
+      "display": "Ventilate",
+      "phonetic": "",
+      "translation": "使通风",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-vessel",
+      "word": "vessel",
+      "display": "Vessel",
+      "phonetic": "",
+      "translation": "容器",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-vest",
+      "word": "vest",
+      "display": "Vest",
+      "phonetic": "",
+      "translation": "背心;内衣",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-veteran",
+      "word": "veteran",
+      "display": "Veteran",
+      "phonetic": "",
+      "translation": "老手",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-veto",
+      "word": "veto",
+      "display": "Veto",
+      "phonetic": "",
+      "translation": "否决",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-event",
+      "word": "event",
+      "display": "Event",
+      "phonetic": "",
+      "translation": "事件",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-eventual",
+      "word": "eventual",
+      "display": "Eventual",
+      "phonetic": "",
+      "translation": "最后的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-intervene",
+      "word": "intervene",
+      "display": "Intervene",
+      "phonetic": "",
+      "translation": "干预",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-invent",
+      "word": "invent",
+      "display": "Invent",
+      "phonetic": "",
+      "translation": "发明",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-inventory",
+      "word": "inventory",
+      "display": "Inventory",
+      "phonetic": "",
+      "translation": "存货",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-prevent",
+      "word": "prevent",
+      "display": "Prevent",
+      "phonetic": "",
+      "translation": "预防",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-preventive",
+      "word": "preventive",
+      "display": "Preventive",
+      "phonetic": "",
+      "translation": "预防的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-revenue",
+      "word": "revenue",
+      "display": "Revenue",
+      "phonetic": "",
+      "translation": "税收",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-convenience",
+      "word": "convenience",
+      "display": "Convenience",
+      "phonetic": "",
+      "translation": "便利",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-convene",
+      "word": "convene",
+      "display": "Convene",
+      "phonetic": "",
+      "translation": "召集",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-ven-convenient",
+      "word": "convenient",
+      "display": "Convenient",
+      "phonetic": "",
+      "translation": "便利的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-ven",
+      "rootPath": "v>v-ven",
+      "sourceLabel": "ven=vent=come来"
+    },
+    {
+      "id": "v-other-vibrate",
+      "word": "vibrate",
+      "display": "Vibrate",
+      "phonetic": "",
+      "translation": "摇摆",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vicinity",
+      "word": "vicinity",
+      "display": "Vicinity",
+      "phonetic": "",
+      "translation": "邻近",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vigorous",
+      "word": "vigorous",
+      "display": "Vigorous",
+      "phonetic": "",
+      "translation": "朝气蓬勃的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-violence",
+      "word": "violence",
+      "display": "Violence",
+      "phonetic": "",
+      "translation": "猛烈",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-violate",
+      "word": "violate",
+      "display": "Violate",
+      "phonetic": "",
+      "translation": "违背;冒犯",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-violent",
+      "word": "violent",
+      "display": "Violent",
+      "phonetic": "",
+      "translation": "猛烈的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vice",
+      "word": "vice",
+      "display": "Vice",
+      "phonetic": "",
+      "translation": "邪恶",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vicious",
+      "word": "vicious",
+      "display": "Vicious",
+      "phonetic": "",
+      "translation": "恶毒的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-victim",
+      "word": "victim",
+      "display": "Victim",
+      "phonetic": "",
+      "translation": "受害者",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vinegar",
+      "word": "vinegar",
+      "display": "Vinegar",
+      "phonetic": "",
+      "translation": "醋",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-virgin",
+      "word": "virgin",
+      "display": "Virgin",
+      "phonetic": "",
+      "translation": "处女;纯洁的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-virtual",
+      "word": "virtual",
+      "display": "Virtual",
+      "phonetic": "",
+      "translation": "实际上的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-virtue",
+      "word": "virtue",
+      "display": "Virtue",
+      "phonetic": "",
+      "translation": "德行;功效",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-virus",
+      "word": "virus",
+      "display": "Virus",
+      "phonetic": "",
+      "translation": "病毒",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vital",
+      "word": "vital",
+      "display": "Vital",
+      "phonetic": "",
+      "translation": "重大的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vitamin",
+      "word": "vitamin",
+      "display": "Vitamin",
+      "phonetic": "",
+      "translation": "维生素",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vivid",
+      "word": "vivid",
+      "display": "Vivid",
+      "phonetic": "",
+      "translation": "鲜艳的;生动的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-volt",
+      "word": "volt",
+      "display": "Volt",
+      "phonetic": "",
+      "translation": "伏特",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-voltage",
+      "word": "voltage",
+      "display": "Voltage",
+      "phonetic": "",
+      "translation": "电压",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vulgar",
+      "word": "vulgar",
+      "display": "Vulgar",
+      "phonetic": "",
+      "translation": "粗俗的;普通的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-various",
+      "word": "various",
+      "display": "Various",
+      "phonetic": "",
+      "translation": "不同的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-variety",
+      "word": "variety",
+      "display": "Variety",
+      "phonetic": "",
+      "translation": "种类",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vary",
+      "word": "vary",
+      "display": "Vary",
+      "phonetic": "",
+      "translation": "改变",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-variation",
+      "word": "variation",
+      "display": "Variation",
+      "phonetic": "",
+      "translation": "变动",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-variable",
+      "word": "variable",
+      "display": "Variable",
+      "phonetic": "",
+      "translation": "可变的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vegetation",
+      "word": "vegetation",
+      "display": "Vegetation",
+      "phonetic": "",
+      "translation": "植物",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vegtable",
+      "word": "vegtable",
+      "display": "Vegtable",
+      "phonetic": "",
+      "translation": "蔬菜",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-vegetarian",
+      "word": "vegetarian",
+      "display": "Vegetarian",
+      "phonetic": "",
+      "translation": "素食主义者",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-verge",
+      "word": "verge",
+      "display": "Verge",
+      "phonetic": "",
+      "translation": "边缘",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "v-other-verify",
+      "word": "verify",
+      "display": "Verify",
+      "phonetic": "",
+      "translation": "证实",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "v-other",
+      "rootPath": "v>v-other",
+      "sourceLabel": "其他"
+    },
+    {
+      "id": "y-yard",
+      "word": "yard",
+      "display": "Yard",
+      "phonetic": "",
+      "translation": "院子",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "y",
+      "rootPath": "y",
+      "sourceLabel": "Y"
+    },
+    {
+      "id": "y-yawn",
+      "word": "yawn",
+      "display": "Yawn",
+      "phonetic": "",
+      "translation": "打呵欠",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "y",
+      "rootPath": "y",
+      "sourceLabel": "Y"
+    },
+    {
+      "id": "y-yell",
+      "word": "yell",
+      "display": "Yell",
+      "phonetic": "",
+      "translation": "大喊大叫",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "y",
+      "rootPath": "y",
+      "sourceLabel": "Y"
+    },
+    {
+      "id": "y-yield",
+      "word": "yield",
+      "display": "Yield",
+      "phonetic": "",
+      "translation": "生产",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "y",
+      "rootPath": "y",
+      "sourceLabel": "Y"
+    },
+    {
+      "id": "z-zeal",
+      "word": "zeal",
+      "display": "Zeal",
+      "phonetic": "",
+      "translation": "热心",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "z",
+      "rootPath": "z",
+      "sourceLabel": "Z"
+    },
+    {
+      "id": "z-zebra",
+      "word": "zebra",
+      "display": "Zebra",
+      "phonetic": "",
+      "translation": "斑马",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "z",
+      "rootPath": "z",
+      "sourceLabel": "Z"
+    },
+    {
+      "id": "z-zigzag",
+      "word": "zigzag",
+      "display": "Zigzag",
+      "phonetic": "",
+      "translation": "Z字形;弯曲的",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "z",
+      "rootPath": "z",
+      "sourceLabel": "Z"
+    },
+    {
+      "id": "z-zinc",
+      "word": "zinc",
+      "display": "Zinc",
+      "phonetic": "",
+      "translation": "锌",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "z",
+      "rootPath": "z",
+      "sourceLabel": "Z"
+    },
+    {
+      "id": "z-zip",
+      "word": "zip",
+      "display": "Zip",
+      "phonetic": "",
+      "translation": "拉链",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "z",
+      "rootPath": "z",
+      "sourceLabel": "Z"
+    },
+    {
+      "id": "z-zoom",
+      "word": "zoom",
+      "display": "Zoom",
+      "phonetic": "",
+      "translation": "(飞机)陡升",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1,
+      "rootId": "z",
+      "rootPath": "z",
+      "sourceLabel": "Z"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "rootId": "h-hum-homo-homo",
+  "root": "homo\u4eba\u7c7b",
+  "meaning": "homo",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-hum-homo-homo-homage",
+      "word": "homage",
+      "display": "Homage",
+      "phonetic": "",
+      "translation": "\u656c\u610f\uff1b\u670d\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-homager",
+      "word": "homager",
+      "display": "Homager",
+      "phonetic": "",
+      "translation": "\u5c01\u81e3\uff1b\u81f4\u656c\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-homicidomania",
+      "word": "homicidomania",
+      "display": "Homicidomania",
+      "phonetic": "",
+      "translation": "\u6740\u4eba\u72c2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-hominid",
+      "word": "hominid",
+      "display": "Hominid",
+      "phonetic": "",
+      "translation": "\u539f\u59cb\u4eba\u7c7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-hominine",
+      "word": "hominine",
+      "display": "Hominine",
+      "phonetic": "",
+      "translation": "\u4eba\u7c7b\u7684\uff1b\u4eba\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-hominism",
+      "word": "hominism",
+      "display": "Hominism",
+      "phonetic": "",
+      "translation": "\u4eba\u6027\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-hominize",
+      "word": "hominize",
+      "display": "Hominize",
+      "phonetic": "",
+      "translation": "\u4f7f\u4eba\u6027\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-homonid",
+      "word": "homonid",
+      "display": "Homonid",
+      "phonetic": "",
+      "translation": "\u539f\u59cb\u4eba\u7c7b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-human",
+      "word": "human",
+      "display": "Human",
+      "phonetic": "",
+      "translation": "\u4eba\u7c7b\uff1b\u6709\u540c\u60c5\u5fc3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-humanism",
+      "word": "humanism",
+      "display": "Humanism",
+      "phonetic": "",
+      "translation": "\u4eba\u9053\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-humanist",
+      "word": "humanist",
+      "display": "Humanist",
+      "phonetic": "",
+      "translation": "\u4eba\u9053\u4e3b\u4e49\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-humanity",
+      "word": "humanity",
+      "display": "Humanity",
+      "phonetic": "",
+      "translation": "\u4eba\u7c7b\uff1b\u4ec1\u6148",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-humanize",
+      "word": "humanize",
+      "display": "Humanize",
+      "phonetic": "",
+      "translation": "\u8d4b\u4e88\u4eba\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-inhuman",
+      "word": "inhuman",
+      "display": "Inhuman",
+      "phonetic": "",
+      "translation": "\u975e\u4eba\u7684\uff1b\u6b8b\u5fcd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hum-homo-homo-inhumanity",
+      "word": "inhumanity",
+      "display": "Inhumanity",
+      "phonetic": "",
+      "translation": "\u4e0d\u4eba\u9053\u7684\uff1b\u6b8b\u66b4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h-hum-homo",
+  "rootLevel": 3,
+  "rootPath": "h>h-hum-homo>h-hum-homo-homo",
+  "type": "branch",
+  "notes": ""
+}

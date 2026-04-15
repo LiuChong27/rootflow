@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "rootId": "r-straight",
+  "root": "\u76f4",
+  "meaning": "straight",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-straight-correct",
+      "word": "correct",
+      "display": "Correct",
+      "phonetic": "",
+      "translation": "\u7ea0\u6b63\uff1b\u6b63\u786e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-direct",
+      "word": "direct",
+      "display": "Direct",
+      "phonetic": "",
+      "translation": "\u7ba1\u7406\uff1b\u6307\u6325",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-direction",
+      "word": "direction",
+      "display": "Direction",
+      "phonetic": "",
+      "translation": "\u6307\u5bfc\uff1b\u65b9\u5411",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-director",
+      "word": "director",
+      "display": "Director",
+      "phonetic": "",
+      "translation": "\u5bfc\u6f14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-erect",
+      "word": "erect",
+      "display": "Erect",
+      "phonetic": "",
+      "translation": "\u7b14\u76f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-erection",
+      "word": "erection",
+      "display": "Erection",
+      "phonetic": "",
+      "translation": "\u5efa\u7b51\u7269\uff1b\u76f4\u7acb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-indirect",
+      "word": "indirect",
+      "display": "Indirect",
+      "phonetic": "",
+      "translation": "\u95f4\u63a5\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-real",
+      "word": "real",
+      "display": "Real",
+      "phonetic": "",
+      "translation": "\u771f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-reality",
+      "word": "reality",
+      "display": "Reality",
+      "phonetic": "",
+      "translation": "\u73b0\u5b9e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-really",
+      "word": "really",
+      "display": "Really",
+      "phonetic": "",
+      "translation": "\u771f\u6b63\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-realm",
+      "word": "realm",
+      "display": "Realm",
+      "phonetic": "",
+      "translation": "\u738b\u56fd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-reckless",
+      "word": "reckless",
+      "display": "Reckless",
+      "phonetic": "",
+      "translation": "\u4e0d\u6ce8\u610f\u7684\uff1b\u5927\u610f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-reckon",
+      "word": "reckon",
+      "display": "Reckon",
+      "phonetic": "",
+      "translation": "\u8ba1\u7b97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rectangle",
+      "word": "rectangle",
+      "display": "Rectangle",
+      "phonetic": "",
+      "translation": "\u77e9\u9635",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rectify",
+      "word": "rectify",
+      "display": "Rectify",
+      "phonetic": "",
+      "translation": "\u7ea0\u6b63",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-right",
+      "word": "right",
+      "display": "Right",
+      "phonetic": "",
+      "translation": "\u6b63\u786e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rigid",
+      "word": "rigid",
+      "display": "Rigid",
+      "phonetic": "",
+      "translation": "\u521a\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rod",
+      "word": "rod",
+      "display": "Rod",
+      "phonetic": "",
+      "translation": "\u6746\uff1b\u68d2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-roll",
+      "word": "roll",
+      "display": "Roll",
+      "phonetic": "",
+      "translation": "\u5377\uff1b\u6eda\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-roof",
+      "word": "roof",
+      "display": "Roof",
+      "phonetic": "",
+      "translation": "\u5c4b\u9876",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-room",
+      "word": "room",
+      "display": "Room",
+      "phonetic": "",
+      "translation": "\u623f\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-root",
+      "word": "root",
+      "display": "Root",
+      "phonetic": "",
+      "translation": "\u6839\u672c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rope",
+      "word": "rope",
+      "display": "Rope",
+      "phonetic": "",
+      "translation": "\u7ef3\u7d22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rose",
+      "word": "rose",
+      "display": "Rose",
+      "phonetic": "",
+      "translation": "\u73ab\u7470",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rot",
+      "word": "rot",
+      "display": "Rot",
+      "phonetic": "",
+      "translation": "\u8150\u70c2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-rotten",
+      "word": "rotten",
+      "display": "Rotten",
+      "phonetic": "",
+      "translation": "\u8150\u70c2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-round",
+      "word": "round",
+      "display": "Round",
+      "phonetic": "",
+      "translation": "\u5706\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-roundabout",
+      "word": "roundabout",
+      "display": "Roundabout",
+      "phonetic": "",
+      "translation": "\u8fc2\u56de\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-route",
+      "word": "route",
+      "display": "Route",
+      "phonetic": "",
+      "translation": "\u8def\u7ebf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-routine",
+      "word": "routine",
+      "display": "Routine",
+      "phonetic": "",
+      "translation": "\u5e38\u89c4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-straight-row",
+      "word": "row",
+      "display": "Row",
+      "phonetic": "",
+      "translation": "\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r",
+  "rootLevel": 2,
+  "rootPath": "r>r-straight",
+  "type": "root",
+  "notes": ""
+}

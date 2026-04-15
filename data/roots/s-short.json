@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "s-short",
+  "root": "short\u77ed\u7684",
+  "meaning": "short",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-short-shortage",
+      "word": "shortage",
+      "display": "Shortage",
+      "phonetic": "",
+      "translation": "\u4e0d\u8db3\uff1b\u7f3a\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-short-shortcoming",
+      "word": "shortcoming",
+      "display": "Shortcoming",
+      "phonetic": "",
+      "translation": "\u7f3a\u70b9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-short-shorthand",
+      "word": "shorthand",
+      "display": "Shorthand",
+      "phonetic": "",
+      "translation": "\u901f\u8bb0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-short-shortly",
+      "word": "shortly",
+      "display": "Shortly",
+      "phonetic": "",
+      "translation": "\u7acb\u523b\uff1b\u4e0d\u4e45",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-short-shut",
+      "word": "shut",
+      "display": "Shut",
+      "phonetic": "",
+      "translation": "\u5173\u95ed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-short-shutter",
+      "word": "shutter",
+      "display": "Shutter",
+      "phonetic": "",
+      "translation": "\u767e\u53f6\u7a97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-short-shuttle",
+      "word": "shuttle",
+      "display": "Shuttle",
+      "phonetic": "",
+      "translation": "\u7a7f\u68ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-short-sock",
+      "word": "sock",
+      "display": "Sock",
+      "phonetic": "",
+      "translation": "\u77ed\u889c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-short",
+  "type": "root",
+  "notes": ""
+}

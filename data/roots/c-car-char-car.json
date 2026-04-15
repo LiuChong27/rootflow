@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "c-car-char-car",
+  "root": "car\u6c7d\u8f66",
+  "meaning": "car",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-car-char-car-cab",
+      "word": "cab",
+      "display": "Cab",
+      "phonetic": "",
+      "translation": "\u51fa\u79df\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-cabin",
+      "word": "cabin",
+      "display": "Cabin",
+      "phonetic": "",
+      "translation": "\u5ba2\u8231",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-capsule",
+      "word": "capsule",
+      "display": "Capsule",
+      "phonetic": "",
+      "translation": "\u80f6\u56ca\uff1b\u592a\u7a7a\u8231",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-carbohydrate",
+      "word": "carbohydrate",
+      "display": "Carbohydrate",
+      "phonetic": "",
+      "translation": "\u78b3\u6c34\u5316\u5408\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-carbon",
+      "word": "carbon",
+      "display": "Carbon",
+      "phonetic": "",
+      "translation": "\u78b3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-carriage",
+      "word": "carriage",
+      "display": "Carriage",
+      "phonetic": "",
+      "translation": "\u9a6c\u8f66\uff1b\u8fd0\u8f93",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-carrier",
+      "word": "carrier",
+      "display": "Carrier",
+      "phonetic": "",
+      "translation": "\u8f7d\u4f53\uff1b\u642c\u8fd0\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-carry",
+      "word": "carry",
+      "display": "Carry",
+      "phonetic": "",
+      "translation": "\u8fd0\u9001",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-cart",
+      "word": "cart",
+      "display": "Cart",
+      "phonetic": "",
+      "translation": "\u9a6c\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-car-char-car-carter",
+      "word": "carter",
+      "display": "Carter",
+      "phonetic": "",
+      "translation": "\u8fd0\u8d27\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-car-char",
+  "rootLevel": 3,
+  "rootPath": "c>c-car-char>c-car-char-car",
+  "type": "branch",
+  "notes": ""
+}

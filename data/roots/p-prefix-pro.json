@@ -1,0 +1,627 @@
+{
+  "version": 1,
+  "rootId": "p-prefix-pro",
+  "root": "pro\u5411\u524d",
+  "meaning": "forward",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-prefix-pro-portend",
+      "word": "portend",
+      "display": "Portend",
+      "phonetic": "",
+      "translation": "\u9884\u5146",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-portray",
+      "word": "portray",
+      "display": "Portray",
+      "phonetic": "",
+      "translation": "\u63cf\u7ed8\uff1b\u9970\u6f14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-problem",
+      "word": "problem",
+      "display": "Problem",
+      "phonetic": "",
+      "translation": "\u95ee\u9898",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proceed",
+      "word": "proceed",
+      "display": "Proceed",
+      "phonetic": "",
+      "translation": "\u8fdb\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proceeding",
+      "word": "proceeding",
+      "display": "Proceeding",
+      "phonetic": "",
+      "translation": "\u884c\u52a8\uff1b\u8fdb\u884c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-process",
+      "word": "process",
+      "display": "Process",
+      "phonetic": "",
+      "translation": "\u8fc7\u7a0b\uff1b\u52a0\u5de5\uff1b\u5904\u7406",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-procession",
+      "word": "procession",
+      "display": "Procession",
+      "phonetic": "",
+      "translation": "\u961f\u4f0d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proclaim",
+      "word": "proclaim",
+      "display": "Proclaim",
+      "phonetic": "",
+      "translation": "\u5ba3\u79f0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-procure",
+      "word": "procure",
+      "display": "Procure",
+      "phonetic": "",
+      "translation": "\u53d6\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-produce",
+      "word": "produce",
+      "display": "Produce",
+      "phonetic": "",
+      "translation": "\u751f\u4ea7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-product",
+      "word": "product",
+      "display": "Product",
+      "phonetic": "",
+      "translation": "\u4ea7\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-production",
+      "word": "production",
+      "display": "Production",
+      "phonetic": "",
+      "translation": "\u4ea7\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-productivity",
+      "word": "productivity",
+      "display": "Productivity",
+      "phonetic": "",
+      "translation": "\u751f\u4ea7\u7387",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-profession",
+      "word": "profession",
+      "display": "Profession",
+      "phonetic": "",
+      "translation": "\u804c\u4e1a\uff1b\u8868\u767d\uff1b\u5ba3\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-professional",
+      "word": "professional",
+      "display": "Professional",
+      "phonetic": "",
+      "translation": "\u804c\u4e1a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-professor",
+      "word": "professor",
+      "display": "Professor",
+      "phonetic": "",
+      "translation": "\u6559\u6388",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proficiency",
+      "word": "proficiency",
+      "display": "Proficiency",
+      "phonetic": "",
+      "translation": "\u719f\u7ec3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proficient",
+      "word": "proficient",
+      "display": "Proficient",
+      "phonetic": "",
+      "translation": "\u719f\u7ec3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-profit",
+      "word": "profit",
+      "display": "Profit",
+      "phonetic": "",
+      "translation": "\u5229\u6da6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-profitable",
+      "word": "profitable",
+      "display": "Profitable",
+      "phonetic": "",
+      "translation": "\u6709\u5229\u53ef\u56fe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-profuse",
+      "word": "profuse",
+      "display": "Profuse",
+      "phonetic": "",
+      "translation": "\u5927\u91cf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-programme",
+      "word": "programme",
+      "display": "Programme",
+      "phonetic": "",
+      "translation": "\u8282\u76ee\uff1b\u8ba1\u5212\uff1b\u7a0b\u5e8f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-progress",
+      "word": "progress",
+      "display": "Progress",
+      "phonetic": "",
+      "translation": "\u8fdb\u6b65\uff1b\u524d\u8fdb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-progressive",
+      "word": "progressive",
+      "display": "Progressive",
+      "phonetic": "",
+      "translation": "\u8fdb\u6b65\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prohibit",
+      "word": "prohibit",
+      "display": "Prohibit",
+      "phonetic": "",
+      "translation": "\u7981\u6b62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-project",
+      "word": "project",
+      "display": "Project",
+      "phonetic": "",
+      "translation": "\u5de5\u7a0b\uff1b\u9879\u76ee",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-projector",
+      "word": "projector",
+      "display": "Projector",
+      "phonetic": "",
+      "translation": "\u9879\u76ee\uff1b\u6295\u5f71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prologue",
+      "word": "prologue",
+      "display": "Prologue",
+      "phonetic": "",
+      "translation": "\u524d\u8a00\uff1b\u5e8f\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prolong",
+      "word": "prolong",
+      "display": "Prolong",
+      "phonetic": "",
+      "translation": "\u5ef6\u957f\uff1b\u62d6\u5ef6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prominent",
+      "word": "prominent",
+      "display": "Prominent",
+      "phonetic": "",
+      "translation": "\u663e\u8457\u7684\uff1b\u6770\u51fa\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-promise",
+      "word": "promise",
+      "display": "Promise",
+      "phonetic": "",
+      "translation": "\u5141\u8bb8\uff1b\u7b54\u5e94",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-promotion",
+      "word": "promotion",
+      "display": "Promotion",
+      "phonetic": "",
+      "translation": "\u63a8\u52a8\uff1b\u4fc3\u8fdb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-pronoun",
+      "word": "pronoun",
+      "display": "Pronoun",
+      "phonetic": "",
+      "translation": "\u4ee3\u8bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-pronounce",
+      "word": "pronounce",
+      "display": "Pronounce",
+      "phonetic": "",
+      "translation": "\u5ba3\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-pronunciation",
+      "word": "pronunciation",
+      "display": "Pronunciation",
+      "phonetic": "",
+      "translation": "\u53d1\u97f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proof",
+      "word": "proof",
+      "display": "Proof",
+      "phonetic": "",
+      "translation": "\u8bc1\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-propaganda",
+      "word": "propaganda",
+      "display": "Propaganda",
+      "phonetic": "",
+      "translation": "\u5ba3\u4f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-propel",
+      "word": "propel",
+      "display": "Propel",
+      "phonetic": "",
+      "translation": "\u63a8\u8fdb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-propell",
+      "word": "propell",
+      "display": "Propell",
+      "phonetic": "",
+      "translation": "\u63a8\u8fdb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prophet",
+      "word": "prophet",
+      "display": "Prophet",
+      "phonetic": "",
+      "translation": "\u9884\u8a00\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proposal",
+      "word": "proposal",
+      "display": "Proposal",
+      "phonetic": "",
+      "translation": "\u5efa\u8bae\uff1b\u6c42\u5a5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-proposition",
+      "word": "proposition",
+      "display": "Proposition",
+      "phonetic": "",
+      "translation": "\u4e3b\u5f20\uff1b\u5efa\u8bae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prose",
+      "word": "prose",
+      "display": "Prose",
+      "phonetic": "",
+      "translation": "\u6563\u6587",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prosecute",
+      "word": "prosecute",
+      "display": "Prosecute",
+      "phonetic": "",
+      "translation": "\u544a\u53d1\uff1b\u8d77\u8bc9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prosper",
+      "word": "prosper",
+      "display": "Prosper",
+      "phonetic": "",
+      "translation": "\u6210\u529f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prosperity",
+      "word": "prosperity",
+      "display": "Prosperity",
+      "phonetic": "",
+      "translation": "\u7e41\u8363\uff1b\u6210\u529f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-prosperous",
+      "word": "prosperous",
+      "display": "Prosperous",
+      "phonetic": "",
+      "translation": "\u7e41\u8363\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-protest",
+      "word": "protest",
+      "display": "Protest",
+      "phonetic": "",
+      "translation": "\u4e3b\u5f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-protrude",
+      "word": "protrude",
+      "display": "Protrude",
+      "phonetic": "",
+      "translation": "\u5411\u524d\u7a81\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-provident",
+      "word": "provident",
+      "display": "Provident",
+      "phonetic": "",
+      "translation": "\u6709\u8fdc\u89c1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pro-provoke",
+      "word": "provoke",
+      "display": "Provoke",
+      "phonetic": "",
+      "translation": "\u6fc0\u6012",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p-prefix",
+  "rootLevel": 3,
+  "rootPath": "p>p-prefix>p-prefix-pro",
+  "type": "branch",
+  "notes": ""
+}

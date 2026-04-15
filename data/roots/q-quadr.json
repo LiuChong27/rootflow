@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "q-quadr",
+  "root": "quadr=quadri \u56db",
+  "meaning": "four",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "q-quadr-quart",
+      "word": "quart",
+      "display": "Quart",
+      "phonetic": "",
+      "translation": "\u5938\u8131",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quadr-quarter",
+      "word": "quarter",
+      "display": "Quarter",
+      "phonetic": "",
+      "translation": "\u56db\u5206\u4e4b\u4e00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quadr-quarterly",
+      "word": "quarterly",
+      "display": "Quarterly",
+      "phonetic": "",
+      "translation": "\u6bcf\u5b63\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "q-quadr-quartz",
+      "word": "quartz",
+      "display": "Quartz",
+      "phonetic": "",
+      "translation": "\u77f3\u82f1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "q",
+  "rootLevel": 2,
+  "rootPath": "q>q-quadr",
+  "type": "root",
+  "notes": ""
+}

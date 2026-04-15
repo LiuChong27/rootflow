@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "b-by",
+  "root": "by\u5728\u65c1\u8fb9",
+  "meaning": "beside",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-by-byname",
+      "word": "byname",
+      "display": "Byname",
+      "phonetic": "",
+      "translation": "\u7ef0\u53f7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-by-bypass",
+      "word": "bypass",
+      "display": "Bypass",
+      "phonetic": "",
+      "translation": "\u65c1\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-by-bypast",
+      "word": "bypast",
+      "display": "Bypast",
+      "phonetic": "",
+      "translation": "\u8fc7\u53bb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-by-bypath",
+      "word": "bypath",
+      "display": "Bypath",
+      "phonetic": "",
+      "translation": "\u5c0f\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-by-byroad",
+      "word": "byroad",
+      "display": "Byroad",
+      "phonetic": "",
+      "translation": "\u4fa7\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-by-byword",
+      "word": "byword",
+      "display": "Byword",
+      "phonetic": "",
+      "translation": "\u683c\u8a00\uff1b\u8c1a\u8bed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-by",
+  "type": "prefix",
+  "notes": ""
+}

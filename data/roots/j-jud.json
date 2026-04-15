@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "j-jud",
+  "root": "jud\u5224\u65ad\uff1b\u6cd5\u5b98",
+  "meaning": "judge",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-jud-judge",
+      "word": "judge",
+      "display": "Judge",
+      "phonetic": "",
+      "translation": "\u6cd5\u5b98\uff1b\u5ba1\u5224\uff1b\u8bc4\u8bba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-jud-judgement",
+      "word": "judgement",
+      "display": "Judgement",
+      "phonetic": "",
+      "translation": "\u5224\u65ad\u529b\uff1b\u770b\u6cd5\uff1b\u5224\u51b3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-jud-judicial",
+      "word": "judicial",
+      "display": "Judicial",
+      "phonetic": "",
+      "translation": "\u53f8\u6cd5\u7684\uff1b\u5ba1\u5224\u7684\uff1b\u516c\u6b63\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-jud-prejudice",
+      "word": "prejudice",
+      "display": "Prejudice",
+      "phonetic": "",
+      "translation": "\u9884\u5148\u5224\u65ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-jud",
+  "type": "root",
+  "notes": ""
+}

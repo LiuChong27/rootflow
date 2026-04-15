@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "t-trans",
+  "root": "trans",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-trans-thorough",
+      "word": "thorough",
+      "display": "Thorough",
+      "phonetic": "",
+      "translation": "\u5f7b\u5e95\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-through",
+      "word": "through",
+      "display": "Through",
+      "phonetic": "",
+      "translation": "\u7a7f\u8fc7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-throughout",
+      "word": "throughout",
+      "display": "Throughout",
+      "phonetic": "",
+      "translation": "\u8d2f\u7a7f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transaction",
+      "word": "transaction",
+      "display": "Transaction",
+      "phonetic": "",
+      "translation": "\u5904\u7406\uff1b\u4ea4\u6613",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transcend",
+      "word": "transcend",
+      "display": "Transcend",
+      "phonetic": "",
+      "translation": "\u8d85\u51fa",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transfer",
+      "word": "transfer",
+      "display": "Transfer",
+      "phonetic": "",
+      "translation": "\u8f6c\u79fb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transform",
+      "word": "transform",
+      "display": "Transform",
+      "phonetic": "",
+      "translation": "\u6539\u53d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transient",
+      "word": "transient",
+      "display": "Transient",
+      "phonetic": "",
+      "translation": "\u77ed\u6682\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transistor",
+      "word": "transistor",
+      "display": "Transistor",
+      "phonetic": "",
+      "translation": "\u6676\u4f53\u7ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-translate",
+      "word": "translate",
+      "display": "Translate",
+      "phonetic": "",
+      "translation": "\u7ffb\u8bd1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-translation",
+      "word": "translation",
+      "display": "Translation",
+      "phonetic": "",
+      "translation": "\u7ffb\u8bd1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transmission",
+      "word": "transmission",
+      "display": "Transmission",
+      "phonetic": "",
+      "translation": "\u53d1\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transmit",
+      "word": "transmit",
+      "display": "Transmit",
+      "phonetic": "",
+      "translation": "\u53d1\u5c04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transparent",
+      "word": "transparent",
+      "display": "Transparent",
+      "phonetic": "",
+      "translation": "\u900f\u660e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transplant",
+      "word": "transplant",
+      "display": "Transplant",
+      "phonetic": "",
+      "translation": "\u8fd0\u8f93",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-trans-transport",
+      "word": "transport",
+      "display": "Transport",
+      "phonetic": "",
+      "translation": "\u8fd0\u8f93",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-trans",
+  "type": "root",
+  "notes": ""
+}

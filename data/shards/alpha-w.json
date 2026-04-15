@@ -1,0 +1,542 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-w",
+  "rootIds": [
+    "w"
+  ],
+  "roots": {
+    "w": {
+      "version": 1,
+      "rootId": "w",
+      "root": "W",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "w-wage",
+          "word": "wage",
+          "display": "Wage",
+          "phonetic": "",
+          "translation": "\u5de5\u8d44",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wagon",
+          "word": "wagon",
+          "display": "Wagon",
+          "phonetic": "",
+          "translation": "\u8d27\u8fd0\u8f66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-waist",
+          "word": "waist",
+          "display": "Waist",
+          "phonetic": "",
+          "translation": "\u8170\u90e8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wake",
+          "word": "wake",
+          "display": "Wake",
+          "phonetic": "",
+          "translation": "\u5524\u9192",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-waken",
+          "word": "waken",
+          "display": "Waken",
+          "phonetic": "",
+          "translation": "\u5f04\u9192",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wallet",
+          "word": "wallet",
+          "display": "Wallet",
+          "phonetic": "",
+          "translation": "\u94b1\u5305",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wander",
+          "word": "wander",
+          "display": "Wander",
+          "phonetic": "",
+          "translation": "\u6f2b\u6b65",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-war",
+          "word": "war",
+          "display": "War",
+          "phonetic": "",
+          "translation": "\u6218\u4e89",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-ward",
+          "word": "ward",
+          "display": "Ward",
+          "phonetic": "",
+          "translation": "\u75c5\u623f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wardrobe",
+          "word": "wardrobe",
+          "display": "Wardrobe",
+          "phonetic": "",
+          "translation": "\u8863\u67dc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-warehouse",
+          "word": "warehouse",
+          "display": "Warehouse",
+          "phonetic": "",
+          "translation": "\u4ed3\u5e93",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-warfare",
+          "word": "warfare",
+          "display": "Warfare",
+          "phonetic": "",
+          "translation": "\u6218\u4e89",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-warm",
+          "word": "warm",
+          "display": "Warm",
+          "phonetic": "",
+          "translation": "\u6e29\u6696\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-warmth",
+          "word": "warmth",
+          "display": "Warmth",
+          "phonetic": "",
+          "translation": "\u6e29\u6696",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-warn",
+          "word": "warn",
+          "display": "Warn",
+          "phonetic": "",
+          "translation": "\u8b66\u544a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-warp",
+          "word": "warp",
+          "display": "Warp",
+          "phonetic": "",
+          "translation": "\u88f9\u4f4f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-warrant",
+          "word": "warrant",
+          "display": "Warrant",
+          "phonetic": "",
+          "translation": "\u4fdd\u8bc1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-waterproof",
+          "word": "waterproof",
+          "display": "Waterproof",
+          "phonetic": "",
+          "translation": "\u9632\u6c34\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-watt",
+          "word": "watt",
+          "display": "Watt",
+          "phonetic": "",
+          "translation": "\u74e6\u7279",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wave",
+          "word": "wave",
+          "display": "Wave",
+          "phonetic": "",
+          "translation": "\u6325\u624b\u793a\u610f\uff1b\u98d8\u626c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wax",
+          "word": "wax",
+          "display": "Wax",
+          "phonetic": "",
+          "translation": "\u8702\u8721",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-weapon",
+          "word": "weapon",
+          "display": "Weapon",
+          "phonetic": "",
+          "translation": "\u6b66\u5668",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-weary",
+          "word": "weary",
+          "display": "Weary",
+          "phonetic": "",
+          "translation": "\u75b2\u5026\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-weave",
+          "word": "weave",
+          "display": "Weave",
+          "phonetic": "",
+          "translation": "\u7f16\u7ec7\u6cd5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wedge",
+          "word": "wedge",
+          "display": "Wedge",
+          "phonetic": "",
+          "translation": "\u6954\u5f62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-weird",
+          "word": "weird",
+          "display": "Weird",
+          "phonetic": "",
+          "translation": "\u53e4\u602a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-weld",
+          "word": "weld",
+          "display": "Weld",
+          "phonetic": "",
+          "translation": "\u710a\u63a5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-whirl",
+          "word": "whirl",
+          "display": "Whirl",
+          "phonetic": "",
+          "translation": "\u65cb\u8f6c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-whisky",
+          "word": "whisky",
+          "display": "Whisky",
+          "phonetic": "",
+          "translation": "\u5a01\u58eb\u5fcc\u9152",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wire",
+          "word": "wire",
+          "display": "Wire",
+          "phonetic": "",
+          "translation": "\u7535\u7ebf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wis",
+          "word": "wis=wit",
+          "display": "Wis=wit",
+          "phonetic": "",
+          "translation": "\u660e\u667a\u7684\uff1b\u77e5\u9053\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wit",
+          "word": "wit",
+          "display": "Wit",
+          "phonetic": "",
+          "translation": "\u624d\u667a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-with",
+          "word": "with",
+          "display": "With",
+          "phonetic": "",
+          "translation": "\u76f8\u53cd\uff1b\u5bf9\u6297",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-withdraw",
+          "word": "withdraw",
+          "display": "Withdraw",
+          "phonetic": "",
+          "translation": "\u64a4\u56de",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-withstand",
+          "word": "withstand",
+          "display": "Withstand",
+          "phonetic": "",
+          "translation": "\u62b5\u6297",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wizard",
+          "word": "wizard",
+          "display": "Wizard",
+          "phonetic": "",
+          "translation": "\u672f\u58eb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wool",
+          "word": "wool",
+          "display": "Wool",
+          "phonetic": "",
+          "translation": "\u7f8a\u6bdb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-worm",
+          "word": "worm",
+          "display": "Worm",
+          "phonetic": "",
+          "translation": "\u8815\u866b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wreath",
+          "word": "wreath",
+          "display": "Wreath",
+          "phonetic": "",
+          "translation": "\u82b1\u5708",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wreck",
+          "word": "wreck",
+          "display": "Wreck",
+          "phonetic": "",
+          "translation": "\u9047\u96be",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wrench",
+          "word": "wrench",
+          "display": "Wrench",
+          "phonetic": "",
+          "translation": "\u6323\u8131",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wretched",
+          "word": "wretched",
+          "display": "Wretched",
+          "phonetic": "",
+          "translation": "\u53ef\u601c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "w-wrist",
+          "word": "wrist",
+          "display": "Wrist",
+          "phonetic": "",
+          "translation": "\u5173\u8282",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "w",
+      "type": "root",
+      "notes": ""
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "c-clar-clear-declare",
+  "root": "declare\u5ba3\u79f0\uff1b\u58f0\u660e\uff1b\u7533\u62a5",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-clar-clear-declare",
+      "word": "declare",
+      "display": "Declare",
+      "phonetic": "",
+      "translation": "\u5ba3\u79f0\uff1b\u58f0\u660e\uff1b\u7533\u62a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-clar-clear-declare-declaration",
+      "word": "declaration",
+      "display": "Declaration",
+      "phonetic": "",
+      "translation": "\u5ba3\u5e03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-clar-clear-declare-declarative",
+      "word": "declarative",
+      "display": "Declarative",
+      "phonetic": "",
+      "translation": "\u5ba3\u8a00\u7684\uff1b\u516c\u5e03\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-clar-clear-declare-declarer",
+      "word": "declarer",
+      "display": "Declarer",
+      "phonetic": "",
+      "translation": "\u5ba3\u8a00\u8005\uff1b\u7533\u62a5\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-clar-clear",
+  "rootLevel": 3,
+  "rootPath": "c>c-clar-clear>c-clar-clear-declare",
+  "type": "branch",
+  "notes": ""
+}

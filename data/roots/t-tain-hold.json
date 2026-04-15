@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "t-tain-hold",
+  "root": "tain=ten=tin=hold",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-tain-hold-tow",
+      "word": "tow",
+      "display": "Tow",
+      "phonetic": "",
+      "translation": "\u62d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-hold-toward",
+      "word": "toward",
+      "display": "Toward",
+      "phonetic": "",
+      "translation": "\u671d\u5411",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-hold-tuck",
+      "word": "tuck",
+      "display": "Tuck",
+      "phonetic": "",
+      "translation": "\u5377\u8d77",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-hold-tug",
+      "word": "tug",
+      "display": "Tug",
+      "phonetic": "",
+      "translation": "\u62d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-hold-turn",
+      "word": "turn",
+      "display": "Turn",
+      "phonetic": "",
+      "translation": "\u8f6c\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tain-hold-turnover",
+      "word": "turnover",
+      "display": "Turnover",
+      "phonetic": "",
+      "translation": "\u7ffb\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-tain-hold",
+  "type": "root",
+  "notes": ""
+}

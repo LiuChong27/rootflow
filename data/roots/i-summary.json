@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "i-summary",
+  "root": "\u5c0f\u7ed3",
+  "meaning": "summary",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "i-summary-en",
+      "word": "en \u8fdb\u5165",
+      "display": "en \u8fdb\u5165",
+      "phonetic": "",
+      "translation": "\u8fdb\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-summary-in",
+      "word": "in \u8fdb\u5165 \u4f7f\u52a8 \u5426\u5b9a \u52a0\u5f3a \u4f7f\u52a8",
+      "display": "in \u8fdb\u5165 \u4f7f\u52a8 \u5426\u5b9a \u52a0\u5f3a \u4f7f\u52a8",
+      "phonetic": "",
+      "translation": "\u8fdb\u5165\uff1b\u4f7f\u52a8\uff1b\u5426\u5b9a\uff1b\u52a0\u5f3a\uff1b\u4f7f\u52a8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-summary-ir-il-im",
+      "word": "=ir il im \u5426\u5b9a",
+      "display": "=ir il im \u5426\u5b9a",
+      "phonetic": "",
+      "translation": "\u5426\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-summary-un",
+      "word": "un \u5426\u5b9a",
+      "display": "un \u5426\u5b9a",
+      "phonetic": "",
+      "translation": "\u5426\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "i",
+  "rootLevel": 2,
+  "rootPath": "i>i-summary",
+  "type": "root",
+  "notes": ""
+}

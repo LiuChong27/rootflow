@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "m-important-summary",
+  "root": "\u5c0f\u7ed3",
+  "meaning": "summary",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [],
+  "parentRootId": "m-important",
+  "rootLevel": 3,
+  "rootPath": "m>m-important>m-important-summary",
+  "type": "branch",
+  "notes": ""
+}

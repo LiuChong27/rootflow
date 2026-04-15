@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "rootId": "f-other-fict",
+  "root": "fict=fig\u5851\u9020\u865a\u6784",
+  "meaning": "fict",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-other-fict-configuration",
+      "word": "configuration",
+      "display": "Configuration",
+      "phonetic": "",
+      "translation": "\u6784\u9020",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-configure",
+      "word": "configure",
+      "display": "Configure",
+      "phonetic": "",
+      "translation": "\u914d\u7f6e\uff1b\u8bbe\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-disfigure",
+      "word": "disfigure",
+      "display": "Disfigure",
+      "phonetic": "",
+      "translation": "\u4f7f\u53d8\u4e11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-effigy",
+      "word": "effigy",
+      "display": "Effigy",
+      "phonetic": "",
+      "translation": "\u8096\u50cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-feign",
+      "word": "feign",
+      "display": "Feign",
+      "phonetic": "",
+      "translation": "\u5047\u88c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-feint",
+      "word": "feint",
+      "display": "Feint",
+      "phonetic": "",
+      "translation": "\u5047\u8c61",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-fictile",
+      "word": "fictile",
+      "display": "Fictile",
+      "phonetic": "",
+      "translation": "\u5851\u9020\u7684\u53ef\u5851\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-fiction",
+      "word": "fiction",
+      "display": "Fiction",
+      "phonetic": "",
+      "translation": "\u865a\u6784\uff1b\u5c0f\u8bf4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-fictional",
+      "word": "fictional",
+      "display": "Fictional",
+      "phonetic": "",
+      "translation": "\u865a\u6784\u7684\uff1b\u5c0f\u8bf4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-fictionalize",
+      "word": "fictionalize",
+      "display": "Fictionalize",
+      "phonetic": "",
+      "translation": "\u4f7f\u5c0f\u8bf4\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-fictionist",
+      "word": "fictionist",
+      "display": "Fictionist",
+      "phonetic": "",
+      "translation": "\u5c0f\u8bf4\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-fictitious",
+      "word": "fictitious",
+      "display": "Fictitious",
+      "phonetic": "",
+      "translation": "\u865a\u6784\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-fictive",
+      "word": "fictive",
+      "display": "Fictive",
+      "phonetic": "",
+      "translation": "\u865a\u6784\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-figment",
+      "word": "figment",
+      "display": "Figment",
+      "phonetic": "",
+      "translation": "\u865a\u6784\u7684\u4e8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-figuration",
+      "word": "figuration",
+      "display": "Figuration",
+      "phonetic": "",
+      "translation": "\u5b9a\u5f62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-figurative",
+      "word": "figurative",
+      "display": "Figurative",
+      "phonetic": "",
+      "translation": "\u6bd4\u55bb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-figure",
+      "word": "figure",
+      "display": "Figure",
+      "phonetic": "",
+      "translation": "\u8f6e\u5ed3\uff1b\u6570\u5b57\uff1b\u5f62\u72b6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-nonfiction",
+      "word": "nonfiction",
+      "display": "Nonfiction",
+      "phonetic": "",
+      "translation": "\u975e\u5c0f\u8bf4\u7684\u6563\u6587\u6587\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-prefigure",
+      "word": "prefigure",
+      "display": "Prefigure",
+      "phonetic": "",
+      "translation": "\u9884\u60f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fict-transfigure",
+      "word": "transfigure",
+      "display": "Transfigure",
+      "phonetic": "",
+      "translation": "\u4f7f\u53d8\u5f62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-other",
+  "rootLevel": 3,
+  "rootPath": "f>f-other>f-other-fict",
+  "type": "branch",
+  "notes": ""
+}

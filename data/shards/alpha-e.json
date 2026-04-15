@@ -1,9 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09",
+  "updatedAt": "2026-04-15",
   "strategy": "alpha",
   "shardId": "alpha-e",
   "rootIds": [
+    "e",
+    "e-eco",
+    "e-eco-ecology",
+    "e-eco-economic",
+    "e-ed",
+    "e-ego",
+    "e-electr",
+    "e-en-em",
+    "e-equ",
+    "e-equ-equal",
+    "e-equ-meaning",
+    "e-equ-physics",
+    "e-equ-politics",
+    "e-err",
+    "e-err-aberrant",
+    "e-err-error",
+    "e-ess-est",
+    "e-ess-est-absent",
+    "e-ess-est-essence",
+    "e-ev",
+    "e-prefix",
+    "e-prefix-abstract",
+    "e-prefix-action",
+    "e-prefix-strengthen",
+    "e-prefix-surpass",
     "enact",
     "enactment",
     "enamour",
@@ -13,13 +38,3275 @@
     "exigency"
   ],
   "roots": {
+    "e": {
+      "version": 1,
+      "rootId": "e",
+      "root": "E",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "e",
+      "type": "root",
+      "notes": "\u6839\u636eE.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "e-eco": {
+      "version": 1,
+      "rootId": "e-eco",
+      "root": "eco\u751f\u6001",
+      "meaning": "eco",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-eco",
+      "type": "root",
+      "notes": ""
+    },
+    "e-eco-ecology": {
+      "version": 1,
+      "rootId": "e-eco-ecology",
+      "root": "ecology\u751f\u6001\u5b66",
+      "meaning": "ecology",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-eco-ecology-ecoagriculture",
+          "word": "ecoagriculture",
+          "display": "Ecoagriculture",
+          "phonetic": "",
+          "translation": "\u751f\u6001\u519c\u4e1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-eco-ecology-ecology",
+          "word": "ecology",
+          "display": "Ecology",
+          "phonetic": "",
+          "translation": "\u751f\u6001\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-eco-ecology-ecosystem",
+          "word": "ecosystem",
+          "display": "Ecosystem",
+          "phonetic": "",
+          "translation": "\u751f\u6001\u7cfb\u7edf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-eco",
+      "rootLevel": 3,
+      "rootPath": "e>e-eco>e-eco-ecology",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-eco-economic": {
+      "version": 1,
+      "rootId": "e-eco-economic",
+      "root": "economic\u7ecf\u6d4e\u5b66\u7684",
+      "meaning": "economic",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-eco-economic-economic",
+          "word": "economic",
+          "display": "Economic",
+          "phonetic": "",
+          "translation": "\u7ecf\u6d4e\u5b66\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-eco-economic-economical",
+          "word": "economical",
+          "display": "Economical",
+          "phonetic": "",
+          "translation": "\u8282\u7ea6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-eco-economic-economics",
+          "word": "economics",
+          "display": "Economics",
+          "phonetic": "",
+          "translation": "\u7ecf\u6d4e\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-eco-economic-economize",
+          "word": "economize",
+          "display": "Economize",
+          "phonetic": "",
+          "translation": "\u8282\u7ea6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-eco-economic-economy",
+          "word": "economy",
+          "display": "Economy",
+          "phonetic": "",
+          "translation": "\u8282\u7ea6\uff1b\u7ecf\u6d4e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-eco",
+      "rootLevel": 3,
+      "rootPath": "e>e-eco>e-eco-economic",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-ed": {
+      "version": 1,
+      "rootId": "e-ed",
+      "root": "ed=eat\u5403 \u8c10\u97f3\u997f\u7684",
+      "meaning": "ed",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-ed-edacious",
+          "word": "edacious",
+          "display": "Edacious",
+          "phonetic": "",
+          "translation": "\u8d2a\u5403\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ed-edacity",
+          "word": "edacity",
+          "display": "Edacity",
+          "phonetic": "",
+          "translation": "\u72fc\u541e\u864e\u54bd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ed-edibility",
+          "word": "edibility",
+          "display": "Edibility",
+          "phonetic": "",
+          "translation": "\u53ef\u98df\u6027",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ed-edible",
+          "word": "edible",
+          "display": "Edible",
+          "phonetic": "",
+          "translation": "\u53ef\u98df\u7528\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ed-edibleness",
+          "word": "edibleness",
+          "display": "Edibleness",
+          "phonetic": "",
+          "translation": "\u98df\u7528\u4ef7\u503c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ed-inedible",
+          "word": "inedible",
+          "display": "Inedible",
+          "phonetic": "",
+          "translation": "\u4e0d\u53ef\u98df\u7528\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-ed",
+      "type": "root",
+      "notes": ""
+    },
+    "e-ego": {
+      "version": 1,
+      "rootId": "e-ego",
+      "root": "ego\u81ea\u6211",
+      "meaning": "ego",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-ego-egocentric",
+          "word": "egocentric",
+          "display": "Egocentric",
+          "phonetic": "",
+          "translation": "\u81ea\u6211\u4e2d\u5fc3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-egocentricity",
+          "word": "egocentricity",
+          "display": "Egocentricity",
+          "phonetic": "",
+          "translation": "\u81ea\u6211\u4e2d\u5fc3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-egoism",
+          "word": "egoism",
+          "display": "Egoism",
+          "phonetic": "",
+          "translation": "\u81ea\u6211\u4e3b\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-egoist",
+          "word": "egoist",
+          "display": "Egoist",
+          "phonetic": "",
+          "translation": "\u81ea\u6211\u4e3b\u4e49\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-egotism",
+          "word": "egotism",
+          "display": "Egotism",
+          "phonetic": "",
+          "translation": "\u81ea\u6211\u4e2d\u5fc3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-egotistic",
+          "word": "egotistic",
+          "display": "Egotistic",
+          "phonetic": "",
+          "translation": "\u4efb\u6027\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-egotize",
+          "word": "egotize",
+          "display": "Egotize",
+          "phonetic": "",
+          "translation": "\u8fc7\u5206\u5f3a\u8c03\u81ea\u6211",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-egotrip",
+          "word": "egotrip",
+          "display": "Egotrip",
+          "phonetic": "",
+          "translation": "\u8ffd\u540d\u9010\u5229",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ego-equal",
+          "word": "equal",
+          "display": "Equal",
+          "phonetic": "",
+          "translation": "\u76f8\u7b49\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-ego",
+      "type": "root",
+      "notes": ""
+    },
+    "e-electr": {
+      "version": 1,
+      "rootId": "e-electr",
+      "root": "electr\u7425\u73c0 \u6469\u64e6\u5e26\u7535",
+      "meaning": "electr",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-electr-electric",
+          "word": "electric",
+          "display": "Electric",
+          "phonetic": "",
+          "translation": "\u7535\u7684\uff1b\u5bfc\u7535\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-electr-electrical",
+          "word": "electrical",
+          "display": "Electrical",
+          "phonetic": "",
+          "translation": "\u5bfc\u7535\u7684\uff1b\u7535\u52a8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-electr-electrician",
+          "word": "electrician",
+          "display": "Electrician",
+          "phonetic": "",
+          "translation": "\u7535\u7684\uff1b\u7535\u5b66\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-electr-electricity",
+          "word": "electricity",
+          "display": "Electricity",
+          "phonetic": "",
+          "translation": "\u7535\u6d41",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-electr-electron",
+          "word": "electron",
+          "display": "Electron",
+          "phonetic": "",
+          "translation": "\u7535\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-electr-electronic",
+          "word": "electronic",
+          "display": "Electronic",
+          "phonetic": "",
+          "translation": "\u7535\u5b50\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-electr",
+      "type": "root",
+      "notes": ""
+    },
+    "e-en-em": {
+      "version": 1,
+      "rootId": "e-en-em",
+      "root": "en/em \u4f7f\u52a8 \u8d4b\u4e88",
+      "meaning": "en/em",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-en-em-embark",
+          "word": "embark",
+          "display": "Embark",
+          "phonetic": "",
+          "translation": "\u7740\u624b\uff1b\u4ece\u4e8b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-embody",
+          "word": "embody",
+          "display": "Embody",
+          "phonetic": "",
+          "translation": "\u4f7f\u5177\u4f53\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-embrace",
+          "word": "embrace",
+          "display": "Embrace",
+          "phonetic": "",
+          "translation": "\u62e5\u62b1\uff1b\u91c7\u7528\uff1b\u63a5\u53d7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-employ",
+          "word": "employ",
+          "display": "Employ",
+          "phonetic": "",
+          "translation": "\u96c7\u7528\uff1b\u4f7f\u7528",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-employee",
+          "word": "employee",
+          "display": "Employee",
+          "phonetic": "",
+          "translation": "\u96c7\u5de5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-employer",
+          "word": "employer",
+          "display": "Employer",
+          "phonetic": "",
+          "translation": "\u96c7\u4e3b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-employment",
+          "word": "employment",
+          "display": "Employment",
+          "phonetic": "",
+          "translation": "\u96c7\u4f63\uff1b\u804c\u4e1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-empty",
+          "word": "empty",
+          "display": "Empty",
+          "phonetic": "",
+          "translation": "\u4f7f...\u53d8\u7a7a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enable",
+          "word": "enable",
+          "display": "Enable",
+          "phonetic": "",
+          "translation": "\u4f7f\u80fd\u591f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enforce",
+          "word": "enforce",
+          "display": "Enforce",
+          "phonetic": "",
+          "translation": "\u5b9e\u65bd\uff1b\u6267\u884c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-engage",
+          "word": "engage",
+          "display": "Engage",
+          "phonetic": "",
+          "translation": "\u7740\u624b\u8ba2\u5a5a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-engagement",
+          "word": "engagement",
+          "display": "Engagement",
+          "phonetic": "",
+          "translation": "\u8ba2\u5a5a\uff1b\u7ea6\u4f1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enjoy",
+          "word": "enjoy",
+          "display": "Enjoy",
+          "phonetic": "",
+          "translation": "\u4eab\u53d7\u4e50\u8da3\uff1b\u6b23\u8d4f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enlighten",
+          "word": "enlighten",
+          "display": "Enlighten",
+          "phonetic": "",
+          "translation": "\u542f\u53d1\uff1b\u6559\u5bfc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enroll",
+          "word": "enroll",
+          "display": "Enroll",
+          "phonetic": "",
+          "translation": "\u6210\u4e3a\u4f1a\u5458\uff1b\u62db\u6536",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-ensure",
+          "word": "ensure",
+          "display": "Ensure",
+          "phonetic": "",
+          "translation": "\u786e\u4fdd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-entail",
+          "word": "entail",
+          "display": "Entail",
+          "phonetic": "",
+          "translation": "\u4f7f\u627f\u62c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enter",
+          "word": "enter",
+          "display": "Enter",
+          "phonetic": "",
+          "translation": "\u8fdb\u5165\uff1b\u53c2\u52a0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enterprise",
+          "word": "enterprise",
+          "display": "Enterprise",
+          "phonetic": "",
+          "translation": "\u4e8b\u4e1a\uff1b\u8fdb\u53d6\u5fc3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-entertain",
+          "word": "entertain",
+          "display": "Entertain",
+          "phonetic": "",
+          "translation": "\u62db\u5f85\uff1b\u4f7f\u5feb\u4e50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-entertainment",
+          "word": "entertainment",
+          "display": "Entertainment",
+          "phonetic": "",
+          "translation": "\u62db\u5f85\uff1b\u5bbd\u5e26",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enthusiasm",
+          "word": "enthusiasm",
+          "display": "Enthusiasm",
+          "phonetic": "",
+          "translation": "\u70ed\u5fc3\uff1b\u70ed\u60c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-enthusiastic",
+          "word": "enthusiastic",
+          "display": "Enthusiastic",
+          "phonetic": "",
+          "translation": "\u70ed\u60c5\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-entitle",
+          "word": "entitle",
+          "display": "Entitle",
+          "phonetic": "",
+          "translation": "\u6388\u6743\uff1b\u7ed9...\u79f0\u53f7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-entity",
+          "word": "entity",
+          "display": "Entity",
+          "phonetic": "",
+          "translation": "\u672c\u8d28\uff1b\u5b9e\u4f53",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-entrance",
+          "word": "entrance",
+          "display": "Entrance",
+          "phonetic": "",
+          "translation": "\u5165\u53e3\uff1b\u5165\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-entrepreneur",
+          "word": "entrepreneur",
+          "display": "Entrepreneur",
+          "phonetic": "",
+          "translation": "\u4f01\u4e1a\u5bb6\uff1b\u4e3b\u529e\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-envisage",
+          "word": "envisage",
+          "display": "Envisage",
+          "phonetic": "",
+          "translation": "\u60f3\u8c61\uff1b\u8bbe\u60f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-en-em-envy",
+          "word": "envy",
+          "display": "Envy",
+          "phonetic": "",
+          "translation": "\u5ac9\u5992\uff1b\u7fa1\u6155",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-en-em",
+      "type": "root",
+      "notes": ""
+    },
+    "e-equ": {
+      "version": 1,
+      "rootId": "e-equ",
+      "root": "equ equal\u5e73\u7b49",
+      "meaning": "equ",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-equ",
+      "type": "root",
+      "notes": ""
+    },
+    "e-equ-equal": {
+      "version": 1,
+      "rootId": "e-equ-equal",
+      "root": "\u76f8\u7b49\u7684 \u80dc\u4efb \u5bf9\u624b",
+      "meaning": "equal",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-equ-equal-adequate",
+          "word": "adequate",
+          "display": "Adequate",
+          "phonetic": "",
+          "translation": "\u9002\u5f53\u7684\uff1b\u8db3\u591f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-equal-average",
+          "word": "average",
+          "display": "Average",
+          "phonetic": "",
+          "translation": "\u5e73\u5747",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-equal-equable",
+          "word": "equable",
+          "display": "Equable",
+          "phonetic": "",
+          "translation": "\u53d8\u52a8\u5c0f\u7684\uff1b\u5e73\u9759\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-equal-equality",
+          "word": "equality",
+          "display": "Equality",
+          "phonetic": "",
+          "translation": "\u5e73\u7b49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-equal-equalize",
+          "word": "equalize",
+          "display": "Equalize",
+          "phonetic": "",
+          "translation": "\u4f7f\u76f8\u7b49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-equal-equate",
+          "word": "equate",
+          "display": "Equate",
+          "phonetic": "",
+          "translation": "\u4f7f\u76f8\u7b49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-equal-even",
+          "word": "even",
+          "display": "Even",
+          "phonetic": "",
+          "translation": "\u751a\u81f3\uff1b\u76f8\u7b49\u7684\uff1b\u5076\u6570\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-equ",
+      "rootLevel": 3,
+      "rootPath": "e>e-equ>e-equ-equal",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-equ-meaning": {
+      "version": 1,
+      "rootId": "e-equ-meaning",
+      "root": "\u542b\u4e49",
+      "meaning": "meaning",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-equ-meaning-equivalent",
+          "word": "equivalent",
+          "display": "Equivalent",
+          "phonetic": "",
+          "translation": "\u7b49\u4ef7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-meaning-equivocal",
+          "word": "equivocal",
+          "display": "Equivocal",
+          "phonetic": "",
+          "translation": "\u6a21\u68f1\u4e24\u53ef\uff1b\u53ef\u7591\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-meaning-equivocal-ambiguous",
+          "word": "equivocal",
+          "display": "Equivocal",
+          "phonetic": "",
+          "translation": "\u6b67\u4e49\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-meaning-equivocally",
+          "word": "equivocally",
+          "display": "Equivocally",
+          "phonetic": "",
+          "translation": "\u542b\u7cca\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-meaning-equivocate",
+          "word": "equivocate",
+          "display": "Equivocate",
+          "phonetic": "",
+          "translation": "\u652f\u543e\uff1b\u542b\u7cca\u5176\u8f9e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-equ",
+      "rootLevel": 3,
+      "rootPath": "e>e-equ>e-equ-meaning",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-equ-physics": {
+      "version": 1,
+      "rootId": "e-equ-physics",
+      "root": "\u7269\u7406",
+      "meaning": "physics",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-equ-physics-equation",
+          "word": "equation",
+          "display": "Equation",
+          "phonetic": "",
+          "translation": "\u7b49\u5f0f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-physics-equator",
+          "word": "equator",
+          "display": "Equator",
+          "phonetic": "",
+          "translation": "\u8d64\u9053\uff08\u628a\u5730\u7403\u5206\u6210\u76f8\u7b49\u4e24\u534a\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-physics-equidistant",
+          "word": "equidistant",
+          "display": "Equidistant",
+          "phonetic": "",
+          "translation": "\u7b49\u8ddd\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-physics-equilibrium",
+          "word": "equilibrium",
+          "display": "Equilibrium",
+          "phonetic": "",
+          "translation": "\u5e73\u8861",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-physics-equinox",
+          "word": "equinox",
+          "display": "Equinox",
+          "phonetic": "",
+          "translation": "\u663c\u591c\u5e73\u5206\u70b9\uff1b\u6625\u5206\u79cb\u5206",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-equ",
+      "rootLevel": 3,
+      "rootPath": "e>e-equ>e-equ-physics",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-equ-politics": {
+      "version": 1,
+      "rootId": "e-equ-politics",
+      "root": "\u653f\u6cbb",
+      "meaning": "politics",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-equ-politics-equitable",
+          "word": "equitable",
+          "display": "Equitable",
+          "phonetic": "",
+          "translation": "\u516c\u5e73\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-politics-equity",
+          "word": "equity",
+          "display": "Equity",
+          "phonetic": "",
+          "translation": "\u516c\u5e73\u516c\u6b63",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-equ-politics-iniquity",
+          "word": "iniquity",
+          "display": "Iniquity",
+          "phonetic": "",
+          "translation": "\u4e0d\u516c\u6b63\uff1b\u90aa\u6076",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-equ",
+      "rootLevel": 3,
+      "rootPath": "e>e-equ>e-equ-politics",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-err": {
+      "version": 1,
+      "rootId": "e-err",
+      "root": "err \u6f02\u6cca \u8ff7\u9014",
+      "meaning": "err",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-err",
+      "type": "root",
+      "notes": ""
+    },
+    "e-err-aberrant": {
+      "version": 1,
+      "rootId": "e-err-aberrant",
+      "root": "aberrant\u8131\u79bb\u6b63\u8f68",
+      "meaning": "aberrant",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-err-aberrant-aberrance",
+          "word": "aberrance",
+          "display": "Aberrance",
+          "phonetic": "",
+          "translation": "\u53cd\u5e38\uff1b\u53d8\u5f02",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-err-aberrant-aberrant",
+          "word": "aberrant",
+          "display": "Aberrant",
+          "phonetic": "",
+          "translation": "\u8131\u79bb\u6b63\u8f68",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-err",
+      "rootLevel": 3,
+      "rootPath": "e>e-err>e-err-aberrant",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-err-error": {
+      "version": 1,
+      "rootId": "e-err-error",
+      "root": "error\u9519\u8bef",
+      "meaning": "error",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-err-error-err",
+          "word": "err",
+          "display": "Err",
+          "phonetic": "",
+          "translation": "\u72af\u9519\uff1b\u72af\u7f6a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-err-error-errant",
+          "word": "errant",
+          "display": "Errant",
+          "phonetic": "",
+          "translation": "\u79bb\u6e38\u7684\uff1b\u9519\u8bef\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-err-error-errantry",
+          "word": "errantry",
+          "display": "Errantry",
+          "phonetic": "",
+          "translation": "\u9a91\u58eb\u7cbe\u795e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-err-error-erroneous",
+          "word": "erroneous",
+          "display": "Erroneous",
+          "phonetic": "",
+          "translation": "\u9519\u8bef\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-err-error-error",
+          "word": "error",
+          "display": "Error",
+          "phonetic": "",
+          "translation": "\u9519\u8bef",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-err-error-inerrancy",
+          "word": "inerrancy",
+          "display": "Inerrancy",
+          "phonetic": "",
+          "translation": "\u7edd\u5bf9\u6b63\u786e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-err",
+      "rootLevel": 3,
+      "rootPath": "e>e-err>e-err-error",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-ess-est": {
+      "version": 1,
+      "rootId": "e-ess-est",
+      "root": "ess=est\u5b58\u5728",
+      "meaning": "ess=est",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-ess-est-exist",
+          "word": "exist",
+          "display": "Exist",
+          "phonetic": "",
+          "translation": "\u5b58\u5728\uff1b\u751f\u6d3b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-existence",
+          "word": "existence",
+          "display": "Existence",
+          "phonetic": "",
+          "translation": "\u5b9e\u5728\uff1b\u751f\u5b58",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-interest",
+          "word": "interest",
+          "display": "Interest",
+          "phonetic": "",
+          "translation": "\u5174\u8da3\uff1b\u5229\u76ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-ess-est",
+      "type": "root",
+      "notes": ""
+    },
+    "e-ess-est-absent": {
+      "version": 1,
+      "rootId": "e-ess-est-absent",
+      "root": "absent\u7f3a\u5e2d",
+      "meaning": "absent",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-ess-est-absent-absent",
+          "word": "absent",
+          "display": "Absent",
+          "phonetic": "",
+          "translation": "\u7f3a\u5e2d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-absent-absent-adj",
+          "word": "absent",
+          "display": "Absent",
+          "phonetic": "",
+          "translation": "\u7f3a\u5e2d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-absent-presence",
+          "word": "presence",
+          "display": "Presence",
+          "phonetic": "",
+          "translation": "\u51fa\u5e2d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-absent-present",
+          "word": "present",
+          "display": "Present",
+          "phonetic": "",
+          "translation": "\u51fa\u5e2d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-ess-est",
+      "rootLevel": 3,
+      "rootPath": "e>e-ess-est>e-ess-est-absent",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-ess-est-essence": {
+      "version": 1,
+      "rootId": "e-ess-est-essence",
+      "root": "essence\u672c\u8d28\uff1b\u7cbe\u9ad3",
+      "meaning": "essence",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-ess-est-essence-elite",
+          "word": "elite",
+          "display": "Elite",
+          "phonetic": "",
+          "translation": "\u7cbe\u534e\uff1b\u4e2d\u575a\u5206\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-essence-essence",
+          "word": "essence",
+          "display": "Essence",
+          "phonetic": "",
+          "translation": "\u672c\u8d28\uff1b\u7cbe\u9ad3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-essence-essential",
+          "word": "essential",
+          "display": "Essential",
+          "phonetic": "",
+          "translation": "\u672c\u8d28\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ess-est-essence-quintessence",
+          "word": "quintessence",
+          "display": "Quintessence",
+          "phonetic": "",
+          "translation": "\u7cbe\u534e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-ess-est",
+      "rootLevel": 3,
+      "rootPath": "e>e-ess-est>e-ess-est-essence",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-ev": {
+      "version": 1,
+      "rootId": "e-ev",
+      "root": "ev age\u5e74\u9f84 \u65f6\u95f4",
+      "meaning": "ev",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-ev-coeval",
+          "word": "coeval",
+          "display": "Coeval",
+          "phonetic": "",
+          "translation": "\u540c\u65f6\u4ee3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-epoch",
+          "word": "epoch",
+          "display": "Epoch",
+          "phonetic": "",
+          "translation": "\u65b0\u7eaa\u5143",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-era",
+          "word": "era",
+          "display": "Era",
+          "phonetic": "",
+          "translation": "\u65f6\u4ee3\uff1b\u7eaa\u5143\uff1b\u9636\u6bb5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-eve",
+          "word": "eve",
+          "display": "Eve",
+          "phonetic": "",
+          "translation": "\u524d\u5915",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-evening",
+          "word": "evening",
+          "display": "Evening",
+          "phonetic": "",
+          "translation": "\u9ec4\u660f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-ever",
+          "word": "ever",
+          "display": "Ever",
+          "phonetic": "",
+          "translation": "\u66fe\u7ecf\uff1b\u6c38\u8fdc\uff1b\u7a76\u7adf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-forever",
+          "word": "forever",
+          "display": "Forever",
+          "phonetic": "",
+          "translation": "\u6c38\u8fdc=for ever",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-inevitable",
+          "word": "inevitable",
+          "display": "Inevitable",
+          "phonetic": "",
+          "translation": "\u4e0d\u53ef\u907f\u514d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-longeval",
+          "word": "longeval",
+          "display": "Longeval",
+          "phonetic": "",
+          "translation": "\u957f\u547d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-longevous",
+          "word": "longevous",
+          "display": "Longevous",
+          "phonetic": "",
+          "translation": "\u957f\u5bff",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-mediaeval",
+          "word": "mediaeval",
+          "display": "Mediaeval",
+          "phonetic": "",
+          "translation": "\u4e2d\u53e4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-medieval",
+          "word": "medieval",
+          "display": "Medieval",
+          "phonetic": "",
+          "translation": "\u4e2d\u4e16\u7eaa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-never",
+          "word": "never",
+          "display": "Never",
+          "phonetic": "",
+          "translation": "\u7edd\u4e0d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-nevertheless",
+          "word": "nevertheless",
+          "display": "Nevertheless",
+          "phonetic": "",
+          "translation": "\u7136\u800c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-ev-primeval",
+          "word": "primeval",
+          "display": "Primeval",
+          "phonetic": "",
+          "translation": "\u6700\u521d\u7684\uff1b\u65e9\u671f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-ev",
+      "type": "root",
+      "notes": ""
+    },
+    "e-prefix": {
+      "version": 1,
+      "rootId": "e-prefix",
+      "root": "E\u524d\u7f00",
+      "meaning": "prefix",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "e",
+      "rootLevel": 2,
+      "rootPath": "e>e-prefix",
+      "type": "root",
+      "notes": ""
+    },
+    "e-prefix-abstract": {
+      "version": 1,
+      "rootId": "e-prefix-abstract",
+      "root": "\u62bd\u8c61\u542b\u4e49",
+      "meaning": "abstract",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-prefix-abstract-edentate",
+          "word": "edentate",
+          "display": "Edentate",
+          "phonetic": "",
+          "translation": "\u65e0\u9f7f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-elaborate",
+          "word": "elaborate",
+          "display": "Elaborate",
+          "phonetic": "",
+          "translation": "\u7cbe\u5fc3\u5236\u4f5c\u7684\uff1b\u8be6\u7ec6\u9610\u8ff0\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-elect",
+          "word": "elect",
+          "display": "Elect",
+          "phonetic": "",
+          "translation": "\u5408\u683c\u7684\uff08\u9009\u51fa\u6765\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-eloquent",
+          "word": "eloquent",
+          "display": "Eloquent",
+          "phonetic": "",
+          "translation": "\u96c4\u8fa9\u7684\uff1b\u6709\u8bf4\u670d\u529b\u7684\uff08\u8bf4\u51fa\u6765\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-empire",
+          "word": "empire",
+          "display": "Empire",
+          "phonetic": "",
+          "translation": "\u5e1d\u56fd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-empirical",
+          "word": "empirical",
+          "display": "Empirical",
+          "phonetic": "",
+          "translation": "\u51ed\u7ecf\u9a8c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-essay",
+          "word": "essay",
+          "display": "Essay",
+          "phonetic": "",
+          "translation": "\u6587\u7ae0\uff1b\u77ed\u6587",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-evaporate",
+          "word": "evaporate",
+          "display": "Evaporate",
+          "phonetic": "",
+          "translation": "\u84b8\u53d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-evil",
+          "word": "evil",
+          "display": "Evil",
+          "phonetic": "",
+          "translation": "\u90aa\u6076\u7684=live\u5012\u7740\u5199",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-except",
+          "word": "except",
+          "display": "Except",
+          "phonetic": "",
+          "translation": "\u9664...\u4e4b\u5916\uff1b\u53cd\u5bf9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-exception",
+          "word": "exception",
+          "display": "Exception",
+          "phonetic": "",
+          "translation": "\u4f8b\u5916\uff1b\u53cd\u5bf9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-exceptional",
+          "word": "exceptional",
+          "display": "Exceptional",
+          "phonetic": "",
+          "translation": "\u4f8b\u5916\u7684\uff1b\u5f02\u5e38\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-excite",
+          "word": "excite",
+          "display": "Excite",
+          "phonetic": "",
+          "translation": "\u6fc0\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-excitement",
+          "word": "excitement",
+          "display": "Excitement",
+          "phonetic": "",
+          "translation": "\u5174\u594b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-exciting",
+          "word": "exciting",
+          "display": "Exciting",
+          "phonetic": "",
+          "translation": "\u4ee4\u4eba\u5174\u594b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-exhaust",
+          "word": "exhaust",
+          "display": "Exhaust",
+          "phonetic": "",
+          "translation": "\u7cbe\u75b2\u529b\u7aed\uff1b\u8017\u5c3d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-exotic",
+          "word": "exotic",
+          "display": "Exotic",
+          "phonetic": "",
+          "translation": "\u5947\u5f02\u7684\uff1b\u5f02\u56fd\u98ce\u60c5\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-expect",
+          "word": "expect",
+          "display": "Expect",
+          "phonetic": "",
+          "translation": "\u9884\u671f\uff08\u8d85\u8fc7\u80fd\u770b\u5230\u7684\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-expectation",
+          "word": "expectation",
+          "display": "Expectation",
+          "phonetic": "",
+          "translation": "\u671f\u671b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-expedition",
+          "word": "expedition",
+          "display": "Expedition",
+          "phonetic": "",
+          "translation": "\u8fdc\u5f81\uff1b\u63a2\u9669\u961f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-explicit",
+          "word": "explicit",
+          "display": "Explicit",
+          "phonetic": "",
+          "translation": "\u5766\u7387\u5730\uff1b\u8be6\u8ff0\u7684\uff1b\u663e\u7136\u7684\uff1b\u660e\u786e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-exquisite",
+          "word": "exquisite",
+          "display": "Exquisite",
+          "phonetic": "",
+          "translation": "\u4f18\u7f8e\u7684\uff1b\u5267\u70c8\u7684\uff1b\u5f02\u5e38\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-exterior",
+          "word": "exterior",
+          "display": "Exterior",
+          "phonetic": "",
+          "translation": "\u5916\u90e8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-external",
+          "word": "external",
+          "display": "External",
+          "phonetic": "",
+          "translation": "\u5916\u90e8\u7684\uff1b\u5ba2\u89c2\u7684\uff1b\u8868\u9762\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-extinct",
+          "word": "extinct",
+          "display": "Extinct",
+          "phonetic": "",
+          "translation": "\u706d\u7edd\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-extinguish",
+          "word": "extinguish",
+          "display": "Extinguish",
+          "phonetic": "",
+          "translation": "\u7184\u706d\uff1b\u538b\u5236\uff1b\u6d88\u706d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-extra",
+          "word": "extra",
+          "display": "Extra",
+          "phonetic": "",
+          "translation": "\u989d\u5916\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-extract",
+          "word": "extract",
+          "display": "Extract",
+          "phonetic": "",
+          "translation": "\u62d4\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-extraordinarily",
+          "word": "extraordinarily",
+          "display": "Extraordinarily",
+          "phonetic": "",
+          "translation": "\u975e\u5e38\u7684\uff1b\u683c\u5916\u7684\uff1b\u4ee5\u5916\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-extravagant",
+          "word": "extravagant",
+          "display": "Extravagant",
+          "phonetic": "",
+          "translation": "\u5962\u4f88\u7684\uff1b\u8fc7\u5206\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-abstract-extreme",
+          "word": "extreme",
+          "display": "Extreme",
+          "phonetic": "",
+          "translation": "\u672b\u7aef\uff1b\u6781\u5ea6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-prefix",
+      "rootLevel": 3,
+      "rootPath": "e>e-prefix>e-prefix-abstract",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-prefix-action": {
+      "version": 1,
+      "rootId": "e-prefix-action",
+      "root": "\u52a8\u4f5c",
+      "meaning": "action",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-prefix-action-echo",
+          "word": "echo",
+          "display": "Echo",
+          "phonetic": "",
+          "translation": "\u53cd\u54cd\uff1b\u5171\u9e23\uff1b\u56de\u58f0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-edge",
+          "word": "edge",
+          "display": "Edge",
+          "phonetic": "",
+          "translation": "\u5200\u5203\uff1b\u6324\u8fdb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-eject",
+          "word": "eject",
+          "display": "Eject",
+          "phonetic": "",
+          "translation": "\u55b7\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-elect",
+          "word": "elect",
+          "display": "Elect",
+          "phonetic": "",
+          "translation": "\u9009\u4e3e\uff1b\u9009\u62e9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-embed",
+          "word": "embed",
+          "display": "Embed",
+          "phonetic": "",
+          "translation": "\u628a...\u5d4c\u5165\uff1b\u624e\u7262",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-emerge",
+          "word": "emerge",
+          "display": "Emerge",
+          "phonetic": "",
+          "translation": "\u663e\u73b0\uff1b\u66b4\u9732\uff1b\u5f62\u6210",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-emergency",
+          "word": "emergency",
+          "display": "Emergency",
+          "phonetic": "",
+          "translation": "\u7d27\u6025\u60c5\u51b5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-emigrate",
+          "word": "emigrate",
+          "display": "Emigrate",
+          "phonetic": "",
+          "translation": "\u79fb\u5c45",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-emit",
+          "word": "emit",
+          "display": "Emit",
+          "phonetic": "",
+          "translation": "\u53d1\u51fa\uff1b\u5410\u9732\uff1b\u53d1\u8868",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-emotion",
+          "word": "emotion",
+          "display": "Emotion",
+          "phonetic": "",
+          "translation": "\u60c5\u611f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-emphasis",
+          "word": "emphasis",
+          "display": "Emphasis",
+          "phonetic": "",
+          "translation": "\u5f3a\u8c03\uff1b\u91cd\u70b9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-emphasize",
+          "word": "emphasize",
+          "display": "Emphasize",
+          "phonetic": "",
+          "translation": "\u5f3a\u8c03",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-eradiate",
+          "word": "eradiate",
+          "display": "Eradiate",
+          "phonetic": "",
+          "translation": "\u53d1\u5c04\uff1b\u8f90\u5c04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-erase",
+          "word": "erase",
+          "display": "Erase",
+          "phonetic": "",
+          "translation": "\u64e6\u6389\uff1b\u5220\u53bb\uff1b\u6d88\u78c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-escape",
+          "word": "escape",
+          "display": "Escape",
+          "phonetic": "",
+          "translation": "\u9003\u8dd1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-escort",
+          "word": "escort",
+          "display": "Escort",
+          "phonetic": "",
+          "translation": "\u62a4\u9001\uff1b\u8b66\u536b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-especial",
+          "word": "especial",
+          "display": "Especial",
+          "phonetic": "",
+          "translation": "\u7279\u522b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-especially",
+          "word": "especially",
+          "display": "Especially",
+          "phonetic": "",
+          "translation": "\u7279\u522b\uff1b\u4e3b\u8981\u7b2c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-establish",
+          "word": "establish",
+          "display": "Establish",
+          "phonetic": "",
+          "translation": "\u5efa\u7acb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-establishment",
+          "word": "establishment",
+          "display": "Establishment",
+          "phonetic": "",
+          "translation": "\u8bbe\u7acb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-evacuate",
+          "word": "evacuate",
+          "display": "Evacuate",
+          "phonetic": "",
+          "translation": "\u64a4\u79bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-evade",
+          "word": "evade",
+          "display": "Evade",
+          "phonetic": "",
+          "translation": "\u9003\u907f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-evoke",
+          "word": "evoke",
+          "display": "Evoke",
+          "phonetic": "",
+          "translation": "\u5524\u8d77",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-evolution",
+          "word": "evolution",
+          "display": "Evolution",
+          "phonetic": "",
+          "translation": "\u8fdb\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-evolve",
+          "word": "evolve",
+          "display": "Evolve",
+          "phonetic": "",
+          "translation": "\u8fdb\u5316\uff1b\u53d1\u5c55",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-excerpt",
+          "word": "excerpt",
+          "display": "Excerpt",
+          "phonetic": "",
+          "translation": "\u6458\u5f55\uff1b\u5f15\u7528",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exclaim",
+          "word": "exclaim",
+          "display": "Exclaim",
+          "phonetic": "",
+          "translation": "\u547c\u558a\uff1b\u60ca\u53eb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exclude",
+          "word": "exclude",
+          "display": "Exclude",
+          "phonetic": "",
+          "translation": "\u62d2\u7edd\uff1b\u6392\u65a5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exclusive",
+          "word": "exclusive",
+          "display": "Exclusive",
+          "phonetic": "",
+          "translation": "\u72ec\u5360\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-excursion",
+          "word": "excursion",
+          "display": "Excursion",
+          "phonetic": "",
+          "translation": "\u77ed\u9014\u65c5\u884c\uff1b\u6e38\u89c8\uff1b\u4fbf\u5b9c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-excuse",
+          "word": "excuse",
+          "display": "Excuse",
+          "phonetic": "",
+          "translation": "\u539f\u8c05\uff1b\u5bbd\u6055\uff1b\u501f\u53e3\uff1b\u8fa9\u89e3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-excute",
+          "word": "excute",
+          "display": "Excute",
+          "phonetic": "",
+          "translation": "\u5b9e\u884c\uff1b\u5904\u6b7b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-executive",
+          "word": "executive",
+          "display": "Executive",
+          "phonetic": "",
+          "translation": "\u603b\u7ecf\u7406\uff1b\u6267\u884c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exempt",
+          "word": "exempt",
+          "display": "Exempt",
+          "phonetic": "",
+          "translation": "\u514d\u9664",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exhibit",
+          "word": "exhibit",
+          "display": "Exhibit",
+          "phonetic": "",
+          "translation": "\u5c55\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exhibition",
+          "word": "exhibition",
+          "display": "Exhibition",
+          "phonetic": "",
+          "translation": "\u5c55\u89c8\u4f1a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exile",
+          "word": "exile",
+          "display": "Exile",
+          "phonetic": "",
+          "translation": "\u653e\u9010",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exit",
+          "word": "exit",
+          "display": "Exit",
+          "phonetic": "",
+          "translation": "\u51fa\u53e3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expand",
+          "word": "expand",
+          "display": "Expand",
+          "phonetic": "",
+          "translation": "\u6269\u5f20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expansion",
+          "word": "expansion",
+          "display": "Expansion",
+          "phonetic": "",
+          "translation": "\u81a8\u80c0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expel",
+          "word": "expel",
+          "display": "Expel",
+          "phonetic": "",
+          "translation": "\u9a71\u9010\uff1b\u53d1\u5c04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expend",
+          "word": "expend",
+          "display": "Expend",
+          "phonetic": "",
+          "translation": "\u82b1\u8d39",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expenditure",
+          "word": "expenditure",
+          "display": "Expenditure",
+          "phonetic": "",
+          "translation": "\u82b1\u8d39\uff1b\u6d88\u8017",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expense",
+          "word": "expense",
+          "display": "Expense",
+          "phonetic": "",
+          "translation": "\u6d88\u8d39",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expensive",
+          "word": "expensive",
+          "display": "Expensive",
+          "phonetic": "",
+          "translation": "\u82b1\u8d39\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-experience",
+          "word": "experience",
+          "display": "Experience",
+          "phonetic": "",
+          "translation": "\u7ecf\u5386",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-experiment",
+          "word": "experiment",
+          "display": "Experiment",
+          "phonetic": "",
+          "translation": "\u5b9e\u9a8c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-experimental",
+          "word": "experimental",
+          "display": "Experimental",
+          "phonetic": "",
+          "translation": "\u5b9e\u9a8c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expire",
+          "word": "expire",
+          "display": "Expire",
+          "phonetic": "",
+          "translation": "\u65ad\u6c14\uff1b\u671f\u6ee1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-explain",
+          "word": "explain",
+          "display": "Explain",
+          "phonetic": "",
+          "translation": "\u89e3\u91ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-explanation",
+          "word": "explanation",
+          "display": "Explanation",
+          "phonetic": "",
+          "translation": "\u89e3\u91ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-explode",
+          "word": "explode",
+          "display": "Explode",
+          "phonetic": "",
+          "translation": "\u7206\u70b8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exploit",
+          "word": "exploit",
+          "display": "Exploit",
+          "phonetic": "",
+          "translation": "\u5f00\u62d3\uff1b\u5265\u524a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-explosion",
+          "word": "explosion",
+          "display": "Explosion",
+          "phonetic": "",
+          "translation": "\u7206\u70b8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-explosive",
+          "word": "explosive",
+          "display": "Explosive",
+          "phonetic": "",
+          "translation": "\u7206\u70b8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-export",
+          "word": "export",
+          "display": "Export",
+          "phonetic": "",
+          "translation": "\u8f93\u51fa\uff1b\u51fa\u53e3\u5546\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expose",
+          "word": "expose",
+          "display": "Expose",
+          "phonetic": "",
+          "translation": "\u66b4\u9732",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-exposure",
+          "word": "exposure",
+          "display": "Exposure",
+          "phonetic": "",
+          "translation": "\u66b4\u9732\uff1b\u9057\u5f03",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-express",
+          "word": "express",
+          "display": "Express",
+          "phonetic": "",
+          "translation": "\u8868\u793a\uff1b\u5feb\u8f66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-expression",
+          "word": "expression",
+          "display": "Expression",
+          "phonetic": "",
+          "translation": "\u8868\u8fbe\uff1b\u8868\u60c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-extension",
+          "word": "extension",
+          "display": "Extension",
+          "phonetic": "",
+          "translation": "\u5ef6\u957f\uff1b\u6269\u5927",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-extensive",
+          "word": "extensive",
+          "display": "Extensive",
+          "phonetic": "",
+          "translation": "\u5e7f\u9614\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-action-extent",
+          "word": "extent",
+          "display": "Extent",
+          "phonetic": "",
+          "translation": "\u5bbd\u5ea6\uff1b\u957f\u5ea6\uff1b\u957f\u5ea6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-prefix",
+      "rootLevel": 3,
+      "rootPath": "e>e-prefix>e-prefix-action",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-prefix-strengthen": {
+      "version": 1,
+      "rootId": "e-prefix-strengthen",
+      "root": "\u52a0\u5f3a",
+      "meaning": "strengthen",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-prefix-strengthen-enclose",
+          "word": "enclose",
+          "display": "Enclose",
+          "phonetic": "",
+          "translation": "\u56f4\u4f4f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-enclosure",
+          "word": "enclosure",
+          "display": "Enclosure",
+          "phonetic": "",
+          "translation": "\u5708\u4f4f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-encounter",
+          "word": "encounter",
+          "display": "Encounter",
+          "phonetic": "",
+          "translation": "\u906d\u9047",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-encourage",
+          "word": "encourage",
+          "display": "Encourage",
+          "phonetic": "",
+          "translation": "\u9f13\u52b1\uff1b\u6002\u607f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-encyclopedia",
+          "word": "encyclopedia",
+          "display": "Encyclopedia",
+          "phonetic": "",
+          "translation": "\u767e\u79d1\u5168\u4e66\uff08\u5305\u542b\u5168\u90e8\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-end",
+          "word": "end",
+          "display": "End",
+          "phonetic": "",
+          "translation": "\u7ed3\u675f\uff1b\u672b\u7aef",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-endeavor",
+          "word": "endeavor",
+          "display": "Endeavor",
+          "phonetic": "",
+          "translation": "\u52aa\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-endeavour",
+          "word": "endeavour",
+          "display": "Endeavour",
+          "phonetic": "",
+          "translation": "\u52aa\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-ending",
+          "word": "ending",
+          "display": "Ending",
+          "phonetic": "",
+          "translation": "\u7ed3\u5c40",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-endow",
+          "word": "endow",
+          "display": "Endow",
+          "phonetic": "",
+          "translation": "\u6350\u8d60\uff1b\u7ed9\u4e88",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-endurance",
+          "word": "endurance",
+          "display": "Endurance",
+          "phonetic": "",
+          "translation": "\u5fcd\u8010\u529b\uff1b\u6301\u4e45\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-endure",
+          "word": "endure",
+          "display": "Endure",
+          "phonetic": "",
+          "translation": "\u5fcd\u53d7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-enhance",
+          "word": "enhance",
+          "display": "Enhance",
+          "phonetic": "",
+          "translation": "\u63d0\u9ad8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-enlighten",
+          "word": "enlighten",
+          "display": "Enlighten",
+          "phonetic": "",
+          "translation": "\u542f\u53d1\uff1b\u6559\u5bfc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-envisage",
+          "word": "envisage",
+          "display": "Envisage",
+          "phonetic": "",
+          "translation": "\u60f3\u8c61\uff1b\u8bbe\u60f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-escalate",
+          "word": "escalate",
+          "display": "Escalate",
+          "phonetic": "",
+          "translation": "\u9010\u6b65\u589e\u957f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-esteem",
+          "word": "esteem",
+          "display": "Esteem",
+          "phonetic": "",
+          "translation": "\u5c0a\u91cd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-eternal",
+          "word": "eternal",
+          "display": "Eternal",
+          "phonetic": "",
+          "translation": "\u6c38\u4e45\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-exact",
+          "word": "exact",
+          "display": "Exact",
+          "phonetic": "",
+          "translation": "\u786e\u5207\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-exaggerate",
+          "word": "exaggerate",
+          "display": "Exaggerate",
+          "phonetic": "",
+          "translation": "\u5938\u5927",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-exam",
+          "word": "exam",
+          "display": "Exam",
+          "phonetic": "",
+          "translation": "\u8003\u8bd5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-examination",
+          "word": "examination",
+          "display": "Examination",
+          "phonetic": "",
+          "translation": "\u6d4b\u9a8c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-examine",
+          "word": "examine",
+          "display": "Examine",
+          "phonetic": "",
+          "translation": "\u68c0\u67e5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-example",
+          "word": "example",
+          "display": "Example",
+          "phonetic": "",
+          "translation": "\u4f8b\u5b50\uff1b\u6a21\u8303\uff08\u8003\u7684\u597d\uff09",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-exemplify",
+          "word": "exemplify",
+          "display": "Exemplify",
+          "phonetic": "",
+          "translation": "\u4e3e\u4f8b\u8bc1\u660e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-strengthen-exert",
+          "word": "exert",
+          "display": "Exert",
+          "phonetic": "",
+          "translation": "\u65bd\u52a0\u538b\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-prefix",
+      "rootLevel": 3,
+      "rootPath": "e>e-prefix>e-prefix-strengthen",
+      "type": "branch",
+      "notes": ""
+    },
+    "e-prefix-surpass": {
+      "version": 1,
+      "rootId": "e-prefix-surpass",
+      "root": "\u8d85\u8d8a",
+      "meaning": "surpass",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "e-prefix-surpass-eminent",
+          "word": "eminent",
+          "display": "Eminent",
+          "phonetic": "",
+          "translation": "\u663e\u8d6b\u7684\uff1b\u6770\u51fa\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-exceed",
+          "word": "exceed",
+          "display": "Exceed",
+          "phonetic": "",
+          "translation": "\u8d85\u8fc7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-exceedingly",
+          "word": "exceedingly",
+          "display": "Exceedingly",
+          "phonetic": "",
+          "translation": "\u6781\u7aef\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-excel",
+          "word": "excel",
+          "display": "Excel",
+          "phonetic": "",
+          "translation": "\u64c5\u957f\uff1b\u80dc\u8fc7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-excellent",
+          "word": "excellent",
+          "display": "Excellent",
+          "phonetic": "",
+          "translation": "\u5353\u8d8a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-excess",
+          "word": "excess",
+          "display": "Excess",
+          "phonetic": "",
+          "translation": "\u8fc7\u91cf\u7684\uff1b\u989d\u5916\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-excessive",
+          "word": "excessive",
+          "display": "Excessive",
+          "phonetic": "",
+          "translation": "\u8fc7\u591a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-expert",
+          "word": "expert",
+          "display": "Expert",
+          "phonetic": "",
+          "translation": "\u4e13\u5bb6\uff1b\u719f\u7ec3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "e-prefix-surpass-expertise",
+          "word": "expertise",
+          "display": "Expertise",
+          "phonetic": "",
+          "translation": "\u4e13\u957f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "e-prefix",
+      "rootLevel": 3,
+      "rootPath": "e>e-prefix>e-prefix-surpass",
+      "type": "branch",
+      "notes": ""
+    },
     "enact": {
       "version": 1,
       "rootId": "enact",
       "root": "enact",
       "meaning": "",
       "descriptionCn": "\u5236\u5b9a\u6cd5\u5f8b\uff1b\u626e\u6f14\u89d2\u8272",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "enact",
@@ -46,7 +3333,7 @@
       "root": "enactment",
       "meaning": "",
       "descriptionCn": "\u6cd5\u5f8b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "enactment",
@@ -73,7 +3360,7 @@
       "root": "enamour",
       "meaning": "",
       "descriptionCn": "\u4f7f\u8ff7\u604b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "enamour-enamour-2",
@@ -100,7 +3387,7 @@
       "root": "exact",
       "meaning": "",
       "descriptionCn": "\u7cbe\u786e\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "exact",
@@ -127,7 +3414,7 @@
       "root": "exacting",
       "meaning": "",
       "descriptionCn": "\u82db\u523b\u7684\uff1b\u4e25\u683c\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "exacting",
@@ -154,7 +3441,7 @@
       "root": "exaltation",
       "meaning": "",
       "descriptionCn": "\u63d0\u5347\uff1b\u5174\u594b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "exaltation-exaltation-2",
@@ -181,7 +3468,7 @@
       "root": "exigency",
       "meaning": "",
       "descriptionCn": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "exigency-exigency-2",

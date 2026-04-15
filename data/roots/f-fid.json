@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "f-fid",
+  "root": "fid=faith\u4fe1\u4efb",
+  "meaning": "fid",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-fid-confidant",
+      "word": "confidant",
+      "display": "Confidant",
+      "phonetic": "",
+      "translation": "\u5fc3\u8179\u670b\u53cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-confidante",
+      "word": "confidante",
+      "display": "Confidante",
+      "phonetic": "",
+      "translation": "\u77e5\u5fc3\u5973\u53cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-confide",
+      "word": "confide",
+      "display": "Confide",
+      "phonetic": "",
+      "translation": "\u59d4\u6258\uff1b\u4fe1\u8d56",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-confident",
+      "word": "confident",
+      "display": "Confident",
+      "phonetic": "",
+      "translation": "\u81ea\u4fe1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-confidential",
+      "word": "confidential",
+      "display": "Confidential",
+      "phonetic": "",
+      "translation": "\u79d8\u5bc6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-defiance",
+      "word": "defiance",
+      "display": "Defiance",
+      "phonetic": "",
+      "translation": "\u6311\u6218\uff1b\u8511\u89c6\uff1b\u6311\u8845",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-defy",
+      "word": "defy",
+      "display": "Defy",
+      "phonetic": "",
+      "translation": "\u4e0d\u670d\u4ece",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-diffidence",
+      "word": "diffidence",
+      "display": "Diffidence",
+      "phonetic": "",
+      "translation": "\u7f9e\u602f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-infidel",
+      "word": "infidel",
+      "display": "Infidel",
+      "phonetic": "",
+      "translation": "\u5f02\u7aef\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-perfidious",
+      "word": "perfidious",
+      "display": "Perfidious",
+      "phonetic": "",
+      "translation": "\u80cc\u4fe1\u5f03\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-fid-perfidy",
+      "word": "perfidy",
+      "display": "Perfidy",
+      "phonetic": "",
+      "translation": "\u4e0d\u8bda\u5b9e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f",
+  "rootLevel": 2,
+  "rootPath": "f>f-fid",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "rootId": "d-strengthen",
+  "root": "\u52a0\u5f3a",
+  "meaning": "strengthen",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-strengthen-describe",
+      "word": "describe",
+      "display": "Describe",
+      "phonetic": "",
+      "translation": "\u63cf\u8ff0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-description",
+      "word": "description",
+      "display": "Description",
+      "phonetic": "",
+      "translation": "\u63cf\u8ff0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deserve",
+      "word": "deserve",
+      "display": "Deserve",
+      "phonetic": "",
+      "translation": "\u503c\u5f97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-design",
+      "word": "design",
+      "display": "Design",
+      "phonetic": "",
+      "translation": "\u8bbe\u8ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-designate",
+      "word": "designate",
+      "display": "Designate",
+      "phonetic": "",
+      "translation": "\u4efb\u547d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-desirable",
+      "word": "desirable",
+      "display": "Desirable",
+      "phonetic": "",
+      "translation": "\u503c\u5f97\u505a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-desire",
+      "word": "desire",
+      "display": "Desire",
+      "phonetic": "",
+      "translation": "\u613f\u671b\uff1b\u8981\u6c42",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-desolate",
+      "word": "desolate",
+      "display": "Desolate",
+      "phonetic": "",
+      "translation": "\u5b64\u72ec\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-despair",
+      "word": "despair",
+      "display": "Despair",
+      "phonetic": "",
+      "translation": "\u5931\u671b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-despatch",
+      "word": "despatch",
+      "display": "Despatch",
+      "phonetic": "",
+      "translation": "\u6d3e\u9063",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-desperate",
+      "word": "desperate",
+      "display": "Desperate",
+      "phonetic": "",
+      "translation": "\u7edd\u671b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-despise",
+      "word": "despise",
+      "display": "Despise",
+      "phonetic": "",
+      "translation": "\u8511\u89c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-despite",
+      "word": "despite",
+      "display": "Despite",
+      "phonetic": "",
+      "translation": "\u4e0d\u7ba1\u4e0d\u987e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-destination",
+      "word": "destination",
+      "display": "Destination",
+      "phonetic": "",
+      "translation": "\u76ee\u7684\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-destiny",
+      "word": "destiny",
+      "display": "Destiny",
+      "phonetic": "",
+      "translation": "\u547d\u8fd0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-destroy",
+      "word": "destroy",
+      "display": "Destroy",
+      "phonetic": "",
+      "translation": "\u6467\u6bc1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-destruction",
+      "word": "destruction",
+      "display": "Destruction",
+      "phonetic": "",
+      "translation": "\u6bc1\u574f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-destructive",
+      "word": "destructive",
+      "display": "Destructive",
+      "phonetic": "",
+      "translation": "\u7834\u574f\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-detach",
+      "word": "detach",
+      "display": "Detach",
+      "phonetic": "",
+      "translation": "\u5206\u79bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-detail",
+      "word": "detail",
+      "display": "Detail",
+      "phonetic": "",
+      "translation": "\u7ec6\u8282",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-detain",
+      "word": "detain",
+      "display": "Detain",
+      "phonetic": "",
+      "translation": "\u62d8\u7559",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-detect",
+      "word": "detect",
+      "display": "Detect",
+      "phonetic": "",
+      "translation": "\u5bdf\u89c9\uff1b\u63a2\u6d4b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-detective",
+      "word": "detective",
+      "display": "Detective",
+      "phonetic": "",
+      "translation": "\u4fa6\u63a2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-detector",
+      "word": "detector",
+      "display": "Detector",
+      "phonetic": "",
+      "translation": "\u68c0\u6d4b\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deteriorate",
+      "word": "deteriorate",
+      "display": "Deteriorate",
+      "phonetic": "",
+      "translation": "\u6076\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-determine",
+      "word": "determine",
+      "display": "Determine",
+      "phonetic": "",
+      "translation": "\u51b3\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-develop",
+      "word": "develop",
+      "display": "Develop",
+      "phonetic": "",
+      "translation": "\u7814\u53d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-deviate",
+      "word": "deviate",
+      "display": "Deviate",
+      "phonetic": "",
+      "translation": "\u80cc\u79bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-device",
+      "word": "device",
+      "display": "Device",
+      "phonetic": "",
+      "translation": "\u8bbe\u5907",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-devil",
+      "word": "devil",
+      "display": "Devil",
+      "phonetic": "",
+      "translation": "\u9b54\u9b3c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-devise",
+      "word": "devise",
+      "display": "Devise",
+      "phonetic": "",
+      "translation": "\u8bbe\u8ba1\uff1b\u53d1\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-devote",
+      "word": "devote",
+      "display": "Devote",
+      "phonetic": "",
+      "translation": "\u81f4\u529b\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-dew",
+      "word": "dew",
+      "display": "Dew",
+      "phonetic": "",
+      "translation": "\u9732\u6c34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-strengthen-dig",
+      "word": "dig",
+      "display": "Dig",
+      "phonetic": "",
+      "translation": "\u6316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d",
+  "rootLevel": 2,
+  "rootPath": "d>d-strengthen",
+  "type": "root",
+  "notes": ""
+}

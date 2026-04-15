@@ -1,0 +1,2767 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-f",
+  "rootIds": [
+    "f",
+    "f-fac",
+    "f-fac-fac",
+    "f-fer",
+    "f-fid",
+    "f-flect-flex",
+    "f-flect-flex-flex",
+    "f-flu",
+    "f-fund",
+    "f-fund-foundation",
+    "f-other",
+    "f-other-fabl",
+    "f-other-febri",
+    "f-other-fict",
+    "f-other-fil",
+    "f-other-flick",
+    "f-other-flor",
+    "f-other-fug"
+  ],
+  "roots": {
+    "f": {
+      "version": 1,
+      "rootId": "f",
+      "root": "F",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "f",
+      "type": "root",
+      "notes": "\u6839\u636eF.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "f-fac": {
+      "version": 1,
+      "rootId": "f-fac",
+      "root": "fac\u505a",
+      "meaning": "fac",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "f",
+      "rootLevel": 2,
+      "rootPath": "f>f-fac",
+      "type": "root",
+      "notes": ""
+    },
+    "f-fac-fac": {
+      "version": 1,
+      "rootId": "f-fac-fac",
+      "root": "fac=fair=feat=fit=f'ect=f'ic=fic",
+      "meaning": "fac",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-fac-fac-affair",
+          "word": "affair",
+          "display": "Affair",
+          "phonetic": "",
+          "translation": "\u4e8b\u52a1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-affect",
+          "word": "affect",
+          "display": "Affect",
+          "phonetic": "",
+          "translation": "\u5f71\u54cd\uff1b\u611f\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-affectation",
+          "word": "affectation",
+          "display": "Affectation",
+          "phonetic": "",
+          "translation": "\u7231\uff1b\u60c5\u611f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-affection",
+          "word": "affection",
+          "display": "Affection",
+          "phonetic": "",
+          "translation": "\u5047\u88c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-affectionate",
+          "word": "affectionate",
+          "display": "Affectionate",
+          "phonetic": "",
+          "translation": "\u4eb2\u7231\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-beneficent",
+          "word": "beneficent",
+          "display": "Beneficent",
+          "phonetic": "",
+          "translation": "\u4ec1\u6148\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-benefit",
+          "word": "benefit",
+          "display": "Benefit",
+          "phonetic": "",
+          "translation": "\u597d\u5904",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-confection",
+          "word": "confection",
+          "display": "Confection",
+          "phonetic": "",
+          "translation": "\u7cd6\u679c\uff1b\u5236\u9020",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-counterfeit",
+          "word": "counterfeit",
+          "display": "Counterfeit",
+          "phonetic": "",
+          "translation": "\u8d5d\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-defeat",
+          "word": "defeat",
+          "display": "Defeat",
+          "phonetic": "",
+          "translation": "\u51fb\u8d25",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-defect",
+          "word": "defect",
+          "display": "Defect",
+          "phonetic": "",
+          "translation": "\u7f3a\u70b9\uff1b\u53db\u53d8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-deficient",
+          "word": "deficient",
+          "display": "Deficient",
+          "phonetic": "",
+          "translation": "\u7f3a\u4e4f\u7684\uff1b\u4e0d\u8db3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-difficult",
+          "word": "difficult",
+          "display": "Difficult",
+          "phonetic": "",
+          "translation": "\u56f0\u96be\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-effect",
+          "word": "effect",
+          "display": "Effect",
+          "phonetic": "",
+          "translation": "\u6548\u679c\uff1b\u5f71\u54cd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-efficacious",
+          "word": "efficacious",
+          "display": "Efficacious",
+          "phonetic": "",
+          "translation": "\u6709\u6548\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-efficiency",
+          "word": "efficiency",
+          "display": "Efficiency",
+          "phonetic": "",
+          "translation": "\u9ad8\u6548\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-facile",
+          "word": "facile",
+          "display": "Facile",
+          "phonetic": "",
+          "translation": "\u5bb9\u6613\u505a\u5230\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-facilitate",
+          "word": "facilitate",
+          "display": "Facilitate",
+          "phonetic": "",
+          "translation": "\u4f7f\u5bb9\u6613",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-facility",
+          "word": "facility",
+          "display": "Facility",
+          "phonetic": "",
+          "translation": "\u719f\u7ec3\uff1b\u8bbe\u5907",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-faction",
+          "word": "faction",
+          "display": "Faction",
+          "phonetic": "",
+          "translation": "\u5c0f\u96c6\u56e2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-factor",
+          "word": "factor",
+          "display": "Factor",
+          "phonetic": "",
+          "translation": "\u56e0\u7d20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-factory",
+          "word": "factory",
+          "display": "Factory",
+          "phonetic": "",
+          "translation": "\u5de5\u5382",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-faculty",
+          "word": "faculty",
+          "display": "Faculty",
+          "phonetic": "",
+          "translation": "\u624d\u80fd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-feat",
+          "word": "feat",
+          "display": "Feat",
+          "phonetic": "",
+          "translation": "\u6280\u827a\uff1b\u529f\u7ee9\uff1b\u58ee\u4e3e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-feature",
+          "word": "feature",
+          "display": "Feature",
+          "phonetic": "",
+          "translation": "\u7279\u5f81\uff1b\u5bb9\u8c8c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-forfeit",
+          "word": "forfeit",
+          "display": "Forfeit",
+          "phonetic": "",
+          "translation": "\u7f5a\u91d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-infect",
+          "word": "infect",
+          "display": "Infect",
+          "phonetic": "",
+          "translation": "\u4f20\u67d3\uff1b\u611f\u67d3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-magnificence",
+          "word": "magnificence",
+          "display": "Magnificence",
+          "phonetic": "",
+          "translation": "\u534e\u4e3d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-magnificent",
+          "word": "magnificent",
+          "display": "Magnificent",
+          "phonetic": "",
+          "translation": "\u534e\u4e3d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-malefaction",
+          "word": "malefaction",
+          "display": "Malefaction",
+          "phonetic": "",
+          "translation": "\u574f\u4e8b\uff1b\u7f6a\u884c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-manufacture",
+          "word": "manufacture",
+          "display": "Manufacture",
+          "phonetic": "",
+          "translation": "\u5236\u9020",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-perfect",
+          "word": "perfect",
+          "display": "Perfect",
+          "phonetic": "",
+          "translation": "\u5b8c\u7f8e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-profit",
+          "word": "profit",
+          "display": "Profit",
+          "phonetic": "",
+          "translation": "\u5229\u6da6\uff1b\u6709\u5229\u4e8e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-sacrifice",
+          "word": "sacrifice",
+          "display": "Sacrifice",
+          "phonetic": "",
+          "translation": "\u727a\u7272",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-suffice",
+          "word": "suffice",
+          "display": "Suffice",
+          "phonetic": "",
+          "translation": "\u4f7f\u6ee1\u8db3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-sufficient",
+          "word": "sufficient",
+          "display": "Sufficient",
+          "phonetic": "",
+          "translation": "\u5145\u8db3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fac-fac-surfeit",
+          "word": "surfeit",
+          "display": "Surfeit",
+          "phonetic": "",
+          "translation": "\u8fc7\u5ea6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-fac",
+      "rootLevel": 3,
+      "rootPath": "f>f-fac>f-fac-fac",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-fer": {
+      "version": 1,
+      "rootId": "f-fer",
+      "root": "fer\u5e26",
+      "meaning": "fer",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-fer-afferent",
+          "word": "afferent",
+          "display": "Afferent",
+          "phonetic": "",
+          "translation": "\u8f93\u5165\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-confer",
+          "word": "confer",
+          "display": "Confer",
+          "phonetic": "",
+          "translation": "\u6388\u4e88\uff1b\u534f\u5546",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-defer",
+          "word": "defer",
+          "display": "Defer",
+          "phonetic": "",
+          "translation": "\u63a8\u8fdf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-deference",
+          "word": "deference",
+          "display": "Deference",
+          "phonetic": "",
+          "translation": "\u987a\u4ece\uff1b\u5c0a\u91cd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-deferential",
+          "word": "deferential",
+          "display": "Deferential",
+          "phonetic": "",
+          "translation": "\u606d\u656c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-differ",
+          "word": "differ",
+          "display": "Differ",
+          "phonetic": "",
+          "translation": "\u4e0d\u540c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-difference",
+          "word": "difference",
+          "display": "Difference",
+          "phonetic": "",
+          "translation": "\u5dee\u5f02\uff1b\u5206\u6b67",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-differential",
+          "word": "differential",
+          "display": "Differential",
+          "phonetic": "",
+          "translation": "\u533a\u522b\uff1b\u8fa8\u522b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-efferent",
+          "word": "efferent",
+          "display": "Efferent",
+          "phonetic": "",
+          "translation": "\u4f20\u51fa\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-ferry",
+          "word": "ferry",
+          "display": "Ferry",
+          "phonetic": "",
+          "translation": "\u6446\u6e21",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-fertile",
+          "word": "fertile",
+          "display": "Fertile",
+          "phonetic": "",
+          "translation": "\u80a5\u6c83\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-fertilize",
+          "word": "fertilize",
+          "display": "Fertilize",
+          "phonetic": "",
+          "translation": "\u80a5\u6c83",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-indifference",
+          "word": "indifference",
+          "display": "Indifference",
+          "phonetic": "",
+          "translation": "\u51b7\u6de1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-indifferent",
+          "word": "indifferent",
+          "display": "Indifferent",
+          "phonetic": "",
+          "translation": "\u4e0d\u611f\u5174\u8da3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-infer",
+          "word": "infer",
+          "display": "Infer",
+          "phonetic": "",
+          "translation": "\u63a8\u65ad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-inferable",
+          "word": "inferable",
+          "display": "Inferable",
+          "phonetic": "",
+          "translation": "\u80fd\u63a8\u65ad\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-inference",
+          "word": "inference",
+          "display": "Inference",
+          "phonetic": "",
+          "translation": "\u63a8\u65ad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-offer",
+          "word": "offer",
+          "display": "Offer",
+          "phonetic": "",
+          "translation": "\u63d0\u4f9b\uff1b\u62a5\u4ef7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-prefer",
+          "word": "prefer",
+          "display": "Prefer",
+          "phonetic": "",
+          "translation": "\u5b81\u613f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-preferable",
+          "word": "preferable",
+          "display": "Preferable",
+          "phonetic": "",
+          "translation": "\u66f4\u53ef\u53d6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-preference",
+          "word": "preference",
+          "display": "Preference",
+          "phonetic": "",
+          "translation": "\u504f\u7231",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-proffer",
+          "word": "proffer",
+          "display": "Proffer",
+          "phonetic": "",
+          "translation": "\u732e\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-refer",
+          "word": "refer",
+          "display": "Refer",
+          "phonetic": "",
+          "translation": "\u63d0\u53ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-reference",
+          "word": "reference",
+          "display": "Reference",
+          "phonetic": "",
+          "translation": "\u63d0\u53ca\uff1b\u53c2\u8003",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-referendum",
+          "word": "referendum",
+          "display": "Referendum",
+          "phonetic": "",
+          "translation": "\u6295\u7968",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-referential",
+          "word": "referential",
+          "display": "Referential",
+          "phonetic": "",
+          "translation": "\u6709\u53c2\u8003\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-suffer",
+          "word": "suffer",
+          "display": "Suffer",
+          "phonetic": "",
+          "translation": "\u906d\u53d7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fer-transfer",
+          "word": "transfer",
+          "display": "Transfer",
+          "phonetic": "",
+          "translation": "\u8f6c\u8d26\uff1b\u8fc1\u79fb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f",
+      "rootLevel": 2,
+      "rootPath": "f>f-fer",
+      "type": "root",
+      "notes": ""
+    },
+    "f-fid": {
+      "version": 1,
+      "rootId": "f-fid",
+      "root": "fid=faith\u4fe1\u4efb",
+      "meaning": "fid",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-fid-confidant",
+          "word": "confidant",
+          "display": "Confidant",
+          "phonetic": "",
+          "translation": "\u5fc3\u8179\u670b\u53cb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-confidante",
+          "word": "confidante",
+          "display": "Confidante",
+          "phonetic": "",
+          "translation": "\u77e5\u5fc3\u5973\u53cb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-confide",
+          "word": "confide",
+          "display": "Confide",
+          "phonetic": "",
+          "translation": "\u59d4\u6258\uff1b\u4fe1\u8d56",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-confident",
+          "word": "confident",
+          "display": "Confident",
+          "phonetic": "",
+          "translation": "\u81ea\u4fe1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-confidential",
+          "word": "confidential",
+          "display": "Confidential",
+          "phonetic": "",
+          "translation": "\u79d8\u5bc6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-defiance",
+          "word": "defiance",
+          "display": "Defiance",
+          "phonetic": "",
+          "translation": "\u6311\u6218\uff1b\u8511\u89c6\uff1b\u6311\u8845",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-defy",
+          "word": "defy",
+          "display": "Defy",
+          "phonetic": "",
+          "translation": "\u4e0d\u670d\u4ece",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-diffidence",
+          "word": "diffidence",
+          "display": "Diffidence",
+          "phonetic": "",
+          "translation": "\u7f9e\u602f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-infidel",
+          "word": "infidel",
+          "display": "Infidel",
+          "phonetic": "",
+          "translation": "\u5f02\u7aef\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-perfidious",
+          "word": "perfidious",
+          "display": "Perfidious",
+          "phonetic": "",
+          "translation": "\u80cc\u4fe1\u5f03\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fid-perfidy",
+          "word": "perfidy",
+          "display": "Perfidy",
+          "phonetic": "",
+          "translation": "\u4e0d\u8bda\u5b9e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f",
+      "rootLevel": 2,
+      "rootPath": "f>f-fid",
+      "type": "root",
+      "notes": ""
+    },
+    "f-flect-flex": {
+      "version": 1,
+      "rootId": "f-flect-flex",
+      "root": "flect=flex=bend\u5f2f\u66f2",
+      "meaning": "flect=flex",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-flect-flex-genuflect",
+          "word": "genuflect",
+          "display": "Genuflect",
+          "phonetic": "",
+          "translation": "\u5c48\u819d\uff1b\u8dea\u62dc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-inflect",
+          "word": "inflect",
+          "display": "Inflect",
+          "phonetic": "",
+          "translation": "\u5f2f\u66f2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-inflexible",
+          "word": "inflexible",
+          "display": "Inflexible",
+          "phonetic": "",
+          "translation": "\u4e0d\u6613\u5f2f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-inflexion",
+          "word": "inflexion",
+          "display": "Inflexion",
+          "phonetic": "",
+          "translation": "\u5f2f\u66f2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-reflect",
+          "word": "reflect",
+          "display": "Reflect",
+          "phonetic": "",
+          "translation": "\u53cd\u5c04\uff1b\u53cd\u7701",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-reflex",
+          "word": "reflex",
+          "display": "Reflex",
+          "phonetic": "",
+          "translation": "\u53cd\u5c04\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-reflexible",
+          "word": "reflexible",
+          "display": "Reflexible",
+          "phonetic": "",
+          "translation": "\u53ef\u53cd\u5c04\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-reflexive",
+          "word": "reflexive",
+          "display": "Reflexive",
+          "phonetic": "",
+          "translation": "\u53cd\u8eab\u52a8\u8bcd/\u4ee3\u8bcd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f",
+      "rootLevel": 2,
+      "rootPath": "f>f-flect-flex",
+      "type": "root",
+      "notes": ""
+    },
+    "f-flect-flex-flex": {
+      "version": 1,
+      "rootId": "f-flect-flex-flex",
+      "root": "flex\u5f2f\u66f2",
+      "meaning": "flex",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-flect-flex-flex-circumflex",
+          "word": "circumflex",
+          "display": "Circumflex",
+          "phonetic": "",
+          "translation": "\u58f0\u8c03\u7b26\u53f7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-flex-deflect",
+          "word": "deflect",
+          "display": "Deflect",
+          "phonetic": "",
+          "translation": "\u504f\u79bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-flex-flection",
+          "word": "flection",
+          "display": "Flection",
+          "phonetic": "",
+          "translation": "\u5f2f\u66f2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-flex-flex",
+          "word": "flex",
+          "display": "Flex",
+          "phonetic": "",
+          "translation": "\u5f2f\u66f2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-flex-flexible",
+          "word": "flexible",
+          "display": "Flexible",
+          "phonetic": "",
+          "translation": "\u67d4\u97e7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-flex-flexor",
+          "word": "flexor",
+          "display": "Flexor",
+          "phonetic": "",
+          "translation": "\u5c48\u808c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flect-flex-flex-flexure",
+          "word": "flexure",
+          "display": "Flexure",
+          "phonetic": "",
+          "translation": "\u5f2f\u66f2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-flect-flex",
+      "rootLevel": 3,
+      "rootPath": "f>f-flect-flex>f-flect-flex-flex",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-flu": {
+      "version": 1,
+      "rootId": "f-flu",
+      "root": "flu=fluc=flux\u6d41",
+      "meaning": "flu",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-flu-affluence",
+          "word": "affluence",
+          "display": "Affluence",
+          "phonetic": "",
+          "translation": "\u4e30\u5bcc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-affluence-rich",
+          "word": "affluence",
+          "display": "Affluence",
+          "phonetic": "",
+          "translation": "\u5bcc\u88d5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-affluent",
+          "word": "affluent",
+          "display": "Affluent",
+          "phonetic": "",
+          "translation": "\u4e30\u5bcc\u7684\uff1b\u6d41\u7545\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-afflux",
+          "word": "afflux",
+          "display": "Afflux",
+          "phonetic": "",
+          "translation": "\u6d41\u5165",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-circumfluent",
+          "word": "circumfluent",
+          "display": "Circumfluent",
+          "phonetic": "",
+          "translation": "\u73af\u6d41\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-confluence",
+          "word": "confluence",
+          "display": "Confluence",
+          "phonetic": "",
+          "translation": "\u6c47\u6d41",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-confluent",
+          "word": "confluent",
+          "display": "Confluent",
+          "phonetic": "",
+          "translation": "\u6c47\u5408\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-effluence",
+          "word": "effluence",
+          "display": "Effluence",
+          "phonetic": "",
+          "translation": "\u6d41\u51fa",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-effluent",
+          "word": "effluent",
+          "display": "Effluent",
+          "phonetic": "",
+          "translation": "\u6d41\u52a8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-fluency",
+          "word": "fluency",
+          "display": "Fluency",
+          "phonetic": "",
+          "translation": "\u6d41\u5229\uff1b\u6d41\u7545",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-fluent",
+          "word": "fluent",
+          "display": "Fluent",
+          "phonetic": "",
+          "translation": "\u6d41\u52a8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-flush",
+          "word": "flush",
+          "display": "Flush",
+          "phonetic": "",
+          "translation": "\u5954\u6d41",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-fluvent",
+          "word": "fluvent",
+          "display": "Fluvent",
+          "phonetic": "",
+          "translation": "\u51b2\u51fb\u65b0\u6210\u571f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-fluvial",
+          "word": "fluvial",
+          "display": "Fluvial",
+          "phonetic": "",
+          "translation": "\u6cb3\u6d41\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-fluviatic",
+          "word": "fluviatic",
+          "display": "Fluviatic",
+          "phonetic": "",
+          "translation": "\u6cb3\u5ddd\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-fluviatile",
+          "word": "fluviatile",
+          "display": "Fluviatile",
+          "phonetic": "",
+          "translation": "\u6cb3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-fluviation",
+          "word": "fluviation",
+          "display": "Fluviation",
+          "phonetic": "",
+          "translation": "\u6cb3\u6c34\u4f5c\u7528",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-flux",
+          "word": "flux",
+          "display": "Flux",
+          "phonetic": "",
+          "translation": "\u6d41\u91cf\uff1b\u6da8\u6f6e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-inflow",
+          "word": "inflow",
+          "display": "Inflow",
+          "phonetic": "",
+          "translation": "\u6d41\u5165\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-influence",
+          "word": "influence",
+          "display": "Influence",
+          "phonetic": "",
+          "translation": "\u5f71\u54cd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-influential",
+          "word": "influential",
+          "display": "Influential",
+          "phonetic": "",
+          "translation": "\u6709\u5f71\u54cd\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-influx",
+          "word": "influx",
+          "display": "Influx",
+          "phonetic": "",
+          "translation": "\u6c47\u96c6\uff1b\u6d41\u52a8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-reflux",
+          "word": "reflux",
+          "display": "Reflux",
+          "phonetic": "",
+          "translation": "\u9006\u6d41\uff1b\u9000\u6f6e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-superfluity",
+          "word": "superfluity",
+          "display": "Superfluity",
+          "phonetic": "",
+          "translation": "\u5962\u4f88\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-flu-superflux",
+          "word": "superflux",
+          "display": "Superflux",
+          "phonetic": "",
+          "translation": "\u6ea2\u51fa\uff1b\u5927\u91cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f",
+      "rootLevel": 2,
+      "rootPath": "f>f-flu",
+      "type": "root",
+      "notes": ""
+    },
+    "f-fund": {
+      "version": 1,
+      "rootId": "f-fund",
+      "root": "fund=found=fus\u57fa\u7840\uff1b\u5e95\u90e8",
+      "meaning": "fund",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-fund-circumfuse",
+          "word": "circumfuse",
+          "display": "Circumfuse",
+          "phonetic": "",
+          "translation": "\u56f4\u7ed5\uff1b\u4ece\u56db\u9762\u6d47\u704c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-circumfusion",
+          "word": "circumfusion",
+          "display": "Circumfusion",
+          "phonetic": "",
+          "translation": "\u6563\u5e03\uff1b\u56f4\u7ed5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-confound",
+          "word": "confound",
+          "display": "Confound",
+          "phonetic": "",
+          "translation": "\u4f7f\u60ca\u8bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-confuse",
+          "word": "confuse",
+          "display": "Confuse",
+          "phonetic": "",
+          "translation": "\u4f7f\u6df7\u6dc6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-diffuse",
+          "word": "diffuse",
+          "display": "Diffuse",
+          "phonetic": "",
+          "translation": "\u6563\u64ad\uff1b\u4f20\u64ad",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-found",
+          "word": "found",
+          "display": "Found",
+          "phonetic": "",
+          "translation": "\u5efa\u7acb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-fundamental",
+          "word": "fundamental",
+          "display": "Fundamental",
+          "phonetic": "",
+          "translation": "\u57fa\u7840\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-fuse",
+          "word": "fuse",
+          "display": "Fuse",
+          "phonetic": "",
+          "translation": "\u4fdd\u9669\u4e1d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-fusion",
+          "word": "fusion",
+          "display": "Fusion",
+          "phonetic": "",
+          "translation": "\u878d\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-infuse",
+          "word": "infuse",
+          "display": "Infuse",
+          "phonetic": "",
+          "translation": "\u704c\u8f93",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-interfuse",
+          "word": "interfuse",
+          "display": "Interfuse",
+          "phonetic": "",
+          "translation": "\u4f7f\u878d\u5408",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-perfuse",
+          "word": "perfuse",
+          "display": "Perfuse",
+          "phonetic": "",
+          "translation": "\u704c\u6ce8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-profound",
+          "word": "profound",
+          "display": "Profound",
+          "phonetic": "",
+          "translation": "\u6df1\u523b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-profundity",
+          "word": "profundity",
+          "display": "Profundity",
+          "phonetic": "",
+          "translation": "\u6df1\u5ea6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-profuse",
+          "word": "profuse",
+          "display": "Profuse",
+          "phonetic": "",
+          "translation": "\u6d6a\u8d39\u7684\uff1b\u5927\u91cf\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-profuse-generous",
+          "word": "profuse",
+          "display": "Profuse",
+          "phonetic": "",
+          "translation": "\u6177\u6168\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-profusion",
+          "word": "profusion",
+          "display": "Profusion",
+          "phonetic": "",
+          "translation": "\u5927\u91cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-refuse",
+          "word": "refuse",
+          "display": "Refuse",
+          "phonetic": "",
+          "translation": "\u62d2\u7edd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-refute",
+          "word": "refute",
+          "display": "Refute",
+          "phonetic": "",
+          "translation": "\u53cd\u9a73",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-suffuse",
+          "word": "suffuse",
+          "display": "Suffuse",
+          "phonetic": "",
+          "translation": "\u5145\u6ee1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-transfuse",
+          "word": "transfuse",
+          "display": "Transfuse",
+          "phonetic": "",
+          "translation": "\u6ce8\u5165",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-transfusion",
+          "word": "transfusion",
+          "display": "Transfusion",
+          "phonetic": "",
+          "translation": "\u6ce8\u5165",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f",
+      "rootLevel": 2,
+      "rootPath": "f>f-fund",
+      "type": "root",
+      "notes": ""
+    },
+    "f-fund-foundation": {
+      "version": 1,
+      "rootId": "f-fund-foundation",
+      "root": "foundation\u57fa\u7840\uff1b\u6839\u672c",
+      "meaning": "foundation",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-fund-foundation",
+          "word": "foundation",
+          "display": "Foundation",
+          "phonetic": "",
+          "translation": "\u57fa\u7840\uff1b\u6839\u672c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-foundation-founder",
+          "word": "founder",
+          "display": "Founder",
+          "phonetic": "",
+          "translation": "\u94f8\u5de5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-fund-foundation-fund",
+          "word": "fund",
+          "display": "Fund",
+          "phonetic": "",
+          "translation": "\u8d44\u91d1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-fund",
+      "rootLevel": 3,
+      "rootPath": "f>f-fund>f-fund-foundation",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-other": {
+      "version": 1,
+      "rootId": "f-other",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "f",
+      "rootLevel": 2,
+      "rootPath": "f>f-other",
+      "type": "root",
+      "notes": ""
+    },
+    "f-other-fabl": {
+      "version": 1,
+      "rootId": "f-other-fabl",
+      "root": "fabl=fabul\u8bf4\u8bdd",
+      "meaning": "fabl",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-other-fabl-affability",
+          "word": "affability",
+          "display": "Affability",
+          "phonetic": "",
+          "translation": "\u548c\u853c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fabl-affable",
+          "word": "affable",
+          "display": "Affable",
+          "phonetic": "",
+          "translation": "\u4eb2\u5207\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fabl-confabulate",
+          "word": "confabulate",
+          "display": "Confabulate",
+          "phonetic": "",
+          "translation": "\u4ea4\u8c08",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fabl-effable",
+          "word": "effable",
+          "display": "Effable",
+          "phonetic": "",
+          "translation": "\u53ef\u8868\u8fbe\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fabl-fable",
+          "word": "fable",
+          "display": "Fable",
+          "phonetic": "",
+          "translation": "\u7ae5\u8bdd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fabl-fabulate",
+          "word": "fabulate",
+          "display": "Fabulate",
+          "phonetic": "",
+          "translation": "\u5bd3\u8a00\u521b\u4f5c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fabl-fabulist",
+          "word": "fabulist",
+          "display": "Fabulist",
+          "phonetic": "",
+          "translation": "\u5bd3\u8a00\u5bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fabl-fabulosity",
+          "word": "fabulosity",
+          "display": "Fabulosity",
+          "phonetic": "",
+          "translation": "\u5bd3\u8a00\u6027\u8d28",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-other",
+      "rootLevel": 3,
+      "rootPath": "f>f-other>f-other-fabl",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-other-febri": {
+      "version": 1,
+      "rootId": "f-other-febri",
+      "root": "febri\u70ed",
+      "meaning": "febri",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-other-febri-antifebrile",
+          "word": "antifebrile",
+          "display": "Antifebrile",
+          "phonetic": "",
+          "translation": "\u9000\u70ed\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-febricide",
+          "word": "febricide",
+          "display": "Febricide",
+          "phonetic": "",
+          "translation": "\u9000\u70e7\u836f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-febrifacient",
+          "word": "febrifacient",
+          "display": "Febrifacient",
+          "phonetic": "",
+          "translation": "\u4ea7\u70ed\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-febrific",
+          "word": "febrific",
+          "display": "Febrific",
+          "phonetic": "",
+          "translation": "\u4ea7\u70ed\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-febrifugal",
+          "word": "febrifugal",
+          "display": "Febrifugal",
+          "phonetic": "",
+          "translation": "\u9000\u70ed\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-febrile",
+          "word": "febrile",
+          "display": "Febrile",
+          "phonetic": "",
+          "translation": "\u53d1\u70ed\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-febriphobia",
+          "word": "febriphobia",
+          "display": "Febriphobia",
+          "phonetic": "",
+          "translation": "\u53d1\u70e7\u6050\u6016",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-fever",
+          "word": "fever",
+          "display": "Fever",
+          "phonetic": "",
+          "translation": "\u53d1\u70e7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-febri-feverish",
+          "word": "feverish",
+          "display": "Feverish",
+          "phonetic": "",
+          "translation": "\u53d1\u70e7\u7684\uff1b\u5174\u594b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-other",
+      "rootLevel": 3,
+      "rootPath": "f>f-other>f-other-febri",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-other-fict": {
+      "version": 1,
+      "rootId": "f-other-fict",
+      "root": "fict=fig\u5851\u9020\u865a\u6784",
+      "meaning": "fict",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-other-fict-configuration",
+          "word": "configuration",
+          "display": "Configuration",
+          "phonetic": "",
+          "translation": "\u6784\u9020",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-configure",
+          "word": "configure",
+          "display": "Configure",
+          "phonetic": "",
+          "translation": "\u914d\u7f6e\uff1b\u8bbe\u5b9a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-disfigure",
+          "word": "disfigure",
+          "display": "Disfigure",
+          "phonetic": "",
+          "translation": "\u4f7f\u53d8\u4e11",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-effigy",
+          "word": "effigy",
+          "display": "Effigy",
+          "phonetic": "",
+          "translation": "\u8096\u50cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-feign",
+          "word": "feign",
+          "display": "Feign",
+          "phonetic": "",
+          "translation": "\u5047\u88c5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-feint",
+          "word": "feint",
+          "display": "Feint",
+          "phonetic": "",
+          "translation": "\u5047\u8c61",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-fictile",
+          "word": "fictile",
+          "display": "Fictile",
+          "phonetic": "",
+          "translation": "\u5851\u9020\u7684\u53ef\u5851\u6027\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-fiction",
+          "word": "fiction",
+          "display": "Fiction",
+          "phonetic": "",
+          "translation": "\u865a\u6784\uff1b\u5c0f\u8bf4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-fictional",
+          "word": "fictional",
+          "display": "Fictional",
+          "phonetic": "",
+          "translation": "\u865a\u6784\u7684\uff1b\u5c0f\u8bf4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-fictionalize",
+          "word": "fictionalize",
+          "display": "Fictionalize",
+          "phonetic": "",
+          "translation": "\u4f7f\u5c0f\u8bf4\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-fictionist",
+          "word": "fictionist",
+          "display": "Fictionist",
+          "phonetic": "",
+          "translation": "\u5c0f\u8bf4\u5bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-fictitious",
+          "word": "fictitious",
+          "display": "Fictitious",
+          "phonetic": "",
+          "translation": "\u865a\u6784\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-fictive",
+          "word": "fictive",
+          "display": "Fictive",
+          "phonetic": "",
+          "translation": "\u865a\u6784\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-figment",
+          "word": "figment",
+          "display": "Figment",
+          "phonetic": "",
+          "translation": "\u865a\u6784\u7684\u4e8b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-figuration",
+          "word": "figuration",
+          "display": "Figuration",
+          "phonetic": "",
+          "translation": "\u5b9a\u5f62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-figurative",
+          "word": "figurative",
+          "display": "Figurative",
+          "phonetic": "",
+          "translation": "\u6bd4\u55bb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-figure",
+          "word": "figure",
+          "display": "Figure",
+          "phonetic": "",
+          "translation": "\u8f6e\u5ed3\uff1b\u6570\u5b57\uff1b\u5f62\u72b6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-nonfiction",
+          "word": "nonfiction",
+          "display": "Nonfiction",
+          "phonetic": "",
+          "translation": "\u975e\u5c0f\u8bf4\u7684\u6563\u6587\u6587\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-prefigure",
+          "word": "prefigure",
+          "display": "Prefigure",
+          "phonetic": "",
+          "translation": "\u9884\u60f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fict-transfigure",
+          "word": "transfigure",
+          "display": "Transfigure",
+          "phonetic": "",
+          "translation": "\u4f7f\u53d8\u5f62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-other",
+      "rootLevel": 3,
+      "rootPath": "f>f-other>f-other-fict",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-other-fil": {
+      "version": 1,
+      "rootId": "f-other-fil",
+      "root": "fil=thread\u7ebf",
+      "meaning": "fil",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-other-fil-bifilar",
+          "word": "bifilar",
+          "display": "Bifilar",
+          "phonetic": "",
+          "translation": "\u53cc\u7ebf\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fil-defile",
+          "word": "defile",
+          "display": "Defile",
+          "phonetic": "",
+          "translation": "\u5f04\u810f\uff1b\u6c61\u6e0d\uff1b\u4eb5\u6e0e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fil-filament",
+          "word": "filament",
+          "display": "Filament",
+          "phonetic": "",
+          "translation": "\u706f\u4e1d\uff1b\u7ec6\u4e1d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fil-filar",
+          "word": "filar",
+          "display": "Filar",
+          "phonetic": "",
+          "translation": "\u4e1d\u72b6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fil-filiform",
+          "word": "filiform",
+          "display": "Filiform",
+          "phonetic": "",
+          "translation": "\u4e1d\u72b6\u7684\uff1b\u7ea4\u7ef4\u72b6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fil-profile",
+          "word": "profile",
+          "display": "Profile",
+          "phonetic": "",
+          "translation": "\u4fa7\u9762\uff1b\u5916\u5f62",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-other",
+      "rootLevel": 3,
+      "rootPath": "f>f-other>f-other-fil",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-other-flick": {
+      "version": 1,
+      "rootId": "f-other-flick",
+      "root": "flick\u6253\u51fb",
+      "meaning": "flick",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-other-flick-afflict",
+          "word": "afflict",
+          "display": "Afflict",
+          "phonetic": "",
+          "translation": "\u4f7f\u75db\u82e6\uff1b\u6298\u78e8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flick-affliction",
+          "word": "affliction",
+          "display": "Affliction",
+          "phonetic": "",
+          "translation": "\u75db\u82e6\uff1b\u6298\u78e8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flick-conflict",
+          "word": "conflict",
+          "display": "Conflict",
+          "phonetic": "",
+          "translation": "\u6597\u4e89\uff1b\u51b2\u7a81",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flick-inflict",
+          "word": "inflict",
+          "display": "Inflict",
+          "phonetic": "",
+          "translation": "\u7ed9\u4e88\uff1b\u5904\u7f5a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flick-infliction",
+          "word": "infliction",
+          "display": "Infliction",
+          "phonetic": "",
+          "translation": "\u4e16\u5bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flick-inflictive",
+          "word": "inflictive",
+          "display": "Inflictive",
+          "phonetic": "",
+          "translation": "\u52a0\u4ee5\u6253\u51fb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-other",
+      "rootLevel": 3,
+      "rootPath": "f>f-other>f-other-flick",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-other-flor": {
+      "version": 1,
+      "rootId": "f-other-flor",
+      "root": "flor\u82b1",
+      "meaning": "flor",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-other-flor-flora",
+          "word": "flora",
+          "display": "Flora",
+          "phonetic": "",
+          "translation": "\u690d\u7269\u7fa4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-floral",
+          "word": "floral",
+          "display": "Floral",
+          "phonetic": "",
+          "translation": "\u82b1\u4e00\u6837\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-florescent",
+          "word": "florescent",
+          "display": "Florescent",
+          "phonetic": "",
+          "translation": "\u5f00\u82b1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-florid",
+          "word": "florid",
+          "display": "Florid",
+          "phonetic": "",
+          "translation": "\u534e\u4e3d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-florist",
+          "word": "florist",
+          "display": "Florist",
+          "phonetic": "",
+          "translation": "\u82b1\u5e97",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-flourish",
+          "word": "flourish",
+          "display": "Flourish",
+          "phonetic": "",
+          "translation": "\u8302\u76db",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-flourishing",
+          "word": "flourishing",
+          "display": "Flourishing",
+          "phonetic": "",
+          "translation": "\u7e41\u8363\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-noctiflorous",
+          "word": "noctiflorous",
+          "display": "Noctiflorous",
+          "phonetic": "",
+          "translation": "\u591c\u95f4\u5f00\u82b1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-flor-reflourish",
+          "word": "reflourish",
+          "display": "Reflourish",
+          "phonetic": "",
+          "translation": "\u590d\u6d3b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-other",
+      "rootLevel": 3,
+      "rootPath": "f>f-other>f-other-flor",
+      "type": "branch",
+      "notes": ""
+    },
+    "f-other-fug": {
+      "version": 1,
+      "rootId": "f-other-fug",
+      "root": "fug=flee\u9003\u6563",
+      "meaning": "fug",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "f-other-fug-defloration",
+          "word": "defloration",
+          "display": "Defloration",
+          "phonetic": "",
+          "translation": "\u73b7\u6c61",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fug-febrifuge",
+          "word": "febrifuge",
+          "display": "Febrifuge",
+          "phonetic": "",
+          "translation": "\u9000\u70ed\u836f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fug-fugitive",
+          "word": "fugitive",
+          "display": "Fugitive",
+          "phonetic": "",
+          "translation": "\u9003\u4ea1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fug-lucifuge",
+          "word": "lucifuge",
+          "display": "Lucifuge",
+          "phonetic": "",
+          "translation": "\u907f\u5149",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fug-lucifugous",
+          "word": "lucifugous",
+          "display": "Lucifugous",
+          "phonetic": "",
+          "translation": "\u907f\u5149\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fug-refuge",
+          "word": "refuge",
+          "display": "Refuge",
+          "phonetic": "",
+          "translation": "\u907f\u96be\u6240",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "f-other-fug-refugee",
+          "word": "refugee",
+          "display": "Refugee",
+          "phonetic": "",
+          "translation": "\u96be\u6c11",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "f-other",
+      "rootLevel": 3,
+      "rootPath": "f>f-other>f-other-fug",
+      "type": "branch",
+      "notes": ""
+    }
+  }
+}

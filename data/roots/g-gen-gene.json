@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "g-gen-gene",
+  "root": "gene\u57fa\u56e0",
+  "meaning": "gene",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-gen-gene-gender",
+      "word": "gender",
+      "display": "Gender",
+      "phonetic": "",
+      "translation": "\u6027\u522b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-generate",
+      "word": "generate",
+      "display": "Generate",
+      "phonetic": "",
+      "translation": "\u5f15\u8d77\uff1b\u4ea7\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-generic",
+      "word": "generic",
+      "display": "Generic",
+      "phonetic": "",
+      "translation": "\u5171\u6709\u7684\uff1b\u4e00\u822c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-generous",
+      "word": "generous",
+      "display": "Generous",
+      "phonetic": "",
+      "translation": "\u6177\u6168\u7684\uff1b\u80a5\u6c83\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-genesis",
+      "word": "genesis",
+      "display": "Genesis",
+      "phonetic": "",
+      "translation": "\u521b\u4e16\uff1b\u8d77\u6e90",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-genetic",
+      "word": "genetic",
+      "display": "Genetic",
+      "phonetic": "",
+      "translation": "\u9057\u4f20\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-genius",
+      "word": "genius",
+      "display": "Genius",
+      "phonetic": "",
+      "translation": "\u5929\u624d\uff1b\u624d\u80fd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-genuine",
+      "word": "genuine",
+      "display": "Genuine",
+      "phonetic": "",
+      "translation": "\u771f\u6b63\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gen-gene-indigenous",
+      "word": "indigenous",
+      "display": "Indigenous",
+      "phonetic": "",
+      "translation": "\u5929\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g-gen",
+  "rootLevel": 3,
+  "rootPath": "g>g-gen>g-gen-gene",
+  "type": "branch",
+  "notes": ""
+}

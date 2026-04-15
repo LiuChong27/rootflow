@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "h-hospit",
+  "root": "hospit/host=guest\u5ba2\u4eba",
+  "meaning": "hospit",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-hospit-hospitality",
+      "word": "hospitality",
+      "display": "Hospitality",
+      "phonetic": "",
+      "translation": "\u539a\u5f85",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hospit-host",
+      "word": "host",
+      "display": "Host",
+      "phonetic": "",
+      "translation": "\u4e3b\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hospit-hostage",
+      "word": "hostage",
+      "display": "Hostage",
+      "phonetic": "",
+      "translation": "\u4eba\u8d28",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hospit-hostess",
+      "word": "hostess",
+      "display": "Hostess",
+      "phonetic": "",
+      "translation": "\u5973\u4e3b\u4eba\uff1b\u5973\u8001\u677f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hospit-hostile",
+      "word": "hostile",
+      "display": "Hostile",
+      "phonetic": "",
+      "translation": "\u654c\u5bf9\u7684\uff1b\u654c\u610f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h",
+  "rootLevel": 2,
+  "rootPath": "h>h-hospit",
+  "type": "root",
+  "notes": ""
+}

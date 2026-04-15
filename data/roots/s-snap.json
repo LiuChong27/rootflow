@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rootId": "s-snap",
+  "root": "snap\u65ad\u5f00",
+  "meaning": "snap",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-snap",
+  "type": "root",
+  "notes": ""
+}

@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "s-sus",
+  "root": "sus\u4e0b",
+  "meaning": "under",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-sus-susceptible",
+      "word": "susceptible",
+      "display": "Susceptible",
+      "phonetic": "",
+      "translation": "\u6613\u53d7\u5f71\u54cd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sus-suspect",
+      "word": "suspect",
+      "display": "Suspect",
+      "phonetic": "",
+      "translation": "\u6000\u7591",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sus-suspend",
+      "word": "suspend",
+      "display": "Suspend",
+      "phonetic": "",
+      "translation": "\u60ac\u6302",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sus-suspicion",
+      "word": "suspicion",
+      "display": "Suspicion",
+      "phonetic": "",
+      "translation": "\u6000\u7591",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sus-suspicious",
+      "word": "suspicious",
+      "display": "Suspicious",
+      "phonetic": "",
+      "translation": "\u53ef\u7591\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sus-sustain",
+      "word": "sustain",
+      "display": "Sustain",
+      "phonetic": "",
+      "translation": "\u652f\u6491",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-sus",
+  "type": "root",
+  "notes": ""
+}

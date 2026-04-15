@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "o-order",
+  "root": "order=ordin\u987a\u5e8f",
+  "meaning": "order",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "o-order-coordinate",
+      "word": "coordinate",
+      "display": "Coordinate",
+      "phonetic": "",
+      "translation": "\u540c\u7b49\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-order-disorder",
+      "word": "disorder",
+      "display": "Disorder",
+      "phonetic": "",
+      "translation": "\u6742\u4e71\uff1b\u6df7\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-order-extraordinary",
+      "word": "extraordinary",
+      "display": "Extraordinary",
+      "phonetic": "",
+      "translation": "\u975e\u5e38\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-order-inordinate",
+      "word": "inordinate",
+      "display": "Inordinate",
+      "phonetic": "",
+      "translation": "\u65e0\u9650\u5236\u7684\uff1b\u7d0a\u4e71\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-order-ordinal",
+      "word": "ordinal",
+      "display": "Ordinal",
+      "phonetic": "",
+      "translation": "\u5e8f\u6570",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-order-ordinance",
+      "word": "ordinance",
+      "display": "Ordinance",
+      "phonetic": "",
+      "translation": "\u6cd5\u4ee4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-order-ordinary",
+      "word": "ordinary",
+      "display": "Ordinary",
+      "phonetic": "",
+      "translation": "\u5e73\u5e38\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "o-order-subordinate",
+      "word": "subordinate",
+      "display": "Subordinate",
+      "phonetic": "",
+      "translation": "\u6b21\u8981\u7684\uff1b\u4e0b\u5c5e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "o",
+  "rootLevel": 2,
+  "rootPath": "o>o-order",
+  "type": "root",
+  "notes": ""
+}

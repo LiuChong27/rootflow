@@ -1,0 +1,579 @@
+{
+  "version": 1,
+  "rootId": "p-pon",
+  "root": "pon=pos pound \u653e",
+  "meaning": "put",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-pon-apposite",
+      "word": "apposite",
+      "display": "Apposite",
+      "phonetic": "",
+      "translation": "\u9002\u5f53\u7684\uff08\u653e\u7684\u597d\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-apposition",
+      "word": "apposition",
+      "display": "Apposition",
+      "phonetic": "",
+      "translation": "\u76f8\u90bb\uff1b\u5e76\u5217",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-appositive",
+      "word": "appositive",
+      "display": "Appositive",
+      "phonetic": "",
+      "translation": "\u540c\u4f4d\u8bed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-component",
+      "word": "component",
+      "display": "Component",
+      "phonetic": "",
+      "translation": "\u6210\u5206\uff1b\u6784\u6210\u8981\u7d20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-compose",
+      "word": "compose",
+      "display": "Compose",
+      "phonetic": "",
+      "translation": "\u7ec4\u6210\uff1b\u521b\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-compost",
+      "word": "compost",
+      "display": "Compost",
+      "phonetic": "",
+      "translation": "\u6df7\u5408\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-compound",
+      "word": "compound",
+      "display": "Compound",
+      "phonetic": "",
+      "translation": "\u6df7\u5408\u7269\uff1b\u590d\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-decompose",
+      "word": "decompose",
+      "display": "Decompose",
+      "phonetic": "",
+      "translation": "\u5206\u89e3\uff1b\u5f17\u5170",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-depose",
+      "word": "depose",
+      "display": "Depose",
+      "phonetic": "",
+      "translation": "\u514d\u804c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-deposit",
+      "word": "deposit",
+      "display": "Deposit",
+      "phonetic": "",
+      "translation": "\u62bc\u91d1\uff1b\u5806\u79ef\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-discompose",
+      "word": "discompose",
+      "display": "Discompose",
+      "phonetic": "",
+      "translation": "\u6253\u6270\uff1b\u4f7f\u4eba\u614c\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-dispose",
+      "word": "dispose",
+      "display": "Dispose",
+      "phonetic": "",
+      "translation": "\u5904\u7406\uff1b\u5e03\u7f6e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-expose",
+      "word": "expose",
+      "display": "Expose",
+      "phonetic": "",
+      "translation": "\u66b4\u9732\uff1b\u63ed\u53d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-exposition",
+      "word": "exposition",
+      "display": "Exposition",
+      "phonetic": "",
+      "translation": "\u5c55\u89c8\u4f1a\uff1b\u66b4\u9732",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-exposure",
+      "word": "exposure",
+      "display": "Exposure",
+      "phonetic": "",
+      "translation": "\u66b4\u9732",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-expound",
+      "word": "expound",
+      "display": "Expound",
+      "phonetic": "",
+      "translation": "\u8be6\u7ec6\u8bf4\u660e\uff1b\u89e3\u91ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-impose",
+      "word": "impose",
+      "display": "Impose",
+      "phonetic": "",
+      "translation": "\u5f81\u7a0e\uff1b\u52a0\u5f3a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-imposition",
+      "word": "imposition",
+      "display": "Imposition",
+      "phonetic": "",
+      "translation": "\u5f81\u7a0e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-impostor",
+      "word": "impostor",
+      "display": "Impostor",
+      "phonetic": "",
+      "translation": "\u5192\u540d\u9876\u66ff\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-imposture",
+      "word": "imposture",
+      "display": "Imposture",
+      "phonetic": "",
+      "translation": "\u6b3a\u8bc8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-indispose",
+      "word": "indispose",
+      "display": "Indispose",
+      "phonetic": "",
+      "translation": "\u4f7f\u8ba8\u538c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-oppose",
+      "word": "oppose",
+      "display": "Oppose",
+      "phonetic": "",
+      "translation": "\u53cd\u5bf9\uff1b\u6218\u4e89",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-opposition",
+      "word": "opposition",
+      "display": "Opposition",
+      "phonetic": "",
+      "translation": "\u53cd\u5bf9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-pause",
+      "word": "pause",
+      "display": "Pause",
+      "phonetic": "",
+      "translation": "\u6682\u505c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-pose",
+      "word": "pose",
+      "display": "Pose",
+      "phonetic": "",
+      "translation": "\u59ff\u52bf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-posit",
+      "word": "posit",
+      "display": "Posit",
+      "phonetic": "",
+      "translation": "\u5b89\u6392",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-positive",
+      "word": "positive",
+      "display": "Positive",
+      "phonetic": "",
+      "translation": "\u80af\u5b9a\u7684\uff1b\u79ef\u6781\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-possess",
+      "word": "possess",
+      "display": "Possess",
+      "phonetic": "",
+      "translation": "\u5360\u6709\uff1b\u62e5\u6709",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-possession",
+      "word": "possession",
+      "display": "Possession",
+      "phonetic": "",
+      "translation": "\u6301\u6709\uff1b\u6240\u6709\u6743",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-post",
+      "word": "post",
+      "display": "Post",
+      "phonetic": "",
+      "translation": "\u804c\u4f4d\uff1b\u90ae\u4ef6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-post2",
+      "word": "post",
+      "display": "Post",
+      "phonetic": "",
+      "translation": "\u8d34\u51fa\uff1b\u90ae\u653f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-postage",
+      "word": "postage",
+      "display": "Postage",
+      "phonetic": "",
+      "translation": "\u90ae\u8d39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-postage2",
+      "word": "postage",
+      "display": "Postage",
+      "phonetic": "",
+      "translation": "\u90ae\u8d39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-postpone",
+      "word": "postpone",
+      "display": "Postpone",
+      "phonetic": "",
+      "translation": "\u63a8\u8fdf\uff1b\u5efa\u8bae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-postpone2",
+      "word": "postpone",
+      "display": "Postpone",
+      "phonetic": "",
+      "translation": "\u63a8\u8fdf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-posture",
+      "word": "posture",
+      "display": "Posture",
+      "phonetic": "",
+      "translation": "\u59ff\u52bf\uff1b\u59ff\u6001",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-precompose",
+      "word": "precompose",
+      "display": "Precompose",
+      "phonetic": "",
+      "translation": "\u9884\u5148\u5b89\u6392",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-preposition",
+      "word": "preposition",
+      "display": "Preposition",
+      "phonetic": "",
+      "translation": "\u4ecb\u8bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-propone",
+      "word": "propone",
+      "display": "Propone",
+      "phonetic": "",
+      "translation": "\u5efa\u8bae\uff1b\u6c42\u5a5a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-proposal",
+      "word": "proposal",
+      "display": "Proposal",
+      "phonetic": "",
+      "translation": "\u652f\u6301\u8005\uff1b\u62e5\u62a4\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-propose",
+      "word": "propose",
+      "display": "Propose",
+      "phonetic": "",
+      "translation": "\u8ba1\u5212\uff1b\u5efa\u8bae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-proposition",
+      "word": "proposition",
+      "display": "Proposition",
+      "phonetic": "",
+      "translation": "\u4e3b\u5f20\uff1b\u5efa\u8bae",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-purpose",
+      "word": "purpose",
+      "display": "Purpose",
+      "phonetic": "",
+      "translation": "\u76ee\u7684\uff1b\u51b3\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-reposal",
+      "word": "reposal",
+      "display": "Reposal",
+      "phonetic": "",
+      "translation": "\u4f11\u606f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-repose",
+      "word": "repose",
+      "display": "Repose",
+      "phonetic": "",
+      "translation": "\u4f11\u606f\uff1b\u7761\u7720",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-suppose",
+      "word": "suppose",
+      "display": "Suppose",
+      "phonetic": "",
+      "translation": "\u5047\u8bbe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-pon-transpose",
+      "word": "transpose",
+      "display": "Transpose",
+      "phonetic": "",
+      "translation": "\u8c03\u6362",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-pon",
+  "type": "root",
+  "notes": ""
+}

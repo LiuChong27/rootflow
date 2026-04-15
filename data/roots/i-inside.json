@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "rootId": "i-inside",
+  "root": "\u91cc\u9762",
+  "meaning": "inside",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "i-inside-include",
+      "word": "include",
+      "display": "Include",
+      "phonetic": "",
+      "translation": "\u5305\u542b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-inclusive",
+      "word": "inclusive",
+      "display": "Inclusive",
+      "phonetic": "",
+      "translation": "\u5305\u62ec\u7684\uff1b\u5305\u542b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-ingredient",
+      "word": "ingredient",
+      "display": "Ingredient",
+      "phonetic": "",
+      "translation": "\u7ec4\u6210\u90e8\u5206\uff1b\u914d\u6599\uff1b\u8981\u7d20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-inhabit",
+      "word": "inhabit",
+      "display": "Inhabit",
+      "phonetic": "",
+      "translation": "\u5c45\u4f4f\u4e8e\uff1b\u6816\u606f\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-inhabitant",
+      "word": "inhabitant",
+      "display": "Inhabitant",
+      "phonetic": "",
+      "translation": "\u5c45\u6c11\uff1b\u4f4f\u6237",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-inherent",
+      "word": "inherent",
+      "display": "Inherent",
+      "phonetic": "",
+      "translation": "\u56fa\u6709\u7684\uff1b\u5929\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-inn",
+      "word": "inn",
+      "display": "Inn",
+      "phonetic": "",
+      "translation": "\u5c0f\u65c5\u9986\uff1b\u5ba2\u6808",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-inner",
+      "word": "inner",
+      "display": "Inner",
+      "phonetic": "",
+      "translation": "\u5185\u90e8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-insight",
+      "word": "insight",
+      "display": "Insight",
+      "phonetic": "",
+      "translation": "\u6d1e\u5bdf\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-instinct",
+      "word": "instinct",
+      "display": "Instinct",
+      "phonetic": "",
+      "translation": "\u672c\u80fd\uff1b\u76f4\u89c9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-institute",
+      "word": "institute",
+      "display": "Institute",
+      "phonetic": "",
+      "translation": "\u5b66\u4f1a\uff1b\u7814\u7a76\u6240",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-institution",
+      "word": "institution",
+      "display": "Institution",
+      "phonetic": "",
+      "translation": "\u5b66\u6821\uff1b\u516c\u5171\u673a\u6784\uff1b\u60ef\u4f8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interact",
+      "word": "interact",
+      "display": "Interact",
+      "phonetic": "",
+      "translation": "\u4e92\u76f8\u4f5c\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intercourse",
+      "word": "intercourse",
+      "display": "Intercourse",
+      "phonetic": "",
+      "translation": "\u4ea4\u6d41",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interface",
+      "word": "interface",
+      "display": "Interface",
+      "phonetic": "",
+      "translation": "\u76f8\u4e92\u8054\u7cfb\uff1b\u5206\u754c\u9762",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interfere",
+      "word": "interfere",
+      "display": "Interfere",
+      "phonetic": "",
+      "translation": "\u5e72\u6d89\uff1b\u59a8\u788d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interference",
+      "word": "interference",
+      "display": "Interference",
+      "phonetic": "",
+      "translation": "\u5e72\u6d89\uff1b\u5e72\u9884",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interim",
+      "word": "interim",
+      "display": "Interim",
+      "phonetic": "",
+      "translation": "\u4e2d\u95f4\u7684\uff1b\u6682\u65f6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interior",
+      "word": "interior",
+      "display": "Interior",
+      "phonetic": "",
+      "translation": "\u5185\u90e8\u7684\uff1b\u91cc\u9762\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intermediate",
+      "word": "intermediate",
+      "display": "Intermediate",
+      "phonetic": "",
+      "translation": "\u4e2d\u95f4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intermittent",
+      "word": "intermittent",
+      "display": "Intermittent",
+      "phonetic": "",
+      "translation": "\u95f4\u6b47\u7684\uff1b\u65ad\u65ad\u7eed\u7eed\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-internal",
+      "word": "internal",
+      "display": "Internal",
+      "phonetic": "",
+      "translation": "\u5185\u90e8\u7684\uff1b\u5185\u653f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-international",
+      "word": "international",
+      "display": "International",
+      "phonetic": "",
+      "translation": "\u56fd\u9645\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interrupt",
+      "word": "interrupt",
+      "display": "Interrupt",
+      "phonetic": "",
+      "translation": "\u4e2d\u65ad\uff1b\u963b\u788d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intersection",
+      "word": "intersection",
+      "display": "Intersection",
+      "phonetic": "",
+      "translation": "\u76f8\u4ea4\uff1b\u5341\u5b57\u8def\u53e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interval",
+      "word": "interval",
+      "display": "Interval",
+      "phonetic": "",
+      "translation": "\u95f4\u6b47\uff1b\u95f4\u9694",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intervene",
+      "word": "intervene",
+      "display": "Intervene",
+      "phonetic": "",
+      "translation": "\u5e72\u6d89\uff1b\u63d2\u5165",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-interview",
+      "word": "interview",
+      "display": "Interview",
+      "phonetic": "",
+      "translation": "\u63a5\u89c1\uff1b\u4f1a\u89c1\uff1b\u91c7\u8bbf\uff1b\u9762\u8bd5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intimate-close",
+      "word": "intimate",
+      "display": "Intimate",
+      "phonetic": "",
+      "translation": "\u4eb2\u5bc6\u7684\uff1b\u5bc6\u5207\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intrigue",
+      "word": "intrigue",
+      "display": "Intrigue",
+      "phonetic": "",
+      "translation": "\u9634\u8c0b\uff1b\u5bc6\u8c0b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-intrinsic",
+      "word": "intrinsic",
+      "display": "Intrinsic",
+      "phonetic": "",
+      "translation": "\u56fa\u6709\u7684\uff1b\u672c\u8d28\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-involve",
+      "word": "involve",
+      "display": "Involve",
+      "phonetic": "",
+      "translation": "\u5377\u5165\uff1b\u8fde\u7d2f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-inward",
+      "word": "inward",
+      "display": "Inward",
+      "phonetic": "",
+      "translation": "\u5411\u5185",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "i-inside-irrespective",
+      "word": "irrespective",
+      "display": "Irrespective",
+      "phonetic": "",
+      "translation": "\u4e0d\u987e\u7684\uff1b\u65e0\u5173\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "i",
+  "rootLevel": 2,
+  "rootPath": "i>i-inside",
+  "type": "root",
+  "notes": ""
+}

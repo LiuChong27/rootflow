@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "rootId": "g-gram",
+  "root": "gram=graph\u5199",
+  "meaning": "gram",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "g-gram-autobiography",
+      "word": "autobiography",
+      "display": "Autobiography",
+      "phonetic": "",
+      "translation": "\u81ea\u4f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-autograph",
+      "word": "autograph",
+      "display": "Autograph",
+      "phonetic": "",
+      "translation": "\u4eb2\u7b14\uff1b\u624b\u7a3f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-biography",
+      "word": "biography",
+      "display": "Biography",
+      "phonetic": "",
+      "translation": "\u4f20\u8bb0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-calligraphy",
+      "word": "calligraphy",
+      "display": "Calligraphy",
+      "phonetic": "",
+      "translation": "\u4e66\u6cd5\uff1b\u7b14\u8ff9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-cryptogram",
+      "word": "cryptogram",
+      "display": "Cryptogram",
+      "phonetic": "",
+      "translation": "\u5bc6\u7801",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-diagram",
+      "word": "diagram",
+      "display": "Diagram",
+      "phonetic": "",
+      "translation": "\u56fe\u8868",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-epigram",
+      "word": "epigram",
+      "display": "Epigram",
+      "phonetic": "",
+      "translation": "\u683c\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-geography",
+      "word": "geography",
+      "display": "Geography",
+      "phonetic": "",
+      "translation": "\u5730\u7406\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-grammar",
+      "word": "grammar",
+      "display": "Grammar",
+      "phonetic": "",
+      "translation": "\u8bed\u6cd5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-graph",
+      "word": "graph",
+      "display": "Graph",
+      "phonetic": "",
+      "translation": "\u56fe\u6807\uff1b\u66f2\u7ebf\u56fe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-graphic",
+      "word": "graphic",
+      "display": "Graphic",
+      "phonetic": "",
+      "translation": "\u4e66\u5199\u7684\uff1b\u56fe\u8868\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-phonograph",
+      "word": "phonograph",
+      "display": "Phonograph",
+      "phonetic": "",
+      "translation": "\u7559\u58f0\u673a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-photograph",
+      "word": "photograph",
+      "display": "Photograph",
+      "phonetic": "",
+      "translation": "\u7167\u7247",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-program",
+      "word": "program",
+      "display": "Program",
+      "phonetic": "",
+      "translation": "\u7a0b\u5e8f\uff1b\u8ba1\u5212\uff1b\u5927\u7eb2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "g-gram-telegraph",
+      "word": "telegraph",
+      "display": "Telegraph",
+      "phonetic": "",
+      "translation": "\u7535\u62a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "g",
+  "rootLevel": 2,
+  "rootPath": "g>g-gram",
+  "type": "root",
+  "notes": ""
+}

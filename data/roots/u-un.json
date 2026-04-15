@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "rootId": "u-un",
+  "root": "un",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "u-un-uncover",
+      "word": "uncover",
+      "display": "Uncover",
+      "phonetic": "",
+      "translation": "\u63ed\u9732",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-undo",
+      "word": "undo",
+      "display": "Undo",
+      "phonetic": "",
+      "translation": "\u677e\u5f00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-undoubtedly",
+      "word": "undoubtedly",
+      "display": "Undoubtedly",
+      "phonetic": "",
+      "translation": "\u65e0\u7591",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-uneasy",
+      "word": "uneasy",
+      "display": "Uneasy",
+      "phonetic": "",
+      "translation": "\u4e0d\u5b89\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unemployment",
+      "word": "unemployment",
+      "display": "Unemployment",
+      "phonetic": "",
+      "translation": "\u5931\u4e1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unexpected",
+      "word": "unexpected",
+      "display": "Unexpected",
+      "phonetic": "",
+      "translation": "\u610f\u5916\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unfold",
+      "word": "unfold",
+      "display": "Unfold",
+      "phonetic": "",
+      "translation": "\u6253\u5f00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unfortunately",
+      "word": "unfortunately",
+      "display": "Unfortunately",
+      "phonetic": "",
+      "translation": "\u4e0d\u5e78\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unless",
+      "word": "unless",
+      "display": "Unless",
+      "phonetic": "",
+      "translation": "\u9664\u975e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unlike",
+      "word": "unlike",
+      "display": "Unlike",
+      "phonetic": "",
+      "translation": "\u4e0d\u76f8\u4f3c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unlikely",
+      "word": "unlikely",
+      "display": "Unlikely",
+      "phonetic": "",
+      "translation": "\u672a\u5fc5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-un-unload",
+      "word": "unload",
+      "display": "Unload",
+      "phonetic": "",
+      "translation": "\u5378\u8d27",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "u",
+  "rootLevel": 1,
+  "rootPath": "u>u-un",
+  "type": "root",
+  "notes": ""
+}

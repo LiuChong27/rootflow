@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "u-other",
+  "root": "other",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "u-other-ultimate",
+      "word": "ultimate",
+      "display": "Ultimate",
+      "phonetic": "",
+      "translation": "\u6700\u540e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-other-ultraviolet",
+      "word": "ultraviolet",
+      "display": "Ultraviolet",
+      "phonetic": "",
+      "translation": "\u7d2b\u5916\u7ebf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-other-unanimous",
+      "word": "unanimous",
+      "display": "Unanimous",
+      "phonetic": "",
+      "translation": "\u4e00\u81f4\u540c\u610f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-other-urban",
+      "word": "urban",
+      "display": "Urban",
+      "phonetic": "",
+      "translation": "\u57ce\u5e02\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "u-other-utter",
+      "word": "utter",
+      "display": "Utter",
+      "phonetic": "",
+      "translation": "\u5f7b\u5e95\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "u",
+  "rootLevel": 1,
+  "rootPath": "u>u-other",
+  "type": "root",
+  "notes": ""
+}

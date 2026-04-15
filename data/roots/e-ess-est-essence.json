@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "e-ess-est-essence",
+  "root": "essence\u672c\u8d28\uff1b\u7cbe\u9ad3",
+  "meaning": "essence",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-ess-est-essence-elite",
+      "word": "elite",
+      "display": "Elite",
+      "phonetic": "",
+      "translation": "\u7cbe\u534e\uff1b\u4e2d\u575a\u5206\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ess-est-essence-essence",
+      "word": "essence",
+      "display": "Essence",
+      "phonetic": "",
+      "translation": "\u672c\u8d28\uff1b\u7cbe\u9ad3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ess-est-essence-essential",
+      "word": "essential",
+      "display": "Essential",
+      "phonetic": "",
+      "translation": "\u672c\u8d28\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-ess-est-essence-quintessence",
+      "word": "quintessence",
+      "display": "Quintessence",
+      "phonetic": "",
+      "translation": "\u7cbe\u534e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e-ess-est",
+  "rootLevel": 3,
+  "rootPath": "e>e-ess-est>e-ess-est-essence",
+  "type": "branch",
+  "notes": ""
+}

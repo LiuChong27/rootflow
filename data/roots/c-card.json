@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rootId": "c-card",
+  "root": "card\u5361\u7247",
+  "meaning": "card",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-card-discard",
+      "word": "discard",
+      "display": "Discard",
+      "phonetic": "",
+      "translation": "\u4e22\u5f03",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c",
+  "rootLevel": 2,
+  "rootPath": "c>c-card",
+  "type": "root",
+  "notes": ""
+}

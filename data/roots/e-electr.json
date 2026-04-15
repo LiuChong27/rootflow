@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "rootId": "e-electr",
+  "root": "electr\u7425\u73c0 \u6469\u64e6\u5e26\u7535",
+  "meaning": "electr",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "e-electr-electric",
+      "word": "electric",
+      "display": "Electric",
+      "phonetic": "",
+      "translation": "\u7535\u7684\uff1b\u5bfc\u7535\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-electr-electrical",
+      "word": "electrical",
+      "display": "Electrical",
+      "phonetic": "",
+      "translation": "\u5bfc\u7535\u7684\uff1b\u7535\u52a8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-electr-electrician",
+      "word": "electrician",
+      "display": "Electrician",
+      "phonetic": "",
+      "translation": "\u7535\u7684\uff1b\u7535\u5b66\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-electr-electricity",
+      "word": "electricity",
+      "display": "Electricity",
+      "phonetic": "",
+      "translation": "\u7535\u6d41",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-electr-electron",
+      "word": "electron",
+      "display": "Electron",
+      "phonetic": "",
+      "translation": "\u7535\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "e-electr-electronic",
+      "word": "electronic",
+      "display": "Electronic",
+      "phonetic": "",
+      "translation": "\u7535\u5b50\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "e",
+  "rootLevel": 2,
+  "rootPath": "e>e-electr",
+  "type": "root",
+  "notes": ""
+}

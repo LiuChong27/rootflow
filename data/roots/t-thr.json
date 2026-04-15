@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "t-thr",
+  "root": "thr",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-thr-third",
+      "word": "third",
+      "display": "Third",
+      "phonetic": "",
+      "translation": "\u7b2c\u4e09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-thr-thirst",
+      "word": "thirst",
+      "display": "Thirst",
+      "phonetic": "",
+      "translation": "\u53e3\u6e34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-thr-thirsty",
+      "word": "thirsty",
+      "display": "Thirsty",
+      "phonetic": "",
+      "translation": "\u53e3\u6e34\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-thr-thirteen",
+      "word": "thirteen",
+      "display": "Thirteen",
+      "phonetic": "",
+      "translation": "\u5341\u4e09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-thr-thirty",
+      "word": "thirty",
+      "display": "Thirty",
+      "phonetic": "",
+      "translation": "\u4e09\u5341",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-thr-triangle",
+      "word": "triangle",
+      "display": "Triangle",
+      "phonetic": "",
+      "translation": "\u4e09\u89d2\u5f62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-thr-triple",
+      "word": "triple",
+      "display": "Triple",
+      "phonetic": "",
+      "translation": "\u4e09\u500d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-thr",
+  "type": "root",
+  "notes": ""
+}

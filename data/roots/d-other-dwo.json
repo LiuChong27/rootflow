@@ -1,0 +1,543 @@
+{
+  "version": 1,
+  "rootId": "d-other-dwo",
+  "root": "dwo du di two \u4e24\u4e2a",
+  "meaning": "two",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-other-dwo-dial",
+      "word": "dial",
+      "display": "Dial",
+      "phonetic": "",
+      "translation": "\u523b\u5ea6\u76d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dialect",
+      "word": "dialect",
+      "display": "Dialect",
+      "phonetic": "",
+      "translation": "\u65b9\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dialog",
+      "word": "dialog",
+      "display": "Dialog",
+      "phonetic": "",
+      "translation": "\u5bf9\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diameter",
+      "word": "diameter",
+      "display": "Diameter",
+      "phonetic": "",
+      "translation": "\u76f4\u5f84",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diary",
+      "word": "diary",
+      "display": "Diary",
+      "phonetic": "",
+      "translation": "\u65e5\u8bb0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-differ",
+      "word": "differ",
+      "display": "Differ",
+      "phonetic": "",
+      "translation": "\u4e0e...\u4e0d\u540c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-difference",
+      "word": "difference",
+      "display": "Difference",
+      "phonetic": "",
+      "translation": "\u5dee\u5f02",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-different",
+      "word": "different",
+      "display": "Different",
+      "phonetic": "",
+      "translation": "\u5dee\u5f02\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-differentiate",
+      "word": "differentiate",
+      "display": "Differentiate",
+      "phonetic": "",
+      "translation": "\u533a\u522b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-difficult",
+      "word": "difficult",
+      "display": "Difficult",
+      "phonetic": "",
+      "translation": "\u56f0\u96be\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-difficulty",
+      "word": "difficulty",
+      "display": "Difficulty",
+      "phonetic": "",
+      "translation": "\u56f0\u96be",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-digest",
+      "word": "digest",
+      "display": "Digest",
+      "phonetic": "",
+      "translation": "\u7b11\u8bdd\uff1b\u9886\u4f1a\uff1b\u6458\u8981",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-digital",
+      "word": "digital",
+      "display": "Digital",
+      "phonetic": "",
+      "translation": "\u6570\u5b57\u7684\uff1b\u624b\u6307\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dilemma",
+      "word": "dilemma",
+      "display": "Dilemma",
+      "phonetic": "",
+      "translation": "\u8fdb\u9000\u4e24\u96be",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dilute",
+      "word": "dilute",
+      "display": "Dilute",
+      "phonetic": "",
+      "translation": "\u7a00\u91ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dim",
+      "word": "dim",
+      "display": "Dim",
+      "phonetic": "",
+      "translation": "\u6a21\u7cca\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dimension",
+      "word": "dimension",
+      "display": "Dimension",
+      "phonetic": "",
+      "translation": "\u5c3a\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diminish",
+      "word": "diminish",
+      "display": "Diminish",
+      "phonetic": "",
+      "translation": "\u51cf\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dine",
+      "word": "dine",
+      "display": "Dine",
+      "phonetic": "",
+      "translation": "\u5403\u996d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dinner",
+      "word": "dinner",
+      "display": "Dinner",
+      "phonetic": "",
+      "translation": "\u6b63\u9910",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dip",
+      "word": "dip",
+      "display": "Dip",
+      "phonetic": "",
+      "translation": "\u8638",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diploma",
+      "word": "diploma",
+      "display": "Diploma",
+      "phonetic": "",
+      "translation": "\u6587\u51ed\uff1b\u6bd5\u4e1a\u8bc1\u4e66\uff08\u4e24\u9875\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diplomaism",
+      "word": "diplomaism",
+      "display": "Diplomaism",
+      "phonetic": "",
+      "translation": "\u6587\u51ed\u81f3\u4e0a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diplomat",
+      "word": "diplomat",
+      "display": "Diplomat",
+      "phonetic": "",
+      "translation": "\u5916\u4ea4\u5b98",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diplomatic",
+      "word": "diplomatic",
+      "display": "Diplomatic",
+      "phonetic": "",
+      "translation": "\u5916\u4ea4\u7684\uff1b\u5706\u6ed1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diplomatize",
+      "word": "diplomatize",
+      "display": "Diplomatize",
+      "phonetic": "",
+      "translation": "\u4f7f\u7528\u5916\u4ea4\u624b\u8155",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-direct",
+      "word": "direct",
+      "display": "Direct",
+      "phonetic": "",
+      "translation": "\u65b9\u5411\uff1b\u77e5\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-directly",
+      "word": "directly",
+      "display": "Directly",
+      "phonetic": "",
+      "translation": "\u76f4\u63a5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-director",
+      "word": "director",
+      "display": "Director",
+      "phonetic": "",
+      "translation": "\u5bfc\u6f14\uff0c\u4e3b\u5bfc\u7684\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-directory",
+      "word": "directory",
+      "display": "Directory",
+      "phonetic": "",
+      "translation": "\u7535\u8bdd\u7c3f\u76ee\u5f55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dirt",
+      "word": "dirt",
+      "display": "Dirt",
+      "phonetic": "",
+      "translation": "\u7070\u5c18",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dirty",
+      "word": "dirty",
+      "display": "Dirty",
+      "phonetic": "",
+      "translation": "\u5f04\u810f\uff1b\u73b7\u6c61",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dish",
+      "word": "dish",
+      "display": "Dish",
+      "phonetic": "",
+      "translation": "\u789f\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-ditch",
+      "word": "ditch",
+      "display": "Ditch",
+      "phonetic": "",
+      "translation": "\u6c9f\u6e20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dive",
+      "word": "dive",
+      "display": "Dive",
+      "phonetic": "",
+      "translation": "\u6f5c\u6c34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diverse",
+      "word": "diverse",
+      "display": "Diverse",
+      "phonetic": "",
+      "translation": "\u591a\u79cd\u591a\u6837\u7684\uff1b\u4e0d\u540c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-divide",
+      "word": "divide",
+      "display": "Divide",
+      "phonetic": "",
+      "translation": "\u5206\u5f00\uff1b\u5206\u6c34\u5cad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dividend",
+      "word": "dividend",
+      "display": "Dividend",
+      "phonetic": "",
+      "translation": "\u7ea2\u5229\uff1b\u5956\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-divine",
+      "word": "divine",
+      "display": "Divine",
+      "phonetic": "",
+      "translation": "\u795e\u5723\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-division",
+      "word": "division",
+      "display": "Division",
+      "phonetic": "",
+      "translation": "\u5206\u5f00\uff1b\u5206\u5272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-divisor",
+      "word": "divisor",
+      "display": "Divisor",
+      "phonetic": "",
+      "translation": "\u9664\u6570\uff08\u9664\u6cd5\u5c31\u662f\u62c6\u5206\u4e00\u4e2a\u6570\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-dizzy",
+      "word": "dizzy",
+      "display": "Dizzy",
+      "phonetic": "",
+      "translation": "\u5934\u6655\u76ee\u7729\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-individual",
+      "word": "individual",
+      "display": "Individual",
+      "phonetic": "",
+      "translation": "\u4e2a\u4eba\uff08in\u4e0d\u53ef\u5206\u5272\u7684\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-indivisible",
+      "word": "indivisible",
+      "display": "Indivisible",
+      "phonetic": "",
+      "translation": "\u4e0d\u53ef\u5206\u5272\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-other",
+  "rootLevel": 3,
+  "rootPath": "d>d-other>d-other-dwo",
+  "type": "branch",
+  "notes": ""
+}

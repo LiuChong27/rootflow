@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "r-re-resist",
+  "root": "\u53cd\u6297",
+  "meaning": "resist",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-re-resist-rebel",
+      "word": "rebel",
+      "display": "Rebel",
+      "phonetic": "",
+      "translation": "\u53cd\u6297",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-rebellion",
+      "word": "rebellion",
+      "display": "Rebellion",
+      "phonetic": "",
+      "translation": "\u53db\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-resent",
+      "word": "resent",
+      "display": "Resent",
+      "phonetic": "",
+      "translation": "\u6028\u6068",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-resist",
+      "word": "resist",
+      "display": "Resist",
+      "phonetic": "",
+      "translation": "\u62b5\u6297",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-resistance",
+      "word": "resistance",
+      "display": "Resistance",
+      "phonetic": "",
+      "translation": "\u62b5\u6297\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-restrain",
+      "word": "restrain",
+      "display": "Restrain",
+      "phonetic": "",
+      "translation": "\u5236\u6b62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-restraint",
+      "word": "restraint",
+      "display": "Restraint",
+      "phonetic": "",
+      "translation": "\u6291\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-restrict",
+      "word": "restrict",
+      "display": "Restrict",
+      "phonetic": "",
+      "translation": "\u9650\u5236",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-retort",
+      "word": "retort",
+      "display": "Retort",
+      "phonetic": "",
+      "translation": "\u53cd\u9a73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-retrieve",
+      "word": "retrieve",
+      "display": "Retrieve",
+      "phonetic": "",
+      "translation": "\u593a\u56de",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-revenge",
+      "word": "revenge",
+      "display": "Revenge",
+      "phonetic": "",
+      "translation": "\u590d\u4ec7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-revolt",
+      "word": "revolt",
+      "display": "Revolt",
+      "phonetic": "",
+      "translation": "\u53cd\u6297",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-revolution",
+      "word": "revolution",
+      "display": "Revolution",
+      "phonetic": "",
+      "translation": "\u9769\u547d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-revolutionary",
+      "word": "revolutionary",
+      "display": "Revolutionary",
+      "phonetic": "",
+      "translation": "\u9769\u547d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-revolve",
+      "word": "revolve",
+      "display": "Revolve",
+      "phonetic": "",
+      "translation": "\u65cb\u8f6c\uff1b\u8003\u8651",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-re-resist-reward",
+      "word": "reward",
+      "display": "Reward",
+      "phonetic": "",
+      "translation": "\u62a5\u916c\uff1b\u8003\u8651",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r-re",
+  "rootLevel": 3,
+  "rootPath": "r>r-re>r-re-resist",
+  "type": "root",
+  "notes": ""
+}

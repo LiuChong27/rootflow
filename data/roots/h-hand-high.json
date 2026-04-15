@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "rootId": "h-hand-high",
+  "root": "\u5f15\u7533\uff1a\u9ad8",
+  "meaning": "high",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-hand-high-head",
+      "word": "head",
+      "display": "Head",
+      "phonetic": "",
+      "translation": "\u5934\uff1b\u9876\u90e8\uff1b\u9886\u5bfc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-heading",
+      "word": "heading",
+      "display": "Heading",
+      "phonetic": "",
+      "translation": "\u6807\u9898",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-headline",
+      "word": "headline",
+      "display": "Headline",
+      "phonetic": "",
+      "translation": "\u65b0\u95fb\u6807\u9898",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-headmaster",
+      "word": "headmaster",
+      "display": "Headmaster",
+      "phonetic": "",
+      "translation": "\u6821\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-headquarters",
+      "word": "headquarters",
+      "display": "Headquarters",
+      "phonetic": "",
+      "translation": "\u53f8\u4ee4\u90e8\uff1b\u6307\u6325\u90e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-heave",
+      "word": "heave",
+      "display": "Heave",
+      "phonetic": "",
+      "translation": "\u4e3e\u8d77\uff1b\u63d0\uff1b\u62c9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-heaven",
+      "word": "heaven",
+      "display": "Heaven",
+      "phonetic": "",
+      "translation": "\u5929\u7a7a\uff1b\u5929\u5802",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-heavy",
+      "word": "heavy",
+      "display": "Heavy",
+      "phonetic": "",
+      "translation": "\u91cd\u7684\uff1b\u5927\u91cf\u7684\uff1b\u731b\u70c8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-height",
+      "word": "height",
+      "display": "Height",
+      "phonetic": "",
+      "translation": "\u9ad8\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-heighten",
+      "word": "heighten",
+      "display": "Heighten",
+      "phonetic": "",
+      "translation": "\u63d0\u9ad8\uff1b\u63d0\u5347",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-hill",
+      "word": "hill",
+      "display": "Hill",
+      "phonetic": "",
+      "translation": "\u9ad8\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-hoist",
+      "word": "hoist",
+      "display": "Hoist",
+      "phonetic": "",
+      "translation": "\u4e3e\u8d77\uff1b\u5347\u8d77",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-hollow",
+      "word": "hollow",
+      "display": "Hollow",
+      "phonetic": "",
+      "translation": "\u7a7a\u7684\uff1b\u4e2d\u7a7a\u7684\uff1b\u7a7a\u865a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-hand-high-holy",
+      "word": "holy",
+      "display": "Holy",
+      "phonetic": "",
+      "translation": "\u795e\u5723\u7684\uff1b\u5723\u6d01\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h-hand",
+  "rootLevel": 3,
+  "rootPath": "h>h-hand>h-hand-high",
+  "type": "branch",
+  "notes": ""
+}

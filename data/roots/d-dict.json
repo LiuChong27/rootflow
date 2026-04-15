@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "rootId": "d-dict",
+  "root": "dict \u8bf4 \u5ba3\u544a",
+  "meaning": "dict",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-dict-abdicant",
+      "word": "abdicant",
+      "display": "Abdicant",
+      "phonetic": "",
+      "translation": "\u9000\u4f4d\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-abdicate",
+      "word": "abdicate",
+      "display": "Abdicate",
+      "phonetic": "",
+      "translation": "\u653e\u5f03\uff1b\u8f9e\u804c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-abdication",
+      "word": "abdication",
+      "display": "Abdication",
+      "phonetic": "",
+      "translation": "\u5f03\u6743\uff1b\u8ba9\u4f4d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-addiction",
+      "word": "addiction",
+      "display": "Addiction",
+      "phonetic": "",
+      "translation": "\u4e0a\u763e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-addictology",
+      "word": "addictology",
+      "display": "Addictology",
+      "phonetic": "",
+      "translation": "\u763e\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-dedicate",
+      "word": "dedicate",
+      "display": "Dedicate",
+      "phonetic": "",
+      "translation": "\u732e\u8eab\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-dictate",
+      "word": "dictate",
+      "display": "Dictate",
+      "phonetic": "",
+      "translation": "\u53e3\u8ff0\uff1b\u6307\u4ee4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-dictation",
+      "word": "dictation",
+      "display": "Dictation",
+      "phonetic": "",
+      "translation": "\u542c\u5199\uff1b\u53e3\u8ff0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-dictator",
+      "word": "dictator",
+      "display": "Dictator",
+      "phonetic": "",
+      "translation": "\u72ec\u88c1\u8005\uff1b\u4e13\u5236\u541b\u4e3b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-diction",
+      "word": "diction",
+      "display": "Diction",
+      "phonetic": "",
+      "translation": "\u63aa\u8f9e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-dictionary",
+      "word": "dictionary",
+      "display": "Dictionary",
+      "phonetic": "",
+      "translation": "\u8bcd\u5178",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-dictum",
+      "word": "dictum",
+      "display": "Dictum",
+      "phonetic": "",
+      "translation": "\u6743\u5a01\u7684\u65ad\u8a00\uff1b\u683c\u8a00\uff1b\u8b66\u53e5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-dict-predicate",
+      "word": "predicate",
+      "display": "Predicate",
+      "phonetic": "",
+      "translation": "\u65ad\u8a00\uff1b\u8c13\u8bed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d",
+  "rootLevel": 2,
+  "rootPath": "d>d-dict",
+  "type": "root",
+  "notes": ""
+}

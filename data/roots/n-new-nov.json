@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "rootId": "n-new-nov",
+  "root": "nov\u65b0",
+  "meaning": "new",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-new-nov-innovate",
+      "word": "innovate",
+      "display": "Innovate",
+      "phonetic": "",
+      "translation": "\u6539\u9769",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-innovation",
+      "word": "innovation",
+      "display": "Innovation",
+      "phonetic": "",
+      "translation": "\u9769\u65b0\uff1b\u521b\u65b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-innovative",
+      "word": "innovative",
+      "display": "Innovative",
+      "phonetic": "",
+      "translation": "\u521b\u65b0\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-innovativeness",
+      "word": "innovativeness",
+      "display": "Innovativeness",
+      "phonetic": "",
+      "translation": "\u521b\u65b0\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-innovator",
+      "word": "innovator",
+      "display": "Innovator",
+      "phonetic": "",
+      "translation": "\u6539\u9769\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-novel",
+      "word": "novel",
+      "display": "Novel",
+      "phonetic": "",
+      "translation": "\u65b0\u5947\u7684\uff1b\u5c0f\u8bf4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-novelist",
+      "word": "novelist",
+      "display": "Novelist",
+      "phonetic": "",
+      "translation": "\u5c0f\u8bf4\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-novelize",
+      "word": "novelize",
+      "display": "Novelize",
+      "phonetic": "",
+      "translation": "\u5c0f\u8bf4\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-novelty",
+      "word": "novelty",
+      "display": "Novelty",
+      "phonetic": "",
+      "translation": "\u65b0\u5947\uff1b\u65b0\u9896",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-november",
+      "word": "november",
+      "display": "November",
+      "phonetic": "",
+      "translation": "\u5341\u4e00\u6708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-renew",
+      "word": "renew",
+      "display": "Renew",
+      "phonetic": "",
+      "translation": "\u66f4\u65b0\uff1b\u91cd\u65b0\u5f00\u59cb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-renewable",
+      "word": "renewable",
+      "display": "Renewable",
+      "phonetic": "",
+      "translation": "\u53ef\u518d\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-renovate",
+      "word": "renovate",
+      "display": "Renovate",
+      "phonetic": "",
+      "translation": "\u66f4\u65b0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-new-nov-renovation",
+      "word": "renovation",
+      "display": "Renovation",
+      "phonetic": "",
+      "translation": "\u9769\u65b0\uff1b\u4fee\u7406",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n-new",
+  "rootLevel": 3,
+  "rootPath": "n>n-new>n-new-nov",
+  "type": "branch",
+  "notes": ""
+}

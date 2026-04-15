@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "rootId": "f-other-fabl",
+  "root": "fabl=fabul\u8bf4\u8bdd",
+  "meaning": "fabl",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "f-other-fabl-affability",
+      "word": "affability",
+      "display": "Affability",
+      "phonetic": "",
+      "translation": "\u548c\u853c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fabl-affable",
+      "word": "affable",
+      "display": "Affable",
+      "phonetic": "",
+      "translation": "\u4eb2\u5207\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fabl-confabulate",
+      "word": "confabulate",
+      "display": "Confabulate",
+      "phonetic": "",
+      "translation": "\u4ea4\u8c08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fabl-effable",
+      "word": "effable",
+      "display": "Effable",
+      "phonetic": "",
+      "translation": "\u53ef\u8868\u8fbe\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fabl-fable",
+      "word": "fable",
+      "display": "Fable",
+      "phonetic": "",
+      "translation": "\u7ae5\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fabl-fabulate",
+      "word": "fabulate",
+      "display": "Fabulate",
+      "phonetic": "",
+      "translation": "\u5bd3\u8a00\u521b\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fabl-fabulist",
+      "word": "fabulist",
+      "display": "Fabulist",
+      "phonetic": "",
+      "translation": "\u5bd3\u8a00\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "f-other-fabl-fabulosity",
+      "word": "fabulosity",
+      "display": "Fabulosity",
+      "phonetic": "",
+      "translation": "\u5bd3\u8a00\u6027\u8d28",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "f-other",
+  "rootLevel": 3,
+  "rootPath": "f>f-other>f-other-fabl",
+  "type": "branch",
+  "notes": ""
+}

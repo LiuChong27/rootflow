@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "rootId": "r-plant",
+  "root": "\u690d\u7269\u571f\u5730",
+  "meaning": "plant, land",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "r-plant-rail",
+      "word": "rail",
+      "display": "Rail",
+      "phonetic": "",
+      "translation": "\u94c1\u8def\uff1b\u680f\u6746",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-railroad",
+      "word": "railroad",
+      "display": "Railroad",
+      "phonetic": "",
+      "translation": "\u94c1\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rare",
+      "word": "rare",
+      "display": "Rare",
+      "phonetic": "",
+      "translation": "\u7a00\u6709\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rarely",
+      "word": "rarely",
+      "display": "Rarely",
+      "phonetic": "",
+      "translation": "\u5f88\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rate",
+      "word": "rate",
+      "display": "Rate",
+      "phonetic": "",
+      "translation": "\u901f\u7387\uff1b\u7b49\u7ea7\uff1b\u4ef7\u683c\uff1b\u8d39\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-ratio",
+      "word": "ratio",
+      "display": "Ratio",
+      "phonetic": "",
+      "translation": "\u6bd4\u7387",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rational",
+      "word": "rational",
+      "display": "Rational",
+      "phonetic": "",
+      "translation": "\u7406\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-raw",
+      "word": "raw",
+      "display": "Raw",
+      "phonetic": "",
+      "translation": "\u751f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rib",
+      "word": "rib",
+      "display": "Rib",
+      "phonetic": "",
+      "translation": "\u808b\u9aa8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-ribbon",
+      "word": "ribbon",
+      "display": "Ribbon",
+      "phonetic": "",
+      "translation": "\u4e1d\u5e26",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rice",
+      "word": "rice",
+      "display": "Rice",
+      "phonetic": "",
+      "translation": "\u7c73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rich",
+      "word": "rich",
+      "display": "Rich",
+      "phonetic": "",
+      "translation": "\u5bcc\u6709\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-road",
+      "word": "road",
+      "display": "Road",
+      "phonetic": "",
+      "translation": "\u9053\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-roar",
+      "word": "roar",
+      "display": "Roar",
+      "phonetic": "",
+      "translation": "\u6012\u543c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-roast",
+      "word": "roast",
+      "display": "Roast",
+      "phonetic": "",
+      "translation": "\u70e4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-robot",
+      "word": "robot",
+      "display": "Robot",
+      "phonetic": "",
+      "translation": "\u673a\u5668\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-robust",
+      "word": "robust",
+      "display": "Robust",
+      "phonetic": "",
+      "translation": "\u5f3a\u5065\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rock",
+      "word": "rock",
+      "display": "Rock",
+      "phonetic": "",
+      "translation": "\u5ca9\u77f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "r-plant-rocket",
+      "word": "rocket",
+      "display": "Rocket",
+      "phonetic": "",
+      "translation": "\u706b\u7bad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "r",
+  "rootLevel": 2,
+  "rootPath": "r>r-plant",
+  "type": "root",
+  "notes": ""
+}

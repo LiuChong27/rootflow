@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "rootId": "b-wood-branch",
+  "root": "branch\u6811\u6761\uff1b\u5206\u652f\uff1b\u90e8\u95e8\uff1b\u4ea4\u6d41",
+  "meaning": "branch",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-wood-branch-barber",
+      "word": "barber",
+      "display": "Barber",
+      "phonetic": "",
+      "translation": "\u7406\u53d1\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-blade",
+      "word": "blade",
+      "display": "Blade",
+      "phonetic": "",
+      "translation": "\u5200\u7247\uff1b\u8349\u53f6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-bleed",
+      "word": "bleed",
+      "display": "Bleed",
+      "phonetic": "",
+      "translation": "\u6d41\u8840",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-blood",
+      "word": "blood",
+      "display": "Blood",
+      "phonetic": "",
+      "translation": "\u8840\u6db2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-bloom",
+      "word": "bloom",
+      "display": "Bloom",
+      "phonetic": "",
+      "translation": "\u5f00\u82b1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-blossom",
+      "word": "blossom",
+      "display": "Blossom",
+      "phonetic": "",
+      "translation": "\u7e41\u8363\uff1b\u9752\u6625",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-blouse",
+      "word": "blouse",
+      "display": "Blouse",
+      "phonetic": "",
+      "translation": "\u5973\u886c\u8863",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-brim",
+      "word": "brim",
+      "display": "Brim",
+      "phonetic": "",
+      "translation": "\u8fb9\u7f18",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-brisk",
+      "word": "brisk",
+      "display": "Brisk",
+      "phonetic": "",
+      "translation": "\u751f\u673a\u52c3\u52c3\u7684\uff1b\u8f7b\u5feb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-broom",
+      "word": "broom",
+      "display": "Broom",
+      "phonetic": "",
+      "translation": "\u626b\u5e1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-bruise",
+      "word": "bruise",
+      "display": "Bruise",
+      "phonetic": "",
+      "translation": "\u9752\u80bf\uff1b\u4f24\u75d5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-brush",
+      "word": "brush",
+      "display": "Brush",
+      "phonetic": "",
+      "translation": "\u5237\u5b50\uff1b\u753b\u7b14",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-branch-brutal",
+      "word": "brutal",
+      "display": "Brutal",
+      "phonetic": "",
+      "translation": "\u6b8b\u5fcd\u7684\uff1b\u4e25\u5cfb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-wood",
+  "rootLevel": 3,
+  "rootPath": "b>b-wood>b-wood-branch",
+  "type": "root",
+  "notes": ""
+}

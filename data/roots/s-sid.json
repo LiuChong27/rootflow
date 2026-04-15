@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "s-sid",
+  "root": "sid=sit\u5750",
+  "meaning": "sit",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-sid-seat",
+      "word": "seat",
+      "display": "Seat",
+      "phonetic": "",
+      "translation": "\u5ea7\u4f4d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sid-site",
+      "word": "site",
+      "display": "Site",
+      "phonetic": "",
+      "translation": "\u4f4d\u7f6e\uff1b\u573a\u6240",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sid-situated",
+      "word": "situated",
+      "display": "Situated",
+      "phonetic": "",
+      "translation": "\u5750\u843d\u5728",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-sid-situation",
+      "word": "situation",
+      "display": "Situation",
+      "phonetic": "",
+      "translation": "\u4f4d\u7f6e\uff1b\u73af\u5883\uff1b\u5f62\u5f0f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-sid",
+  "type": "root",
+  "notes": ""
+}

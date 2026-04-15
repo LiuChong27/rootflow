@@ -1,0 +1,382 @@
+{
+  "version": 1,
+  "rootId": "c-other-cept",
+  "root": "c-other-cept",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-cept-anticipate",
+      "word": "anticipate",
+      "display": "Anticipate",
+      "phonetic": "",
+      "translation": "\u9884\u6599",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-capable",
+      "word": "capable",
+      "display": "Capable",
+      "phonetic": "",
+      "translation": "\u6709\u80fd\u529b\u7684\uff1b\u53ef\u5bb9\u7eb3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-capacious",
+      "word": "capacious",
+      "display": "Capacious",
+      "phonetic": "",
+      "translation": "\u5bbd\u9614\u7684\uff1b\u6c14\u5ea6\u5b8f\u5927",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-capacitate",
+      "word": "capacitate",
+      "display": "Capacitate",
+      "phonetic": "",
+      "translation": "\u8d4b\u4e88\u80fd\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-capacity",
+      "word": "capacity",
+      "display": "Capacity",
+      "phonetic": "",
+      "translation": "\u5bb9\u91cf\uff1b\u80fd\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-capital",
+      "word": "capital",
+      "display": "Capital",
+      "phonetic": "",
+      "translation": "\u8d44\u672c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-capitalism",
+      "word": "capitalism",
+      "display": "Capitalism",
+      "phonetic": "",
+      "translation": "\u8d44\u672c\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-captain",
+      "word": "captain",
+      "display": "Captain",
+      "phonetic": "",
+      "translation": "\u9996\u9886\uff1b\u961f\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-caption",
+      "word": "caption",
+      "display": "Caption",
+      "phonetic": "",
+      "translation": "\u6807\u9898\uff1b\u8bf4\u660e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-captivate",
+      "word": "captivate",
+      "display": "Captivate",
+      "phonetic": "",
+      "translation": "\u8ff7\u60d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-captive",
+      "word": "captive",
+      "display": "Captive",
+      "phonetic": "",
+      "translation": "\u4fd8\u864f\uff1b\u6c89\u8ff7\u7f8e\u8272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-capture",
+      "word": "capture",
+      "display": "Capture",
+      "phonetic": "",
+      "translation": "\u6355\u83b7\uff1b\u6218\u5229\u54c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-catch",
+      "word": "catch",
+      "display": "Catch",
+      "phonetic": "",
+      "translation": "\u6355\u6349",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-concept",
+      "word": "concept",
+      "display": "Concept",
+      "phonetic": "",
+      "translation": "\u6982\u5ff5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-conception",
+      "word": "conception",
+      "display": "Conception",
+      "phonetic": "",
+      "translation": "\u89c2\u5ff5\uff1b\u6784\u601d\uff1b\u6000\u5b55",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-deceit",
+      "word": "deceit",
+      "display": "Deceit",
+      "phonetic": "",
+      "translation": "\u6b3a\u9a97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-deceive",
+      "word": "deceive",
+      "display": "Deceive",
+      "phonetic": "",
+      "translation": "\u8bc8\u9a97\uff1b\u6b3a\u9a97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-deceptive",
+      "word": "deceptive",
+      "display": "Deceptive",
+      "phonetic": "",
+      "translation": "\u6b3a\u9a97\u6027\u7684\uff1b\u865a\u4f2a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-emancipate",
+      "word": "emancipate",
+      "display": "Emancipate",
+      "phonetic": "",
+      "translation": "\u89e3\u9664\u7ea6\u675f\uff1b\u89e3\u653e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-except",
+      "word": "except",
+      "display": "Except",
+      "phonetic": "",
+      "translation": "\u9664...\u4e4b\u5916",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-exceptional",
+      "word": "exceptional",
+      "display": "Exceptional",
+      "phonetic": "",
+      "translation": "\u4f8b\u5916\u7684\uff1b\u7279\u6b8a\u7684\uff1b\u5f02\u5e38\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-inception",
+      "word": "inception",
+      "display": "Inception",
+      "phonetic": "",
+      "translation": "\u5f00\u59cb\uff1b\u5f00\u7aef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-occupation",
+      "word": "occupation",
+      "display": "Occupation",
+      "phonetic": "",
+      "translation": "\u804c\u4e1a\uff08\u5360\u636e\u4e00\u4e2a\u5de5\u4f4d\uff09\uff1b\u5360\u9886",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-occupy",
+      "word": "occupy",
+      "display": "Occupy",
+      "phonetic": "",
+      "translation": "\u5360\u9886",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-perceptible",
+      "word": "perceptible",
+      "display": "Perceptible",
+      "phonetic": "",
+      "translation": "\u663e\u800c\u6613\u89c1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-precept",
+      "word": "precept",
+      "display": "Precept",
+      "phonetic": "",
+      "translation": "\u8bad\u5bfc\uff1b\u683c\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-preoccupation",
+      "word": "preoccupation",
+      "display": "Preoccupation",
+      "phonetic": "",
+      "translation": "\u51fa\u795e\uff1b\u5168\u795e\u8d2f\u6ce8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-preoccupy",
+      "word": "preoccupy",
+      "display": "Preoccupy",
+      "phonetic": "",
+      "translation": "\u4f7f\u5168\u795e\u8d2f\u6ce8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-receive",
+      "word": "receive",
+      "display": "Receive",
+      "phonetic": "",
+      "translation": "\u6536\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-reception",
+      "word": "reception",
+      "display": "Reception",
+      "phonetic": "",
+      "translation": "\u501f\u9274\uff1b\u6b22\u8fce\uff1b\u63a5\u7eb3\uff1b\u627f\u8ba4\uff1b\u62db\u5f85\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cept-recipient",
+      "word": "recipient",
+      "display": "Recipient",
+      "phonetic": "",
+      "translation": "\u63a5\u53d7\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

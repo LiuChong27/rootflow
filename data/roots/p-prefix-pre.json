@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "rootId": "p-prefix-pre",
+  "root": "pre\u63d0\u524d",
+  "meaning": "before",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-prefix-pre-preach",
+      "word": "preach",
+      "display": "Preach",
+      "phonetic": "",
+      "translation": "\u5ba3\u4f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-precede",
+      "word": "precede",
+      "display": "Precede",
+      "phonetic": "",
+      "translation": "\u9886\u5148\uff1b\u5148\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-precedent",
+      "word": "precedent",
+      "display": "Precedent",
+      "phonetic": "",
+      "translation": "\u5148\u4f8b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-preceding",
+      "word": "preceding",
+      "display": "Preceding",
+      "phonetic": "",
+      "translation": "\u5728\u524d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-precious",
+      "word": "precious",
+      "display": "Precious",
+      "phonetic": "",
+      "translation": "\u73cd\u8d35\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-precise",
+      "word": "precise",
+      "display": "Precise",
+      "phonetic": "",
+      "translation": "\u7cbe\u786e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-precision",
+      "word": "precision",
+      "display": "Precision",
+      "phonetic": "",
+      "translation": "\u7cbe\u786e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-preclude",
+      "word": "preclude",
+      "display": "Preclude",
+      "phonetic": "",
+      "translation": "\u6392\u9664\uff1b\u963b\u6b62\uff1b\u59a8\u788d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-predecessor",
+      "word": "predecessor",
+      "display": "Predecessor",
+      "phonetic": "",
+      "translation": "\u524d\u8f88\uff1b\u524d\u4efb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-predominant",
+      "word": "predominant",
+      "display": "Predominant",
+      "phonetic": "",
+      "translation": "\u7edf\u6cbb\uff1b\u652f\u914d\uff1b\u7a81\u51fa\u7684\uff1b\u4e3b\u8981\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-preface",
+      "word": "preface",
+      "display": "Preface",
+      "phonetic": "",
+      "translation": "\u5e8f\u8a00\uff1b\u524d\u8a00",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-prefer",
+      "word": "prefer",
+      "display": "Prefer",
+      "phonetic": "",
+      "translation": "\u66f4\u559c\u6b22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-preferable",
+      "word": "preferable",
+      "display": "Preferable",
+      "phonetic": "",
+      "translation": "\u66f4\u597d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-preference",
+      "word": "preference",
+      "display": "Preference",
+      "phonetic": "",
+      "translation": "\u504f\u7231\uff1b\u559c\u7231",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-pregnant",
+      "word": "pregnant",
+      "display": "Pregnant",
+      "phonetic": "",
+      "translation": "\u6000\u5b55\u7684\uff1b\u5145\u6ee1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-prejudice",
+      "word": "prejudice",
+      "display": "Prejudice",
+      "phonetic": "",
+      "translation": "\u504f\u89c1\uff1b\u635f\u5bb3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-premature",
+      "word": "premature",
+      "display": "Premature",
+      "phonetic": "",
+      "translation": "\u65e9\u719f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-premier",
+      "word": "premier",
+      "display": "Premier",
+      "phonetic": "",
+      "translation": "\u9996\u76f8\uff1b\u603b\u7406",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-premise",
+      "word": "premise",
+      "display": "Premise",
+      "phonetic": "",
+      "translation": "\u524d\u63d0\uff1b\u5047\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-premium",
+      "word": "premium",
+      "display": "Premium",
+      "phonetic": "",
+      "translation": "\u989d\u5916\u8d39\u7528\uff1b\u5956\u91d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-preposition",
+      "word": "preposition",
+      "display": "Preposition",
+      "phonetic": "",
+      "translation": "\u4ecb\u8bcd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-prescribe",
+      "word": "prescribe",
+      "display": "Prescribe",
+      "phonetic": "",
+      "translation": "\u6307\u793a\uff1b\u89c4\u5b9a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-prescription",
+      "word": "prescription",
+      "display": "Prescription",
+      "phonetic": "",
+      "translation": "\u836f\u623f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-presence",
+      "word": "presence",
+      "display": "Presence",
+      "phonetic": "",
+      "translation": "\u51fa\u5e2d\uff1b\u5230\u573a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-prefix-pre-present",
+      "word": "present",
+      "display": "Present",
+      "phonetic": "",
+      "translation": "\u51fa\u5e2d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p-prefix",
+  "rootLevel": 3,
+  "rootPath": "p>p-prefix>p-prefix-pre",
+  "type": "branch",
+  "notes": ""
+}

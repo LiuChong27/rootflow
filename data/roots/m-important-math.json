@@ -1,0 +1,531 @@
+{
+  "version": 1,
+  "rootId": "m-important-math",
+  "root": "\u6570\u5b66\u5927\u5c0f",
+  "meaning": "math",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-important-math-magn-magazine",
+      "word": "magazine",
+      "display": "Magazine",
+      "phonetic": "",
+      "translation": "\u6742\u5fd7\uff1b\u671f\u520a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-magn-magnet",
+      "word": "magnet",
+      "display": "Magnet",
+      "phonetic": "",
+      "translation": "\u78c1\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-magn-magnetic",
+      "word": "magnetic",
+      "display": "Magnetic",
+      "phonetic": "",
+      "translation": "\u6709\u78c1\u6027\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-magn-magnificent",
+      "word": "magnificent",
+      "display": "Magnificent",
+      "phonetic": "",
+      "translation": "\u5b8f\u4f1f\u7684\uff1b\u534e\u4e3d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-magn-magnify",
+      "word": "magnify",
+      "display": "Magnify",
+      "phonetic": "",
+      "translation": "\u653e\u5927\uff1b\u6269\u5927\uff1b\u5938\u5f20",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-magn-magnitude",
+      "word": "magnitude",
+      "display": "Magnitude",
+      "phonetic": "",
+      "translation": "\u5927\u5c0f\uff1b\u6570\u91cf\uff1b\u5de8\u5927",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-magn-major",
+      "word": "major",
+      "display": "Major",
+      "phonetic": "",
+      "translation": "\u4e3b\u8981\u7684\uff1b\u4e3b\u4fee\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-magn-majority",
+      "word": "majority",
+      "display": "Majority",
+      "phonetic": "",
+      "translation": "\u591a\u6570\uff1b\u6210\u5e74",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mass-massacre",
+      "word": "massacre",
+      "display": "Massacre",
+      "phonetic": "",
+      "translation": "\u6b8b\u6740\uff1b\u5927\u5c60\u6740",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mass-massive",
+      "word": "massive",
+      "display": "Massive",
+      "phonetic": "",
+      "translation": "\u539a\u5b9e\u7684\uff1b\u5927\u89c4\u6a21\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mass-mess",
+      "word": "mess",
+      "display": "Mess",
+      "phonetic": "",
+      "translation": "\u6742\u4e71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-maths-mathematical",
+      "word": "mathematical",
+      "display": "Mathematical",
+      "phonetic": "",
+      "translation": "\u6570\u5b66\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-maths-mean",
+      "word": "mean",
+      "display": "Mean",
+      "phonetic": "",
+      "translation": "\u5e73\u5747\u503c\uff1b\u5351\u9119\u7684\uff1b\u610f\u601d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-maths-meaning",
+      "word": "meaning",
+      "display": "Meaning",
+      "phonetic": "",
+      "translation": "\u542b\u4e49\uff1b\u4ef7\u503c\uff1b\u91cd\u8981\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-maths-means",
+      "word": "means",
+      "display": "Means",
+      "phonetic": "",
+      "translation": "\u65b9\u6cd5\uff1b\u624b\u6bb5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-maths-meantime",
+      "word": "meantime",
+      "display": "Meantime",
+      "phonetic": "",
+      "translation": "\u540c\u65f6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-maths-meanwhile",
+      "word": "meanwhile",
+      "display": "Meanwhile",
+      "phonetic": "",
+      "translation": "\u4e0e\u6b64\u540c\u65f6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-medi-medieval",
+      "word": "medieval",
+      "display": "Medieval",
+      "phonetic": "",
+      "translation": "\u4e2d\u4e16\u7eaa\u7684\uff1b\u539f\u59cb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-medi-medium",
+      "word": "medium",
+      "display": "Medium",
+      "phonetic": "",
+      "translation": "\u5a92\u4f53\uff1b\u5a92\u4ecb\uff1b\u4e2d\u7b49\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-medi-middle",
+      "word": "middle",
+      "display": "Middle",
+      "phonetic": "",
+      "translation": "\u4e2d\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-medi-midst",
+      "word": "midst",
+      "display": "Midst",
+      "phonetic": "",
+      "translation": "\u4e2d\u95f4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-merely",
+      "word": "merely",
+      "display": "Merely",
+      "phonetic": "",
+      "translation": "\u4ec5\u4ec5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-microphone",
+      "word": "microphone",
+      "display": "Microphone",
+      "phonetic": "",
+      "translation": "\u6269\u97f3\u5668\uff1b\u8bdd\u7b52",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-microscope",
+      "word": "microscope",
+      "display": "Microscope",
+      "phonetic": "",
+      "translation": "\u663e\u5fae\u955c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-miniature",
+      "word": "miniature",
+      "display": "Miniature",
+      "phonetic": "",
+      "translation": "\u7f29\u5c0f\u7684\uff1b\u5fae\u578b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-minimize",
+      "word": "minimize",
+      "display": "Minimize",
+      "phonetic": "",
+      "translation": "\u4f7f\u51cf\u5c11\u5230\u6700\u5c11",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-minimum",
+      "word": "minimum",
+      "display": "Minimum",
+      "phonetic": "",
+      "translation": "\u6700\u5c0f\u503c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-minor",
+      "word": "minor",
+      "display": "Minor",
+      "phonetic": "",
+      "translation": "\u8f83\u5c0f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mini-minority",
+      "word": "minority",
+      "display": "Minority",
+      "phonetic": "",
+      "translation": "\u5c11\u6570",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mixture-mingle",
+      "word": "mingle",
+      "display": "Mingle",
+      "phonetic": "",
+      "translation": "\u6df7\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mixture-mix",
+      "word": "mix",
+      "display": "Mix",
+      "phonetic": "",
+      "translation": "\u6df7\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-mixture-mixture",
+      "word": "mixture",
+      "display": "Mixture",
+      "phonetic": "",
+      "translation": "\u6df7\u5408\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-multiple-multiple",
+      "word": "multiple",
+      "display": "Multiple",
+      "phonetic": "",
+      "translation": "\u591a\u91cd\u7684\uff1b\u500d\u6570",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-multiple-multiply",
+      "word": "multiply",
+      "display": "Multiply",
+      "phonetic": "",
+      "translation": "\u500d\u589e\u7684\uff1b\u7e41\u6b96",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-multiple-multitude",
+      "word": "multitude",
+      "display": "Multitude",
+      "phonetic": "",
+      "translation": "\u4f17\u591a\uff1b\u5927\u91cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-measure",
+      "word": "measure",
+      "display": "Measure",
+      "phonetic": "",
+      "translation": "\u6d4b\u91cf\uff1b\u6743\u8861",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-metre",
+      "word": "metre",
+      "display": "Metre",
+      "phonetic": "",
+      "translation": "\u7c73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-metric",
+      "word": "metric",
+      "display": "Metric",
+      "phonetic": "",
+      "translation": "\u7c73\u5236\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-mile",
+      "word": "mile",
+      "display": "Mile",
+      "phonetic": "",
+      "translation": "\u6d77\u91cc\uff1b\u82f1\u91cc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-millimeter",
+      "word": "millimeter",
+      "display": "Millimeter",
+      "phonetic": "",
+      "translation": "\u6beb\u7c73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-million",
+      "word": "million",
+      "display": "Million",
+      "phonetic": "",
+      "translation": "\u767e\u4e07",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-minus",
+      "word": "minus",
+      "display": "Minus",
+      "phonetic": "",
+      "translation": "\u51cf\u53bb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-math-unit-minute",
+      "word": "minute",
+      "display": "Minute",
+      "phonetic": "",
+      "translation": "\u5206\u949f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-important",
+  "rootLevel": 3,
+  "rootPath": "m>m-important>m-important-math",
+  "type": "branch",
+  "notes": ""
+}

@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "rootId": "b-bio",
+  "root": "bio\u751f\u547d",
+  "meaning": "life",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-bio-anabiosis",
+      "word": "anabiosis",
+      "display": "Anabiosis",
+      "phonetic": "",
+      "translation": "\u590d\u82cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-bioacoustics",
+      "word": "bioacoustics",
+      "display": "Bioacoustics",
+      "phonetic": "",
+      "translation": "\u751f\u7269\u58f0\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-biochronology",
+      "word": "biochronology",
+      "display": "Biochronology",
+      "phonetic": "",
+      "translation": "\u751f\u7269\u5e74\u4ee3\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-bioecology",
+      "word": "bioecology",
+      "display": "Bioecology",
+      "phonetic": "",
+      "translation": "\u751f\u7269\u751f\u6001\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-biolith",
+      "word": "biolith",
+      "display": "Biolith",
+      "phonetic": "",
+      "translation": "\u751f\u7269\u5ca9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-biology",
+      "word": "biology",
+      "display": "Biology",
+      "phonetic": "",
+      "translation": "\u751f\u7269\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-biosis",
+      "word": "biosis",
+      "display": "Biosis",
+      "phonetic": "",
+      "translation": "\u751f\u6d3b\u65b9\u5f0f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-biosphere",
+      "word": "biosphere",
+      "display": "Biosphere",
+      "phonetic": "",
+      "translation": "\u751f\u7269\u5708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-dysbiosis",
+      "word": "dysbiosis",
+      "display": "Dysbiosis",
+      "phonetic": "",
+      "translation": "\u751f\u6001\u5e73\u8861",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-eubiosis",
+      "word": "eubiosis",
+      "display": "Eubiosis",
+      "phonetic": "",
+      "translation": "\u751f\u6001\u5e73\u8861",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-hypobiosis",
+      "word": "hypobiosis",
+      "display": "Hypobiosis",
+      "phonetic": "",
+      "translation": "\u4f4e\u751f\u6d3b\u529b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-bio-mixobiosis",
+      "word": "mixobiosis",
+      "display": "Mixobiosis",
+      "phonetic": "",
+      "translation": "\u6df7\u5408\u5171\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b",
+  "rootLevel": 2,
+  "rootPath": "b>b-bio",
+  "type": "root",
+  "notes": ""
+}

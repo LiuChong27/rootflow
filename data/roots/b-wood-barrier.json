@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "b-wood-barrier",
+  "root": "barrier\u6805\u680f\uff1b\u5c4f\u969c",
+  "meaning": "barrier",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-wood-barrier-barrage",
+      "word": "barrage",
+      "display": "Barrage",
+      "phonetic": "",
+      "translation": "\u62e6\u6cb3\u575d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-barrel",
+      "word": "barrel",
+      "display": "Barrel",
+      "phonetic": "",
+      "translation": "\u6876\uff1b\u67aa\u7ba1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-barren",
+      "word": "barren",
+      "display": "Barren",
+      "phonetic": "",
+      "translation": "\u8d2b\u7620\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-barricade",
+      "word": "barricade",
+      "display": "Barricade",
+      "phonetic": "",
+      "translation": "\u8def\u969c\uff1b\u9694\u677f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-bucket",
+      "word": "bucket",
+      "display": "Bucket",
+      "phonetic": "",
+      "translation": "\u6c34\u6876",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-bulk",
+      "word": "bulk",
+      "display": "Bulk",
+      "phonetic": "",
+      "translation": "\u5bb9\u79ef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-bullet",
+      "word": "bullet",
+      "display": "Bullet",
+      "phonetic": "",
+      "translation": "\u5b50\u5f39",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-bulletin",
+      "word": "bulletin",
+      "display": "Bulletin",
+      "phonetic": "",
+      "translation": "\u516c\u544a\uff1b\u544a\u793a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-barrier-bully",
+      "word": "bully",
+      "display": "Bully",
+      "phonetic": "",
+      "translation": "\u5c0f\u6d41\u6c13\uff1b\u5a01\u80c1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-wood",
+  "rootLevel": 3,
+  "rootPath": "b>b-wood>b-wood-barrier",
+  "type": "root",
+  "notes": ""
+}

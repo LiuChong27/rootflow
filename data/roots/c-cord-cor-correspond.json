@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "c-cord-cor-correspond",
+  "root": "correspond\u4e00\u81f4",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cord-cor-heart-correspond-correspondence",
+      "word": "correspondence",
+      "display": "Correspondence",
+      "phonetic": "",
+      "translation": "\u7b26\u5408\uff1b\u901a\u8baf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-correspond-correspondent",
+      "word": "correspondent",
+      "display": "Correspondent",
+      "phonetic": "",
+      "translation": "\u901a\u8baf\u5458\uff1b\u8bb0\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-correspond-corresponding",
+      "word": "corresponding",
+      "display": "Corresponding",
+      "phonetic": "",
+      "translation": "\u7b26\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-cord-cor-heart",
+  "rootLevel": 3,
+  "rootPath": "c>c-cord-cor-heart>c-cord-cor-correspond",
+  "type": "branch",
+  "notes": ""
+}

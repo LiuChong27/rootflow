@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "n-norm",
+  "root": "norm=rule\u6b63\u5e38",
+  "meaning": "rule",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-norm-norm",
+      "word": "norm",
+      "display": "Norm",
+      "phonetic": "",
+      "translation": "\u51c6\u5219\uff1b\u5e73\u5747\u6570",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-norm-normal",
+      "word": "normal",
+      "display": "Normal",
+      "phonetic": "",
+      "translation": "\u6807\u51c6\u7684\uff1b\u6b63\u5e38\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-norm-normalization",
+      "word": "normalization",
+      "display": "Normalization",
+      "phonetic": "",
+      "translation": "\u6807\u51c6\u5316",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-norm",
+  "type": "root",
+  "notes": ""
+}

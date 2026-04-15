@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "p-foot",
+  "root": "p=f=foot \u811a",
+  "meaning": "foot",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-foot-pace",
+      "word": "pace",
+      "display": "Pace",
+      "phonetic": "",
+      "translation": "\u6b65\u4f10\uff1b\u901f\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-pat",
+      "word": "pat",
+      "display": "Pat",
+      "phonetic": "",
+      "translation": "\u8f7b\u62cd\uff1b\u629a\u6478",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-patch",
+      "word": "patch",
+      "display": "Patch",
+      "phonetic": "",
+      "translation": "\u8865\u4e01\uff1b\u788e\u7247\u5c0f\u5757",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-patent",
+      "word": "patent",
+      "display": "Patent",
+      "phonetic": "",
+      "translation": "\u4e13\u5229\u7684\uff1b\u7279\u8bb8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-pave",
+      "word": "pave",
+      "display": "Pave",
+      "phonetic": "",
+      "translation": "\u94fa\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-pavement",
+      "word": "pavement",
+      "display": "Pavement",
+      "phonetic": "",
+      "translation": "\u4eba\u884c\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-ped",
+      "word": "ped",
+      "display": "Ped",
+      "phonetic": "",
+      "translation": "\u5c0f\u5b69\uff0c\u513f\u7ae5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-pedal",
+      "word": "pedal",
+      "display": "Pedal",
+      "phonetic": "",
+      "translation": "\u8e0f\u677f \u9a91\u81ea\u884c\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-foot-pedestrian",
+      "word": "pedestrian",
+      "display": "Pedestrian",
+      "phonetic": "",
+      "translation": "\u6b65\u884c\u8005\uff1b\u5446\u677f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-foot",
+  "type": "root",
+  "notes": ""
+}

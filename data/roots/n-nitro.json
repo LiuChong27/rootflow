@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "n-nitro",
+  "root": "nitro\u78b3\u9178\u94a0",
+  "meaning": "nitro",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-nitro-nitration",
+      "word": "nitration",
+      "display": "Nitration",
+      "phonetic": "",
+      "translation": "\u785d\u5316\u4f5c\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nitro-nitrite",
+      "word": "nitrite",
+      "display": "Nitrite",
+      "phonetic": "",
+      "translation": "\u4e9a\u785d\u9178\u76d0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-nitro-nitrogen",
+      "word": "nitrogen",
+      "display": "Nitrogen",
+      "phonetic": "",
+      "translation": "\u6c2e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-nitro",
+  "type": "root",
+  "notes": ""
+}

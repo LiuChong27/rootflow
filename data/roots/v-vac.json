@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "v-vac",
+  "root": "vac=van",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-vac-avoid",
+      "word": "avoid",
+      "display": "Avoid",
+      "phonetic": "",
+      "translation": "\u907f\u514d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-avoidance",
+      "word": "avoidance",
+      "display": "Avoidance",
+      "phonetic": "",
+      "translation": "\u907f\u514d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-devoid",
+      "word": "devoid",
+      "display": "Devoid",
+      "phonetic": "",
+      "translation": "\u7f3a\u4e4f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-evacuate",
+      "word": "evacuate",
+      "display": "Evacuate",
+      "phonetic": "",
+      "translation": "\u758f\u6563",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-vacant",
+      "word": "vacant",
+      "display": "Vacant",
+      "phonetic": "",
+      "translation": "\u7a7a\u7f3a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-vacuum",
+      "word": "vacuum",
+      "display": "Vacuum",
+      "phonetic": "",
+      "translation": "\u771f\u7a7a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-vain",
+      "word": "vain",
+      "display": "Vain",
+      "phonetic": "",
+      "translation": "\u5f92\u52b3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-van",
+      "word": "van",
+      "display": "Van",
+      "phonetic": "",
+      "translation": "\u6709\u84ec\u6c7d\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-vanish",
+      "word": "vanish",
+      "display": "Vanish",
+      "phonetic": "",
+      "translation": "\u6d88\u5931",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-vac-vanity",
+      "word": "vanity",
+      "display": "Vanity",
+      "phonetic": "",
+      "translation": "\u865a\u8363\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-vac",
+  "type": "root",
+  "notes": ""
+}

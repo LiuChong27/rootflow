@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "b-wood-line",
+  "root": "\u7ebf",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-wood-line-baggage",
+      "word": "baggage",
+      "display": "Baggage",
+      "phonetic": "",
+      "translation": "\u884c\u674e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-line-bone",
+      "word": "bone",
+      "display": "Bone",
+      "phonetic": "",
+      "translation": "\u9aa8\u9abc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-wood-line-brandy",
+      "word": "brandy",
+      "display": "Brandy",
+      "phonetic": "",
+      "translation": "\u767d\u5170\u5730\u9152",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-wood",
+  "rootLevel": 3,
+  "rootPath": "b>b-wood>b-wood-line",
+  "type": "category",
+  "notes": ""
+}

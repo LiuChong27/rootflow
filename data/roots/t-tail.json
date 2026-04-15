@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "rootId": "t-tail",
+  "root": "tail",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "t-tail-tackle",
+      "word": "tackle",
+      "display": "Tackle",
+      "phonetic": "",
+      "translation": "\u5904\u7406\uff1b\u7528\u5177",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tail-tactic",
+      "word": "tactic",
+      "display": "Tactic",
+      "phonetic": "",
+      "translation": "\u7b56\u7565",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tail-tease",
+      "word": "tease",
+      "display": "Tease",
+      "phonetic": "",
+      "translation": "\u620f\u5f04",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "t-tail-tenant",
+      "word": "tenant",
+      "display": "Tenant",
+      "phonetic": "",
+      "translation": "\u79df\u501f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "t",
+  "rootLevel": 1,
+  "rootPath": "t>t-tail",
+  "type": "root",
+  "notes": ""
+}

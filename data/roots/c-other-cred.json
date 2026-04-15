@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rootId": "c-other-cred",
+  "root": "c-other-cred",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-cred-credential",
+      "word": "credential",
+      "display": "Credential",
+      "phonetic": "",
+      "translation": "\u51ed\u8bc1\uff1b\u8bc1\u660e\u4e66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-cred-credit",
+      "word": "credit",
+      "display": "Credit",
+      "phonetic": "",
+      "translation": "\u4fe1\u7528",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

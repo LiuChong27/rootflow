@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "p-paci",
+  "root": "paci=peace \u548c\u5e73",
+  "meaning": "peace",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "p-paci-pacifiable",
+      "word": "pacifiable",
+      "display": "Pacifiable",
+      "phonetic": "",
+      "translation": "\u53ef\u88ab\u8c03\u89e3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-paci-pacific",
+      "word": "pacific",
+      "display": "Pacific",
+      "phonetic": "",
+      "translation": "\u548c\u5e73\u7684\uff1b\u5e73\u9759\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-paci-pacificate",
+      "word": "pacificate",
+      "display": "Pacificate",
+      "phonetic": "",
+      "translation": "\u5b89\u629a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-paci-pacification",
+      "word": "pacification",
+      "display": "Pacification",
+      "phonetic": "",
+      "translation": "\u548c\u89e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-paci-pacificatory",
+      "word": "pacificatory",
+      "display": "Pacificatory",
+      "phonetic": "",
+      "translation": "\u5b89\u629a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-paci-pacificist",
+      "word": "pacificist",
+      "display": "Pacificist",
+      "phonetic": "",
+      "translation": "\u548c\u5e73\u4e3b\u4e49\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "p-paci-pacifism",
+      "word": "pacifism",
+      "display": "Pacifism",
+      "phonetic": "",
+      "translation": "\u548c\u5e73\u4e3b\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "p",
+  "rootLevel": 2,
+  "rootPath": "p>p-paci",
+  "type": "root",
+  "notes": ""
+}

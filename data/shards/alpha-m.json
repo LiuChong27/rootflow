@@ -1,20 +1,2657 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09",
+  "updatedAt": "2026-04-15",
   "strategy": "alpha",
   "shardId": "alpha-m",
   "rootIds": [
+    "m",
+    "m-important",
+    "m-important-brain",
+    "m-important-gender",
+    "m-important-landscape",
+    "m-important-man",
+    "m-important-math",
+    "m-important-mon",
+    "m-important-mon-mono",
+    "m-important-mon-warning",
+    "m-important-summary",
+    "m-operation",
+    "m-operation-mechan",
+    "m-operation-med",
+    "m-operation-merc",
+    "m-operation-mill",
+    "m-operation-min",
+    "m-operation-mis",
+    "m-operation-miss",
+    "m-operation-mob",
+    "m-operation-mod",
+    "m-other",
+    "m-other-mir",
+    "m-other-mort",
+    "m-other-war",
     "monarch",
     "monarchy"
   ],
   "roots": {
+    "m": {
+      "version": 1,
+      "rootId": "m",
+      "root": "M",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "m",
+      "type": "root",
+      "notes": "\u6839\u636eM.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "m-important": {
+      "version": 1,
+      "rootId": "m-important",
+      "root": "M\u91cd\u8981",
+      "meaning": "important",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "m",
+      "rootLevel": 2,
+      "rootPath": "m>m-important",
+      "type": "root",
+      "notes": ""
+    },
+    "m-important-brain": {
+      "version": 1,
+      "rootId": "m-important-brain",
+      "root": "\u8111",
+      "meaning": "brain",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-important-brain-memor-memo",
+          "word": "memo",
+          "display": "Memo",
+          "phonetic": "",
+          "translation": "\u5907\u5fd8\u5f55",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-memor-memorial",
+          "word": "memorial",
+          "display": "Memorial",
+          "phonetic": "",
+          "translation": "\u7eaa\u5ff5\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-memor-memory",
+          "word": "memory",
+          "display": "Memory",
+          "phonetic": "",
+          "translation": "\u8bb0\u5fc6\uff1b\u5b58\u50a8\u5668",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-memor-moment",
+          "word": "moment",
+          "display": "Moment",
+          "phonetic": "",
+          "translation": "\u7247\u523b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-memor-momentum",
+          "word": "momentum",
+          "display": "Momentum",
+          "phonetic": "",
+          "translation": "\u52a8\u529b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-memor-monument",
+          "word": "monument",
+          "display": "Monument",
+          "phonetic": "",
+          "translation": "\u7eaa\u5ff5\u7891",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-meditate",
+          "word": "meditate",
+          "display": "Meditate",
+          "phonetic": "",
+          "translation": "\u8003\u8651\uff1b\u51a5\u60f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-meditation",
+          "word": "meditation",
+          "display": "Meditation",
+          "phonetic": "",
+          "translation": "\u719f\u8651",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-mend",
+          "word": "mend",
+          "display": "Mend",
+          "phonetic": "",
+          "translation": "\u4fee\u7406\uff1b\u6539\u8fdb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-mental",
+          "word": "mental",
+          "display": "Mental",
+          "phonetic": "",
+          "translation": "\u7cbe\u795e\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-mind",
+          "word": "mind",
+          "display": "Mind",
+          "phonetic": "",
+          "translation": "\u7cbe\u795e\uff1b\u4ecb\u610f\uff1b\u7406\u667a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-mood",
+          "word": "mood",
+          "display": "Mood",
+          "phonetic": "",
+          "translation": "\u5fc3\u60c5\uff1b\u60c5\u7eea",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-moral",
+          "word": "moral",
+          "display": "Moral",
+          "phonetic": "",
+          "translation": "\u9053\u5fb7\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-brain-ment-morality",
+          "word": "morality",
+          "display": "Morality",
+          "phonetic": "",
+          "translation": "\u7f8e\u5fb7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-important",
+      "rootLevel": 3,
+      "rootPath": "m>m-important>m-important-brain",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-gender": {
+      "version": 1,
+      "rootId": "m-important-gender",
+      "root": "\u7537\u5973",
+      "meaning": "gender",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-important-gender-magistrate",
+          "word": "magistrate",
+          "display": "Magistrate",
+          "phonetic": "",
+          "translation": "\u5730\u65b9\u884c\u653f\u5b98",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-maid",
+          "word": "maid",
+          "display": "Maid",
+          "phonetic": "",
+          "translation": "\u5c11\u5973\uff1b\u5973\u4ec6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-maiden",
+          "word": "maiden",
+          "display": "Maiden",
+          "phonetic": "",
+          "translation": "\u5c11\u5973\uff1b\u7eaf\u6d01\u7684\uff1b\u672a\u5a5a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-marital",
+          "word": "marital",
+          "display": "Marital",
+          "phonetic": "",
+          "translation": "\u5a5a\u59fb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-marriage",
+          "word": "marriage",
+          "display": "Marriage",
+          "phonetic": "",
+          "translation": "\u5a5a\u59fb\uff1b\u7ed3\u5a5a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-married",
+          "word": "married",
+          "display": "Married",
+          "phonetic": "",
+          "translation": "\u5df2\u5a5a\u7684\uff1b\u592b\u5987\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-marry",
+          "word": "marry",
+          "display": "Marry",
+          "phonetic": "",
+          "translation": "\u7ed3\u5a5a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-masculine",
+          "word": "masculine",
+          "display": "Masculine",
+          "phonetic": "",
+          "translation": "\u7537\u6027\u7684\uff1b\u9633\u6027\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-master",
+          "word": "master",
+          "display": "Master",
+          "phonetic": "",
+          "translation": "\u7537\u4e3b\u4eba\uff1b\u7855\u58eb \u7cbe\u901a\uff1b\u4e3b\u8981\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-masterpiece",
+          "word": "masterpiece",
+          "display": "Masterpiece",
+          "phonetic": "",
+          "translation": "\u6770\u4f5c\uff1b\u540d\u8457",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-match",
+          "word": "match",
+          "display": "Match",
+          "phonetic": "",
+          "translation": "\u6bd4\u8d5b\uff1b\u914d\u5076\uff1b\u5339\u914d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-mate",
+          "word": "mate",
+          "display": "Mate",
+          "phonetic": "",
+          "translation": "\u914d\u5076\uff1b\u4f19\u4f34",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-material",
+          "word": "material",
+          "display": "Material",
+          "phonetic": "",
+          "translation": "\u8089\u4f53\u7684\uff1b\u6750\u6599",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-mature",
+          "word": "mature",
+          "display": "Mature",
+          "phonetic": "",
+          "translation": "\u6210\u5e74\u4eba\u7684\uff1b\u6210\u719f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-mayor",
+          "word": "mayor",
+          "display": "Mayor",
+          "phonetic": "",
+          "translation": "\u5e02\u957f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-member",
+          "word": "member",
+          "display": "Member",
+          "phonetic": "",
+          "translation": "\u6210\u5458\uff1b\u4f1a\u5458",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-membership",
+          "word": "membership",
+          "display": "Membership",
+          "phonetic": "",
+          "translation": "\u4f1a\u5458\u8d44\u683c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-merry",
+          "word": "merry",
+          "display": "Merry",
+          "phonetic": "",
+          "translation": "\u6b22\u4e50\u7684\uff1b\u6109\u5feb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-minister",
+          "word": "minister",
+          "display": "Minister",
+          "phonetic": "",
+          "translation": "\u5927\u81e3\uff1b\u90e8\u957f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-ministry",
+          "word": "ministry",
+          "display": "Ministry",
+          "phonetic": "",
+          "translation": "\u7267\u5e08",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-miss",
+          "word": "miss",
+          "display": "Miss",
+          "phonetic": "",
+          "translation": "\u5c0f\u59d0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-mistress",
+          "word": "mistress",
+          "display": "Mistress",
+          "phonetic": "",
+          "translation": "\u5973\u4e3b\u4eba\uff1b\u60c5\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-monarch",
+          "word": "monarch",
+          "display": "Monarch",
+          "phonetic": "",
+          "translation": "\u5e1d\u738b\uff1b\u541b\u4e3b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-gender-mutual",
+          "word": "mutual",
+          "display": "Mutual",
+          "phonetic": "",
+          "translation": "\u76f8\u4e92\u7684\uff1b\u5f7c\u6b64\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-important",
+      "rootLevel": 3,
+      "rootPath": "m>m-important>m-important-gender",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-landscape": {
+      "version": 1,
+      "rootId": "m-important-landscape",
+      "root": "\u5c71\u6cb3\u5927\u5730",
+      "meaning": "landscape",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-important-landscape-mar-marble",
+          "word": "marble",
+          "display": "Marble",
+          "phonetic": "",
+          "translation": "\u5927\u7406\u77f3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-mar-margin",
+          "word": "margin",
+          "display": "Margin",
+          "phonetic": "",
+          "translation": "\u8fb9\u7f18",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-mar-marginal",
+          "word": "marginal",
+          "display": "Marginal",
+          "phonetic": "",
+          "translation": "\u8fb9\u7f18\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-mar-marine",
+          "word": "marine",
+          "display": "Marine",
+          "phonetic": "",
+          "translation": "\u6d77\u7684\uff1b\u822a\u6d77\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-mar-mark",
+          "word": "mark",
+          "display": "Mark",
+          "phonetic": "",
+          "translation": "\u6807\u8bb0\uff1b\u5206\u6570",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-mar-market",
+          "word": "market",
+          "display": "Market",
+          "phonetic": "",
+          "translation": "\u5e02\u573a\uff1b\u9500\u552e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-meadow",
+          "word": "meadow",
+          "display": "Meadow",
+          "phonetic": "",
+          "translation": "\u8349\u5730\uff1b\u7267\u573a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-migr-migrate",
+          "word": "migrate",
+          "display": "Migrate",
+          "phonetic": "",
+          "translation": "\u8fc1\u79fb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-mount",
+          "word": "mount",
+          "display": "Mount",
+          "phonetic": "",
+          "translation": "\u767b\u4e0a\uff1b\u5b89\u88c5\uff1b\u5c71\u5cf0\uff1b\u652f\u67b6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-landscape-mountain",
+          "word": "mountain",
+          "display": "Mountain",
+          "phonetic": "",
+          "translation": "\u5c71",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-important",
+      "rootLevel": 3,
+      "rootPath": "m>m-important>m-important-landscape",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-man": {
+      "version": 1,
+      "rootId": "m-important-man",
+      "root": "man main manu\u624b",
+      "meaning": "hand",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-important-man-main",
+          "word": "main",
+          "display": "Main",
+          "phonetic": "",
+          "translation": "\u4e3b\u8981\u7684\uff1b\u603b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-mainland",
+          "word": "mainland",
+          "display": "Mainland",
+          "phonetic": "",
+          "translation": "\u5927\u9646\uff1b\u672c\u571f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-maintain",
+          "word": "maintain",
+          "display": "Maintain",
+          "phonetic": "",
+          "translation": "\u7ef4\u6301\uff1b\u4e3b\u5f20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-maintenance",
+          "word": "maintenance",
+          "display": "Maintenance",
+          "phonetic": "",
+          "translation": "\u7ef4\u4fee\uff1b\u4fdd\u517b\uff1b\u4e3b\u5f20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manage",
+          "word": "manage",
+          "display": "Manage",
+          "phonetic": "",
+          "translation": "\u60ef\u4f8b\uff1b\u5904\u7406",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manageable",
+          "word": "manageable",
+          "display": "Manageable",
+          "phonetic": "",
+          "translation": "\u5bb9\u6613\u5904\u7406\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-management",
+          "word": "management",
+          "display": "Management",
+          "phonetic": "",
+          "translation": "\u7ecf\u8425\uff1b\u7ba1\u7406\u90e8\u95e8",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-maneuver",
+          "word": "maneuver",
+          "display": "Maneuver",
+          "phonetic": "",
+          "translation": "\u8fd0\u7528\uff1b\u64cd\u4f5c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manifest",
+          "word": "manifest",
+          "display": "Manifest",
+          "phonetic": "",
+          "translation": "\u663e\u7136\u7684\uff1b\u8868\u660e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manifesto",
+          "word": "manifesto",
+          "display": "Manifesto",
+          "phonetic": "",
+          "translation": "\u5ba3\u8a00\uff1b\u58f0\u660e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manipulate",
+          "word": "manipulate",
+          "display": "Manipulate",
+          "phonetic": "",
+          "translation": "\u4f7f\u7528\uff1b\u64cd\u4f5c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manner",
+          "word": "manner",
+          "display": "Manner",
+          "phonetic": "",
+          "translation": "\u65b9\u6cd5\uff1b\u6001\u5ea6 \u4e3e\u6b62\uff1b\u793c\u8c8c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manual",
+          "word": "manual",
+          "display": "Manual",
+          "phonetic": "",
+          "translation": "\u624b\u518c\uff1b\u624b\u5de5\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manufacture",
+          "word": "manufacture",
+          "display": "Manufacture",
+          "phonetic": "",
+          "translation": "\u5236\u9020\uff1b\u52a0\u5de5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-man-manuscript",
+          "word": "manuscript",
+          "display": "Manuscript",
+          "phonetic": "",
+          "translation": "\u624b\u7a3f\uff1b\u539f\u7a3f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-important",
+      "rootLevel": 3,
+      "rootPath": "m>m-important>m-important-man",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-math": {
+      "version": 1,
+      "rootId": "m-important-math",
+      "root": "\u6570\u5b66\u5927\u5c0f",
+      "meaning": "math",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-important-math-magn-magazine",
+          "word": "magazine",
+          "display": "Magazine",
+          "phonetic": "",
+          "translation": "\u6742\u5fd7\uff1b\u671f\u520a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-magn-magnet",
+          "word": "magnet",
+          "display": "Magnet",
+          "phonetic": "",
+          "translation": "\u78c1\u4f53",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-magn-magnetic",
+          "word": "magnetic",
+          "display": "Magnetic",
+          "phonetic": "",
+          "translation": "\u6709\u78c1\u6027\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-magn-magnificent",
+          "word": "magnificent",
+          "display": "Magnificent",
+          "phonetic": "",
+          "translation": "\u5b8f\u4f1f\u7684\uff1b\u534e\u4e3d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-magn-magnify",
+          "word": "magnify",
+          "display": "Magnify",
+          "phonetic": "",
+          "translation": "\u653e\u5927\uff1b\u6269\u5927\uff1b\u5938\u5f20",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-magn-magnitude",
+          "word": "magnitude",
+          "display": "Magnitude",
+          "phonetic": "",
+          "translation": "\u5927\u5c0f\uff1b\u6570\u91cf\uff1b\u5de8\u5927",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-magn-major",
+          "word": "major",
+          "display": "Major",
+          "phonetic": "",
+          "translation": "\u4e3b\u8981\u7684\uff1b\u4e3b\u4fee\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-magn-majority",
+          "word": "majority",
+          "display": "Majority",
+          "phonetic": "",
+          "translation": "\u591a\u6570\uff1b\u6210\u5e74",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mass-massacre",
+          "word": "massacre",
+          "display": "Massacre",
+          "phonetic": "",
+          "translation": "\u6b8b\u6740\uff1b\u5927\u5c60\u6740",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mass-massive",
+          "word": "massive",
+          "display": "Massive",
+          "phonetic": "",
+          "translation": "\u539a\u5b9e\u7684\uff1b\u5927\u89c4\u6a21\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mass-mess",
+          "word": "mess",
+          "display": "Mess",
+          "phonetic": "",
+          "translation": "\u6742\u4e71",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-maths-mathematical",
+          "word": "mathematical",
+          "display": "Mathematical",
+          "phonetic": "",
+          "translation": "\u6570\u5b66\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-maths-mean",
+          "word": "mean",
+          "display": "Mean",
+          "phonetic": "",
+          "translation": "\u5e73\u5747\u503c\uff1b\u5351\u9119\u7684\uff1b\u610f\u601d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-maths-meaning",
+          "word": "meaning",
+          "display": "Meaning",
+          "phonetic": "",
+          "translation": "\u542b\u4e49\uff1b\u4ef7\u503c\uff1b\u91cd\u8981\u6027",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-maths-means",
+          "word": "means",
+          "display": "Means",
+          "phonetic": "",
+          "translation": "\u65b9\u6cd5\uff1b\u624b\u6bb5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-maths-meantime",
+          "word": "meantime",
+          "display": "Meantime",
+          "phonetic": "",
+          "translation": "\u540c\u65f6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-maths-meanwhile",
+          "word": "meanwhile",
+          "display": "Meanwhile",
+          "phonetic": "",
+          "translation": "\u4e0e\u6b64\u540c\u65f6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-medi-medieval",
+          "word": "medieval",
+          "display": "Medieval",
+          "phonetic": "",
+          "translation": "\u4e2d\u4e16\u7eaa\u7684\uff1b\u539f\u59cb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-medi-medium",
+          "word": "medium",
+          "display": "Medium",
+          "phonetic": "",
+          "translation": "\u5a92\u4f53\uff1b\u5a92\u4ecb\uff1b\u4e2d\u7b49\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-medi-middle",
+          "word": "middle",
+          "display": "Middle",
+          "phonetic": "",
+          "translation": "\u4e2d\u95f4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-medi-midst",
+          "word": "midst",
+          "display": "Midst",
+          "phonetic": "",
+          "translation": "\u4e2d\u95f4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-merely",
+          "word": "merely",
+          "display": "Merely",
+          "phonetic": "",
+          "translation": "\u4ec5\u4ec5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-microphone",
+          "word": "microphone",
+          "display": "Microphone",
+          "phonetic": "",
+          "translation": "\u6269\u97f3\u5668\uff1b\u8bdd\u7b52",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-microscope",
+          "word": "microscope",
+          "display": "Microscope",
+          "phonetic": "",
+          "translation": "\u663e\u5fae\u955c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-miniature",
+          "word": "miniature",
+          "display": "Miniature",
+          "phonetic": "",
+          "translation": "\u7f29\u5c0f\u7684\uff1b\u5fae\u578b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-minimize",
+          "word": "minimize",
+          "display": "Minimize",
+          "phonetic": "",
+          "translation": "\u4f7f\u51cf\u5c11\u5230\u6700\u5c11",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-minimum",
+          "word": "minimum",
+          "display": "Minimum",
+          "phonetic": "",
+          "translation": "\u6700\u5c0f\u503c",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-minor",
+          "word": "minor",
+          "display": "Minor",
+          "phonetic": "",
+          "translation": "\u8f83\u5c0f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mini-minority",
+          "word": "minority",
+          "display": "Minority",
+          "phonetic": "",
+          "translation": "\u5c11\u6570",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mixture-mingle",
+          "word": "mingle",
+          "display": "Mingle",
+          "phonetic": "",
+          "translation": "\u6df7\u5408",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mixture-mix",
+          "word": "mix",
+          "display": "Mix",
+          "phonetic": "",
+          "translation": "\u6df7\u5408",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-mixture-mixture",
+          "word": "mixture",
+          "display": "Mixture",
+          "phonetic": "",
+          "translation": "\u6df7\u5408\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-multiple-multiple",
+          "word": "multiple",
+          "display": "Multiple",
+          "phonetic": "",
+          "translation": "\u591a\u91cd\u7684\uff1b\u500d\u6570",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-multiple-multiply",
+          "word": "multiply",
+          "display": "Multiply",
+          "phonetic": "",
+          "translation": "\u500d\u589e\u7684\uff1b\u7e41\u6b96",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-multiple-multitude",
+          "word": "multitude",
+          "display": "Multitude",
+          "phonetic": "",
+          "translation": "\u4f17\u591a\uff1b\u5927\u91cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-measure",
+          "word": "measure",
+          "display": "Measure",
+          "phonetic": "",
+          "translation": "\u6d4b\u91cf\uff1b\u6743\u8861",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-metre",
+          "word": "metre",
+          "display": "Metre",
+          "phonetic": "",
+          "translation": "\u7c73",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-metric",
+          "word": "metric",
+          "display": "Metric",
+          "phonetic": "",
+          "translation": "\u7c73\u5236\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-mile",
+          "word": "mile",
+          "display": "Mile",
+          "phonetic": "",
+          "translation": "\u6d77\u91cc\uff1b\u82f1\u91cc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-millimeter",
+          "word": "millimeter",
+          "display": "Millimeter",
+          "phonetic": "",
+          "translation": "\u6beb\u7c73",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-million",
+          "word": "million",
+          "display": "Million",
+          "phonetic": "",
+          "translation": "\u767e\u4e07",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-minus",
+          "word": "minus",
+          "display": "Minus",
+          "phonetic": "",
+          "translation": "\u51cf\u53bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-math-unit-minute",
+          "word": "minute",
+          "display": "Minute",
+          "phonetic": "",
+          "translation": "\u5206\u949f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-important",
+      "rootLevel": 3,
+      "rootPath": "m>m-important>m-important-math",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-mon": {
+      "version": 1,
+      "rootId": "m-important-mon",
+      "root": "mon",
+      "meaning": "mon",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "m-important",
+      "rootLevel": 3,
+      "rootPath": "m>m-important>m-important-mon",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-mon-mono": {
+      "version": 1,
+      "rootId": "m-important-mon-mono",
+      "root": "mono one=uni\u552f\u4e00",
+      "meaning": "one",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-important-mon-mono-monday",
+          "word": "monday",
+          "display": "Monday",
+          "phonetic": "",
+          "translation": "\u661f\u671f\u4e00",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-mono-monetary",
+          "word": "monetary",
+          "display": "Monetary",
+          "phonetic": "",
+          "translation": "\u91d1\u878d\u7684\uff1b\u8d27\u5e01\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-mono-money",
+          "word": "money",
+          "display": "Money",
+          "phonetic": "",
+          "translation": "\u94b1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-mono-monopoly",
+          "word": "monopoly",
+          "display": "Monopoly",
+          "phonetic": "",
+          "translation": "\u5784\u65ad\uff1b\u4e13\u5229",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-mono-monotonous",
+          "word": "monotonous",
+          "display": "Monotonous",
+          "phonetic": "",
+          "translation": "\u5355\u8c03\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-mono-month",
+          "word": "month",
+          "display": "Month",
+          "phonetic": "",
+          "translation": "\u6708\u4efd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-mono-monthly",
+          "word": "monthly",
+          "display": "Monthly",
+          "phonetic": "",
+          "translation": "\u6bcf\u6708\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-important-mon",
+      "rootLevel": 4,
+      "rootPath": "m>m-important>m-important-mon>m-important-mon-mono",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-mon-warning": {
+      "version": 1,
+      "rootId": "m-important-mon-warning",
+      "root": "\u544a\u8beb",
+      "meaning": "warning",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-important-mon-warning-menace",
+          "word": "menace",
+          "display": "Menace",
+          "phonetic": "",
+          "translation": "\u5a01\u80c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-moan",
+          "word": "moan",
+          "display": "Moan",
+          "phonetic": "",
+          "translation": "\u547b\u541f\u58f0\uff1b\u60b2\u53f9\u58f0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-mob",
+          "word": "mob",
+          "display": "Mob",
+          "phonetic": "",
+          "translation": "\u4e4c\u5408\u4e4b\u4f17\uff1b\u805a\u4f17\u95f9\u4e8b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-monitor",
+          "word": "monitor",
+          "display": "Monitor",
+          "phonetic": "",
+          "translation": "\u76d1\u89c6\u5668\uff1b\u73ed\u957f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-monster",
+          "word": "monster",
+          "display": "Monster",
+          "phonetic": "",
+          "translation": "\u602a\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-mourn",
+          "word": "mourn",
+          "display": "Mourn",
+          "phonetic": "",
+          "translation": "\u54c0\u60bc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-murder",
+          "word": "murder",
+          "display": "Murder",
+          "phonetic": "",
+          "translation": "\u8c0b\u6740",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-murmur",
+          "word": "murmur",
+          "display": "Murmur",
+          "phonetic": "",
+          "translation": "\u5c0f\u58f0\u62b1\u6028",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-important-mon-warning-mutter",
+          "word": "mutter",
+          "display": "Mutter",
+          "phonetic": "",
+          "translation": "\u62b1\u6028",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-important-mon",
+      "rootLevel": 4,
+      "rootPath": "m>m-important>m-important-mon>m-important-mon-warning",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-important-summary": {
+      "version": 1,
+      "rootId": "m-important-summary",
+      "root": "\u5c0f\u7ed3",
+      "meaning": "summary",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "m-important",
+      "rootLevel": 3,
+      "rootPath": "m>m-important>m-important-summary",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation": {
+      "version": 1,
+      "rootId": "m-operation",
+      "root": "\u64cd\u4f5c",
+      "meaning": "operation",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "m",
+      "rootLevel": 2,
+      "rootPath": "m>m-operation",
+      "type": "root",
+      "notes": ""
+    },
+    "m-operation-mechan": {
+      "version": 1,
+      "rootId": "m-operation-mechan",
+      "root": "mechan\u673a\u68b0",
+      "meaning": "mechanic",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-operation-mechan-mechanic",
+          "word": "mechanic",
+          "display": "Mechanic",
+          "phonetic": "",
+          "translation": "\u6280\u5de5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mechan-mechanical",
+          "word": "mechanical",
+          "display": "Mechanical",
+          "phonetic": "",
+          "translation": "\u673a\u68b0\u7684\uff1b\u5446\u677f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mechan-mechanism",
+          "word": "mechanism",
+          "display": "Mechanism",
+          "phonetic": "",
+          "translation": "\u673a\u68b0\u88c5\u7f6e\uff1b\u673a\u6784\uff1b\u673a\u5236",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-mechan",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-med": {
+      "version": 1,
+      "rootId": "m-operation-med",
+      "root": "med\u6cbb\u6108",
+      "meaning": "heal",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-operation-med-medical",
+          "word": "medical",
+          "display": "Medical",
+          "phonetic": "",
+          "translation": "\u533b\u5b66\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-med-medicine",
+          "word": "medicine",
+          "display": "Medicine",
+          "phonetic": "",
+          "translation": "\u5185\u79d1\u5b66",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-med",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-merc": {
+      "version": 1,
+      "rootId": "m-operation-merc",
+      "root": "merc\u4e70\u5356",
+      "meaning": "trade",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-operation-merc-merchandise",
+          "word": "merchandise",
+          "display": "Merchandise",
+          "phonetic": "",
+          "translation": "\u5546\u54c1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-merc-merchant",
+          "word": "merchant",
+          "display": "Merchant",
+          "phonetic": "",
+          "translation": "\u5546\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-merc-mercy",
+          "word": "mercy",
+          "display": "Mercy",
+          "phonetic": "",
+          "translation": "\u4ec1\u6148",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-merc-merge",
+          "word": "merge",
+          "display": "Merge",
+          "phonetic": "",
+          "translation": "\u7ed3\u5408",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-merc",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-mill": {
+      "version": 1,
+      "rootId": "m-operation-mill",
+      "root": "mill\u78e8\u574a \u2500\u2500 milk\u725b\u5976",
+      "meaning": "mill, milk",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-operation-mill-milk",
+          "word": "milk",
+          "display": "Milk",
+          "phonetic": "",
+          "translation": "\u725b\u5976",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mill-mill",
+          "word": "mill",
+          "display": "Mill",
+          "phonetic": "",
+          "translation": "\u78e8\u574a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-mill",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-min": {
+      "version": 1,
+      "rootId": "m-operation-min",
+      "root": "min=project\u4f38\u51fa",
+      "meaning": "project",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-min",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-mis": {
+      "version": 1,
+      "rootId": "m-operation-mis",
+      "root": "mis\u538c\u6076",
+      "meaning": "hate",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-operation-mis-mischief",
+          "word": "mischief",
+          "display": "Mischief",
+          "phonetic": "",
+          "translation": "\u635f\u5bb3\uff1b\u6076\u4f5c\u5267",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-miserable",
+          "word": "miserable",
+          "display": "Miserable",
+          "phonetic": "",
+          "translation": "\u75db\u82e6\uff1b\u60b2\u60e8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-misery",
+          "word": "misery",
+          "display": "Misery",
+          "phonetic": "",
+          "translation": "\u75db\u82e6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-misfortune",
+          "word": "misfortune",
+          "display": "Misfortune",
+          "phonetic": "",
+          "translation": "\u4e0d\u5e78\uff1b\u707e\u96be",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-mislead",
+          "word": "mislead",
+          "display": "Mislead",
+          "phonetic": "",
+          "translation": "\u4f7f\u8bef\u5165\u6b67\u9014",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-miss",
+          "word": "miss",
+          "display": "Miss",
+          "phonetic": "",
+          "translation": "\u9519\u8fc7\uff1b\u6f0f\u6389\uff1b\u9003\u8131",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-missing",
+          "word": "missing",
+          "display": "Missing",
+          "phonetic": "",
+          "translation": "\u6f0f\u6389\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-mistake",
+          "word": "mistake",
+          "display": "Mistake",
+          "phonetic": "",
+          "translation": "\u9519\u8bef\uff1b\u8fc7\u5931",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mis-misunderstand",
+          "word": "misunderstand",
+          "display": "Misunderstand",
+          "phonetic": "",
+          "translation": "\u8bef\u89e3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-mis",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-miss": {
+      "version": 1,
+      "rootId": "m-operation-miss",
+      "root": "miss=mit=send\u53d1\u5c04",
+      "meaning": "send",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-miss",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-mob": {
+      "version": 1,
+      "rootId": "m-operation-mob",
+      "root": "mob=mot mov=move\u79fb\u52a8",
+      "meaning": "move",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-operation-mob-mobile",
+          "word": "mobile",
+          "display": "Mobile",
+          "phonetic": "",
+          "translation": "\u53ef\u52a8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mob-mobilize",
+          "word": "mobilize",
+          "display": "Mobilize",
+          "phonetic": "",
+          "translation": "\u52a8\u5458",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mob-motion",
+          "word": "motion",
+          "display": "Motion",
+          "phonetic": "",
+          "translation": "\u8fd0\u52a8\uff1b\u63d0\u8bae",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mob-motivate",
+          "word": "motivate",
+          "display": "Motivate",
+          "phonetic": "",
+          "translation": "\u6fc0\u52b1\uff1b\u9f13\u52b1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mob-motive",
+          "word": "motive",
+          "display": "Motive",
+          "phonetic": "",
+          "translation": "\u52a8\u673a\uff1b\u8fd0\u52a8\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mob-motor",
+          "word": "motor",
+          "display": "Motor",
+          "phonetic": "",
+          "translation": "\u53d1\u52a8\u673a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mob-movement",
+          "word": "movement",
+          "display": "Movement",
+          "phonetic": "",
+          "translation": "\u8fd0\u52a8\uff1b\u8fc1\u79fb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-mob",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-operation-mod": {
+      "version": 1,
+      "rootId": "m-operation-mod",
+      "root": "mod\u65b9\u5f0f",
+      "meaning": "mode",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-operation-mod-mode",
+          "word": "mode",
+          "display": "Mode",
+          "phonetic": "",
+          "translation": "\u65b9\u5f0f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-model",
+          "word": "model",
+          "display": "Model",
+          "phonetic": "",
+          "translation": "\u6a21\u578b\uff1b\u6a21\u4eff",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-moderate",
+          "word": "moderate",
+          "display": "Moderate",
+          "phonetic": "",
+          "translation": "\u4e2d\u7b49\u7684\uff1b\u6e29\u548c\u7684\uff1b\u6587\u4ef6\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-modern",
+          "word": "modern",
+          "display": "Modern",
+          "phonetic": "",
+          "translation": "\u73b0\u4ee3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-modernization",
+          "word": "modernization",
+          "display": "Modernization",
+          "phonetic": "",
+          "translation": "\u73b0\u4ee3\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-modest",
+          "word": "modest",
+          "display": "Modest",
+          "phonetic": "",
+          "translation": "\u8c26\u865a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-modify",
+          "word": "modify",
+          "display": "Modify",
+          "phonetic": "",
+          "translation": "\u66f4\u6539\uff1b\u4fee\u9970",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-module",
+          "word": "module",
+          "display": "Module",
+          "phonetic": "",
+          "translation": "\u7ec4\u4ef6\uff1b\u6a21\u5757",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-operation-mod-mould",
+          "word": "mould",
+          "display": "Mould",
+          "phonetic": "",
+          "translation": "\u6d47\u94f8\uff1b\u9020\u578b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-operation",
+      "rootLevel": 3,
+      "rootPath": "m>m-operation>m-operation-mod",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-other": {
+      "version": 1,
+      "rootId": "m-other",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-other-marvelous",
+          "word": "marvelous",
+          "display": "Marvelous",
+          "phonetic": "",
+          "translation": "\u60ca\u4eba\u7684\uff1b\u5947\u8ff9\u822c\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-marxist",
+          "word": "marxist",
+          "display": "Marxist",
+          "phonetic": "",
+          "translation": "\u9a6c\u514b\u601d\u4e3b\u4e49\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-matter",
+          "word": "matter",
+          "display": "Matter",
+          "phonetic": "",
+          "translation": "\u7269\u8d28\uff1b\u9ebb\u70e6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-melody",
+          "word": "melody",
+          "display": "Melody",
+          "phonetic": "",
+          "translation": "\u60a6\u8033\u7684\uff1b\u65cb\u5f8b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-melon",
+          "word": "melon",
+          "display": "Melon",
+          "phonetic": "",
+          "translation": "\u897f\u74dc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mercury",
+          "word": "mercury",
+          "display": "Mercury",
+          "phonetic": "",
+          "translation": "\u6c34\u94f6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-metaphor",
+          "word": "metaphor",
+          "display": "Metaphor",
+          "phonetic": "",
+          "translation": "\u6bd4\u55bb\uff1b\u9690\u55bb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-metropolitan",
+          "word": "metropolitan",
+          "display": "Metropolitan",
+          "phonetic": "",
+          "translation": "\u9996\u90fd\u7684\uff1b\u5927\u57ce\u5e02",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mission",
+          "word": "mission",
+          "display": "Mission",
+          "phonetic": "",
+          "translation": "\u4efb\u52a1\uff1b\u4ee3\u8868\u56e2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-missionary",
+          "word": "missionary",
+          "display": "Missionary",
+          "phonetic": "",
+          "translation": "\u6559\u4f1a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mist",
+          "word": "mist",
+          "display": "Mist",
+          "phonetic": "",
+          "translation": "\u96fe\u972d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mock",
+          "word": "mock",
+          "display": "Mock",
+          "phonetic": "",
+          "translation": "\u5632\u7b11\uff1b\u6a21\u62df\u8003\u8bd5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-moist",
+          "word": "moist",
+          "display": "Moist",
+          "phonetic": "",
+          "translation": "\u6f6e\u6e7f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-moisture",
+          "word": "moisture",
+          "display": "Moisture",
+          "phonetic": "",
+          "translation": "\u8d85\u5e02",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-molecule",
+          "word": "molecule",
+          "display": "Molecule",
+          "phonetic": "",
+          "translation": "\u5206\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mosaic",
+          "word": "mosaic",
+          "display": "Mosaic",
+          "phonetic": "",
+          "translation": "\u9a6c\u8d5b\u514b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mosquito",
+          "word": "mosquito",
+          "display": "Mosquito",
+          "phonetic": "",
+          "translation": "\u868a\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-moss",
+          "word": "moss",
+          "display": "Moss",
+          "phonetic": "",
+          "translation": "\u82d4\u85d3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mud",
+          "word": "mud",
+          "display": "Mud",
+          "phonetic": "",
+          "translation": "\u6ce5\u5df4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-myth",
+          "word": "myth",
+          "display": "Myth",
+          "phonetic": "",
+          "translation": "\u795e\u8bdd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m",
+      "rootLevel": 2,
+      "rootPath": "m>m-other",
+      "type": "root",
+      "notes": ""
+    },
+    "m-other-mir": {
+      "version": 1,
+      "rootId": "m-other-mir",
+      "root": "mir\u60ca\u5947",
+      "meaning": "surprise",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-other-mir-miracle",
+          "word": "miracle",
+          "display": "Miracle",
+          "phonetic": "",
+          "translation": "\u5947\u8ff9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mir-mirror",
+          "word": "mirror",
+          "display": "Mirror",
+          "phonetic": "",
+          "translation": "\u955c\u5b50\uff1b\u53cd\u5c04",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-other",
+      "rootLevel": 3,
+      "rootPath": "m>m-other>m-other-mir",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-other-mort": {
+      "version": 1,
+      "rootId": "m-other-mort",
+      "root": "mort\u6b7b",
+      "meaning": "death",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-other-mort-mortal",
+          "word": "mortal",
+          "display": "Mortal",
+          "phonetic": "",
+          "translation": "\u81f4\u547d\u7684\uff1b\u51e1\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-mort-mortgage",
+          "word": "mortgage",
+          "display": "Mortgage",
+          "phonetic": "",
+          "translation": "\u62b5\u62bc",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-other",
+      "rootLevel": 3,
+      "rootPath": "m>m-other>m-other-mort",
+      "type": "branch",
+      "notes": ""
+    },
+    "m-other-war": {
+      "version": 1,
+      "rootId": "m-other-war",
+      "root": "\u6218",
+      "meaning": "war",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "m-other-war-march",
+          "word": "march",
+          "display": "March",
+          "phonetic": "",
+          "translation": "\u884c\u519b\uff1b\u884c\u7a0b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-war-milit",
+          "word": "milit",
+          "display": "Milit",
+          "phonetic": "",
+          "translation": "\u5175",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-war-militant",
+          "word": "militant",
+          "display": "Militant",
+          "phonetic": "",
+          "translation": "\u597d\u6218\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-war-military",
+          "word": "military",
+          "display": "Military",
+          "phonetic": "",
+          "translation": "\u519b\u4e8b\u7684\uff1b\u519b\u7528\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "m-other-war-mort",
+          "word": "mort",
+          "display": "Mort",
+          "phonetic": "",
+          "translation": "\u6b7b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "m-other",
+      "rootLevel": 3,
+      "rootPath": "m>m-other>m-other-war",
+      "type": "branch",
+      "notes": ""
+    },
     "monarch": {
       "version": 1,
       "rootId": "monarch",
       "root": "monarch",
       "meaning": "",
       "descriptionCn": "\u541b\u4e3b\u5e1d\u738b",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "monarch-monarch-2",
@@ -41,7 +2678,7 @@
       "root": "monarchy",
       "meaning": "",
       "descriptionCn": "\u541b\u4e3b\u5236",
-      "updatedAt": "2026-04-09",
+      "updatedAt": "2026-04-15",
       "words": [
         {
           "id": "monarchy",

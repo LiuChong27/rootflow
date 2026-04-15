@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "m-operation-mis",
+  "root": "mis\u538c\u6076",
+  "meaning": "hate",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-operation-mis-mischief",
+      "word": "mischief",
+      "display": "Mischief",
+      "phonetic": "",
+      "translation": "\u635f\u5bb3\uff1b\u6076\u4f5c\u5267",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-miserable",
+      "word": "miserable",
+      "display": "Miserable",
+      "phonetic": "",
+      "translation": "\u75db\u82e6\uff1b\u60b2\u60e8\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-misery",
+      "word": "misery",
+      "display": "Misery",
+      "phonetic": "",
+      "translation": "\u75db\u82e6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-misfortune",
+      "word": "misfortune",
+      "display": "Misfortune",
+      "phonetic": "",
+      "translation": "\u4e0d\u5e78\uff1b\u707e\u96be",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-mislead",
+      "word": "mislead",
+      "display": "Mislead",
+      "phonetic": "",
+      "translation": "\u4f7f\u8bef\u5165\u6b67\u9014",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-miss",
+      "word": "miss",
+      "display": "Miss",
+      "phonetic": "",
+      "translation": "\u9519\u8fc7\uff1b\u6f0f\u6389\uff1b\u9003\u8131",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-missing",
+      "word": "missing",
+      "display": "Missing",
+      "phonetic": "",
+      "translation": "\u6f0f\u6389\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-mistake",
+      "word": "mistake",
+      "display": "Mistake",
+      "phonetic": "",
+      "translation": "\u9519\u8bef\uff1b\u8fc7\u5931",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-operation-mis-misunderstand",
+      "word": "misunderstand",
+      "display": "Misunderstand",
+      "phonetic": "",
+      "translation": "\u8bef\u89e3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-operation",
+  "rootLevel": 3,
+  "rootPath": "m>m-operation>m-operation-mis",
+  "type": "branch",
+  "notes": ""
+}

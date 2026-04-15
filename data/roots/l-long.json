@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rootId": "l-long",
+  "root": "long\u957f",
+  "meaning": "long",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "l-long-belong",
+      "word": "belong",
+      "display": "Belong",
+      "phonetic": "",
+      "translation": "\u5c5e\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-long-length",
+      "word": "length",
+      "display": "Length",
+      "phonetic": "",
+      "translation": "\u957f\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-long-lengthen",
+      "word": "lengthen",
+      "display": "Lengthen",
+      "phonetic": "",
+      "translation": "\u5ef6\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-long-longitude",
+      "word": "longitude",
+      "display": "Longitude",
+      "phonetic": "",
+      "translation": "\u7ecf\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "l-long-prolong",
+      "word": "prolong",
+      "display": "Prolong",
+      "phonetic": "",
+      "translation": "\u5ef6\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "l",
+  "rootLevel": 2,
+  "rootPath": "l>l-long",
+  "type": "root",
+  "notes": ""
+}

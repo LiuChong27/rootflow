@@ -1,0 +1,1759 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "strategy": "alpha",
+  "shardId": "alpha-n",
+  "rootIds": [
+    "n",
+    "n-nav",
+    "n-nect",
+    "n-neg",
+    "n-negr",
+    "n-net",
+    "n-new",
+    "n-new-nat",
+    "n-new-neo",
+    "n-new-nerv",
+    "n-new-nov",
+    "n-nihil",
+    "n-nitro",
+    "n-no",
+    "n-noc",
+    "n-nomin",
+    "n-norm",
+    "n-note",
+    "n-numer",
+    "n-nutri",
+    "n-other"
+  ],
+  "roots": {
+    "n": {
+      "version": 1,
+      "rootId": "n",
+      "root": "N",
+      "meaning": "",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "",
+      "rootLevel": 1,
+      "rootPath": "n",
+      "type": "root",
+      "notes": "\u6839\u636eN.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+    },
+    "n-nav": {
+      "version": 1,
+      "rootId": "n-nav",
+      "root": "nav=ship\u8239",
+      "meaning": "ship",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-nav-naval",
+          "word": "naval",
+          "display": "Naval",
+          "phonetic": "",
+          "translation": "\u6d77\u519b\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nav-navigation",
+          "word": "navigation",
+          "display": "Navigation",
+          "phonetic": "",
+          "translation": "\u822a\u6d77\uff1b\u5bfc\u822a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nav-navy",
+          "word": "navy",
+          "display": "Navy",
+          "phonetic": "",
+          "translation": "\u6d77\u519b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-nav",
+      "type": "root",
+      "notes": ""
+    },
+    "n-nect": {
+      "version": 1,
+      "rootId": "n-nect",
+      "root": "nect=nex=bind\u8fde\u63a5",
+      "meaning": "bind",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-nect-annex",
+          "word": "annex",
+          "display": "Annex",
+          "phonetic": "",
+          "translation": "\u9644\u52a0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nect-annexation",
+          "word": "annexation",
+          "display": "Annexation",
+          "phonetic": "",
+          "translation": "\u9644\u52a0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nect-annexe",
+          "word": "annexe",
+          "display": "Annexe",
+          "phonetic": "",
+          "translation": "\u9644\u52a0\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nect-annexure",
+          "word": "annexure",
+          "display": "Annexure",
+          "phonetic": "",
+          "translation": "\u9644\u5f55",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nect-connect",
+          "word": "connect",
+          "display": "Connect",
+          "phonetic": "",
+          "translation": "\u8fde\u63a5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nect-connection",
+          "word": "connection",
+          "display": "Connection",
+          "phonetic": "",
+          "translation": "\u8fde\u63a5\uff1b\u5173\u7cfb\uff1b\u4eb2\u621a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nect-connective",
+          "word": "connective",
+          "display": "Connective",
+          "phonetic": "",
+          "translation": "\u8fde\u63a5\u8bcd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nect-disconnect",
+          "word": "disconnect",
+          "display": "Disconnect",
+          "phonetic": "",
+          "translation": "\u62c6\u5f00\uff1b\u5206\u5f00",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-nect",
+      "type": "root",
+      "notes": ""
+    },
+    "n-neg": {
+      "version": 1,
+      "rootId": "n-neg",
+      "root": "neg\u5426\u8ba4",
+      "meaning": "deny",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-neg-negate",
+          "word": "negate",
+          "display": "Negate",
+          "phonetic": "",
+          "translation": "\u5426\u8ba4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-negative",
+          "word": "negative",
+          "display": "Negative",
+          "phonetic": "",
+          "translation": "\u5426\u5b9a\u7684\uff1b\u6d88\u6781\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-neglect",
+          "word": "neglect",
+          "display": "Neglect",
+          "phonetic": "",
+          "translation": "\u5ffd\u7565",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-negligence",
+          "word": "negligence",
+          "display": "Negligence",
+          "phonetic": "",
+          "translation": "\u758f\u5ffd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-negligible",
+          "word": "negligible",
+          "display": "Negligible",
+          "phonetic": "",
+          "translation": "\u5fae\u4e0d\u8db3\u9053\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-negotiate",
+          "word": "negotiate",
+          "display": "Negotiate",
+          "phonetic": "",
+          "translation": "\u8c08\u5224",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-never",
+          "word": "never",
+          "display": "Never",
+          "phonetic": "",
+          "translation": "\u7edd\u4e0d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-nevertheless",
+          "word": "nevertheless",
+          "display": "Nevertheless",
+          "phonetic": "",
+          "translation": "\u7136\u800c\uff1b\u4e0d\u8fc7",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-neg-renege",
+          "word": "renege",
+          "display": "Renege",
+          "phonetic": "",
+          "translation": "\u98df\u8a00\uff1b\u5426\u8ba4\uff1b\u62d2\u7edd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-neg",
+      "type": "root",
+      "notes": ""
+    },
+    "n-negr": {
+      "version": 1,
+      "rootId": "n-negr",
+      "root": "negr=nigr=black\u9ed1",
+      "meaning": "black",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-negr-negro",
+          "word": "negro",
+          "display": "Negro",
+          "phonetic": "",
+          "translation": "\u9ed1\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-negr-night",
+          "word": "night",
+          "display": "Night",
+          "phonetic": "",
+          "translation": "\u591c\u665a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-negr-nightmare",
+          "word": "nightmare",
+          "display": "Nightmare",
+          "phonetic": "",
+          "translation": "\u5669\u68a6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-negr",
+      "type": "root",
+      "notes": ""
+    },
+    "n-net": {
+      "version": 1,
+      "rootId": "n-net",
+      "root": "net\u7f51",
+      "meaning": "net",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-net-nest",
+          "word": "nest",
+          "display": "Nest",
+          "phonetic": "",
+          "translation": "\u7b51\u5de2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-net-net",
+          "word": "net",
+          "display": "Net",
+          "phonetic": "",
+          "translation": "\u7f51",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-net-network",
+          "word": "network",
+          "display": "Network",
+          "phonetic": "",
+          "translation": "\u7f51\u7edc\uff1b\u7f51\u72b6\u7269",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-net",
+      "type": "root",
+      "notes": ""
+    },
+    "n-new": {
+      "version": 1,
+      "rootId": "n-new",
+      "root": "new\u65b0",
+      "meaning": "new",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-new",
+      "type": "root",
+      "notes": ""
+    },
+    "n-new-nat": {
+      "version": 1,
+      "rootId": "n-new-nat",
+      "root": "nat\u8bde\u751f",
+      "meaning": "birth",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-new-nat-nation",
+          "word": "nation",
+          "display": "Nation",
+          "phonetic": "",
+          "translation": "\u6c11\u65cf\uff1b\u56fd\u5bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nat-nationality",
+          "word": "nationality",
+          "display": "Nationality",
+          "phonetic": "",
+          "translation": "\u56fd\u7c4d\uff1b\u6c11\u65cf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nat-native",
+          "word": "native",
+          "display": "Native",
+          "phonetic": "",
+          "translation": "\u672c\u5730\u7684\uff1b\u5929\u751f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nat-natural",
+          "word": "natural",
+          "display": "Natural",
+          "phonetic": "",
+          "translation": "\u6b63\u5e38\u7684\uff1b\u5929\u7136\u7684\uff1b\u56fa\u6709\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nat-nature",
+          "word": "nature",
+          "display": "Nature",
+          "phonetic": "",
+          "translation": "\u5927\u81ea\u7136\uff1b\u672c\u8d28\uff1b\u5929\u6027",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n-new",
+      "rootLevel": 3,
+      "rootPath": "n>n-new>n-new-nat",
+      "type": "branch",
+      "notes": ""
+    },
+    "n-new-neo": {
+      "version": 1,
+      "rootId": "n-new-neo",
+      "root": "neo\u65b0",
+      "meaning": "new",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-new-neo-naive",
+          "word": "naive",
+          "display": "Naive",
+          "phonetic": "",
+          "translation": "\u5929\u771f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-neo-naked",
+          "word": "naked",
+          "display": "Naked",
+          "phonetic": "",
+          "translation": "\u88f8\u4f53\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n-new",
+      "rootLevel": 3,
+      "rootPath": "n>n-new>n-new-neo",
+      "type": "branch",
+      "notes": ""
+    },
+    "n-new-nerv": {
+      "version": 1,
+      "rootId": "n-new-nerv",
+      "root": "nerv\u795e\u7ecf",
+      "meaning": "nerve",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-new-nerv-nephew",
+          "word": "nephew",
+          "display": "Nephew",
+          "phonetic": "",
+          "translation": "\u4f84\u5b50\uff1b\u5916\u7525",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nerv-nerve",
+          "word": "nerve",
+          "display": "Nerve",
+          "phonetic": "",
+          "translation": "\u795e\u7ecf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nerv-nervous",
+          "word": "nervous",
+          "display": "Nervous",
+          "phonetic": "",
+          "translation": "\u795e\u7ecf\u7684\uff1b\u7d27\u5f20\u4e0d\u5b89\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nerv-neural",
+          "word": "neural",
+          "display": "Neural",
+          "phonetic": "",
+          "translation": "\u795e\u7ecf\u4e2d\u67a2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nerv-neure",
+          "word": "neure",
+          "display": "Neure",
+          "phonetic": "",
+          "translation": "\u795e\u7ecf\u5143",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nerv-niece",
+          "word": "niece",
+          "display": "Niece",
+          "phonetic": "",
+          "translation": "\u4f84\u5973",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n-new",
+      "rootLevel": 3,
+      "rootPath": "n>n-new>n-new-nerv",
+      "type": "branch",
+      "notes": ""
+    },
+    "n-new-nov": {
+      "version": 1,
+      "rootId": "n-new-nov",
+      "root": "nov\u65b0",
+      "meaning": "new",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-new-nov-innovate",
+          "word": "innovate",
+          "display": "Innovate",
+          "phonetic": "",
+          "translation": "\u6539\u9769",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-innovation",
+          "word": "innovation",
+          "display": "Innovation",
+          "phonetic": "",
+          "translation": "\u9769\u65b0\uff1b\u521b\u65b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-innovative",
+          "word": "innovative",
+          "display": "Innovative",
+          "phonetic": "",
+          "translation": "\u521b\u65b0\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-innovativeness",
+          "word": "innovativeness",
+          "display": "Innovativeness",
+          "phonetic": "",
+          "translation": "\u521b\u65b0\u6027",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-innovator",
+          "word": "innovator",
+          "display": "Innovator",
+          "phonetic": "",
+          "translation": "\u6539\u9769\u8005",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-novel",
+          "word": "novel",
+          "display": "Novel",
+          "phonetic": "",
+          "translation": "\u65b0\u5947\u7684\uff1b\u5c0f\u8bf4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-novelist",
+          "word": "novelist",
+          "display": "Novelist",
+          "phonetic": "",
+          "translation": "\u5c0f\u8bf4\u5bb6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-novelize",
+          "word": "novelize",
+          "display": "Novelize",
+          "phonetic": "",
+          "translation": "\u5c0f\u8bf4\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-novelty",
+          "word": "novelty",
+          "display": "Novelty",
+          "phonetic": "",
+          "translation": "\u65b0\u5947\uff1b\u65b0\u9896",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-november",
+          "word": "november",
+          "display": "November",
+          "phonetic": "",
+          "translation": "\u5341\u4e00\u6708",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-renew",
+          "word": "renew",
+          "display": "Renew",
+          "phonetic": "",
+          "translation": "\u66f4\u65b0\uff1b\u91cd\u65b0\u5f00\u59cb",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-renewable",
+          "word": "renewable",
+          "display": "Renewable",
+          "phonetic": "",
+          "translation": "\u53ef\u518d\u751f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-renovate",
+          "word": "renovate",
+          "display": "Renovate",
+          "phonetic": "",
+          "translation": "\u66f4\u65b0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-new-nov-renovation",
+          "word": "renovation",
+          "display": "Renovation",
+          "phonetic": "",
+          "translation": "\u9769\u65b0\uff1b\u4fee\u7406",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n-new",
+      "rootLevel": 3,
+      "rootPath": "n>n-new>n-new-nov",
+      "type": "branch",
+      "notes": ""
+    },
+    "n-nihil": {
+      "version": 1,
+      "rootId": "n-nihil",
+      "root": "nihil=nothing\u65e0",
+      "meaning": "nothing",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-nihil-annihilate",
+          "word": "annihilate",
+          "display": "Annihilate",
+          "phonetic": "",
+          "translation": "\u6d88\u706d\uff1b\u6b7c\u706d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nihil-nihil",
+          "word": "nihil",
+          "display": "Nihil",
+          "phonetic": "",
+          "translation": "\u865a\u65e0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nihil-nihilism",
+          "word": "nihilism",
+          "display": "Nihilism",
+          "phonetic": "",
+          "translation": "\u865a\u65e0\u4e3b\u4e49",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nihil-nonetheless",
+          "word": "nonetheless",
+          "display": "Nonetheless",
+          "phonetic": "",
+          "translation": "\u867d\u7136\u5982\u6b64\uff1b\u4f46\u662f",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nihil-nonsense",
+          "word": "nonsense",
+          "display": "Nonsense",
+          "phonetic": "",
+          "translation": "\u80e1\u8bf4\uff1b\u5e9f\u8bdd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nihil-nor",
+          "word": "nor",
+          "display": "Nor",
+          "phonetic": "",
+          "translation": "\u4e5f\u4e0d\uff1b\u4e5f\u6ca1\u6709",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nihil-not",
+          "word": "not",
+          "display": "Not",
+          "phonetic": "",
+          "translation": "\u975e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nihil-notwithstanding",
+          "word": "notwithstanding",
+          "display": "Notwithstanding",
+          "phonetic": "",
+          "translation": "\u5c3d\u7ba1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-nihil",
+      "type": "root",
+      "notes": ""
+    },
+    "n-nitro": {
+      "version": 1,
+      "rootId": "n-nitro",
+      "root": "nitro\u78b3\u9178\u94a0",
+      "meaning": "nitro",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-nitro-nitration",
+          "word": "nitration",
+          "display": "Nitration",
+          "phonetic": "",
+          "translation": "\u785d\u5316\u4f5c\u7528",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nitro-nitrite",
+          "word": "nitrite",
+          "display": "Nitrite",
+          "phonetic": "",
+          "translation": "\u4e9a\u785d\u9178\u76d0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nitro-nitrogen",
+          "word": "nitrogen",
+          "display": "Nitrogen",
+          "phonetic": "",
+          "translation": "\u6c2e",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-nitro",
+      "type": "root",
+      "notes": ""
+    },
+    "n-no": {
+      "version": 1,
+      "rootId": "n-no",
+      "root": "no\u5426\uff1b\u65e0",
+      "meaning": "no",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-no",
+      "type": "root",
+      "notes": ""
+    },
+    "n-noc": {
+      "version": 1,
+      "rootId": "n-noc",
+      "root": "noc=nox hurt, poison\u4f24\u5bb3",
+      "meaning": "hurt, poison",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-noc-innocence",
+          "word": "innocence",
+          "display": "Innocence",
+          "phonetic": "",
+          "translation": "\u65e0\u7f6a\uff1b\u5355\u7eaf",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-noc-innocency",
+          "word": "innocency",
+          "display": "Innocency",
+          "phonetic": "",
+          "translation": "\u6e05\u767d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-noc-innocent",
+          "word": "innocent",
+          "display": "Innocent",
+          "phonetic": "",
+          "translation": "\u65e0\u7f6a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-noc-innocuity",
+          "word": "innocuity",
+          "display": "Innocuity",
+          "phonetic": "",
+          "translation": "\u65e0\u6bd2\u65e0\u5bb3",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-noc-nocent",
+          "word": "nocent",
+          "display": "Nocent",
+          "phonetic": "",
+          "translation": "\u6709\u5bb3\u7684\uff1b\u4f24\u5bb3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-noc-nocuity",
+          "word": "nocuity",
+          "display": "Nocuity",
+          "phonetic": "",
+          "translation": "\u6709\u5bb3\u6027",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-noc-nocuous",
+          "word": "nocuous",
+          "display": "Nocuous",
+          "phonetic": "",
+          "translation": "\u6709\u5bb3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-noc-noxious",
+          "word": "noxious",
+          "display": "Noxious",
+          "phonetic": "",
+          "translation": "\u6709\u5bb3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-noc",
+      "type": "root",
+      "notes": ""
+    },
+    "n-nomin": {
+      "version": 1,
+      "rootId": "n-nomin",
+      "root": "nomin=name\u540d\u5b57",
+      "meaning": "name",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-nomin-denomination",
+          "word": "denomination",
+          "display": "Denomination",
+          "phonetic": "",
+          "translation": "\u547d\u540d\uff1b\u540d\u79f0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nomin-ignominy",
+          "word": "ignominy",
+          "display": "Ignominy",
+          "phonetic": "",
+          "translation": "\u803b\u8fb1\uff1b\u7f9e\u803b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nomin-nominal",
+          "word": "nominal",
+          "display": "Nominal",
+          "phonetic": "",
+          "translation": "\u540d\u4e49\u4e0a\u7684\uff1b\u5fae\u4e0d\u8db3\u9053\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nomin-nominate",
+          "word": "nominate",
+          "display": "Nominate",
+          "phonetic": "",
+          "translation": "\u63d0\u540d",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nomin-noun",
+          "word": "noun",
+          "display": "Noun",
+          "phonetic": "",
+          "translation": "\u540d\u8bcd",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nomin-renown",
+          "word": "renown",
+          "display": "Renown",
+          "phonetic": "",
+          "translation": "\u58f0\u8a89",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nomin-renowned",
+          "word": "renowned",
+          "display": "Renowned",
+          "phonetic": "",
+          "translation": "\u8457\u540d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-nomin",
+      "type": "root",
+      "notes": ""
+    },
+    "n-norm": {
+      "version": 1,
+      "rootId": "n-norm",
+      "root": "norm=rule\u6b63\u5e38",
+      "meaning": "rule",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-norm-norm",
+          "word": "norm",
+          "display": "Norm",
+          "phonetic": "",
+          "translation": "\u51c6\u5219\uff1b\u5e73\u5747\u6570",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-norm-normal",
+          "word": "normal",
+          "display": "Normal",
+          "phonetic": "",
+          "translation": "\u6807\u51c6\u7684\uff1b\u6b63\u5e38\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-norm-normalization",
+          "word": "normalization",
+          "display": "Normalization",
+          "phonetic": "",
+          "translation": "\u6807\u51c6\u5316",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-norm",
+      "type": "root",
+      "notes": ""
+    },
+    "n-note": {
+      "version": 1,
+      "rootId": "n-note",
+      "root": "note\u7b14\u8bb0",
+      "meaning": "note",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-note-annotate",
+          "word": "annotate",
+          "display": "Annotate",
+          "phonetic": "",
+          "translation": "\u6ce8\u91ca",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-note-cannot",
+          "word": "cannot",
+          "display": "Cannot",
+          "phonetic": "",
+          "translation": "\u6697\u793a\uff1b\u542b\u84c4",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-note-notary",
+          "word": "notary",
+          "display": "Notary",
+          "phonetic": "",
+          "translation": "\u516c\u8bc1\u4eba",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-note-noted",
+          "word": "noted",
+          "display": "Noted",
+          "phonetic": "",
+          "translation": "\u8457\u540d\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-note-noticeable",
+          "word": "noticeable",
+          "display": "Noticeable",
+          "phonetic": "",
+          "translation": "\u663e\u800c\u6613\u89c1\u7684\uff1b\u91cd\u8981\u7684\uff1b\u503c\u5f97\u6ce8\u610f\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-note-notify",
+          "word": "notify",
+          "display": "Notify",
+          "phonetic": "",
+          "translation": "\u901a\u77e5\uff1b\u544a\u77e5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-note-notion",
+          "word": "notion",
+          "display": "Notion",
+          "phonetic": "",
+          "translation": "\u6982\u5ff5",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-note-notorious",
+          "word": "notorious",
+          "display": "Notorious",
+          "phonetic": "",
+          "translation": "\u81ed\u540d\u662d\u8457\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-note",
+      "type": "root",
+      "notes": ""
+    },
+    "n-numer": {
+      "version": 1,
+      "rootId": "n-numer",
+      "root": "numer=number\u6570",
+      "meaning": "number",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-numer-numb",
+          "word": "numb",
+          "display": "Numb",
+          "phonetic": "",
+          "translation": "\u9ebb\u6728\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-numer-numerical",
+          "word": "numerical",
+          "display": "Numerical",
+          "phonetic": "",
+          "translation": "\u6570\u5b57\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-numer-numerous",
+          "word": "numerous",
+          "display": "Numerous",
+          "phonetic": "",
+          "translation": "\u4f17\u591a\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-numer",
+      "type": "root",
+      "notes": ""
+    },
+    "n-nutri": {
+      "version": 1,
+      "rootId": "n-nutri",
+      "root": "nutri=nourish\u8425\u517b",
+      "meaning": "nourish",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-nutri-nourish",
+          "word": "nourish",
+          "display": "Nourish",
+          "phonetic": "",
+          "translation": "\u517b\u80b2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nutri-nurse",
+          "word": "nurse",
+          "display": "Nurse",
+          "phonetic": "",
+          "translation": "\u62a4\u58eb\uff1b\u4fdd\u59c6",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nutri-nursery",
+          "word": "nursery",
+          "display": "Nursery",
+          "phonetic": "",
+          "translation": "\u6258\u513f\u6240",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nutri-nurture",
+          "word": "nurture",
+          "display": "Nurture",
+          "phonetic": "",
+          "translation": "\u517b\u80b2",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-nutri-nutrition",
+          "word": "nutrition",
+          "display": "Nutrition",
+          "phonetic": "",
+          "translation": "\u8425\u517b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-nutri",
+      "type": "root",
+      "notes": ""
+    },
+    "n-other": {
+      "version": 1,
+      "rootId": "n-other",
+      "root": "\u5176\u4ed6",
+      "meaning": "other",
+      "descriptionCn": "",
+      "updatedAt": "2026-04-15",
+      "words": [
+        {
+          "id": "n-other-nap",
+          "word": "nap",
+          "display": "Nap",
+          "phonetic": "",
+          "translation": "\u6253\u76f9",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-napkin",
+          "word": "napkin",
+          "display": "Napkin",
+          "phonetic": "",
+          "translation": "\u9910\u5dfe\uff1b\u5c3f\u5e03",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-narrative",
+          "word": "narrative",
+          "display": "Narrative",
+          "phonetic": "",
+          "translation": "\u53d9\u8ff0",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-narrow",
+          "word": "narrow",
+          "display": "Narrow",
+          "phonetic": "",
+          "translation": "\u72ed\u7a84\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-nasty",
+          "word": "nasty",
+          "display": "Nasty",
+          "phonetic": "",
+          "translation": "\u5351\u9119\u4e0b\u6d41\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-near",
+          "word": "near",
+          "display": "Near",
+          "phonetic": "",
+          "translation": "\u63a5\u8fd1",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-nearby",
+          "word": "nearby",
+          "display": "Nearby",
+          "phonetic": "",
+          "translation": "\u9644\u8fd1\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-nearly",
+          "word": "nearly",
+          "display": "Nearly",
+          "phonetic": "",
+          "translation": "\u5dee\u4e0d\u591a",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-neat",
+          "word": "neat",
+          "display": "Neat",
+          "phonetic": "",
+          "translation": "\u6574\u6d01\u7684\uff1b\u5e72\u51c0\u7684\uff1b\u4f18\u7f8e\u7684\uff1b\u7cbe\u81f4\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-necessarily",
+          "word": "necessarily",
+          "display": "Necessarily",
+          "phonetic": "",
+          "translation": "\u5fc5\u9700\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-necessitate",
+          "word": "necessitate",
+          "display": "Necessitate",
+          "phonetic": "",
+          "translation": "\u4f7f\u5fc5\u8981",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-necessity",
+          "word": "necessity",
+          "display": "Necessity",
+          "phonetic": "",
+          "translation": "\u5fc5\u8981\u6027",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-neck",
+          "word": "neck",
+          "display": "Neck",
+          "phonetic": "",
+          "translation": "\u8116\u5b50",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-necklace",
+          "word": "necklace",
+          "display": "Necklace",
+          "phonetic": "",
+          "translation": "\u9879\u94fe\uff1b\u9879\u5708",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-need",
+          "word": "need",
+          "display": "Need",
+          "phonetic": "",
+          "translation": "\u9700\u8981",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-neutral",
+          "word": "neutral",
+          "display": "Neutral",
+          "phonetic": "",
+          "translation": "\u4e2d\u7acb\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-nuclear",
+          "word": "nuclear",
+          "display": "Nuclear",
+          "phonetic": "",
+          "translation": "\u6838\u5fc3\u7684",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-nucleus",
+          "word": "nucleus",
+          "display": "Nucleus",
+          "phonetic": "",
+          "translation": "\u539f\u5b50\u6838",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-nuisance",
+          "word": "nuisance",
+          "display": "Nuisance",
+          "phonetic": "",
+          "translation": "\u8ba8\u538c\u7684\u4eba\uff1b\u9ebb\u70e6\u4e8b",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        },
+        {
+          "id": "n-other-nylon",
+          "word": "nylon",
+          "display": "Nylon",
+          "phonetic": "",
+          "translation": "\u5c3c\u9f99",
+          "sentence": "",
+          "tags": [
+            "root-family"
+          ],
+          "level": 1
+        }
+      ],
+      "parentRootId": "n",
+      "rootLevel": 2,
+      "rootPath": "n>n-other",
+      "type": "root",
+      "notes": ""
+    }
+  }
+}

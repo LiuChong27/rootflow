@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "rootId": "j-other",
+  "root": "\u5176\u4ed6",
+  "meaning": "other",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-other-jam",
+      "word": "jam",
+      "display": "Jam",
+      "phonetic": "",
+      "translation": "\u679c\u9171\uff1b\u963b\u585e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-january",
+      "word": "january",
+      "display": "January",
+      "phonetic": "",
+      "translation": "\u4e00\u6708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-jar",
+      "word": "jar",
+      "display": "Jar",
+      "phonetic": "",
+      "translation": "\u7f50\u5b50\uff1b\u575b\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-jargon",
+      "word": "jargon",
+      "display": "Jargon",
+      "phonetic": "",
+      "translation": "\u884c\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-jazz",
+      "word": "jazz",
+      "display": "Jazz",
+      "phonetic": "",
+      "translation": "\u7235\u58eb\u4e50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-jewel",
+      "word": "jewel",
+      "display": "Jewel",
+      "phonetic": "",
+      "translation": "\u5b9d\u77f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-jewelry",
+      "word": "jewelry",
+      "display": "Jewelry",
+      "phonetic": "",
+      "translation": "\u73e0\u5b9d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-jog",
+      "word": "jog",
+      "display": "Jog",
+      "phonetic": "",
+      "translation": "\u6162\u8dd1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-jug",
+      "word": "jug",
+      "display": "Jug",
+      "phonetic": "",
+      "translation": "\u7f50\u5b50\uff1b\u76c2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-june",
+      "word": "june",
+      "display": "June",
+      "phonetic": "",
+      "translation": "\u516d\u6708",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-other-junk",
+      "word": "junk",
+      "display": "Junk",
+      "phonetic": "",
+      "translation": "\u5e9f\u7269\uff1b\u65e7\u8d27",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-other",
+  "type": "root",
+  "notes": ""
+}

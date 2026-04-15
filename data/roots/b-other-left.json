@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "rootId": "b-other-left",
+  "root": "\u5176\u4ed6\uff08\u5de6\u4fa7\uff09",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-other-left-abbreviate",
+      "word": "abbreviate",
+      "display": "Abbreviate",
+      "phonetic": "",
+      "translation": "\u7f29\u5199\uff0c\u7b80\u5199",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-abbreviation",
+      "word": "abbreviation",
+      "display": "Abbreviation",
+      "phonetic": "",
+      "translation": "\u7f29\u5199",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-abridge",
+      "word": "abridge",
+      "display": "Abridge",
+      "phonetic": "",
+      "translation": "\u5220\u51cf\uff1b\u7cbe\u7b80",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-beneficial",
+      "word": "beneficial",
+      "display": "Beneficial",
+      "phonetic": "",
+      "translation": "\u6709\u5229\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-benefit",
+      "word": "benefit",
+      "display": "Benefit",
+      "phonetic": "",
+      "translation": "\u5229\u76ca",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-biannual",
+      "word": "biannual",
+      "display": "Biannual",
+      "phonetic": "",
+      "translation": "\u6bcf\u5e74\u4e24\u6b21\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bias",
+      "word": "bias",
+      "display": "Bias",
+      "phonetic": "",
+      "translation": "\u504f\u89c1\uff1b\u504f\u8892",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bicycle",
+      "word": "bicycle",
+      "display": "Bicycle",
+      "phonetic": "",
+      "translation": "\u81ea\u884c\u8f66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bizarre",
+      "word": "bizarre",
+      "display": "Bizarre",
+      "phonetic": "",
+      "translation": "\u7a00\u5947\u53e4\u602a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-boon",
+      "word": "boon",
+      "display": "Boon",
+      "phonetic": "",
+      "translation": "\u6069\u8d50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-border",
+      "word": "border",
+      "display": "Border",
+      "phonetic": "",
+      "translation": "\u8fb9\u754c\uff1b\u56fd\u754c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-both",
+      "word": "both",
+      "display": "Both",
+      "phonetic": "",
+      "translation": "\u4e24\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-boundary",
+      "word": "boundary",
+      "display": "Boundary",
+      "phonetic": "",
+      "translation": "\u5206\u754c\u7ebf\uff1b\u8fb9\u754c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bounteous",
+      "word": "bounteous",
+      "display": "Bounteous",
+      "phonetic": "",
+      "translation": "\u5bbd\u5b8f\u5927\u91cf\u7684\uff1b\u535a\u7231\u6177\u6168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bountiful",
+      "word": "bountiful",
+      "display": "Bountiful",
+      "phonetic": "",
+      "translation": "\u4e30\u5bcc\u7684\uff1b\u6177\u6168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bounty",
+      "word": "bounty",
+      "display": "Bounty",
+      "phonetic": "",
+      "translation": "\u6177\u6168\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-breadth",
+      "word": "breadth",
+      "display": "Breadth",
+      "phonetic": "",
+      "translation": "\u5bbd\u5ea6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-brevity",
+      "word": "brevity",
+      "display": "Brevity",
+      "phonetic": "",
+      "translation": "\u77ed\u6682\uff0c\u7b80\u77ed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-brief",
+      "word": "brief",
+      "display": "Brief",
+      "phonetic": "",
+      "translation": "\u6458\u8981\uff1b\u5927\u7eb2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-briefcase",
+      "word": "briefcase",
+      "display": "Briefcase",
+      "phonetic": "",
+      "translation": "\u624b\u63d0\u7bb1\uff1b\u516c\u6587\u5305",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-briefing",
+      "word": "briefing",
+      "display": "Briefing",
+      "phonetic": "",
+      "translation": "\u7b80\u62a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-broad",
+      "word": "broad",
+      "display": "Broad",
+      "phonetic": "",
+      "translation": "\u5bbd\u7684\uff1b\u8c41\u8fbe\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-broadcast",
+      "word": "broadcast",
+      "display": "Broadcast",
+      "phonetic": "",
+      "translation": "\u5e7f\u64ad",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bureau",
+      "word": "bureau",
+      "display": "Bureau",
+      "phonetic": "",
+      "translation": "\u5c40\uff1b\u529e\u516c\u5ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-byname",
+      "word": "byname",
+      "display": "Byname",
+      "phonetic": "",
+      "translation": "\u7ef0\u53f7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bypass",
+      "word": "bypass",
+      "display": "Bypass",
+      "phonetic": "",
+      "translation": "\u65c1\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bypast",
+      "word": "bypast",
+      "display": "Bypast",
+      "phonetic": "",
+      "translation": "\u8fc7\u53bb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-bypath",
+      "word": "bypath",
+      "display": "Bypath",
+      "phonetic": "",
+      "translation": "\u5c0f\u8def",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-byroad",
+      "word": "byroad",
+      "display": "Byroad",
+      "phonetic": "",
+      "translation": "\u4fa7\u9053",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-left-byword",
+      "word": "byword",
+      "display": "Byword",
+      "phonetic": "",
+      "translation": "\u683c\u8a00\uff0c\u8c1a\u8bed",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-other",
+  "rootLevel": 3,
+  "rootPath": "b>b-other>b-other-left",
+  "type": "category",
+  "notes": ""
+}

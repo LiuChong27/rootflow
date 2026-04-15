@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "rootId": "s-form",
+  "root": "\u5f62\u6001",
+  "meaning": "form",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "s-form-scar",
+      "word": "scar",
+      "display": "Scar",
+      "phonetic": "",
+      "translation": "\u4f24\u75a4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-scent",
+      "word": "scent",
+      "display": "Scent",
+      "phonetic": "",
+      "translation": "\u9999\u6c34",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-shoulder",
+      "word": "shoulder",
+      "display": "Shoulder",
+      "phonetic": "",
+      "translation": "\u80a9\u8180",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-shrug",
+      "word": "shrug",
+      "display": "Shrug",
+      "phonetic": "",
+      "translation": "\u8038\u80a9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-sketch",
+      "word": "sketch",
+      "display": "Sketch",
+      "phonetic": "",
+      "translation": "\u7d20\u63cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-sleeve",
+      "word": "sleeve",
+      "display": "Sleeve",
+      "phonetic": "",
+      "translation": "\u8896\u5b50",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-slender",
+      "word": "slender",
+      "display": "Slender",
+      "phonetic": "",
+      "translation": "\u4fee\u957f\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-slim",
+      "word": "slim",
+      "display": "Slim",
+      "phonetic": "",
+      "translation": "\u82d7\u6761\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-smooth",
+      "word": "smooth",
+      "display": "Smooth",
+      "phonetic": "",
+      "translation": "\u5149\u6ed1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-sniff",
+      "word": "sniff",
+      "display": "Sniff",
+      "phonetic": "",
+      "translation": "\u95fb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-snuggle",
+      "word": "snuggle",
+      "display": "Snuggle",
+      "phonetic": "",
+      "translation": "\u4f9d\u504e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-sock",
+      "word": "sock",
+      "display": "Sock",
+      "phonetic": "",
+      "translation": "\u77ed\u889c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-suit",
+      "word": "suit",
+      "display": "Suit",
+      "phonetic": "",
+      "translation": "\u5957\u88c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-sweater",
+      "word": "sweater",
+      "display": "Sweater",
+      "phonetic": "",
+      "translation": "\u6bdb\u8863",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-sword",
+      "word": "sword",
+      "display": "Sword",
+      "phonetic": "",
+      "translation": "\u5251",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-tail",
+      "word": "tail",
+      "display": "Tail",
+      "phonetic": "",
+      "translation": "\u5c3e\u5df4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-tap",
+      "word": "tap",
+      "display": "Tap",
+      "phonetic": "",
+      "translation": "\u8f7b\u62cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-tip",
+      "word": "tip",
+      "display": "Tip",
+      "phonetic": "",
+      "translation": "\u5c16\u7aef",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-toe",
+      "word": "toe",
+      "display": "Toe",
+      "phonetic": "",
+      "translation": "\u811a\u8dbe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-tongue",
+      "word": "tongue",
+      "display": "Tongue",
+      "phonetic": "",
+      "translation": "\u820c\u5934",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-tooth",
+      "word": "tooth",
+      "display": "Tooth",
+      "phonetic": "",
+      "translation": "\u7259\u9f7f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-top",
+      "word": "top",
+      "display": "Top",
+      "phonetic": "",
+      "translation": "\u9876\u90e8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-trunk",
+      "word": "trunk",
+      "display": "Trunk",
+      "phonetic": "",
+      "translation": "\u6811\u5e72",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-wool",
+      "word": "wool",
+      "display": "Wool",
+      "phonetic": "",
+      "translation": "\u7f8a\u6bdb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-wrinkle",
+      "word": "wrinkle",
+      "display": "Wrinkle",
+      "phonetic": "",
+      "translation": "\u76b1\u7eb9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-wrist",
+      "word": "wrist",
+      "display": "Wrist",
+      "phonetic": "",
+      "translation": "\u624b\u8155",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-zigzag",
+      "word": "zigzag",
+      "display": "Zigzag",
+      "phonetic": "",
+      "translation": "\u952f\u9f7f\u5f62",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "s-form-zip",
+      "word": "zip",
+      "display": "Zip",
+      "phonetic": "",
+      "translation": "\u62c9\u94fe",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "s",
+  "rootLevel": 2,
+  "rootPath": "s>s-form",
+  "type": "root",
+  "notes": ""
+}

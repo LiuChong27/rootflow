@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "rootId": "b-other-color",
+  "root": "\u989c\u8272",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "b-other-color-black",
+      "word": "black",
+      "display": "Black",
+      "phonetic": "",
+      "translation": "\u9ed1\u8272\uff1b\u9ed1\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blackboard",
+      "word": "blackboard",
+      "display": "Blackboard",
+      "phonetic": "",
+      "translation": "\u9ed1\u677f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blackmail",
+      "word": "blackmail",
+      "display": "Blackmail",
+      "phonetic": "",
+      "translation": "\u6572\u8bc8\uff1b\u52d2\u7d22",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blanc",
+      "word": "blanc",
+      "display": "Blanc",
+      "phonetic": "",
+      "translation": "\u767d\u8272\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blank",
+      "word": "blank",
+      "display": "Blank",
+      "phonetic": "",
+      "translation": "\u7a7a\u767d\u7684\uff1b\u8868\u683c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blanket",
+      "word": "blanket",
+      "display": "Blanket",
+      "phonetic": "",
+      "translation": "\u6bef\u5b50\uff1b\u8986\u76d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-bleak",
+      "word": "bleak",
+      "display": "Bleak",
+      "phonetic": "",
+      "translation": "\u8352\u51c9\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blind",
+      "word": "blind",
+      "display": "Blind",
+      "phonetic": "",
+      "translation": "\u778e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blue",
+      "word": "blue",
+      "display": "Blue",
+      "phonetic": "",
+      "translation": "\u84dd\u8272\u7684\uff1b\u6291\u90c1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blueprint",
+      "word": "blueprint",
+      "display": "Blueprint",
+      "phonetic": "",
+      "translation": "\u84dd\u56fe\uff1b\u8ba1\u5212",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blunder",
+      "word": "blunder",
+      "display": "Blunder",
+      "phonetic": "",
+      "translation": "\u72af\u5927\u9519",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blunt",
+      "word": "blunt",
+      "display": "Blunt",
+      "phonetic": "",
+      "translation": "\u7387\u76f4\u7684\uff1b\u8fdf\u949d\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blur",
+      "word": "blur",
+      "display": "Blur",
+      "phonetic": "",
+      "translation": "\u6c61\u70b9\uff1b\u6a21\u7cca\u4e0d\u6e05\u7684\u4e8b\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-blush",
+      "word": "blush",
+      "display": "Blush",
+      "phonetic": "",
+      "translation": "\u8138\u7ea2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "b-other-color-brown",
+      "word": "brown",
+      "display": "Brown",
+      "phonetic": "",
+      "translation": "\u68d5\u8272",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "b-other",
+  "rootLevel": 3,
+  "rootPath": "b>b-other>b-other-color",
+  "type": "category",
+  "notes": ""
+}

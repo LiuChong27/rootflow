@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "rootId": "h-homo-same",
+  "root": "homo\u76f8\u540c",
+  "meaning": "homo",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "h-homo-same-harmony",
+      "word": "harmony",
+      "display": "Harmony",
+      "phonetic": "",
+      "translation": "\u534f\u8c03\uff1b\u548c\u8c10\uff1b\u878d\u6d3d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-homo-same-homeochronous",
+      "word": "homeochronous",
+      "display": "Homeochronous",
+      "phonetic": "",
+      "translation": "\u53d1\u751f\u65f6\u671f\u76f8\u540c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-homo-same-homogeneity",
+      "word": "homogeneity",
+      "display": "Homogeneity",
+      "phonetic": "",
+      "translation": "\u540c\u8d28\u6027",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-homo-same-homogeneous",
+      "word": "homogeneous",
+      "display": "Homogeneous",
+      "phonetic": "",
+      "translation": "\u540c\u79cd\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-homo-same-homogenize",
+      "word": "homogenize",
+      "display": "Homogenize",
+      "phonetic": "",
+      "translation": "\u4f7f\u5747\u8d28",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-homo-same-homonym",
+      "word": "homonym",
+      "display": "Homonym",
+      "phonetic": "",
+      "translation": "\u540c\u97f3\u5f02\u4e49",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "h-homo-same-homosexual",
+      "word": "homosexual",
+      "display": "Homosexual",
+      "phonetic": "",
+      "translation": "\u540c\u6027\u604b\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "h",
+  "rootLevel": 2,
+  "rootPath": "h>h-homo-same",
+  "type": "root",
+  "notes": ""
+}

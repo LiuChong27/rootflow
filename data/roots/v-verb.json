@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "v-verb",
+  "root": "verb",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "v-verb-verbal",
+      "word": "verbal",
+      "display": "Verbal",
+      "phonetic": "",
+      "translation": "\u53e3\u5934\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "v-verb-verdict",
+      "word": "verdict",
+      "display": "Verdict",
+      "phonetic": "",
+      "translation": "\u5224\u51b3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "v",
+  "rootLevel": 1,
+  "rootPath": "v>v-verb",
+  "type": "root",
+  "notes": ""
+}

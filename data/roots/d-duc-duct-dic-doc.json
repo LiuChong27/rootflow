@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "d-duc-duct-dic-doc",
+  "root": "dic doc teach\u6559",
+  "meaning": "teach",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-duc-duct-dic-doc-didactic",
+      "word": "didactic",
+      "display": "Didactic",
+      "phonetic": "",
+      "translation": "\u8bf4\u6559\u7684\uff1b\u6559\u8bf2\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-disciple",
+      "word": "disciple",
+      "display": "Disciple",
+      "phonetic": "",
+      "translation": "\u5f1f\u5b50\uff1b\u5b66\u751f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-discipline",
+      "word": "discipline",
+      "display": "Discipline",
+      "phonetic": "",
+      "translation": "\u7eaa\u5f8b\uff1b\u5b66\u79d1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-docent",
+      "word": "docent",
+      "display": "Docent",
+      "phonetic": "",
+      "translation": "\u8bb2\u5e08\uff1b\u5bfc\u6e38",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-docile",
+      "word": "docile",
+      "display": "Docile",
+      "phonetic": "",
+      "translation": "\u542c\u8bdd\u7684\uff1b\u6e29\u987a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-doctor",
+      "word": "doctor",
+      "display": "Doctor",
+      "phonetic": "",
+      "translation": "\u535a\u58eb\uff1b\u533b\u751f\uff1b\u4fee\u8865\uff1b\u4e32\u6539",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-doctoral",
+      "word": "doctoral",
+      "display": "Doctoral",
+      "phonetic": "",
+      "translation": "\u535a\u58eb\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-document",
+      "word": "document",
+      "display": "Document",
+      "phonetic": "",
+      "translation": "\u6587\u4ef6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-documentary",
+      "word": "documentary",
+      "display": "Documentary",
+      "phonetic": "",
+      "translation": "\u7eaa\u5f55\u7247",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-duc-duct-dic-doc-indoctrinate",
+      "word": "indoctrinate",
+      "display": "Indoctrinate",
+      "phonetic": "",
+      "translation": "\u6559\u6388",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-duc-duct",
+  "rootLevel": 3,
+  "rootPath": "d>d-duc-duct>d-duc-duct-dic-doc",
+  "type": "branch",
+  "notes": ""
+}

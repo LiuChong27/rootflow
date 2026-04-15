@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "rootId": "c-cord-cor-cur-care",
+  "root": "cur=care\u5173\u5fc3",
+  "meaning": "care",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-cord-cor-heart-cur-care-accuracy",
+      "word": "accuracy",
+      "display": "Accuracy",
+      "phonetic": "",
+      "translation": "\u7cbe\u786e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-accurate",
+      "word": "accurate",
+      "display": "Accurate",
+      "phonetic": "",
+      "translation": "\u51c6\u786e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-careful",
+      "word": "careful",
+      "display": "Careful",
+      "phonetic": "",
+      "translation": "\u5c0f\u5fc3\u7684\uff1b\u4ed4\u7ec6\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-caress",
+      "word": "caress",
+      "display": "Caress",
+      "phonetic": "",
+      "translation": "\u7231\u629a\uff1b\u629a\u6478",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-curate",
+      "word": "curate",
+      "display": "Curate",
+      "phonetic": "",
+      "translation": "\u526f\u7267\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-curative",
+      "word": "curative",
+      "display": "Curative",
+      "phonetic": "",
+      "translation": "\u6cbb\u7597\u7684\uff1b\u836f\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-curator",
+      "word": "curator",
+      "display": "Curator",
+      "phonetic": "",
+      "translation": "\u535a\u7269\u9986\u9986\u957f\uff1b\u56fe\u4e66\u9986\u9986\u957f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-cure",
+      "word": "cure",
+      "display": "Cure",
+      "phonetic": "",
+      "translation": "\u6cbb\u7597",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-curio",
+      "word": "curio",
+      "display": "Curio",
+      "phonetic": "",
+      "translation": "\u53e4\u8463",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-curious",
+      "word": "curious",
+      "display": "Curious",
+      "phonetic": "",
+      "translation": "\u597d\u5947\u7684\uff1b\u53e4\u602a\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-incurable",
+      "word": "incurable",
+      "display": "Incurable",
+      "phonetic": "",
+      "translation": "\u4e0d\u80fd\u6cbb\u7597\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-incuriosity",
+      "word": "incuriosity",
+      "display": "Incuriosity",
+      "phonetic": "",
+      "translation": "\u65e0\u597d\u5947\u5fc3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-manicure",
+      "word": "manicure",
+      "display": "Manicure",
+      "phonetic": "",
+      "translation": "\u4fee\u6307\u7532",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-pedicure",
+      "word": "pedicure",
+      "display": "Pedicure",
+      "phonetic": "",
+      "translation": "\u4fee\u811a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-procure",
+      "word": "procure",
+      "display": "Procure",
+      "phonetic": "",
+      "translation": "\u83b7\u53d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-cord-cor-heart-cur-care-security",
+      "word": "security",
+      "display": "Security",
+      "phonetic": "",
+      "translation": "\u5b89\u5168\uff1b\u653e\u5fc3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-cord-cor-heart",
+  "rootLevel": 3,
+  "rootPath": "c>c-cord-cor-heart>c-cord-cor-cur-care",
+  "type": "branch",
+  "notes": ""
+}

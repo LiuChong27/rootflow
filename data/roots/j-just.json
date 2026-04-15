@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "rootId": "j-just",
+  "root": "just=juris\u6cd5\u5f8b\uff1b\u6b63\u4e49",
+  "meaning": "law; justice",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-just-adjust",
+      "word": "adjust",
+      "display": "Adjust",
+      "phonetic": "",
+      "translation": "\u8c03\u6574\uff1b\u6821\u51c6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-adjustable",
+      "word": "adjustable",
+      "display": "Adjustable",
+      "phonetic": "",
+      "translation": "\u53ef\u8c03\u6574\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-adjustment",
+      "word": "adjustment",
+      "display": "Adjustment",
+      "phonetic": "",
+      "translation": "\u8c03\u8282",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-adjustor",
+      "word": "adjustor",
+      "display": "Adjustor",
+      "phonetic": "",
+      "translation": "\u8c03\u8282\u5668\uff1b\u8c03\u505c\u8005",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-injure",
+      "word": "injure",
+      "display": "Injure",
+      "phonetic": "",
+      "translation": "\u635f\u5bb3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-injurious",
+      "word": "injurious",
+      "display": "Injurious",
+      "phonetic": "",
+      "translation": "\u8bfd\u8c24\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-injury",
+      "word": "injury",
+      "display": "Injury",
+      "phonetic": "",
+      "translation": "\u4fae\u8fb1",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-injustice",
+      "word": "injustice",
+      "display": "Injustice",
+      "phonetic": "",
+      "translation": "\u4e0d\u516c\u5e73",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-juridical",
+      "word": "juridical",
+      "display": "Juridical",
+      "phonetic": "",
+      "translation": "\u88c1\u5224\u7684\uff1b\u53f8\u6cd5\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-jurisprudence",
+      "word": "jurisprudence",
+      "display": "Jurisprudence",
+      "phonetic": "",
+      "translation": "\u6cd5\u5b66\uff1b\u6cd5\u7406\u5b66",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-jury",
+      "word": "jury",
+      "display": "Jury",
+      "phonetic": "",
+      "translation": "\u966a\u5ba1\u56e2",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-just",
+      "word": "just",
+      "display": "Just",
+      "phonetic": "",
+      "translation": "\u6b63\u597d\u7684\uff1b\u53ea\u4e0d\u8fc7\uff1b\u516c\u6b63\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-justice",
+      "word": "justice",
+      "display": "Justice",
+      "phonetic": "",
+      "translation": "\u516c\u6b63\uff1b\u5ba1\u5224",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-just-justify",
+      "word": "justify",
+      "display": "Justify",
+      "phonetic": "",
+      "translation": "\u8bc1\u660e\uff1b\u4e3a...\u8fa9\u62a4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-just",
+  "type": "root",
+  "notes": ""
+}

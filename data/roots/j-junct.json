@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "j-junct",
+  "root": "junct=join\u8fde\u63a5",
+  "meaning": "join",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "j-junct-join",
+      "word": "join",
+      "display": "Join",
+      "phonetic": "",
+      "translation": "\u53c2\u52a0\uff1b\u8fde\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-junct-joint",
+      "word": "joint",
+      "display": "Joint",
+      "phonetic": "",
+      "translation": "\u7ed3\u5408\u5904\uff1b\u5173\u8282\uff1b\u5171\u540c\u7684\uff1b\u8054\u5408\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "j-junct-junction",
+      "word": "junction",
+      "display": "Junction",
+      "phonetic": "",
+      "translation": "\u8fde\u63a5\uff1b\u67a2\u7ebd\u7ad9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "j",
+  "rootLevel": 2,
+  "rootPath": "j>j-junct",
+  "type": "root",
+  "notes": ""
+}

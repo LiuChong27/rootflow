@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rootId": "d-other-dwo-diplo",
+  "root": "diplo \u4e24\u4e2a\uff08\u751f\u7269\u4e0a\uff09",
+  "meaning": "diplo",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "d-other-dwo-diplo-diplegia",
+      "word": "diplegia",
+      "display": "Diplegia",
+      "phonetic": "",
+      "translation": "\u53cc\u4fa7\u762b\u75ea",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diplo-diploblastic",
+      "word": "diploblastic",
+      "display": "Diploblastic",
+      "phonetic": "",
+      "translation": "\u53cc\u80da\u5c42\u7684\uff08blast\u80da\u82bd\uff09",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "d-other-dwo-diplo-diploid",
+      "word": "diploid",
+      "display": "Diploid",
+      "phonetic": "",
+      "translation": "\u53cc\u500d\u7684\uff1b\u591a\u500d\u4f53",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "d-other-dwo",
+  "rootLevel": 4,
+  "rootPath": "d>d-other>d-other-dwo>d-other-dwo-diplo",
+  "type": "branch",
+  "notes": ""
+}

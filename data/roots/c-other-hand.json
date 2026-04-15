@@ -1,0 +1,598 @@
+{
+  "version": 1,
+  "rootId": "c-other-hand",
+  "root": "c-other-hand",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-other-hand-cabbage",
+      "word": "cabbage",
+      "display": "Cabbage",
+      "phonetic": "",
+      "translation": "\u5377\u5fc3\u83dc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cafe",
+      "word": "cafe",
+      "display": "Cafe",
+      "phonetic": "",
+      "translation": "\u5496\u5561",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cafeteria",
+      "word": "cafeteria",
+      "display": "Cafeteria",
+      "phonetic": "",
+      "translation": "\u81ea\u52a9\u98df\u5802",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cake",
+      "word": "cake",
+      "display": "Cake",
+      "phonetic": "",
+      "translation": "\u997c\u5e72\uff1b\u86cb\u7cd5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-calcium",
+      "word": "calcium",
+      "display": "Calcium",
+      "phonetic": "",
+      "translation": "\u9499",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-calculate",
+      "word": "calculate",
+      "display": "Calculate",
+      "phonetic": "",
+      "translation": "\u8ba1\u7b97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-calorie",
+      "word": "calorie",
+      "display": "Calorie",
+      "phonetic": "",
+      "translation": "\u5361\u8def\u91cc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-candy",
+      "word": "candy",
+      "display": "Candy",
+      "phonetic": "",
+      "translation": "\u7cd6\u679c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-carrot",
+      "word": "carrot",
+      "display": "Carrot",
+      "phonetic": "",
+      "translation": "\u80e1\u841d\u535c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cereal",
+      "word": "cereal",
+      "display": "Cereal",
+      "phonetic": "",
+      "translation": "\u8c37\u7269",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-champagne",
+      "word": "champagne",
+      "display": "Champagne",
+      "phonetic": "",
+      "translation": "\u9999\u69df\u9152",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cheese",
+      "word": "cheese",
+      "display": "Cheese",
+      "phonetic": "",
+      "translation": "\u5976\u916a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-chef",
+      "word": "chef",
+      "display": "Chef",
+      "phonetic": "",
+      "translation": "\u53a8\u5e08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cherry",
+      "word": "cherry",
+      "display": "Cherry",
+      "phonetic": "",
+      "translation": "\u6a31\u6843\u6811",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-chicken",
+      "word": "chicken",
+      "display": "Chicken",
+      "phonetic": "",
+      "translation": "\u9e21\u8089",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-clap",
+      "word": "clap",
+      "display": "Clap",
+      "phonetic": "",
+      "translation": "\u62cd\u624b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-claw",
+      "word": "claw",
+      "display": "Claw",
+      "phonetic": "",
+      "translation": "\u722a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cling",
+      "word": "cling",
+      "display": "Cling",
+      "phonetic": "",
+      "translation": "\u7c98\u9644\uff1b\u575a\u6301",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-clip",
+      "word": "clip",
+      "display": "Clip",
+      "phonetic": "",
+      "translation": "\u4fee\u526a\uff1b\u56de\u5f62\u9488",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-clone",
+      "word": "clone",
+      "display": "Clone",
+      "phonetic": "",
+      "translation": "\u514b\u9686",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-clutch",
+      "word": "clutch",
+      "display": "Clutch",
+      "phonetic": "",
+      "translation": "\u6293\u4f4f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cock",
+      "word": "cock",
+      "display": "Cock",
+      "phonetic": "",
+      "translation": "\u516c\u9e21\uff1b\u5f00\u5173",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-colonial",
+      "word": "colonial",
+      "display": "Colonial",
+      "phonetic": "",
+      "translation": "\u6b96\u6c11\u5730\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-colony",
+      "word": "colony",
+      "display": "Colony",
+      "phonetic": "",
+      "translation": "\u6b96\u6c11\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cooperate",
+      "word": "cooperate",
+      "display": "Cooperate",
+      "phonetic": "",
+      "translation": "\u5408\u4f5c",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cooperative",
+      "word": "cooperative",
+      "display": "Cooperative",
+      "phonetic": "",
+      "translation": "\u5408\u4f5c\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-coordinate",
+      "word": "coordinate",
+      "display": "Coordinate",
+      "phonetic": "",
+      "translation": "\u540c\u7b49\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cop",
+      "word": "cop",
+      "display": "Cop",
+      "phonetic": "",
+      "translation": "\u8b66\u5bdf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cope",
+      "word": "cope",
+      "display": "Cope",
+      "phonetic": "",
+      "translation": "\u7ade\u4e89\uff1b\u5bf9\u6297\uff1b\u5904\u7406",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-copy",
+      "word": "copy",
+      "display": "Copy",
+      "phonetic": "",
+      "translation": "\u6284\u672c\uff1b\u6284\u5199",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-copyright",
+      "word": "copyright",
+      "display": "Copyright",
+      "phonetic": "",
+      "translation": "\u7248\u6743",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cost",
+      "word": "cost",
+      "display": "Cost",
+      "phonetic": "",
+      "translation": "\u6210\u672c\uff1b\u8d39\u7528\uff1b\u4ee3\u4ef7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-costly",
+      "word": "costly",
+      "display": "Costly",
+      "phonetic": "",
+      "translation": "\u6602\u8d35\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-costume",
+      "word": "costume",
+      "display": "Costume",
+      "phonetic": "",
+      "translation": "\u670d\u88c5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-counsel",
+      "word": "counsel",
+      "display": "Counsel",
+      "phonetic": "",
+      "translation": "\u529d\u544a\uff1b\u5fe0\u544a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-count",
+      "word": "count",
+      "display": "Count",
+      "phonetic": "",
+      "translation": "\u8ba1\u7b97\uff1b\u91cd\u8981",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-counter",
+      "word": "counter",
+      "display": "Counter",
+      "phonetic": "",
+      "translation": "\u67dc\u53f0\uff1b\u53cd\u5bf9\uff1b\u8ba1\u6570\u5668",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-counterpart",
+      "word": "counterpart",
+      "display": "Counterpart",
+      "phonetic": "",
+      "translation": "\u5bf9\u5e94\u7684\u4eba",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cover",
+      "word": "cover",
+      "display": "Cover",
+      "phonetic": "",
+      "translation": "\u8986\u76d6\uff1b\u6d89\u53ca\uff1b\u5305\u62ec\uff1b\u5c01\u9762",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cow",
+      "word": "cow",
+      "display": "Cow",
+      "phonetic": "",
+      "translation": "\u5976\u725b\uff1b\u6bcd\u725b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-coward",
+      "word": "coward",
+      "display": "Coward",
+      "phonetic": "",
+      "translation": "\u61e6\u592b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-craft",
+      "word": "craft",
+      "display": "Craft",
+      "phonetic": "",
+      "translation": "\u624b\u827a\uff1b\u6280\u5de7\uff1b\u98de\u8239",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cream",
+      "word": "cream",
+      "display": "Cream",
+      "phonetic": "",
+      "translation": "\u5976\u6cb9",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cucumber",
+      "word": "cucumber",
+      "display": "Cucumber",
+      "phonetic": "",
+      "translation": "\u9ec4\u76d6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cue",
+      "word": "cue",
+      "display": "Cue",
+      "phonetic": "",
+      "translation": "\u63d0\u793a\uff1b\u7403\u6746",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cult",
+      "word": "cult",
+      "display": "Cult",
+      "phonetic": "",
+      "translation": "\u79cd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cultivate",
+      "word": "cultivate",
+      "display": "Cultivate",
+      "phonetic": "",
+      "translation": "\u57f9\u517b",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-cunning",
+      "word": "cunning",
+      "display": "Cunning",
+      "phonetic": "",
+      "translation": "\u72e1\u733e\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-other-hand-discount",
+      "word": "discount",
+      "display": "Discount",
+      "phonetic": "",
+      "translation": "\u6253\u6298",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ]
+}

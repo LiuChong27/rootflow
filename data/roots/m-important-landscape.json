@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "rootId": "m-important-landscape",
+  "root": "\u5c71\u6cb3\u5927\u5730",
+  "meaning": "landscape",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "m-important-landscape-mar-marble",
+      "word": "marble",
+      "display": "Marble",
+      "phonetic": "",
+      "translation": "\u5927\u7406\u77f3",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-mar-margin",
+      "word": "margin",
+      "display": "Margin",
+      "phonetic": "",
+      "translation": "\u8fb9\u7f18",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-mar-marginal",
+      "word": "marginal",
+      "display": "Marginal",
+      "phonetic": "",
+      "translation": "\u8fb9\u7f18\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-mar-marine",
+      "word": "marine",
+      "display": "Marine",
+      "phonetic": "",
+      "translation": "\u6d77\u7684\uff1b\u822a\u6d77\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-mar-mark",
+      "word": "mark",
+      "display": "Mark",
+      "phonetic": "",
+      "translation": "\u6807\u8bb0\uff1b\u5206\u6570",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-mar-market",
+      "word": "market",
+      "display": "Market",
+      "phonetic": "",
+      "translation": "\u5e02\u573a\uff1b\u9500\u552e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-meadow",
+      "word": "meadow",
+      "display": "Meadow",
+      "phonetic": "",
+      "translation": "\u8349\u5730\uff1b\u7267\u573a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-migr-migrate",
+      "word": "migrate",
+      "display": "Migrate",
+      "phonetic": "",
+      "translation": "\u8fc1\u79fb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-mount",
+      "word": "mount",
+      "display": "Mount",
+      "phonetic": "",
+      "translation": "\u767b\u4e0a\uff1b\u5b89\u88c5\uff1b\u5c71\u5cf0\uff1b\u652f\u67b6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "m-important-landscape-mountain",
+      "word": "mountain",
+      "display": "Mountain",
+      "phonetic": "",
+      "translation": "\u5c71",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "m-important",
+  "rootLevel": 3,
+  "rootPath": "m>m-important>m-important-landscape",
+  "type": "branch",
+  "notes": ""
+}

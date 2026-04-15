@@ -1,0 +1,495 @@
+{
+  "version": 1,
+  "rootId": "c-prefix-con",
+  "root": "con\u5171\u540c",
+  "meaning": "con",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-prefix-con-conceal",
+      "word": "conceal",
+      "display": "Conceal",
+      "phonetic": "",
+      "translation": "\u9690\u85cf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concentrate",
+      "word": "concentrate",
+      "display": "Concentrate",
+      "phonetic": "",
+      "translation": "\u96c6\u4e2d\uff1b\u4e13\u6ce8\u4e8e",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concentration",
+      "word": "concentration",
+      "display": "Concentration",
+      "phonetic": "",
+      "translation": "\u4e13\u6ce8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concept",
+      "word": "concept",
+      "display": "Concept",
+      "phonetic": "",
+      "translation": "\u6982\u5ff5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concern",
+      "word": "concern",
+      "display": "Concern",
+      "phonetic": "",
+      "translation": "\u5173\u7cfb",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concerning",
+      "word": "concerning",
+      "display": "Concerning",
+      "phonetic": "",
+      "translation": "\u5173\u5fc3\uff1b\u6d89\u53ca\u5230",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concert",
+      "word": "concert",
+      "display": "Concert",
+      "phonetic": "",
+      "translation": "\u4e00\u81f4\uff1b\u97f3\u4e50\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concession",
+      "word": "concession",
+      "display": "Concession",
+      "phonetic": "",
+      "translation": "\u59a5\u534f\uff1b\u8ba9\u6b65",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concise",
+      "word": "concise",
+      "display": "Concise",
+      "phonetic": "",
+      "translation": "\u7b80\u6d01\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-concrete",
+      "word": "concrete",
+      "display": "Concrete",
+      "phonetic": "",
+      "translation": "\u5177\u4f53\u7684\uff1b\u5b9e\u8d28\u6027\u7684\uff1b\u6df7\u51dd\u571f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-condense",
+      "word": "condense",
+      "display": "Condense",
+      "phonetic": "",
+      "translation": "\u51b7\u5374\uff1b\u538b\u7f29",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-condition",
+      "word": "condition",
+      "display": "Condition",
+      "phonetic": "",
+      "translation": "\u6761\u4ef6\uff1b\u73af\u5883\uff1b\u51b3\u5b9a\uff1b\u652f\u914d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conduct",
+      "word": "conduct",
+      "display": "Conduct",
+      "phonetic": "",
+      "translation": "\u884c\u4e3a\uff1b\u5f15\u5bfc",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conductor",
+      "word": "conductor",
+      "display": "Conductor",
+      "phonetic": "",
+      "translation": "\u7ba1\u7406\u8005\uff1b\u9886\u961f",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-confer",
+      "word": "confer",
+      "display": "Confer",
+      "phonetic": "",
+      "translation": "\u6388\u4e88",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conference",
+      "word": "conference",
+      "display": "Conference",
+      "phonetic": "",
+      "translation": "\u8ba8\u8bba\uff1b\u5546\u8c08",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-confidence",
+      "word": "confidence",
+      "display": "Confidence",
+      "phonetic": "",
+      "translation": "\u4fe1\u5fc3\uff1b\u79d8\u5bc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-confident",
+      "word": "confident",
+      "display": "Confident",
+      "phonetic": "",
+      "translation": "\u81ea\u4fe1\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-confidential",
+      "word": "confidential",
+      "display": "Confidential",
+      "phonetic": "",
+      "translation": "\u79d8\u5bc6\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conform",
+      "word": "conform",
+      "display": "Conform",
+      "phonetic": "",
+      "translation": "\u9075\u5b88\uff1b\u4e00\u81f4\uff1b\u7b26\u5408",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-confuse",
+      "word": "confuse",
+      "display": "Confuse",
+      "phonetic": "",
+      "translation": "\u6df7\u6dc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-confusion",
+      "word": "confusion",
+      "display": "Confusion",
+      "phonetic": "",
+      "translation": "\u6df7\u6dc6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-congress",
+      "word": "congress",
+      "display": "Congress",
+      "phonetic": "",
+      "translation": "\u5927\u4f1a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conjunction",
+      "word": "conjunction",
+      "display": "Conjunction",
+      "phonetic": "",
+      "translation": "\u8fde\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-connect",
+      "word": "connect",
+      "display": "Connect",
+      "phonetic": "",
+      "translation": "\u8fde\u63a5",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-connection",
+      "word": "connection",
+      "display": "Connection",
+      "phonetic": "",
+      "translation": "\u8054\u7cfb\uff1b\u4eb2\u621a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-contact",
+      "word": "contact",
+      "display": "Contact",
+      "phonetic": "",
+      "translation": "\u63a5\u89e6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-contemplate",
+      "word": "contemplate",
+      "display": "Contemplate",
+      "phonetic": "",
+      "translation": "\u76d8\u7b97",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-contemporary",
+      "word": "contemporary",
+      "display": "Contemporary",
+      "phonetic": "",
+      "translation": "\u73b0\u4ee3\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-convenience",
+      "word": "convenience",
+      "display": "Convenience",
+      "phonetic": "",
+      "translation": "\u65b9\u4fbf",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-convenient",
+      "word": "convenient",
+      "display": "Convenient",
+      "phonetic": "",
+      "translation": "\u65b9\u4fbf\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-convention",
+      "word": "convention",
+      "display": "Convention",
+      "phonetic": "",
+      "translation": "\u5927\u4f1a\uff1b\u5e38\u89c4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conventional",
+      "word": "conventional",
+      "display": "Conventional",
+      "phonetic": "",
+      "translation": "\u5e38\u89c4\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conversation",
+      "word": "conversation",
+      "display": "Conversation",
+      "phonetic": "",
+      "translation": "\u8c08\u8bdd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conversely",
+      "word": "conversely",
+      "display": "Conversely",
+      "phonetic": "",
+      "translation": "\u76f8\u53cd\u5730",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conversion",
+      "word": "conversion",
+      "display": "Conversion",
+      "phonetic": "",
+      "translation": "\u8f6c\u53d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-convert",
+      "word": "convert",
+      "display": "Convert",
+      "phonetic": "",
+      "translation": "\u8f6c\u53d8",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-convey",
+      "word": "convey",
+      "display": "Convey",
+      "phonetic": "",
+      "translation": "\u642c\u8fd0",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-convict",
+      "word": "convict",
+      "display": "Convict",
+      "phonetic": "",
+      "translation": "\u8bc1\u660e...\u6709\u7f6a\uff1b\u56da\u72af",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-prefix-con-conviction",
+      "word": "conviction",
+      "display": "Conviction",
+      "phonetic": "",
+      "translation": "\u6df1\u4fe1\uff1b\u5b9a\u7f6a",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-prefix",
+  "rootLevel": 3,
+  "rootPath": "c>c-prefix>c-prefix-con",
+  "type": "branch",
+  "notes": ""
+}

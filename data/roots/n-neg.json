@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "rootId": "n-neg",
+  "root": "neg\u5426\u8ba4",
+  "meaning": "deny",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "n-neg-negate",
+      "word": "negate",
+      "display": "Negate",
+      "phonetic": "",
+      "translation": "\u5426\u8ba4",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-negative",
+      "word": "negative",
+      "display": "Negative",
+      "phonetic": "",
+      "translation": "\u5426\u5b9a\u7684\uff1b\u6d88\u6781\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-neglect",
+      "word": "neglect",
+      "display": "Neglect",
+      "phonetic": "",
+      "translation": "\u5ffd\u7565",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-negligence",
+      "word": "negligence",
+      "display": "Negligence",
+      "phonetic": "",
+      "translation": "\u758f\u5ffd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-negligible",
+      "word": "negligible",
+      "display": "Negligible",
+      "phonetic": "",
+      "translation": "\u5fae\u4e0d\u8db3\u9053\u7684",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-negotiate",
+      "word": "negotiate",
+      "display": "Negotiate",
+      "phonetic": "",
+      "translation": "\u8c08\u5224",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-never",
+      "word": "never",
+      "display": "Never",
+      "phonetic": "",
+      "translation": "\u7edd\u4e0d",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-nevertheless",
+      "word": "nevertheless",
+      "display": "Nevertheless",
+      "phonetic": "",
+      "translation": "\u7136\u800c\uff1b\u4e0d\u8fc7",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "n-neg-renege",
+      "word": "renege",
+      "display": "Renege",
+      "phonetic": "",
+      "translation": "\u98df\u8a00\uff1b\u5426\u8ba4\uff1b\u62d2\u7edd",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "n",
+  "rootLevel": 2,
+  "rootPath": "n>n-neg",
+  "type": "root",
+  "notes": ""
+}

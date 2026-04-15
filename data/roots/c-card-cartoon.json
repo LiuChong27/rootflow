@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "rootId": "c-card-cartoon",
+  "root": "cartoon\u5361\u901a",
+  "meaning": "",
+  "descriptionCn": "",
+  "updatedAt": "2026-04-15",
+  "words": [
+    {
+      "id": "c-card-cartoon-carte",
+      "word": "carte",
+      "display": "Carte",
+      "phonetic": "",
+      "translation": "\u5784\u65ad\u8054\u76df",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    },
+    {
+      "id": "c-card-cartoon-cartoonist",
+      "word": "cartoonist",
+      "display": "Cartoonist",
+      "phonetic": "",
+      "translation": "\u6f2b\u753b\u5bb6",
+      "sentence": "",
+      "tags": [
+        "root-family"
+      ],
+      "level": 1
+    }
+  ],
+  "parentRootId": "c-card",
+  "rootLevel": 3,
+  "rootPath": "c>c-card>c-card-cartoon",
+  "type": "branch",
+  "notes": ""
+}
