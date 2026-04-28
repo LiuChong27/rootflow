@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-tact",
   "root": "tact=tag",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tact=tag",
+  "descriptionCn": "tact=tag",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-tact-attain",
       "word": "attain",
       "display": "Attain",
-      "phonetic": "",
-      "translation": "\u83b7\u5f97",
-      "sentence": "",
+      "phonetic": "/əˈteɪn/",
+      "translation": "获得",
+      "sentence": "she achieved her goal despite setbacks",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-tact-attainment",
       "word": "attainment",
       "display": "Attainment",
-      "phonetic": "",
-      "translation": "\u8fbe\u5230\uff1b\u6210\u5c31",
-      "sentence": "",
+      "phonetic": "/əˈteɪnmənt/",
+      "translation": "达到；成就",
+      "sentence": "the attainment of independence",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-tact-contact",
       "word": "contact",
       "display": "Contact",
-      "phonetic": "",
-      "translation": "\u63a5\u89e6\uff1b\u8054\u7cfb",
-      "sentence": "",
+      "phonetic": "/ˈkɑnˌtækt/",
+      "translation": "接触；联系",
+      "sentence": "they kept in daily contact",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-tact-contagion",
       "word": "contagion",
       "display": "Contagion",
-      "phonetic": "",
-      "translation": "\u4f20\u67d3\uff1b\u4f20\u67d3\u75c5",
-      "sentence": "",
+      "phonetic": "/kənˈteɪʤən/",
+      "translation": "传染；传染病",
+      "sentence": "a contagion of mirth",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-tact-contingency",
       "word": "contingency",
       "display": "Contingency",
-      "phonetic": "",
-      "translation": "\u5076\u7136",
-      "sentence": "",
+      "phonetic": "/kənˈtɪnʤənsi/",
+      "translation": "偶然",
+      "sentence": "A contingency is a possible event or occurrence or result.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-tact-contingent",
       "word": "contingent",
       "display": "Contingent",
-      "phonetic": "",
-      "translation": "\u6682\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈtɪnʤənt/",
+      "translation": "暂时的",
+      "sentence": "each nation sent a contingent of athletes to the Olympics",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-tact-tangle",
       "word": "tangle",
       "display": "Tangle",
-      "phonetic": "",
-      "translation": "\u7ea0\u7f20\uff1b\u6df7\u4e71",
-      "sentence": "",
+      "phonetic": "/ˈtæŋgəl/",
+      "translation": "纠缠；混乱",
+      "sentence": "they carved their way through the tangle of vines",
       "tags": [
         "root-family"
       ],
@@ -92,8 +92,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-tact",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

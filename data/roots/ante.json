@@ -3,16 +3,16 @@
   "rootId": "ante",
   "root": "ante-",
   "meaning": "before",
-  "descriptionCn": "\u5148\u524d",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "先前",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "antecessor",
       "word": "antecessor",
       "display": "Antecessor",
-      "phonetic": "",
-      "translation": "\u5148\u884c\u8005\uff1b\u7956\u5148",
-      "sentence": "",
+      "phonetic": "/æntˈɛsʌsɚ/",
+      "translation": "先行者；祖先",
+      "sentence": "Antecessor is used here with the sense of \"先行者；祖先\".",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "antenna",
       "word": "antenna",
       "display": "Antenna",
-      "phonetic": "",
-      "translation": "\u89e6\u89d2\uff1b\u5929\u7ebf",
-      "sentence": "",
+      "phonetic": "/ænˈtɛnə/",
+      "translation": "触角；天线",
+      "sentence": "he had a special antenna for public relations",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "anterior",
       "word": "anterior",
       "display": "Anterior",
-      "phonetic": "",
-      "translation": "\u524d\u9762\u7684",
-      "sentence": "",
+      "phonetic": "/ænˈtɪriər/",
+      "translation": "前面的",
+      "sentence": "his malocclusion was caused by malposed anteriors",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "anticipate",
       "word": "anticipate",
       "display": "Anticipate",
-      "phonetic": "",
-      "translation": "\u9884\u6599",
-      "sentence": "",
+      "phonetic": "/ænˈtɪsəˌpeɪt/",
+      "translation": "预料",
+      "sentence": "This composition anticipates Impressionism",
       "tags": [
         "root-family",
         "other"
@@ -63,5 +63,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-prefix>ante",
   "type": "prefix",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

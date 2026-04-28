@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acuity",
   "root": "acuity",
-  "meaning": "",
-  "descriptionCn": "\u654f\u9510",
-  "updatedAt": "2026-04-15",
+  "meaning": "acuity family",
+  "descriptionCn": "敏锐",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acuity",
       "word": "acuity",
       "display": "Acuity",
-      "phonetic": "",
-      "translation": "\u654f\u9510",
-      "sentence": "",
+      "phonetic": "/əˈkjuəti/",
+      "translation": "敏锐",
+      "sentence": "he argued with great acuteness",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-other>ac>ac-acute>acuity",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

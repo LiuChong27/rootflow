@@ -3,16 +3,16 @@
   "rootId": "avi",
   "root": "avi=av=avar=bird",
   "meaning": "bird/avid/avarice",
-  "descriptionCn": "\u9e1f\uff1b\u6e34\u671b\uff1b\u8d2a\u5a6a",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "鸟；渴望；贪婪",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "augur",
       "word": "augur",
       "display": "Augur",
-      "phonetic": "",
-      "translation": "\u5360\u535c",
-      "sentence": "",
+      "phonetic": "/ˈɔgər/",
+      "translation": "占卜",
+      "sentence": "These signs bode bad news",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "auspice",
       "word": "auspice",
       "display": "Auspice",
-      "phonetic": "",
-      "translation": "\u9884\u5146",
-      "sentence": "",
+      "phonetic": "/ˈɔspɪs/",
+      "translation": "预兆",
+      "sentence": "An auspice is a favorable omen.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "avarice",
       "word": "avarice",
       "display": "Avarice",
-      "phonetic": "",
-      "translation": "\u8d2a\u5a6a",
-      "sentence": "",
+      "phonetic": "/ˈævərəs/",
+      "translation": "贪婪",
+      "sentence": "An avarice is reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins).",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "avian",
       "word": "avian",
       "display": "Avian",
-      "phonetic": "",
-      "translation": "\u9e1f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈeɪviən/",
+      "translation": "鸟的",
+      "sentence": "If something is avian, it is pertaining to or characteristic of birds.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "aviate",
       "word": "aviate",
       "display": "Aviate",
-      "phonetic": "",
-      "translation": "\u98de\u884c",
-      "sentence": "",
+      "phonetic": "/ˈeɪviʌt/",
+      "translation": "飞行",
+      "sentence": "The pilot flew to Cuba",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "avid",
       "word": "avid",
       "display": "Avid",
-      "phonetic": "",
-      "translation": "\u6e34\u671b\u7684\uff1b\u8d2a\u5a6a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈævɪd/",
+      "translation": "渴望的；贪婪的",
+      "sentence": "avid for adventure",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "a>avi",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

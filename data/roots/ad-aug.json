@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ad-aug",
   "root": "aug-=auc-=aut-",
-  "meaning": "",
-  "descriptionCn": "\u589e\u52a0\u3001\u521b\u9020",
-  "updatedAt": "2026-04-15",
+  "meaning": "aug-=auc-=aut",
+  "descriptionCn": "增加、创造",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "augment-ad-aug-2",
       "word": "augment",
       "display": "Augment",
-      "phonetic": "",
-      "translation": "\u589e\u5927",
-      "sentence": "",
+      "phonetic": "/ɔgˈmɛnt/",
+      "translation": "增大",
+      "sentence": "The recent speech of the president augmented tensions in the Near East",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "august",
       "word": "august",
       "display": "August",
-      "phonetic": "",
-      "translation": "\u5c0a\u4e25\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɔgəst/",
+      "translation": "尊严的",
+      "sentence": "of august lineage",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "authentic",
       "word": "authentic",
       "display": "Authentic",
-      "phonetic": "",
-      "translation": "\u53ef\u4fe1\u7684\uff1b\u6743\u5a01\u7684",
-      "sentence": "",
+      "phonetic": "/əˈθɛnɪk/",
+      "translation": "可信的；权威的",
+      "sentence": "an authentic account by an eyewitness",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "author",
       "word": "author",
       "display": "Author",
-      "phonetic": "",
-      "translation": "\u521b\u9020\u8005\uff1b\u4f5c\u8005",
-      "sentence": "",
+      "phonetic": "/ˈɔθər/",
+      "translation": "创造者；作者",
+      "sentence": "She authored this play",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "authority",
       "word": "authority",
       "display": "Authority",
-      "phonetic": "",
-      "translation": "\u6743\u5a01\u7684",
-      "sentence": "",
+      "phonetic": "/əˈθɔrəti/",
+      "translation": "权威的",
+      "sentence": "he has the authority to issue warrants",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "authorize",
       "word": "authorize",
       "display": "Authorize",
-      "phonetic": "",
-      "translation": "\u6388\u6743\uff1b\u59d4\u6258",
-      "sentence": "",
+      "phonetic": "/ˈɔθərˌaɪz/",
+      "translation": "授权；委托",
+      "sentence": "The rock star never authorized this slanderous biography",
       "tags": [
         "root-family",
         "other"
@@ -89,5 +89,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>ad-add-axx>ad-aug",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

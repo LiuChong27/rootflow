@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-clar-clear",
-  "root": "clar=clear\u6e05\u695a",
+  "root": "clar=clear清楚",
   "meaning": "clear",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "清楚",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-clar-clear-clarificant",
       "word": "clarificant",
       "display": "Clarificant",
-      "phonetic": "",
-      "translation": "\u51c0\u5316\u5242",
-      "sentence": "",
+      "phonetic": "/klˈɛrɪfɪkʌnt/",
+      "translation": "净化剂",
+      "sentence": "Clarificant is used here with the sense of \"净化剂\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-clar-clear-clarification",
       "word": "clarification",
       "display": "Clarification",
-      "phonetic": "",
-      "translation": "\u51c0\u5316\uff1b\u89e3\u91ca\u8bf4\u660e",
-      "sentence": "",
+      "phonetic": "/ˌklɛrəfəˈkeɪʃən/",
+      "translation": "净化；解释说明",
+      "sentence": "the professor's clarification helped her to understand the textbook",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-clar-clear-clarify",
       "word": "clarify",
       "display": "Clarify",
-      "phonetic": "",
-      "translation": "\u6f84\u6e05\uff1b\u9610\u660e",
-      "sentence": "",
+      "phonetic": "/ˈklɛrəˌfaɪ/",
+      "translation": "澄清；阐明",
+      "sentence": "clarify the mystery surrounding her death",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-clar-clear-clarity",
       "word": "clarity",
       "display": "Clarity",
-      "phonetic": "",
-      "translation": "\u6e05\u695a",
-      "sentence": "",
+      "phonetic": "/ˈklɛrɪti/",
+      "translation": "清楚",
+      "sentence": "when she awoke the clarity was back in her eyes",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 2,
   "rootPath": "c>c-clar-clear",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "a-without-physical",
-  "root": "\u7269\u7406/\u72b6\u6001",
-  "meaning": "",
-  "descriptionCn": "\u7269\u7406/\u72b6\u6001\u7c7b\u6d3e\u751f",
-  "updatedAt": "2026-04-15",
+  "root": "物理/状态",
+  "meaning": "physical/state forms",
+  "descriptionCn": "物理/状态类派生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "anomaly-a-without-physical-2",
       "word": "anomaly",
       "display": "Anomaly",
-      "phonetic": "",
-      "translation": "\u4e0d\u89c4\u5219",
-      "sentence": "",
+      "phonetic": "/əˈnɑməli/",
+      "translation": "不规则",
+      "sentence": "An anomaly is deviation from the normal or common order or form or rule.",
       "tags": [
         "root-family",
         "physics"
@@ -23,9 +23,9 @@
       "id": "anonymous-a-without-physical-2",
       "word": "anonymous",
       "display": "Anonymous",
-      "phonetic": "",
-      "translation": "\u65e0\u540d\u7684\uff1b\u533f\u540d\u7684",
-      "sentence": "",
+      "phonetic": "/əˈnɑnəməs/",
+      "translation": "无名的；匿名的",
+      "sentence": "anonymous authors",
       "tags": [
         "root-family",
         "physics"
@@ -36,9 +36,9 @@
       "id": "aperiodic-a-without-physical-2",
       "word": "aperiodic",
       "display": "Aperiodic",
-      "phonetic": "",
-      "translation": "\u975e\u5468\u671f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌæpɚaɪdˈɪkɪd/",
+      "translation": "非周期的",
+      "sentence": "If something is aperiodic, it is not recurring at regular intervals.",
       "tags": [
         "root-family",
         "physics"
@@ -49,9 +49,9 @@
       "id": "asexual-a-without-physical-2",
       "word": "asexual",
       "display": "Asexual",
-      "phonetic": "",
-      "translation": "\u65e0\u6027\u7684\uff1b\u65e0\u6027\u751f\u6b96\u7684",
-      "sentence": "",
+      "phonetic": "/eɪˈsɛksjuəl/",
+      "translation": "无性的；无性生殖的",
+      "sentence": "an asexual spore",
       "tags": [
         "root-family",
         "physics"
@@ -62,9 +62,9 @@
       "id": "asymmetry-a-without-physical-2",
       "word": "asymmetry",
       "display": "Asymmetry",
-      "phonetic": "",
-      "translation": "\u4e0d\u5bf9\u79f0\u7684",
-      "sentence": "",
+      "phonetic": "/ˌeɪˈsɪmətri/",
+      "translation": "不对称的",
+      "sentence": "An asymmetry is (mathematics) a lack of symmetry.",
       "tags": [
         "root-family",
         "physics"
@@ -76,5 +76,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>a-without>a-without-physical",
   "type": "category",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

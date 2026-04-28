@@ -2,13 +2,14 @@
   "version": 1,
   "rootId": "n",
   "root": "N",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "N root map",
+  "descriptionCn": "N",
+  "updatedAt": "2026-04-18",
   "words": [],
   "parentRootId": "",
   "rootLevel": 1,
   "rootPath": "n",
   "type": "root",
-  "notes": "\u6839\u636eN.txt\u6574\u7406\uff0c\u6309\u539f\u6587\u5206\u53c9\u5c55\u5f00\u3002"
+  "notes": "根据N.txt整理，按原文分叉展开。",
+  "tags": []
 }

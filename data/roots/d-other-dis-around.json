@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-dis-around",
-  "root": "\u5411\u56db\u5468",
+  "root": "向四周",
   "meaning": "around",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "向四周",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-dis-around-discard",
       "word": "discard",
       "display": "Discard",
-      "phonetic": "",
-      "translation": "\u4e22\u5f03",
-      "sentence": "",
+      "phonetic": "/dɪˈskɑrd/",
+      "translation": "丢弃",
+      "sentence": "Put away your worries",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-dis-around-discharge",
       "word": "discharge",
       "display": "Discharge",
-      "phonetic": "",
-      "translation": "\u5378\u8d27\uff1b\u89e3\u96c7",
-      "sentence": "",
+      "phonetic": "/ˈdɪsˌʧɑrʤ/",
+      "translation": "卸货；解雇",
+      "sentence": "the discharge of pus",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-dis-around-discipline",
       "word": "discipline",
       "display": "Discipline",
-      "phonetic": "",
-      "translation": "\u7eaa\u5f8b\uff1b\u5b66\u79d1",
-      "sentence": "",
+      "phonetic": "/ˈdɪsəplən/",
+      "translation": "纪律；学科",
+      "sentence": "in what discipline is his doctorate?",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-other-dis-around-disclaim",
       "word": "disclaim",
       "display": "Disclaim",
-      "phonetic": "",
-      "translation": "\u653e\u5f03\uff1b\u5426\u8ba4",
-      "sentence": "",
+      "phonetic": "/dɪˈskleɪm/",
+      "translation": "放弃；否认",
+      "sentence": "He disclaimed any responsibility",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-other-dis-around-disguise",
       "word": "disguise",
       "display": "Disguise",
-      "phonetic": "",
-      "translation": "\u4f2a\u88c5",
-      "sentence": "",
+      "phonetic": "/dɪsˈgaɪz/",
+      "translation": "伪装",
+      "sentence": "the theatrical notion of disguise is always associated with catastrophe in his stories",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-other-dis-around-distance",
       "word": "distance",
       "display": "Distance",
-      "phonetic": "",
-      "translation": "\u9065\u8fdc\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɪstəns/",
+      "translation": "遥远的",
+      "sentence": "I could see it in the distance",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 4,
   "rootPath": "d>d-other>d-other-dis>d-other-dis-around",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

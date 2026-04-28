@@ -58,7 +58,7 @@ export default [
     },
   },
   {
-    files: ['cloudfunctions/**/*.js'],
+    files: ['uniCloud-aliyun/cloudfunctions/**/*.js'],
     languageOptions: {
       ecmaVersion: 2021,
       sourceType: 'script',
@@ -66,6 +66,7 @@ export default [
         ...globals.node,
         exports: 'writable',
         require: 'readonly',
+        uniCloud: 'readonly',
       },
     },
   },

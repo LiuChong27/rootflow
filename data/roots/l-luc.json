@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "l-luc",
-  "root": "luc=lus\u5149",
+  "root": "luc=lus光",
   "meaning": "light",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "光",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "l-luc-elucidate",
       "word": "elucidate",
       "display": "Elucidate",
-      "phonetic": "",
-      "translation": "\u9610\u660e",
-      "sentence": "",
+      "phonetic": "/ɪˈlusəˌdeɪt/",
+      "translation": "阐明",
+      "sentence": "clarify the mystery surrounding her death",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "l-luc-illustrate",
       "word": "illustrate",
       "display": "Illustrate",
-      "phonetic": "",
-      "translation": "\u8bf4\u660e",
-      "sentence": "",
+      "phonetic": "/ˈɪləˌstreɪt/",
+      "translation": "说明",
+      "sentence": "illustrate a book with drawings",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "l-luc-illustration",
       "word": "illustration",
       "display": "Illustration",
-      "phonetic": "",
-      "translation": "\u63d2\u56fe",
-      "sentence": "",
+      "phonetic": "/ˌɪləˈstreɪʃən/",
+      "translation": "插图",
+      "sentence": "this patient provides a typical example of the syndrome",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "l-luc-lucid",
       "word": "lucid",
       "display": "Lucid",
-      "phonetic": "",
-      "translation": "\u6e05\u6670\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlusɪd/",
+      "translation": "清晰的",
+      "sentence": "lucid directions",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "l-luc-lustrous",
       "word": "lustrous",
       "display": "Lustrous",
-      "phonetic": "",
-      "translation": "\u6709\u5149\u6cfd\u7684",
-      "sentence": "",
+      "phonetic": "/ˈləstrəs/",
+      "translation": "有光泽的",
+      "sentence": "she brushed her hair until it fell in lustrous auburn waves",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "l>l-luc",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-sole",
-  "root": "sole\u5355\u72ec\u7684\uff1b\u552f\u4e00\u7684",
+  "root": "sole单独的；唯一的",
   "meaning": "sole",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "单独的；唯一的",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-sole",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-sole",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

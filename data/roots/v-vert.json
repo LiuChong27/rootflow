@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "v-vert",
   "root": "vert=vers=turn",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "vert=vers=turn",
+  "descriptionCn": "vert=vers=turn",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "v-vert-versatile",
       "word": "versatile",
       "display": "Versatile",
-      "phonetic": "",
-      "translation": "\u901a\u7528\u7684;\u591a\u65b9\u9762\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvərsətəl/",
+      "translation": "通用的;多方面的",
+      "sentence": "his vast and versatile erudition",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "v-vert-verse",
       "word": "verse",
       "display": "Verse",
-      "phonetic": "",
-      "translation": "\u8bd7\u53e5",
-      "sentence": "",
+      "phonetic": "/vərs/",
+      "translation": "诗句",
+      "sentence": "She versed herself in Roman archeology",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "v-vert-version",
       "word": "version",
       "display": "Version",
-      "phonetic": "",
-      "translation": "\u7248\u672c;\u8bd1\u6587",
-      "sentence": "",
+      "phonetic": "/ˈvərʒən/",
+      "translation": "版本;译文",
+      "sentence": "his version of the fight was different from mine",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "v-vert-versus",
       "word": "versus",
       "display": "Versus",
-      "phonetic": "",
-      "translation": "\u4e0e...\u76f8\u5bf9",
-      "sentence": "",
+      "phonetic": "/ˈvərsəz/",
+      "translation": "与...相对",
+      "sentence": "Versus is used here with the sense of \"与...相对\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "v-vert-vertical",
       "word": "vertical",
       "display": "Vertical",
-      "phonetic": "",
-      "translation": "\u5782\u76f4\u7684;\u5782\u7ebf",
-      "sentence": "",
+      "phonetic": "/ˈvərtɪkəl/",
+      "translation": "垂直的;垂线",
+      "sentence": "a vertical camera angle",
       "tags": [
         "root-family"
       ],
@@ -68,8 +68,9 @@
     }
   ],
   "parentRootId": "v",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "v>v-vert",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

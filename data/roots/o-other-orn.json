@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-other-orn",
-  "root": "orn=embellish\u88c5\u9970",
+  "root": "orn=embellish装饰",
   "meaning": "embellish",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "装饰",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-other-orn-ornament",
       "word": "ornament",
       "display": "Ornament",
-      "phonetic": "",
-      "translation": "\u88c5\u9970",
-      "sentence": "",
+      "phonetic": "/ˈɔrnəmənt/",
+      "translation": "装饰",
+      "sentence": "stars ornamented the Christmas tree",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "o>o-other>o-other-orn",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

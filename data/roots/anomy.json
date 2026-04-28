@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "anomy",
   "root": "anomy",
-  "meaning": "",
-  "descriptionCn": "\u5931\u8303\u72b6\u6001\uff1b\u6df7\u4e71",
-  "updatedAt": "2026-04-15",
+  "meaning": "anomy family",
+  "descriptionCn": "失范状态；混乱",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "anomy",
       "word": "anomy",
       "display": "Anomy",
-      "phonetic": "",
-      "translation": "\u5931\u8303\u72b6\u6001\uff1b\u6df7\u4e71",
-      "sentence": "",
+      "phonetic": "/ʌnˈɑmi/",
+      "translation": "失范状态；混乱",
+      "sentence": "An anomy is personal state of isolation and anxiety resulting from a lack of social control and regulation.",
       "tags": [
         "root-family",
         "physics"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>a-without>a-without-physical>anomaly>anomy",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

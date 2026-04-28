@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-new-nerv",
-  "root": "nerv\u795e\u7ecf",
+  "root": "nerv神经",
   "meaning": "nerve",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "神经",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-new-nerv-nephew",
       "word": "nephew",
       "display": "Nephew",
-      "phonetic": "",
-      "translation": "\u4f84\u5b50\uff1b\u5916\u7525",
-      "sentence": "",
+      "phonetic": "/ˈnɛfju/",
+      "translation": "侄子；外甥",
+      "sentence": "A nephew is a son of your brother or sister.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-new-nerv-nerve",
       "word": "nerve",
       "display": "Nerve",
-      "phonetic": "",
-      "translation": "\u795e\u7ecf",
-      "sentence": "",
+      "phonetic": "/nərv/",
+      "translation": "神经",
+      "sentence": "he kept fighting on pure spunk",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-new-nerv-nervous",
       "word": "nervous",
       "display": "Nervous",
-      "phonetic": "",
-      "translation": "\u795e\u7ecf\u7684\uff1b\u7d27\u5f20\u4e0d\u5b89\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnərvəs/",
+      "translation": "神经的；紧张不安的",
+      "sentence": "a nervous addict",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-new-nerv-neural",
       "word": "neural",
       "display": "Neural",
-      "phonetic": "",
-      "translation": "\u795e\u7ecf\u4e2d\u67a2",
-      "sentence": "",
+      "phonetic": "/ˈnʊrəl/",
+      "translation": "神经中枢",
+      "sentence": "neural disorder",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-new-nerv-neure",
       "word": "neure",
       "display": "Neure",
-      "phonetic": "",
-      "translation": "\u795e\u7ecf\u5143",
-      "sentence": "",
+      "phonetic": "/nˈʊr/",
+      "translation": "神经元",
+      "sentence": "Neure is used here with the sense of \"神经元\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-new-nerv-niece",
       "word": "niece",
       "display": "Niece",
-      "phonetic": "",
-      "translation": "\u4f84\u5973",
-      "sentence": "",
+      "phonetic": "/niːs/",
+      "translation": "侄女",
+      "sentence": "A niece is a daughter of your brother or sister.",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 3,
   "rootPath": "n>n-new>n-new-nerv",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

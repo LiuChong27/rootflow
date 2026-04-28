@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ambiquity",
   "root": "ambiquity",
-  "meaning": "",
-  "descriptionCn": "\u542b\u7cca\u7684\uff08\u53d8\u4f53\u62fc\u5199\uff09",
-  "updatedAt": "2026-04-15",
+  "meaning": "ambiquity family",
+  "descriptionCn": "含糊的（变体拼写）",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambiquity",
       "word": "ambiquity",
       "display": "Ambiquity",
-      "phonetic": "",
-      "translation": "\u542b\u7cca\u7684\uff08\u53d8\u4f53\u62fc\u5199\uff09",
-      "sentence": "",
+      "phonetic": "/æmbkwˈɪtɪti/",
+      "translation": "含糊的（变体拼写）",
+      "sentence": "The ambiquity quickly became part of the discussion.",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>amphi-ambi>ambiguity>ambiquity",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

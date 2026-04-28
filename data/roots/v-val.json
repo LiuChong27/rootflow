@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "v-val",
   "root": "val=vail",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "val=vail",
+  "descriptionCn": "val=vail",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "v-val-valid",
       "word": "valid",
       "display": "Valid",
-      "phonetic": "",
-      "translation": "\u6709\u6548\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvælɪd/",
+      "translation": "有效的",
+      "sentence": "a valid inference",
       "tags": [
         "root-family"
       ],
@@ -20,8 +20,9 @@
     }
   ],
   "parentRootId": "v",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "v>v-val",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

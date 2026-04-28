@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "author",
   "root": "author",
-  "meaning": "",
-  "descriptionCn": "\u521b\u9020\u8005\uff1b\u4f5c\u8005",
-  "updatedAt": "2026-04-15",
+  "meaning": "author family",
+  "descriptionCn": "创造者；作者",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "author-author-2",
       "word": "author",
       "display": "Author",
-      "phonetic": "",
-      "translation": "\u521b\u9020\u8005\uff1b\u4f5c\u8005",
-      "sentence": "",
+      "phonetic": "/ˈɔθər/",
+      "translation": "创造者；作者",
+      "sentence": "She authored this play",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

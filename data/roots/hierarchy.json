@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "hierarchy",
   "root": "hierarchy",
-  "meaning": "",
-  "descriptionCn": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
-  "updatedAt": "2026-04-15",
+  "meaning": "hierarchy family",
+  "descriptionCn": "层级；等级制度",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "hierarchy-hierarchy-2",
       "word": "hierarchy",
       "display": "Hierarchy",
-      "phonetic": "",
-      "translation": "\u5c42\u7ea7\uff1b\u7b49\u7ea7\u5236\u5ea6",
-      "sentence": "",
+      "phonetic": "/ˈhaɪˌrɑrki/",
+      "translation": "层级；等级制度",
+      "sentence": "put honesty first in her hierarchy of values",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>arch>hierarchy",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

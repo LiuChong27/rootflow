@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "affiliate",
   "root": "affiliate",
-  "meaning": "",
-  "descriptionCn": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
-  "updatedAt": "2026-04-15",
+  "meaning": "affiliate family",
+  "descriptionCn": "使加入；加盟",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "affiliate-affiliate-2",
       "word": "affiliate",
       "display": "Affiliate",
-      "phonetic": "",
-      "translation": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
-      "sentence": "",
+      "phonetic": "/əˈfɪliˌeɪt/",
+      "translation": "使加入；加盟",
+      "sentence": "network affiliates",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-af>affiliate",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

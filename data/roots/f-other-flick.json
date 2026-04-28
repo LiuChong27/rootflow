@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-other-flick",
-  "root": "flick\u6253\u51fb",
+  "root": "flick打击",
   "meaning": "flick",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "打击",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-other-flick-afflict",
       "word": "afflict",
       "display": "Afflict",
-      "phonetic": "",
-      "translation": "\u4f7f\u75db\u82e6\uff1b\u6298\u78e8",
-      "sentence": "",
+      "phonetic": "/əˈflɪkt/",
+      "translation": "使痛苦；折磨",
+      "sentence": "she was afflicted by the death of her parents",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-other-flick-affliction",
       "word": "affliction",
       "display": "Affliction",
-      "phonetic": "",
-      "translation": "\u75db\u82e6\uff1b\u6298\u78e8",
-      "sentence": "",
+      "phonetic": "/əˈflɪkʃən/",
+      "translation": "痛苦；折磨",
+      "sentence": "An affliction is a state of great suffering and distress due to adversity.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-other-flick-conflict",
       "word": "conflict",
       "display": "Conflict",
-      "phonetic": "",
-      "translation": "\u6597\u4e89\uff1b\u51b2\u7a81",
-      "sentence": "",
+      "phonetic": "/ˈkɑnflɪkt/",
+      "translation": "斗争；冲突",
+      "sentence": "the harder the conflict the more glorious the triumph",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-other-flick-inflict",
       "word": "inflict",
       "display": "Inflict",
-      "phonetic": "",
-      "translation": "\u7ed9\u4e88\uff1b\u5904\u7f5a",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈflɪkt/",
+      "translation": "给予；处罚",
+      "sentence": "The principal visited his rage on the students",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-other-flick-infliction",
       "word": "infliction",
       "display": "Infliction",
-      "phonetic": "",
-      "translation": "\u4e16\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈflɪkʃən/",
+      "translation": "世家",
+      "sentence": "he's not a friend, he's an infliction",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-other-flick-inflictive",
       "word": "inflictive",
       "display": "Inflictive",
-      "phonetic": "",
-      "translation": "\u52a0\u4ee5\u6253\u51fb",
-      "sentence": "",
+      "phonetic": "/ɪnflˈɪktɪv/",
+      "translation": "加以打击",
+      "sentence": "Inflictive is used here with the sense of \"加以打击\".",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-other>f-other-flick",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-turn",
   "root": "turn",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "turn",
+  "descriptionCn": "turn",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-turn-tempo",
       "word": "tempo",
       "display": "Tempo",
-      "phonetic": "",
-      "translation": "\u8282\u594f",
-      "sentence": "",
+      "phonetic": "/ˈtɛmˌpoʊ/",
+      "translation": "节奏",
+      "sentence": "A tempo is (music) the speed at which a composition is to be played.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-turn-temporary",
       "word": "temporary",
       "display": "Temporary",
-      "phonetic": "",
-      "translation": "\u6682\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈtɛmpərˌɛri/",
+      "translation": "暂时的",
+      "sentence": "temporary housing",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-turn-term",
       "word": "term",
       "display": "Term",
-      "phonetic": "",
-      "translation": "\u5b66\u671f",
-      "sentence": "",
+      "phonetic": "/tərm/",
+      "translation": "学期",
+      "sentence": "he learned many medical terms",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-turn-terminal",
       "word": "terminal",
       "display": "Terminal",
-      "phonetic": "",
-      "translation": "\u665a\u671f\u7684\uff1b\u7ec8\u70b9",
-      "sentence": "",
+      "phonetic": "/ˈtərmənəl/",
+      "translation": "晚期的；终点",
+      "sentence": "the terminals of the anterior arches of the fornix",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-turn-terminate",
       "word": "terminate",
       "display": "Terminate",
-      "phonetic": "",
-      "translation": "\u7ed3\u675f",
-      "sentence": "",
+      "phonetic": "/ˈtərməˌneɪt/",
+      "translation": "结束",
+      "sentence": "The attack on Poland terminated the relatively peaceful period after WW I",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-turn-tide",
       "word": "tide",
       "display": "Tide",
-      "phonetic": "",
-      "translation": "\u6f6e\u6c50",
-      "sentence": "",
+      "phonetic": "/taɪd/",
+      "translation": "潮汐",
+      "sentence": "a rising tide of popular interest",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-turn-tune",
       "word": "tune",
       "display": "Tune",
-      "phonetic": "",
-      "translation": "\u66f2\u8c03",
-      "sentence": "",
+      "phonetic": "/tuːn/",
+      "translation": "曲调",
+      "sentence": "he cannot sing in tune",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "t-turn-tunnel",
       "word": "tunnel",
       "display": "Tunnel",
-      "phonetic": "",
-      "translation": "\u96a7\u9053",
-      "sentence": "",
+      "phonetic": "/ˈtənəl/",
+      "translation": "隧道",
+      "sentence": "the tunnel reduced congestion at that intersection",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "t-turn-turbine",
       "word": "turbine",
       "display": "Turbine",
-      "phonetic": "",
-      "translation": "\u6da1\u8f6e\u673a",
-      "sentence": "",
+      "phonetic": "/ˈtərbaɪn/",
+      "translation": "涡轮机",
+      "sentence": "A turbine is rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "t-turn-typhoon",
       "word": "typhoon",
       "display": "Typhoon",
-      "phonetic": "",
-      "translation": "\u53f0\u98ce",
-      "sentence": "",
+      "phonetic": "/ˌtaɪˈfun/",
+      "translation": "台风",
+      "sentence": "A typhoon is a tropical cyclone occurring in the western Pacific or Indian oceans.",
       "tags": [
         "root-family"
       ],
@@ -128,8 +128,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-turn",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

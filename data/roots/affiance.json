@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "affiance",
   "root": "affiance",
-  "meaning": "",
-  "descriptionCn": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
-  "updatedAt": "2026-04-15",
+  "meaning": "affiance family",
+  "descriptionCn": "婚约；信托",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "affiance-affiance-2",
       "word": "affiance",
       "display": "Affiance",
-      "phonetic": "",
-      "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
-      "sentence": "",
+      "phonetic": "/ʌfˈaɪʌns/",
+      "translation": "婚约；信托",
+      "sentence": "To affiance is to give to in marriage.",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-af>affiance",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

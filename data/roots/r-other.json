@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-other-racket",
       "word": "racket",
       "display": "Racket",
-      "phonetic": "",
-      "translation": "\u7403\u62cd",
-      "sentence": "",
+      "phonetic": "/ˈrækɪt/",
+      "translation": "球拍",
+      "sentence": "modern music is just noise to me",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-other-rag",
       "word": "rag",
       "display": "Rag",
-      "phonetic": "",
-      "translation": "\u62b9\u5e03",
-      "sentence": "",
+      "phonetic": "/ræg/",
+      "translation": "抹布",
+      "sentence": "rag that old tune",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-other-rake",
       "word": "rake",
       "display": "Rake",
-      "phonetic": "",
-      "translation": "\u8019\u5b50\uff1b\u641c\u7d22",
-      "sentence": "",
+      "phonetic": "/reɪk/",
+      "translation": "耙子；搜索",
+      "sentence": "She raked her fingers through her hair",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-other-rank",
       "word": "rank",
       "display": "Rank",
-      "phonetic": "",
-      "translation": "\u7b49\u7ea7\uff1b\u519b\u8854",
-      "sentence": "",
+      "phonetic": "/ræŋk/",
+      "translation": "等级；军衔",
+      "sentence": "the entrance was guarded by ranks of policemen",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-other-reason",
       "word": "reason",
       "display": "Reason",
-      "phonetic": "",
-      "translation": "\u539f\u56e0\uff1b\u7406\u6027",
-      "sentence": "",
+      "phonetic": "/ˈrizən/",
+      "translation": "原因；理性",
+      "sentence": "the reason that war was declared",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-other-reasonable",
       "word": "reasonable",
       "display": "Reasonable",
-      "phonetic": "",
-      "translation": "\u5408\u7406\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrizənəbəl/",
+      "translation": "合理的",
+      "sentence": "reasonable prices",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-other-reassure",
       "word": "reassure",
       "display": "Reassure",
-      "phonetic": "",
-      "translation": "\u4f7f\u5b89\u5fc3",
-      "sentence": "",
+      "phonetic": "/ˌriəˈʃʊr/",
+      "translation": "使安心",
+      "sentence": "The airline tried to reassure the customers that the planes were safe",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-other-recreation",
       "word": "recreation",
       "display": "Recreation",
-      "phonetic": "",
-      "translation": "\u5a31\u4e50",
-      "sentence": "",
+      "phonetic": "/ˌrɛkriˈeɪʃən/",
+      "translation": "娱乐",
+      "sentence": "for recreation he wrote poetry and solved crossword puzzles",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-other-remedy",
       "word": "remedy",
       "display": "Remedy",
-      "phonetic": "",
-      "translation": "\u836f\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈrɛmədi/",
+      "translation": "药品",
+      "sentence": "remedy these deficiencies",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-other-render",
       "word": "render",
       "display": "Render",
-      "phonetic": "",
-      "translation": "\u63d0\u4f9b",
-      "sentence": "",
+      "phonetic": "/ˈrɛndər/",
+      "translation": "提供",
+      "sentence": "The shot rendered her immobile",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-other-rent",
       "word": "rent",
       "display": "Rent",
-      "phonetic": "",
-      "translation": "\u79df",
-      "sentence": "",
+      "phonetic": "/rɛnt/",
+      "translation": "租",
+      "sentence": "We rented our apartment to friends while we were abroad",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-other-rhythm",
       "word": "rhythm",
       "display": "Rhythm",
-      "phonetic": "",
-      "translation": "\u8282\u594f",
-      "sentence": "",
+      "phonetic": "/ˈrɪðəm/",
+      "translation": "节奏",
+      "sentence": "the piece has a fast rhythm",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-other-rid",
       "word": "rid",
       "display": "Rid",
-      "phonetic": "",
-      "translation": "\u6446\u8131\u6389",
-      "sentence": "",
+      "phonetic": "/rɪd/",
+      "translation": "摆脱掉",
+      "sentence": "Rid the house of pests",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-other-riddle",
       "word": "riddle",
       "display": "Riddle",
-      "phonetic": "",
-      "translation": "\u8c1c\u8bed",
-      "sentence": "",
+      "phonetic": "/ˈrɪdəl/",
+      "translation": "谜语",
+      "sentence": "The bullets riddled his body",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-other-ride",
       "word": "ride",
       "display": "Ride",
-      "phonetic": "",
-      "translation": "\u9a91",
-      "sentence": "",
+      "phonetic": "/raɪd/",
+      "translation": "骑",
+      "sentence": "Did you ever ride a camel?",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-other-ridge",
       "word": "ridge",
       "display": "Ridge",
-      "phonetic": "",
-      "translation": "\u5c71\u8109",
-      "sentence": "",
+      "phonetic": "/rɪʤ/",
+      "translation": "山脉",
+      "sentence": "The land ridges towards the South",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "r-other-ridiculous",
       "word": "ridiculous",
       "display": "Ridiculous",
-      "phonetic": "",
-      "translation": "\u8352\u8c2c\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈdɪkjələs/",
+      "translation": "荒谬的",
+      "sentence": "her conceited assumption of universal interest in her rather dull children was ridiculous",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "r-other-rifle",
       "word": "rifle",
       "display": "Rifle",
-      "phonetic": "",
-      "translation": "\u6b65\u67aa",
-      "sentence": "",
+      "phonetic": "/ˈraɪfəl/",
+      "translation": "步枪",
+      "sentence": "he lifted the rifle to his shoulder and fired",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "r-other-rim",
       "word": "rim",
       "display": "Rim",
-      "phonetic": "",
-      "translation": "\u8fb9\u7f18",
-      "sentence": "",
+      "phonetic": "/rɪm/",
+      "translation": "边缘",
+      "sentence": "the ball hit the rim and bounced off",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "r-other-rise",
       "word": "rise",
       "display": "Rise",
-      "phonetic": "",
-      "translation": "\u4e0a\u6da8",
-      "sentence": "",
+      "phonetic": "/raɪz/",
+      "translation": "上涨",
+      "sentence": "the car couldn't make it up the rise",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "r-other-risk",
       "word": "risk",
       "display": "Risk",
-      "phonetic": "",
-      "translation": "\u98ce\u9669",
-      "sentence": "",
+      "phonetic": "/rɪsk/",
+      "translation": "风险",
+      "sentence": "he saw the rewards but not the risks of crime",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "r-other-ritual",
       "word": "ritual",
       "display": "Ritual",
-      "phonetic": "",
-      "translation": "\u5178\u793c",
-      "sentence": "",
+      "phonetic": "/ˈrɪʧuəl/",
+      "translation": "典礼",
+      "sentence": "ritual killing",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "r-other-role",
       "word": "role",
       "display": "Role",
-      "phonetic": "",
-      "translation": "\u89d2\u8272",
-      "sentence": "",
+      "phonetic": "/roʊl/",
+      "translation": "角色",
+      "sentence": "play its role",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "r-other-romance",
       "word": "romance",
       "display": "Romance",
-      "phonetic": "",
-      "translation": "\u7231\u60c5\u6545\u4e8b",
-      "sentence": "",
+      "phonetic": "/ˈroʊmæns/",
+      "translation": "爱情故事",
+      "sentence": "This author romanced his trip to an exotic country",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "r-other-romantic",
       "word": "romantic",
       "display": "Romantic",
-      "phonetic": "",
-      "translation": "\u6d6a\u6f2b\u7684",
-      "sentence": "",
+      "phonetic": "/roʊˈmæntɪk/",
+      "translation": "浪漫的",
+      "sentence": "romantic poetry",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "r-other-rough",
       "word": "rough",
       "display": "Rough",
-      "phonetic": "",
-      "translation": "\u7c97\u7cd9\u7684",
-      "sentence": "",
+      "phonetic": "/rəf/",
+      "translation": "粗糙的",
+      "sentence": "trees with rough bark",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "r-other-rouse",
       "word": "rouse",
       "display": "Rouse",
-      "phonetic": "",
-      "translation": "\u5524\u9192",
-      "sentence": "",
+      "phonetic": "/raʊz/",
+      "translation": "唤醒",
+      "sentence": "He was roused by the drunken men in the street",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "r-other-royal",
       "word": "royal",
       "display": "Royal",
-      "phonetic": "",
-      "translation": "\u7687\u5bb6\u7684",
-      "sentence": "",
+      "phonetic": "/rɔɪəl/",
+      "translation": "皇家的",
+      "sentence": "the royal party",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "r-other-royalty",
       "word": "royalty",
       "display": "Royalty",
-      "phonetic": "",
-      "translation": "\u7687\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˈrɔɪəlti/",
+      "translation": "皇家",
+      "sentence": "the wedding was attended by royalty",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "r-other-ruby",
       "word": "ruby",
       "display": "Ruby",
-      "phonetic": "",
-      "translation": "\u7ea2\u5b9d\u77f3",
-      "sentence": "",
+      "phonetic": "/ˈrubi/",
+      "translation": "红宝石",
+      "sentence": "A ruby is a transparent piece of ruby that has been cut and polished and is valued as a precious gem.",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "r-other-rug",
       "word": "rug",
       "display": "Rug",
-      "phonetic": "",
-      "translation": "\u5730\u6bef",
-      "sentence": "",
+      "phonetic": "/rəg/",
+      "translation": "地毯",
+      "sentence": "A rug is floor covering consisting of a piece of thick heavy fabric (usually with nap or pile).",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "r-other-rumor",
       "word": "rumor",
       "display": "Rumor",
-      "phonetic": "",
-      "translation": "\u4f20\u95fb\uff1b\u8c23\u8a00",
-      "sentence": "",
+      "phonetic": "/ˈrumər/",
+      "translation": "传闻；谣言",
+      "sentence": "It was rumored that the next president would be a woman",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "r-other-run",
       "word": "run",
       "display": "Run",
-      "phonetic": "",
-      "translation": "\u8dd1",
-      "sentence": "",
+      "phonetic": "/rən/",
+      "translation": "跑",
+      "sentence": "the Yankees scored 3 runs in the bottom of the 9th",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "r-other-rural",
       "word": "rural",
       "display": "Rural",
-      "phonetic": "",
-      "translation": "\u4e61\u4e0b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrʊrəl/",
+      "translation": "乡下的",
+      "sentence": "rural people",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "r-other-rush",
       "word": "rush",
       "display": "Rush",
-      "phonetic": "",
-      "translation": "\u51b2",
-      "sentence": "",
+      "phonetic": "/rəʃ/",
+      "translation": "冲",
+      "sentence": "he got a quick rush from injecting heroin",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "r-other-rust",
       "word": "rust",
       "display": "Rust",
-      "phonetic": "",
-      "translation": "\u751f\u9508\u7684",
-      "sentence": "",
+      "phonetic": "/rəst/",
+      "translation": "生锈的",
+      "sentence": "The pipes rusted",
       "tags": [
         "root-family"
       ],
@@ -443,5 +443,6 @@
   "rootLevel": 2,
   "rootPath": "r>r-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

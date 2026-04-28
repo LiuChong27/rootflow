@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-tel",
   "root": "tel",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tel",
+  "descriptionCn": "tel",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-tel-telegram",
       "word": "telegram",
       "display": "Telegram",
-      "phonetic": "",
-      "translation": "\u7535\u62a5",
-      "sentence": "",
+      "phonetic": "/ˈtɛləˌgræm/",
+      "translation": "电报",
+      "sentence": "A telegram is a message transmitted by telegraph.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-tel-telegraph",
       "word": "telegraph",
       "display": "Telegraph",
-      "phonetic": "",
-      "translation": "\u7535\u62a5",
-      "sentence": "",
+      "phonetic": "/ˈtɛləˌgræf/",
+      "translation": "电报",
+      "sentence": "A telegraph is apparatus used to communicate at a distance over a wire (usually in Morse code).",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-tel-telephone",
       "word": "telephone",
       "display": "Telephone",
-      "phonetic": "",
-      "translation": "\u7535\u8bdd",
-      "sentence": "",
+      "phonetic": "/ˈtɛləˌfoʊn/",
+      "translation": "电话",
+      "sentence": "I talked to him on the telephone",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-tel-telescope",
       "word": "telescope",
       "display": "Telescope",
-      "phonetic": "",
-      "translation": "\u671b\u8fdc\u955c",
-      "sentence": "",
+      "phonetic": "/ˈtɛləˌskoʊp/",
+      "translation": "望远镜",
+      "sentence": "In the accident, the cars telescoped",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-tel-tell",
       "word": "tell",
       "display": "Tell",
-      "phonetic": "",
-      "translation": "\u544a\u8bc9",
-      "sentence": "",
+      "phonetic": "/tɛl/",
+      "translation": "告诉",
+      "sentence": "tell me what is bothering you",
       "tags": [
         "root-family"
       ],
@@ -68,8 +68,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-tel",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

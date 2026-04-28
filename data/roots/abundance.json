@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "abundance",
   "root": "abundance",
-  "meaning": "",
-  "descriptionCn": "\u4e30\u5bcc",
-  "updatedAt": "2026-04-15",
+  "meaning": "abundance family",
+  "descriptionCn": "丰富",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abundance",
       "word": "abundance",
       "display": "Abundance",
-      "phonetic": "",
-      "translation": "\u4e30\u5bcc",
-      "sentence": "",
+      "phonetic": "/əˈbəndəns/",
+      "translation": "丰富",
+      "sentence": "an age of abundance",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>apo-ab>abundant>abundance",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

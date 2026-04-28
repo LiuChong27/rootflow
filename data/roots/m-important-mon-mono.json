@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-important-mon-mono",
-  "root": "mono one=uni\u552f\u4e00",
+  "root": "mono one=uni唯一",
   "meaning": "one",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "唯一",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-important-mon-mono-monday",
       "word": "monday",
       "display": "Monday",
-      "phonetic": "",
-      "translation": "\u661f\u671f\u4e00",
-      "sentence": "",
+      "phonetic": "/ˈmənˌdeɪ/",
+      "translation": "星期一",
+      "sentence": "A monday is the second day of the week; the first working day.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-important-mon-mono-monetary",
       "word": "monetary",
       "display": "Monetary",
-      "phonetic": "",
-      "translation": "\u91d1\u878d\u7684\uff1b\u8d27\u5e01\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɑnəˌtɛri/",
+      "translation": "金融的；货币的",
+      "sentence": "monetary rewards",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-important-mon-mono-money",
       "word": "money",
       "display": "Money",
-      "phonetic": "",
-      "translation": "\u94b1",
-      "sentence": "",
+      "phonetic": "/ˈməni/",
+      "translation": "钱",
+      "sentence": "we tried to collect the money he owed us",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "m-important-mon-mono-monopoly",
       "word": "monopoly",
       "display": "Monopoly",
-      "phonetic": "",
-      "translation": "\u5784\u65ad\uff1b\u4e13\u5229",
-      "sentence": "",
+      "phonetic": "/məˈnɑpəli/",
+      "translation": "垄断；专利",
+      "sentence": "a monopoly on silver",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "m-important-mon-mono-monotonous",
       "word": "monotonous",
       "display": "Monotonous",
-      "phonetic": "",
-      "translation": "\u5355\u8c03\u7684",
-      "sentence": "",
+      "phonetic": "/məˈnɑtənəs/",
+      "translation": "单调的",
+      "sentence": "nothing is so monotonous as the sea",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "m-important-mon-mono-month",
       "word": "month",
       "display": "Month",
-      "phonetic": "",
-      "translation": "\u6708\u4efd",
-      "sentence": "",
+      "phonetic": "/mənθ/",
+      "translation": "月份",
+      "sentence": "he paid the bill last month",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "m-important-mon-mono-monthly",
       "word": "monthly",
       "display": "Monthly",
-      "phonetic": "",
-      "translation": "\u6bcf\u6708\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmənθli/",
+      "translation": "每月的",
+      "sentence": "monthly payments",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 4,
   "rootPath": "m>m-important>m-important-mon>m-important-mon-mono",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

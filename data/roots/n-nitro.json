@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-nitro",
-  "root": "nitro\u78b3\u9178\u94a0",
+  "root": "nitro碳酸钠",
   "meaning": "nitro",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "碳酸钠",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-nitro-nitration",
       "word": "nitration",
       "display": "Nitration",
-      "phonetic": "",
-      "translation": "\u785d\u5316\u4f5c\u7528",
-      "sentence": "",
+      "phonetic": "/naɪˈtreɪʃən/",
+      "translation": "硝化作用",
+      "sentence": "Nitration is used here with the sense of \"硝化作用\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-nitro-nitrite",
       "word": "nitrite",
       "display": "Nitrite",
-      "phonetic": "",
-      "translation": "\u4e9a\u785d\u9178\u76d0",
-      "sentence": "",
+      "phonetic": "/nˈɪtraɪt/",
+      "translation": "亚硝酸盐",
+      "sentence": "A nitrite is the radical -NO2 or any compound containing it (such as a salt or ester of nitrous acid).",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-nitro-nitrogen",
       "word": "nitrogen",
       "display": "Nitrogen",
-      "phonetic": "",
-      "translation": "\u6c2e",
-      "sentence": "",
+      "phonetic": "/ˈnaɪtrəʤən/",
+      "translation": "氮",
+      "sentence": "A nitrogen is a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues.",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-nitro",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

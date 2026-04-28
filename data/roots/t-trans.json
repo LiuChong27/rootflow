@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-trans",
   "root": "trans",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "trans",
+  "descriptionCn": "trans",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-trans-thorough",
       "word": "thorough",
       "display": "Thorough",
-      "phonetic": "",
-      "translation": "\u5f7b\u5e95\u7684",
-      "sentence": "",
+      "phonetic": "/θəroʊ/",
+      "translation": "彻底的",
+      "sentence": "our accountant is thorough",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-trans-through",
       "word": "through",
       "display": "Through",
-      "phonetic": "",
-      "translation": "\u7a7f\u8fc7",
-      "sentence": "",
+      "phonetic": "/θru/",
+      "translation": "穿过",
+      "sentence": "after the treatment, the patient is through except for follow-up",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-trans-throughout",
       "word": "throughout",
       "display": "Throughout",
-      "phonetic": "",
-      "translation": "\u8d2f\u7a7f",
-      "sentence": "",
+      "phonetic": "/θruaʊt/",
+      "translation": "贯穿",
+      "sentence": "the play was excellent end-to-end",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-trans-transaction",
       "word": "transaction",
       "display": "Transaction",
-      "phonetic": "",
-      "translation": "\u5904\u7406\uff1b\u4ea4\u6613",
-      "sentence": "",
+      "phonetic": "/trænˈzækʃən/",
+      "translation": "处理；交易",
+      "sentence": "no transactions are possible without him",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-trans-transcend",
       "word": "transcend",
       "display": "Transcend",
-      "phonetic": "",
-      "translation": "\u8d85\u51fa",
-      "sentence": "",
+      "phonetic": "/trænˈsɛnd/",
+      "translation": "超出",
+      "sentence": "Their loyalty exceeds their national bonds",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-trans-transfer",
       "word": "transfer",
       "display": "Transfer",
-      "phonetic": "",
-      "translation": "\u8f6c\u79fb",
-      "sentence": "",
+      "phonetic": "/ˈtrænsfər/",
+      "translation": "转移",
+      "sentence": "the best student was a transfer from LSU",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-trans-transform",
       "word": "transform",
       "display": "Transform",
-      "phonetic": "",
-      "translation": "\u6539\u53d8",
-      "sentence": "",
+      "phonetic": "/ˈtrænsfɔrm/",
+      "translation": "改变",
+      "sentence": "This experience transformed her completely",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "t-trans-transient",
       "word": "transient",
       "display": "Transient",
-      "phonetic": "",
-      "translation": "\u77ed\u6682\u7684",
-      "sentence": "",
+      "phonetic": "/ˈtrænʒənt/",
+      "translation": "短暂的",
+      "sentence": "transient laborers",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "t-trans-transistor",
       "word": "transistor",
       "display": "Transistor",
-      "phonetic": "",
-      "translation": "\u6676\u4f53\u7ba1",
-      "sentence": "",
+      "phonetic": "/trænˈzɪstər/",
+      "translation": "晶体管",
+      "sentence": "A transistor is a semiconductor device capable of amplification.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "t-trans-translate",
       "word": "translate",
       "display": "Translate",
-      "phonetic": "",
-      "translation": "\u7ffb\u8bd1",
-      "sentence": "",
+      "phonetic": "/trænzˈleɪt/",
+      "translation": "翻译",
+      "sentence": "I have to translate when my in-laws from Austria visit the U.S.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "t-trans-translation",
       "word": "translation",
       "display": "Translation",
-      "phonetic": "",
-      "translation": "\u7ffb\u8bd1",
-      "sentence": "",
+      "phonetic": "/trænzˈleɪʃən/",
+      "translation": "翻译",
+      "sentence": "a photograph is a translation of a scene onto a two-dimensional surface",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "t-trans-transmission",
       "word": "transmission",
       "display": "Transmission",
-      "phonetic": "",
-      "translation": "\u53d1\u5c04",
-      "sentence": "",
+      "phonetic": "/trænzˈmɪʃən/",
+      "translation": "发射",
+      "sentence": "A transmission is the act of sending a message; causing a message to be transmitted.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "t-trans-transmit",
       "word": "transmit",
       "display": "Transmit",
-      "phonetic": "",
-      "translation": "\u53d1\u5c04",
-      "sentence": "",
+      "phonetic": "/trænzˈmɪt/",
+      "translation": "发射",
+      "sentence": "transmit a message",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "t-trans-transparent",
       "word": "transparent",
       "display": "Transparent",
-      "phonetic": "",
-      "translation": "\u900f\u660e\u7684",
-      "sentence": "",
+      "phonetic": "/trænˈspɛrənt/",
+      "translation": "透明的",
+      "sentence": "transparent crystal",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "t-trans-transplant",
       "word": "transplant",
       "display": "Transplant",
-      "phonetic": "",
-      "translation": "\u8fd0\u8f93",
-      "sentence": "",
+      "phonetic": "/trænˈsplænt/",
+      "translation": "运输",
+      "sentence": "he had a kidney transplant",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "t-trans-transport",
       "word": "transport",
       "display": "Transport",
-      "phonetic": "",
-      "translation": "\u8fd0\u8f93",
-      "sentence": "",
+      "phonetic": "/ˈtrænspɔrt/",
+      "translation": "运输",
+      "sentence": "listening to sweet music in a perfect rapture",
       "tags": [
         "root-family"
       ],
@@ -200,8 +200,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-trans",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-home",
-  "root": "home\u5bb6",
+  "root": "home家",
   "meaning": "home",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "家",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-home-hotel",
       "word": "hotel",
       "display": "Hotel",
-      "phonetic": "",
-      "translation": "\u65c5\u9986",
-      "sentence": "",
+      "phonetic": "/hoʊˈtɛl/",
+      "translation": "旅馆",
+      "sentence": "A hotel is a building where travelers can pay for lodging and meals and other services.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-home-house",
       "word": "house",
       "display": "House",
-      "phonetic": "",
-      "translation": "\u623f\u5c4b\uff1b\u5546\u4e1a\u673a\u6784\uff1b\u8bae\u9662",
-      "sentence": "",
+      "phonetic": "/haʊs/",
+      "translation": "房屋；商业机构；议院",
+      "sentence": "he has a house on Cape Cod",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-home-household",
       "word": "household",
       "display": "Household",
-      "phonetic": "",
-      "translation": "\u5bb6\u5ead\uff1b\u52a0\u957f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhaʊsˌhoʊld/",
+      "translation": "家庭；加长的",
+      "sentence": "It was a good Christian household",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-home-housing",
       "word": "housing",
       "display": "Housing",
-      "phonetic": "",
-      "translation": "\u4f4f\u623f\uff1b\u9632\u62a4\u7f69",
-      "sentence": "",
+      "phonetic": "/ˈhaʊzɪŋ/",
+      "translation": "住房；防护罩",
+      "sentence": "This box houses the gears",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-home-hut",
       "word": "hut",
       "display": "Hut",
-      "phonetic": "",
-      "translation": "\u5c0f\u5c4b\uff1b\u68da\u5c4b",
-      "sentence": "",
+      "phonetic": "/hət/",
+      "translation": "小屋；棚屋",
+      "sentence": "A hut is temporary military shelter.",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "h>h-home",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

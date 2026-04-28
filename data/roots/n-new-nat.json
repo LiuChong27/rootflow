@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-new-nat",
-  "root": "nat\u8bde\u751f",
+  "root": "nat诞生",
   "meaning": "birth",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "诞生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-new-nat-nation",
       "word": "nation",
       "display": "Nation",
-      "phonetic": "",
-      "translation": "\u6c11\u65cf\uff1b\u56fd\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˈneɪʃən/",
+      "translation": "民族；国家",
+      "sentence": "African nations",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-new-nat-nationality",
       "word": "nationality",
       "display": "Nationality",
-      "phonetic": "",
-      "translation": "\u56fd\u7c4d\uff1b\u6c11\u65cf",
-      "sentence": "",
+      "phonetic": "/ˌnæʃəˈnælɪti/",
+      "translation": "国籍；民族",
+      "sentence": "immigrants of the same nationality often seek each other out",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-new-nat-native",
       "word": "native",
       "display": "Native",
-      "phonetic": "",
-      "translation": "\u672c\u5730\u7684\uff1b\u5929\u751f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈneɪtɪv/",
+      "translation": "本地的；天生的",
+      "sentence": "the art of the natives of the northwest coast",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-new-nat-natural",
       "word": "natural",
       "display": "Natural",
-      "phonetic": "",
-      "translation": "\u6b63\u5e38\u7684\uff1b\u5929\u7136\u7684\uff1b\u56fa\u6709\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnæʧərəl/",
+      "translation": "正常的；天然的；固有的",
+      "sentence": "he's a natural for the job",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-new-nat-nature",
       "word": "nature",
       "display": "Nature",
-      "phonetic": "",
-      "translation": "\u5927\u81ea\u7136\uff1b\u672c\u8d28\uff1b\u5929\u6027",
-      "sentence": "",
+      "phonetic": "/ˈneɪʧər/",
+      "translation": "大自然；本质；天性",
+      "sentence": "it is the nature of fire to burn",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 3,
   "rootPath": "n>n-new>n-new-nat",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

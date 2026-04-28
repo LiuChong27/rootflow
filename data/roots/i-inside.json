@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "i-inside",
-  "root": "\u91cc\u9762",
+  "root": "里面",
   "meaning": "inside",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "里面",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "i-inside-include",
       "word": "include",
       "display": "Include",
-      "phonetic": "",
-      "translation": "\u5305\u542b",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈklud/",
+      "translation": "包含",
+      "sentence": "The list includes the names of many famous writers",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "i-inside-inclusive",
       "word": "inclusive",
       "display": "Inclusive",
-      "phonetic": "",
-      "translation": "\u5305\u62ec\u7684\uff1b\u5305\u542b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈklusɪv/",
+      "translation": "包括的；包含的",
+      "sentence": "an inclusive art form",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "i-inside-ingredient",
       "word": "ingredient",
       "display": "Ingredient",
-      "phonetic": "",
-      "translation": "\u7ec4\u6210\u90e8\u5206\uff1b\u914d\u6599\uff1b\u8981\u7d20",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈgridiənt/",
+      "translation": "组成部分；配料；要素",
+      "sentence": "humor: an effective ingredient of a speech",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "i-inside-inhabit",
       "word": "inhabit",
       "display": "Inhabit",
-      "phonetic": "",
-      "translation": "\u5c45\u4f4f\u4e8e\uff1b\u6816\u606f\u4e8e",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈhæbət/",
+      "translation": "居住于；栖息于",
+      "sentence": "The people inhabited the islands that are now deserted",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "i-inside-inhabitant",
       "word": "inhabitant",
       "display": "Inhabitant",
-      "phonetic": "",
-      "translation": "\u5c45\u6c11\uff1b\u4f4f\u6237",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈhæbɪtənt/",
+      "translation": "居民；住户",
+      "sentence": "An inhabitant is a person who inhabits a particular place.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "i-inside-inherent",
       "word": "inherent",
       "display": "Inherent",
-      "phonetic": "",
-      "translation": "\u56fa\u6709\u7684\uff1b\u5929\u751f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈhɛrənt/",
+      "translation": "固有的；天生的",
+      "sentence": "shortcomings inherent in our approach",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "i-inside-inn",
       "word": "inn",
       "display": "Inn",
-      "phonetic": "",
-      "translation": "\u5c0f\u65c5\u9986\uff1b\u5ba2\u6808",
-      "sentence": "",
+      "phonetic": "/ɪn/",
+      "translation": "小旅馆；客栈",
+      "sentence": "An inn is a hotel providing overnight lodging for travelers.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "i-inside-inner",
       "word": "inner",
       "display": "Inner",
-      "phonetic": "",
-      "translation": "\u5185\u90e8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnər/",
+      "translation": "内部的",
+      "sentence": "Beethoven's manuscript looks like a bloody record of a tremendous inner battle",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "i-inside-insight",
       "word": "insight",
       "display": "Insight",
-      "phonetic": "",
-      "translation": "\u6d1e\u5bdf\u529b",
-      "sentence": "",
+      "phonetic": "/ˈɪnˌsaɪt/",
+      "translation": "洞察力",
+      "sentence": "An insight is clear or deep perception of a situation.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "i-inside-instinct",
       "word": "instinct",
       "display": "Instinct",
-      "phonetic": "",
-      "translation": "\u672c\u80fd\uff1b\u76f4\u89c9",
-      "sentence": "",
+      "phonetic": "/ˈɪnstɪŋkt/",
+      "translation": "本能；直觉",
+      "sentence": "the spawning instinct in salmon",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "i-inside-institute",
       "word": "institute",
       "display": "Institute",
-      "phonetic": "",
-      "translation": "\u5b66\u4f1a\uff1b\u7814\u7a76\u6240",
-      "sentence": "",
+      "phonetic": "/ˈɪnstɪˌtut/",
+      "translation": "学会；研究所",
+      "sentence": "institute proceedings",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "i-inside-institution",
       "word": "institution",
       "display": "Institution",
-      "phonetic": "",
-      "translation": "\u5b66\u6821\uff1b\u516c\u5171\u673a\u6784\uff1b\u60ef\u4f8b",
-      "sentence": "",
+      "phonetic": "/ˌɪnstɪˈtuʃən/",
+      "translation": "学校；公共机构；惯例",
+      "sentence": "the institution of marriage",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "i-inside-interact",
       "word": "interact",
       "display": "Interact",
-      "phonetic": "",
-      "translation": "\u4e92\u76f8\u4f5c\u7528",
-      "sentence": "",
+      "phonetic": "/ˌɪnərˈækt/",
+      "translation": "互相作用",
+      "sentence": "He should interact more with his colleagues",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "i-inside-intercourse",
       "word": "intercourse",
       "display": "Intercourse",
-      "phonetic": "",
-      "translation": "\u4ea4\u6d41",
-      "sentence": "",
+      "phonetic": "/ˈɪnərˌkɔrs/",
+      "translation": "交流",
+      "sentence": "An intercourse is communication between individuals.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "i-inside-interface",
       "word": "interface",
       "display": "Interface",
-      "phonetic": "",
-      "translation": "\u76f8\u4e92\u8054\u7cfb\uff1b\u5206\u754c\u9762",
-      "sentence": "",
+      "phonetic": "/ˈɪnərˌfeɪs/",
+      "translation": "相互联系；分界面",
+      "sentence": "the interface between chemistry and biology",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "i-inside-interfere",
       "word": "interfere",
       "display": "Interfere",
-      "phonetic": "",
-      "translation": "\u5e72\u6d89\uff1b\u59a8\u788d",
-      "sentence": "",
+      "phonetic": "/ˌɪnərˈfɪr/",
+      "translation": "干涉；妨碍",
+      "sentence": "Your talking interferes with my work!",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "i-inside-interference",
       "word": "interference",
       "display": "Interference",
-      "phonetic": "",
-      "translation": "\u5e72\u6d89\uff1b\u5e72\u9884",
-      "sentence": "",
+      "phonetic": "/ˌɪnərˈfɪrəns/",
+      "translation": "干涉；干预",
+      "sentence": "he ran interference for the quarterback",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "i-inside-interim",
       "word": "interim",
       "display": "Interim",
-      "phonetic": "",
-      "translation": "\u4e2d\u95f4\u7684\uff1b\u6682\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnərəm/",
+      "translation": "中间的；暂时的",
+      "sentence": "an interim agreement",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "i-inside-interior",
       "word": "interior",
       "display": "Interior",
-      "phonetic": "",
-      "translation": "\u5185\u90e8\u7684\uff1b\u91cc\u9762\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɪriər/",
+      "translation": "内部的；里面的",
+      "sentence": "an interior scene",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "i-inside-intermediate",
       "word": "intermediate",
       "display": "Intermediate",
-      "phonetic": "",
-      "translation": "\u4e2d\u95f4\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnərˈmidiɪt/",
+      "translation": "中间的",
+      "sentence": "going from sitting to standing without intermediate pushes with the hands",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "i-inside-intermittent",
       "word": "intermittent",
       "display": "Intermittent",
-      "phonetic": "",
-      "translation": "\u95f4\u6b47\u7684\uff1b\u65ad\u65ad\u7eed\u7eed\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪntərˈmɪtənt/",
+      "translation": "间歇的；断断续续的",
+      "sentence": "intermittent rain showers",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "i-inside-internal",
       "word": "internal",
       "display": "Internal",
-      "phonetic": "",
-      "translation": "\u5185\u90e8\u7684\uff1b\u5185\u653f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtərnəl/",
+      "translation": "内部的；内政的",
+      "sentence": "internal organs",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "i-inside-international",
       "word": "international",
       "display": "International",
-      "phonetic": "",
-      "translation": "\u56fd\u9645\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnərˈnæʃənɑl/",
+      "translation": "国际的",
+      "sentence": "international affairs",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "i-inside-interrupt",
       "word": "interrupt",
       "display": "Interrupt",
-      "phonetic": "",
-      "translation": "\u4e2d\u65ad\uff1b\u963b\u788d",
-      "sentence": "",
+      "phonetic": "/ˌɪntərˈəpt/",
+      "translation": "中断；阻碍",
+      "sentence": "We interrupt the program for the following messages",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "i-inside-intersection",
       "word": "intersection",
       "display": "Intersection",
-      "phonetic": "",
-      "translation": "\u76f8\u4ea4\uff1b\u5341\u5b57\u8def\u53e3",
-      "sentence": "",
+      "phonetic": "/ˌɪntərˈsɛkʃən/",
+      "translation": "相交；十字路口",
+      "sentence": "the set of red hats is the intersection of the set of hats and the set of red things",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "i-inside-interval",
       "word": "interval",
       "display": "Interval",
-      "phonetic": "",
-      "translation": "\u95f4\u6b47\uff1b\u95f4\u9694",
-      "sentence": "",
+      "phonetic": "/ˈɪntərvəl/",
+      "translation": "间歇；间隔",
+      "sentence": "fragile items require separation and cushioning",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "i-inside-intervene",
       "word": "intervene",
       "display": "Intervene",
-      "phonetic": "",
-      "translation": "\u5e72\u6d89\uff1b\u63d2\u5165",
-      "sentence": "",
+      "phonetic": "/ˌɪntərˈvin/",
+      "translation": "干涉；插入",
+      "sentence": "Why did the U.S. not intervene earlier in WW II?",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "i-inside-interview",
       "word": "interview",
       "display": "Interview",
-      "phonetic": "",
-      "translation": "\u63a5\u89c1\uff1b\u4f1a\u89c1\uff1b\u91c7\u8bbf\uff1b\u9762\u8bd5",
-      "sentence": "",
+      "phonetic": "/ˈɪntərvˌju/",
+      "translation": "接见；会见；采访；面试",
+      "sentence": "my interviews with teenagers revealed a weakening of religious bonds",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "i-inside-intimate-close",
       "word": "intimate",
       "display": "Intimate",
-      "phonetic": "",
-      "translation": "\u4eb2\u5bc6\u7684\uff1b\u5bc6\u5207\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnɪmət/",
+      "translation": "亲密的；密切的",
+      "sentence": "intimate friend",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "i-inside-intrigue",
       "word": "intrigue",
       "display": "Intrigue",
-      "phonetic": "",
-      "translation": "\u9634\u8c0b\uff1b\u5bc6\u8c0b",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtrig/",
+      "translation": "阴谋；密谋",
+      "sentence": "An intrigue is a crafty and involved plot to achieve your (usually sinister) ends.",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "i-inside-intrinsic",
       "word": "intrinsic",
       "display": "Intrinsic",
-      "phonetic": "",
-      "translation": "\u56fa\u6709\u7684\uff1b\u672c\u8d28\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtrɪnsɪk/",
+      "translation": "固有的；本质的",
+      "sentence": "form was treated as something intrinsic, as the very essence of the thing",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "i-inside-involve",
       "word": "involve",
       "display": "Involve",
-      "phonetic": "",
-      "translation": "\u5377\u5165\uff1b\u8fde\u7d2f",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvɑlv/",
+      "translation": "卷入；连累",
+      "sentence": "Don't involve me in your family affairs!",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "i-inside-inward",
       "word": "inward",
       "display": "Inward",
-      "phonetic": "",
-      "translation": "\u5411\u5185",
-      "sentence": "",
+      "phonetic": "/ˈɪnwərd/",
+      "translation": "向内",
+      "sentence": "a concern with inward reflections",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "i-inside-irrespective",
       "word": "irrespective",
       "display": "Irrespective",
-      "phonetic": "",
-      "translation": "\u4e0d\u987e\u7684\uff1b\u65e0\u5173\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪrəˈspɛktɪv/",
+      "translation": "不顾的；无关的",
+      "sentence": "he carried on regardless of the difficulties",
       "tags": [
         "root-family"
       ],
@@ -419,5 +419,6 @@
   "rootLevel": 2,
   "rootPath": "i>i-inside",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,7 +2,7 @@
 
 RootFlow is a `uni-app` WeChat mini program for root-based vocabulary learning. This repository now includes:
 
-- WeChat cloud login scaffolding
+- uniCloud-backed WeChat login scaffolding
 - Cloud-backed learning progress sync
 - Real local/cloud learning stats
 - Data import and shard generation scripts
@@ -11,35 +11,43 @@ RootFlow is a `uni-app` WeChat mini program for root-based vocabulary learning. 
 ## Product modules
 
 - `pages/today`: today landing page
+- `pages/downloads`: paid PDF download center and entitlement management
 - `pages/roots`: interactive root mind tree
-- `pages/vibes`: expression scenarios
+- `pages/vibes`: quarrel/comeback expression library
 - `pages/my`: profile, stats, login, and cloud sync
-- `pages/cloud-config`: in-app cloud environment setup
 
 ## Real user layer
 
-The app now supports a practical WeChat-cloud user flow:
+The app now supports a practical uniCloud-backed user flow:
 
 1. Tap login on `My`
-2. Get `openid` from cloud function `authLogin`
+2. Exchange a WeChat login code for `openid` inside uniCloud `authLogin`
 3. Optionally persist nickname and avatar with `saveUserProfile`
 4. Sync learning progress with `syncProgress`
 5. Pull profile, progress, activity, and stats with `getUserSnapshot`
+6. Serve paid PDF download entitlements, orders, and ticketed downloads through the download center
 
 ### Cloud collections
 
 - `rf_users`: user profile and sync timestamps
 - `rf_progress`: one progress row per user and word
 - `rf_learning_activity`: one row per user and active day
+- `rf_download_assets`: A-Z PDF catalog metadata
+- `rf_download_entitlements`: membership and remaining credits
+- `rf_download_orders`: purchase orders for download products
+- `rf_download_tickets`: temporary per-file download tickets
 
-### Cloud setup
+### uniCloud setup
 
-1. Create a WeChat cloud environment in the WeChat DevTools console.
-2. Deploy the functions under `cloudfunctions/`.
-3. Set a real cloud env id in the app through `My -> Cloud Env Setup`.
-4. Open the mini program in WeChat DevTools and log in from `pages/my/my`.
+1. Open the project in HBuilderX.
+2. Bind the project to a `uniCloud` Alibaba Cloud service space.
+3. Configure `uniCloud-aliyun/cloudfunctions/common/rootflow-config/index.js` with the real WeChat mini program `appId` and `appSecret`.
+4. Upload the cloud functions under `uniCloud-aliyun/cloudfunctions/`.
+5. Initialize `uniCloud-aliyun/database` in HBuilderX to create `rf_users`, `rf_progress`, and `rf_learning_activity`.
+6. Open the mini program in WeChat DevTools and log in from `pages/my/my`.
 
-Note: the app expects WeChat cloud capability at runtime. In non-WeChat environments it falls back to local-only progress.
+Detailed setup steps live in `docs/unicloud-setup.md`.
+Download-center specific setup notes live in `docs/download-center-setup.md`.
 
 ## Local development
 
@@ -54,6 +62,7 @@ npm test
 
 Useful scripts already in the repo:
 
+- `scripts/build-download-assets-manifest.mjs`
 - `scripts/validate-wordbank.mjs`
 - `scripts/import-rootflow-wordbank.mjs`
 - `scripts/slice-wordbank-shards.mjs`
@@ -68,6 +77,6 @@ Useful scripts already in the repo:
 
 ## Deployment notes
 
-- Cloud functions use `wx-server-sdk`
+- uniCloud functions live under `uniCloud-aliyun/cloudfunctions`
 - Generated build output under `unpackage/` is ignored
 - Large generated data under `data/index`, `data/roots`, and `data/shards` is excluded from formatting and lint noise

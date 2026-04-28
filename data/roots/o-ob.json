@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-ob",
-  "root": "ob=ab\u8fdc\u79bb\u52a0\u5f3a",
+  "root": "ob=ab远离加强",
   "meaning": "away, strengthen",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "远离加强",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-ob-obedience",
       "word": "obedience",
       "display": "Obedience",
-      "phonetic": "",
-      "translation": "\u670d\u4ece",
-      "sentence": "",
+      "phonetic": "/oʊˈbidiəns/",
+      "translation": "服从",
+      "sentence": "their children were never very strong on obedience",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-ob-obedient",
       "word": "obedient",
       "display": "Obedient",
-      "phonetic": "",
-      "translation": "\u670d\u4ece\u7684",
-      "sentence": "",
+      "phonetic": "/oʊˈbidiənt/",
+      "translation": "服从的",
+      "sentence": "an obedient soldier",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-ob-obey",
       "word": "obey",
       "display": "Obey",
-      "phonetic": "",
-      "translation": "\u670d\u4ece",
-      "sentence": "",
+      "phonetic": "/oʊˈbeɪ/",
+      "translation": "服从",
+      "sentence": "To obey is to be obedient to.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-ob-object",
       "word": "object",
       "display": "Object",
-      "phonetic": "",
-      "translation": "\u7269\u4f53\uff1b\u5ba2\u4f53\uff1b\u5bbe\u8bed",
-      "sentence": "",
+      "phonetic": "/ˈɑbʤɛkt/",
+      "translation": "物体；客体；宾语",
+      "sentence": "it was full of rackets, balls and other objects",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-ob-objection",
       "word": "objection",
       "display": "Objection",
-      "phonetic": "",
-      "translation": "\u53cd\u5bf9\uff1b\u5f02\u8bae",
-      "sentence": "",
+      "phonetic": "/əˈbʤɛkʃən/",
+      "translation": "反对；异议",
+      "sentence": "An objection is the act of expressing earnest opposition or protest.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "o-ob-objective",
       "word": "objective",
       "display": "Objective",
-      "phonetic": "",
-      "translation": "\u76ee\u6807\uff1b\u5ba2\u89c2\u7684",
-      "sentence": "",
+      "phonetic": "/əˈbʤɛktɪv/",
+      "translation": "目标；客观的",
+      "sentence": "an objective appraisal",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "o-ob-obligation",
       "word": "obligation",
       "display": "Obligation",
-      "phonetic": "",
-      "translation": "\u4e49\u52a1\uff1b\u8d23\u4efb",
-      "sentence": "",
+      "phonetic": "/ˌɑbləˈgeɪʃən/",
+      "translation": "义务；责任",
+      "sentence": "every right implies a responsibility; every opportunity, an obligation; every possession, a duty",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "o-ob-oblige",
       "word": "oblige",
       "display": "Oblige",
-      "phonetic": "",
-      "translation": "\u5f3a\u8feb\uff1b\u8feb\u4f7f",
-      "sentence": "",
+      "phonetic": "/əˈblaɪʤ/",
+      "translation": "强迫；迫使",
+      "sentence": "We had to oblige him",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "o-ob-obscure",
       "word": "obscure",
       "display": "Obscure",
-      "phonetic": "",
-      "translation": "\u6666\u6da9\u7684",
-      "sentence": "",
+      "phonetic": "/əbˈskjʊr/",
+      "translation": "晦涩的",
+      "sentence": "The stars are obscured by the clouds",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "o-ob-observation",
       "word": "observation",
       "display": "Observation",
-      "phonetic": "",
-      "translation": "\u89c2\u5bdf\u529b",
-      "sentence": "",
+      "phonetic": "/ˌɑbzərˈveɪʃən/",
+      "translation": "观察力",
+      "sentence": "he reported his observations to the mayor",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "o-ob-observe",
       "word": "observe",
       "display": "Observe",
-      "phonetic": "",
-      "translation": "\u89c2\u5bdf",
-      "sentence": "",
+      "phonetic": "/əbˈzərv/",
+      "translation": "观察",
+      "sentence": "She observed that his presentation took up too much time",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "o-ob-obsession",
       "word": "obsession",
       "display": "Obsession",
-      "phonetic": "",
-      "translation": "\u8ff7\u4f4f\uff1b\u56f0\u6270",
-      "sentence": "",
+      "phonetic": "/əbˈsɛʃən/",
+      "translation": "迷住；困扰",
+      "sentence": "her compulsion to wash her hands repeatedly",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "o-ob-obsolete",
       "word": "obsolete",
       "display": "Obsolete",
-      "phonetic": "",
-      "translation": "\u5df2\u5e9f\u5f03\u7684\uff1b\u8fc7\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɑbsəˈlit/",
+      "translation": "已废弃的；过时的",
+      "sentence": "obsolete words",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "o-ob-obstacle",
       "word": "obstacle",
       "display": "Obstacle",
-      "phonetic": "",
-      "translation": "\u969c\u788d\u7269",
-      "sentence": "",
+      "phonetic": "/ˈɑbstəkəl/",
+      "translation": "障碍物",
+      "sentence": "lack of imagination is an obstacle to one's advancement",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "o-ob-obstruct",
       "word": "obstruct",
       "display": "Obstruct",
-      "phonetic": "",
-      "translation": "\u963b\u788d\u7269",
-      "sentence": "",
+      "phonetic": "/əbˈstrəkt/",
+      "translation": "阻碍物",
+      "sentence": "obstruct the path",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "o-ob-obstruction",
       "word": "obstruction",
       "display": "Obstruction",
-      "phonetic": "",
-      "translation": "\u59a8\u788d\uff1b\u969c\u788d\u7269",
-      "sentence": "",
+      "phonetic": "/əbˈstrəkʃən/",
+      "translation": "妨碍；障碍物",
+      "sentence": "the filibuster was a major obstruction to the success of their plan",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "o-ob-obtain",
       "word": "obtain",
       "display": "Obtain",
-      "phonetic": "",
-      "translation": "\u83b7\u5f97",
-      "sentence": "",
+      "phonetic": "/əbˈteɪn/",
+      "translation": "获得",
+      "sentence": "How did you obtain the visa?",
       "tags": [
         "root-family"
       ],
@@ -215,5 +215,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-ob",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

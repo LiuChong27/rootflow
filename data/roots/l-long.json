@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "l-long",
-  "root": "long\u957f",
+  "root": "long长",
   "meaning": "long",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "长",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "l-long-belong",
       "word": "belong",
       "display": "Belong",
-      "phonetic": "",
-      "translation": "\u5c5e\u4e8e",
-      "sentence": "",
+      "phonetic": "/bɪˈlɔŋ/",
+      "translation": "属于",
+      "sentence": "This book belongs to me",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "l-long-length",
       "word": "length",
       "display": "Length",
-      "phonetic": "",
-      "translation": "\u957f\u5ea6",
-      "sentence": "",
+      "phonetic": "/lɛŋθ/",
+      "translation": "长度",
+      "sentence": "the length of the table was 5 feet",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "l-long-lengthen",
       "word": "lengthen",
       "display": "Lengthen",
-      "phonetic": "",
-      "translation": "\u5ef6\u957f",
-      "sentence": "",
+      "phonetic": "/ˈlɛŋθən/",
+      "translation": "延长",
+      "sentence": "Lengthen this skirt, please",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "l-long-longitude",
       "word": "longitude",
       "display": "Longitude",
-      "phonetic": "",
-      "translation": "\u7ecf\u5ea6",
-      "sentence": "",
+      "phonetic": "/ˈlɑnʤəˌtud/",
+      "translation": "经度",
+      "sentence": "A longitude is the angular distance between a point on any meridian and the prime meridian at Greenwich.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "l-long-prolong",
       "word": "prolong",
       "display": "Prolong",
-      "phonetic": "",
-      "translation": "\u5ef6\u957f",
-      "sentence": "",
+      "phonetic": "/prəˈlɔŋ/",
+      "translation": "延长",
+      "sentence": "We prolonged our stay",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "l>l-long",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

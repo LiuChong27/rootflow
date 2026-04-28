@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "i-summary",
-  "root": "\u5c0f\u7ed3",
+  "root": "小结",
   "meaning": "summary",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "小结",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "i-summary-en",
-      "word": "en \u8fdb\u5165",
-      "display": "en \u8fdb\u5165",
-      "phonetic": "",
-      "translation": "\u8fdb\u5165",
-      "sentence": "",
+      "word": "en 进入",
+      "display": "en 进入",
+      "phonetic": "/ɛn 进入/",
+      "translation": "进入",
+      "sentence": "En 进入 is used here with the sense of \"进入\".",
       "tags": [
         "root-family"
       ],
@@ -20,11 +20,11 @@
     },
     {
       "id": "i-summary-in",
-      "word": "in \u8fdb\u5165 \u4f7f\u52a8 \u5426\u5b9a \u52a0\u5f3a \u4f7f\u52a8",
-      "display": "in \u8fdb\u5165 \u4f7f\u52a8 \u5426\u5b9a \u52a0\u5f3a \u4f7f\u52a8",
-      "phonetic": "",
-      "translation": "\u8fdb\u5165\uff1b\u4f7f\u52a8\uff1b\u5426\u5b9a\uff1b\u52a0\u5f3a\uff1b\u4f7f\u52a8",
-      "sentence": "",
+      "word": "in 进入 使动 否定 加强 使动",
+      "display": "in 进入 使动 否定 加强 使动",
+      "phonetic": "/ɪn 进入 使动 否定 加强 使动/",
+      "translation": "进入；使动；否定；加强；使动",
+      "sentence": "In 进入 使动 否定 加强 使动 is used here with the sense of \"进入；使动；否定；加强；使动\".",
       "tags": [
         "root-family"
       ],
@@ -32,11 +32,11 @@
     },
     {
       "id": "i-summary-ir-il-im",
-      "word": "=ir il im \u5426\u5b9a",
-      "display": "=ir il im \u5426\u5b9a",
-      "phonetic": "",
-      "translation": "\u5426\u5b9a",
-      "sentence": "",
+      "word": "=ir il im 否定",
+      "display": "=ir il im 否定",
+      "phonetic": "/ir ɪl ɪm 否定/",
+      "translation": "否定",
+      "sentence": "The root  ir il im 否定 is associated with \"summary\" in words like en 进入, in 进入 使动 否定 加强 使动, and un 否定.",
       "tags": [
         "root-family"
       ],
@@ -44,11 +44,11 @@
     },
     {
       "id": "i-summary-un",
-      "word": "un \u5426\u5b9a",
-      "display": "un \u5426\u5b9a",
-      "phonetic": "",
-      "translation": "\u5426\u5b9a",
-      "sentence": "",
+      "word": "un 否定",
+      "display": "un 否定",
+      "phonetic": "/ˈjuˈɛn 否定/",
+      "translation": "否定",
+      "sentence": "Un 否定 is used here with the sense of \"否定\".",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 2,
   "rootPath": "i>i-summary",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "alto",
   "root": "alto",
-  "meaning": "",
-  "descriptionCn": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
-  "updatedAt": "2026-04-15",
+  "meaning": "alto family",
+  "descriptionCn": "女低音；次高音",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "alto-alto-2",
       "word": "alto",
       "display": "Alto",
-      "phonetic": "",
-      "translation": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
-      "sentence": "",
+      "phonetic": "/ˈæltoʊ/",
+      "translation": "女低音；次高音",
+      "sentence": "alto clarinet or recorder",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>alt>alto",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -3,16 +3,16 @@
   "rootId": "antrop",
   "root": "antrop",
   "meaning": "human",
-  "descriptionCn": "\u4eba\u7c7b",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "人类",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "anthropology",
       "word": "anthropology",
       "display": "Anthropology",
-      "phonetic": "",
-      "translation": "\u4eba\u7c7b\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌænθrəˈpɑləʤi/",
+      "translation": "人类学",
+      "sentence": "An anthropology is the social science that studies the origins and social relationships of human beings.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-other>antrop",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

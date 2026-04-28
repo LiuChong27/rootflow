@@ -2,13 +2,14 @@
   "version": 1,
   "rootId": "t-tect",
   "root": "tect",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tect",
+  "descriptionCn": "tect",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "t",
+  "parentRootId": "",
   "rootLevel": 1,
-  "rootPath": "t>t-tect",
+  "rootPath": "t-tect",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

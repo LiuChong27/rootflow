@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "approve",
   "root": "approve",
-  "meaning": "",
-  "descriptionCn": "\u8d5e\u6210",
-  "updatedAt": "2026-04-15",
+  "meaning": "approve family",
+  "descriptionCn": "赞成",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "approve-approve-2",
       "word": "approve",
       "display": "Approve",
-      "phonetic": "",
-      "translation": "\u8d5e\u6210",
-      "sentence": "",
+      "phonetic": "/əˈpruv/",
+      "translation": "赞成",
+      "sentence": "I approve of his educational policies",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-al>approve",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

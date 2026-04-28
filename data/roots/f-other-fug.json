@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-other-fug",
-  "root": "fug=flee\u9003\u6563",
+  "root": "fug=flee逃散",
   "meaning": "fug",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "逃散",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-other-fug-defloration",
       "word": "defloration",
       "display": "Defloration",
-      "phonetic": "",
-      "translation": "\u73b7\u6c61",
-      "sentence": "",
+      "phonetic": "/dɪflˌɔrˈeɪʃʌn/",
+      "translation": "玷污",
+      "sentence": "A defloration is an act that despoils the innocence or beauty of something.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-other-fug-febrifuge",
       "word": "febrifuge",
       "display": "Febrifuge",
-      "phonetic": "",
-      "translation": "\u9000\u70ed\u836f",
-      "sentence": "",
+      "phonetic": "/fˈɛbrʌfjˌudʒ/",
+      "translation": "退热药",
+      "sentence": "A febrifuge is any medicine that lowers body temperature to prevent or alleviate fever.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-other-fug-fugitive",
       "word": "fugitive",
       "display": "Fugitive",
-      "phonetic": "",
-      "translation": "\u9003\u4ea1\u7684",
-      "sentence": "",
+      "phonetic": "/fˈjuʤɪtɪv/",
+      "translation": "逃亡的",
+      "sentence": "fugitives from the sweatshops",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-other-fug-lucifuge",
       "word": "lucifuge",
       "display": "Lucifuge",
-      "phonetic": "",
-      "translation": "\u907f\u5149",
-      "sentence": "",
+      "phonetic": "/lˈusʌfjˌudʒ/",
+      "translation": "避光",
+      "sentence": "Lucifuge is used here with the sense of \"避光\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-other-fug-lucifugous",
       "word": "lucifugous",
       "display": "Lucifugous",
-      "phonetic": "",
-      "translation": "\u907f\u5149\u7684",
-      "sentence": "",
+      "phonetic": "/lusˈɪfɪgus/",
+      "translation": "避光的",
+      "sentence": "If something is lucifugous, it is light-avoiding.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-other-fug-refuge",
       "word": "refuge",
       "display": "Refuge",
-      "phonetic": "",
-      "translation": "\u907f\u96be\u6240",
-      "sentence": "",
+      "phonetic": "/ˈrɛfjuʤ/",
+      "translation": "避难所",
+      "sentence": "took refuge in lying",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-other-fug-refugee",
       "word": "refugee",
       "display": "Refugee",
-      "phonetic": "",
-      "translation": "\u96be\u6c11",
-      "sentence": "",
+      "phonetic": "/ˈrɛfjuʤi/",
+      "translation": "难民",
+      "sentence": "A refugee is an exile who flees for safety.",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-other>f-other-fug",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "antenatal",
   "root": "antenatal",
-  "meaning": "",
-  "descriptionCn": "\u51fa\u751f\u524d",
-  "updatedAt": "2026-04-15",
+  "meaning": "antenatal family",
+  "descriptionCn": "出生前",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "antenatal",
       "word": "antenatal",
       "display": "Antenatal",
-      "phonetic": "",
-      "translation": "\u51fa\u751f\u524d",
-      "sentence": "",
+      "phonetic": "/ˌæntʌnˈeɪtʌl/",
+      "translation": "出生前",
+      "sentence": "antenatal care",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ante>anterior>antenatal",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

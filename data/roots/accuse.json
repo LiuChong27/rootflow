@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "accuse",
   "root": "accuse",
-  "meaning": "",
-  "descriptionCn": "\u63a7\u544a\uff1b\u8c34\u8d23",
-  "updatedAt": "2026-04-15",
+  "meaning": "accuse family",
+  "descriptionCn": "控告；谴责",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "accuse-accuse-2",
       "word": "accuse",
       "display": "Accuse",
-      "phonetic": "",
-      "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
-      "sentence": "",
+      "phonetic": "/əˈkjuz/",
+      "translation": "控告；谴责",
+      "sentence": "The neighbors accused the man of spousal abuse",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accuse",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

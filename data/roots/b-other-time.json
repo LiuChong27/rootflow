@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-other-time",
-  "root": "\u65f6\u7a7a",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "时空",
+  "meaning": "time/space",
+  "descriptionCn": "时空",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-other-time-back",
       "word": "back",
       "display": "Back",
-      "phonetic": "",
-      "translation": "\u5012\u9000\uff1b\u540e\u9762\uff1b\u80cc",
-      "sentence": "",
+      "phonetic": "/bæk/",
+      "translation": "倒退；后面；背",
+      "sentence": "his back was nicely tanned",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-other-time-background",
       "word": "background",
       "display": "Background",
-      "phonetic": "",
-      "translation": "\u80cc\u666f\uff1b\u7ecf\u5386",
-      "sentence": "",
+      "phonetic": "/ˈbækˌgraʊnd/",
+      "translation": "背景；经历",
+      "sentence": "he is a lawyer with a sports background",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-other-time-backward",
       "word": "backward",
       "display": "Backward",
-      "phonetic": "",
-      "translation": "\u5411\u540e",
-      "sentence": "",
+      "phonetic": "/ˈbækwərd/",
+      "translation": "向后",
+      "sentence": "a backward view",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-other-time-because",
       "word": "because",
       "display": "Because",
-      "phonetic": "",
-      "translation": "\u56e0\u4e3a",
-      "sentence": "",
+      "phonetic": "/bɪˈkəz/",
+      "translation": "因为",
+      "sentence": "Because is used here with the sense of \"因为\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-other-time-become",
       "word": "become",
       "display": "Become",
-      "phonetic": "",
-      "translation": "\u53d8\u6210",
-      "sentence": "",
+      "phonetic": "/bɪˈkəm/",
+      "translation": "变成",
+      "sentence": "What becomes has duration",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-other-time-before",
       "word": "before",
       "display": "Before",
-      "phonetic": "",
-      "translation": "\u5728...\u4ee5\u524d",
-      "sentence": "",
+      "phonetic": "/ˌbiˈfɔr/",
+      "translation": "在...以前",
+      "sentence": "I had known her before",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-other-time-beforehand",
       "word": "beforehand",
       "display": "Beforehand",
-      "phonetic": "",
-      "translation": "\u9884\u5148",
-      "sentence": "",
+      "phonetic": "/bɪˈfɔˌrhænd/",
+      "translation": "预先",
+      "sentence": "was beforehand with her report",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-other-time-begin",
       "word": "begin",
       "display": "Begin",
-      "phonetic": "",
-      "translation": "\u5f00\u59cb",
-      "sentence": "",
+      "phonetic": "/bɪˈgɪn/",
+      "translation": "开始",
+      "sentence": "The DMZ begins right over the hill",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-other-time-beginning",
       "word": "beginning",
       "display": "Beginning",
-      "phonetic": "",
-      "translation": "\u5f00\u59cb",
-      "sentence": "",
+      "phonetic": "/bɪˈgɪnɪŋ/",
+      "translation": "开始",
+      "sentence": "the beginning of the war",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-other-time-behind",
       "word": "behind",
       "display": "Behind",
-      "phonetic": "",
-      "translation": "\u5728...\u80cc\u540e",
-      "sentence": "",
+      "phonetic": "/bɪˈhaɪnd/",
+      "translation": "在...背后",
+      "sentence": "behind by two points",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-other-time-belong",
       "word": "belong",
       "display": "Belong",
-      "phonetic": "",
-      "translation": "\u5c5e\u4e8e",
-      "sentence": "",
+      "phonetic": "/bɪˈlɔŋ/",
+      "translation": "属于",
+      "sentence": "This book belongs to me",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-other-time-below",
       "word": "below",
       "display": "Below",
-      "phonetic": "",
-      "translation": "\u5728...\u4e0b\u9762",
-      "sentence": "",
+      "phonetic": "/bɪˈloʊ/",
+      "translation": "在...下面",
+      "sentence": "see below",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-other-time-beneath",
       "word": "beneath",
       "display": "Beneath",
-      "phonetic": "",
-      "translation": "\u5728...\u4e0b\u8fb9",
-      "sentence": "",
+      "phonetic": "/bɪˈniθ/",
+      "translation": "在...下边",
+      "sentence": "If you do something beneath, you do it in or to a place that is lower.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "b-other-time-beside",
       "word": "beside",
       "display": "Beside",
-      "phonetic": "",
-      "translation": "\u5728...\u65c1\u8fb9",
-      "sentence": "",
+      "phonetic": "/ˌbiˈsaɪd/",
+      "translation": "在...旁边",
+      "sentence": "Beside is used here with the sense of \"在...旁边\".",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "b-other-time-besides",
       "word": "besides",
       "display": "Besides",
-      "phonetic": "",
-      "translation": "\u6b64\u5916",
-      "sentence": "",
+      "phonetic": "/ˌbiˈsaɪdz/",
+      "translation": "此外",
+      "sentence": "I don't want to go to a restaurant; besides, we can't afford it",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "b-other-time-between",
       "word": "between",
       "display": "Between",
-      "phonetic": "",
-      "translation": "\u5728...\u4e4b\u95f4",
-      "sentence": "",
+      "phonetic": "/bɪtˈwin/",
+      "translation": "在...之间",
+      "sentence": "dancing all the dances with little rest between",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "b-other-time-beyond",
       "word": "beyond",
       "display": "Beyond",
-      "phonetic": "",
-      "translation": "\u5728...\u90a3\u8fb9\uff1b\u8d85\u51fa",
-      "sentence": "",
+      "phonetic": "/bɪɔnd/",
+      "translation": "在...那边；超出",
+      "sentence": "through the valley and beyond",
       "tags": [
         "root-family"
       ],
@@ -215,5 +215,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-other>b-other-time",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

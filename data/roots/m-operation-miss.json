@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "m-operation-miss",
-  "root": "miss=mit=send\u53d1\u5c04",
+  "root": "miss=mit=send发射",
   "meaning": "send",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "发射",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "m-operation",
-  "rootLevel": 3,
-  "rootPath": "m>m-operation>m-operation-miss",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "m-operation-miss",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

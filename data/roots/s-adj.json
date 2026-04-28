@@ -3,12 +3,13 @@
   "rootId": "s-adj",
   "root": "adj",
   "meaning": "adjective",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "adjective",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-adj",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-adj",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

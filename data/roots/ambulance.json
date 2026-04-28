@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ambulance",
   "root": "ambulance",
-  "meaning": "",
-  "descriptionCn": "\u6551\u62a4\u8f66",
-  "updatedAt": "2026-04-15",
+  "meaning": "ambulance family",
+  "descriptionCn": "救护车",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambulance-ambulance-2",
       "word": "ambulance",
       "display": "Ambulance",
-      "phonetic": "",
-      "translation": "\u6551\u62a4\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈæmbjələns/",
+      "translation": "救护车",
+      "sentence": "An ambulance is a vehicle that takes people to and from hospitals.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>ambul>ambulance",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ad-ac",
   "root": "ac-",
-  "meaning": "",
-  "descriptionCn": "c/k \u524d\u53d8\u4f53",
-  "updatedAt": "2026-04-15",
+  "meaning": "c/k variant",
+  "descriptionCn": "c/k 前变体",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "accession",
       "word": "accession",
       "display": "Accession",
-      "phonetic": "",
-      "translation": "\u5c31\u804c",
-      "sentence": "",
+      "phonetic": "/əkˈsɛʃən/",
+      "translation": "就职",
+      "sentence": "the art collection grew through accession",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "accessory",
       "word": "accessory",
       "display": "Accessory",
-      "phonetic": "",
-      "translation": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
-      "sentence": "",
+      "phonetic": "/ækˈsɛsəri/",
+      "translation": "附件；附属品",
+      "sentence": "he was charged with being accessory to the crime",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "acclive",
       "word": "acclive",
       "display": "Acclive",
-      "phonetic": "",
-      "translation": "\u503e\u659c\u7684",
-      "sentence": "",
+      "phonetic": "/ʌklˈaɪv/",
+      "translation": "倾斜的",
+      "sentence": "Acclive is used here with the sense of \"倾斜的\".",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "accommodate",
       "word": "accommodate",
       "display": "Accommodate",
-      "phonetic": "",
-      "translation": "\u5411...\u63d0\u4f9b\u4f4f\u5904",
-      "sentence": "",
+      "phonetic": "/əˈkɑməˌdeɪt/",
+      "translation": "向...提供住处",
+      "sentence": "Can you accommodate me with a rental car?",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "accompany",
       "word": "accompany",
       "display": "Accompany",
-      "phonetic": "",
-      "translation": "\u966a\u4f34",
-      "sentence": "",
+      "phonetic": "/əˈkəmpəni/",
+      "translation": "陪伴",
+      "sentence": "French fries come with the hamburger",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "accomplish",
       "word": "accomplish",
       "display": "Accomplish",
-      "phonetic": "",
-      "translation": "\u5b9e\u73b0",
-      "sentence": "",
+      "phonetic": "/əˈkɑmplɪʃ/",
+      "translation": "实现",
+      "sentence": "carry out a task",
       "tags": [
         "root-family",
         "other"
@@ -88,9 +88,9 @@
       "id": "accost",
       "word": "accost",
       "display": "Accost",
-      "phonetic": "",
-      "translation": "\u6253\u62db\u547c\uff1b\u52fe\u5f15",
-      "sentence": "",
+      "phonetic": "/əˈkɔst/",
+      "translation": "打招呼；勾引",
+      "sentence": "he was solicited by a prostitute",
       "tags": [
         "root-family",
         "other"
@@ -101,9 +101,9 @@
       "id": "accumbent",
       "word": "accumbent",
       "display": "Accumbent",
-      "phonetic": "",
-      "translation": "\u6a2a\u5367",
-      "sentence": "",
+      "phonetic": "/ʌkˈʌmʌnt/",
+      "translation": "横卧",
+      "sentence": "If something is accumbent, it is lying down; in a position of comfort or rest.",
       "tags": [
         "root-family",
         "other"
@@ -114,9 +114,9 @@
       "id": "accumulate",
       "word": "accumulate",
       "display": "Accumulate",
-      "phonetic": "",
-      "translation": "\u79ef\u7d2f",
-      "sentence": "",
+      "phonetic": "/əˈkjumjəˌleɪt/",
+      "translation": "积累",
+      "sentence": "I am accumulating evidence for the man's unfaithfulness to his wife",
       "tags": [
         "root-family",
         "other"
@@ -127,9 +127,9 @@
       "id": "accuse-ad-ac-2",
       "word": "accuse",
       "display": "Accuse",
-      "phonetic": "",
-      "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
-      "sentence": "",
+      "phonetic": "/əˈkjuz/",
+      "translation": "控告；谴责",
+      "sentence": "The neighbors accused the man of spousal abuse",
       "tags": [
         "root-family",
         "other"
@@ -140,9 +140,9 @@
       "id": "acknowledge",
       "word": "acknowledge",
       "display": "Acknowledge",
-      "phonetic": "",
-      "translation": "\u7b54\u8c22\uff1b\u627f\u8ba4",
-      "sentence": "",
+      "phonetic": "/ækˈnɑlɪʤ/",
+      "translation": "答谢；承认",
+      "sentence": "She acknowledged that she might have forgotten",
       "tags": [
         "root-family",
         "other"
@@ -153,9 +153,9 @@
       "id": "acquire",
       "word": "acquire",
       "display": "Acquire",
-      "phonetic": "",
-      "translation": "\u83b7\u5f97",
-      "sentence": "",
+      "phonetic": "/əkˈwaɪər/",
+      "translation": "获得",
+      "sentence": "They acquired a new pet",
       "tags": [
         "root-family",
         "other"
@@ -166,9 +166,9 @@
       "id": "acute-ad-ac-2",
       "word": "acute",
       "display": "Acute",
-      "phonetic": "",
-      "translation": "\u5267\u70c8\uff1b\u5c16\u7684",
-      "sentence": "",
+      "phonetic": "/əˈkjut/",
+      "translation": "剧烈；尖的",
+      "sentence": "acute appendicitis",
       "tags": [
         "root-family",
         "other"
@@ -180,5 +180,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ac",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-other-right",
-  "root": "\u5176\u4ed6\uff08\u53f3\u4fa7\uff09",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "其他（右侧）",
+  "meaning": "right family",
+  "descriptionCn": "其他（右侧）",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-other-right-badge",
       "word": "badge",
       "display": "Badge",
-      "phonetic": "",
-      "translation": "\u4f1a\u957f\uff1b\u6807\u8bb0\uff1b\u8c61\u5f81",
-      "sentence": "",
+      "phonetic": "/bæʤ/",
+      "translation": "会长；标记；象征",
+      "sentence": "they checked everyone's badge before letting them in",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-other-right-balance",
       "word": "balance",
       "display": "Balance",
-      "phonetic": "",
-      "translation": "\u5e73\u8861",
-      "sentence": "",
+      "phonetic": "/ˈbæləns/",
+      "translation": "平衡",
+      "sentence": "in all perfectly beautiful objects there is found the opposition of one part to another and a reciprocal balance",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-other-right-balcony",
       "word": "balcony",
       "display": "Balcony",
-      "phonetic": "",
-      "translation": "\u9633\u53f0\uff1b\u697c\u5ea7",
-      "sentence": "",
+      "phonetic": "/ˈbælkəni/",
+      "translation": "阳台；楼座",
+      "sentence": "A balcony is an upper floor projecting from the rear over the main floor in an auditorium.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-other-right-ban",
       "word": "ban",
       "display": "Ban",
-      "phonetic": "",
-      "translation": "\u7981\u6b62",
-      "sentence": "",
+      "phonetic": "/bæn/",
+      "translation": "禁止",
+      "sentence": "Smoking is banned in this building",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-other-right-bay",
       "word": "bay",
       "display": "Bay",
-      "phonetic": "",
-      "translation": "\u6d77\u6e7e",
-      "sentence": "",
+      "phonetic": "/beɪ/",
+      "translation": "海湾",
+      "sentence": "they put him in the sick bay",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-other-right-beach",
       "word": "beach",
       "display": "Beach",
-      "phonetic": "",
-      "translation": "\u6d77\u6ee9",
-      "sentence": "",
+      "phonetic": "/biʧ/",
+      "translation": "海滩",
+      "sentence": "the ship beached near the port",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-other-right-beam",
       "word": "beam",
       "display": "Beam",
-      "phonetic": "",
-      "translation": "\u5149\u7ebf",
-      "sentence": "",
+      "phonetic": "/biːm/",
+      "translation": "光线",
+      "sentence": "they sighted land on the port beam",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-other-right-behalf",
       "word": "behalf",
       "display": "Behalf",
-      "phonetic": "",
-      "translation": "\u5229\u76ca",
-      "sentence": "",
+      "phonetic": "/bɪˈhæf/",
+      "translation": "利益",
+      "sentence": "on behalf of",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-other-right-bell",
       "word": "bell",
       "display": "Bell",
-      "phonetic": "",
-      "translation": "\u949f",
-      "sentence": "",
+      "phonetic": "/bɛl/",
+      "translation": "钟",
+      "sentence": "saved by the bell",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-other-right-big",
       "word": "big",
       "display": "Big",
-      "phonetic": "",
-      "translation": "\u5927\u7684\uff1b\u91cd\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/bɪg/",
+      "translation": "大的；重要的",
+      "sentence": "set out for the big city",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-other-right-bill",
       "word": "bill",
       "display": "Bill",
-      "phonetic": "",
-      "translation": "\u8d26\u5355\uff1b\u5e7f\u544a\uff1b\u949e\u7968",
-      "sentence": "",
+      "phonetic": "/bɪl/",
+      "translation": "账单；广告；钞票",
+      "sentence": "they held a public hearing on the bill",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-other-right-billion",
       "word": "billion",
       "display": "Billion",
-      "phonetic": "",
-      "translation": "\u5341\u4ebf",
-      "sentence": "",
+      "phonetic": "/ˈbɪljən/",
+      "translation": "十亿",
+      "sentence": "there were millions of flies",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-other-right-biscuits",
       "word": "biscuits",
       "display": "Biscuits",
-      "phonetic": "",
-      "translation": "\u997c\u5e72",
-      "sentence": "",
+      "phonetic": "/ˈbɪskəts/",
+      "translation": "饼干",
+      "sentence": "A biscuits is small round bread leavened with baking-powder or soda.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "b-other-right-bite",
       "word": "bite",
       "display": "Bite",
-      "phonetic": "",
-      "translation": "\u54ac",
-      "sentence": "",
+      "phonetic": "/baɪt/",
+      "translation": "咬",
+      "sentence": "after fishing for an hour he still had not had a bite",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "b-other-right-bitter",
       "word": "bitter",
       "display": "Bitter",
-      "phonetic": "",
-      "translation": "\u75bc\u75db\u7684\uff1b\u82e6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbɪtər/",
+      "translation": "疼痛的；苦的",
+      "sentence": "bitter about the divorce",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "b-other-right-blend",
       "word": "blend",
       "display": "Blend",
-      "phonetic": "",
-      "translation": "\u6df7\u5408\u7269",
-      "sentence": "",
+      "phonetic": "/blɛnd/",
+      "translation": "混合物",
+      "sentence": "`smog' is a blend of `smoke' and `fog'",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "b-other-right-boil",
       "word": "boil",
       "display": "Boil",
-      "phonetic": "",
-      "translation": "\u716e\u6cb8",
-      "sentence": "",
+      "phonetic": "/bɔɪl/",
+      "translation": "煮沸",
+      "sentence": "they brought the water to a boil",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "b-other-right-bonus",
       "word": "bonus",
       "display": "Bonus",
-      "phonetic": "",
-      "translation": "\u5956\u91d1",
-      "sentence": "",
+      "phonetic": "/ˈboʊnəs/",
+      "translation": "奖金",
+      "sentence": "his approval was an added fillip",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "b-other-right-brake",
       "word": "brake",
       "display": "Brake",
-      "phonetic": "",
-      "translation": "\u5236\u52a8\uff1b\u5239\u8f66",
-      "sentence": "",
+      "phonetic": "/breɪk/",
+      "translation": "制动；刹车",
+      "sentence": "she wan not ready to put the brakes on her life with a marriage",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "b-other-right-bread",
       "word": "bread",
       "display": "Bread",
-      "phonetic": "",
-      "translation": "\u9762\u5305",
-      "sentence": "",
+      "phonetic": "/brɛd/",
+      "translation": "面包",
+      "sentence": "bread the pork chops before frying them",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "b-other-right-break",
       "word": "break",
       "display": "Break",
-      "phonetic": "",
-      "translation": "\u6253\u7834",
-      "sentence": "",
+      "phonetic": "/breɪk/",
+      "translation": "打破",
+      "sentence": "there was a break in the action when a player was hurt",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "b-other-right-breakdown",
       "word": "breakdown",
       "display": "Breakdown",
-      "phonetic": "",
-      "translation": "\u4e2d\u65ad\uff1b\u51fb\u6e83",
-      "sentence": "",
+      "phonetic": "/ˈbreɪkˌdaʊn/",
+      "translation": "中断；击溃",
+      "sentence": "his warning came after the breakdown of talks in London",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "b-other-right-breakfast",
       "word": "breakfast",
       "display": "Breakfast",
-      "phonetic": "",
-      "translation": "\u65e9\u9910",
-      "sentence": "",
+      "phonetic": "/ˈbrɛkfəst/",
+      "translation": "早餐",
+      "sentence": "We breakfast at seven",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "b-other-right-browse",
       "word": "browse",
       "display": "Browse",
-      "phonetic": "",
-      "translation": "\u6d4f\u89c8",
-      "sentence": "",
+      "phonetic": "/braʊz/",
+      "translation": "浏览",
+      "sentence": "a deer needs to eat twenty pounds of browse every day",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "b-other-right-buffet",
       "word": "buffet",
       "display": "Buffet",
-      "phonetic": "",
-      "translation": "\u81ea\u52a9\u9910",
-      "sentence": "",
+      "phonetic": "/ˈbəfət/",
+      "translation": "自助餐",
+      "sentence": "Winds buffeted the tent",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "b-other-right-but",
       "word": "but",
       "display": "But",
-      "phonetic": "",
-      "translation": "\u4f46\u662f",
-      "sentence": "",
+      "phonetic": "/bət/",
+      "translation": "但是",
+      "sentence": "hopes that last but a moment",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "b-other-right-button",
       "word": "button",
       "display": "Button",
-      "phonetic": "",
-      "translation": "\u6309\u94ae",
-      "sentence": "",
+      "phonetic": "/ˈbətən/",
+      "translation": "按钮",
+      "sentence": "the elevator was operated by push buttons",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "b-other-right-buy",
       "word": "buy",
       "display": "Buy",
-      "phonetic": "",
-      "translation": "\u4e70",
-      "sentence": "",
+      "phonetic": "/baɪ/",
+      "translation": "买",
+      "sentence": "the stock was a real buy at that price",
       "tags": [
         "root-family"
       ],
@@ -347,5 +347,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-other>b-other-right",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

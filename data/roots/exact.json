@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "exact",
   "root": "exact",
-  "meaning": "",
-  "descriptionCn": "\u7cbe\u786e\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "exact family",
+  "descriptionCn": "精确的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "exact",
       "word": "exact",
       "display": "Exact",
-      "phonetic": "",
-      "translation": "\u7cbe\u786e\u7684",
-      "sentence": "",
+      "phonetic": "/ɪgˈzækt/",
+      "translation": "精确的",
+      "sentence": "an exact mind",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>act>actuate>enact>exact",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-operation-med",
-  "root": "med\u6cbb\u6108",
+  "root": "med治愈",
   "meaning": "heal",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "治愈",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-operation-med-medical",
       "word": "medical",
       "display": "Medical",
-      "phonetic": "",
-      "translation": "\u533b\u5b66\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɛdɪkəl/",
+      "translation": "医学的",
+      "sentence": "the medical profession",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-operation-med-medicine",
       "word": "medicine",
       "display": "Medicine",
-      "phonetic": "",
-      "translation": "\u5185\u79d1\u5b66",
-      "sentence": "",
+      "phonetic": "/ˈmɛdəsən/",
+      "translation": "内科学",
+      "sentence": "he studied medicine at Harvard",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-operation>m-operation-med",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

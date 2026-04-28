@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "accessory",
   "root": "accessory",
-  "meaning": "",
-  "descriptionCn": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
-  "updatedAt": "2026-04-15",
+  "meaning": "accessory family",
+  "descriptionCn": "附件；附属品",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "accessory-accessory-2",
       "word": "accessory",
       "display": "Accessory",
-      "phonetic": "",
-      "translation": "\u9644\u4ef6\uff1b\u9644\u5c5e\u54c1",
-      "sentence": "",
+      "phonetic": "/ækˈsɛsəri/",
+      "translation": "附件；附属品",
+      "sentence": "he was charged with being accessory to the crime",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ac>accessory",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

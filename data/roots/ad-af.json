@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ad-af",
   "root": "af-",
-  "meaning": "",
-  "descriptionCn": "f \u524d\u53d8\u4f53",
-  "updatedAt": "2026-04-15",
+  "meaning": "f variant",
+  "descriptionCn": "f 前变体",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "affair",
       "word": "affair",
       "display": "Affair",
-      "phonetic": "",
-      "translation": "\u4e8b\u52a1",
-      "sentence": "",
+      "phonetic": "/əˈfɛr/",
+      "translation": "事务",
+      "sentence": "it is none of your affair",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "affiance-ad-af-2",
       "word": "affiance",
       "display": "Affiance",
-      "phonetic": "",
-      "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
-      "sentence": "",
+      "phonetic": "/ʌfˈaɪʌns/",
+      "translation": "婚约；信托",
+      "sentence": "To affiance is to give to in marriage.",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "affiliate",
       "word": "affiliate",
       "display": "Affiliate",
-      "phonetic": "",
-      "translation": "\u4f7f\u52a0\u5165\uff1b\u52a0\u76df",
-      "sentence": "",
+      "phonetic": "/əˈfɪliˌeɪt/",
+      "translation": "使加入；加盟",
+      "sentence": "network affiliates",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "afforest",
       "word": "afforest",
       "display": "Afforest",
-      "phonetic": "",
-      "translation": "\u9020\u6797\u4e8e",
-      "sentence": "",
+      "phonetic": "/ʌfˈɔrʌst/",
+      "translation": "造林于",
+      "sentence": "afforest the mountains",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "affright",
       "word": "affright",
       "display": "Affright",
-      "phonetic": "",
-      "translation": "\u60ca\u5413\uff1b\u6050\u6016",
-      "sentence": "",
+      "phonetic": "/ˈæfrˌaɪt/",
+      "translation": "惊吓；恐怖",
+      "sentence": "Ghosts could never affright her",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "affusion",
       "word": "affusion",
       "display": "Affusion",
-      "phonetic": "",
-      "translation": "\u6d47\u704c",
-      "sentence": "",
+      "phonetic": "/ʌfjˈuʒʌn/",
+      "translation": "浇灌",
+      "sentence": "An affusion is the act of baptizing someone by pouring water on their head.",
       "tags": [
         "root-family",
         "other"
@@ -89,5 +89,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>ad-add-axx>ad-af",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

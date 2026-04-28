@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-nect",
-  "root": "nect=nex=bind\u8fde\u63a5",
+  "root": "nect=nex=bind连接",
   "meaning": "bind",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "连接",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-nect-annex",
       "word": "annex",
       "display": "Annex",
-      "phonetic": "",
-      "translation": "\u9644\u52a0",
-      "sentence": "",
+      "phonetic": "/ˈæˌnɛks/",
+      "translation": "附加",
+      "sentence": "Hitler annexed Lithuania",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-nect-annexation",
       "word": "annexation",
       "display": "Annexation",
-      "phonetic": "",
-      "translation": "\u9644\u52a0",
-      "sentence": "",
+      "phonetic": "/ˌænɛkˈseɪʃən/",
+      "translation": "附加",
+      "sentence": "the French annexation of Madagascar as a colony in 1896",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-nect-annexe",
       "word": "annexe",
       "display": "Annexe",
-      "phonetic": "",
-      "translation": "\u9644\u52a0\u7269",
-      "sentence": "",
+      "phonetic": "/ˈænɛks/",
+      "translation": "附加物",
+      "sentence": "An annexe is an addition that extends a main building.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-nect-annexure",
       "word": "annexure",
       "display": "Annexure",
-      "phonetic": "",
-      "translation": "\u9644\u5f55",
-      "sentence": "",
+      "phonetic": "/ˈænʌkjaʊrz/",
+      "translation": "附录",
+      "sentence": "Annexure is used here with the sense of \"附录\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-nect-connect",
       "word": "connect",
       "display": "Connect",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5",
-      "sentence": "",
+      "phonetic": "/kəˈnɛkt/",
+      "translation": "连接",
+      "sentence": "Can you connect the two loudspeakers?",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-nect-connection",
       "word": "connection",
       "display": "Connection",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5\uff1b\u5173\u7cfb\uff1b\u4eb2\u621a",
-      "sentence": "",
+      "phonetic": "/kəˈnɛkʃən/",
+      "translation": "连接；关系；亲戚",
+      "sentence": "there was a connection between eating that pickle and having that nightmare",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-nect-connective",
       "word": "connective",
       "display": "Connective",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5\u8bcd",
-      "sentence": "",
+      "phonetic": "/kəˈnɛktɪv/",
+      "translation": "连接词",
+      "sentence": "connective remarks between chapters",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "n-nect-disconnect",
       "word": "disconnect",
       "display": "Disconnect",
-      "phonetic": "",
-      "translation": "\u62c6\u5f00\uff1b\u5206\u5f00",
-      "sentence": "",
+      "phonetic": "/dɪskəˈnɛkt/",
+      "translation": "拆开；分开",
+      "sentence": "there is a vast disconnect between public opinion and federal policy",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-nect",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

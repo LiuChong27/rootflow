@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-sus",
-  "root": "sus\u4e0b",
+  "root": "sus下",
   "meaning": "under",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "下",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-sus-susceptible",
       "word": "susceptible",
       "display": "Susceptible",
-      "phonetic": "",
-      "translation": "\u6613\u53d7\u5f71\u54cd\u7684",
-      "sentence": "",
+      "phonetic": "/səˈsɛptəbəl/",
+      "translation": "易受影响的",
+      "sentence": "susceptible to colds",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-sus-suspect",
       "word": "suspect",
       "display": "Suspect",
-      "phonetic": "",
-      "translation": "\u6000\u7591",
-      "sentence": "",
+      "phonetic": "/ˈsəˌspɛkt/",
+      "translation": "怀疑",
+      "sentence": "I suspect he is a fugitive",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-sus-suspend",
       "word": "suspend",
       "display": "Suspend",
-      "phonetic": "",
-      "translation": "\u60ac\u6302",
-      "sentence": "",
+      "phonetic": "/səˈspɛnd/",
+      "translation": "悬挂",
+      "sentence": "The secret police suspended their victims from the ceiling and beat them",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-sus-suspicion",
       "word": "suspicion",
       "display": "Suspicion",
-      "phonetic": "",
-      "translation": "\u6000\u7591",
-      "sentence": "",
+      "phonetic": "/səˈspɪʃən/",
+      "translation": "怀疑",
+      "sentence": "he tried to shield me from suspicion",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-sus-suspicious",
       "word": "suspicious",
       "display": "Suspicious",
-      "phonetic": "",
-      "translation": "\u53ef\u7591\u7684",
-      "sentence": "",
+      "phonetic": "/səˈspɪʃəs/",
+      "translation": "可疑的",
+      "sentence": "suspicious behavior",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-sus-sustain",
       "word": "sustain",
       "display": "Sustain",
-      "phonetic": "",
-      "translation": "\u652f\u6491",
-      "sentence": "",
+      "phonetic": "/səˈsteɪn/",
+      "translation": "支撑",
+      "sentence": "We sustained the diplomatic negotiations as long as possible",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-sus",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

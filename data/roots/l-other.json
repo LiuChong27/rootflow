@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "l-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "l-other-alive",
       "word": "alive",
       "display": "Alive",
-      "phonetic": "",
-      "translation": "\u6d3b\u7740\u7684",
-      "sentence": "",
+      "phonetic": "/əˈlaɪv/",
+      "translation": "活着的",
+      "sentence": "the happiest person alive",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "l-other-alone",
       "word": "alone",
       "display": "Alone",
-      "phonetic": "",
-      "translation": "\u72ec\u81ea",
-      "sentence": "",
+      "phonetic": "/əˈloʊn/",
+      "translation": "独自",
+      "sentence": "could be alone in a crowded room",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "l-other-aloud",
       "word": "aloud",
       "display": "Aloud",
-      "phonetic": "",
-      "translation": "\u5927\u58f0\u5730",
-      "sentence": "",
+      "phonetic": "/əˈlaʊd/",
+      "translation": "大声地",
+      "sentence": "please read the passage aloud",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "l-other-clumsy",
       "word": "clumsy",
       "display": "Clumsy",
-      "phonetic": "",
-      "translation": "\u7b28\u62d9\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkləmzi/",
+      "translation": "笨拙的",
+      "sentence": "clumsy fingers",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "l-other-collapse",
       "word": "collapse",
       "display": "Collapse",
-      "phonetic": "",
-      "translation": "\u5012\u584c",
-      "sentence": "",
+      "phonetic": "/kəˈlæps/",
+      "translation": "倒塌",
+      "sentence": "the roof is in danger of collapse",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "l-other-elaborate",
       "word": "elaborate",
       "display": "Elaborate",
-      "phonetic": "",
-      "translation": "\u7cbe\u5fc3\u5236\u4f5c\u7684",
-      "sentence": "",
+      "phonetic": "/ɪˈlæbərˌeɪt/",
+      "translation": "精心制作的",
+      "sentence": "She elaborated on the main ideas in her dissertation",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "l-other-elevator",
       "word": "elevator",
       "display": "Elevator",
-      "phonetic": "",
-      "translation": "\u7535\u68af",
-      "sentence": "",
+      "phonetic": "/ˈɛləˌveɪtər/",
+      "translation": "电梯",
+      "sentence": "An elevator is lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "l-other-labor",
       "word": "labor",
       "display": "Labor",
-      "phonetic": "",
-      "translation": "\u5de5\u4f5c",
-      "sentence": "",
+      "phonetic": "/ˈleɪbər/",
+      "translation": "工作",
+      "sentence": "there is a shortage of skilled labor in this field",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "l-other-laboratory",
       "word": "laboratory",
       "display": "Laboratory",
-      "phonetic": "",
-      "translation": "\u5b9e\u9a8c\u5ba4",
-      "sentence": "",
+      "phonetic": "/ˈlæbrəˌtɔri/",
+      "translation": "实验室",
+      "sentence": "Pakistan is a laboratory for studying the use of American troops to combat terrorism",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "l-other-lapse",
       "word": "lapse",
       "display": "Lapse",
-      "phonetic": "",
-      "translation": "\u6ed1\u843d",
-      "sentence": "",
+      "phonetic": "/læps/",
+      "translation": "滑落",
+      "sentence": "a lapse of three weeks between letters",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "l-other-late",
       "word": "late",
       "display": "Late",
-      "phonetic": "",
-      "translation": "\u665a",
-      "sentence": "",
+      "phonetic": "/leɪt/",
+      "translation": "晚",
+      "sentence": "late evening",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "l-other-later",
       "word": "later",
       "display": "Later",
-      "phonetic": "",
-      "translation": "\u540e\u6765",
-      "sentence": "",
+      "phonetic": "/ˈleɪtər/",
+      "translation": "后来",
+      "sentence": "a later symptom of the disease",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "l-other-latest",
       "word": "latest",
       "display": "Latest",
-      "phonetic": "",
-      "translation": "\u6700\u65b0\u7684",
-      "sentence": "",
+      "phonetic": "/ˈleɪtəst/",
+      "translation": "最新的",
+      "sentence": "have you heard the latest?",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "l-other-law",
       "word": "law",
       "display": "Law",
-      "phonetic": "",
-      "translation": "\u6cd5\u5f8b",
-      "sentence": "",
+      "phonetic": "/lɔ/",
+      "translation": "法律",
+      "sentence": "civilization presupposes respect for the law",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "l-other-lawyer",
       "word": "lawyer",
       "display": "Lawyer",
-      "phonetic": "",
-      "translation": "\u5f8b\u5e08",
-      "sentence": "",
+      "phonetic": "/ˈlɔjər/",
+      "translation": "律师",
+      "sentence": "A lawyer is a professional person authorized to practice law; conducts lawsuits or gives legal advice.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "l-other-lay",
       "word": "lay",
       "display": "Lay",
-      "phonetic": "",
-      "translation": "\u653e\u7f6e",
-      "sentence": "",
+      "phonetic": "/leɪ/",
+      "translation": "放置",
+      "sentence": "lay the books on the table",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "l-other-layer",
       "word": "layer",
       "display": "Layer",
-      "phonetic": "",
-      "translation": "\u5c42",
-      "sentence": "",
+      "phonetic": "/leɪər/",
+      "translation": "层",
+      "sentence": "a simile has at least two layers of meaning",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "l-other-layout",
       "word": "layout",
       "display": "Layout",
-      "phonetic": "",
-      "translation": "\u5e03\u5c40",
-      "sentence": "",
+      "phonetic": "/leɪaʊt/",
+      "translation": "布局",
+      "sentence": "A layout is a plan or design of something that is laid out.",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "l-other-lead",
       "word": "lead",
       "display": "Lead",
-      "phonetic": "",
-      "translation": "\u9886\u5bfc",
-      "sentence": "",
+      "phonetic": "/lɛd/",
+      "translation": "领导",
+      "sentence": "he took the lead at the last turn",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "l-other-leader",
       "word": "leader",
       "display": "Leader",
-      "phonetic": "",
-      "translation": "\u9886\u8896",
-      "sentence": "",
+      "phonetic": "/ˈlidər/",
+      "translation": "领袖",
+      "sentence": "A leader is a person who rules or guides or inspires others.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "l-other-leadership",
       "word": "leadership",
       "display": "Leadership",
-      "phonetic": "",
-      "translation": "\u9886\u5bfc\u80fd\u529b",
-      "sentence": "",
+      "phonetic": "/ˈlidərˌʃɪp/",
+      "translation": "领导能力",
+      "sentence": "his leadership inspired the team",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "l-other-leaf",
       "word": "leaf",
       "display": "Leaf",
-      "phonetic": "",
-      "translation": "\u53f6\u5b50",
-      "sentence": "",
+      "phonetic": "/liːf/",
+      "translation": "叶子",
+      "sentence": "She leafed through the volume",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "l-other-leaflet",
       "word": "leaflet",
       "display": "Leaflet",
-      "phonetic": "",
-      "translation": "\u4f20\u5355",
-      "sentence": "",
+      "phonetic": "/ˈliflət/",
+      "translation": "传单",
+      "sentence": "A leaflet is a thin triangular flap of a heart valve.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "l-other-learn",
       "word": "learn",
       "display": "Learn",
-      "phonetic": "",
-      "translation": "\u5b66\u4e60",
-      "sentence": "",
+      "phonetic": "/lərn/",
+      "translation": "学习",
+      "sentence": "She learned dancing from her sister",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "l-other-learned",
       "word": "learned",
       "display": "Learned",
-      "phonetic": "",
-      "translation": "\u6709\u5b66\u95ee\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlərnɪd/",
+      "translation": "有学问的",
+      "sentence": "She learned dancing from her sister",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "l-other-least",
       "word": "least",
       "display": "Least",
-      "phonetic": "",
-      "translation": "\u6700\u5c11",
-      "sentence": "",
+      "phonetic": "/liːst/",
+      "translation": "最少",
+      "sentence": "it is the least I can do",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "l-other-leave",
       "word": "leave",
       "display": "Leave",
-      "phonetic": "",
-      "translation": "\u79bb\u5f00",
-      "sentence": "",
+      "phonetic": "/liːv/",
+      "translation": "离开",
+      "sentence": "a ten day's leave to visit his mother",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "l-other-left",
       "word": "left",
       "display": "Left",
-      "phonetic": "",
-      "translation": "\u5de6\u8fb9\u7684",
-      "sentence": "",
+      "phonetic": "/lɛft/",
+      "translation": "左边的",
+      "sentence": "she stood on the left",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "l-other-leg",
       "word": "leg",
       "display": "Leg",
-      "phonetic": "",
-      "translation": "\u817f",
-      "sentence": "",
+      "phonetic": "/lɛg/",
+      "translation": "腿",
+      "sentence": "he broke off one of the branches",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "l-other-legal",
       "word": "legal",
       "display": "Legal",
-      "phonetic": "",
-      "translation": "\u5408\u6cd5\u7684",
-      "sentence": "",
+      "phonetic": "/ˈligəl/",
+      "translation": "合法的",
+      "sentence": "legal loophole",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "l-other-legend",
       "word": "legend",
       "display": "Legend",
-      "phonetic": "",
-      "translation": "\u4f20\u8bf4",
-      "sentence": "",
+      "phonetic": "/ˈlɛʤənd/",
+      "translation": "传说",
+      "sentence": "A legend is a story about mythical or supernatural beings or events.",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "l-other-lend",
       "word": "lend",
       "display": "Lend",
-      "phonetic": "",
-      "translation": "\u501f\u51fa",
-      "sentence": "",
+      "phonetic": "/lɛnd/",
+      "translation": "借出",
+      "sentence": "Her presence lends a certain cachet to the company",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "l-other-length",
       "word": "length",
       "display": "Length",
-      "phonetic": "",
-      "translation": "\u957f\u5ea6",
-      "sentence": "",
+      "phonetic": "/lɛŋθ/",
+      "translation": "长度",
+      "sentence": "the length of the table was 5 feet",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "l-other-lengthen",
       "word": "lengthen",
       "display": "Lengthen",
-      "phonetic": "",
-      "translation": "\u5ef6\u957f",
-      "sentence": "",
+      "phonetic": "/ˈlɛŋθən/",
+      "translation": "延长",
+      "sentence": "Lengthen this skirt, please",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "l-other-less",
       "word": "less",
       "display": "Less",
-      "phonetic": "",
-      "translation": "\u66f4\u5c11",
-      "sentence": "",
+      "phonetic": "/lɛs/",
+      "translation": "更少",
+      "sentence": "of less importance",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "l-other-lessen",
       "word": "lessen",
       "display": "Lessen",
-      "phonetic": "",
-      "translation": "\u51cf\u5c11",
-      "sentence": "",
+      "phonetic": "/ˈlɛsən/",
+      "translation": "减少",
+      "sentence": "The amount of homework decreased towards the end of the semester",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "l-other-let",
       "word": "let",
       "display": "Let",
-      "phonetic": "",
-      "translation": "\u8ba9",
-      "sentence": "",
+      "phonetic": "/lɛt/",
+      "translation": "让",
+      "sentence": "I let it be known that I was not interested",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "l-other-letter",
       "word": "letter",
       "display": "Letter",
-      "phonetic": "",
-      "translation": "\u5b57\u6bcd\uff1b\u4fe1",
-      "sentence": "",
+      "phonetic": "/ˈlɛtər/",
+      "translation": "字母；信",
+      "sentence": "mailed an indignant letter to the editor",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "l-other-life",
       "word": "life",
       "display": "Life",
-      "phonetic": "",
-      "translation": "\u751f\u547d",
-      "sentence": "",
+      "phonetic": "/laɪf/",
+      "translation": "生命",
+      "sentence": "social life",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "l-other-lift",
       "word": "lift",
       "display": "Lift",
-      "phonetic": "",
-      "translation": "\u4e3e\u8d77",
-      "sentence": "",
+      "phonetic": "/lɪft/",
+      "translation": "举起",
+      "sentence": "some actresses have more than one face lift",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "l-other-light",
       "word": "light",
       "display": "Light",
-      "phonetic": "",
-      "translation": "\u5149\uff1b\u8f7b\u7684",
-      "sentence": "",
+      "phonetic": "/laɪt/",
+      "translation": "光；轻的",
+      "sentence": "the light was filtered through a soft glass window",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "l-other-lighten",
       "word": "lighten",
       "display": "Lighten",
-      "phonetic": "",
-      "translation": "\u7167\u4eae\uff1b\u51cf\u8f7b",
-      "sentence": "",
+      "phonetic": "/ˈlaɪtən/",
+      "translation": "照亮；减轻",
+      "sentence": "the conversation lightened me up a bit",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "l-other-lightly",
       "word": "lightly",
       "display": "Lightly",
-      "phonetic": "",
-      "translation": "\u8f7b\u8f7b\u5730",
-      "sentence": "",
+      "phonetic": "/ˈlaɪtli/",
+      "translation": "轻轻地",
+      "sentence": "one cannot say such things lightly",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "l-other-like",
       "word": "like",
       "display": "Like",
-      "phonetic": "",
-      "translation": "\u559c\u6b22\uff1b\u50cf",
-      "sentence": "",
+      "phonetic": "/laɪk/",
+      "translation": "喜欢；像",
+      "sentence": "dogs, foxes, and the like",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "l-other-likely",
       "word": "likely",
       "display": "Likely",
-      "phonetic": "",
-      "translation": "\u53ef\u80fd\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlaɪkli/",
+      "translation": "可能的",
+      "sentence": "these services are likely to be available to us all before long",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "l-other-likeness",
       "word": "likeness",
       "display": "Likeness",
-      "phonetic": "",
-      "translation": "\u76f8\u4f3c",
-      "sentence": "",
+      "phonetic": "/ˈlaɪknəs/",
+      "translation": "相似",
+      "sentence": "man created God in his own likeness",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "l-other-limit",
       "word": "limit",
       "display": "Limit",
-      "phonetic": "",
-      "translation": "\u9650\u5236",
-      "sentence": "",
+      "phonetic": "/ˈlɪmət/",
+      "translation": "限制",
+      "sentence": "to the limit of his ability",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "l-other-limitation",
       "word": "limitation",
       "display": "Limitation",
-      "phonetic": "",
-      "translation": "\u9650\u5236",
-      "sentence": "",
+      "phonetic": "/ˌlɪmɪˈteɪʃən/",
+      "translation": "限制",
+      "sentence": "it is a good plan but it has serious limitations",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "l-other-limited",
       "word": "limited",
       "display": "Limited",
-      "phonetic": "",
-      "translation": "\u6709\u9650\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlɪmɪtɪd/",
+      "translation": "有限的",
+      "sentence": "limited war",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "l-other-line",
       "word": "line",
       "display": "Line",
-      "phonetic": "",
-      "translation": "\u7ebf",
-      "sentence": "",
+      "phonetic": "/laɪn/",
+      "translation": "线",
+      "sentence": "the line of soldiers advanced with their bayonets fixed",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "l-other-linear",
       "word": "linear",
       "display": "Linear",
-      "phonetic": "",
-      "translation": "\u7ebf\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlɪniər/",
+      "translation": "线的",
+      "sentence": "a linear measurement",
       "tags": [
         "root-family"
       ],
@@ -622,9 +622,9 @@
       "id": "l-other-link",
       "word": "link",
       "display": "Link",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5",
-      "sentence": "",
+      "phonetic": "/lɪŋk/",
+      "translation": "连接",
+      "sentence": "the walls are held together with metal links placed in the wet mortar during construction",
       "tags": [
         "root-family"
       ],
@@ -634,9 +634,9 @@
       "id": "l-other-lip",
       "word": "lip",
       "display": "Lip",
-      "phonetic": "",
-      "translation": "\u5634\u5507",
-      "sentence": "",
+      "phonetic": "/lɪp/",
+      "translation": "嘴唇",
+      "sentence": "don't give me any of your sass",
       "tags": [
         "root-family"
       ],
@@ -646,9 +646,9 @@
       "id": "l-other-lipstick",
       "word": "lipstick",
       "display": "Lipstick",
-      "phonetic": "",
-      "translation": "\u53e3\u7ea2",
-      "sentence": "",
+      "phonetic": "/ˈlɪpˌstɪk/",
+      "translation": "口红",
+      "sentence": "The clown had lipsticked circles on his cheeks",
       "tags": [
         "root-family"
       ],
@@ -658,9 +658,9 @@
       "id": "l-other-liquid",
       "word": "liquid",
       "display": "Liquid",
-      "phonetic": "",
-      "translation": "\u6db2\u4f53",
-      "sentence": "",
+      "phonetic": "/ˈlɪkwɪd/",
+      "translation": "液体",
+      "sentence": "water and milk and blood are liquid substances",
       "tags": [
         "root-family"
       ],
@@ -670,9 +670,9 @@
       "id": "l-other-liquor",
       "word": "liquor",
       "display": "Liquor",
-      "phonetic": "",
-      "translation": "\u9152",
-      "sentence": "",
+      "phonetic": "/ˈlɪkər/",
+      "translation": "酒",
+      "sentence": "waste liquors",
       "tags": [
         "root-family"
       ],
@@ -682,9 +682,9 @@
       "id": "l-other-list",
       "word": "list",
       "display": "List",
-      "phonetic": "",
-      "translation": "\u6e05\u5355",
-      "sentence": "",
+      "phonetic": "/lɪst/",
+      "translation": "清单",
+      "sentence": "the ship developed a list to starboard",
       "tags": [
         "root-family"
       ],
@@ -694,9 +694,9 @@
       "id": "l-other-listen",
       "word": "listen",
       "display": "Listen",
-      "phonetic": "",
-      "translation": "\u542c",
-      "sentence": "",
+      "phonetic": "/ˈlɪsən/",
+      "translation": "听",
+      "sentence": "Listen to the sound of this cello",
       "tags": [
         "root-family"
       ],
@@ -706,9 +706,9 @@
       "id": "l-other-liter",
       "word": "liter",
       "display": "Liter",
-      "phonetic": "",
-      "translation": "\u5347",
-      "sentence": "",
+      "phonetic": "/ˈlitər/",
+      "translation": "升",
+      "sentence": "A liter is a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints).",
       "tags": [
         "root-family"
       ],
@@ -718,9 +718,9 @@
       "id": "l-other-literal",
       "word": "literal",
       "display": "Literal",
-      "phonetic": "",
-      "translation": "\u6587\u5b57\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlɪtərəl/",
+      "translation": "文字的",
+      "sentence": "a literal solitude like a desert",
       "tags": [
         "root-family"
       ],
@@ -730,9 +730,9 @@
       "id": "l-other-literature",
       "word": "literature",
       "display": "Literature",
-      "phonetic": "",
-      "translation": "\u6587\u5b66",
-      "sentence": "",
+      "phonetic": "/ˈlɪtərəʧər/",
+      "translation": "文学",
+      "sentence": "the technical literature",
       "tags": [
         "root-family"
       ],
@@ -742,9 +742,9 @@
       "id": "l-other-little",
       "word": "little",
       "display": "Little",
-      "phonetic": "",
-      "translation": "\u5c0f",
-      "sentence": "",
+      "phonetic": "/ˈlɪtəl/",
+      "translation": "小",
+      "sentence": "he accepted the little they gave him",
       "tags": [
         "root-family"
       ],
@@ -754,9 +754,9 @@
       "id": "l-other-live",
       "word": "live",
       "display": "Live",
-      "phonetic": "",
-      "translation": "\u751f\u6d3b",
-      "sentence": "",
+      "phonetic": "/lɪv/",
+      "translation": "生活",
+      "sentence": "People lived in Africa millions of years ago",
       "tags": [
         "root-family"
       ],
@@ -766,9 +766,9 @@
       "id": "l-other-lively",
       "word": "lively",
       "display": "Lively",
-      "phonetic": "",
-      "translation": "\u6d3b\u6cfc\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlaɪvli/",
+      "translation": "活泼的",
+      "sentence": "a lively discussion",
       "tags": [
         "root-family"
       ],
@@ -778,9 +778,9 @@
       "id": "l-other-living",
       "word": "living",
       "display": "Living",
-      "phonetic": "",
-      "translation": "\u6d3b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlɪvɪŋ/",
+      "translation": "活的",
+      "sentence": "save your pity for the living",
       "tags": [
         "root-family"
       ],
@@ -790,9 +790,9 @@
       "id": "l-other-load",
       "word": "load",
       "display": "Load",
-      "phonetic": "",
-      "translation": "\u88c5\u8f7d",
-      "sentence": "",
+      "phonetic": "/loʊd/",
+      "translation": "装载",
+      "sentence": "the system broke down under excessive loads",
       "tags": [
         "root-family"
       ],
@@ -802,9 +802,9 @@
       "id": "l-other-loan",
       "word": "loan",
       "display": "Loan",
-      "phonetic": "",
-      "translation": "\u8d37\u6b3e",
-      "sentence": "",
+      "phonetic": "/loʊn/",
+      "translation": "贷款",
+      "sentence": "loan me some money",
       "tags": [
         "root-family"
       ],
@@ -814,9 +814,9 @@
       "id": "l-other-local",
       "word": "local",
       "display": "Local",
-      "phonetic": "",
-      "translation": "\u5730\u65b9\u7684",
-      "sentence": "",
+      "phonetic": "/ˈloʊkəl/",
+      "translation": "地方的",
+      "sentence": "the local seemed to take forever to get to New York",
       "tags": [
         "root-family"
       ],
@@ -826,9 +826,9 @@
       "id": "l-other-locate",
       "word": "locate",
       "display": "Locate",
-      "phonetic": "",
-      "translation": "\u4f4d\u4e8e",
-      "sentence": "",
+      "phonetic": "/ˈloʊˌkeɪt/",
+      "translation": "位于",
+      "sentence": "Can you locate your cousins in the Midwest?",
       "tags": [
         "root-family"
       ],
@@ -838,9 +838,9 @@
       "id": "l-other-location",
       "word": "location",
       "display": "Location",
-      "phonetic": "",
-      "translation": "\u4f4d\u7f6e",
-      "sentence": "",
+      "phonetic": "/loʊˈkeɪʃən/",
+      "translation": "位置",
+      "sentence": "they shot the film on location in Nevada",
       "tags": [
         "root-family"
       ],
@@ -850,9 +850,9 @@
       "id": "l-other-lock",
       "word": "lock",
       "display": "Lock",
-      "phonetic": "",
-      "translation": "\u9501",
-      "sentence": "",
+      "phonetic": "/lɑk/",
+      "translation": "锁",
+      "sentence": "lock the bike to the fence",
       "tags": [
         "root-family"
       ],
@@ -862,9 +862,9 @@
       "id": "l-other-log",
       "word": "log",
       "display": "Log",
-      "phonetic": "",
-      "translation": "\u539f\u6728",
-      "sentence": "",
+      "phonetic": "/lɔg/",
+      "translation": "原木",
+      "sentence": "they kept a log of all transmission by the radio station",
       "tags": [
         "root-family"
       ],
@@ -874,9 +874,9 @@
       "id": "l-other-logic",
       "word": "logic",
       "display": "Logic",
-      "phonetic": "",
-      "translation": "\u903b\u8f91",
-      "sentence": "",
+      "phonetic": "/ˈlɑʤɪk/",
+      "translation": "逻辑",
+      "sentence": "it made a certain kind of logic",
       "tags": [
         "root-family"
       ],
@@ -886,9 +886,9 @@
       "id": "l-other-lone",
       "word": "lone",
       "display": "Lone",
-      "phonetic": "",
-      "translation": "\u5b64\u72ec\u7684",
-      "sentence": "",
+      "phonetic": "/loʊn/",
+      "translation": "孤独的",
+      "sentence": "he was alone when we met him",
       "tags": [
         "root-family"
       ],
@@ -898,9 +898,9 @@
       "id": "l-other-lonely",
       "word": "lonely",
       "display": "Lonely",
-      "phonetic": "",
-      "translation": "\u5b64\u72ec\u7684",
-      "sentence": "",
+      "phonetic": "/ˈloʊnli/",
+      "translation": "孤独的",
+      "sentence": "a lonely fisherman stood on a tuft of gravel",
       "tags": [
         "root-family"
       ],
@@ -910,9 +910,9 @@
       "id": "l-other-long",
       "word": "long",
       "display": "Long",
-      "phonetic": "",
-      "translation": "\u957f",
-      "sentence": "",
+      "phonetic": "/lɔŋ/",
+      "translation": "长",
+      "sentence": "a long life",
       "tags": [
         "root-family"
       ],
@@ -922,9 +922,9 @@
       "id": "l-other-look",
       "word": "look",
       "display": "Look",
-      "phonetic": "",
-      "translation": "\u770b",
-      "sentence": "",
+      "phonetic": "/lʊk/",
+      "translation": "看",
+      "sentence": "a look of triumph",
       "tags": [
         "root-family"
       ],
@@ -934,9 +934,9 @@
       "id": "l-other-loose",
       "word": "loose",
       "display": "Loose",
-      "phonetic": "",
-      "translation": "\u677e\u7684",
-      "sentence": "",
+      "phonetic": "/luːs/",
+      "translation": "松的",
+      "sentence": "let loose mines",
       "tags": [
         "root-family"
       ],
@@ -946,9 +946,9 @@
       "id": "l-other-loosen",
       "word": "loosen",
       "display": "Loosen",
-      "phonetic": "",
-      "translation": "\u677e\u5f00",
-      "sentence": "",
+      "phonetic": "/ˈlusən/",
+      "translation": "松开",
+      "sentence": "loosen the tension on a rope",
       "tags": [
         "root-family"
       ],
@@ -958,9 +958,9 @@
       "id": "l-other-lose",
       "word": "lose",
       "display": "Lose",
-      "phonetic": "",
-      "translation": "\u5931\u53bb",
-      "sentence": "",
+      "phonetic": "/luːz/",
+      "translation": "失去",
+      "sentence": "She lost her purse when she left it unattended on her seat",
       "tags": [
         "root-family"
       ],
@@ -970,9 +970,9 @@
       "id": "l-other-loss",
       "word": "loss",
       "display": "Loss",
-      "phonetic": "",
-      "translation": "\u635f\u5931",
-      "sentence": "",
+      "phonetic": "/lɔs/",
+      "translation": "损失",
+      "sentence": "the car was a total loss",
       "tags": [
         "root-family"
       ],
@@ -982,9 +982,9 @@
       "id": "l-other-lost",
       "word": "lost",
       "display": "Lost",
-      "phonetic": "",
-      "translation": "\u4e22\u5931\u7684",
-      "sentence": "",
+      "phonetic": "/lɔst/",
+      "translation": "丢失的",
+      "sentence": "She lost her purse when she left it unattended on her seat",
       "tags": [
         "root-family"
       ],
@@ -994,9 +994,9 @@
       "id": "l-other-lot",
       "word": "lot",
       "display": "Lot",
-      "phonetic": "",
-      "translation": "\u8bb8\u591a",
-      "sentence": "",
+      "phonetic": "/lɔt/",
+      "translation": "许多",
+      "sentence": "a lot of money",
       "tags": [
         "root-family"
       ],
@@ -1006,9 +1006,9 @@
       "id": "l-other-lottery",
       "word": "lottery",
       "display": "Lottery",
-      "phonetic": "",
-      "translation": "\u5f69\u7968",
-      "sentence": "",
+      "phonetic": "/ˈlɑtəri/",
+      "translation": "彩票",
+      "sentence": "the election was just a lottery to them",
       "tags": [
         "root-family"
       ],
@@ -1018,9 +1018,9 @@
       "id": "l-other-loud",
       "word": "loud",
       "display": "Loud",
-      "phonetic": "",
-      "translation": "\u5927\u58f0\u7684",
-      "sentence": "",
+      "phonetic": "/laʊd/",
+      "translation": "大声的",
+      "sentence": "a group of loud children",
       "tags": [
         "root-family"
       ],
@@ -1030,9 +1030,9 @@
       "id": "l-other-love",
       "word": "love",
       "display": "Love",
-      "phonetic": "",
-      "translation": "\u7231",
-      "sentence": "",
+      "phonetic": "/ləv/",
+      "translation": "爱",
+      "sentence": "his love for his work",
       "tags": [
         "root-family"
       ],
@@ -1042,9 +1042,9 @@
       "id": "l-other-lovely",
       "word": "lovely",
       "display": "Lovely",
-      "phonetic": "",
-      "translation": "\u53ef\u7231\u7684",
-      "sentence": "",
+      "phonetic": "/ˈləvli/",
+      "translation": "可爱的",
+      "sentence": "A lovely is a very pretty girl who works as a photographer's model.",
       "tags": [
         "root-family"
       ],
@@ -1054,9 +1054,9 @@
       "id": "l-other-lover",
       "word": "lover",
       "display": "Lover",
-      "phonetic": "",
-      "translation": "\u7231\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈləvər/",
+      "translation": "爱人",
+      "sentence": "A lover is a person who loves someone or is loved by someone.",
       "tags": [
         "root-family"
       ],
@@ -1066,9 +1066,9 @@
       "id": "l-other-low",
       "word": "low",
       "display": "Low",
-      "phonetic": "",
-      "translation": "\u4f4e\u7684",
-      "sentence": "",
+      "phonetic": "/loʊ/",
+      "translation": "低的",
+      "sentence": "a low moved in over night bringing sleet and snow",
       "tags": [
         "root-family"
       ],
@@ -1078,9 +1078,9 @@
       "id": "l-other-lower",
       "word": "lower",
       "display": "Lower",
-      "phonetic": "",
-      "translation": "\u964d\u4f4e",
-      "sentence": "",
+      "phonetic": "/loʊər/",
+      "translation": "降低",
+      "sentence": "lower a rating",
       "tags": [
         "root-family"
       ],
@@ -1090,9 +1090,9 @@
       "id": "l-other-loyal",
       "word": "loyal",
       "display": "Loyal",
-      "phonetic": "",
-      "translation": "\u5fe0\u8bda\u7684",
-      "sentence": "",
+      "phonetic": "/lɔɪəl/",
+      "translation": "忠诚的",
+      "sentence": "loyal subjects",
       "tags": [
         "root-family"
       ],
@@ -1102,9 +1102,9 @@
       "id": "l-other-loyalty",
       "word": "loyalty",
       "display": "Loyalty",
-      "phonetic": "",
-      "translation": "\u5fe0\u8bda",
-      "sentence": "",
+      "phonetic": "/ˈlɔɪəlti/",
+      "translation": "忠诚",
+      "sentence": "they felt no loyalty to a losing team",
       "tags": [
         "root-family"
       ],
@@ -1114,9 +1114,9 @@
       "id": "l-other-luck",
       "word": "luck",
       "display": "Luck",
-      "phonetic": "",
-      "translation": "\u8fd0\u6c14",
-      "sentence": "",
+      "phonetic": "/lək/",
+      "translation": "运气",
+      "sentence": "the luck of the Irish",
       "tags": [
         "root-family"
       ],
@@ -1126,9 +1126,9 @@
       "id": "l-other-luckily",
       "word": "luckily",
       "display": "Luckily",
-      "phonetic": "",
-      "translation": "\u5e78\u8fd0\u5730",
-      "sentence": "",
+      "phonetic": "/ˈləkəli/",
+      "translation": "幸运地",
+      "sentence": "fortunately the weather was good",
       "tags": [
         "root-family"
       ],
@@ -1138,9 +1138,9 @@
       "id": "l-other-lucky",
       "word": "lucky",
       "display": "Lucky",
-      "phonetic": "",
-      "translation": "\u5e78\u8fd0\u7684",
-      "sentence": "",
+      "phonetic": "/ˈləki/",
+      "translation": "幸运的",
+      "sentence": "a lucky escape",
       "tags": [
         "root-family"
       ],
@@ -1150,9 +1150,9 @@
       "id": "l-other-lump",
       "word": "lump",
       "display": "Lump",
-      "phonetic": "",
-      "translation": "\u5757",
-      "sentence": "",
+      "phonetic": "/ləmp/",
+      "translation": "块",
+      "sentence": "a lump of coal",
       "tags": [
         "root-family"
       ],
@@ -1162,9 +1162,9 @@
       "id": "l-other-lunch",
       "word": "lunch",
       "display": "Lunch",
-      "phonetic": "",
-      "translation": "\u5348\u9910",
-      "sentence": "",
+      "phonetic": "/lənʧ/",
+      "translation": "午餐",
+      "sentence": "At what time are you lunching?",
       "tags": [
         "root-family"
       ],
@@ -1174,9 +1174,9 @@
       "id": "l-other-lure",
       "word": "lure",
       "display": "Lure",
-      "phonetic": "",
-      "translation": "\u5f15\u8bf1",
-      "sentence": "",
+      "phonetic": "/lʊr/",
+      "translation": "引诱",
+      "sentence": "He lured me into temptation",
       "tags": [
         "root-family"
       ],
@@ -1186,9 +1186,9 @@
       "id": "l-other-outline",
       "word": "outline",
       "display": "Outline",
-      "phonetic": "",
-      "translation": "\u8f6e\u5ed3",
-      "sentence": "",
+      "phonetic": "/ˈaʊˌtlaɪn/",
+      "translation": "轮廓",
+      "sentence": "sketch the outline of the book",
       "tags": [
         "root-family"
       ],
@@ -1198,9 +1198,9 @@
       "id": "l-other-outlook",
       "word": "outlook",
       "display": "Outlook",
-      "phonetic": "",
-      "translation": "\u89c2\u70b9",
-      "sentence": "",
+      "phonetic": "/ˈaʊˌtlʊk/",
+      "translation": "观点",
+      "sentence": "An outlook is a habitual or characteristic mental attitude that determines how you will interpret and respond to situations.",
       "tags": [
         "root-family"
       ],
@@ -1210,9 +1210,9 @@
       "id": "l-other-overlook",
       "word": "overlook",
       "display": "Overlook",
-      "phonetic": "",
-      "translation": "\u4fef\u77b0",
-      "sentence": "",
+      "phonetic": "/ˈoʊvərˌlʊk/",
+      "translation": "俯瞰",
+      "sentence": "The apartment overlooks the Hudson",
       "tags": [
         "root-family"
       ],
@@ -1222,9 +1222,9 @@
       "id": "l-other-relapse",
       "word": "relapse",
       "display": "Relapse",
-      "phonetic": "",
-      "translation": "\u590d\u53d1",
-      "sentence": "",
+      "phonetic": "/riˈlæps/",
+      "translation": "复发",
+      "sentence": "he relapsed",
       "tags": [
         "root-family"
       ],
@@ -1234,9 +1234,9 @@
       "id": "l-other-unload",
       "word": "unload",
       "display": "Unload",
-      "phonetic": "",
-      "translation": "\u5378\u8f7d",
-      "sentence": "",
+      "phonetic": "/ənˈloʊd/",
+      "translation": "卸载",
+      "sentence": "unload the cargo",
       "tags": [
         "root-family"
       ],
@@ -1247,5 +1247,6 @@
   "rootLevel": 2,
   "rootPath": "l>l-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

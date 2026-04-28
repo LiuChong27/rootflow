@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "m-important-summary",
-  "root": "\u5c0f\u7ed3",
+  "root": "小结",
   "meaning": "summary",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "小结",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "m-important",
-  "rootLevel": 3,
-  "rootPath": "m>m-important>m-important-summary",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "m-important-summary",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

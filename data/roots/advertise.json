@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "advertise",
   "root": "advertise",
-  "meaning": "",
-  "descriptionCn": "\u516c\u544a",
-  "updatedAt": "2026-04-15",
+  "meaning": "advertise family",
+  "descriptionCn": "公告",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "advertise",
       "word": "advertise",
       "display": "Advertise",
-      "phonetic": "",
-      "translation": "\u516c\u544a",
-      "sentence": "",
+      "phonetic": "/ˈædvərˌtaɪz/",
+      "translation": "公告",
+      "sentence": "Please don't advertise the fact that he has AIDS",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advertise",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

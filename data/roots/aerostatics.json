@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aerostatics",
   "root": "aerostatics",
-  "meaning": "",
-  "descriptionCn": "\u7a7a\u6c14\u9759\u529b\u5b66",
-  "updatedAt": "2026-04-15",
+  "meaning": "aerostatics family",
+  "descriptionCn": "空气静力学",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aerostatics-aerostatics-2",
       "word": "aerostatics",
       "display": "Aerostatics",
-      "phonetic": "",
-      "translation": "\u7a7a\u6c14\u9759\u529b\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌɛroʊstˈætɪks/",
+      "translation": "空气静力学",
+      "sentence": "The aerostatics quickly became part of the discussion.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>aer>aerostatics",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

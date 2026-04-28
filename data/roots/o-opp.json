@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-opp",
-  "root": "opp\u76f8\u5bf9",
+  "root": "opp相对",
   "meaning": "opposite",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "相对",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-opp-opponent",
       "word": "opponent",
       "display": "Opponent",
-      "phonetic": "",
-      "translation": "\u5bf9\u624b\uff1b\u5bf9\u6297\u7684",
-      "sentence": "",
+      "phonetic": "/əˈpoʊnənt/",
+      "translation": "对手；对抗的",
+      "sentence": "opponent (or opposing) armies",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-opp-opportunity",
       "word": "opportunity",
       "display": "Opportunity",
-      "phonetic": "",
-      "translation": "\u673a\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˌɑpərˈtunəti/",
+      "translation": "机会",
+      "sentence": "the holiday gave us the opportunity to visit Washington",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-opp-oppose",
       "word": "oppose",
       "display": "Oppose",
-      "phonetic": "",
-      "translation": "\u53cd\u5bf9",
-      "sentence": "",
+      "phonetic": "/əˈpoʊz/",
+      "translation": "反对",
+      "sentence": "We oppose the ban on abortion",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-opp-opposite",
       "word": "opposite",
       "display": "Opposite",
-      "phonetic": "",
-      "translation": "\u5bf9\u9762\u7684\uff1b\u76f8\u5bf9\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɑpəzɪt/",
+      "translation": "对面的；相对的",
+      "sentence": "And I on the opposite shore will be, ready to ride and spread the alarm",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-opp-oppress",
       "word": "oppress",
       "display": "Oppress",
-      "phonetic": "",
-      "translation": "\u538b\u8feb",
-      "sentence": "",
+      "phonetic": "/əˈprɛs/",
+      "translation": "压迫",
+      "sentence": "The government oppresses political activists",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-opp",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

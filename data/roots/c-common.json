@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "c-common",
-  "root": "C\u5171\u540c",
+  "root": "C共同",
   "meaning": "common",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "共同",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "c",
-  "rootLevel": 2,
-  "rootPath": "c>c-common",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "c-common",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-dom",
-  "root": "dom \u5c4b\u3001\u5bb6",
+  "root": "dom 屋、家",
   "meaning": "dom",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "屋、家",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-dom-daunt",
       "word": "daunt",
       "display": "Daunt",
-      "phonetic": "",
-      "translation": "\u4f7f\u6c14\u9981",
-      "sentence": "",
+      "phonetic": "/dɔnt/",
+      "translation": "使气馁",
+      "sentence": "dashed by the refusal",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-dom-domain",
       "word": "domain",
       "display": "Domain",
-      "phonetic": "",
-      "translation": "\u9886\u571f\uff1b\u9886\u57df",
-      "sentence": "",
+      "phonetic": "/doʊˈmeɪn/",
+      "translation": "领土；领域",
+      "sentence": "his domain extended into Europe",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-dom-dome",
       "word": "dome",
       "display": "Dome",
-      "phonetic": "",
-      "translation": "\u5706\u5c4b\u9876",
-      "sentence": "",
+      "phonetic": "/doʊm/",
+      "translation": "圆屋顶",
+      "sentence": "A dome is a concave shape whose distinguishing characteristic is that the concavity faces downward.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-other-dom-domestic",
       "word": "domestic",
       "display": "Domestic",
-      "phonetic": "",
-      "translation": "\u5bb6\u91cc\u7684\uff1b\u9a6f\u670d\u7684\uff1b\u56fd\u5185\u7684",
-      "sentence": "",
+      "phonetic": "/dəˈmɛstɪk/",
+      "translation": "家里的；驯服的；国内的",
+      "sentence": "domestic issues such as tax rate and highway construction",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-other-dom-domesticate",
       "word": "domesticate",
       "display": "Domesticate",
-      "phonetic": "",
-      "translation": "\u4f7f\u559c\u7231\u5bb6\u52a1\uff1b\u9a6f\u517b",
-      "sentence": "",
+      "phonetic": "/dəˈmɛstəˌkeɪt/",
+      "translation": "使喜爱家务；驯养",
+      "sentence": "domesticate oats",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-other-dom-domesticity",
       "word": "domesticity",
       "display": "Domesticity",
-      "phonetic": "",
-      "translation": "\u5bb6\u5ead\u751f\u6d3b",
-      "sentence": "",
+      "phonetic": "/ˌdoʊˌmɛˈstɪsəti/",
+      "translation": "家庭生活",
+      "sentence": "a royal family living in unpretentious domesticity",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-other-dom-domical",
       "word": "domical",
       "display": "Domical",
-      "phonetic": "",
-      "translation": "\u5706\u5c4b\u9876\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɑməkəl/",
+      "translation": "圆屋顶的",
+      "sentence": "Domical is used here with the sense of \"圆屋顶的\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-other-dom-domicile",
       "word": "domicile",
       "display": "Domicile",
-      "phonetic": "",
-      "translation": "\u5bb6\uff1b\u4f4f\u6240",
-      "sentence": "",
+      "phonetic": "/dˈɑmʌsʌl/",
+      "translation": "家；住所",
+      "sentence": "what's his legal residence?",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-other-dom-dominant",
       "word": "dominant",
       "display": "Dominant",
-      "phonetic": "",
-      "translation": "\u6709\u652f\u914d\u6743",
-      "sentence": "",
+      "phonetic": "/ˈdɑmənənt/",
+      "translation": "有支配权",
+      "sentence": "television plays a dominant role in molding public opinion",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-other-dom-dominate",
       "word": "dominate",
       "display": "Dominate",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb",
-      "sentence": "",
+      "phonetic": "/ˈdɑməˌneɪt/",
+      "translation": "统治",
+      "sentence": "Hispanics predominate in this neighborhood",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-other-dom-domination",
       "word": "domination",
       "display": "Domination",
-      "phonetic": "",
-      "translation": "\u63a7\u5236",
-      "sentence": "",
+      "phonetic": "/ˌdɑməˈneɪʃən/",
+      "translation": "控制",
+      "sentence": "mastery of the seas",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-other-dom-domineer",
       "word": "domineer",
       "display": "Domineer",
-      "phonetic": "",
-      "translation": "\u538b\u5236",
-      "sentence": "",
+      "phonetic": "/ˌdɑməˈnɪr/",
+      "translation": "压制",
+      "sentence": "her husband and mother-in-law tyrannize her",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-other-dom-dominion",
       "word": "dominion",
       "display": "Dominion",
-      "phonetic": "",
-      "translation": "\u4e3b\u6743",
-      "sentence": "",
+      "phonetic": "/dəˈmɪnjən/",
+      "translation": "主权",
+      "sentence": "France held undisputed dominion over vast areas of Africa",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "d-other-dom-predominance",
       "word": "predominance",
       "display": "Predominance",
-      "phonetic": "",
-      "translation": "\u4f18\u52bf",
-      "sentence": "",
+      "phonetic": "/prɪˈdɑmənəns/",
+      "translation": "优势",
+      "sentence": "the predomination of blues gave the painting a quiet tone",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "d-other-dom-predominant",
       "word": "predominant",
       "display": "Predominant",
-      "phonetic": "",
-      "translation": "\u5353\u8d8a\u7684\uff1b\u652f\u914d\u7684\uff1b\u4e3b\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/prɪˈdɑmənənt/",
+      "translation": "卓越的；支配的；主要的",
+      "sentence": "the predominant mood among policy-makers is optimism",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "d-other-dom-undaunted",
       "word": "undaunted",
       "display": "Undaunted",
-      "phonetic": "",
-      "translation": "\u65e0\u6240\u754f\u60e7\u7684",
-      "sentence": "",
+      "phonetic": "/ənˈdɔntɪd/",
+      "translation": "无所畏惧的",
+      "sentence": "undaunted in the face of death",
       "tags": [
         "root-family"
       ],
@@ -203,5 +203,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-other>d-other-dom",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,13 +2,14 @@
   "version": 1,
   "rootId": "t-tract",
   "root": "tract",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tract",
+  "descriptionCn": "tract",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "t",
+  "parentRootId": "",
   "rootLevel": 1,
-  "rootPath": "t>t-tract",
+  "rootPath": "t-tract",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

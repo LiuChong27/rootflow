@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "augment-enhance",
   "root": "augment=enhance",
-  "meaning": "",
-  "descriptionCn": "\u589e\u52a0",
-  "updatedAt": "2026-04-15",
+  "meaning": "augment=enhance",
+  "descriptionCn": "增加",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "augment-augment-enhance-2",
       "word": "augment",
       "display": "Augment",
-      "phonetic": "",
-      "translation": "\u589e\u52a0",
-      "sentence": "",
+      "phonetic": "/ɔgˈmɛnt/",
+      "translation": "增加",
+      "sentence": "The recent speech of the president augmented tensions in the Near East",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "enhance-augment-enhance-2",
       "word": "enhance",
       "display": "Enhance",
-      "phonetic": "",
-      "translation": "\u589e\u52a0",
-      "sentence": "",
+      "phonetic": "/ɛnˈhæns/",
+      "translation": "增加",
+      "sentence": "This will enhance your enjoyment",
       "tags": [
         "root-family",
         "other"
@@ -37,5 +37,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>augment-enhance",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

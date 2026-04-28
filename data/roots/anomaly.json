@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "anomaly",
   "root": "anomaly",
-  "meaning": "",
-  "descriptionCn": "\u4e0d\u89c4\u5219",
-  "updatedAt": "2026-04-15",
+  "meaning": "anomaly family",
+  "descriptionCn": "不规则",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "anomaly-anomaly-2",
       "word": "anomaly",
       "display": "Anomaly",
-      "phonetic": "",
-      "translation": "\u4e0d\u89c4\u5219",
-      "sentence": "",
+      "phonetic": "/əˈnɑməli/",
+      "translation": "不规则",
+      "sentence": "An anomaly is deviation from the normal or common order or form or rule.",
       "tags": [
         "root-family",
         "physics"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>a-without>a-without-physical>anomaly",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

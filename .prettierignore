@@ -2,6 +2,7 @@ node_modules
 unpackage
 logs
 data
+pages/shards_data/shards
 tmp-hierarchy-check
 A.pdf
 tmp-A.pdf

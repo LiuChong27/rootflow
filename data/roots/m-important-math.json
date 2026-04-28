@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-important-math",
-  "root": "\u6570\u5b66\u5927\u5c0f",
+  "root": "数学大小",
   "meaning": "math",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "数学大小",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-important-math-magn-magazine",
       "word": "magazine",
       "display": "Magazine",
-      "phonetic": "",
-      "translation": "\u6742\u5fd7\uff1b\u671f\u520a",
-      "sentence": "",
+      "phonetic": "/ˈmægəˌzin/",
+      "translation": "杂志；期刊",
+      "sentence": "it takes several years before a magazine starts to break even or make money",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-important-math-magn-magnet",
       "word": "magnet",
       "display": "Magnet",
-      "phonetic": "",
-      "translation": "\u78c1\u4f53",
-      "sentence": "",
+      "phonetic": "/ˈmægnət/",
+      "translation": "磁体",
+      "sentence": "flowers are an attractor for bees",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-important-math-magn-magnetic",
       "word": "magnetic",
       "display": "Magnetic",
-      "phonetic": "",
-      "translation": "\u6709\u78c1\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/mægˈnɛtɪk/",
+      "translation": "有磁性的",
+      "sentence": "magnetic forces",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "m-important-math-magn-magnificent",
       "word": "magnificent",
       "display": "Magnificent",
-      "phonetic": "",
-      "translation": "\u5b8f\u4f1f\u7684\uff1b\u534e\u4e3d\u7684",
-      "sentence": "",
+      "phonetic": "/mægˈnɪfɪsənt/",
+      "translation": "宏伟的；华丽的",
+      "sentence": "magnificent cathedrals",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "m-important-math-magn-magnify",
       "word": "magnify",
       "display": "Magnify",
-      "phonetic": "",
-      "translation": "\u653e\u5927\uff1b\u6269\u5927\uff1b\u5938\u5f20",
-      "sentence": "",
+      "phonetic": "/ˈmægnəˌfaɪ/",
+      "translation": "放大；扩大；夸张",
+      "sentence": "Her terror was magnified in her mind",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "m-important-math-magn-magnitude",
       "word": "magnitude",
       "display": "Magnitude",
-      "phonetic": "",
-      "translation": "\u5927\u5c0f\uff1b\u6570\u91cf\uff1b\u5de8\u5927",
-      "sentence": "",
+      "phonetic": "/ˈmægnəˌtud/",
+      "translation": "大小；数量；巨大",
+      "sentence": "they tried to predict the magnitude of the explosion",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "m-important-math-magn-major",
       "word": "major",
       "display": "Major",
-      "phonetic": "",
-      "translation": "\u4e3b\u8981\u7684\uff1b\u4e3b\u4fee\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmeɪʤər/",
+      "translation": "主要的；主修的",
+      "sentence": "she is a linguistics major",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "m-important-math-magn-majority",
       "word": "majority",
       "display": "Majority",
-      "phonetic": "",
-      "translation": "\u591a\u6570\uff1b\u6210\u5e74",
-      "sentence": "",
+      "phonetic": "/məˈʤɔrəti/",
+      "translation": "多数；成年",
+      "sentence": "the majority of his customers prefer it",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "m-important-math-mass-massacre",
       "word": "massacre",
       "display": "Massacre",
-      "phonetic": "",
-      "translation": "\u6b8b\u6740\uff1b\u5927\u5c60\u6740",
-      "sentence": "",
+      "phonetic": "/ˈmæsəkər/",
+      "translation": "残杀；大屠杀",
+      "sentence": "The Hutus massacred the Tutsis in Rwanda",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "m-important-math-mass-massive",
       "word": "massive",
       "display": "Massive",
-      "phonetic": "",
-      "translation": "\u539a\u5b9e\u7684\uff1b\u5927\u89c4\u6a21\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmæsɪv/",
+      "translation": "厚实的；大规模的",
+      "sentence": "massive oak doors",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "m-important-math-mass-mess",
       "word": "mess",
       "display": "Mess",
-      "phonetic": "",
-      "translation": "\u6742\u4e71",
-      "sentence": "",
+      "phonetic": "/mɛs/",
+      "translation": "杂乱",
+      "sentence": "the house was a mess",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "m-important-math-maths-mathematical",
       "word": "mathematical",
       "display": "Mathematical",
-      "phonetic": "",
-      "translation": "\u6570\u5b66\u7684",
-      "sentence": "",
+      "phonetic": "/ˌmæθəˈmætɪkəl/",
+      "translation": "数学的",
+      "sentence": "a mathematical textbook",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "m-important-math-maths-mean",
       "word": "mean",
       "display": "Mean",
-      "phonetic": "",
-      "translation": "\u5e73\u5747\u503c\uff1b\u5351\u9119\u7684\uff1b\u610f\u601d",
-      "sentence": "",
+      "phonetic": "/miːn/",
+      "translation": "平均值；卑鄙的；意思",
+      "sentence": "You never understand what I mean!",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "m-important-math-maths-meaning",
       "word": "meaning",
       "display": "Meaning",
-      "phonetic": "",
-      "translation": "\u542b\u4e49\uff1b\u4ef7\u503c\uff1b\u91cd\u8981\u6027",
-      "sentence": "",
+      "phonetic": "/ˈminɪŋ/",
+      "translation": "含义；价值；重要性",
+      "sentence": "what is the meaning of this sentence",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "m-important-math-maths-means",
       "word": "means",
       "display": "Means",
-      "phonetic": "",
-      "translation": "\u65b9\u6cd5\uff1b\u624b\u6bb5",
-      "sentence": "",
+      "phonetic": "/miːnz/",
+      "translation": "方法；手段",
+      "sentence": "a means of control",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "m-important-math-maths-meantime",
       "word": "meantime",
       "display": "Meantime",
-      "phonetic": "",
-      "translation": "\u540c\u65f6",
-      "sentence": "",
+      "phonetic": "/ˈminˌtaɪm/",
+      "translation": "同时",
+      "sentence": "meantime he was attentive to his other interests",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "m-important-math-maths-meanwhile",
       "word": "meanwhile",
       "display": "Meanwhile",
-      "phonetic": "",
-      "translation": "\u4e0e\u6b64\u540c\u65f6",
-      "sentence": "",
+      "phonetic": "/ˈminˌwaɪl/",
+      "translation": "与此同时",
+      "sentence": "meanwhile the socialists are running the government",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "m-important-math-medi-medieval",
       "word": "medieval",
       "display": "Medieval",
-      "phonetic": "",
-      "translation": "\u4e2d\u4e16\u7eaa\u7684\uff1b\u539f\u59cb\u7684",
-      "sentence": "",
+      "phonetic": "/mɪˈdjivəl/",
+      "translation": "中世纪的；原始的",
+      "sentence": "Medieval scholars",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "m-important-math-medi-medium",
       "word": "medium",
       "display": "Medium",
-      "phonetic": "",
-      "translation": "\u5a92\u4f53\uff1b\u5a92\u4ecb\uff1b\u4e2d\u7b49\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmidiəm/",
+      "translation": "媒体；媒介；中等的",
+      "sentence": "fish require an aqueous medium",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "m-important-math-medi-middle",
       "word": "middle",
       "display": "Middle",
-      "phonetic": "",
-      "translation": "\u4e2d\u95f4",
-      "sentence": "",
+      "phonetic": "/ˈmɪdəl/",
+      "translation": "中间",
+      "sentence": "A whole is that which has beginning, middle, and end",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "m-important-math-medi-midst",
       "word": "midst",
       "display": "Midst",
-      "phonetic": "",
-      "translation": "\u4e2d\u95f4",
-      "sentence": "",
+      "phonetic": "/mɪst/",
+      "translation": "中间",
+      "sentence": "in the midst of the crowd",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "m-important-math-mini-merely",
       "word": "merely",
       "display": "Merely",
-      "phonetic": "",
-      "translation": "\u4ec5\u4ec5",
-      "sentence": "",
+      "phonetic": "/ˈmɪrli/",
+      "translation": "仅仅",
+      "sentence": "I was merely asking",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "m-important-math-mini-microphone",
       "word": "microphone",
       "display": "Microphone",
-      "phonetic": "",
-      "translation": "\u6269\u97f3\u5668\uff1b\u8bdd\u7b52",
-      "sentence": "",
+      "phonetic": "/ˈmaɪkrəˌfoʊn/",
+      "translation": "扩音器；话筒",
+      "sentence": "A microphone is device for converting sound waves into electrical energy.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "m-important-math-mini-microscope",
       "word": "microscope",
       "display": "Microscope",
-      "phonetic": "",
-      "translation": "\u663e\u5fae\u955c",
-      "sentence": "",
+      "phonetic": "/ˈmaɪkrəˌskoʊp/",
+      "translation": "显微镜",
+      "sentence": "the invention of the microscope led to the discovery of the cell",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "m-important-math-mini-miniature",
       "word": "miniature",
       "display": "Miniature",
-      "phonetic": "",
-      "translation": "\u7f29\u5c0f\u7684\uff1b\u5fae\u578b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɪnɪˌʧʊr/",
+      "translation": "缩小的；微型的",
+      "sentence": "a miniature camera",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "m-important-math-mini-minimize",
       "word": "minimize",
       "display": "Minimize",
-      "phonetic": "",
-      "translation": "\u4f7f\u51cf\u5c11\u5230\u6700\u5c11",
-      "sentence": "",
+      "phonetic": "/ˈmɪnəˌmaɪz/",
+      "translation": "使减少到最少",
+      "sentence": "Let's minimize the risk",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "m-important-math-mini-minimum",
       "word": "minimum",
       "display": "Minimum",
-      "phonetic": "",
-      "translation": "\u6700\u5c0f\u503c",
-      "sentence": "",
+      "phonetic": "/ˈmɪnəməm/",
+      "translation": "最小值",
+      "sentence": "minimum wage",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "m-important-math-mini-minor",
       "word": "minor",
       "display": "Minor",
-      "phonetic": "",
-      "translation": "\u8f83\u5c0f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmaɪnər/",
+      "translation": "较小的",
+      "sentence": "a minor poet",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "m-important-math-mini-minority",
       "word": "minority",
       "display": "Minority",
-      "phonetic": "",
-      "translation": "\u5c11\u6570",
-      "sentence": "",
+      "phonetic": "/məˈnɔrəti/",
+      "translation": "少数",
+      "sentence": "when the vote was taken they were in the minority",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "m-important-math-mixture-mingle",
       "word": "mingle",
       "display": "Mingle",
-      "phonetic": "",
-      "translation": "\u6df7\u5408",
-      "sentence": "",
+      "phonetic": "/ˈmɪŋgəl/",
+      "translation": "混合",
+      "sentence": "resourcefully he mingled music and dance",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "m-important-math-mixture-mix",
       "word": "mix",
       "display": "Mix",
-      "phonetic": "",
-      "translation": "\u6df7\u5408",
-      "sentence": "",
+      "phonetic": "/mɪks/",
+      "translation": "混合",
+      "sentence": "a gradual mixture of cultures",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "m-important-math-mixture-mixture",
       "word": "mixture",
       "display": "Mixture",
-      "phonetic": "",
-      "translation": "\u6df7\u5408\u7269",
-      "sentence": "",
+      "phonetic": "/ˈmɪksʧər/",
+      "translation": "混合物",
+      "sentence": "he drank a mixture of beer and lemonade",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "m-important-math-multiple-multiple",
       "word": "multiple",
       "display": "Multiple",
-      "phonetic": "",
-      "translation": "\u591a\u91cd\u7684\uff1b\u500d\u6570",
-      "sentence": "",
+      "phonetic": "/ˈməltəpəl/",
+      "translation": "多重的；倍数",
+      "sentence": "36 is a multiple of 9",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "m-important-math-multiple-multiply",
       "word": "multiply",
       "display": "Multiply",
-      "phonetic": "",
-      "translation": "\u500d\u589e\u7684\uff1b\u7e41\u6b96",
-      "sentence": "",
+      "phonetic": "/ˈməltəˌplaɪ/",
+      "translation": "倍增的；繁殖",
+      "sentence": "multiply 10 by 15",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "m-important-math-multiple-multitude",
       "word": "multitude",
       "display": "Multitude",
-      "phonetic": "",
-      "translation": "\u4f17\u591a\uff1b\u5927\u91cf",
-      "sentence": "",
+      "phonetic": "/ˈməltəˌtud/",
+      "translation": "众多；大量",
+      "sentence": "a multitude of TV antennas",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "m-important-math-unit-measure",
       "word": "measure",
       "display": "Measure",
-      "phonetic": "",
-      "translation": "\u6d4b\u91cf\uff1b\u6743\u8861",
-      "sentence": "",
+      "phonetic": "/ˈmɛʒər/",
+      "translation": "测量；权衡",
+      "sentence": "the situation called for strong measures",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "m-important-math-unit-metre",
       "word": "metre",
       "display": "Metre",
-      "phonetic": "",
-      "translation": "\u7c73",
-      "sentence": "",
+      "phonetic": "/ˈmitər/",
+      "translation": "米",
+      "sentence": "A metre is the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards).",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "m-important-math-unit-metric",
       "word": "metric",
       "display": "Metric",
-      "phonetic": "",
-      "translation": "\u7c73\u5236\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɛtrɪk/",
+      "translation": "米制的",
+      "sentence": "convert all the measurements to metric units",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "m-important-math-unit-mile",
       "word": "mile",
       "display": "Mile",
-      "phonetic": "",
-      "translation": "\u6d77\u91cc\uff1b\u82f1\u91cc",
-      "sentence": "",
+      "phonetic": "/maɪl/",
+      "translation": "海里；英里",
+      "sentence": "he missed by a mile",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "m-important-math-unit-millimeter",
       "word": "millimeter",
       "display": "Millimeter",
-      "phonetic": "",
-      "translation": "\u6beb\u7c73",
-      "sentence": "",
+      "phonetic": "/ˈmɪləˌmitər/",
+      "translation": "毫米",
+      "sentence": "A millimeter is a metric unit of length equal to one thousandth of a meter.",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "m-important-math-unit-million",
       "word": "million",
       "display": "Million",
-      "phonetic": "",
-      "translation": "\u767e\u4e07",
-      "sentence": "",
+      "phonetic": "/ˈmɪljən/",
+      "translation": "百万",
+      "sentence": "there were millions of flies",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "m-important-math-unit-minus",
       "word": "minus",
       "display": "Minus",
-      "phonetic": "",
-      "translation": "\u51cf\u53bb",
-      "sentence": "",
+      "phonetic": "/ˈmaɪnəs/",
+      "translation": "减去",
+      "sentence": "four minus three equals one",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "m-important-math-unit-minute",
       "word": "minute",
       "display": "Minute",
-      "phonetic": "",
-      "translation": "\u5206\u949f",
-      "sentence": "",
+      "phonetic": "/ˈmɪnət/",
+      "translation": "分钟",
+      "sentence": "he ran a 4 minute mile",
       "tags": [
         "root-family"
       ],
@@ -527,5 +527,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-important>m-important-math",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

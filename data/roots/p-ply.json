@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-ply",
-  "root": "ply=ple plic=plex \u6298\u53e0",
+  "root": "ply=ple plic=plex 折叠",
   "meaning": "fold",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "折叠",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-ply-accomplice",
       "word": "accomplice",
       "display": "Accomplice",
-      "phonetic": "",
-      "translation": "\u540c\u8c0b\u8005",
-      "sentence": "",
+      "phonetic": "/əˈkɑmpləs/",
+      "translation": "同谋者",
+      "sentence": "An accomplice is a person who joins with another in carrying out some plan (especially an unethical or illegal plan).",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-ply-appliance",
       "word": "appliance",
       "display": "Appliance",
-      "phonetic": "",
-      "translation": "\u7528\u5177",
-      "sentence": "",
+      "phonetic": "/əˈplaɪəns/",
+      "translation": "用具",
+      "sentence": "An appliance is a device or control that is very useful for a particular job.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-ply-applicable",
       "word": "applicable",
       "display": "Applicable",
-      "phonetic": "",
-      "translation": "\u53ef\u7528\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæpləkəbəl/",
+      "translation": "可用的",
+      "sentence": "gave applicable examples to support her argument",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-ply-apply",
       "word": "apply",
       "display": "Apply",
-      "phonetic": "",
-      "translation": "\u5e94\u7528\uff1b\u7533\u8bf7",
-      "sentence": "",
+      "phonetic": "/əˈplaɪ/",
+      "translation": "应用；申请",
+      "sentence": "Apply a magnetic field here",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-ply-complex",
       "word": "complex",
       "display": "Complex",
-      "phonetic": "",
-      "translation": "\u590d\u6742\u7684\uff1b\u7efc\u5408\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmplɛks/",
+      "translation": "复杂的；综合的",
+      "sentence": "the complex of shopping malls, houses, and roads created a new town",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-ply-complexion",
       "word": "complexion",
       "display": "Complexion",
-      "phonetic": "",
-      "translation": "\u80a4\u8272",
-      "sentence": "",
+      "phonetic": "/kəmˈplɛkʃən/",
+      "translation": "肤色",
+      "sentence": "diphthongs are complexions of vowels",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-ply-complicate",
       "word": "complicate",
       "display": "Complicate",
-      "phonetic": "",
-      "translation": "\u9ebb\u70e6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpləˌkeɪt/",
+      "translation": "麻烦的",
+      "sentence": "There was a new development that complicated the matter",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-ply-complicated",
       "word": "complicated",
       "display": "Complicated",
-      "phonetic": "",
-      "translation": "\u590d\u6742\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpləˌkeɪtəd/",
+      "translation": "复杂的",
+      "sentence": "There was a new development that complicated the matter",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-ply-complication",
       "word": "complication",
       "display": "Complication",
-      "phonetic": "",
-      "translation": "\u590d\u6742\u5316\uff1b\u5e76\u53d1\u75c7",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpləˈkeɪʃən/",
+      "translation": "复杂化；并发症",
+      "sentence": "her coming was a serious complication",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-ply-complicity",
       "word": "complicity",
       "display": "Complicity",
-      "phonetic": "",
-      "translation": "\u5171\u8c0b",
-      "sentence": "",
+      "phonetic": "/kəmˈplɪsɪti/",
+      "translation": "共谋",
+      "sentence": "A complicity is guilt as an accomplice in a crime or offense.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-ply-deploy",
       "word": "deploy",
       "display": "Deploy",
-      "phonetic": "",
-      "translation": "\u90e8\u7f72\uff1b\u5c55\u5f00",
-      "sentence": "",
+      "phonetic": "/dɪˈplɔɪ/",
+      "translation": "部署；展开",
+      "sentence": "The U.S. deploys its weapons in the Middle East",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-ply-diplomacy",
       "word": "diplomacy",
       "display": "Diplomacy",
-      "phonetic": "",
-      "translation": "\u5916\u4ea4",
-      "sentence": "",
+      "phonetic": "/dɪˈploʊməsi/",
+      "translation": "外交",
+      "sentence": "A diplomacy is negotiation between nations.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-ply-display",
       "word": "display",
       "display": "Display",
-      "phonetic": "",
-      "translation": "\u5c55\u89c8\uff1b\u663e\u793a",
-      "sentence": "",
+      "phonetic": "/dɪˈspleɪ/",
+      "translation": "展览；显示",
+      "sentence": "made a display of strength",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-ply-duplex",
       "word": "duplex",
       "display": "Duplex",
-      "phonetic": "",
-      "translation": "\u53cc\u7684\uff1b\u4e8c\u91cd\u7684",
-      "sentence": "",
+      "phonetic": "/ˈduˌplɛks/",
+      "translation": "双的；二重的",
+      "sentence": "a duplex transaction",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-ply-duplicate",
       "word": "duplicate",
       "display": "Duplicate",
-      "phonetic": "",
-      "translation": "\u590d\u5236\u7684\uff1b\u4e24\u500d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdupləˌkeɪt/",
+      "translation": "复制的；两倍的",
+      "sentence": "he made a duplicate for the files",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-ply-duplicity",
       "word": "duplicity",
       "display": "Duplicity",
-      "phonetic": "",
-      "translation": "\u5978\u8bc8\uff1b\u4e24\u9762\u6d3e",
-      "sentence": "",
+      "phonetic": "/duˈplɪsɪti/",
+      "translation": "奸诈；两面派",
+      "sentence": "A duplicity is a fraudulent or duplicitous representation.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-ply-employ",
       "word": "employ",
       "display": "Employ",
-      "phonetic": "",
-      "translation": "\u96c7\u7528",
-      "sentence": "",
+      "phonetic": "/ɪmˈplɔɪ/",
+      "translation": "雇用",
+      "sentence": "they are looking for employment",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-ply-explicate",
       "word": "explicate",
       "display": "Explicate",
-      "phonetic": "",
-      "translation": "\u89e3\u91ca\uff1b\u9610\u8ff0",
-      "sentence": "",
+      "phonetic": "/ˈɛkspləˌkeɪt/",
+      "translation": "解释；阐述",
+      "sentence": "He explained the laws of physics to his students",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-ply-explicit",
       "word": "explicit",
       "display": "Explicit",
-      "phonetic": "",
-      "translation": "\u5916\u5728\u7684",
-      "sentence": "",
+      "phonetic": "/ɪkˈsplɪsət/",
+      "translation": "外在的",
+      "sentence": "explicit instructions",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-ply-exploit",
       "word": "exploit",
       "display": "Exploit",
-      "phonetic": "",
-      "translation": "\u5f00\u62d3",
-      "sentence": "",
+      "phonetic": "/ˌɛkˈsplɔɪt/",
+      "translation": "开拓",
+      "sentence": "He exploit the new taxation system",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "p-ply-implicate",
       "word": "implicate",
       "display": "Implicate",
-      "phonetic": "",
-      "translation": "\u542b\u4e49\uff1b\u6697\u793a",
-      "sentence": "",
+      "phonetic": "/ˈɪmplɪˌkeɪt/",
+      "translation": "含义；暗示",
+      "sentence": "He is implicated in the scheme to defraud the government",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "p-ply-implication",
       "word": "implication",
       "display": "Implication",
-      "phonetic": "",
-      "translation": "\u7275\u8fde\uff1b\u6697\u793a",
-      "sentence": "",
+      "phonetic": "/ˌɪmpləˈkeɪʃən/",
+      "translation": "牵连；暗示",
+      "sentence": "his resignation had political implications",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "p-ply-implicit",
       "word": "implicit",
       "display": "Implicit",
-      "phonetic": "",
-      "translation": "\u6697\u793a\u7684\uff1b\u542b\u84c4\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈplɪsət/",
+      "translation": "暗示的；含蓄的",
+      "sentence": "an implicit agreement not to raise the subject",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "p-ply-imply",
       "word": "imply",
       "display": "Imply",
-      "phonetic": "",
-      "translation": "\u6697\u793a",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈplaɪ/",
+      "translation": "暗示",
+      "sentence": "The water shortage means that we have to stop taking long showers",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "p-ply-multiply",
       "word": "multiply",
       "display": "Multiply",
-      "phonetic": "",
-      "translation": "\u4e58\uff1b\u589e\u52a0",
-      "sentence": "",
+      "phonetic": "/ˈməltəˌplaɪ/",
+      "translation": "乘；增加",
+      "sentence": "multiply 10 by 15",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "p-ply-perplex",
       "word": "perplex",
       "display": "Perplex",
-      "phonetic": "",
-      "translation": "\u4f7f\u6df7\u4e71",
-      "sentence": "",
+      "phonetic": "/pərˈplɛks/",
+      "translation": "使混乱",
+      "sentence": "This beats me!",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "p-ply-plait",
       "word": "plait",
       "display": "Plait",
-      "phonetic": "",
-      "translation": "\u7f16\u7ec7\uff1b\u6298\u53e0",
-      "sentence": "",
+      "phonetic": "/pleɪt/",
+      "translation": "编织；折叠",
+      "sentence": "plait hair",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "p-ply-pleat",
       "word": "pleat",
       "display": "Pleat",
-      "phonetic": "",
-      "translation": "\u6253\u8936",
-      "sentence": "",
+      "phonetic": "/pliːt/",
+      "translation": "打褶",
+      "sentence": "Pleat the cloth",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "p-ply-pliable",
       "word": "pliable",
       "display": "Pliable",
-      "phonetic": "",
-      "translation": "\u67d4\u8f6f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈplaɪəbəl/",
+      "translation": "柔软的",
+      "sentence": "they soaked the leather to made it pliable",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "p-ply-pliant",
       "word": "pliant",
       "display": "Pliant",
-      "phonetic": "",
-      "translation": "\u6613\u5f2f\u66f2\u7684",
-      "sentence": "",
+      "phonetic": "/plaɪənt/",
+      "translation": "易弯曲的",
+      "sentence": "a pliant nature",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "p-ply-replica",
       "word": "replica",
       "display": "Replica",
-      "phonetic": "",
-      "translation": "\u590d\u5236\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈrɛplɪkə/",
+      "translation": "复制品",
+      "sentence": "A replica is copy that is not the original; something that has been copied.",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "p-ply-replicate",
       "word": "replicate",
       "display": "Replicate",
-      "phonetic": "",
-      "translation": "\u590d\u5236",
-      "sentence": "",
+      "phonetic": "/ˈrɛplɪˌkeɪt/",
+      "translation": "复制",
+      "sentence": "replicate the cell",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "p-ply-reply",
       "word": "reply",
       "display": "Reply",
-      "phonetic": "",
-      "translation": "\u7b54\u590d\uff1b\u62a5\u590d",
-      "sentence": "",
+      "phonetic": "/rɪˈplaɪ/",
+      "translation": "答复；报复",
+      "sentence": "he growled his reply",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "p-ply-simple",
       "word": "simple",
       "display": "Simple",
-      "phonetic": "",
-      "translation": "\u7b80\u5355\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɪmpəl/",
+      "translation": "简单的",
+      "sentence": "a simple problem",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "p-ply-simpleton",
       "word": "simpleton",
       "display": "Simpleton",
-      "phonetic": "",
-      "translation": "\u50bb\u5b50",
-      "sentence": "",
+      "phonetic": "/sˈɪmplɪtɑn/",
+      "translation": "傻子",
+      "sentence": "A simpleton is a person lacking intelligence or common sense.",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "p-ply-simplify",
       "word": "simplify",
       "display": "Simplify",
-      "phonetic": "",
-      "translation": "\u4f7f\u7b80\u5316",
-      "sentence": "",
+      "phonetic": "/ˈsɪmpləˌfaɪ/",
+      "translation": "使简化",
+      "sentence": "We had to simplify the instructions",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "p-ply-supple",
       "word": "supple",
       "display": "Supple",
-      "phonetic": "",
-      "translation": "\u67d4\u8f6f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsəpəl/",
+      "translation": "柔软的",
+      "sentence": "These boots are not yet suppled by frequent use",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "p-ply-suppliant",
       "word": "suppliant",
       "display": "Suppliant",
-      "phonetic": "",
-      "translation": "\u6073\u6c42\u7684",
-      "sentence": "",
+      "phonetic": "/sˈʌplˌaɪʌnt/",
+      "translation": "恳求的",
+      "sentence": "a suppliant for her favors",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "p-ply-triplex",
       "word": "triplex",
       "display": "Triplex",
-      "phonetic": "",
-      "translation": "\u4e09\u500d",
-      "sentence": "",
+      "phonetic": "/trɪˈplɛks/",
+      "translation": "三倍",
+      "sentence": "triplex windows",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "p-ply-triplicate",
       "word": "triplicate",
       "display": "Triplicate",
-      "phonetic": "",
-      "translation": "\u4e09\u500d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈtrɪplɪkət/",
+      "translation": "三倍的",
+      "sentence": "triplicate the letter for the committee",
       "tags": [
         "root-family"
       ],
@@ -491,5 +491,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-ply",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

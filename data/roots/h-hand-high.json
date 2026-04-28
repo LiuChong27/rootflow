@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-hand-high",
-  "root": "\u5f15\u7533\uff1a\u9ad8",
+  "root": "引申：高",
   "meaning": "high",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "引申：高",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-hand-high-head",
       "word": "head",
       "display": "Head",
-      "phonetic": "",
-      "translation": "\u5934\uff1b\u9876\u90e8\uff1b\u9886\u5bfc",
-      "sentence": "",
+      "phonetic": "/hɛd/",
+      "translation": "头；顶部；领导",
+      "sentence": "he stuck his head out the window",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-hand-high-heading",
       "word": "heading",
       "display": "Heading",
-      "phonetic": "",
-      "translation": "\u6807\u9898",
-      "sentence": "",
+      "phonetic": "/ˈhɛdɪŋ/",
+      "translation": "标题",
+      "sentence": "the heading seemed to have little to do with the text",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-hand-high-headline",
       "word": "headline",
       "display": "Headline",
-      "phonetic": "",
-      "translation": "\u65b0\u95fb\u6807\u9898",
-      "sentence": "",
+      "phonetic": "/ˈhɛˌdlaɪn/",
+      "translation": "新闻标题",
+      "sentence": "A headline is the heading or caption of a newspaper article.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-hand-high-headmaster",
       "word": "headmaster",
       "display": "Headmaster",
-      "phonetic": "",
-      "translation": "\u6821\u957f",
-      "sentence": "",
+      "phonetic": "/ˈhɛdˈmæstər/",
+      "translation": "校长",
+      "sentence": "A headmaster is presiding officer of a school.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-hand-high-headquarters",
       "word": "headquarters",
       "display": "Headquarters",
-      "phonetic": "",
-      "translation": "\u53f8\u4ee4\u90e8\uff1b\u6307\u6325\u90e8",
-      "sentence": "",
+      "phonetic": "/ˈhɛdˌkɔrtərz/",
+      "translation": "司令部；指挥部",
+      "sentence": "many companies have their headquarters in New York",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "h-hand-high-heave",
       "word": "heave",
       "display": "Heave",
-      "phonetic": "",
-      "translation": "\u4e3e\u8d77\uff1b\u63d0\uff1b\u62c9",
-      "sentence": "",
+      "phonetic": "/hiːv/",
+      "translation": "举起；提；拉",
+      "sentence": "a bad case of the heaves",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "h-hand-high-heaven",
       "word": "heaven",
       "display": "Heaven",
-      "phonetic": "",
-      "translation": "\u5929\u7a7a\uff1b\u5929\u5802",
-      "sentence": "",
+      "phonetic": "/ˈhɛvən/",
+      "translation": "天空；天堂",
+      "sentence": "A heaven is any place of complete bliss and delight and peace.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "h-hand-high-heavy",
       "word": "heavy",
       "display": "Heavy",
-      "phonetic": "",
-      "translation": "\u91cd\u7684\uff1b\u5927\u91cf\u7684\uff1b\u731b\u70c8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhɛvi/",
+      "translation": "重的；大量的；猛烈的",
+      "sentence": "a heavy load",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "h-hand-high-height",
       "word": "height",
       "display": "Height",
-      "phonetic": "",
-      "translation": "\u9ad8\u5ea6",
-      "sentence": "",
+      "phonetic": "/haɪt/",
+      "translation": "高度",
+      "sentence": "at the height of her career",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "h-hand-high-heighten",
       "word": "heighten",
       "display": "Heighten",
-      "phonetic": "",
-      "translation": "\u63d0\u9ad8\uff1b\u63d0\u5347",
-      "sentence": "",
+      "phonetic": "/ˈhaɪtən/",
+      "translation": "提高；提升",
+      "sentence": "The tension heightened",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "h-hand-high-hill",
       "word": "hill",
       "display": "Hill",
-      "phonetic": "",
-      "translation": "\u9ad8\u5730",
-      "sentence": "",
+      "phonetic": "/hɪl/",
+      "translation": "高地",
+      "sentence": "they loved to roam the hills of West Virginia",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "h-hand-high-hoist",
       "word": "hoist",
       "display": "Hoist",
-      "phonetic": "",
-      "translation": "\u4e3e\u8d77\uff1b\u5347\u8d77",
-      "sentence": "",
+      "phonetic": "/hɔɪst/",
+      "translation": "举起；升起",
+      "sentence": "hoist the bicycle onto the roof of the car",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "h-hand-high-hollow",
       "word": "hollow",
       "display": "Hollow",
-      "phonetic": "",
-      "translation": "\u7a7a\u7684\uff1b\u4e2d\u7a7a\u7684\uff1b\u7a7a\u865a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhɑloʊ/",
+      "translation": "空的；中空的；空虚的",
+      "sentence": "hunger had caused the hollows in their cheeks",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "h-hand-high-holy",
       "word": "holy",
       "display": "Holy",
-      "phonetic": "",
-      "translation": "\u795e\u5723\u7684\uff1b\u5723\u6d01\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhoʊli/",
+      "translation": "神圣的；圣洁的",
+      "sentence": "A holy is a sacred place of pilgrimage.",
       "tags": [
         "root-family"
       ],
@@ -179,5 +179,6 @@
   "rootLevel": 3,
   "rootPath": "h>h-hand>h-hand-high",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

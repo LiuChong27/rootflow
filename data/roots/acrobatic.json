@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acrobatic",
   "root": "acrobatic",
-  "meaning": "",
-  "descriptionCn": "\u6742\u6280\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "acrobatic family",
+  "descriptionCn": "杂技的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acrobatic",
       "word": "acrobatic",
       "display": "Acrobatic",
-      "phonetic": "",
-      "translation": "\u6742\u6280\u7684",
-      "sentence": "",
+      "phonetic": "/ˌækrəˈbætɪk/",
+      "translation": "杂技的",
+      "sentence": "an acrobatic dance",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-other>ac>acrobatics>acrobatic",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

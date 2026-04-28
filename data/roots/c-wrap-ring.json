@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-wrap-ring",
-  "root": "c-wrap-ring",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "ring",
+  "meaning": "ring family",
+  "descriptionCn": "ring 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-wrap-ring-asynchronous",
       "word": "asynchronous",
       "display": "Asynchronous",
-      "phonetic": "",
-      "translation": "\u4e0d\u540c\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈeɪˈsɪŋkrənəs/",
+      "translation": "不同时的",
+      "sentence": "If something is asynchronous, it is (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-wrap-ring-asynchrony",
       "word": "asynchrony",
       "display": "Asynchrony",
-      "phonetic": "",
-      "translation": "\u4e0d\u540c\u65f6",
-      "sentence": "",
+      "phonetic": "/ˈeɪsɪnbrʌnsi/",
+      "translation": "不同时",
+      "sentence": "the stimulus produced a desynchronizing of the brain waves",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-wrap-ring-camp",
       "word": "camp",
       "display": "Camp",
-      "phonetic": "",
-      "translation": "\u5e10\u7bf7",
-      "sentence": "",
+      "phonetic": "/kæmp/",
+      "translation": "帐篷",
+      "sentence": "wherever he went in the camp the men were grumbling",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-wrap-ring-campaign",
       "word": "campaign",
       "display": "Campaign",
-      "phonetic": "",
-      "translation": "\u6218\u5f79",
-      "sentence": "",
+      "phonetic": "/kæmˈpeɪn/",
+      "translation": "战役",
+      "sentence": "I managed his campaign for governor",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-wrap-ring-campus",
       "word": "campus",
       "display": "Campus",
-      "phonetic": "",
-      "translation": "\u6821\u56ed",
-      "sentence": "",
+      "phonetic": "/ˈkæmpəs/",
+      "translation": "校园",
+      "sentence": "Campus refers to a field on which the buildings of a university are situated.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-wrap-ring-canvas",
       "word": "canvas",
       "display": "Canvas",
-      "phonetic": "",
-      "translation": "\u5e06\u5e03",
-      "sentence": "",
+      "phonetic": "/ˈkænvəs/",
+      "translation": "帆布",
+      "sentence": "the crowded canvas of history",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-wrap-ring-cap",
       "word": "cap",
       "display": "Cap",
-      "phonetic": "",
-      "translation": "\u519b\u5e3d",
-      "sentence": "",
+      "phonetic": "/kæp/",
+      "translation": "军帽",
+      "sentence": "they established a cap for prices",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-wrap-ring-castle",
       "word": "castle",
       "display": "Castle",
-      "phonetic": "",
-      "translation": "\u57ce\u5821",
-      "sentence": "",
+      "phonetic": "/ˈkæsəl/",
+      "translation": "城堡",
+      "sentence": "A castle is a large and stately mansion.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-wrap-ring-cave",
       "word": "cave",
       "display": "Cave",
-      "phonetic": "",
-      "translation": "\u6d1e\u7a74",
-      "sentence": "",
+      "phonetic": "/keɪv/",
+      "translation": "洞穴",
+      "sentence": "The river was caving the banks",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-wrap-ring-chron",
       "word": "chron",
       "display": "Chron",
-      "phonetic": "",
-      "translation": "\u65f6\u95f4",
-      "sentence": "",
+      "phonetic": "/krˈɑn/",
+      "translation": "时间",
+      "sentence": "Chron is used here with the sense of \"时间\".",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-wrap-ring-chronaximeter",
       "word": "chronaximeter",
       "display": "Chronaximeter",
-      "phonetic": "",
-      "translation": "\u7535\u5b50\u8bca\u65ad\u5668",
-      "sentence": "",
+      "phonetic": "/krˈɑnʌkʌmstˌɛr/",
+      "translation": "电子诊断器",
+      "sentence": "Chronaximeter is used here with the sense of \"电子诊断器\".",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-wrap-ring-cloak",
       "word": "cloak",
       "display": "Cloak",
-      "phonetic": "",
-      "translation": "\u6597\u7bf7\uff1b\u63a9\u76d6",
-      "sentence": "",
+      "phonetic": "/kloʊk/",
+      "translation": "斗篷；掩盖",
+      "sentence": "cloaked monks",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-wrap-ring-clock",
       "word": "clock",
       "display": "Clock",
-      "phonetic": "",
-      "translation": "\u949f",
-      "sentence": "",
+      "phonetic": "/klɑk/",
+      "translation": "钟",
+      "sentence": "he clocked the runners",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-wrap-ring-clockwise",
       "word": "clockwise",
       "display": "Clockwise",
-      "phonetic": "",
-      "translation": "\u987a\u65f6\u9488\u65b9\u5411",
-      "sentence": "",
+      "phonetic": "/ˈklɑkˌwaɪz/",
+      "translation": "顺时针方向",
+      "sentence": "please move clockwise in a circle",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-wrap-ring-copper",
       "word": "copper",
       "display": "Copper",
-      "phonetic": "",
-      "translation": "\u94dc\u5e01",
-      "sentence": "",
+      "phonetic": "/ˈkɑpər/",
+      "translation": "铜币",
+      "sentence": "A copper is a ductile malleable reddish-brown corrosion-resistant diamagnetic metallic element; occurs in various minerals but is the only metal that occurs abundantly in large masses; used as an electrical and thermal conductor.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-wrap-ring-cottage",
       "word": "cottage",
       "display": "Cottage",
-      "phonetic": "",
-      "translation": "\u5c0f\u5c4b",
-      "sentence": "",
+      "phonetic": "/ˈkɑtɪʤ/",
+      "translation": "小屋",
+      "sentence": "A cottage is a small house with a single story.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-wrap-ring-cotton",
       "word": "cotton",
       "display": "Cotton",
-      "phonetic": "",
-      "translation": "\u68c9\u82b1",
-      "sentence": "",
+      "phonetic": "/ˈkɔtən/",
+      "translation": "棉花",
+      "sentence": "cotton to something",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-wrap-ring-couch",
       "word": "couch",
       "display": "Couch",
-      "phonetic": "",
-      "translation": "\u957f\u6c99\u53d1",
-      "sentence": "",
+      "phonetic": "/kaʊʧ/",
+      "translation": "长沙发",
+      "sentence": "I wouldn't put it that way",
       "tags": [
         "root-family"
       ],
@@ -226,13 +226,18 @@
       "id": "c-wrap-ring-cradle",
       "word": "cradle",
       "display": "Cradle",
-      "phonetic": "",
-      "translation": "\u6447\u7bee",
-      "sentence": "",
+      "phonetic": "/ˈkreɪdəl/",
+      "translation": "摇篮",
+      "sentence": "he was taught from the cradle never to cry",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-wrap>c-wrap-ring",
+  "rootLevel": 3,
+  "parentRootId": "c-wrap",
+  "tags": []
 }

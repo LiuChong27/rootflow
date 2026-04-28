@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-ego",
-  "root": "ego\u81ea\u6211",
+  "root": "ego自我",
   "meaning": "ego",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "自我",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-ego-egocentric",
       "word": "egocentric",
       "display": "Egocentric",
-      "phonetic": "",
-      "translation": "\u81ea\u6211\u4e2d\u5fc3\u7684",
-      "sentence": "",
+      "phonetic": "/ˌigoʊˈsɛntrɪk/",
+      "translation": "自我中心的",
+      "sentence": "An egocentric is a self-centered person with little regard for others.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-ego-egocentricity",
       "word": "egocentricity",
       "display": "Egocentricity",
-      "phonetic": "",
-      "translation": "\u81ea\u6211\u4e2d\u5fc3",
-      "sentence": "",
+      "phonetic": "/ˌɛgʌsˌɛntrˈɪstɪki/",
+      "translation": "自我中心",
+      "sentence": "Egocentricity is used here with the sense of \"自我中心\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-ego-egoism",
       "word": "egoism",
       "display": "Egoism",
-      "phonetic": "",
-      "translation": "\u81ea\u6211\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈigoʊˌɪzəm/",
+      "translation": "自我主义",
+      "sentence": "An egoism is (ethics) the theory that the pursuit of your own welfare in the basis of morality.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-ego-egoist",
       "word": "egoist",
       "display": "Egoist",
-      "phonetic": "",
-      "translation": "\u81ea\u6211\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/ˈigˌoʊɪst/",
+      "translation": "自我主义者",
+      "sentence": "An egoist is a conceited and self-centered person.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-ego-egotism",
       "word": "egotism",
       "display": "Egotism",
-      "phonetic": "",
-      "translation": "\u81ea\u6211\u4e2d\u5fc3",
-      "sentence": "",
+      "phonetic": "/ˈigəˌtɪzəm/",
+      "translation": "自我中心",
+      "sentence": "An egotism is an exaggerated opinion of your own importance.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "e-ego-egotistic",
       "word": "egotistic",
       "display": "Egotistic",
-      "phonetic": "",
-      "translation": "\u4efb\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/ˌigʌtˈɪstɪk/",
+      "translation": "任性的",
+      "sentence": "an egotistical disregard of others",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "e-ego-egotize",
       "word": "egotize",
       "display": "Egotize",
-      "phonetic": "",
-      "translation": "\u8fc7\u5206\u5f3a\u8c03\u81ea\u6211",
-      "sentence": "",
+      "phonetic": "/ˈigʌtˌaɪz/",
+      "translation": "过分强调自我",
+      "sentence": "Egotize is used here with the sense of \"过分强调自我\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "e-ego-egotrip",
       "word": "egotrip",
       "display": "Egotrip",
-      "phonetic": "",
-      "translation": "\u8ffd\u540d\u9010\u5229",
-      "sentence": "",
+      "phonetic": "/ˈigʌtrˌɪp/",
+      "translation": "追名逐利",
+      "sentence": "This teacher always egotrips and the students don't like him",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "e-ego-equal",
       "word": "equal",
       "display": "Equal",
-      "phonetic": "",
-      "translation": "\u76f8\u7b49\u7684",
-      "sentence": "",
+      "phonetic": "/ˈikwəl/",
+      "translation": "相等的",
+      "sentence": "One dollar equals 1,000 rubles these days!",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 2,
   "rootPath": "e>e-ego",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

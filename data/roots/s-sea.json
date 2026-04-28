@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-sea",
-  "root": "\u6d77\u6d0b",
+  "root": "海洋",
   "meaning": "sea",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "海洋",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-sea-sail",
       "word": "sail",
       "display": "Sail",
-      "phonetic": "",
-      "translation": "\u822a\u884c",
-      "sentence": "",
+      "phonetic": "/seɪl/",
+      "translation": "航行",
+      "sentence": "We sailed the Atlantic",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-sea-sailor",
       "word": "sailor",
       "display": "Sailor",
-      "phonetic": "",
-      "translation": "\u6c34\u624b",
-      "sentence": "",
+      "phonetic": "/ˈseɪlər/",
+      "translation": "水手",
+      "sentence": "A sailor is any member of a ship's crew.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-sea-salad",
       "word": "salad",
       "display": "Salad",
-      "phonetic": "",
-      "translation": "\u6c99\u62c9",
-      "sentence": "",
+      "phonetic": "/ˈsæləd/",
+      "translation": "沙拉",
+      "sentence": "A salad is food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-sea-salary",
       "word": "salary",
       "display": "Salary",
-      "phonetic": "",
-      "translation": "\u85aa\u6c34",
-      "sentence": "",
+      "phonetic": "/ˈsæləri/",
+      "translation": "薪水",
+      "sentence": "wages were paid by check",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-sea-sale",
       "word": "sale",
       "display": "Sale",
-      "phonetic": "",
-      "translation": "\u51fa\u552e",
-      "sentence": "",
+      "phonetic": "/seɪl/",
+      "translation": "出售",
+      "sentence": "he has just made his first sale",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-sea-salesman",
       "word": "salesman",
       "display": "Salesman",
-      "phonetic": "",
-      "translation": "\u552e\u8d27\u5458",
-      "sentence": "",
+      "phonetic": "/ˈseɪlzmən/",
+      "translation": "售货员",
+      "sentence": "A salesman is a man salesperson.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-sea-salt",
       "word": "salt",
       "display": "Salt",
-      "phonetic": "",
-      "translation": "\u76d0=\u94b1",
-      "sentence": "",
+      "phonetic": "/sɔlt/",
+      "translation": "盐=钱",
+      "sentence": "the rebels had salted the fields with mines and traps",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-sea-sand",
       "word": "sand",
       "display": "Sand",
-      "phonetic": "",
-      "translation": "\u6c99\u6ee9",
-      "sentence": "",
+      "phonetic": "/sænd/",
+      "translation": "沙滩",
+      "sentence": "sandpaper the wooden surface",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-sea-sandwich",
       "word": "sandwich",
       "display": "Sandwich",
-      "phonetic": "",
-      "translation": "\u4e09\u660e\u6cbb",
-      "sentence": "",
+      "phonetic": "/ˈsænwɪʧ/",
+      "translation": "三明治",
+      "sentence": "She was sandwiched in her airplane seat between two fat men",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-sea-sauce",
       "word": "sauce",
       "display": "Sauce",
-      "phonetic": "",
-      "translation": "\u9171\u6c41",
-      "sentence": "",
+      "phonetic": "/sɔs/",
+      "translation": "酱汁",
+      "sentence": "sauce the roast",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-sea-saucer",
       "word": "saucer",
       "display": "Saucer",
-      "phonetic": "",
-      "translation": "\u789f\u5b50",
-      "sentence": "",
+      "phonetic": "/ˈsɔsər/",
+      "translation": "碟子",
+      "sentence": "the moon's disk hung in a cloudless sky",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-sea-sausage",
       "word": "sausage",
       "display": "Sausage",
-      "phonetic": "",
-      "translation": "\u9999\u80a0",
-      "sentence": "",
+      "phonetic": "/ˈsɔsɪʤ/",
+      "translation": "香肠",
+      "sentence": "A sausage is highly seasoned minced meat stuffed in casings.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-sea-scatter",
       "word": "scatter",
       "display": "Scatter",
-      "phonetic": "",
-      "translation": "\u6563\u5f00",
-      "sentence": "",
+      "phonetic": "/ˈskætər/",
+      "translation": "散开",
+      "sentence": "She waved her hand and scattered the crowds",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-sea-sea",
       "word": "sea",
       "display": "Sea",
-      "phonetic": "",
-      "translation": "\u6d77\u6d0b",
-      "sentence": "",
+      "phonetic": "/siː/",
+      "translation": "海洋",
+      "sentence": "heavy seas",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-sea-seal",
       "word": "seal",
       "display": "Seal",
-      "phonetic": "",
-      "translation": "\u6d77\u8c79",
-      "sentence": "",
+      "phonetic": "/siːl/",
+      "translation": "海豹",
+      "sentence": "a coat of seal",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-sea-season",
       "word": "season",
       "display": "Season",
-      "phonetic": "",
-      "translation": "\u5b63\u8282",
-      "sentence": "",
+      "phonetic": "/ˈsizən/",
+      "translation": "季节",
+      "sentence": "he celebrated his 10th season with the ballet company",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-sea-seed",
       "word": "seed",
       "display": "Seed",
-      "phonetic": "",
-      "translation": "\u79cd\u5b50\uff1b\u64ad\u79cd",
-      "sentence": "",
+      "phonetic": "/siːd/",
+      "translation": "种子；播种",
+      "sentence": "The dandelions went to seed",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "s-sea-sell",
       "word": "sell",
       "display": "Sell",
-      "phonetic": "",
-      "translation": "\u51fa\u552e",
-      "sentence": "",
+      "phonetic": "/sɛl/",
+      "translation": "出售",
+      "sentence": "it was a hard sell",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "s-sea-shallow",
       "word": "shallow",
       "display": "Shallow",
-      "phonetic": "",
-      "translation": "\u6d45\u6ee9",
-      "sentence": "",
+      "phonetic": "/ˈʃæloʊ/",
+      "translation": "浅滩",
+      "sentence": "The silt shallowed the canal",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "s-sea-shampoo",
       "word": "shampoo",
       "display": "Shampoo",
-      "phonetic": "",
-      "translation": "\u6d17\u53d1\u818f",
-      "sentence": "",
+      "phonetic": "/ʃæmˈpu/",
+      "translation": "洗发膏",
+      "sentence": "A shampoo is cleansing agent consisting of soaps or detergents used for washing the hair.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "s-sea-shark",
       "word": "shark",
       "display": "Shark",
-      "phonetic": "",
-      "translation": "\u9ca8\u9c7c",
-      "sentence": "",
+      "phonetic": "/ʃɑrk/",
+      "translation": "鲨鱼",
+      "sentence": "a card shark",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "s-sea-shell",
       "word": "shell",
       "display": "Shell",
-      "phonetic": "",
-      "translation": "\u8d1d\u58f3\uff1b\u70ae\u5f39",
-      "sentence": "",
+      "phonetic": "/ʃɛl/",
+      "translation": "贝壳；炮弹",
+      "sentence": "the satellite is covered with a smooth shell of ice",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "s-sea-ship",
       "word": "ship",
       "display": "Ship",
-      "phonetic": "",
-      "translation": "\u8239",
-      "sentence": "",
+      "phonetic": "/ʃɪp/",
+      "translation": "船",
+      "sentence": "ship the cargo in the hold of the vessel",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "s-sea-shipment",
       "word": "shipment",
       "display": "Shipment",
-      "phonetic": "",
-      "translation": "\u88c5\u8239",
-      "sentence": "",
+      "phonetic": "/ˈʃɪpmənt/",
+      "translation": "装船",
+      "sentence": "A shipment is goods carried by a large vehicle.",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "s-sea-shore",
       "word": "shore",
       "display": "Shore",
-      "phonetic": "",
-      "translation": "\u6d77\u6ee8",
-      "sentence": "",
+      "phonetic": "/ʃɔr/",
+      "translation": "海滨",
+      "sentence": "The river was shored by trees",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "s-sea-sink",
       "word": "sink",
       "display": "Sink",
-      "phonetic": "",
-      "translation": "\u4e0b\u6c89",
-      "sentence": "",
+      "phonetic": "/sɪŋk/",
+      "translation": "下沉",
+      "sentence": "the ocean is a sink for carbon dioxide",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "s-sea-sip",
       "word": "sip",
       "display": "Sip",
-      "phonetic": "",
-      "translation": "\u5c0f\u53e3\u7684\u559d",
-      "sentence": "",
+      "phonetic": "/sɪp/",
+      "translation": "小口的喝",
+      "sentence": "She was sipping her tea",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "s-sea-submarine",
       "word": "submarine",
       "display": "Submarine",
-      "phonetic": "",
-      "translation": "\u6f5c\u6c34\u8247\uff1b\u6d77\u5e95\u7684",
-      "sentence": "",
+      "phonetic": "/ˌsəbmərˈin/",
+      "translation": "潜水艇；海底的",
+      "sentence": "The child was injured when he submarined under the safety belt of the car",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "s-sea-submerge",
       "word": "submerge",
       "display": "Submerge",
-      "phonetic": "",
-      "translation": "\u6c89\u6ca1",
-      "sentence": "",
+      "phonetic": "/səbˈmərʤ/",
+      "translation": "沉没",
+      "sentence": "submerge your head completely",
       "tags": [
         "root-family"
       ],
@@ -359,5 +359,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-sea",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

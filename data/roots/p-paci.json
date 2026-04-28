@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-paci",
-  "root": "paci=peace \u548c\u5e73",
+  "root": "paci=peace 和平",
   "meaning": "peace",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "和平",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-paci-pacifiable",
       "word": "pacifiable",
       "display": "Pacifiable",
-      "phonetic": "",
-      "translation": "\u53ef\u88ab\u8c03\u89e3\u7684",
-      "sentence": "",
+      "phonetic": "/pʌsˈɪfiʌbʌl/",
+      "translation": "可被调解的",
+      "sentence": "Pacifiable is used here with the sense of \"可被调解的\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-paci-pacific",
       "word": "pacific",
       "display": "Pacific",
-      "phonetic": "",
-      "translation": "\u548c\u5e73\u7684\uff1b\u5e73\u9759\u7684",
-      "sentence": "",
+      "phonetic": "/pəˈsɪfɪk/",
+      "translation": "和平的；平静的",
+      "sentence": "Pacific islands",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-paci-pacificate",
       "word": "pacificate",
       "display": "Pacificate",
-      "phonetic": "",
-      "translation": "\u5b89\u629a",
-      "sentence": "",
+      "phonetic": "/pʌsˈɪfɪtʌk/",
+      "translation": "安抚",
+      "sentence": "Pacificate is used here with the sense of \"安抚\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-paci-pacification",
       "word": "pacification",
       "display": "Pacification",
-      "phonetic": "",
-      "translation": "\u548c\u89e3",
-      "sentence": "",
+      "phonetic": "/ˌpæsəfəˈkeɪʃən/",
+      "translation": "和解",
+      "sentence": "a wonderful skill in the pacification of crying infants",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-paci-pacificatory",
       "word": "pacificatory",
       "display": "Pacificatory",
-      "phonetic": "",
-      "translation": "\u5b89\u629a\u7684",
-      "sentence": "",
+      "phonetic": "/pʌsˈɪfɪkʌtˌɔri/",
+      "translation": "安抚的",
+      "sentence": "Pacificatory is used here with the sense of \"安抚的\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-paci-pacificist",
       "word": "pacificist",
       "display": "Pacificist",
-      "phonetic": "",
-      "translation": "\u548c\u5e73\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/pʌsˈɪfɪsɪst/",
+      "translation": "和平主义者",
+      "sentence": "A pacificist is someone opposed to violence as a means of settling disputes.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-paci-pacifism",
       "word": "pacifism",
       "display": "Pacifism",
-      "phonetic": "",
-      "translation": "\u548c\u5e73\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈpæsɪˌfɪzəm/",
+      "translation": "和平主义",
+      "sentence": "A pacifism is the doctrine that all violence is unjustifiable.",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-paci",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

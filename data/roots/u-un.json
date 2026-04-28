@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "u-un",
   "root": "un",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "un",
+  "descriptionCn": "un",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "u-un-uncover",
       "word": "uncover",
       "display": "Uncover",
-      "phonetic": "",
-      "translation": "\u63ed\u9732",
-      "sentence": "",
+      "phonetic": "/ənˈkəvər/",
+      "translation": "揭露",
+      "sentence": "uncover your belly",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "u-un-undo",
       "word": "undo",
       "display": "Undo",
-      "phonetic": "",
-      "translation": "\u677e\u5f00",
-      "sentence": "",
+      "phonetic": "/ənˈdu/",
+      "translation": "松开",
+      "sentence": "I wish I could undo my actions",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "u-un-undoubtedly",
       "word": "undoubtedly",
       "display": "Undoubtedly",
-      "phonetic": "",
-      "translation": "\u65e0\u7591",
-      "sentence": "",
+      "phonetic": "/ənˈdaʊtɪdli/",
+      "translation": "无疑",
+      "sentence": "it's undoubtedly very beautiful",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "u-un-uneasy",
       "word": "uneasy",
       "display": "Uneasy",
-      "phonetic": "",
-      "translation": "\u4e0d\u5b89\u7684",
-      "sentence": "",
+      "phonetic": "/əˈnizi/",
+      "translation": "不安的",
+      "sentence": "farmers were uneasy until rain finally came",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "u-un-unemployment",
       "word": "unemployment",
       "display": "Unemployment",
-      "phonetic": "",
-      "translation": "\u5931\u4e1a",
-      "sentence": "",
+      "phonetic": "/ˌənɪmˈplɔɪmənt/",
+      "translation": "失业",
+      "sentence": "unemployment is a serious social evil",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "u-un-unexpected",
       "word": "unexpected",
       "display": "Unexpected",
-      "phonetic": "",
-      "translation": "\u610f\u5916\u7684",
-      "sentence": "",
+      "phonetic": "/ˌənɪkˈspɛktɪd/",
+      "translation": "意外的",
+      "sentence": "unexpected guests",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "u-un-unfold",
       "word": "unfold",
       "display": "Unfold",
-      "phonetic": "",
-      "translation": "\u6253\u5f00",
-      "sentence": "",
+      "phonetic": "/ənˈfoʊld/",
+      "translation": "打开",
+      "sentence": "A walk through town will unfold many interesting buildings",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "u-un-unfortunately",
       "word": "unfortunately",
       "display": "Unfortunately",
-      "phonetic": "",
-      "translation": "\u4e0d\u5e78\u7684",
-      "sentence": "",
+      "phonetic": "/ənˈfɔrʧənətli/",
+      "translation": "不幸的",
+      "sentence": "unfortunately it rained all day",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "u-un-unless",
       "word": "unless",
       "display": "Unless",
-      "phonetic": "",
-      "translation": "\u9664\u975e",
-      "sentence": "",
+      "phonetic": "/ənˈlɛs/",
+      "translation": "除非",
+      "sentence": "Unless is used here with the sense of \"除非\".",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "u-un-unlike",
       "word": "unlike",
       "display": "Unlike",
-      "phonetic": "",
-      "translation": "\u4e0d\u76f8\u4f3c\u7684",
-      "sentence": "",
+      "phonetic": "/ənˈlaɪk/",
+      "translation": "不相似的",
+      "sentence": "for twins they are very unlike",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "u-un-unlikely",
       "word": "unlikely",
       "display": "Unlikely",
-      "phonetic": "",
-      "translation": "\u672a\u5fc5\u7684",
-      "sentence": "",
+      "phonetic": "/ənˈlaɪkli/",
+      "translation": "未必的",
+      "sentence": "legislation on the question is highly unlikely",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "u-un-unload",
       "word": "unload",
       "display": "Unload",
-      "phonetic": "",
-      "translation": "\u5378\u8d27",
-      "sentence": "",
+      "phonetic": "/ənˈloʊd/",
+      "translation": "卸货",
+      "sentence": "unload the cargo",
       "tags": [
         "root-family"
       ],
@@ -152,8 +152,9 @@
     }
   ],
   "parentRootId": "u",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "u>u-un",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

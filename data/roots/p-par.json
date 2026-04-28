@@ -3,16 +3,16 @@
   "rootId": "p-par",
   "root": "par",
   "meaning": "par",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "par",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-par-appear",
       "word": "appear",
       "display": "Appear",
-      "phonetic": "",
-      "translation": "\u51fa\u73b0",
-      "sentence": "",
+      "phonetic": "/əˈpɪr/",
+      "translation": "出现",
+      "sentence": "This appears to be a very difficult problem",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-par-appearance",
       "word": "appearance",
       "display": "Appearance",
-      "phonetic": "",
-      "translation": "\u51fa\u73b0\uff1b\u9732\u9762",
-      "sentence": "",
+      "phonetic": "/əˈpɪrəns/",
+      "translation": "出现；露面",
+      "sentence": "I tried to describe his appearance to the police",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-par-appearent",
       "word": "appearent",
       "display": "Appearent",
-      "phonetic": "",
-      "translation": "\u660e\u663e\u7684",
-      "sentence": "",
+      "phonetic": "/ʌpˈirʌnt/",
+      "translation": "明显的",
+      "sentence": "Appearent is used here with the sense of \"明显的\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-par-paperback",
       "word": "paperback",
       "display": "Paperback",
-      "phonetic": "",
-      "translation": "\u5e73\u88c5\u672c",
-      "sentence": "",
+      "phonetic": "/ˈpeɪpərˌbæk/",
+      "translation": "平装本",
+      "sentence": "A paperback is a book with paper covers.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-par-parachute",
       "word": "parachute",
       "display": "Parachute",
-      "phonetic": "",
-      "translation": "\u964d\u843d\u4f1e",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌʃut/",
+      "translation": "降落伞",
+      "sentence": "A parachute is rescue equipment consisting of a device that fills with air and retards your fall.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-par-parade",
       "word": "parade",
       "display": "Parade",
-      "phonetic": "",
-      "translation": "\u68c0\u9605\uff1b\u9605\u5175\u5f0f",
-      "sentence": "",
+      "phonetic": "/pəreɪd/",
+      "translation": "检阅；阅兵式",
+      "sentence": "a parade of strollers on the mall",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-par-paradigm",
       "word": "paradigm",
       "display": "Paradigm",
-      "phonetic": "",
-      "translation": "\u5178\u8303\uff1b\u793a\u4f8b",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌdaɪm/",
+      "translation": "典范；示例",
+      "sentence": "he framed the problem within the psychoanalytic paradigm",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-par-paradox",
       "word": "paradox",
       "display": "Paradox",
-      "phonetic": "",
-      "translation": "\u81ea\u76f8\u77db\u76fe\u7684\u8bdd\uff1b\u53cd\u8bba",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌdɑks/",
+      "translation": "自相矛盾的话；反论",
+      "sentence": "`I always lie' is a paradox because if it is true it must be false",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-par-paradrop",
       "word": "paradrop",
       "display": "Paradrop",
-      "phonetic": "",
-      "translation": "\u8df3\u4f1e",
-      "sentence": "",
+      "phonetic": "/pˈɛrʌdrˌɑp/",
+      "translation": "跳伞",
+      "sentence": "Paradrop is used here with the sense of \"跳伞\".",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-par-paragon",
       "word": "paragon",
       "display": "Paragon",
-      "phonetic": "",
-      "translation": "\u6a21\u8303\uff1b\u5178\u578b",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌgɑn/",
+      "translation": "模范；典型",
+      "sentence": "A paragon is an ideal instance; a perfect embodiment of a concept.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-par-paragraph",
       "word": "paragraph",
       "display": "Paragraph",
-      "phonetic": "",
-      "translation": "\u77ed\u8bc4",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌgræf/",
+      "translation": "短评",
+      "sentence": "This story is well paragraphed",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-par-parallel",
       "word": "parallel",
       "display": "Parallel",
-      "phonetic": "",
-      "translation": "\u5e73\u884c\u7684\uff1b\u7c7b\u4f3c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌlɛl/",
+      "translation": "平行的；类似的",
+      "sentence": "parallels never meet",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-par-paralogism",
       "word": "paralogism",
       "display": "Paralogism",
-      "phonetic": "",
-      "translation": "\u8c2c\u8bba",
-      "sentence": "",
+      "phonetic": "/pˌɛrʌlˈɔdʒʌlɪst/",
+      "translation": "谬论",
+      "sentence": "A paralogism is an unintentionally invalid argument.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-par-paralyze",
       "word": "paralyze",
       "display": "Paralyze",
-      "phonetic": "",
-      "translation": "\u4f7f\u762b\u75ea",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌlaɪz/",
+      "translation": "使瘫痪",
+      "sentence": "The bureaucracy paralyzes the entire operation",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-par-parameter",
       "word": "parameter",
       "display": "Parameter",
-      "phonetic": "",
-      "translation": "\u53c2\u6570\uff1b\u53c2\u91cf",
-      "sentence": "",
+      "phonetic": "/pərˈæmətər/",
+      "translation": "参数；参量",
+      "sentence": "A parameter is a constant in the equation of a curve that can be varied to yield a family of similar curves.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-par-parasite",
       "word": "parasite",
       "display": "Parasite",
-      "phonetic": "",
-      "translation": "\u5bc4\u751f\u866b",
-      "sentence": "",
+      "phonetic": "/ˈpɛrəˌsaɪt/",
+      "translation": "寄生虫",
+      "sentence": "A parasite is an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-par-parent",
       "word": "parent",
       "display": "Parent",
-      "phonetic": "",
-      "translation": "\u7236\u6bcd",
-      "sentence": "",
+      "phonetic": "/ˈpɛrənt/",
+      "translation": "父母",
+      "sentence": "raise a family",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-par-parliament",
       "word": "parliament",
       "display": "Parliament",
-      "phonetic": "",
-      "translation": "\u8bae\u4f1a\uff1b\u56fd\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈpɑrləmɛnt/",
+      "translation": "议会；国会",
+      "sentence": "A parliament is a legislative assembly in certain countries.",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-par-part",
       "word": "part",
       "display": "Part",
-      "phonetic": "",
-      "translation": "\u90e8\u5206",
-      "sentence": "",
+      "phonetic": "/pɑrt/",
+      "translation": "部分",
+      "sentence": "he wanted to feel a part of something bigger than himself",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-par-partial",
       "word": "partial",
       "display": "Partial",
-      "phonetic": "",
-      "translation": "\u90e8\u5206\u7684\uff1b\u504f\u7231\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɑrʃəl/",
+      "translation": "部分的；偏爱的",
+      "sentence": "a partial description of the suspect",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "p-par-participant",
       "word": "participant",
       "display": "Participant",
-      "phonetic": "",
-      "translation": "\u53c2\u52a0\u8005\uff1b\u53c2\u4e0e\u8005",
-      "sentence": "",
+      "phonetic": "/pɑrˈtɪsəpənt/",
+      "translation": "参加者；参与者",
+      "sentence": "A participant is someone who takes part in an activity.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "p-par-participate",
       "word": "participate",
       "display": "Participate",
-      "phonetic": "",
-      "translation": "\u53c2\u4e0e\uff1b\u5206\u4eab",
-      "sentence": "",
+      "phonetic": "/pɑrˈtɪsəˌpeɪt/",
+      "translation": "参与；分享",
+      "sentence": "enter a race",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "p-par-particle",
       "word": "particle",
       "display": "Particle",
-      "phonetic": "",
-      "translation": "\u7c92\u5b50",
-      "sentence": "",
+      "phonetic": "/ˈpɑrtɪkəl/",
+      "translation": "粒子",
+      "sentence": "A particle is (nontechnical usage) a tiny piece of anything.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "p-par-particular",
       "word": "particular",
       "display": "Particular",
-      "phonetic": "",
-      "translation": "\u7279\u6b8a\u7684\uff1b\u82db\u6c42\u7684\uff1b\u7ec6\u8282",
-      "sentence": "",
+      "phonetic": "/ˌpɑˈtɪkjələr/",
+      "translation": "特殊的；苛求的；细节",
+      "sentence": "he always reasons from the particular to the general",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "p-par-partly",
       "word": "partly",
       "display": "Partly",
-      "phonetic": "",
-      "translation": "\u90e8\u5206\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɑrtli/",
+      "translation": "部分的",
+      "sentence": "I felt partly to blame",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "p-par-partner",
       "word": "partner",
       "display": "Partner",
-      "phonetic": "",
-      "translation": "\u5408\u4f5c\u8005\uff1b\u914d\u5076",
-      "sentence": "",
+      "phonetic": "/ˈpɑrtnər/",
+      "translation": "合作者；配偶",
+      "sentence": "sexual partners",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "p-par-party",
       "word": "party",
       "display": "Party",
-      "phonetic": "",
-      "translation": "\u805a\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈpɑrti/",
+      "translation": "聚会",
+      "sentence": "in 1992 Perot tried to organize a third party at the national level",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "p-par-paternal",
       "word": "paternal",
       "display": "Paternal",
-      "phonetic": "",
-      "translation": "\u7236\u4eb2\u7684",
-      "sentence": "",
+      "phonetic": "/pəˈtərnəl/",
+      "translation": "父亲的",
+      "sentence": "spent his childhood on the paternal farm",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "p-par-patriot",
       "word": "patriot",
       "display": "Patriot",
-      "phonetic": "",
-      "translation": "\u7231\u56fd\u8005",
-      "sentence": "",
+      "phonetic": "/ˈpeɪtriət/",
+      "translation": "爱国者",
+      "sentence": "A patriot is one who loves and defends his or her country.",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "p-par-patriotic",
       "word": "patriotic",
       "display": "Patriotic",
-      "phonetic": "",
-      "translation": "\u7231\u56fd\u7684",
-      "sentence": "",
+      "phonetic": "/ˌpeɪtriˈɑtɪk/",
+      "translation": "爱国的",
+      "sentence": "If something is patriotic, it is inspired by love for your country.",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "p-par-patriotism",
       "word": "patriotism",
       "display": "Patriotism",
-      "phonetic": "",
-      "translation": "\u7231\u56fd\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈpeɪtriəˌtɪzəm/",
+      "translation": "爱国主义",
+      "sentence": "they rode the same wave of popular patriotism",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "p-par-patrol",
       "word": "patrol",
       "display": "Patrol",
-      "phonetic": "",
-      "translation": "\u5de1\u903b\u961f",
-      "sentence": "",
+      "phonetic": "/pəˈtroʊl/",
+      "translation": "巡逻队",
+      "sentence": "A patrol is a detachment used for security or reconnaissance.",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "p-par-patron",
       "word": "patron",
       "display": "Patron",
-      "phonetic": "",
-      "translation": "\u8d5e\u52a9\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈpeɪtrən/",
+      "translation": "赞助人",
+      "sentence": "A patron is a regular customer.",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "p-par-portion",
       "word": "portion",
       "display": "Portion",
-      "phonetic": "",
-      "translation": "\u4e00\u90e8\u5206",
-      "sentence": "",
+      "phonetic": "/ˈpɔrʃən/",
+      "translation": "一部分",
+      "sentence": "I read a portion of the manuscript",
       "tags": [
         "root-family"
       ],
@@ -419,5 +419,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-par",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

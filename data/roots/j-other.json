@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "j-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "j-other-jam",
       "word": "jam",
       "display": "Jam",
-      "phonetic": "",
-      "translation": "\u679c\u9171\uff1b\u963b\u585e",
-      "sentence": "",
+      "phonetic": "/ʤæm/",
+      "translation": "果酱；阻塞",
+      "sentence": "The driver jammed the brake pedal to the floor",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "j-other-january",
       "word": "january",
       "display": "January",
-      "phonetic": "",
-      "translation": "\u4e00\u6708",
-      "sentence": "",
+      "phonetic": "/ˈʤænjuˌɛri/",
+      "translation": "一月",
+      "sentence": "A january is the first month of the year; begins 10 days after the winter solstice.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "j-other-jar",
       "word": "jar",
       "display": "Jar",
-      "phonetic": "",
-      "translation": "\u7f50\u5b50\uff1b\u575b\u5b50",
-      "sentence": "",
+      "phonetic": "/ʤɑr/",
+      "translation": "罐子；坛子",
+      "sentence": "he drank a jar of beer",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "j-other-jargon",
       "word": "jargon",
       "display": "Jargon",
-      "phonetic": "",
-      "translation": "\u884c\u8bdd",
-      "sentence": "",
+      "phonetic": "/ˈʤɑrgən/",
+      "translation": "行话",
+      "sentence": "they don't speak our lingo",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "j-other-jazz",
       "word": "jazz",
       "display": "Jazz",
-      "phonetic": "",
-      "translation": "\u7235\u58eb\u4e50",
-      "sentence": "",
+      "phonetic": "/ʤæz/",
+      "translation": "爵士乐",
+      "sentence": "don't give me any of that jazz",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "j-other-jewel",
       "word": "jewel",
       "display": "Jewel",
-      "phonetic": "",
-      "translation": "\u5b9d\u77f3",
-      "sentence": "",
+      "phonetic": "/ʤuəl/",
+      "translation": "宝石",
+      "sentence": "jeweled dresses",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "j-other-jewelry",
       "word": "jewelry",
       "display": "Jewelry",
-      "phonetic": "",
-      "translation": "\u73e0\u5b9d",
-      "sentence": "",
+      "phonetic": "/ˈʤuəlri/",
+      "translation": "珠宝",
+      "sentence": "A jewelry is an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems).",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "j-other-jog",
       "word": "jog",
       "display": "Jog",
-      "phonetic": "",
-      "translation": "\u6162\u8dd1",
-      "sentence": "",
+      "phonetic": "/ʤɑg/",
+      "translation": "慢跑",
+      "sentence": "there was a jog in the road",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "j-other-jug",
       "word": "jug",
       "display": "Jug",
-      "phonetic": "",
-      "translation": "\u7f50\u5b50\uff1b\u76c2",
-      "sentence": "",
+      "phonetic": "/ʤəg/",
+      "translation": "罐子；盂",
+      "sentence": "jug the rabbit",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "j-other-june",
       "word": "june",
       "display": "June",
-      "phonetic": "",
-      "translation": "\u516d\u6708",
-      "sentence": "",
+      "phonetic": "/ʤun/",
+      "translation": "六月",
+      "sentence": "A june is the month following May and preceding July.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "j-other-junk",
       "word": "junk",
       "display": "Junk",
-      "phonetic": "",
-      "translation": "\u5e9f\u7269\uff1b\u65e7\u8d27",
-      "sentence": "",
+      "phonetic": "/ʤəŋk/",
+      "translation": "废物；旧货",
+      "sentence": "junk an old car",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 2,
   "rootPath": "j>j-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

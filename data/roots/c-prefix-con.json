@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-prefix-con",
-  "root": "con\u5171\u540c",
+  "root": "con共同",
   "meaning": "con",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "共同",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-prefix-con-conceal",
       "word": "conceal",
       "display": "Conceal",
-      "phonetic": "",
-      "translation": "\u9690\u85cf",
-      "sentence": "",
+      "phonetic": "/kənˈsil/",
+      "translation": "隐藏",
+      "sentence": "She conceals her anger well",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-prefix-con-concentrate",
       "word": "concentrate",
       "display": "Concentrate",
-      "phonetic": "",
-      "translation": "\u96c6\u4e2d\uff1b\u4e13\u6ce8\u4e8e",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsənˌtreɪt/",
+      "translation": "集中；专注于",
+      "sentence": "the concentrate of contemporary despair",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-prefix-con-concentration",
       "word": "concentration",
       "display": "Concentration",
-      "phonetic": "",
-      "translation": "\u4e13\u6ce8",
-      "sentence": "",
+      "phonetic": "/ˌkɑnsənˈtreɪʃən/",
+      "translation": "专注",
+      "sentence": "A concentration is the strength of a solution; number of molecules of a substance in a given volume.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-prefix-con-concept",
       "word": "concept",
       "display": "Concept",
-      "phonetic": "",
-      "translation": "\u6982\u5ff5",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsɛpt/",
+      "translation": "概念",
+      "sentence": "A concept is an abstract or general idea inferred or derived from specific instances.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-prefix-con-concern",
       "word": "concern",
       "display": "Concern",
-      "phonetic": "",
-      "translation": "\u5173\u7cfb",
-      "sentence": "",
+      "phonetic": "/kənˈsərn/",
+      "translation": "关系",
+      "sentence": "the safety of the ship is the captain's concern",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-prefix-con-concerning",
       "word": "concerning",
       "display": "Concerning",
-      "phonetic": "",
-      "translation": "\u5173\u5fc3\uff1b\u6d89\u53ca\u5230",
-      "sentence": "",
+      "phonetic": "/kənˈsərnɪŋ/",
+      "translation": "关心；涉及到",
+      "sentence": "There were lots of questions referring to her talk",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-prefix-con-concert",
       "word": "concert",
       "display": "Concert",
-      "phonetic": "",
-      "translation": "\u4e00\u81f4\uff1b\u97f3\u4e50\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsərt/",
+      "translation": "一致；音乐会",
+      "sentence": "concert one's differences",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-prefix-con-concession",
       "word": "concession",
       "display": "Concession",
-      "phonetic": "",
-      "translation": "\u59a5\u534f\uff1b\u8ba9\u6b65",
-      "sentence": "",
+      "phonetic": "/kənˈsɛʃən/",
+      "translation": "妥协；让步",
+      "sentence": "he got the beer concession at the ball park",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-prefix-con-concise",
       "word": "concise",
       "display": "Concise",
-      "phonetic": "",
-      "translation": "\u7b80\u6d01\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈsaɪs/",
+      "translation": "简洁的",
+      "sentence": "a concise explanation",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-prefix-con-concrete",
       "word": "concrete",
       "display": "Concrete",
-      "phonetic": "",
-      "translation": "\u5177\u4f53\u7684\uff1b\u5b9e\u8d28\u6027\u7684\uff1b\u6df7\u51dd\u571f",
-      "sentence": "",
+      "phonetic": "/ˈkɑnkrit/",
+      "translation": "具体的；实质性的；混凝土",
+      "sentence": "concrete the walls",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-prefix-con-condense",
       "word": "condense",
       "display": "Condense",
-      "phonetic": "",
-      "translation": "\u51b7\u5374\uff1b\u538b\u7f29",
-      "sentence": "",
+      "phonetic": "/kənˈdɛns/",
+      "translation": "冷却；压缩",
+      "sentence": "water condenses",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-prefix-con-condition",
       "word": "condition",
       "display": "Condition",
-      "phonetic": "",
-      "translation": "\u6761\u4ef6\uff1b\u73af\u5883\uff1b\u51b3\u5b9a\uff1b\u652f\u914d",
-      "sentence": "",
+      "phonetic": "/kənˈdɪʃən/",
+      "translation": "条件；环境；决定；支配",
+      "sentence": "a condition (or state) of disrepair",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-prefix-con-conduct",
       "word": "conduct",
       "display": "Conduct",
-      "phonetic": "",
-      "translation": "\u884c\u4e3a\uff1b\u5f15\u5bfc",
-      "sentence": "",
+      "phonetic": "/ˈkɑndəkt/",
+      "translation": "行为；引导",
+      "sentence": "You cannot conduct business like this",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-prefix-con-conductor",
       "word": "conductor",
       "display": "Conductor",
-      "phonetic": "",
-      "translation": "\u7ba1\u7406\u8005\uff1b\u9886\u961f",
-      "sentence": "",
+      "phonetic": "/kənˈdəktər/",
+      "translation": "管理者；领队",
+      "sentence": "A conductor is the person who leads a musical group.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-prefix-con-confer",
       "word": "confer",
       "display": "Confer",
-      "phonetic": "",
-      "translation": "\u6388\u4e88",
-      "sentence": "",
+      "phonetic": "/kənˈfər/",
+      "translation": "授予",
+      "sentence": "We conferred about a plan of action",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-prefix-con-conference",
       "word": "conference",
       "display": "Conference",
-      "phonetic": "",
-      "translation": "\u8ba8\u8bba\uff1b\u5546\u8c08",
-      "sentence": "",
+      "phonetic": "/ˈkɑnfərəns/",
+      "translation": "讨论；商谈",
+      "sentence": "A conference is a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda).",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-prefix-con-confidence",
       "word": "confidence",
       "display": "Confidence",
-      "phonetic": "",
-      "translation": "\u4fe1\u5fc3\uff1b\u79d8\u5bc6",
-      "sentence": "",
+      "phonetic": "/ˈkɑnfədɛns/",
+      "translation": "信心；秘密",
+      "sentence": "after that failure he lost his confidence",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-prefix-con-confident",
       "word": "confident",
       "display": "Confident",
-      "phonetic": "",
-      "translation": "\u81ea\u4fe1\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑnfədənt/",
+      "translation": "自信的",
+      "sentence": "a confident speaker",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "c-prefix-con-confidential",
       "word": "confidential",
       "display": "Confidential",
-      "phonetic": "",
-      "translation": "\u79d8\u5bc6\u7684",
-      "sentence": "",
+      "phonetic": "/ˌkɑnfəˈdɛnʃəl/",
+      "translation": "秘密的",
+      "sentence": "a confidential secretary",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "c-prefix-con-conform",
       "word": "conform",
       "display": "Conform",
-      "phonetic": "",
-      "translation": "\u9075\u5b88\uff1b\u4e00\u81f4\uff1b\u7b26\u5408",
-      "sentence": "",
+      "phonetic": "/kənˈfɔrm/",
+      "translation": "遵守；一致；符合",
+      "sentence": "We must adjust to the bad economic situation",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "c-prefix-con-confuse",
       "word": "confuse",
       "display": "Confuse",
-      "phonetic": "",
-      "translation": "\u6df7\u6dc6",
-      "sentence": "",
+      "phonetic": "/kənfˈjuz/",
+      "translation": "混淆",
+      "sentence": "These questions confuse even the experts",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "c-prefix-con-confusion",
       "word": "confusion",
       "display": "Confusion",
-      "phonetic": "",
-      "translation": "\u6df7\u6dc6",
-      "sentence": "",
+      "phonetic": "/kənfˈjuʒən/",
+      "translation": "混淆",
+      "sentence": "the army retreated in confusion",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "c-prefix-con-congress",
       "word": "congress",
       "display": "Congress",
-      "phonetic": "",
-      "translation": "\u5927\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋgrəs/",
+      "translation": "大会",
+      "sentence": "Congress refers to the legislature of the United States government.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "c-prefix-con-conjunction",
       "word": "conjunction",
       "display": "Conjunction",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5",
-      "sentence": "",
+      "phonetic": "/kənˈʤəŋkʃən/",
+      "translation": "连接",
+      "sentence": "the interval determining the coincidence gate is adjustable",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "c-prefix-con-connect",
       "word": "connect",
       "display": "Connect",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5",
-      "sentence": "",
+      "phonetic": "/kəˈnɛkt/",
+      "translation": "连接",
+      "sentence": "Can you connect the two loudspeakers?",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "c-prefix-con-connection",
       "word": "connection",
       "display": "Connection",
-      "phonetic": "",
-      "translation": "\u8054\u7cfb\uff1b\u4eb2\u621a",
-      "sentence": "",
+      "phonetic": "/kəˈnɛkʃən/",
+      "translation": "联系；亲戚",
+      "sentence": "there was a connection between eating that pickle and having that nightmare",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "c-prefix-con-contact",
       "word": "contact",
       "display": "Contact",
-      "phonetic": "",
-      "translation": "\u63a5\u89e6",
-      "sentence": "",
+      "phonetic": "/ˈkɑnˌtækt/",
+      "translation": "接触",
+      "sentence": "they kept in daily contact",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "c-prefix-con-contemplate",
       "word": "contemplate",
       "display": "Contemplate",
-      "phonetic": "",
-      "translation": "\u76d8\u7b97",
-      "sentence": "",
+      "phonetic": "/ˈkɑntəmˌpleɪt/",
+      "translation": "盘算",
+      "sentence": "contemplate one's navel",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "c-prefix-con-contemporary",
       "word": "contemporary",
       "display": "Contemporary",
-      "phonetic": "",
-      "translation": "\u73b0\u4ee3\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈtɛmpərˌɛri/",
+      "translation": "现代的",
+      "sentence": "contemporary trends in design",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "c-prefix-con-convenience",
       "word": "convenience",
       "display": "Convenience",
-      "phonetic": "",
-      "translation": "\u65b9\u4fbf",
-      "sentence": "",
+      "phonetic": "/kənˈvinjəns/",
+      "translation": "方便",
+      "sentence": "chairs arranged for his own convenience",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "c-prefix-con-convenient",
       "word": "convenient",
       "display": "Convenient",
-      "phonetic": "",
-      "translation": "\u65b9\u4fbf\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈvinjənt/",
+      "translation": "方便的",
+      "sentence": "a convenient excuse for not going",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "c-prefix-con-convention",
       "word": "convention",
       "display": "Convention",
-      "phonetic": "",
-      "translation": "\u5927\u4f1a\uff1b\u5e38\u89c4",
-      "sentence": "",
+      "phonetic": "/kənˈvɛnʃən/",
+      "translation": "大会；常规",
+      "sentence": "political convention",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "c-prefix-con-conventional",
       "word": "conventional",
       "display": "Conventional",
-      "phonetic": "",
-      "translation": "\u5e38\u89c4\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈvɛnʃənəl/",
+      "translation": "常规的",
+      "sentence": "conventional wisdom",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "c-prefix-con-conversation",
       "word": "conversation",
       "display": "Conversation",
-      "phonetic": "",
-      "translation": "\u8c08\u8bdd",
-      "sentence": "",
+      "phonetic": "/ˌkɑnvərˈseɪʃən/",
+      "translation": "谈话",
+      "sentence": "A conversation is the use of speech for informal exchange of views or ideas or information etc.",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "c-prefix-con-conversely",
       "word": "conversely",
       "display": "Conversely",
-      "phonetic": "",
-      "translation": "\u76f8\u53cd\u5730",
-      "sentence": "",
+      "phonetic": "/ˈkɑnvərsli/",
+      "translation": "相反地",
+      "sentence": "conversely, not all women are mothers",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "c-prefix-con-conversion",
       "word": "conversion",
       "display": "Conversion",
-      "phonetic": "",
-      "translation": "\u8f6c\u53d8",
-      "sentence": "",
+      "phonetic": "/kənˈvərʒən/",
+      "translation": "转变",
+      "sentence": "conversion from Fahrenheit to Centigrade",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "c-prefix-con-convert",
       "word": "convert",
       "display": "Convert",
-      "phonetic": "",
-      "translation": "\u8f6c\u53d8",
-      "sentence": "",
+      "phonetic": "/ˈkɑnvərt/",
+      "translation": "转变",
+      "sentence": "We converted from 220 to 110 Volt",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "c-prefix-con-convey",
       "word": "convey",
       "display": "Convey",
-      "phonetic": "",
-      "translation": "\u642c\u8fd0",
-      "sentence": "",
+      "phonetic": "/kənˈveɪ/",
+      "translation": "搬运",
+      "sentence": "She conveyed the message to me",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "c-prefix-con-convict",
       "word": "convict",
       "display": "Convict",
-      "phonetic": "",
-      "translation": "\u8bc1\u660e...\u6709\u7f6a\uff1b\u56da\u72af",
-      "sentence": "",
+      "phonetic": "/ˈkɑnvɪkt/",
+      "translation": "证明...有罪；囚犯",
+      "sentence": "The man was convicted of fraud and sentenced",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "c-prefix-con-conviction",
       "word": "conviction",
       "display": "Conviction",
-      "phonetic": "",
-      "translation": "\u6df1\u4fe1\uff1b\u5b9a\u7f6a",
-      "sentence": "",
+      "phonetic": "/kənˈvɪkʃən/",
+      "translation": "深信；定罪",
+      "sentence": "the conviction came as no surprise",
       "tags": [
         "root-family"
       ],
@@ -491,5 +491,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-prefix>c-prefix-con",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

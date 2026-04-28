@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-out",
-  "root": "out\u5916",
+  "root": "out外",
   "meaning": "out",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "外",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-out-out",
       "word": "out",
       "display": "Out",
-      "phonetic": "",
-      "translation": "\u79bb\u5bb6\uff1b\u5411\u5916",
-      "sentence": "",
+      "phonetic": "/aʊt/",
+      "translation": "离家；向外",
+      "sentence": "you only get 3 outs per inning",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-out-outbreak",
       "word": "outbreak",
       "display": "Outbreak",
-      "phonetic": "",
-      "translation": "\u7206\u53d1\uff1b\u53d1\u4f5c",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˌbreɪk/",
+      "translation": "爆发；发作",
+      "sentence": "the outbreak of hostilities",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-out-outcome",
       "word": "outcome",
       "display": "Outcome",
-      "phonetic": "",
-      "translation": "\u7ed3\u679c",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˌkəm/",
+      "translation": "结果",
+      "sentence": "he listened for the results on the radio",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-out-outdoor",
       "word": "outdoor",
       "display": "Outdoor",
-      "phonetic": "",
-      "translation": "\u5ba4\u5916\u7684",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˌdɔr/",
+      "translation": "室外的",
+      "sentence": "outdoor clothes",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-out-outer",
       "word": "outer",
       "display": "Outer",
-      "phonetic": "",
-      "translation": "\u5916\u90e8\u7684\uff1b\u5916\u5c42\u7684",
-      "sentence": "",
+      "phonetic": "/ˈaʊtər/",
+      "translation": "外部的；外层的",
+      "sentence": "spent hours adorning the outer man",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "o-out-outfit",
       "word": "outfit",
       "display": "Outfit",
-      "phonetic": "",
-      "translation": "\u88c5\u5907",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˌfɪt/",
+      "translation": "装备",
+      "sentence": "his getup was exceedingly elegant",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "o-out-outing",
       "word": "outing",
       "display": "Outing",
-      "phonetic": "",
-      "translation": "\u5916\u51fa\uff1b\u6563\u6b65",
-      "sentence": "",
+      "phonetic": "/ˈaʊtɪŋ/",
+      "translation": "外出；散步",
+      "sentence": "many summer excursions to the shore",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "o-out-outlet",
       "word": "outlet",
       "display": "Outlet",
-      "phonetic": "",
-      "translation": "\u51fa\u53e3\uff1b\u5e02\u573a",
-      "sentence": "",
+      "phonetic": "/ˈaʊˌtlɛt/",
+      "translation": "出口；市场",
+      "sentence": "she had no other outlet for her feelings",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "o-out-outlook",
       "word": "outlook",
       "display": "Outlook",
-      "phonetic": "",
-      "translation": "\u666f\u8272\uff1b\u98ce\u5149",
-      "sentence": "",
+      "phonetic": "/ˈaʊˌtlʊk/",
+      "translation": "景色；风光",
+      "sentence": "An outlook is a habitual or characteristic mental attitude that determines how you will interpret and respond to situations.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "o-out-output",
       "word": "output",
       "display": "Output",
-      "phonetic": "",
-      "translation": "\u4ea7\u91cf",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˌpʊt/",
+      "translation": "产量",
+      "sentence": "the computer is outputting the data from the job I'm running",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "o-out-outrage",
       "word": "outrage",
       "display": "Outrage",
-      "phonetic": "",
-      "translation": "\u66b4\u884c\uff1b\u4fae\u8fb1\uff1b\u6124\u6012",
-      "sentence": "",
+      "phonetic": "/ˈaʊˌtreɪʤ/",
+      "translation": "暴行；侮辱；愤怒",
+      "sentence": "The scandalous behavior of this married woman shocked her friends",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "o-out-outset",
       "word": "outset",
       "display": "Outset",
-      "phonetic": "",
-      "translation": "\u5f00\u59cb\uff1b\u5f00\u7aef",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˌsɛt/",
+      "translation": "开始；开端",
+      "sentence": "they got an early start",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "o-out-outside",
       "word": "outside",
       "display": "Outside",
-      "phonetic": "",
-      "translation": "\u5916\u90e8",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˈsaɪd/",
+      "translation": "外部",
+      "sentence": "an outside margin",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "o-out-outskirts",
       "word": "outskirts",
       "display": "Outskirts",
-      "phonetic": "",
-      "translation": "\u90ca\u533a",
-      "sentence": "",
+      "phonetic": "/ˈaʊtˌskərts/",
+      "translation": "郊区",
+      "sentence": "they lived on the outskirts of Houston",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "o-out-outstanding",
       "word": "outstanding",
       "display": "Outstanding",
-      "phonetic": "",
-      "translation": "\u7a81\u51fa\u7684\uff1b\u663e\u8457\u7684\uff1b\u6770\u51fa\u7684",
-      "sentence": "",
+      "phonetic": "/ˌaʊtˈstændɪŋ/",
+      "translation": "突出的；显著的；杰出的",
+      "sentence": "did outstanding work in human relations",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "o-out-outward",
       "word": "outward",
       "display": "Outward",
-      "phonetic": "",
-      "translation": "\u5916\u9762\u7684\uff1b\u516c\u5f00\u7684\uff1b\u5916\u8868",
-      "sentence": "",
+      "phonetic": "/ˈaʊtwərd/",
+      "translation": "外面的；公开的；外表",
+      "sentence": "a concern with outward beauty rather than with inward reflections",
       "tags": [
         "root-family"
       ],
@@ -203,5 +203,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-out",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

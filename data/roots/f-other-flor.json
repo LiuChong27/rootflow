@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-other-flor",
-  "root": "flor\u82b1",
+  "root": "flor花",
   "meaning": "flor",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "花",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-other-flor-flora",
       "word": "flora",
       "display": "Flora",
-      "phonetic": "",
-      "translation": "\u690d\u7269\u7fa4",
-      "sentence": "",
+      "phonetic": "/ˈflɔrə/",
+      "translation": "植物群",
+      "sentence": "the flora of southern California",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-other-flor-floral",
       "word": "floral",
       "display": "Floral",
-      "phonetic": "",
-      "translation": "\u82b1\u4e00\u6837\u7684",
-      "sentence": "",
+      "phonetic": "/ˈflɔrəl/",
+      "translation": "花一样的",
+      "sentence": "an unusual floral design",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-other-flor-florescent",
       "word": "florescent",
       "display": "Florescent",
-      "phonetic": "",
-      "translation": "\u5f00\u82b1\u7684",
-      "sentence": "",
+      "phonetic": "/flˈɔrʌstʌnt/",
+      "translation": "开花的",
+      "sentence": "Florescent is used here with the sense of \"开花的\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-other-flor-florid",
       "word": "florid",
       "display": "Florid",
-      "phonetic": "",
-      "translation": "\u534e\u4e3d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈflɔrəd/",
+      "translation": "华丽的",
+      "sentence": "the senator's florid speech",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-other-flor-florist",
       "word": "florist",
       "display": "Florist",
-      "phonetic": "",
-      "translation": "\u82b1\u5e97",
-      "sentence": "",
+      "phonetic": "/ˈflɔrɪst/",
+      "translation": "花店",
+      "sentence": "the florist made up an attractive bouquet",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-other-flor-flourish",
       "word": "flourish",
       "display": "Flourish",
-      "phonetic": "",
-      "translation": "\u8302\u76db",
-      "sentence": "",
+      "phonetic": "/flərɪʃ/",
+      "translation": "茂盛",
+      "sentence": "she entered with a great flourish",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-other-flor-flourishing",
       "word": "flourishing",
       "display": "Flourishing",
-      "phonetic": "",
-      "translation": "\u7e41\u8363\u7684",
-      "sentence": "",
+      "phonetic": "/ˈflərɪʃɪŋ/",
+      "translation": "繁荣的",
+      "sentence": "flourishing businesses",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-other-flor-noctiflorous",
       "word": "noctiflorous",
       "display": "Noctiflorous",
-      "phonetic": "",
-      "translation": "\u591c\u95f4\u5f00\u82b1\u7684",
-      "sentence": "",
+      "phonetic": "/nˌɑktʌflˈɔrʌs/",
+      "translation": "夜间开花的",
+      "sentence": "Noctiflorous is used here with the sense of \"夜间开花的\".",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "f-other-flor-reflourish",
       "word": "reflourish",
       "display": "Reflourish",
-      "phonetic": "",
-      "translation": "\u590d\u6d3b",
-      "sentence": "",
+      "phonetic": "/riflˈɔrɪʃ/",
+      "translation": "复活",
+      "sentence": "Reflourish is used here with the sense of \"复活\".",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-other>f-other-flor",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

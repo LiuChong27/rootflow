@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-strengthen",
-  "root": "\u52a0\u5f3a",
+  "root": "加强",
   "meaning": "strengthen",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "加强",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-strengthen-describe",
       "word": "describe",
       "display": "Describe",
-      "phonetic": "",
-      "translation": "\u63cf\u8ff0",
-      "sentence": "",
+      "phonetic": "/dɪˈskraɪb/",
+      "translation": "描述",
+      "sentence": "Discreet Italian police described it in a manner typically continental",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-strengthen-description",
       "word": "description",
       "display": "Description",
-      "phonetic": "",
-      "translation": "\u63cf\u8ff0",
-      "sentence": "",
+      "phonetic": "/dɪˈskrɪpʃən/",
+      "translation": "描述",
+      "sentence": "every description of book was there",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-strengthen-deserve",
       "word": "deserve",
       "display": "Deserve",
-      "phonetic": "",
-      "translation": "\u503c\u5f97",
-      "sentence": "",
+      "phonetic": "/dɪˈzərv/",
+      "translation": "值得",
+      "sentence": "You deserve a promotion after all the hard work you have done",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-strengthen-design",
       "word": "design",
       "display": "Design",
-      "phonetic": "",
-      "translation": "\u8bbe\u8ba1",
-      "sentence": "",
+      "phonetic": "/dɪˈzaɪn/",
+      "translation": "设计",
+      "sentence": "he contributed to the design of a new instrument",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-strengthen-designate",
       "word": "designate",
       "display": "Designate",
-      "phonetic": "",
-      "translation": "\u4efb\u547d",
-      "sentence": "",
+      "phonetic": "/ˈdɛzɪgˌneɪt/",
+      "translation": "任命",
+      "sentence": "I showed the customer the glove section",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-strengthen-desirable",
       "word": "desirable",
       "display": "Desirable",
-      "phonetic": "",
-      "translation": "\u503c\u5f97\u505a\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈzaɪərəbəl/",
+      "translation": "值得做的",
+      "sentence": "a desirable job",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-strengthen-desire",
       "word": "desire",
       "display": "Desire",
-      "phonetic": "",
-      "translation": "\u613f\u671b\uff1b\u8981\u6c42",
-      "sentence": "",
+      "phonetic": "/dɪˈzaɪər/",
+      "translation": "愿望；要求",
+      "sentence": "a man of many desires",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-strengthen-desolate",
       "word": "desolate",
       "display": "Desolate",
-      "phonetic": "",
-      "translation": "\u5b64\u72ec\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɛzələt/",
+      "translation": "孤独的",
+      "sentence": "the desolate surface of the moon",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-strengthen-despair",
       "word": "despair",
       "display": "Despair",
-      "phonetic": "",
-      "translation": "\u5931\u671b",
-      "sentence": "",
+      "phonetic": "/dɪˈspɛr/",
+      "translation": "失望",
+      "sentence": "in the depths of despair",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-strengthen-despatch",
       "word": "despatch",
       "display": "Despatch",
-      "phonetic": "",
-      "translation": "\u6d3e\u9063",
-      "sentence": "",
+      "phonetic": "/dˈɛspætʃ/",
+      "translation": "派遣",
+      "sentence": "it was done with dispatch",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-strengthen-desperate",
       "word": "desperate",
       "display": "Desperate",
-      "phonetic": "",
-      "translation": "\u7edd\u671b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɛspərɪt/",
+      "translation": "绝望的",
+      "sentence": "they prey on the hopes of the desperate",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-strengthen-despise",
       "word": "despise",
       "display": "Despise",
-      "phonetic": "",
-      "translation": "\u8511\u89c6",
-      "sentence": "",
+      "phonetic": "/dɪˈspaɪz/",
+      "translation": "蔑视",
+      "sentence": "He despises the people he has to work for",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-strengthen-despite",
       "word": "despite",
       "display": "Despite",
-      "phonetic": "",
-      "translation": "\u4e0d\u7ba1\u4e0d\u987e",
-      "sentence": "",
+      "phonetic": "/dɪˈspaɪt/",
+      "translation": "不管不顾",
+      "sentence": "the despite in which outsiders were held is legendary",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "d-strengthen-destination",
       "word": "destination",
       "display": "Destination",
-      "phonetic": "",
-      "translation": "\u76ee\u7684\u5730",
-      "sentence": "",
+      "phonetic": "/ˌdɛstɪˈneɪʃən/",
+      "translation": "目的地",
+      "sentence": "he was nearly exhausted as their destination came into view",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "d-strengthen-destiny",
       "word": "destiny",
       "display": "Destiny",
-      "phonetic": "",
-      "translation": "\u547d\u8fd0",
-      "sentence": "",
+      "phonetic": "/ˈdɛstəni/",
+      "translation": "命运",
+      "sentence": "we are helpless in the face of destiny",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "d-strengthen-destroy",
       "word": "destroy",
       "display": "Destroy",
-      "phonetic": "",
-      "translation": "\u6467\u6bc1",
-      "sentence": "",
+      "phonetic": "/dɪˈstrɔɪ/",
+      "translation": "摧毁",
+      "sentence": "The fire destroyed the house",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "d-strengthen-destruction",
       "word": "destruction",
       "display": "Destruction",
-      "phonetic": "",
-      "translation": "\u6bc1\u574f",
-      "sentence": "",
+      "phonetic": "/dɪˈstrəkʃən/",
+      "translation": "毁坏",
+      "sentence": "he came to a bad end",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "d-strengthen-destructive",
       "word": "destructive",
       "display": "Destructive",
-      "phonetic": "",
-      "translation": "\u7834\u574f\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈstrəktɪv/",
+      "translation": "破坏性的",
+      "sentence": "a policy that is destructive to the economy",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "d-strengthen-detach",
       "word": "detach",
       "display": "Detach",
-      "phonetic": "",
-      "translation": "\u5206\u79bb",
-      "sentence": "",
+      "phonetic": "/ˈdɪˌtæʧ/",
+      "translation": "分离",
+      "sentence": "detach the skin from the chicken before you eat it",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "d-strengthen-detail",
       "word": "detail",
       "display": "Detail",
-      "phonetic": "",
-      "translation": "\u7ec6\u8282",
-      "sentence": "",
+      "phonetic": "/ˈditeɪl/",
+      "translation": "细节",
+      "sentence": "several of the details are similar",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "d-strengthen-detain",
       "word": "detain",
       "display": "Detain",
-      "phonetic": "",
-      "translation": "\u62d8\u7559",
-      "sentence": "",
+      "phonetic": "/dɪˈteɪn/",
+      "translation": "拘留",
+      "sentence": "Please stay the bloodshed!",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "d-strengthen-detect",
       "word": "detect",
       "display": "Detect",
-      "phonetic": "",
-      "translation": "\u5bdf\u89c9\uff1b\u63a2\u6d4b",
-      "sentence": "",
+      "phonetic": "/dɪˈtɛkt/",
+      "translation": "察觉；探测",
+      "sentence": "She detected high levels of lead in her drinking water",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "d-strengthen-detective",
       "word": "detective",
       "display": "Detective",
-      "phonetic": "",
-      "translation": "\u4fa6\u63a2",
-      "sentence": "",
+      "phonetic": "/dɪˈtɛktɪv/",
+      "translation": "侦探",
+      "sentence": "A detective is a police officer who investigates crimes.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "d-strengthen-detector",
       "word": "detector",
       "display": "Detector",
-      "phonetic": "",
-      "translation": "\u68c0\u6d4b\u5668",
-      "sentence": "",
+      "phonetic": "/dɪˈtɛktər/",
+      "translation": "检测器",
+      "sentence": "A detector is any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "d-strengthen-deteriorate",
       "word": "deteriorate",
       "display": "Deteriorate",
-      "phonetic": "",
-      "translation": "\u6076\u5316",
-      "sentence": "",
+      "phonetic": "/dɪˈtɪriərˌeɪt/",
+      "translation": "恶化",
+      "sentence": "His mind deteriorated",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "d-strengthen-determine",
       "word": "determine",
       "display": "Determine",
-      "phonetic": "",
-      "translation": "\u51b3\u5b9a",
-      "sentence": "",
+      "phonetic": "/dɪˈtərmən/",
+      "translation": "决定",
+      "sentence": "experience often determines ability",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "d-strengthen-develop",
       "word": "develop",
       "display": "Develop",
-      "phonetic": "",
-      "translation": "\u7814\u53d1",
-      "sentence": "",
+      "phonetic": "/dɪˈvɛləp/",
+      "translation": "研发",
+      "sentence": "Her company developed a new kind of building material that withstands all kinds of weather",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "d-strengthen-deviate",
       "word": "deviate",
       "display": "Deviate",
-      "phonetic": "",
-      "translation": "\u80cc\u79bb",
-      "sentence": "",
+      "phonetic": "/ˈdiviˌeɪt/",
+      "translation": "背离",
+      "sentence": "The river was deviated to prevent flooding",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "d-strengthen-device",
       "word": "device",
       "display": "Device",
-      "phonetic": "",
-      "translation": "\u8bbe\u5907",
-      "sentence": "",
+      "phonetic": "/dɪˈvaɪs/",
+      "translation": "设备",
+      "sentence": "the device is small enough to wear on your wrist",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "d-strengthen-devil",
       "word": "devil",
       "display": "Devil",
-      "phonetic": "",
-      "translation": "\u9b54\u9b3c",
-      "sentence": "",
+      "phonetic": "/ˈdɛvəl/",
+      "translation": "魔鬼",
+      "sentence": "what the devil",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "d-strengthen-devise",
       "word": "devise",
       "display": "Devise",
-      "phonetic": "",
-      "translation": "\u8bbe\u8ba1\uff1b\u53d1\u660e",
-      "sentence": "",
+      "phonetic": "/dɪˈvaɪz/",
+      "translation": "设计；发明",
+      "sentence": "devise a plan to take over the director's office",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "d-strengthen-devote",
       "word": "devote",
       "display": "Devote",
-      "phonetic": "",
-      "translation": "\u81f4\u529b\u4e8e",
-      "sentence": "",
+      "phonetic": "/dɪˈvoʊt/",
+      "translation": "致力于",
+      "sentence": "this land was devoted to mining",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "d-strengthen-dew",
       "word": "dew",
       "display": "Dew",
-      "phonetic": "",
-      "translation": "\u9732\u6c34",
-      "sentence": "",
+      "phonetic": "/duː/",
+      "translation": "露水",
+      "sentence": "in the morning the grass was wet with dew",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "d-strengthen-dig",
       "word": "dig",
       "display": "Dig",
-      "phonetic": "",
-      "translation": "\u6316",
-      "sentence": "",
+      "phonetic": "/dɪg/",
+      "translation": "挖",
+      "sentence": "they set up camp next to the dig",
       "tags": [
         "root-family"
       ],
@@ -419,5 +419,6 @@
   "rootLevel": 2,
   "rootPath": "d>d-strengthen",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

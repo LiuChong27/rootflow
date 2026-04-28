@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-thr",
   "root": "thr",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "thr",
+  "descriptionCn": "thr",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-thr-third",
       "word": "third",
       "display": "Third",
-      "phonetic": "",
-      "translation": "\u7b2c\u4e09",
-      "sentence": "",
+      "phonetic": "/θərd/",
+      "translation": "第三",
+      "sentence": "it contains approximately a third of the minimum daily requirement",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-thr-thirst",
       "word": "thirst",
       "display": "Thirst",
-      "phonetic": "",
-      "translation": "\u53e3\u6e34",
-      "sentence": "",
+      "phonetic": "/θərst/",
+      "translation": "口渴",
+      "sentence": "a thirst for knowledge",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-thr-thirsty",
       "word": "thirsty",
       "display": "Thirsty",
-      "phonetic": "",
-      "translation": "\u53e3\u6e34\u7684",
-      "sentence": "",
+      "phonetic": "/ˈθərsti/",
+      "translation": "口渴的",
+      "sentence": "thirsty fields under a rainless sky",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-thr-thirteen",
       "word": "thirteen",
       "display": "Thirteen",
-      "phonetic": "",
-      "translation": "\u5341\u4e09",
-      "sentence": "",
+      "phonetic": "/ˈθərˈtin/",
+      "translation": "十三",
+      "sentence": "A thirteen is the cardinal number that is the sum of twelve and one.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-thr-thirty",
       "word": "thirty",
       "display": "Thirty",
-      "phonetic": "",
-      "translation": "\u4e09\u5341",
-      "sentence": "",
+      "phonetic": "/ˈθərˌdi/",
+      "translation": "三十",
+      "sentence": "A thirty is the cardinal number that is the product of ten and three.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-thr-triangle",
       "word": "triangle",
       "display": "Triangle",
-      "phonetic": "",
-      "translation": "\u4e09\u89d2\u5f62",
-      "sentence": "",
+      "phonetic": "/ˈtraɪˌæŋgəl/",
+      "translation": "三角形",
+      "sentence": "the coastline of Chile and Argentina and Brazil forms two legs of a triangle",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-thr-triple",
       "word": "triple",
       "display": "Triple",
-      "phonetic": "",
-      "translation": "\u4e09\u500d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈtrɪpəl/",
+      "translation": "三倍的",
+      "sentence": "Triple your income!",
       "tags": [
         "root-family"
       ],
@@ -92,8 +92,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-thr",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

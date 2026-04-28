@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-gress",
-  "root": "gress=grad\u884c\u8d70",
+  "root": "gress=grad行走",
   "meaning": "gress",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "行走",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-gress-aggress",
       "word": "aggress",
       "display": "Aggress",
-      "phonetic": "",
-      "translation": "\u653b\u51fb\uff1b\u4fb5\u72af",
-      "sentence": "",
+      "phonetic": "/əˈgrɛs/",
+      "translation": "攻击；侵犯",
+      "sentence": "The Serbs attacked the village at night",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-gress-aggression",
       "word": "aggression",
       "display": "Aggression",
-      "phonetic": "",
-      "translation": "\u4fb5\u7565",
-      "sentence": "",
+      "phonetic": "/əˈgrɛʃən/",
+      "translation": "侵略",
+      "sentence": "An aggression is a disposition to behave aggressively.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-gress-aggressive",
       "word": "aggressive",
       "display": "Aggressive",
-      "phonetic": "",
-      "translation": "\u4fb5\u7565\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/əˈgrɛsɪv/",
+      "translation": "侵略性的",
+      "sentence": "an aggressive businessman",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-gress-congress",
       "word": "congress",
       "display": "Congress",
-      "phonetic": "",
-      "translation": "\u5927\u4f1a\uff1b\u56fd\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋgrəs/",
+      "translation": "大会；国会",
+      "sentence": "Congress refers to the legislature of the United States government.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-gress-degradation",
       "word": "degradation",
       "display": "Degradation",
-      "phonetic": "",
-      "translation": "\u964d\u7ea7",
-      "sentence": "",
+      "phonetic": "/ˌdɛgrəˈdeɪʃən/",
+      "translation": "降级",
+      "sentence": "each confession brought her into an attitude of abasement",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "g-gress-degrade",
       "word": "degrade",
       "display": "Degrade",
-      "phonetic": "",
-      "translation": "\u964d\u7ea7\uff1b\u9000\u5316",
-      "sentence": "",
+      "phonetic": "/dɪˈgreɪd/",
+      "translation": "降级；退化",
+      "sentence": "She tends to put down younger women colleagues",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "g-gress-digress",
       "word": "digress",
       "display": "Digress",
-      "phonetic": "",
-      "translation": "\u626f\u5f00",
-      "sentence": "",
+      "phonetic": "/daɪˈgrɛs/",
+      "translation": "扯开",
+      "sentence": "She always digresses when telling a story",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "g-gress-downgrade",
       "word": "downgrade",
       "display": "Downgrade",
-      "phonetic": "",
-      "translation": "\u964d\u7ea7\uff1b\u4e0b\u5761\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdaʊnˈgreɪd/",
+      "translation": "降级；下坡的",
+      "sentence": "A downgrade is the property possessed by a slope or surface that descends.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "g-gress-egress",
       "word": "egress",
       "display": "Egress",
-      "phonetic": "",
-      "translation": "\u51fa\u53e3\uff1b\u5916\u51fa",
-      "sentence": "",
+      "phonetic": "/ɪˈgrɛs/",
+      "translation": "出口；外出",
+      "sentence": "not a day's difference between the emergence of the andrenas and the opening of the willow catkins",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "g-gress-gradation",
       "word": "gradation",
       "display": "Gradation",
-      "phonetic": "",
-      "translation": "\u7b49\u7ea7\uff1b\u9636\u6bb5",
-      "sentence": "",
+      "phonetic": "/greɪˈdeɪʃən/",
+      "translation": "等级；阶段",
+      "sentence": "subtle gradations in color",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "g-gress-grade",
       "word": "grade",
       "display": "Grade",
-      "phonetic": "",
-      "translation": "\u7b49\u7ea7\uff1b\u7ea7\u522b",
-      "sentence": "",
+      "phonetic": "/greɪd/",
+      "translation": "等级；级别",
+      "sentence": "lumber of the highest grade",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "g-gress-gradient",
       "word": "gradient",
       "display": "Gradient",
-      "phonetic": "",
-      "translation": "\u503e\u659c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈgreɪdiənt/",
+      "translation": "倾斜的",
+      "sentence": "a five-degree gradient",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "g-gress-graduate",
       "word": "graduate",
       "display": "Graduate",
-      "phonetic": "",
-      "translation": "\u6bd5\u4e1a\u751f\uff1b\u7814\u7a76\u751f",
-      "sentence": "",
+      "phonetic": "/ˈgræʤəˌweɪt/",
+      "translation": "毕业生；研究生",
+      "sentence": "She graduated in 1990",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "g-gress-ingress",
       "word": "ingress",
       "display": "Ingress",
-      "phonetic": "",
-      "translation": "\u5165\u53e3",
-      "sentence": "",
+      "phonetic": "/ˈɪŋgrʌs/",
+      "translation": "入口",
+      "sentence": "she made a grand entrance",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "g-gress-postgraduate",
       "word": "postgraduate",
       "display": "Postgraduate",
-      "phonetic": "",
-      "translation": "\u7814\u7a76\u751f",
-      "sentence": "",
+      "phonetic": "/pʌstˈægrʌdˌeɪt/",
+      "translation": "研究生",
+      "sentence": "graduate courses",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "g-gress-progress",
       "word": "progress",
       "display": "Progress",
-      "phonetic": "",
-      "translation": "\u8fdb\u6b65\uff1b\u53d1\u5c55",
-      "sentence": "",
+      "phonetic": "/ˈprɑˌgrɛs/",
+      "translation": "进步；发展",
+      "sentence": "great progress in the arts",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "g-gress-regression",
       "word": "regression",
       "display": "Regression",
-      "phonetic": "",
-      "translation": "\u56de\u9000\uff1b\u9000\u6b65",
-      "sentence": "",
+      "phonetic": "/rəˈgrɛʃən/",
+      "translation": "回退；退步",
+      "sentence": "A regression is an abnormal state in which development has stopped prematurely.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "g-gress-retrograde",
       "word": "retrograde",
       "display": "Retrograde",
-      "phonetic": "",
-      "translation": "\u9000\u5316\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛtrəˌgreɪd/",
+      "translation": "退化的",
+      "sentence": "The glacier retrogrades",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "g-gress-retrogression",
       "word": "retrogression",
       "display": "Retrogression",
-      "phonetic": "",
-      "translation": "\u540e\u9000\uff1b\u9000\u5316",
-      "sentence": "",
+      "phonetic": "/rˌɛtroʊdʒˈɛrʃʌn/",
+      "translation": "后退；退化",
+      "sentence": "A retrogression is passing from a more complex to a simpler biological form.",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "g-gress-retrogressive",
       "word": "retrogressive",
       "display": "Retrogressive",
-      "phonetic": "",
-      "translation": "\u9000\u6b65\u7684\uff1b\u5815\u843d\u7684",
-      "sentence": "",
+      "phonetic": "/ritrʌgrˈɛsɪv/",
+      "translation": "退步的；堕落的",
+      "sentence": "If something is retrogressive, it is going from better to worse.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "g-gress-transgress",
       "word": "transgress",
       "display": "Transgress",
-      "phonetic": "",
-      "translation": "\u4fb5\u8d8a\uff1b\u8fdd\u80cc\u6cd5\u5f8b",
-      "sentence": "",
+      "phonetic": "/trænzˈgrɛs/",
+      "translation": "侵越；违背法律",
+      "sentence": "The sea transgresses along the West coast of the island",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "g-gress-upgrade",
       "word": "upgrade",
       "display": "Upgrade",
-      "phonetic": "",
-      "translation": "\u4e0a\u5761\uff1b\u63d0\u5347",
-      "sentence": "",
+      "phonetic": "/ˈəpˈgreɪd/",
+      "translation": "上坡；提升",
+      "sentence": "I got an upgrade to first class when coach class was full",
       "tags": [
         "root-family"
       ],
@@ -275,5 +275,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-gress",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

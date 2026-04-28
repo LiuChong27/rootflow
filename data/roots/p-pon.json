@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-pon",
-  "root": "pon=pos pound \u653e",
+  "root": "pon=pos pound 放",
   "meaning": "put",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "放",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-pon-apposite",
       "word": "apposite",
       "display": "Apposite",
-      "phonetic": "",
-      "translation": "\u9002\u5f53\u7684\uff08\u653e\u7684\u597d\uff09",
-      "sentence": "",
+      "phonetic": "/ʌpˈɑzʌt/",
+      "translation": "适当的（放的好）",
+      "sentence": "the successful copywriter is a master of apposite and evocative verbal images",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-pon-apposition",
       "word": "apposition",
       "display": "Apposition",
-      "phonetic": "",
-      "translation": "\u76f8\u90bb\uff1b\u5e76\u5217",
-      "sentence": "",
+      "phonetic": "/ʌpˌɑʃʌnˈeɪ/",
+      "translation": "相邻；并列",
+      "sentence": "`Rudolph the red-nosed reindeer' is an example of apposition",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-pon-appositive",
       "word": "appositive",
       "display": "Appositive",
-      "phonetic": "",
-      "translation": "\u540c\u4f4d\u8bed",
-      "sentence": "",
+      "phonetic": "/ʌpˈɑzɪtɪv/",
+      "translation": "同位语",
+      "sentence": "an appositive noun",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-pon-component",
       "word": "component",
       "display": "Component",
-      "phonetic": "",
-      "translation": "\u6210\u5206\uff1b\u6784\u6210\u8981\u7d20",
-      "sentence": "",
+      "phonetic": "/kəmˈpoʊnənt/",
+      "translation": "成分；构成要素",
+      "sentence": "jealousy was a component of his character",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-pon-compose",
       "word": "compose",
       "display": "Compose",
-      "phonetic": "",
-      "translation": "\u7ec4\u6210\uff1b\u521b\u4f5c",
-      "sentence": "",
+      "phonetic": "/kəmˈpoʊz/",
+      "translation": "组成；创作",
+      "sentence": "Greed and ambition composed his personality",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-pon-compost",
       "word": "compost",
       "display": "Compost",
-      "phonetic": "",
-      "translation": "\u6df7\u5408\u7269",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpoʊst/",
+      "translation": "混合物",
+      "sentence": "compost organic debris",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-pon-compound",
       "word": "compound",
       "display": "Compound",
-      "phonetic": "",
-      "translation": "\u6df7\u5408\u7269\uff1b\u590d\u5408\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpaʊnd/",
+      "translation": "混合物；复合的",
+      "sentence": "compound the ingredients",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-pon-decompose",
       "word": "decompose",
       "display": "Decompose",
-      "phonetic": "",
-      "translation": "\u5206\u89e3\uff1b\u5f17\u5170",
-      "sentence": "",
+      "phonetic": "/ˌdikəmˈpoʊz/",
+      "translation": "分解；弗兰",
+      "sentence": "The bodies decomposed in the heat",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-pon-depose",
       "word": "depose",
       "display": "Depose",
-      "phonetic": "",
-      "translation": "\u514d\u804c",
-      "sentence": "",
+      "phonetic": "/dɪˈpoʊz/",
+      "translation": "免职",
+      "sentence": "To depose is to force to leave (an office).",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-pon-deposit",
       "word": "deposit",
       "display": "Deposit",
-      "phonetic": "",
-      "translation": "\u62bc\u91d1\uff1b\u5806\u79ef\u7269",
-      "sentence": "",
+      "phonetic": "/dɪˈpɑzət/",
+      "translation": "押金；堆积物",
+      "sentence": "his deposit was refunded when he returned the car",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-pon-discompose",
       "word": "discompose",
       "display": "Discompose",
-      "phonetic": "",
-      "translation": "\u6253\u6270\uff1b\u4f7f\u4eba\u614c\u4e71",
-      "sentence": "",
+      "phonetic": "/dɪskˈɑmpˌoʊs/",
+      "translation": "打扰；使人慌乱",
+      "sentence": "To discompose is to cause to lose one's composure.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-pon-dispose",
       "word": "dispose",
       "display": "Dispose",
-      "phonetic": "",
-      "translation": "\u5904\u7406\uff1b\u5e03\u7f6e",
-      "sentence": "",
+      "phonetic": "/dɪˈspoʊz/",
+      "translation": "处理；布置",
+      "sentence": "She disposed of her parents' possessions",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-pon-expose",
       "word": "expose",
       "display": "Expose",
-      "phonetic": "",
-      "translation": "\u66b4\u9732\uff1b\u63ed\u53d1",
-      "sentence": "",
+      "phonetic": "/ɪkˈspoʊz/",
+      "translation": "暴露；揭发",
+      "sentence": "he published an expose of the graft and corruption in city government",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-pon-exposition",
       "word": "exposition",
       "display": "Exposition",
-      "phonetic": "",
-      "translation": "\u5c55\u89c8\u4f1a\uff1b\u66b4\u9732",
-      "sentence": "",
+      "phonetic": "/ˌɛkspəˈzɪʃən/",
+      "translation": "展览会；暴露",
+      "sentence": "we would have understood the play better if there had been some initial exposition of the background",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-pon-exposure",
       "word": "exposure",
       "display": "Exposure",
-      "phonetic": "",
-      "translation": "\u66b4\u9732",
-      "sentence": "",
+      "phonetic": "/ɪkˈspoʊʒər/",
+      "translation": "暴露",
+      "sentence": "exposure to the weather",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-pon-expound",
       "word": "expound",
       "display": "Expound",
-      "phonetic": "",
-      "translation": "\u8be6\u7ec6\u8bf4\u660e\uff1b\u89e3\u91ca",
-      "sentence": "",
+      "phonetic": "/ɪkˈspaʊnd/",
+      "translation": "详细说明；解释",
+      "sentence": "She elaborated on the main ideas in her dissertation",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-pon-impose",
       "word": "impose",
       "display": "Impose",
-      "phonetic": "",
-      "translation": "\u5f81\u7a0e\uff1b\u52a0\u5f3a",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpoʊz/",
+      "translation": "征税；加强",
+      "sentence": "Social relations impose courtesy",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-pon-imposition",
       "word": "imposition",
       "display": "Imposition",
-      "phonetic": "",
-      "translation": "\u5f81\u7a0e",
-      "sentence": "",
+      "phonetic": "/ˌɪmpəˈzɪʃən/",
+      "translation": "征税",
+      "sentence": "he listened but resented the imposition",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-pon-impostor",
       "word": "impostor",
       "display": "Impostor",
-      "phonetic": "",
-      "translation": "\u5192\u540d\u9876\u66ff\u8005",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɔstər/",
+      "translation": "冒名顶替者",
+      "sentence": "An impostor is a person who makes deceitful pretenses.",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-pon-imposture",
       "word": "imposture",
       "display": "Imposture",
-      "phonetic": "",
-      "translation": "\u6b3a\u8bc8",
-      "sentence": "",
+      "phonetic": "/ɪmpˈɑstɚ/",
+      "translation": "欺诈",
+      "sentence": "An imposture is pretending to be another person.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "p-pon-indispose",
       "word": "indispose",
       "display": "Indispose",
-      "phonetic": "",
-      "translation": "\u4f7f\u8ba8\u538c",
-      "sentence": "",
+      "phonetic": "/ˈɪndɪspˌoʊz/",
+      "translation": "使讨厌",
+      "sentence": "She was indisposed",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "p-pon-oppose",
       "word": "oppose",
       "display": "Oppose",
-      "phonetic": "",
-      "translation": "\u53cd\u5bf9\uff1b\u6218\u4e89",
-      "sentence": "",
+      "phonetic": "/əˈpoʊz/",
+      "translation": "反对；战争",
+      "sentence": "We oppose the ban on abortion",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "p-pon-opposition",
       "word": "opposition",
       "display": "Opposition",
-      "phonetic": "",
-      "translation": "\u53cd\u5bf9",
-      "sentence": "",
+      "phonetic": "/ˌɑpəˈzɪʃən/",
+      "translation": "反对",
+      "sentence": "despite opposition from the newspapers he went ahead",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "p-pon-pause",
       "word": "pause",
       "display": "Pause",
-      "phonetic": "",
-      "translation": "\u6682\u505c",
-      "sentence": "",
+      "phonetic": "/pɔz/",
+      "translation": "暂停",
+      "sentence": "The speaker paused",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "p-pon-pose",
       "word": "pose",
       "display": "Pose",
-      "phonetic": "",
-      "translation": "\u59ff\u52bf",
-      "sentence": "",
+      "phonetic": "/poʊz/",
+      "translation": "姿势",
+      "sentence": "This poses an interesting question",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "p-pon-posit",
       "word": "posit",
       "display": "Posit",
-      "phonetic": "",
-      "translation": "\u5b89\u6392",
-      "sentence": "",
+      "phonetic": "/ˈpɑzət/",
+      "translation": "安排",
+      "sentence": "She posited her hand on his shoulder",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "p-pon-positive",
       "word": "positive",
       "display": "Positive",
-      "phonetic": "",
-      "translation": "\u80af\u5b9a\u7684\uff1b\u79ef\u6781\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɑzətɪv/",
+      "translation": "肯定的；积极的",
+      "sentence": "a positive attitude",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "p-pon-possess",
       "word": "possess",
       "display": "Possess",
-      "phonetic": "",
-      "translation": "\u5360\u6709\uff1b\u62e5\u6709",
-      "sentence": "",
+      "phonetic": "/pəˈzɛs/",
+      "translation": "占有；拥有",
+      "sentence": "he possesses great knowledge about the Middle East",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "p-pon-possession",
       "word": "possession",
       "display": "Possession",
-      "phonetic": "",
-      "translation": "\u6301\u6709\uff1b\u6240\u6709\u6743",
-      "sentence": "",
+      "phonetic": "/pəˈzɛʃən/",
+      "translation": "持有；所有权",
+      "sentence": "they took possession of the ball on their own goal line",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "p-pon-post",
       "word": "post",
       "display": "Post",
-      "phonetic": "",
-      "translation": "\u804c\u4f4d\uff1b\u90ae\u4ef6",
-      "sentence": "",
+      "phonetic": "/poʊst/",
+      "translation": "职位；邮件",
+      "sentence": "a soldier manned the entrance post",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "p-pon-post2",
       "word": "post",
       "display": "Post",
-      "phonetic": "",
-      "translation": "\u8d34\u51fa\uff1b\u90ae\u653f",
-      "sentence": "",
+      "phonetic": "/poʊst/",
+      "translation": "贴出；邮政",
+      "sentence": "a soldier manned the entrance post",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "p-pon-postage",
       "word": "postage",
       "display": "Postage",
-      "phonetic": "",
-      "translation": "\u90ae\u8d39",
-      "sentence": "",
+      "phonetic": "/ˈpoʊstɪʤ/",
+      "translation": "邮费",
+      "sentence": "A postage is the charge for mailing something.",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "p-pon-postage2",
       "word": "postage",
       "display": "Postage",
-      "phonetic": "",
-      "translation": "\u90ae\u8d39",
-      "sentence": "",
+      "phonetic": "/ˈpoʊstɪʤ/",
+      "translation": "邮费",
+      "sentence": "A postage is the charge for mailing something.",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "p-pon-postpone",
       "word": "postpone",
       "display": "Postpone",
-      "phonetic": "",
-      "translation": "\u63a8\u8fdf\uff1b\u5efa\u8bae",
-      "sentence": "",
+      "phonetic": "/poʊstˈpoʊn/",
+      "translation": "推迟；建议",
+      "sentence": "let's postpone the exam",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "p-pon-postpone2",
       "word": "postpone",
       "display": "Postpone",
-      "phonetic": "",
-      "translation": "\u63a8\u8fdf",
-      "sentence": "",
+      "phonetic": "/poʊstˈpoʊn/",
+      "translation": "推迟",
+      "sentence": "let's postpone the exam",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "p-pon-posture",
       "word": "posture",
       "display": "Posture",
-      "phonetic": "",
-      "translation": "\u59ff\u52bf\uff1b\u59ff\u6001",
-      "sentence": "",
+      "phonetic": "/ˈpɑsʧər/",
+      "translation": "姿势；姿态",
+      "sentence": "stood with good posture",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "p-pon-precompose",
       "word": "precompose",
       "display": "Precompose",
-      "phonetic": "",
-      "translation": "\u9884\u5148\u5b89\u6392",
-      "sentence": "",
+      "phonetic": "/prikˈɑmpoʊz/",
+      "translation": "预先安排",
+      "sentence": "Precompose is used here with the sense of \"预先安排\".",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "p-pon-preposition",
       "word": "preposition",
       "display": "Preposition",
-      "phonetic": "",
-      "translation": "\u4ecb\u8bcd",
-      "sentence": "",
+      "phonetic": "/prˌɛpʌzˈɪʃʌn/",
+      "translation": "介词",
+      "sentence": "A preposition is a function word that combines with a noun or pronoun or noun phrase to form a prepositional phrase that can have an adverbial or adjectival relation to some other word.",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "p-pon-propone",
       "word": "propone",
       "display": "Propone",
-      "phonetic": "",
-      "translation": "\u5efa\u8bae\uff1b\u6c42\u5a5a",
-      "sentence": "",
+      "phonetic": "/prʌpˈoʊn/",
+      "translation": "建议；求婚",
+      "sentence": "Propone is used here with the sense of \"建议；求婚\".",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "p-pon-proposal",
       "word": "proposal",
       "display": "Proposal",
-      "phonetic": "",
-      "translation": "\u652f\u6301\u8005\uff1b\u62e5\u62a4\u8005",
-      "sentence": "",
+      "phonetic": "/prəˈpoʊzəl/",
+      "translation": "支持者；拥护者",
+      "sentence": "they listened to her proposal",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "p-pon-propose",
       "word": "propose",
       "display": "Propose",
-      "phonetic": "",
-      "translation": "\u8ba1\u5212\uff1b\u5efa\u8bae",
-      "sentence": "",
+      "phonetic": "/prəˈpoʊz/",
+      "translation": "计划；建议",
+      "sentence": "the senator proposed to abolish the sales tax",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "p-pon-proposition",
       "word": "proposition",
       "display": "Proposition",
-      "phonetic": "",
-      "translation": "\u4e3b\u5f20\uff1b\u5efa\u8bae",
-      "sentence": "",
+      "phonetic": "/ˌprɑpəˈzɪʃən/",
+      "translation": "主张；建议",
+      "sentence": "securing adequate funding is a time-consuming proposition",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "p-pon-purpose",
       "word": "purpose",
       "display": "Purpose",
-      "phonetic": "",
-      "translation": "\u76ee\u7684\uff1b\u51b3\u5fc3",
-      "sentence": "",
+      "phonetic": "/ˈpərpəs/",
+      "translation": "目的；决心",
+      "sentence": "he is a man of purpose",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "p-pon-reposal",
       "word": "reposal",
       "display": "Reposal",
-      "phonetic": "",
-      "translation": "\u4f11\u606f",
-      "sentence": "",
+      "phonetic": "/ripˈoʊzʌl/",
+      "translation": "休息",
+      "sentence": "Reposal is used here with the sense of \"休息\".",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "p-pon-repose",
       "word": "repose",
       "display": "Repose",
-      "phonetic": "",
-      "translation": "\u4f11\u606f\uff1b\u7761\u7720",
-      "sentence": "",
+      "phonetic": "/riˈpoʊz/",
+      "translation": "休息；睡眠",
+      "sentence": "took his repose by the swimming pool",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "p-pon-suppose",
       "word": "suppose",
       "display": "Suppose",
-      "phonetic": "",
-      "translation": "\u5047\u8bbe",
-      "sentence": "",
+      "phonetic": "/səˈpoʊz/",
+      "translation": "假设",
+      "sentence": "Scientists supposed that large dinosaurs lived in swamps",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "p-pon-transpose",
       "word": "transpose",
       "display": "Transpose",
-      "phonetic": "",
-      "translation": "\u8c03\u6362",
-      "sentence": "",
+      "phonetic": "/trænˈspoʊz/",
+      "translation": "调换",
+      "sentence": "Dyslexics often transpose letters in a word",
       "tags": [
         "root-family"
       ],
@@ -575,5 +575,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-pon",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

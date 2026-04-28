@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aug-augment",
   "root": "augment",
-  "meaning": "",
-  "descriptionCn": "\u589e\u5927",
-  "updatedAt": "2026-04-15",
+  "meaning": "augment",
+  "descriptionCn": "增大",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "augment-aug-augment-2",
       "word": "augment",
       "display": "Augment",
-      "phonetic": "",
-      "translation": "\u589e\u5927",
-      "sentence": "",
+      "phonetic": "/ɔgˈmɛnt/",
+      "translation": "增大",
+      "sentence": "The recent speech of the president augmented tensions in the Near East",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-aug>aug-augment",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

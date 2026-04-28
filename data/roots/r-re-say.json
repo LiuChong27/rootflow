@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-re-say",
-  "root": "\u8bf4",
+  "root": "说",
   "meaning": "say",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "说",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-re-say-recall",
       "word": "recall",
       "display": "Recall",
-      "phonetic": "",
-      "translation": "\u56de\u5fc6",
-      "sentence": "",
+      "phonetic": "/ˈriˌkɔl/",
+      "translation": "回忆",
+      "sentence": "the recall of our ambassador",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-re-say-receive",
       "word": "receive",
       "display": "Receive",
-      "phonetic": "",
-      "translation": "\u6536\u5230",
-      "sentence": "",
+      "phonetic": "/rɪˈsiv/",
+      "translation": "收到",
+      "sentence": "receive payment",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-re-say-recent",
       "word": "recent",
       "display": "Recent",
-      "phonetic": "",
-      "translation": "\u6700\u8fd1\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrisənt/",
+      "translation": "最近的",
+      "sentence": "recent graduates",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-re-say-reception",
       "word": "reception",
       "display": "Reception",
-      "phonetic": "",
-      "translation": "\u62db\u5f85\u4f1a",
-      "sentence": "",
+      "phonetic": "/rɪˈsɛpʃən/",
+      "translation": "招待会",
+      "sentence": "she did not expect the cold reception she received from her superiors",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-re-say-reclaim",
       "word": "reclaim",
       "display": "Reclaim",
-      "phonetic": "",
-      "translation": "\u8981\u6c42\u5f52\u8fd8",
-      "sentence": "",
+      "phonetic": "/riˈkleɪm/",
+      "translation": "要求归还",
+      "sentence": "The people reclaimed the marshes",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-re-say-recollect",
       "word": "recollect",
       "display": "Recollect",
-      "phonetic": "",
-      "translation": "\u56de\u5fc6",
-      "sentence": "",
+      "phonetic": "/ˌrɛkəˈlɛkt/",
+      "translation": "回忆",
+      "sentence": "I can't remember saying any such thing",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-re-say-record",
       "word": "record",
       "display": "Record",
-      "phonetic": "",
-      "translation": "\u8bb0\u5f55",
-      "sentence": "",
+      "phonetic": "/ˈrɛkərd/",
+      "translation": "记录",
+      "sentence": "the film provided a valuable record of stage techniques",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-re-say-recorder",
       "word": "recorder",
       "display": "Recorder",
-      "phonetic": "",
-      "translation": "\u8bb0\u5f55",
-      "sentence": "",
+      "phonetic": "/rɪˈkɔrdər/",
+      "translation": "记录",
+      "sentence": "A recorder is equipment for making records.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-re-say-reel",
       "word": "reel",
       "display": "Reel",
-      "phonetic": "",
-      "translation": "\u5377\u7b52",
-      "sentence": "",
+      "phonetic": "/riːl/",
+      "translation": "卷筒",
+      "sentence": "The drunken man staggered into the room",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-re-say-regard",
       "word": "regard",
       "display": "Regard",
-      "phonetic": "",
-      "translation": "\u8003\u8651",
-      "sentence": "",
+      "phonetic": "/rɪˈgɑrd/",
+      "translation": "考虑",
+      "sentence": "give him my kind regards",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-re-say-regarding",
       "word": "regarding",
       "display": "Regarding",
-      "phonetic": "",
-      "translation": "\u5173\u4e8e",
-      "sentence": "",
+      "phonetic": "/rɪˈgɑrdɪŋ/",
+      "translation": "关于",
+      "sentence": "She views this quite differently from me",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-re-say-regardless",
       "word": "regardless",
       "display": "Regardless",
-      "phonetic": "",
-      "translation": "\u4e0d\u7ba1\u4e0d\u987e",
-      "sentence": "",
+      "phonetic": "/rəˈgɑrdləs/",
+      "translation": "不管不顾",
+      "sentence": "crushing the blooms with regardless tread",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-re-say-regret",
       "word": "regret",
       "display": "Regret",
-      "phonetic": "",
-      "translation": "\u540e\u6094",
-      "sentence": "",
+      "phonetic": "/rɪˈgrɛt/",
+      "translation": "后悔",
+      "sentence": "he wrote a note expressing his regret",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-re-say-remark",
       "word": "remark",
       "display": "Remark",
-      "phonetic": "",
-      "translation": "\u8bc4\u8bba",
-      "sentence": "",
+      "phonetic": "/rɪˈmɑrk/",
+      "translation": "评论",
+      "sentence": "it passed without remark",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-re-say-remarkable",
       "word": "remarkable",
       "display": "Remarkable",
-      "phonetic": "",
-      "translation": "\u663e\u8457\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈmɑrkəbəl/",
+      "translation": "显著的",
+      "sentence": "a remarkable sight",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-re-say-repeat",
       "word": "repeat",
       "display": "Repeat",
-      "phonetic": "",
-      "translation": "\u91cd\u590d",
-      "sentence": "",
+      "phonetic": "/rɪˈpit/",
+      "translation": "重复",
+      "sentence": "the events today were a repeat of yesterday's",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "r-re-say-repeatedly",
       "word": "repeatedly",
       "display": "Repeatedly",
-      "phonetic": "",
-      "translation": "\u91cd\u590d\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈpitɪdli/",
+      "translation": "重复的",
+      "sentence": "it must be washed repeatedly",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "r-re-say-repetition",
       "word": "repetition",
       "display": "Repetition",
-      "phonetic": "",
-      "translation": "\u53cd\u590d",
-      "sentence": "",
+      "phonetic": "/ˌrɛpəˈtɪʃən/",
+      "translation": "反复",
+      "sentence": "the events today were a repeat of yesterday's",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "r-re-say-reply",
       "word": "reply",
       "display": "Reply",
-      "phonetic": "",
-      "translation": "\u56de\u7b54",
-      "sentence": "",
+      "phonetic": "/rɪˈplaɪ/",
+      "translation": "回答",
+      "sentence": "he growled his reply",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "r-re-say-report",
       "word": "report",
       "display": "Report",
-      "phonetic": "",
-      "translation": "\u62a5\u544a",
-      "sentence": "",
+      "phonetic": "/rɪˈpɔrt/",
+      "translation": "报告",
+      "sentence": "he heard reports that they were causing trouble",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "r-re-say-reporter",
       "word": "reporter",
       "display": "Reporter",
-      "phonetic": "",
-      "translation": "\u8bb0\u8005",
-      "sentence": "",
+      "phonetic": "/rɪˈpɔrtər/",
+      "translation": "记者",
+      "sentence": "A reporter is a person who investigates and reports or edits news stories.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "r-re-say-reproach",
       "word": "reproach",
       "display": "Reproach",
-      "phonetic": "",
-      "translation": "\u8d23\u5907\uff1b\u6307\u8d23",
-      "sentence": "",
+      "phonetic": "/riˈproʊʧ/",
+      "translation": "责备；指责",
+      "sentence": "words of reproach",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "r-re-say-reputation",
       "word": "reputation",
       "display": "Reputation",
-      "phonetic": "",
-      "translation": "\u58f0\u8a89",
-      "sentence": "",
+      "phonetic": "/ˌrɛpjəˈteɪʃən/",
+      "translation": "声誉",
+      "sentence": "his reputation for promiscuity",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "r-re-say-request",
       "word": "request",
       "display": "Request",
-      "phonetic": "",
-      "translation": "\u8bf7\u6c42\uff1b\u8981\u6c42",
-      "sentence": "",
+      "phonetic": "/rɪkˈwɛst/",
+      "translation": "请求；要求",
+      "sentence": "She requested an extra bed in her room",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "r-re-say-require",
       "word": "require",
       "display": "Require",
-      "phonetic": "",
-      "translation": "\u9700\u8981",
-      "sentence": "",
+      "phonetic": "/ˌrikˈwaɪər/",
+      "translation": "需要",
+      "sentence": "success usually requires hard work",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "r-re-say-requirement",
       "word": "requirement",
       "display": "Requirement",
-      "phonetic": "",
-      "translation": "\u9700\u6c42",
-      "sentence": "",
+      "phonetic": "/rɪkˈwaɪrmənt/",
+      "translation": "需求",
+      "sentence": "the requirements of his work affected his health",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "r-re-say-research",
       "word": "research",
       "display": "Research",
-      "phonetic": "",
-      "translation": "\u8c03\u67e5",
-      "sentence": "",
+      "phonetic": "/ˈrisərʧ/",
+      "translation": "调查",
+      "sentence": "their pottery deserves more research than it has received",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "r-re-say-respect",
       "word": "respect",
       "display": "Respect",
-      "phonetic": "",
-      "translation": "\u5c0a\u656c\uff1b\u5c0a\u91cd",
-      "sentence": "",
+      "phonetic": "/rɪˈspɛkt/",
+      "translation": "尊敬；尊重",
+      "sentence": "it differs in that respect",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "r-re-say-respective",
       "word": "respective",
       "display": "Respective",
-      "phonetic": "",
-      "translation": "\u5404\u81ea\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈspɛktɪv/",
+      "translation": "各自的",
+      "sentence": "the respective club members",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "r-re-say-respond",
       "word": "respond",
       "display": "Respond",
-      "phonetic": "",
-      "translation": "\u56de\u7b54",
-      "sentence": "",
+      "phonetic": "/rɪˈspɑnd/",
+      "translation": "回答",
+      "sentence": "The cancer responded to the aggressive therapy",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "r-re-say-response",
       "word": "response",
       "display": "Response",
-      "phonetic": "",
-      "translation": "\u56de\u7b54",
-      "sentence": "",
+      "phonetic": "/rɪˈspɑns/",
+      "translation": "回答",
+      "sentence": "this situation developed in response to events in Africa",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "r-re-say-responsibility",
       "word": "responsibility",
       "display": "Responsibility",
-      "phonetic": "",
-      "translation": "\u8d23\u4efb",
-      "sentence": "",
+      "phonetic": "/riˌspɑnsəˈbɪləti/",
+      "translation": "责任",
+      "sentence": "every right implies a responsibility; every opportunity, an obligation; every possession, a duty",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "r-re-say-responsible",
       "word": "responsible",
       "display": "Responsible",
-      "phonetic": "",
-      "translation": "\u53ef\u9760\u7684",
-      "sentence": "",
+      "phonetic": "/riˈspɑnsəbəl/",
+      "translation": "可靠的",
+      "sentence": "a responsible adult",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "r-re-say-reveal",
       "word": "reveal",
       "display": "Reveal",
-      "phonetic": "",
-      "translation": "\u5c55\u793a\uff1b\u63ed\u9732",
-      "sentence": "",
+      "phonetic": "/rɪˈvil/",
+      "translation": "展示；揭露",
+      "sentence": "The actress won't reveal how old she is",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "r-re-say-revelation",
       "word": "revelation",
       "display": "Revelation",
-      "phonetic": "",
-      "translation": "\u63ed\u793a",
-      "sentence": "",
+      "phonetic": "/ˌrɛvəˈleɪʃən/",
+      "translation": "揭示",
+      "sentence": "A revelation is the speech act of making something evident.",
       "tags": [
         "root-family"
       ],
@@ -431,5 +431,6 @@
   "rootLevel": 3,
   "rootPath": "r>r-re>r-re-say",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

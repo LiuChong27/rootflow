@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "a-other",
-  "root": "\u5176\u4ed6",
-  "meaning": "",
-  "descriptionCn": "\u4e2d\u5fc3\u8282\u70b9\uff1a\u5176\u4ed6",
-  "updatedAt": "2026-04-15",
+  "root": "其他",
+  "meaning": "other",
+  "descriptionCn": "中心节点：其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ac",
       "word": "ac",
       "display": "Ac",
-      "phonetic": "",
-      "translation": "\u5c16\u9510\u7684\uff1b\u950b\u5229\uff1b\u9178\u7684",
-      "sentence": "",
+      "phonetic": "/ˈeɪˈsi/",
+      "translation": "尖锐的；锋利；酸的",
+      "sentence": "In the US most household current is AC at 60 cycles per second",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "alt",
       "word": "alt",
       "display": "Alt",
-      "phonetic": "",
-      "translation": "\u9ad8",
-      "sentence": "",
+      "phonetic": "/ɑlt/",
+      "translation": "高",
+      "sentence": "An alt is angular distance above the horizon (especially of a celestial object).",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "am-amor",
       "word": "am=amor",
       "display": "Am=amor",
-      "phonetic": "",
-      "translation": "\u7231",
-      "sentence": "",
+      "phonetic": "/æm ˈæmər/",
+      "translation": "爱",
+      "sentence": "This branch centers on the idea of \"爱\" in words like ac, alt, and ambul.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "ambul",
       "word": "ambul",
       "display": "Ambul",
-      "phonetic": "",
-      "translation": "\u8d70",
-      "sentence": "",
+      "phonetic": "/ˈæmbʌl/",
+      "translation": "走",
+      "sentence": "Ambul is used here with the sense of \"走\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "anim",
       "word": "anim",
       "display": "Anim",
-      "phonetic": "",
-      "translation": "\u5fc3\u7075\uff1b\u751f\u547d",
-      "sentence": "",
+      "phonetic": "/ˈænɪm/",
+      "translation": "心灵；生命",
+      "sentence": "Anim is used here with the sense of \"心灵；生命\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "antrop",
       "word": "antrop",
       "display": "Antrop",
-      "phonetic": "",
-      "translation": "\u4eba\u7c7b",
-      "sentence": "",
+      "phonetic": "/ˈæntrʌp/",
+      "translation": "人类",
+      "sentence": "Antrop is used here with the sense of \"人类\".",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "aqu",
       "word": "aqu",
       "display": "Aqu",
-      "phonetic": "",
-      "translation": "\u6c34",
-      "sentence": "",
+      "phonetic": "/ʌkˈu/",
+      "translation": "水",
+      "sentence": "Aqu is used here with the sense of \"水\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "arch",
       "word": "arch",
       "display": "Arch",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb\uff1b\u9996\u9886",
-      "sentence": "",
+      "phonetic": "/ɑrʧ/",
+      "translation": "统治；首领",
+      "sentence": "they built a triumphal arch to memorialize their victory",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "a>a-other",
   "type": "section",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

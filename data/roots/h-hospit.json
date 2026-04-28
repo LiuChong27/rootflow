@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-hospit",
-  "root": "hospit/host=guest\u5ba2\u4eba",
+  "root": "hospit/host=guest客人",
   "meaning": "hospit",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "客人",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-hospit-hospitality",
       "word": "hospitality",
       "display": "Hospitality",
-      "phonetic": "",
-      "translation": "\u539a\u5f85",
-      "sentence": "",
+      "phonetic": "/ˌhɑspəˈtæləti/",
+      "translation": "厚待",
+      "sentence": "A hospitality is kindness in welcoming guests or strangers.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-hospit-host",
       "word": "host",
       "display": "Host",
-      "phonetic": "",
-      "translation": "\u4e3b\u4eba",
-      "sentence": "",
+      "phonetic": "/hoʊst/",
+      "translation": "主人",
+      "sentence": "Atlanta was chosen to be host for the Olympic Games",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-hospit-hostage",
       "word": "hostage",
       "display": "Hostage",
-      "phonetic": "",
-      "translation": "\u4eba\u8d28",
-      "sentence": "",
+      "phonetic": "/ˈhɑstɪʤ/",
+      "translation": "人质",
+      "sentence": "A hostage is a prisoner who is held by one party to insure that another party will meet specified terms.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-hospit-hostess",
       "word": "hostess",
       "display": "Hostess",
-      "phonetic": "",
-      "translation": "\u5973\u4e3b\u4eba\uff1b\u5973\u8001\u677f",
-      "sentence": "",
+      "phonetic": "/ˈhoʊstəs/",
+      "translation": "女主人；女老板",
+      "sentence": "Hostess refers to a woman host.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-hospit-hostile",
       "word": "hostile",
       "display": "Hostile",
-      "phonetic": "",
-      "translation": "\u654c\u5bf9\u7684\uff1b\u654c\u610f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhɑstəl/",
+      "translation": "敌对的；敌意的",
+      "sentence": "the platoon ran into a pack of hostiles",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "h>h-hospit",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-gen",
-  "root": "gen\u51fa\u751f",
+  "root": "gen出生",
   "meaning": "gen",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "出生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-gen-abiogenesis",
       "word": "abiogenesis",
       "display": "Abiogenesis",
-      "phonetic": "",
-      "translation": "\u65e0\u751f\u6e90\u8bf4",
-      "sentence": "",
+      "phonetic": "/ˌæbiʌgˈoʊnizɪnz/",
+      "translation": "无生源说",
+      "sentence": "Abiogenesis refers to a hypothetical organic phenomenon by which living organisms are created from nonliving matter.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-gen-degenerate",
       "word": "degenerate",
       "display": "Degenerate",
-      "phonetic": "",
-      "translation": "\u9000\u6b65\u7684\uff1b\u5815\u843d\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈʤɛnərˌeɪt/",
+      "translation": "退步的；堕落的",
+      "sentence": "Conditions in the slums degenerated",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-gen-ectogenesis",
       "word": "ectogenesis",
       "display": "Ectogenesis",
-      "phonetic": "",
-      "translation": "\u4f53\u5916\u57f9\u517b",
-      "sentence": "",
+      "phonetic": "/ɪktˈɑgnʌsˌinz/",
+      "translation": "体外培养",
+      "sentence": "Ectogenesis is used here with the sense of \"体外培养\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-gen-endogenesis",
       "word": "endogenesis",
       "display": "Endogenesis",
-      "phonetic": "",
-      "translation": "\u5185\u6e90",
-      "sentence": "",
+      "phonetic": "/ˌɛndoʊdʒˈɛnʌsʌs/",
+      "translation": "内源",
+      "sentence": "Endogenesis is used here with the sense of \"内源\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-gen-eugenics",
       "word": "eugenics",
       "display": "Eugenics",
-      "phonetic": "",
-      "translation": "\u4f18\u751f\u5b66",
-      "sentence": "",
+      "phonetic": "/juˈʤɛnɪks/",
+      "translation": "优生学",
+      "sentence": "Eugenics refers to the study of methods of improving genetic qualities by selective breeding (especially as applied to human mating).",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "g-gen-genesis-creation",
       "word": "genesis",
       "display": "Genesis",
-      "phonetic": "",
-      "translation": "\u521b\u59cb",
-      "sentence": "",
+      "phonetic": "/ˈʤɛnəsəs/",
+      "translation": "创始",
+      "sentence": "Genesis refers to a coming into being.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "g-gen-genial",
       "word": "genial",
       "display": "Genial",
-      "phonetic": "",
-      "translation": "\u6109\u5feb\u7684\uff1b\u548c\u853c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈʤinjəl/",
+      "translation": "愉快的；和蔼的",
+      "sentence": "a genial host",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "g-gen-genre",
       "word": "genre",
       "display": "Genre",
-      "phonetic": "",
-      "translation": "\u7c7b\u578b\uff1b\u6d41\u6d3e",
-      "sentence": "",
+      "phonetic": "/ˈʒɑnrə/",
+      "translation": "类型；流派",
+      "sentence": "A genre is a kind of literary or artistic work.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "g-gen-genteel",
       "word": "genteel",
       "display": "Genteel",
-      "phonetic": "",
-      "translation": "\u6709\u793c\u8c8c\u7684",
-      "sentence": "",
+      "phonetic": "/ʤɛnˈtil/",
+      "translation": "有礼貌的",
+      "sentence": "a genteel old lady",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "g-gen-gentle",
       "word": "gentle",
       "display": "Gentle",
-      "phonetic": "",
-      "translation": "\u6e29\u548c\u7684\uff1b\u548c\u5584\u7684",
-      "sentence": "",
+      "phonetic": "/ˈʤɛnəl/",
+      "translation": "温和的；和善的",
+      "sentence": "a gentle reprimand",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "g-gen-gentleman",
       "word": "gentleman",
       "display": "Gentleman",
-      "phonetic": "",
-      "translation": "\u6587\u96c5\u7684",
-      "sentence": "",
+      "phonetic": "/ˈʤɛnəlmən/",
+      "translation": "文雅的",
+      "sentence": "Jeeves was Bertie Wooster's man",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "g-gen-genus",
       "word": "genus",
       "display": "Genus",
-      "phonetic": "",
-      "translation": "\u79cd\u7c7b",
-      "sentence": "",
+      "phonetic": "/ˈʤinəs/",
+      "translation": "种类",
+      "sentence": "ignore the genus communism",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "g-gen-homogeneous",
       "word": "homogeneous",
       "display": "Homogeneous",
-      "phonetic": "",
-      "translation": "\u540c\u5b97\u7684\uff1b\u5747\u8d28\u7684",
-      "sentence": "",
+      "phonetic": "/ˌhoʊməˈʤiniəs/",
+      "translation": "同宗的；均质的",
+      "sentence": "a close-knit homogeneous group",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "g-gen-ingenious",
       "word": "ingenious",
       "display": "Ingenious",
-      "phonetic": "",
-      "translation": "\u7075\u654f\u7684\uff1b\u8db3\u667a\u591a\u8c0b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʤinjəs/",
+      "translation": "灵敏的；足智多谋的",
+      "sentence": "an ingenious solution to the problem",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "g-gen-ingenuous",
       "word": "ingenuous",
       "display": "Ingenuous",
-      "phonetic": "",
-      "translation": "\u5766\u767d\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʤɛnjuəs/",
+      "translation": "坦白的",
+      "sentence": "an ingenuous admission of responsibility",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "g-gen-ovogenesis",
       "word": "ovogenesis",
       "display": "Ovogenesis",
-      "phonetic": "",
-      "translation": "\u5375\u5b50\u53d1\u751f",
-      "sentence": "",
+      "phonetic": "/ˌoʊvoʊdʒˈɛnsʌniz/",
+      "translation": "卵子发生",
+      "sentence": "Ovogenesis is used here with the sense of \"卵子发生\".",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "g-gen-oxygen",
       "word": "oxygen",
       "display": "Oxygen",
-      "phonetic": "",
-      "translation": "\u6c27\u6c14",
-      "sentence": "",
+      "phonetic": "/ˈɑksɪʤən/",
+      "translation": "氧气",
+      "sentence": "An oxygen is a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "g-gen-pregnant",
       "word": "pregnant",
       "display": "Pregnant",
-      "phonetic": "",
-      "translation": "\u6000\u5b55\u7684\uff1b\u4e30\u5bcc\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɛgnənt/",
+      "translation": "怀孕的；丰富的",
+      "sentence": "a silence pregnant with suspense",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "g-gen-progenitor",
       "word": "progenitor",
       "display": "Progenitor",
-      "phonetic": "",
-      "translation": "\u7956\u5148\uff1b\u9f3b\u7956",
-      "sentence": "",
+      "phonetic": "/proʊˈʤɛnɪtər/",
+      "translation": "祖先；鼻祖",
+      "sentence": "A progenitor is an ancestor in the direct line.",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "g-gen-progeny",
       "word": "progeny",
       "display": "Progeny",
-      "phonetic": "",
-      "translation": "\u5b50\u5b59\uff1b\u6210\u679c",
-      "sentence": "",
+      "phonetic": "/ˈprɑʤəni/",
+      "translation": "子孙；成果",
+      "sentence": "she was the mother of many offspring",
       "tags": [
         "root-family"
       ],
@@ -251,5 +251,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-gen",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

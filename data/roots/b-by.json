@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-by",
-  "root": "by\u5728\u65c1\u8fb9",
+  "root": "by在旁边",
   "meaning": "beside",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "在旁边",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-by-byname",
       "word": "byname",
       "display": "Byname",
-      "phonetic": "",
-      "translation": "\u7ef0\u53f7",
-      "sentence": "",
+      "phonetic": "/bˈaɪnʌm/",
+      "translation": "绰号",
+      "sentence": "Joe's mother would not use his nickname and always called him Joseph",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-by-bypass",
       "word": "bypass",
       "display": "Bypass",
-      "phonetic": "",
-      "translation": "\u65c1\u8def",
-      "sentence": "",
+      "phonetic": "/ˈbaɪˌpæs/",
+      "translation": "旁路",
+      "sentence": "You cannot bypass these rules!",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-by-bypast",
       "word": "bypast",
       "display": "Bypast",
-      "phonetic": "",
-      "translation": "\u8fc7\u53bb\u7684",
-      "sentence": "",
+      "phonetic": "/bˈaɪpˌæst/",
+      "translation": "过去的",
+      "sentence": "You cannot bypass these rules!",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-by-bypath",
       "word": "bypath",
       "display": "Bypath",
-      "phonetic": "",
-      "translation": "\u5c0f\u8def",
-      "sentence": "",
+      "phonetic": "/bˈaɪpˌæθ/",
+      "translation": "小路",
+      "sentence": "A bypath is a side road little traveled (as in the countryside).",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-by-byroad",
       "word": "byroad",
       "display": "Byroad",
-      "phonetic": "",
-      "translation": "\u4fa7\u9053",
-      "sentence": "",
+      "phonetic": "/bˈaɪrˌoʊd/",
+      "translation": "侧道",
+      "sentence": "A byroad is a side road little traveled (as in the countryside).",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-by-byword",
       "word": "byword",
       "display": "Byword",
-      "phonetic": "",
-      "translation": "\u683c\u8a00\uff1b\u8c1a\u8bed",
-      "sentence": "",
+      "phonetic": "/ˈbaɪˌwərd/",
+      "translation": "格言；谚语",
+      "sentence": "A byword is a condensed but memorable saying embodying some important fact of experience that is taken as true by many people.",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-by",
   "type": "prefix",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

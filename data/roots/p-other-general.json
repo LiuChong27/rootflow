@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-other-general",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-other-general-pad",
       "word": "pad",
       "display": "Pad",
-      "phonetic": "",
-      "translation": "\u57ab",
-      "sentence": "",
+      "phonetic": "/pæd/",
+      "translation": "垫",
+      "sentence": "pad a bra",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-other-general-palm",
       "word": "palm",
       "display": "Palm",
-      "phonetic": "",
-      "translation": "\u624b\u638c",
-      "sentence": "",
+      "phonetic": "/pɑm/",
+      "translation": "手掌",
+      "sentence": "Don't handle the merchandise",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-other-general-pamphlet",
       "word": "pamphlet",
       "display": "Pamphlet",
-      "phonetic": "",
-      "translation": "\u5c0f\u518c\u5b50",
-      "sentence": "",
+      "phonetic": "/ˈpæmflət/",
+      "translation": "小册子",
+      "sentence": "A pamphlet is a small book usually having a paper cover.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-other-general-panel",
       "word": "panel",
       "display": "Panel",
-      "phonetic": "",
-      "translation": "\u9762\u677f\uff1b\u63a7\u5236\u677f",
-      "sentence": "",
+      "phonetic": "/ˈpænəl/",
+      "translation": "面板；控制板",
+      "sentence": "he checked the instrument panel",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-other-general-phenomenon",
       "word": "phenomenon",
       "display": "Phenomenon",
-      "phonetic": "",
-      "translation": "\u73b0\u8c61",
-      "sentence": "",
+      "phonetic": "/fəˈnɑməˌnɑn/",
+      "translation": "现象",
+      "sentence": "A phenomenon is any state or process known through the senses rather than by intuition or reasoning.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-other-general-pin",
       "word": "pin",
       "display": "Pin",
-      "phonetic": "",
-      "translation": "\u5927\u5934\u9489\uff1b\u5fbd\u7ae0",
-      "sentence": "",
+      "phonetic": "/pɪn/",
+      "translation": "大头钉；徽章",
+      "sentence": "The child was pinned under the fallen tree",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-other-general-pinch",
       "word": "pinch",
       "display": "Pinch",
-      "phonetic": "",
-      "translation": "\u634f\uff1b\u538b\u529b",
-      "sentence": "",
+      "phonetic": "/pɪnʧ/",
+      "translation": "捏；压力",
+      "sentence": "the pinch of the recession",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-other-general-pistol",
       "word": "pistol",
       "display": "Pistol",
-      "phonetic": "",
-      "translation": "\u624b\u67aa",
-      "sentence": "",
+      "phonetic": "/ˈpɪstəl/",
+      "translation": "手枪",
+      "sentence": "A pistol is a firearm that is held and fired with one hand.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-other-general-piston",
       "word": "piston",
       "display": "Piston",
-      "phonetic": "",
-      "translation": "\u6d3b\u585e",
-      "sentence": "",
+      "phonetic": "/ˈpɪstən/",
+      "translation": "活塞",
+      "sentence": "A piston is United States neoclassical composer (1894-1976).",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-other-general-plight",
       "word": "plight",
       "display": "Plight",
-      "phonetic": "",
-      "translation": "\u60c5\u51b5\uff1b\u72b6\u6001\uff1b\u4fdd\u8bc1",
-      "sentence": "",
+      "phonetic": "/plaɪt/",
+      "translation": "情况；状态；保证",
+      "sentence": "the woeful plight of homeless people",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-other-general-pluge",
       "word": "pluge",
       "display": "Pluge",
-      "phonetic": "",
-      "translation": "\u585e\u5b50\uff1b\u5835\u585e",
-      "sentence": "",
+      "phonetic": "/plˈudʒ/",
+      "translation": "塞子；堵塞",
+      "sentence": "Pluge is used here with the sense of \"塞子；堵塞\".",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-other-general-plural",
       "word": "plural",
       "display": "Plural",
-      "phonetic": "",
-      "translation": "\u590d\u6570\u7684",
-      "sentence": "",
+      "phonetic": "/ˈplʊrəl/",
+      "translation": "复数的",
+      "sentence": "A plural is the form of a word that is used to denote more than one.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-other-general-portable2",
       "word": "portable",
       "display": "Portable",
-      "phonetic": "",
-      "translation": "\u4fbf\u6377\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɔrtəbəl/",
+      "translation": "便捷的",
+      "sentence": "a portable television set",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-other-general-portrait",
       "word": "portrait",
       "display": "Portrait",
-      "phonetic": "",
-      "translation": "\u8096\u50cf\uff1b\u753b\u50cf",
-      "sentence": "",
+      "phonetic": "/ˈpɔrtrət/",
+      "translation": "肖像；画像",
+      "sentence": "the photographer made excellent portraits",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-other-general-portray",
       "word": "portray",
       "display": "Portray",
-      "phonetic": "",
-      "translation": "\u63cf\u5199\uff1b\u63cf\u8ff0",
-      "sentence": "",
+      "phonetic": "/pɔrˈtreɪ/",
+      "translation": "描写；描述",
+      "sentence": "The book portrays the actor as a selfish person",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-other-general-practical",
       "word": "practical",
       "display": "Practical",
-      "phonetic": "",
-      "translation": "\u5b9e\u9645\u7684\uff1b\u6709\u7528\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpræktɪkəl/",
+      "translation": "实际的；有用的",
+      "sentence": "he is a very practical person",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-other-general-practically",
       "word": "practically",
       "display": "Practically",
-      "phonetic": "",
-      "translation": "\u51e0\u4e4e\uff1b\u5b9e\u9645\u4e0a",
-      "sentence": "",
+      "phonetic": "/ˈpræktɪkəli/",
+      "translation": "几乎；实际上",
+      "sentence": "practically the first thing I saw when I got off the train",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-other-general-practice",
       "word": "practice",
       "display": "Practice",
-      "phonetic": "",
-      "translation": "\u7ec3\u4e60\uff1b\u4e60\u60ef\uff1b\u4e1a\u52a1",
-      "sentence": "",
+      "phonetic": "/ˈpræktɪs/",
+      "translation": "练习；习惯；业务",
+      "sentence": "it is their practice to give annual raises",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-other-general-practise",
       "word": "practise",
       "display": "Practise",
-      "phonetic": "",
-      "translation": "\u8bad\u7ec3",
-      "sentence": "",
+      "phonetic": "/ˈpræktɪs/",
+      "translation": "训练",
+      "sentence": "practice law",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-other-general-practitioner",
       "word": "practitioner",
       "display": "Practitioner",
-      "phonetic": "",
-      "translation": "\u5b9e\u8df5\u8005",
-      "sentence": "",
+      "phonetic": "/prækˈtɪʃənər/",
+      "translation": "实践者",
+      "sentence": "A practitioner is someone who practices a learned profession.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "p-other-general-pub",
       "word": "pub",
       "display": "Pub",
-      "phonetic": "",
-      "translation": "\u5c0f\u65c5\u9986",
-      "sentence": "",
+      "phonetic": "/pəb/",
+      "translation": "小旅馆",
+      "sentence": "A pub is tavern consisting of a building with a bar and public rooms; often provides light meals.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "p-other-general-public",
       "word": "public",
       "display": "Public",
-      "phonetic": "",
-      "translation": "\u516c\u5f00\u7684\uff1b\u6c11\u4f17",
-      "sentence": "",
+      "phonetic": "/ˈpəblɪk/",
+      "translation": "公开的；民众",
+      "sentence": "he is a hero in the eyes of the public",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "p-other-general-publication",
       "word": "publication",
       "display": "Publication",
-      "phonetic": "",
-      "translation": "\u51fa\u7248\u7269",
-      "sentence": "",
+      "phonetic": "/ˌpəblɪˈkeɪʃən/",
+      "translation": "出版物",
+      "sentence": "A publication is a copy of a printed work offered for distribution.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "p-other-general-publicity",
       "word": "publicity",
       "display": "Publicity",
-      "phonetic": "",
-      "translation": "\u516c\u5f00\uff1b\u5ba3\u4f20",
-      "sentence": "",
+      "phonetic": "/pəˈblɪsɪti/",
+      "translation": "公开；宣传",
+      "sentence": "the publicity of the court room",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "p-other-general-publish",
       "word": "publish",
       "display": "Publish",
-      "phonetic": "",
-      "translation": "\u51fa\u7248",
-      "sentence": "",
+      "phonetic": "/ˈpəblɪʃ/",
+      "translation": "出版",
+      "sentence": "The newspaper published the news of the royal couple's divorce",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "p-other-general-puff",
       "word": "puff",
       "display": "Puff",
-      "phonetic": "",
-      "translation": "\u4e00\u9635",
-      "sentence": "",
+      "phonetic": "/pəf/",
+      "translation": "一阵",
+      "sentence": "he took a puff on his pipe",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "p-other-general-pure",
       "word": "pure",
       "display": "Pure",
-      "phonetic": "",
-      "translation": "\u7eaf\u6d01\u7684",
-      "sentence": "",
+      "phonetic": "/pjʊr/",
+      "translation": "纯洁的",
+      "sentence": "pure air and water",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "p-other-general-purify",
       "word": "purify",
       "display": "Purify",
-      "phonetic": "",
-      "translation": "\u63d0\u7eaf",
-      "sentence": "",
+      "phonetic": "/ˈpjʊrəˌfaɪ/",
+      "translation": "提纯",
+      "sentence": "purify the water",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "p-other-general-purple",
       "word": "purple",
       "display": "Purple",
-      "phonetic": "",
-      "translation": "\u7d2b\u8272",
-      "sentence": "",
+      "phonetic": "/ˈpərpəl/",
+      "translation": "紫色",
+      "sentence": "he was born to the purple",
       "tags": [
         "root-family"
       ],
@@ -359,5 +359,6 @@
   "rootLevel": 3,
   "rootPath": "p>p-other>p-other-general",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

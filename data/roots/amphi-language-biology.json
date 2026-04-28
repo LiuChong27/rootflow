@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "amphi-language-biology",
-  "root": "\u8bed\u8a00/\u751f\u7269",
-  "meaning": "",
-  "descriptionCn": "\u8bed\u8a00/\u751f\u7269\u7c7b\u6d3e\u751f",
-  "updatedAt": "2026-04-15",
+  "root": "语言/生物",
+  "meaning": "language/biology forms",
+  "descriptionCn": "语言/生物类派生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambilingual-amphi-language-biology-2",
       "word": "ambilingual",
       "display": "Ambilingual",
-      "phonetic": "",
-      "translation": "\u901a\u4e24\u56fd\u8bed\u8a00\u7684\u4eba",
-      "sentence": "",
+      "phonetic": "/ˌæmbɪljˈugʌn/",
+      "translation": "通两国语言的人",
+      "sentence": "Ambilingual is used here with the sense of \"通两国语言的人\".",
       "tags": [
         "root-family",
         "biology"
@@ -23,9 +23,9 @@
       "id": "amphibian-amphi-language-biology-2",
       "word": "amphibian",
       "display": "Amphibian",
-      "phonetic": "",
-      "translation": "\u4e24\u6816\u7c7b",
-      "sentence": "",
+      "phonetic": "/æmˈfɪbiən/",
+      "translation": "两栖类",
+      "sentence": "An amphibian is a flat-bottomed motor vehicle that can travel on land or water.",
       "tags": [
         "root-family",
         "biology"
@@ -36,9 +36,9 @@
       "id": "amphicar-amphi-language-biology-2",
       "word": "amphicar",
       "display": "Amphicar",
-      "phonetic": "",
-      "translation": "\u6c34\u9646\u4e24\u7528\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈæmfɪkˌɑr/",
+      "translation": "水陆两用车",
+      "sentence": "Amphicar is used here with the sense of \"水陆两用车\".",
       "tags": [
         "root-family",
         "biology"
@@ -49,9 +49,9 @@
       "id": "amphigamy-amphi-language-biology-2",
       "word": "amphigamy",
       "display": "Amphigamy",
-      "phonetic": "",
-      "translation": "\u53d7\u7cbe\u4f5c\u7528",
-      "sentence": "",
+      "phonetic": "/æmfˈɪgʌmi/",
+      "translation": "受精作用",
+      "sentence": "Amphigamy is used here with the sense of \"受精作用\".",
       "tags": [
         "root-family",
         "biology"
@@ -63,5 +63,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology",
   "type": "category",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

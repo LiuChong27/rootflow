@@ -1,0 +1,9 @@
+{
+  "name": "listDownloadOrders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow recent purchase order listing",
+  "dependencies": {
+    "rootflow-shared": "file:../common/rootflow-shared"
+  }
+}

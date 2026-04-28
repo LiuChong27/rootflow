@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-two",
   "root": "two",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "two",
+  "descriptionCn": "two",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-two-twice",
       "word": "twice",
       "display": "Twice",
-      "phonetic": "",
-      "translation": "\u4e24\u6b21",
-      "sentence": "",
+      "phonetic": "/twaɪs/",
+      "translation": "两次",
+      "sentence": "I called her twice",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-two-twin",
       "word": "twin",
       "display": "Twin",
-      "phonetic": "",
-      "translation": "\u53cc\u7684",
-      "sentence": "",
+      "phonetic": "/twɪn/",
+      "translation": "双的",
+      "sentence": "The polished surface twinned his face and chest in reverse",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-two-twinkle",
       "word": "twinkle",
       "display": "Twinkle",
-      "phonetic": "",
-      "translation": "\u95ea\u70c1\u7684",
-      "sentence": "",
+      "phonetic": "/tˈwɪŋkəl/",
+      "translation": "闪烁的",
+      "sentence": "there's a perpetual twinkle in his eyes",
       "tags": [
         "root-family"
       ],
@@ -44,8 +44,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-two",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

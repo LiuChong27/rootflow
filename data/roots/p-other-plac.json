@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-other-plac",
-  "root": "plac=pleas \u53d6\u60a6",
+  "root": "plac=pleas 取悦",
   "meaning": "please",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "取悦",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-other-plac-complacent",
       "word": "complacent",
       "display": "Complacent",
-      "phonetic": "",
-      "translation": "\u81ea\u6ee1\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpleɪsənt/",
+      "translation": "自满的",
+      "sentence": "he had become complacent after years of success",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-other-plac-complaisance",
       "word": "complaisance",
       "display": "Complaisance",
-      "phonetic": "",
-      "translation": "\u6bb7\u52e4",
-      "sentence": "",
+      "phonetic": "/kʌmplˈeɪsʌnts/",
+      "translation": "殷勤",
+      "sentence": "A complaisance is a disposition or tendency to yield to the will of others.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-other-plac-complaisant",
       "word": "complaisant",
       "display": "Complaisant",
-      "phonetic": "",
-      "translation": "\u6bb7\u52e4\u7684\uff1b\u987a\u4ece\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpleɪsənt/",
+      "translation": "殷勤的；顺从的",
+      "sentence": "to close one's eyes like a complaisant husband whose wife has taken a lover",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-other-plac-displease",
       "word": "displease",
       "display": "Displease",
-      "phonetic": "",
-      "translation": "\u4f7f\u4e0d\u9ad8\u5174",
-      "sentence": "",
+      "phonetic": "/dɪˈspliz/",
+      "translation": "使不高兴",
+      "sentence": "To displease is to give displeasure to.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-other-plac-implacable",
       "word": "implacable",
       "display": "Implacable",
-      "phonetic": "",
-      "translation": "\u96be\u5e73\u606f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈplækəbəl/",
+      "translation": "难平息的",
+      "sentence": "an implacable enemy",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-other-plac-placate",
       "word": "placate",
       "display": "Placate",
-      "phonetic": "",
-      "translation": "\u5b89\u629a",
-      "sentence": "",
+      "phonetic": "/ˈpleɪkeɪt/",
+      "translation": "安抚",
+      "sentence": "She managed to mollify the angry customer",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-other-plac-placatory",
       "word": "placatory",
       "display": "Placatory",
-      "phonetic": "",
-      "translation": "\u5b89\u629a\u7684",
-      "sentence": "",
+      "phonetic": "/plˈækʌtˌɔri/",
+      "translation": "安抚的",
+      "sentence": "an astonishingly placatory speech",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-other-plac-pleasant",
       "word": "pleasant",
       "display": "Pleasant",
-      "phonetic": "",
-      "translation": "\u4ee4\u4eba\u6109\u5feb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈplɛzənt/",
+      "translation": "令人愉快的",
+      "sentence": "we had a pleasant evening together",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-other-plac-pleasantry",
       "word": "pleasantry",
       "display": "Pleasantry",
-      "phonetic": "",
-      "translation": "\u5e7d\u9ed8",
-      "sentence": "",
+      "phonetic": "/ˈplɛzəntri/",
+      "translation": "幽默",
+      "sentence": "they exchange pleasantries",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-other-plac-please",
       "word": "please",
       "display": "Please",
-      "phonetic": "",
-      "translation": "\u559c\u6b22",
-      "sentence": "",
+      "phonetic": "/pliːz/",
+      "translation": "喜欢",
+      "sentence": "These colors please the senses",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-other-plac-pleasing",
       "word": "pleasing",
       "display": "Pleasing",
-      "phonetic": "",
-      "translation": "\u6109\u5feb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈplizɪŋ/",
+      "translation": "愉快的",
+      "sentence": "a pleasing sensation",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-other-plac-pleasure",
       "word": "pleasure",
       "display": "Pleasure",
-      "phonetic": "",
-      "translation": "\u6109\u5feb\uff1b\u4e50\u8da3",
-      "sentence": "",
+      "phonetic": "/ˈplɛʒər/",
+      "translation": "愉快；乐趣",
+      "sentence": "he was tingling with pleasure",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-other-plac-pledge",
       "word": "pledge",
       "display": "Pledge",
-      "phonetic": "",
-      "translation": "\u8a93\u7ea6\uff1b\u53d1\u8a93",
-      "sentence": "",
+      "phonetic": "/plɛʤ/",
+      "translation": "誓约；发誓",
+      "sentence": "his saxophone was in pledge",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-other-plac-unpleasant",
       "word": "unpleasant",
       "display": "Unpleasant",
-      "phonetic": "",
-      "translation": "\u4f7f\u4e0d\u5feb\u4e50",
-      "sentence": "",
+      "phonetic": "/ənˈplɛzənt/",
+      "translation": "使不快乐",
+      "sentence": "an unpleasant personality",
       "tags": [
         "root-family"
       ],
@@ -179,5 +179,6 @@
   "rootLevel": 3,
   "rootPath": "p>p-other>p-other-plac",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

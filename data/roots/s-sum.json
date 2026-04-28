@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-sum",
-  "root": "sum\u52a0",
+  "root": "sum加",
   "meaning": "sum",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "加",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-sum",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-sum",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

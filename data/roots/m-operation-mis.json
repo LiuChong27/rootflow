@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-operation-mis",
-  "root": "mis\u538c\u6076",
+  "root": "mis厌恶",
   "meaning": "hate",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "厌恶",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-operation-mis-mischief",
       "word": "mischief",
       "display": "Mischief",
-      "phonetic": "",
-      "translation": "\u635f\u5bb3\uff1b\u6076\u4f5c\u5267",
-      "sentence": "",
+      "phonetic": "/ˈmɪsʧəf/",
+      "translation": "损害；恶作剧",
+      "sentence": "A mischief is reckless or malicious behavior that causes discomfort or annoyance in others.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-operation-mis-miserable",
       "word": "miserable",
       "display": "Miserable",
-      "phonetic": "",
-      "translation": "\u75db\u82e6\uff1b\u60b2\u60e8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɪzərəbəl/",
+      "translation": "痛苦；悲惨的",
+      "sentence": "he felt depressed and miserable",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-operation-mis-misery",
       "word": "misery",
       "display": "Misery",
-      "phonetic": "",
-      "translation": "\u75db\u82e6",
-      "sentence": "",
+      "phonetic": "/ˈmɪzəri/",
+      "translation": "痛苦",
+      "sentence": "the misery and wretchedness of those slums is intolerable",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "m-operation-mis-misfortune",
       "word": "misfortune",
       "display": "Misfortune",
-      "phonetic": "",
-      "translation": "\u4e0d\u5e78\uff1b\u707e\u96be",
-      "sentence": "",
+      "phonetic": "/mɪsˈfɔrʧən/",
+      "translation": "不幸；灾难",
+      "sentence": "A misfortune is unnecessary and unforeseen trouble resulting from an unfortunate event.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "m-operation-mis-mislead",
       "word": "mislead",
       "display": "Mislead",
-      "phonetic": "",
-      "translation": "\u4f7f\u8bef\u5165\u6b67\u9014",
-      "sentence": "",
+      "phonetic": "/mɪsˈlid/",
+      "translation": "使误入歧途",
+      "sentence": "The pedestrian misdirected the out-of-town driver",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "m-operation-mis-miss",
       "word": "miss",
       "display": "Miss",
-      "phonetic": "",
-      "translation": "\u9519\u8fc7\uff1b\u6f0f\u6389\uff1b\u9003\u8131",
-      "sentence": "",
+      "phonetic": "/mɪs/",
+      "translation": "错过；漏掉；逃脱",
+      "sentence": "I missed that remark",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "m-operation-mis-missing",
       "word": "missing",
       "display": "Missing",
-      "phonetic": "",
-      "translation": "\u6f0f\u6389\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɪsɪŋ/",
+      "translation": "漏掉的",
+      "sentence": "There is something missing in my jewelry box!",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "m-operation-mis-mistake",
       "word": "mistake",
       "display": "Mistake",
-      "phonetic": "",
-      "translation": "\u9519\u8bef\uff1b\u8fc7\u5931",
-      "sentence": "",
+      "phonetic": "/mɪˈsteɪk/",
+      "translation": "错误；过失",
+      "sentence": "he made a bad mistake",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "m-operation-mis-misunderstand",
       "word": "misunderstand",
       "display": "Misunderstand",
-      "phonetic": "",
-      "translation": "\u8bef\u89e3",
-      "sentence": "",
+      "phonetic": "/ˌmɪsəndərˈstænd/",
+      "translation": "误解",
+      "sentence": "Don't misinterpret my comments as criticism",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-operation>m-operation-mis",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

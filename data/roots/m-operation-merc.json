@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-operation-merc",
-  "root": "merc\u4e70\u5356",
+  "root": "merc买卖",
   "meaning": "trade",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "买卖",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-operation-merc-merchandise",
       "word": "merchandise",
       "display": "Merchandise",
-      "phonetic": "",
-      "translation": "\u5546\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈmərʧənˌdaɪz/",
+      "translation": "商品",
+      "sentence": "good business depends on having good merchandise",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-operation-merc-merchant",
       "word": "merchant",
       "display": "Merchant",
-      "phonetic": "",
-      "translation": "\u5546\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈmərʧənt/",
+      "translation": "商人",
+      "sentence": "A merchant is a businessperson engaged in retail trade.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-operation-merc-mercy",
       "word": "mercy",
       "display": "Mercy",
-      "phonetic": "",
-      "translation": "\u4ec1\u6148",
-      "sentence": "",
+      "phonetic": "/ˈmərsi/",
+      "translation": "仁慈",
+      "sentence": "he threw himself on the mercy of the court",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "m-operation-merc-merge",
       "word": "merge",
       "display": "Merge",
-      "phonetic": "",
-      "translation": "\u7ed3\u5408",
-      "sentence": "",
+      "phonetic": "/mərʤ/",
+      "translation": "结合",
+      "sentence": "the cells merge",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-operation>m-operation-merc",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "ambul",
-  "root": "ambul=walk=\u8d70",
+  "root": "ambul=walk=走",
   "meaning": "walk",
-  "descriptionCn": "\u8d70",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "走",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambition",
       "word": "ambition",
       "display": "Ambition",
-      "phonetic": "",
-      "translation": "\u96c4\u5fc3",
-      "sentence": "",
+      "phonetic": "/æmˈbɪʃən/",
+      "translation": "雄心",
+      "sentence": "his ambition is to own his own business",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "ambulance",
       "word": "ambulance",
       "display": "Ambulance",
-      "phonetic": "",
-      "translation": "\u6551\u62a4\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈæmbjələns/",
+      "translation": "救护车",
+      "sentence": "An ambulance is a vehicle that takes people to and from hospitals.",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-other>ambul",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

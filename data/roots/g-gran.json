@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-gran",
-  "root": "gran\u8c37\u7269",
+  "root": "gran谷物",
   "meaning": "gran",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "谷物",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-gran-gamble",
       "word": "gamble",
       "display": "Gamble",
-      "phonetic": "",
-      "translation": "\u5192\u9669\uff1b\u8d4c\u535a",
-      "sentence": "",
+      "phonetic": "/ˈgæmbəl/",
+      "translation": "冒险；赌博",
+      "sentence": "When you buy these stocks you are gambling",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-gran-game",
       "word": "game",
       "display": "Game",
-      "phonetic": "",
-      "translation": "\u6e38\u620f",
-      "sentence": "",
+      "phonetic": "/geɪm/",
+      "translation": "游戏",
+      "sentence": "you need four people to play this game",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-gran-grange",
       "word": "grange",
       "display": "Grange",
-      "phonetic": "",
-      "translation": "\u519c\u573a",
-      "sentence": "",
+      "phonetic": "/greɪnʤ/",
+      "translation": "农场",
+      "sentence": "A grange is an outlying farm.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-gran-granger",
       "word": "granger",
       "display": "Granger",
-      "phonetic": "",
-      "translation": "\u519c\u592b\uff1b\u519c\u6c11",
-      "sentence": "",
+      "phonetic": "/ˈgreɪnʤər/",
+      "translation": "农夫；农民",
+      "sentence": "A granger is a person who operates a farm.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-gran-granular",
       "word": "granular",
       "display": "Granular",
-      "phonetic": "",
-      "translation": "\u7c92\u88c5\u7684",
-      "sentence": "",
+      "phonetic": "/ˈgrænjələr/",
+      "translation": "粒装的",
+      "sentence": "granular sugar",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-gran",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

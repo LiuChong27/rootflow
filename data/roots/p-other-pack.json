@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-other-pack",
-  "root": "pack\u6253\u5305 pact\u540c\u610f",
+  "root": "pack打包 pact同意",
   "meaning": "pack, pact",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "打包 pact同意",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-other-pack-compact",
       "word": "compact",
       "display": "Compact",
-      "phonetic": "",
-      "translation": "\u7d27\u51d1\u7684\uff1b\u5408\u7ea6\uff1b\u5951\u7ea6",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpækt/",
+      "translation": "紧凑的；合约；契约",
+      "sentence": "This powder compacts easily",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-other-pack-compactible",
       "word": "compactible",
       "display": "Compactible",
-      "phonetic": "",
-      "translation": "\u80fd\u88ab\u538b\u5b9e\u7684",
-      "sentence": "",
+      "phonetic": "/kʌmpˈæktʌbʌl/",
+      "translation": "能被压实的",
+      "sentence": "Compactible is used here with the sense of \"能被压实的\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-other-pack-compaction",
       "word": "compaction",
       "display": "Compaction",
-      "phonetic": "",
-      "translation": "\u538b\u7f29",
-      "sentence": "",
+      "phonetic": "/kʌmpˈækʃʌn/",
+      "translation": "压缩",
+      "sentence": "A compaction is an increase in the density of something.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-other-pack-impact",
       "word": "impact",
       "display": "Impact",
-      "phonetic": "",
-      "translation": "\u5f71\u54cd\u529b",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpækt/",
+      "translation": "影响力",
+      "sentence": "the book had an important impact on my thinking",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-other-pack-impaction",
       "word": "impaction",
       "display": "Impaction",
-      "phonetic": "",
-      "translation": "\u649e\u51fb",
-      "sentence": "",
+      "phonetic": "/ɪmpˈækʃʌn/",
+      "translation": "撞击",
+      "sentence": "An impaction is the condition of being pressed closely together and firmly fixed.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-other-pack-package",
       "word": "package",
       "display": "Package",
-      "phonetic": "",
-      "translation": "\u5305\u88f9",
-      "sentence": "",
+      "phonetic": "/ˈpækɪʤ/",
+      "translation": "包裹",
+      "sentence": "the market for software is expected to expand",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-other-pack-packet",
       "word": "packet",
       "display": "Packet",
-      "phonetic": "",
-      "translation": "\u5c0f\u5305\u88f9",
-      "sentence": "",
+      "phonetic": "/ˈpækɪt/",
+      "translation": "小包裹",
+      "sentence": "A packet is a collection of things wrapped or boxed together.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-other-pack-pact",
       "word": "pact",
       "display": "Pact",
-      "phonetic": "",
-      "translation": "\u516c\u7ea6",
-      "sentence": "",
+      "phonetic": "/pækt/",
+      "translation": "公约",
+      "sentence": "A pact is a written agreement between two states or sovereigns.",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 3,
   "rootPath": "p>p-other>p-other-pack",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

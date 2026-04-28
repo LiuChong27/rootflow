@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "a-without-emotion",
-  "root": "\u60c5\u611f",
-  "meaning": "",
-  "descriptionCn": "\u60c5\u611f\u7c7b\u6d3e\u751f",
-  "updatedAt": "2026-04-15",
+  "root": "情感",
+  "meaning": "emotion-related forms",
+  "descriptionCn": "情感类派生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "anharmonic-a-without-emotion-2",
       "word": "anharmonic",
       "display": "Anharmonic",
-      "phonetic": "",
-      "translation": "\u4e0d\u548c\u8c10\u7684",
-      "sentence": "",
+      "phonetic": "/ˌænhˈɑrdʌmɪk/",
+      "translation": "不和谐的",
+      "sentence": "Anharmonic is used here with the sense of \"不和谐的\".",
       "tags": [
         "root-family",
         "emotion"
@@ -23,9 +23,9 @@
       "id": "apathy-a-without-emotion-2",
       "word": "apathy",
       "display": "Apathy",
-      "phonetic": "",
-      "translation": "\u51b7\u6f20",
-      "sentence": "",
+      "phonetic": "/ˈæpəθi/",
+      "translation": "冷漠",
+      "sentence": "An apathy is an absence of emotion or enthusiasm.",
       "tags": [
         "root-family",
         "emotion"
@@ -37,5 +37,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>a-without>a-without-emotion",
   "type": "category",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

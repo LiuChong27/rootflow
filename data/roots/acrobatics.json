@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acrobatics",
   "root": "acrobatics",
-  "meaning": "",
-  "descriptionCn": "\u6742\u6280",
-  "updatedAt": "2026-04-15",
+  "meaning": "acrobatics family",
+  "descriptionCn": "杂技",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acrobatics-acrobatics-2",
       "word": "acrobatics",
       "display": "Acrobatics",
-      "phonetic": "",
-      "translation": "\u6742\u6280",
-      "sentence": "",
+      "phonetic": "/ˌækrəˈbætɪks/",
+      "translation": "杂技",
+      "sentence": "Acrobatics refers to the gymnastic moves of an acrobat.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>ac>acrobatics",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

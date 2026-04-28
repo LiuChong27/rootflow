@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-suit",
-  "root": "suit\u5408\u9002",
+  "root": "suit合适",
   "meaning": "suit",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "合适",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-suit",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-suit",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

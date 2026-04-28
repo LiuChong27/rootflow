@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "j-ject",
-  "root": "ject=jac=jet\u6254",
+  "root": "ject=jac=jet扔",
   "meaning": "throw",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "扔",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "j-ject-adjacent",
       "word": "adjacent",
       "display": "Adjacent",
-      "phonetic": "",
-      "translation": "\u63a5\u8fd1\u7684",
-      "sentence": "",
+      "phonetic": "/əˈʤeɪsənt/",
+      "translation": "接近的",
+      "sentence": "had adjacent rooms",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "j-ject-adjective",
       "word": "adjective",
       "display": "Adjective",
-      "phonetic": "",
-      "translation": "\u5f62\u5bb9\u8bcd",
-      "sentence": "",
+      "phonetic": "/ˈæʤɪktɪv/",
+      "translation": "形容词",
+      "sentence": "an adjective clause",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "j-ject-conjecture",
       "word": "conjecture",
       "display": "Conjecture",
-      "phonetic": "",
-      "translation": "\u63a8\u6d4b\uff1b\u5047\u8bbe",
-      "sentence": "",
+      "phonetic": "/kənˈʤɛkʧər/",
+      "translation": "推测；假设",
+      "sentence": "he dismissed it as mere conjecture",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "j-ject-deject",
       "word": "deject",
       "display": "Deject",
-      "phonetic": "",
-      "translation": "\u4f7f\u6cae\u4e27",
-      "sentence": "",
+      "phonetic": "/dɪˈʤɛkt/",
+      "translation": "使沮丧",
+      "sentence": "These news depressed her",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "j-ject-ejaculate",
       "word": "ejaculate",
       "display": "Ejaculate",
-      "phonetic": "",
-      "translation": "\u7a81\u7136\u8bf4\u51fa\uff1b\u5c04\u51fa",
-      "sentence": "",
+      "phonetic": "/ɪˈʤækjuˌleɪt/",
+      "translation": "突然说出；射出",
+      "sentence": "He blurted out the secret",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "j-ject-eject",
       "word": "eject",
       "display": "Eject",
-      "phonetic": "",
-      "translation": "\u55b7\u51fa\uff1b\u9a71\u9010",
-      "sentence": "",
+      "phonetic": "/ɪˈʤɛkt/",
+      "translation": "喷出；驱逐",
+      "sentence": "The unruly student was excluded from the game",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "j-ject-inject",
       "word": "inject",
       "display": "Inject",
-      "phonetic": "",
-      "translation": "\u6ce8\u5c04",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʤɛkt/",
+      "translation": "注射",
+      "sentence": "We injected the glucose into the patient's vein",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "j-ject-injection",
       "word": "injection",
       "display": "Injection",
-      "phonetic": "",
-      "translation": "\u6ce8\u5c04",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʤɛkʃən/",
+      "translation": "注射",
+      "sentence": "the nurse gave him a flu shot",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "j-ject-interject",
       "word": "interject",
       "display": "Interject",
-      "phonetic": "",
-      "translation": "\u63d2\u5634",
-      "sentence": "",
+      "phonetic": "/ˌɪntərˈʤɛkt/",
+      "translation": "插嘴",
+      "sentence": "She interjected clever remarks",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "j-ject-jet",
       "word": "jet",
       "display": "Jet",
-      "phonetic": "",
-      "translation": "\u55b7\u5c04\uff1b\u55b7\u6c14\u5f0f\u98de\u673a",
-      "sentence": "",
+      "phonetic": "/ʤɛt/",
+      "translation": "喷射；喷气式飞机",
+      "sentence": "Water jetted forth",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "j-ject-jettison",
       "word": "jettison",
       "display": "Jettison",
-      "phonetic": "",
-      "translation": "\u629b\u5f03\uff1b\u6254\u6389",
-      "sentence": "",
+      "phonetic": "/ˈʤɛtɪsən/",
+      "translation": "抛弃；扔掉",
+      "sentence": "To jettison is to throw away, of something encumbering.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "j-ject-object",
       "word": "object",
       "display": "Object",
-      "phonetic": "",
-      "translation": "\u7269\u4f53\uff1b\u76ee\u6807\uff1b\u53cd\u5bf9\uff1b\u5bbe\u8bed",
-      "sentence": "",
+      "phonetic": "/ˈɑbʤɛkt/",
+      "translation": "物体；目标；反对；宾语",
+      "sentence": "it was full of rackets, balls and other objects",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "j-ject-objection",
       "word": "objection",
       "display": "Objection",
-      "phonetic": "",
-      "translation": "\u53cd\u5bf9\uff1b\u5f02\u8bae\uff1b\u4e0d\u559c\u6b22",
-      "sentence": "",
+      "phonetic": "/əˈbʤɛkʃən/",
+      "translation": "反对；异议；不喜欢",
+      "sentence": "An objection is the act of expressing earnest opposition or protest.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "j-ject-objective",
       "word": "objective",
       "display": "Objective",
-      "phonetic": "",
-      "translation": "\u76ee\u6807\uff1b\u5ba2\u89c2\u7684",
-      "sentence": "",
+      "phonetic": "/əˈbʤɛktɪv/",
+      "translation": "目标；客观的",
+      "sentence": "an objective appraisal",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "j-ject-project",
       "word": "project",
       "display": "Project",
-      "phonetic": "",
-      "translation": "\u8ba1\u5212\uff1b\u65b9\u6848\uff1b\u53d1\u5c04\uff1b\u653e\u6620",
-      "sentence": "",
+      "phonetic": "/ˈprɑʤɛkt/",
+      "translation": "计划；方案；发射；放映",
+      "sentence": "He projected his feelings",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "j-ject-projector",
       "word": "projector",
       "display": "Projector",
-      "phonetic": "",
-      "translation": "\u6295\u5f71\u4eea",
-      "sentence": "",
+      "phonetic": "/prɑˈʤɛktər/",
+      "translation": "投影仪",
+      "sentence": "A projector is an optical device for projecting a beam of light.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "j-ject-reject",
       "word": "reject",
       "display": "Reject",
-      "phonetic": "",
-      "translation": "\u62d2\u7edd\uff1b\u843d\u9009\u8005",
-      "sentence": "",
+      "phonetic": "/ˈriʤɛkt/",
+      "translation": "拒绝；落选者",
+      "sentence": "I reject the idea of starting a war",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "j-ject-subject",
       "word": "subject",
       "display": "Subject",
-      "phonetic": "",
-      "translation": "\u9898\u76ee\uff1b\u95ee\u9898\uff1b\u4e3b\u9898\uff1b\u5b66\u79d1\uff1b\u79d1\u76ee\uff1b\u53d7\u5b9e\u9a8c\u8005\uff1b\u4f7f\u96b6\u5c5e",
-      "sentence": "",
+      "phonetic": "/ˈsəbʤɪkt/",
+      "translation": "题目；问题；主题；学科；科目；受实验者；使隶属",
+      "sentence": "he didn't want to discuss that subject",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "j-ject-subjective",
       "word": "subjective",
       "display": "Subjective",
-      "phonetic": "",
-      "translation": "\u4e3b\u89c2\u7684\uff1b\u4e2a\u4eba\u7684",
-      "sentence": "",
+      "phonetic": "/səˈbʤɛktɪv/",
+      "translation": "主观的；个人的",
+      "sentence": "a subjective judgment",
       "tags": [
         "root-family"
       ],
@@ -239,5 +239,6 @@
   "rootLevel": 2,
   "rootPath": "j>j-ject",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

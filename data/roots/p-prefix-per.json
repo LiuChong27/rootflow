@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-prefix-per",
-  "root": "per\u5b8c\u5168",
+  "root": "per完全",
   "meaning": "complete",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "完全",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-prefix-per-pardon",
       "word": "pardon",
       "display": "Pardon",
-      "phonetic": "",
-      "translation": "\u539f\u8c05\uff1b\u5bbd\u6055",
-      "sentence": "",
+      "phonetic": "/ˈpɑrdən/",
+      "translation": "原谅；宽恕",
+      "sentence": "Ford pardoned Nixon",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-prefix-per-perceive",
       "word": "perceive",
       "display": "Perceive",
-      "phonetic": "",
-      "translation": "\u5bdf\u89c9\uff1b\u611f\u77e5",
-      "sentence": "",
+      "phonetic": "/pərˈsiv/",
+      "translation": "察觉；感知",
+      "sentence": "I could perceive the ship coming over the horizon",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-prefix-per-percent",
       "word": "percent",
       "display": "Percent",
-      "phonetic": "",
-      "translation": "\u767e\u5206\u4e4b..\u7684",
-      "sentence": "",
+      "phonetic": "/pərˈsɛnt/",
+      "translation": "百分之..的",
+      "sentence": "A percent is a proportion in relation to a whole (which is usually the amount per hundred).",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-prefix-per-percentage",
       "word": "percentage",
       "display": "Percentage",
-      "phonetic": "",
-      "translation": "\u767e\u5206\u6bd4",
-      "sentence": "",
+      "phonetic": "/pərˈsɛnɪʤ/",
+      "translation": "百分比",
+      "sentence": "he wanted his share in cash",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-prefix-per-perfect",
       "word": "perfect",
       "display": "Perfect",
-      "phonetic": "",
-      "translation": "\u5b8c\u5168\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpərˌfɪkt/",
+      "translation": "完全的",
+      "sentence": "perfect your French in Paris!",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-prefix-per-perfection",
       "word": "perfection",
       "display": "Perfection",
-      "phonetic": "",
-      "translation": "\u5b8c\u7f8e",
-      "sentence": "",
+      "phonetic": "/pərˈfɛkʃən/",
+      "translation": "完美",
+      "sentence": "A perfection is the state of being without a flaw or defect.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-prefix-per-perform",
       "word": "perform",
       "display": "Perform",
-      "phonetic": "",
-      "translation": "\u8868\u6f14",
-      "sentence": "",
+      "phonetic": "/pərˈfɔrm/",
+      "translation": "表演",
+      "sentence": "Who will perform the wedding?",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-prefix-per-performance",
       "word": "performance",
       "display": "Performance",
-      "phonetic": "",
-      "translation": "\u5c65\u884c\uff1b\u6267\u884c\uff1b\u8868\u6f14",
-      "sentence": "",
+      "phonetic": "/pərˈfɔrməns/",
+      "translation": "履行；执行；表演",
+      "sentence": "they listened to ten different performances",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-prefix-per-perfume",
       "word": "perfume",
       "display": "Perfume",
-      "phonetic": "",
-      "translation": "\u9999\u5473",
-      "sentence": "",
+      "phonetic": "/pərfˈjum/",
+      "translation": "香味",
+      "sentence": "orange blossoms perfumed the air in the garden",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-prefix-per-perhaps",
       "word": "perhaps",
       "display": "Perhaps",
-      "phonetic": "",
-      "translation": "\u4e5f\u8bb8\uff1b\u5927\u6982\uff1b\u6050\u6015",
-      "sentence": "",
+      "phonetic": "/pərˈhæps/",
+      "translation": "也许；大概；恐怕",
+      "sentence": "perhaps she will call tomorrow",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-prefix-per-period",
       "word": "period",
       "display": "Period",
-      "phonetic": "",
-      "translation": "\u65f6\u671f\uff1b\u65f6\u4ee3",
-      "sentence": "",
+      "phonetic": "/ˈpɪriəd/",
+      "translation": "时期；时代",
+      "sentence": "a time period of 30 years",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-prefix-per-periodical",
       "word": "periodical",
       "display": "Periodical",
-      "phonetic": "",
-      "translation": "\u671f\u520a\uff1b\u6742\u5fd7",
-      "sentence": "",
+      "phonetic": "/ˌpɪriˈɑdɪkəl/",
+      "translation": "期刊；杂志",
+      "sentence": "the periodic appearance of the seventeen-year locust",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-prefix-per-perish",
       "word": "perish",
       "display": "Perish",
-      "phonetic": "",
-      "translation": "\u4e27\u751f\uff1b\u51cb\u8c22",
-      "sentence": "",
+      "phonetic": "/ˈpɛrɪʃ/",
+      "translation": "丧生；凋谢",
+      "sentence": "The children perished in the fire",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-prefix-per-permanent",
       "word": "permanent",
       "display": "Permanent",
-      "phonetic": "",
-      "translation": "\u6c38\u4e45\u7684\uff1b\u6301\u4e45\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpərmɑˌnɛnt/",
+      "translation": "永久的；持久的",
+      "sentence": "permanent secretary to the president",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-prefix-per-permeate",
       "word": "permeate",
       "display": "Permeate",
-      "phonetic": "",
-      "translation": "\u5f25\u6f2b",
-      "sentence": "",
+      "phonetic": "/ˈpərmiˌeɪt/",
+      "translation": "弥漫",
+      "sentence": "An atmosphere of distrust has permeated this administration",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-prefix-per-permission",
       "word": "permission",
       "display": "Permission",
-      "phonetic": "",
-      "translation": "\u5141\u8bb8",
-      "sentence": "",
+      "phonetic": "/pərˈmɪʃən/",
+      "translation": "允许",
+      "sentence": "he asked permission to leave",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-prefix-per-permit",
       "word": "permit",
       "display": "Permit",
-      "phonetic": "",
-      "translation": "\u8bb8\u53ef",
-      "sentence": "",
+      "phonetic": "/ˈpərˌmɪt/",
+      "translation": "许可",
+      "sentence": "She permitted her son to visit her estranged husband",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-prefix-per-perpetual",
       "word": "perpetual",
       "display": "Perpetual",
-      "phonetic": "",
-      "translation": "\u6c38\u4e45\u7684",
-      "sentence": "",
+      "phonetic": "/pərˈpɛʧuəl/",
+      "translation": "永久的",
+      "sentence": "hell's perpetual fires",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-prefix-per-perplex",
       "word": "perplex",
       "display": "Perplex",
-      "phonetic": "",
-      "translation": "\u4f7f\u56f0\u60d1",
-      "sentence": "",
+      "phonetic": "/pərˈplɛks/",
+      "translation": "使困惑",
+      "sentence": "This beats me!",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-prefix-per-persecute",
       "word": "persecute",
       "display": "Persecute",
-      "phonetic": "",
-      "translation": "\u8feb\u5bb3",
-      "sentence": "",
+      "phonetic": "/ˈpərsəˌkjut/",
+      "translation": "迫害",
+      "sentence": "Jews were persecuted in the former Soviet Union",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "p-prefix-per-persevere",
       "word": "persevere",
       "display": "Persevere",
-      "phonetic": "",
-      "translation": "\u575a\u6301\uff1b\u4e0d\u5c48\u4e0d\u6320",
-      "sentence": "",
+      "phonetic": "/pərsəˈvɪr/",
+      "translation": "坚持；不屈不挠",
+      "sentence": "he persisted to call me every night",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "p-prefix-per-persist",
       "word": "persist",
       "display": "Persist",
-      "phonetic": "",
-      "translation": "\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/pərˈsɪst/",
+      "translation": "坚持",
+      "sentence": "he persisted to call me every night",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "p-prefix-per-perspective",
       "word": "perspective",
       "display": "Perspective",
-      "phonetic": "",
-      "translation": "\u900f\u89c6\u753b\u6cd5\uff1b\u524d\u9014\uff1b\u89c2\u70b9",
-      "sentence": "",
+      "phonetic": "/pərˈspɛktɪv/",
+      "translation": "透视画法；前途；观点",
+      "sentence": "consider what follows from the positivist view",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "p-prefix-per-persuade",
       "word": "persuade",
       "display": "Persuade",
-      "phonetic": "",
-      "translation": "\u8bf4\u670d",
-      "sentence": "",
+      "phonetic": "/pərsˈweɪd/",
+      "translation": "说服",
+      "sentence": "You can't persuade me to buy this ugly vase!",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "p-prefix-per-persuasion",
       "word": "persuasion",
       "display": "Persuasion",
-      "phonetic": "",
-      "translation": "\u8bf4\u670d",
-      "sentence": "",
+      "phonetic": "/pərsˈweɪʒən/",
+      "translation": "说服",
+      "sentence": "I am not of your persuasion",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "p-prefix-per-pilgrim",
       "word": "pilgrim",
       "display": "Pilgrim",
-      "phonetic": "",
-      "translation": "\u671d\u5723\u8005",
-      "sentence": "",
+      "phonetic": "/ˈpɪlgrɪm/",
+      "translation": "朝圣者",
+      "sentence": "A pilgrim is someone who journeys in foreign lands.",
       "tags": [
         "root-family"
       ],
@@ -323,5 +323,6 @@
   "rootLevel": 3,
   "rootPath": "p>p-prefix>p-prefix-per",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

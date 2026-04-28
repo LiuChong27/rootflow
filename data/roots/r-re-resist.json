@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-re-resist",
-  "root": "\u53cd\u6297",
+  "root": "反抗",
   "meaning": "resist",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "反抗",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-re-resist-rebel",
       "word": "rebel",
       "display": "Rebel",
-      "phonetic": "",
-      "translation": "\u53cd\u6297",
-      "sentence": "",
+      "phonetic": "/ˈrɛbəl/",
+      "translation": "反抗",
+      "sentence": "A rebel is `Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-re-resist-rebellion",
       "word": "rebellion",
       "display": "Rebellion",
-      "phonetic": "",
-      "translation": "\u53db\u4e71",
-      "sentence": "",
+      "phonetic": "/rɪˈbɛljən/",
+      "translation": "叛乱",
+      "sentence": "each generation must have its own rebellion",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-re-resist-resent",
       "word": "resent",
       "display": "Resent",
-      "phonetic": "",
-      "translation": "\u6028\u6068",
-      "sentence": "",
+      "phonetic": "/rɪˈzɛnt/",
+      "translation": "怨恨",
+      "sentence": "She resents being paid less than her co-workers",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-re-resist-resist",
       "word": "resist",
       "display": "Resist",
-      "phonetic": "",
-      "translation": "\u62b5\u6297",
-      "sentence": "",
+      "phonetic": "/rɪˈzɪst/",
+      "translation": "抵抗",
+      "sentence": "The trees resisted her",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-re-resist-resistance",
       "word": "resistance",
       "display": "Resistance",
-      "phonetic": "",
-      "translation": "\u62b5\u6297\u529b",
-      "sentence": "",
+      "phonetic": "/rɪˈzɪstəns/",
+      "translation": "抵抗力",
+      "sentence": "he encountered a general feeling of resistance from many citizens",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-re-resist-restrain",
       "word": "restrain",
       "display": "Restrain",
-      "phonetic": "",
-      "translation": "\u5236\u6b62",
-      "sentence": "",
+      "phonetic": "/riˈstreɪn/",
+      "translation": "制止",
+      "sentence": "suppress a smile",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-re-resist-restraint",
       "word": "restraint",
       "display": "Restraint",
-      "phonetic": "",
-      "translation": "\u6291\u5236",
-      "sentence": "",
+      "phonetic": "/rɪˈstreɪnt/",
+      "translation": "抑制",
+      "sentence": "the unlawful restraint of trade",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-re-resist-restrict",
       "word": "restrict",
       "display": "Restrict",
-      "phonetic": "",
-      "translation": "\u9650\u5236",
-      "sentence": "",
+      "phonetic": "/riˈstrɪkt/",
+      "translation": "限制",
+      "sentence": "restrict the use of this parking lot",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-re-resist-retort",
       "word": "retort",
       "display": "Retort",
-      "phonetic": "",
-      "translation": "\u53cd\u9a73",
-      "sentence": "",
+      "phonetic": "/ˈriˌtɔrt/",
+      "translation": "反驳",
+      "sentence": "it brought a sharp rejoinder from the teacher",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-re-resist-retrieve",
       "word": "retrieve",
       "display": "Retrieve",
-      "phonetic": "",
-      "translation": "\u593a\u56de",
-      "sentence": "",
+      "phonetic": "/rɪˈtriv/",
+      "translation": "夺回",
+      "sentence": "retrieve the car from the parking garage",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-re-resist-revenge",
       "word": "revenge",
       "display": "Revenge",
-      "phonetic": "",
-      "translation": "\u590d\u4ec7",
-      "sentence": "",
+      "phonetic": "/riˈvɛnʤ/",
+      "translation": "复仇",
+      "sentence": "He wants to avenge the murder of his brother",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-re-resist-revolt",
       "word": "revolt",
       "display": "Revolt",
-      "phonetic": "",
-      "translation": "\u53cd\u6297",
-      "sentence": "",
+      "phonetic": "/rɪˈvoʊlt/",
+      "translation": "反抗",
+      "sentence": "The people revolted when bread prices tripled again",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-re-resist-revolution",
       "word": "revolution",
       "display": "Revolution",
-      "phonetic": "",
-      "translation": "\u9769\u547d",
-      "sentence": "",
+      "phonetic": "/ˌrɛvəˈluʃən/",
+      "translation": "革命",
+      "sentence": "the industrial revolution was also a cultural revolution",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-re-resist-revolutionary",
       "word": "revolutionary",
       "display": "Revolutionary",
-      "phonetic": "",
-      "translation": "\u9769\u547d\u7684",
-      "sentence": "",
+      "phonetic": "/ˌrɛvəˈluʃəˌnɛri/",
+      "translation": "革命的",
+      "sentence": "a revolutionary discovery",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-re-resist-revolve",
       "word": "revolve",
       "display": "Revolve",
-      "phonetic": "",
-      "translation": "\u65cb\u8f6c\uff1b\u8003\u8651",
-      "sentence": "",
+      "phonetic": "/riˈvɑlv/",
+      "translation": "旋转；考虑",
+      "sentence": "The Earth revolves around the Sun",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-re-resist-reward",
       "word": "reward",
       "display": "Reward",
-      "phonetic": "",
-      "translation": "\u62a5\u916c\uff1b\u8003\u8651",
-      "sentence": "",
+      "phonetic": "/rɪˈwɔrd/",
+      "translation": "报酬；考虑",
+      "sentence": "virtue is its own reward",
       "tags": [
         "root-family"
       ],
@@ -203,5 +203,6 @@
   "rootLevel": 3,
   "rootPath": "r>r-re>r-re-resist",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

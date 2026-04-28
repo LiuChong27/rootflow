@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-brev-short",
-  "root": "brev=short\u77ed",
+  "root": "brev=short短",
   "meaning": "short",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "短",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-brev-abbreviate",
       "word": "abbreviate",
       "display": "Abbreviate",
-      "phonetic": "",
-      "translation": "\u7f29\u5199\uff1b\u7b80\u5199",
-      "sentence": "",
+      "phonetic": "/əˈbriviˌeɪt/",
+      "translation": "缩写；简写",
+      "sentence": "Abbreviate `New York' and write `NY'",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-brev-abbreviation",
       "word": "abbreviation",
       "display": "Abbreviation",
-      "phonetic": "",
-      "translation": "\u7f29\u5199",
-      "sentence": "",
+      "phonetic": "/əˌbriviˈeɪʃən/",
+      "translation": "缩写",
+      "sentence": "An abbreviation is a shortened form of a word or phrase.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-brev-abridge",
       "word": "abridge",
       "display": "Abridge",
-      "phonetic": "",
-      "translation": "\u5220\u51cf\uff1b\u7cbe\u7b80",
-      "sentence": "",
+      "phonetic": "/əˈbrɪʤ/",
+      "translation": "删减；精简",
+      "sentence": "the new law might abridge our freedom of expression",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-brev-brevity",
       "word": "brevity",
       "display": "Brevity",
-      "phonetic": "",
-      "translation": "\u77ed\u6682\uff1b\u7b80\u77ed",
-      "sentence": "",
+      "phonetic": "/ˈbrɛvəti/",
+      "translation": "短暂；简短",
+      "sentence": "A brevity is the use of brief expressions.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-brev-brief",
       "word": "brief",
       "display": "Brief",
-      "phonetic": "",
-      "translation": "\u6458\u8981\uff1b\u5927\u7eb2",
-      "sentence": "",
+      "phonetic": "/briːf/",
+      "translation": "摘要；大纲",
+      "sentence": "The reporters were briefed about the President's plan to invade",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-brev-briefcase",
       "word": "briefcase",
       "display": "Briefcase",
-      "phonetic": "",
-      "translation": "\u624b\u63d0\u7bb1\uff1b\u516c\u6587\u5305",
-      "sentence": "",
+      "phonetic": "/ˈbrifˌkeɪs/",
+      "translation": "手提箱；公文包",
+      "sentence": "A briefcase is a case with a handle; for carrying papers or files or books.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-brev-briefing",
       "word": "briefing",
       "display": "Briefing",
-      "phonetic": "",
-      "translation": "\u7b80\u62a5",
-      "sentence": "",
+      "phonetic": "/ˈbrifɪŋ/",
+      "translation": "简报",
+      "sentence": "The reporters were briefed about the President's plan to invade",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-brev-short",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

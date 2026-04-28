@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-sur",
-  "root": "sur=super\u4e0a\u9762",
+  "root": "sur=super上面",
   "meaning": "above",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "上面",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-sur-superb",
       "word": "superb",
       "display": "Superb",
-      "phonetic": "",
-      "translation": "\u6781\u597d\u7684\uff1b\u6770\u51fa\u7684",
-      "sentence": "",
+      "phonetic": "/sʊˈpərb/",
+      "translation": "极好的；杰出的",
+      "sentence": "a superb actor",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-sur-superficial",
       "word": "superficial",
       "display": "Superficial",
-      "phonetic": "",
-      "translation": "\u8868\u9762\u7684\uff1b\u80a4\u6d45\u7684",
-      "sentence": "",
+      "phonetic": "/ˌsupərˈfɪʃəl/",
+      "translation": "表面的；肤浅的",
+      "sentence": "superficial similarities",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-sur-superfluous",
       "word": "superfluous",
       "display": "Superfluous",
-      "phonetic": "",
-      "translation": "\u591a\u4f59\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsupərflˌwəs/",
+      "translation": "多余的",
+      "sentence": "delete superfluous (or unnecessary) words",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-sur-superior",
       "word": "superior",
       "display": "Superior",
-      "phonetic": "",
-      "translation": "\u4f18\u826f\u7684",
-      "sentence": "",
+      "phonetic": "/suˈpɪriər/",
+      "translation": "优良的",
+      "sentence": "superior wisdom derived from experience",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-sur-superiority",
       "word": "superiority",
       "display": "Superiority",
-      "phonetic": "",
-      "translation": "\u4f18\u52bf",
-      "sentence": "",
+      "phonetic": "/ˌsupɪriˈɔrɪti/",
+      "translation": "优势",
+      "sentence": "he hated the white man's superiority and condescension",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-sur-supermarket",
       "word": "supermarket",
       "display": "Supermarket",
-      "phonetic": "",
-      "translation": "\u8d85\u7ea7\u5e02\u573a",
-      "sentence": "",
+      "phonetic": "/ˈsupərˌmɑrkɪt/",
+      "translation": "超级市场",
+      "sentence": "A supermarket is a large self-service grocery store selling groceries and dairy products and household goods.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-sur-supersonic",
       "word": "supersonic",
       "display": "Supersonic",
-      "phonetic": "",
-      "translation": "\u8d85\u97f3\u6ce2",
-      "sentence": "",
+      "phonetic": "/ˌsupərˈsɑnɪk/",
+      "translation": "超音波",
+      "sentence": "a supersonic bomber flies so fast that it must release its bombs while the target is still over the horizon",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-sur-superstition",
       "word": "superstition",
       "display": "Superstition",
-      "phonetic": "",
-      "translation": "\u8ff7\u4fe1",
-      "sentence": "",
+      "phonetic": "/ˌsupərˈstɪʃən/",
+      "translation": "迷信",
+      "sentence": "A superstition is an irrational belief arising from ignorance or fear.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-sur-supervise",
       "word": "supervise",
       "display": "Supervise",
-      "phonetic": "",
-      "translation": "\u76d1\u7ba1",
-      "sentence": "",
+      "phonetic": "/ˈsupərˌvaɪz/",
+      "translation": "监管",
+      "sentence": "Who is overseeing this project?",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-sur-supper",
       "word": "supper",
       "display": "Supper",
-      "phonetic": "",
-      "translation": "\u6781\u597d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsəpər/",
+      "translation": "极好的",
+      "sentence": "her suppers often included celebrities",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-sur-supreme",
       "word": "supreme",
       "display": "Supreme",
-      "phonetic": "",
-      "translation": "\u81f3\u9ad8\u7684\uff1b\u6781\u5ea6\u7684",
-      "sentence": "",
+      "phonetic": "/səˈprim/",
+      "translation": "至高的；极度的",
+      "sentence": "the supreme sacrifice",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-sur-sure",
       "word": "sure",
       "display": "Sure",
-      "phonetic": "",
-      "translation": "\u80af\u5b9a\u7684",
-      "sentence": "",
+      "phonetic": "/ʃʊr/",
+      "translation": "肯定的",
+      "sentence": "was sure (or certain) she had seen it",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-sur-surface",
       "word": "surface",
       "display": "Surface",
-      "phonetic": "",
-      "translation": "\u8868\u9762",
-      "sentence": "",
+      "phonetic": "/ˈsərfəs/",
+      "translation": "表面",
+      "sentence": "there is a special cleaner for these surfaces",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-sur-surge",
       "word": "surge",
       "display": "Surge",
-      "phonetic": "",
-      "translation": "\u6c79\u6d8c\u6f8e\u6e43\uff1b\u8702\u62e5\u800c\u81f3",
-      "sentence": "",
+      "phonetic": "/sərʤ/",
+      "translation": "汹涌澎湃；蜂拥而至",
+      "sentence": "stimulated a surge of speculation",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-sur-surgeon",
       "word": "surgeon",
       "display": "Surgeon",
-      "phonetic": "",
-      "translation": "\u5916\u79d1\u533b\u751f",
-      "sentence": "",
+      "phonetic": "/ˈsərʤɪn/",
+      "translation": "外科医生",
+      "sentence": "A surgeon is a physician who specializes in surgery.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-sur-surgery",
       "word": "surgery",
       "display": "Surgery",
-      "phonetic": "",
-      "translation": "\u5916\u79d1",
-      "sentence": "",
+      "phonetic": "/ˈsərʤəri/",
+      "translation": "外科",
+      "sentence": "he is professor of surgery at the Harvard Medical School",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-sur-surname",
       "word": "surname",
       "display": "Surname",
-      "phonetic": "",
-      "translation": "\u59d3\uff08\u5199\u5728\u524d\u9762\uff09",
-      "sentence": "",
+      "phonetic": "/ˈsərˌneɪm/",
+      "translation": "姓（写在前面）",
+      "sentence": "A surname is the name used to identify the members of a family (as distinguished from each member's given name).",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "s-sur-surpass",
       "word": "surpass",
       "display": "Surpass",
-      "phonetic": "",
-      "translation": "\u8d85\u8fc7",
-      "sentence": "",
+      "phonetic": "/sərˈpæs/",
+      "translation": "超过",
+      "sentence": "her performance surpasses that of any other student I know",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "s-sur-surplus",
       "word": "surplus",
       "display": "Surplus",
-      "phonetic": "",
-      "translation": "\u8fc7\u5269",
-      "sentence": "",
+      "phonetic": "/ˈsərpləs/",
+      "translation": "过剩",
+      "sentence": "surplus cheese distributed to the needy",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "s-sur-surprise",
       "word": "surprise",
       "display": "Surprise",
-      "phonetic": "",
-      "translation": "\u60ca\u5f02",
-      "sentence": "",
+      "phonetic": "/səˈpraɪz/",
+      "translation": "惊异",
+      "sentence": "The news really surprised me",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "s-sur-surrender",
       "word": "surrender",
       "display": "Surrender",
-      "phonetic": "",
-      "translation": "\u6295\u964d",
-      "sentence": "",
+      "phonetic": "/sərˈɛndər/",
+      "translation": "投降",
+      "sentence": "The last Taleban fighters finally surrendered",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "s-sur-surround",
       "word": "surround",
       "display": "Surround",
-      "phonetic": "",
-      "translation": "\u5305\u56f4",
-      "sentence": "",
+      "phonetic": "/səraʊnd/",
+      "translation": "包围",
+      "sentence": "the country--the flat agricultural surround",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "s-sur-surroundings",
       "word": "surroundings",
       "display": "Surroundings",
-      "phonetic": "",
-      "translation": "\u73af\u5883",
-      "sentence": "",
+      "phonetic": "/sərˈaʊndɪŋz/",
+      "translation": "环境",
+      "sentence": "the country--the flat agricultural surround",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "s-sur-survey",
       "word": "survey",
       "display": "Survey",
-      "phonetic": "",
-      "translation": "\u4fef\u77b0",
-      "sentence": "",
+      "phonetic": "/ˈsərˌveɪ/",
+      "translation": "俯瞰",
+      "sentence": "his survey of the battlefield was limited",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "s-sur-survival",
       "word": "survival",
       "display": "Survival",
-      "phonetic": "",
-      "translation": "\u5e78\u5b58\u8005",
-      "sentence": "",
+      "phonetic": "/sərˈvaɪvəl/",
+      "translation": "幸存者",
+      "sentence": "A survival is a state of surviving; remaining alive.",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "s-sur-survive",
       "word": "survive",
       "display": "Survive",
-      "phonetic": "",
-      "translation": "\u5e78\u5b58",
-      "sentence": "",
+      "phonetic": "/sərˈvaɪv/",
+      "translation": "幸存",
+      "sentence": "These superstitions survive in the backwaters of America",
       "tags": [
         "root-family"
       ],
@@ -323,5 +323,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-sur",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

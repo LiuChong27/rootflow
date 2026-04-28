@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cord-cor-concord",
-  "root": "concord\u548c\u8c10\uff1b\u534f\u8c03",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "concord和谐；协调",
+  "meaning": "concord",
+  "descriptionCn": "和谐；协调",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cord-cor-heart-concord-concordant",
       "word": "concordant",
       "display": "Concordant",
-      "phonetic": "",
-      "translation": "\u548c\u8c10\u7684\uff1b\u4e00\u81f4\u7684",
-      "sentence": "",
+      "phonetic": "/kˈɑnkˌɔrdˌænt/",
+      "translation": "和谐的；一致的",
+      "sentence": "expressed views concordant with his background",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cord-cor-heart-concord-discordant",
       "word": "discordant",
       "display": "Discordant",
-      "phonetic": "",
-      "translation": "\u4e0d\u4e00\u81f4\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈskɔrdənt/",
+      "translation": "不一致的",
+      "sentence": "views discordant with present-day ideas",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-cord-cor-heart>c-cord-cor-concord",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

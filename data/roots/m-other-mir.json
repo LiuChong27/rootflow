@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-other-mir",
-  "root": "mir\u60ca\u5947",
+  "root": "mir惊奇",
   "meaning": "surprise",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "惊奇",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-other-mir-miracle",
       "word": "miracle",
       "display": "Miracle",
-      "phonetic": "",
-      "translation": "\u5947\u8ff9",
-      "sentence": "",
+      "phonetic": "/ˈmɪrəkəl/",
+      "translation": "奇迹",
+      "sentence": "A miracle is any amazing or wonderful occurrence.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-other-mir-mirror",
       "word": "mirror",
       "display": "Mirror",
-      "phonetic": "",
-      "translation": "\u955c\u5b50\uff1b\u53cd\u5c04",
-      "sentence": "",
+      "phonetic": "/ˈmɪrər/",
+      "translation": "镜子；反射",
+      "sentence": "the best mirror is an old friend",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-other>m-other-mir",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

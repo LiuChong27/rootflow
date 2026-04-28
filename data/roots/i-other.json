@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "i-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "i-other-idea",
       "word": "idea",
       "display": "Idea",
-      "phonetic": "",
-      "translation": "\u60f3\u6cd5\uff1b\u6982\u5ff5",
-      "sentence": "",
+      "phonetic": "/aɪˈdiə/",
+      "translation": "想法；概念",
+      "sentence": "it was not a good idea",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "i-other-ideal",
       "word": "ideal",
       "display": "Ideal",
-      "phonetic": "",
-      "translation": "\u7406\u60f3",
-      "sentence": "",
+      "phonetic": "/aɪˈdil/",
+      "translation": "理想",
+      "sentence": "a poem or essay may be typical of its period in idea or ideal content",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "i-other-identical",
       "word": "identical",
       "display": "Identical",
-      "phonetic": "",
-      "translation": "\u540c\u6837\u7684",
-      "sentence": "",
+      "phonetic": "/aɪˈdɛntɪkəl/",
+      "translation": "同样的",
+      "sentence": "rows of identical houses",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "i-other-identification",
       "word": "identification",
       "display": "Identification",
-      "phonetic": "",
-      "translation": "\u8bc6\u522b\uff1b\u9274\u522b",
-      "sentence": "",
+      "phonetic": "/aɪˌdɛntəfəˈkeɪʃən/",
+      "translation": "识别；鉴别",
+      "sentence": "the thief's identification was followed quickly by his arrest",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "i-other-identify",
       "word": "identify",
       "display": "Identify",
-      "phonetic": "",
-      "translation": "\u8bc6\u522b\uff1b\u9274\u522b",
-      "sentence": "",
+      "phonetic": "/aɪˈdɛntəˌfaɪ/",
+      "translation": "识别；鉴别",
+      "sentence": "She identified the man on the 'wanted' poster",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "i-other-identity",
       "word": "identity",
       "display": "Identity",
-      "phonetic": "",
-      "translation": "\u8eab\u4efd\uff1b\u7279\u5f81",
-      "sentence": "",
+      "phonetic": "/aɪˈdɛntəˌti/",
+      "translation": "身份；特征",
+      "sentence": "you can lose your identity when you join the army",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "i-other-ideology",
       "word": "ideology",
       "display": "Ideology",
-      "phonetic": "",
-      "translation": "\u610f\u8bc6\u5f62\u6001",
-      "sentence": "",
+      "phonetic": "/ˌaɪdiˈɑləʤi/",
+      "translation": "意识形态",
+      "sentence": "An ideology is an orientation that characterizes the thinking of a group or nation.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "i-other-idiom",
       "word": "idiom",
       "display": "Idiom",
-      "phonetic": "",
-      "translation": "\u4e60\u8bed\uff1b\u98ce\u683c\uff1b\u7279\u8272",
-      "sentence": "",
+      "phonetic": "/ˈɪdiəm/",
+      "translation": "习语；风格；特色",
+      "sentence": "an imaginative orchestral idiom",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "i-other-idiot",
       "word": "idiot",
       "display": "Idiot",
-      "phonetic": "",
-      "translation": "\u767d\u75f4\uff1b\u7b28\u86cb",
-      "sentence": "",
+      "phonetic": "/ˈɪˌdiət/",
+      "translation": "白痴；笨蛋",
+      "sentence": "An idiot is a person of subnormal intelligence.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "i-other-idle",
       "word": "idle",
       "display": "Idle",
-      "phonetic": "",
-      "translation": "\u7a7a\u95f2\u7684\uff1b\u61d2\u6563\u7684",
-      "sentence": "",
+      "phonetic": "/ˈaɪdəl/",
+      "translation": "空闲的；懒散的",
+      "sentence": "the car engine was running at idle",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "i-other-ignorance",
       "word": "ignorance",
       "display": "Ignorance",
-      "phonetic": "",
-      "translation": "\u65e0\u77e5\uff1b\u611a\u6627",
-      "sentence": "",
+      "phonetic": "/ˈɪgnərəns/",
+      "translation": "无知；愚昧",
+      "sentence": "An ignorance is the lack of knowledge or education.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "i-other-ignorant",
       "word": "ignorant",
       "display": "Ignorant",
-      "phonetic": "",
-      "translation": "\u65e0\u77e5\u7684\uff1b\u611a\u6627\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪgnərənt/",
+      "translation": "无知的；愚昧的",
+      "sentence": "an ignorant man",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "i-other-ignore",
       "word": "ignore",
       "display": "Ignore",
-      "phonetic": "",
-      "translation": "\u5ffd\u89c6",
-      "sentence": "",
+      "phonetic": "/ˌɪgˈnɔr/",
+      "translation": "忽视",
+      "sentence": "She cut him dead at the meeting",
       "tags": [
         "root-family"
       ],
@@ -164,11 +164,11 @@
     },
     {
       "id": "i-other-il",
-      "word": "il \u6709\u75c5\u7684\uff1b\u574f\u7684",
-      "display": "il \u6709\u75c5\u7684\uff1b\u574f\u7684",
-      "phonetic": "",
-      "translation": "\u6709\u75c5\u7684\uff1b\u574f\u7684",
-      "sentence": "",
+      "word": "il 有病的；坏的",
+      "display": "il 有病的；坏的",
+      "phonetic": "/ɪl 有病的；坏的/",
+      "translation": "有病的；坏的",
+      "sentence": "Il 有病的；坏的 is used here with the sense of \"有病的；坏的\".",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "i-other-illegal",
       "word": "illegal",
       "display": "Illegal",
-      "phonetic": "",
-      "translation": "\u975e\u6cd5\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈligəl/",
+      "translation": "非法的",
+      "sentence": "an illegal chess move",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "i-other-illiterate",
       "word": "illiterate",
       "display": "Illiterate",
-      "phonetic": "",
-      "translation": "\u6587\u76f2\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈlɪtərət/",
+      "translation": "文盲的",
+      "sentence": "he is musically illiterate",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "i-other-illness",
       "word": "illness",
       "display": "Illness",
-      "phonetic": "",
-      "translation": "\u75be\u75c5",
-      "sentence": "",
+      "phonetic": "/ˈɪlnəs/",
+      "translation": "疾病",
+      "sentence": "Illness refers to impairment of normal physiological function affecting part or all of an organism.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "i-other-illuminate",
       "word": "illuminate",
       "display": "Illuminate",
-      "phonetic": "",
-      "translation": "\u7167\u660e\uff1b\u89e3\u91ca\uff1b\u8bf4\u660e",
-      "sentence": "",
+      "phonetic": "/ˌɪˈlumɪnɪt/",
+      "translation": "照明；解释；说明",
+      "sentence": "This lamp lightens the room a bit",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "i-other-illusion",
       "word": "illusion",
       "display": "Illusion",
-      "phonetic": "",
-      "translation": "\u5e7b\u60f3\uff1b\u9519\u89c9",
-      "sentence": "",
+      "phonetic": "/ˌɪˈluʒən/",
+      "translation": "幻想；错觉",
+      "sentence": "they have the illusion that I am very wealthy",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "i-other-illustrate",
       "word": "illustrate",
       "display": "Illustrate",
-      "phonetic": "",
-      "translation": "\u4e3e\u4f8b\u8bf4\u660e\uff1b\u9610\u660e\uff1b\u56fe\u89e3",
-      "sentence": "",
+      "phonetic": "/ˈɪləˌstreɪt/",
+      "translation": "举例说明；阐明；图解",
+      "sentence": "illustrate a book with drawings",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "i-other-illustration",
       "word": "illustration",
       "display": "Illustration",
-      "phonetic": "",
-      "translation": "\u8bf4\u660e\uff1b\u63d2\u56fe",
-      "sentence": "",
+      "phonetic": "/ˌɪləˈstreɪʃən/",
+      "translation": "说明；插图",
+      "sentence": "this patient provides a typical example of the syndrome",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "i-other-incline",
       "word": "incline",
       "display": "Incline",
-      "phonetic": "",
-      "translation": "\u503e\u659c\uff1b\u659c\u5761",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈklaɪn/",
+      "translation": "倾斜；斜坡",
+      "sentence": "He inclined to corpulence",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "i-other-index",
       "word": "index",
       "display": "Index",
-      "phonetic": "",
-      "translation": "\u7d22\u5f15",
-      "sentence": "",
+      "phonetic": "/ˈɪndɛks/",
+      "translation": "索引",
+      "sentence": "index the book",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "i-other-industrial",
       "word": "industrial",
       "display": "Industrial",
-      "phonetic": "",
-      "translation": "\u5de5\u4e1a\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdəstriəl/",
+      "translation": "工业的",
+      "sentence": "industrial output",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "i-other-industrialize",
       "word": "industrialize",
       "display": "Industrialize",
-      "phonetic": "",
-      "translation": "\u4f7f\u5de5\u4e1a\u5316",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdəstriəˌlaɪz/",
+      "translation": "使工业化",
+      "sentence": "The Chinese industrialized textile production",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "i-other-industry",
       "word": "industry",
       "display": "Industry",
-      "phonetic": "",
-      "translation": "\u5de5\u4e1a\uff1b\u4ea7\u4e1a",
-      "sentence": "",
+      "phonetic": "/ˈɪndəstri/",
+      "translation": "工业；产业",
+      "sentence": "each industry has its own trade publications",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "i-other-infant",
       "word": "infant",
       "display": "Infant",
-      "phonetic": "",
-      "translation": "\u5a74\u513f",
-      "sentence": "",
+      "phonetic": "/ˈɪnfənt/",
+      "translation": "婴儿",
+      "sentence": "the baby began to cry again",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "i-other-inferior",
       "word": "inferior",
       "display": "Inferior",
-      "phonetic": "",
-      "translation": "\u4e0b\u7b49\u7684\uff1b\u665a\u8f88",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈfɪriər/",
+      "translation": "下等的；晚辈",
+      "sentence": "Mercury and Venus are inferior planets",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "i-other-infrared",
       "word": "infrared",
       "display": "Infrared",
-      "phonetic": "",
-      "translation": "\u7ea2\u5916\u7ebf\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnfrərˈɛd/",
+      "translation": "红外线的",
+      "sentence": "they could sense radiation in the infrared",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "i-other-infrastructure",
       "word": "infrastructure",
       "display": "Infrastructure",
-      "phonetic": "",
-      "translation": "\u57fa\u7840\u7ed3\u6784",
-      "sentence": "",
+      "phonetic": "/ˌɪnfrəˈstrəkʧər/",
+      "translation": "基础结构",
+      "sentence": "the industrial base of Japan",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "i-other-ink",
       "word": "ink",
       "display": "Ink",
-      "phonetic": "",
-      "translation": "\u58a8\u6c34",
-      "sentence": "",
+      "phonetic": "/ɪŋk/",
+      "translation": "墨水",
+      "sentence": "They inked the contract",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "i-other-inland",
       "word": "inland",
       "display": "Inland",
-      "phonetic": "",
-      "translation": "\u9646\u5730",
-      "sentence": "",
+      "phonetic": "/ˈɪnˌlænd/",
+      "translation": "陆地",
+      "sentence": "the town is five miles inland",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "i-other-inlet",
       "word": "inlet",
       "display": "Inlet",
-      "phonetic": "",
-      "translation": "\u6e7e\uff1b\u5165\u53e3",
-      "sentence": "",
+      "phonetic": "/ˈɪnˌlɛt/",
+      "translation": "湾；入口",
+      "sentence": "An inlet is an arm off of a larger body of water (often between rocky headlands).",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "i-other-innocent",
       "word": "innocent",
       "display": "Innocent",
-      "phonetic": "",
-      "translation": "\u6e05\u767d\u7684\uff1b\u5355\u7eaf\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnəsənt/",
+      "translation": "清白的；单纯的",
+      "sentence": "an innocent child",
       "tags": [
         "root-family"
       ],
@@ -419,5 +419,6 @@
   "rootLevel": 2,
   "rootPath": "i>i-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

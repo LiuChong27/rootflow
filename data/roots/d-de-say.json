@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-de-say",
-  "root": "\u8bf4",
+  "root": "说",
   "meaning": "say",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "说",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-de-say-dam",
       "word": "dam",
       "display": "Dam",
-      "phonetic": "",
-      "translation": "\u6c34\u575d",
-      "sentence": "",
+      "phonetic": "/dæm/",
+      "translation": "水坝",
+      "sentence": "dam the gorges of the Yangtse River",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-de-say-damage",
       "word": "damage",
       "display": "Damage",
-      "phonetic": "",
-      "translation": "\u635f\u5bb3",
-      "sentence": "",
+      "phonetic": "/ˈdæmɪʤ/",
+      "translation": "损害",
+      "sentence": "how much is the damage?",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-de-say-damn",
       "word": "damn",
       "display": "Damn",
-      "phonetic": "",
-      "translation": "\u8c34\u8d23\uff1b\u8be5\u6b7b",
-      "sentence": "",
+      "phonetic": "/dæm/",
+      "translation": "谴责；该死",
+      "sentence": "his promise is not worth a damn",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-de-say-debate",
       "word": "debate",
       "display": "Debate",
-      "phonetic": "",
-      "translation": "\u4e89\u8fa9",
-      "sentence": "",
+      "phonetic": "/dəˈbeɪt/",
+      "translation": "争辩",
+      "sentence": "We debated the question of abortion",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-de-say-deceit",
       "word": "deceit",
       "display": "Deceit",
-      "phonetic": "",
-      "translation": "\u6b3a\u9a97\uff1b\u8499\u9a97",
-      "sentence": "",
+      "phonetic": "/dɪˈsit/",
+      "translation": "欺骗；蒙骗",
+      "sentence": "A deceit is the quality of being fraudulent.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-de-say-deceive",
       "word": "deceive",
       "display": "Deceive",
-      "phonetic": "",
-      "translation": "\u6b3a\u9a97",
-      "sentence": "",
+      "phonetic": "/dɪˈsiv/",
+      "translation": "欺骗",
+      "sentence": "The insurance company deceived me when they told me they were covering my house",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-de-say-declaration",
       "word": "declaration",
       "display": "Declaration",
-      "phonetic": "",
-      "translation": "\u5ba3\u5e03",
-      "sentence": "",
+      "phonetic": "/ˌdɛklərˈeɪʃən/",
+      "translation": "宣布",
+      "sentence": "his declaration of innocence",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-de-say-declare",
       "word": "declare",
       "display": "Declare",
-      "phonetic": "",
-      "translation": "\u5ba3\u544a",
-      "sentence": "",
+      "phonetic": "/dɪˈklɛr/",
+      "translation": "宣告",
+      "sentence": "He declared that he needed more money to carry out the task he was charged with",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-de-say-deduct",
       "word": "deduct",
       "display": "Deduct",
-      "phonetic": "",
-      "translation": "\u6263\u9664\uff1b\u6f14\u7ece",
-      "sentence": "",
+      "phonetic": "/dɪˈdəkt/",
+      "translation": "扣除；演绎",
+      "sentence": "subtract this amount from my paycheck",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-de-say-delegate",
       "word": "delegate",
       "display": "Delegate",
-      "phonetic": "",
-      "translation": "\u4ee3\u8868\uff1b\u6388\u6743",
-      "sentence": "",
+      "phonetic": "/ˈdɛləˌgeɪt/",
+      "translation": "代表；授权",
+      "sentence": "A delegate is a person appointed or elected to represent others.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-de-say-denounce",
       "word": "denounce",
       "display": "Denounce",
-      "phonetic": "",
-      "translation": "\u516c\u5f00\u6307\u8d23",
-      "sentence": "",
+      "phonetic": "/dɪˈnaʊns/",
+      "translation": "公开指责",
+      "sentence": "He denounced the Nazis",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-de-say-depict",
       "word": "depict",
       "display": "Depict",
-      "phonetic": "",
-      "translation": "\u63cf\u8ff0",
-      "sentence": "",
+      "phonetic": "/dɪˈpɪkt/",
+      "translation": "描述",
+      "sentence": "This scene depicts country life",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-de>d-de-say",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

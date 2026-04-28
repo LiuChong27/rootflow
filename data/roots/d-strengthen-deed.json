@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-strengthen-deed",
-  "root": "deed\u884c\u52a8",
+  "root": "deed行动",
   "meaning": "deed",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "行动",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-strengthen-deed",
       "word": "deed",
       "display": "Deed",
-      "phonetic": "",
-      "translation": "\u884c\u52a8",
-      "sentence": "",
+      "phonetic": "/diːd/",
+      "translation": "行动",
+      "sentence": "he signed the deed",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-strengthen-deed-debt",
       "word": "debt",
       "display": "Debt",
-      "phonetic": "",
-      "translation": "\u503a\u52a1",
-      "sentence": "",
+      "phonetic": "/dɛt/",
+      "translation": "债务",
+      "sentence": "he is badly in debt",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-strengthen-deed-decade",
       "word": "decade",
       "display": "Decade",
-      "phonetic": "",
-      "translation": "\u5341\u5e74",
-      "sentence": "",
+      "phonetic": "/ˈdɛkeɪd/",
+      "translation": "十年",
+      "sentence": "A decade is a period of 10 years.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-strengthen-deed-decay",
       "word": "decay",
       "display": "Decay",
-      "phonetic": "",
-      "translation": "\u8150\u673d",
-      "sentence": "",
+      "phonetic": "/dɪˈkeɪ/",
+      "translation": "腐朽",
+      "sentence": "the corpse was in an advanced state of decay",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-strengthen-deed-december",
       "word": "december",
       "display": "December",
-      "phonetic": "",
-      "translation": "\u5341\u4e8c\u6708",
-      "sentence": "",
+      "phonetic": "/dɪˈsɛmbər/",
+      "translation": "十二月",
+      "sentence": "A december is the last (12th) month of the year.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-strengthen-deed-decent",
       "word": "decent",
       "display": "Decent",
-      "phonetic": "",
-      "translation": "\u4f53\u9762\u7684\uff1b\u5408\u9002\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdisənt/",
+      "translation": "体面的；合适的",
+      "sentence": "from a decent family",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-strengthen-deed-decimal",
       "word": "decimal",
       "display": "Decimal",
-      "phonetic": "",
-      "translation": "\u5341\u8fdb\u5236\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɛsəməl/",
+      "translation": "十进制的",
+      "sentence": "the decimal system",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-strengthen-deed-decision",
       "word": "decision",
       "display": "Decision",
-      "phonetic": "",
-      "translation": "\u51b3\u5b9a",
-      "sentence": "",
+      "phonetic": "/dɪˈsɪʒən/",
+      "translation": "决定",
+      "sentence": "the burden of decision was his",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-strengthen-deed-decisive",
       "word": "decisive",
       "display": "Decisive",
-      "phonetic": "",
-      "translation": "\u51b3\u5b9a\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈsaɪsɪv/",
+      "translation": "决定性的",
+      "sentence": "cast the decisive vote",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-strengthen-deed-deck",
       "word": "deck",
       "display": "Deck",
-      "phonetic": "",
-      "translation": "\u7532\u677f",
-      "sentence": "",
+      "phonetic": "/dɛk/",
+      "translation": "甲板",
+      "sentence": "deck the halls with holly",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-strengthen-deed-decorate",
       "word": "decorate",
       "display": "Decorate",
-      "phonetic": "",
-      "translation": "\u88c5\u9970",
-      "sentence": "",
+      "phonetic": "/ˈdɛkərˌeɪt/",
+      "translation": "装饰",
+      "sentence": "Decorate the room for the party",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-strengthen-deed-deem",
       "word": "deem",
       "display": "Deem",
-      "phonetic": "",
-      "translation": "\u6df1\u4fe1\uff1b\u8ba4\u4e3a",
-      "sentence": "",
+      "phonetic": "/diːm/",
+      "translation": "深信；认为",
+      "sentence": "take for granted",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-strengthen-deed-deep",
       "word": "deep",
       "display": "Deep",
-      "phonetic": "",
-      "translation": "\u6df1\u7684\uff1b\u6df1\u5965\u7684",
-      "sentence": "",
+      "phonetic": "/diːp/",
+      "translation": "深的；深奥的",
+      "sentence": "in the deep of night",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "d-strengthen-deed-defeat",
       "word": "defeat",
       "display": "Defeat",
-      "phonetic": "",
-      "translation": "\u51fb\u8d25",
-      "sentence": "",
+      "phonetic": "/dɪˈfit/",
+      "translation": "击败",
+      "sentence": "it was a narrow defeat",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "d-strengthen-deed-defence",
       "word": "defence",
       "display": "Defence",
-      "phonetic": "",
-      "translation": "\u9632\u5fa1",
-      "sentence": "",
+      "phonetic": "/dɪˈfɛns/",
+      "translation": "防御",
+      "sentence": "his teams are always good on defense",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "d-strengthen-deed-defend",
       "word": "defend",
       "display": "Defend",
-      "phonetic": "",
-      "translation": "\u9632\u5b88\uff1b\u4fdd\u536b",
-      "sentence": "",
+      "phonetic": "/dɪˈfɛnd/",
+      "translation": "防守；保卫",
+      "sentence": "Ms. Smith will represent the defendant",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "d-strengthen-deed-definite",
       "word": "definite",
       "display": "Definite",
-      "phonetic": "",
-      "translation": "\u786e\u5b9a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɛfənət/",
+      "translation": "确定的",
+      "sentence": "I want a definite answer",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "d-strengthen-deed-definition",
       "word": "definition",
       "display": "Definition",
-      "phonetic": "",
-      "translation": "\u5b9a\u4e49",
-      "sentence": "",
+      "phonetic": "/ˌdɛfəˈnɪʃən/",
+      "translation": "定义",
+      "sentence": "exercise had given his muscles superior definition",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "d-strengthen-deed-defy",
       "word": "defy",
       "display": "Defy",
-      "phonetic": "",
-      "translation": "\u8fdd\u6297\uff1b\u8511\u89c6",
-      "sentence": "",
+      "phonetic": "/dɪˈfaɪ/",
+      "translation": "违抗；蔑视",
+      "sentence": "The politician defied public opinion",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "d-strengthen-deed-deliberate",
       "word": "deliberate",
       "display": "Deliberate",
-      "phonetic": "",
-      "translation": "\u6df1\u601d\u719f\u8651\u7684\uff1b\u6545\u610f\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈlɪbərˌeɪt/",
+      "translation": "深思熟虑的；故意的",
+      "sentence": "with all deliberate speed",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "d-strengthen-deed-delicate",
       "word": "delicate",
       "display": "Delicate",
-      "phonetic": "",
-      "translation": "\u7cbe\u81f4\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɛləkət/",
+      "translation": "精致的",
+      "sentence": "a delicate violin passage",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "d-strengthen-deed-delicious",
       "word": "delicious",
       "display": "Delicious",
-      "phonetic": "",
-      "translation": "\u7f8e\u5473\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈlɪʃəs/",
+      "translation": "美味的",
+      "sentence": "a delicious joke",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "d-strengthen-deed-delight",
       "word": "delight",
       "display": "Delight",
-      "phonetic": "",
-      "translation": "\u9ad8\u5174",
-      "sentence": "",
+      "phonetic": "/dɪˈlaɪt/",
+      "translation": "高兴",
+      "sentence": "his delight to see her was obvious to all",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "d-strengthen-deed-demand",
       "word": "demand",
       "display": "Demand",
-      "phonetic": "",
-      "translation": "\u8981\u6c42",
-      "sentence": "",
+      "phonetic": "/dɪˈmænd/",
+      "translation": "要求",
+      "sentence": "his demands for attention were unceasing",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "d-strengthen-deed-denote",
       "word": "denote",
       "display": "Denote",
-      "phonetic": "",
-      "translation": "\u8868\u793a\uff1b\u610f\u5473\u7740",
-      "sentence": "",
+      "phonetic": "/dɪˈnoʊt/",
+      "translation": "表示；意味着",
+      "sentence": "Her smile denoted that she agreed",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "d-strengthen-deed-dense",
       "word": "dense",
       "display": "Dense",
-      "phonetic": "",
-      "translation": "\u6d53\u5bc6",
-      "sentence": "",
+      "phonetic": "/dɛns/",
+      "translation": "浓密",
+      "sentence": "dense smoke",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "d-strengthen-deed-depend",
       "word": "depend",
       "display": "Depend",
-      "phonetic": "",
-      "translation": "\u4f9d\u9760",
-      "sentence": "",
+      "phonetic": "/dɪˈpɛnd/",
+      "translation": "依靠",
+      "sentence": "That depends",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "d-strengthen-deed-dependent",
       "word": "dependent",
       "display": "Dependent",
-      "phonetic": "",
-      "translation": "\u4f9d\u9760\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈpɛndənt/",
+      "translation": "依靠的",
+      "sentence": "dependent children",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "d-strengthen-deed-deposit",
       "word": "deposit",
       "display": "Deposit",
-      "phonetic": "",
-      "translation": "\u5b58\u653e",
-      "sentence": "",
+      "phonetic": "/dɪˈpɑzət/",
+      "translation": "存放",
+      "sentence": "his deposit was refunded when he returned the car",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "d-strengthen-deed-deputy",
       "word": "deputy",
       "display": "Deputy",
-      "phonetic": "",
-      "translation": "\u4ee3\u8868\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈdɛpjəti/",
+      "translation": "代表人",
+      "sentence": "A deputy is someone authorized to exercise the powers of sheriff in emergencies.",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "d-strengthen-deed-derive",
       "word": "derive",
       "display": "Derive",
-      "phonetic": "",
-      "translation": "\u53d6\u5f97\uff1b\u6e90\u4e8e",
-      "sentence": "",
+      "phonetic": "/dəraɪv/",
+      "translation": "取得；源于",
+      "sentence": "derive pleasure from one's garden",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "d-strengthen-deed-descent",
       "word": "descent",
       "display": "Descent",
-      "phonetic": "",
-      "translation": "\u4e0b\u964d",
-      "sentence": "",
+      "phonetic": "/dɪˈsɛnt/",
+      "translation": "下降",
+      "sentence": "he comes from good origins",
       "tags": [
         "root-family"
       ],
@@ -395,5 +395,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-strengthen>d-strengthen-deed",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

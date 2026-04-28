@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-dit-don-dow",
-  "root": "dit don dow do dot dat give\u7ed9",
+  "root": "dit don dow do dot dat give给",
   "meaning": "give",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "给",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-dit-don-dow-antidote",
       "word": "antidote",
       "display": "Antidote",
-      "phonetic": "",
-      "translation": "\u89e3\u6bd2\u5242",
-      "sentence": "",
+      "phonetic": "/ˈænɪˌdoʊt/",
+      "translation": "解毒剂",
+      "sentence": "An antidote is a remedy that stops or controls the effects of a poison.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-dit-don-dow-condonation",
       "word": "condonation",
       "display": "Condonation",
-      "phonetic": "",
-      "translation": "\u8d4e\u7f6a\uff1b\u8d4e\u6106",
-      "sentence": "",
+      "phonetic": "/kˌɑndʌnˈeɪʃʌn/",
+      "translation": "赎罪；赎愆",
+      "sentence": "A condonation is a pardon by treating the offender as if the offense had not occurred.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-dit-don-dow-condone",
       "word": "condone",
       "display": "Condone",
-      "phonetic": "",
-      "translation": "\u539f\u8c05\uff1b\u5bbd\u6055",
-      "sentence": "",
+      "phonetic": "/kənˈdoʊn/",
+      "translation": "原谅；宽恕",
+      "sentence": "She condoned her husband's occasional infidelities",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-dit-don-dow-data",
       "word": "data",
       "display": "Data",
-      "phonetic": "",
-      "translation": "\u6570\u636e\uff08\u590d\u6570\u5f62\u5f0f\uff09",
-      "sentence": "",
+      "phonetic": "/ˈdætə/",
+      "translation": "数据（复数形式）",
+      "sentence": "statistical data",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-dit-don-dow-datum",
       "word": "datum",
       "display": "Datum",
-      "phonetic": "",
-      "translation": "\u8d44\u6599\uff1b\u8bba\u636e",
-      "sentence": "",
+      "phonetic": "/ˈdætəm/",
+      "translation": "资料；论据",
+      "sentence": "A datum is an item of factual information derived from measurement or research.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-dit-don-dow-delegate",
       "word": "delegate",
       "display": "Delegate",
-      "phonetic": "",
-      "translation": "\u4ee3\u8868\uff1b\u6388\u6743\uff08\u5411\u4e0b\u9881\u53d1\uff09",
-      "sentence": "",
+      "phonetic": "/ˈdɛləˌgeɪt/",
+      "translation": "代表；授权（向下颁发）",
+      "sentence": "A delegate is a person appointed or elected to represent others.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-dit-don-dow-deliver",
       "word": "deliver",
       "display": "Deliver",
-      "phonetic": "",
-      "translation": "\u4ea4\u4ed8\uff1b\u4f20\u9012\uff1b\u5206\u5a29",
-      "sentence": "",
+      "phonetic": "/dɪˈlɪvər/",
+      "translation": "交付；传递；分娩",
+      "sentence": "our local super market delivers",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-dit-don-dow-delivery",
       "word": "delivery",
       "display": "Delivery",
-      "phonetic": "",
-      "translation": "\u9012\u9001",
-      "sentence": "",
+      "phonetic": "/dɪˈlɪvəri/",
+      "translation": "递送",
+      "sentence": "his reluctant delivery of bad news",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-dit-don-dow-donate",
       "word": "donate",
       "display": "Donate",
-      "phonetic": "",
-      "translation": "\u6350\u8d60",
-      "sentence": "",
+      "phonetic": "/ˈdoʊˌneɪt/",
+      "translation": "捐赠",
+      "sentence": "I donated blood to the Red Cross for the victims of the earthquake",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-dit-don-dow-donation",
       "word": "donation",
       "display": "Donation",
-      "phonetic": "",
-      "translation": "\u6350\u8d60\u54c1\uff1b\u6350\u6b3e",
-      "sentence": "",
+      "phonetic": "/doʊˈneɪʃən/",
+      "translation": "捐赠品；捐款",
+      "sentence": "A donation is a voluntary gift (as of money or service or ideas) made to some worthwhile cause.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-dit-don-dow-donee",
       "word": "donee",
       "display": "Donee",
-      "phonetic": "",
-      "translation": "\u53d7\u8d60\u8005",
-      "sentence": "",
+      "phonetic": "/dˈoʊni/",
+      "translation": "受赠者",
+      "sentence": "A donee is the recipient of funds or other benefits.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-dit-don-dow-donor",
       "word": "donor",
       "display": "Donor",
-      "phonetic": "",
-      "translation": "\u6350\u8d60\u8005",
-      "sentence": "",
+      "phonetic": "/ˈdoʊnər/",
+      "translation": "捐赠者",
+      "sentence": "A donor is person who makes a gift of property.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-dit-don-dow-dose",
       "word": "dose",
       "display": "Dose",
-      "phonetic": "",
-      "translation": "\u8ba1\u91cf",
-      "sentence": "",
+      "phonetic": "/doʊs/",
+      "translation": "计量",
+      "sentence": "The ray dosed the paint",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "d-dit-don-dow-dot",
       "word": "dot",
       "display": "Dot",
-      "phonetic": "",
-      "translation": "\u5ac1\u5986",
-      "sentence": "",
+      "phonetic": "/dɑt/",
+      "translation": "嫁妆",
+      "sentence": "draw lines between the dots",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "d-dit-don-dow-dowager",
       "word": "dowager",
       "display": "Dowager",
-      "phonetic": "",
-      "translation": "\u7ee7\u627f\u9057\u4ea7",
-      "sentence": "",
+      "phonetic": "/ˈdaʊəʤər/",
+      "translation": "继承遗产",
+      "sentence": "A dowager is a widow holding property received from her deceased husband.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "d-dit-don-dow-dower",
       "word": "dower",
       "display": "Dower",
-      "phonetic": "",
-      "translation": "\u5ac1\u5986",
-      "sentence": "",
+      "phonetic": "/daʊr/",
+      "translation": "嫁妆",
+      "sentence": "When she got married, she got dowered",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "d-dit-don-dow-dowry",
       "word": "dowry",
       "display": "Dowry",
-      "phonetic": "",
-      "translation": "\u5ac1\u5986\uff1b\u5929\u8d44",
-      "sentence": "",
+      "phonetic": "/ˈdaʊri/",
+      "translation": "嫁妆；天资",
+      "sentence": "A dowry is money or property brought by a woman to her husband at marriage.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "d-dit-don-dow-edit",
       "word": "edit",
       "display": "Edit",
-      "phonetic": "",
-      "translation": "\u7f16\u8f91\uff1b\u526a\u8f91",
-      "sentence": "",
+      "phonetic": "/ˈɛdət/",
+      "translation": "编辑；剪辑",
+      "sentence": "Edit a book on lexical semantics",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "d-dit-don-dow-editor",
       "word": "editor",
       "display": "Editor",
-      "phonetic": "",
-      "translation": "\u7f16\u8005\uff1b\u7f16\u8f91\u5668",
-      "sentence": "",
+      "phonetic": "/ˈɛdɪtər/",
+      "translation": "编者；编辑器",
+      "sentence": "An editor is a person responsible for the editorial aspects of publication; the person who determines the final content of a text (especially of a newspaper or magazine).",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "d-dit-don-dow-editorial",
       "word": "editorial",
       "display": "Editorial",
-      "phonetic": "",
-      "translation": "\u793e\u8bba\uff1b\u7f16\u8f91\u4e0a\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɛdəˈtɔriəl/",
+      "translation": "社论；编辑上的",
+      "sentence": "editorial column",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "d-dit-don-dow-editorship",
       "word": "editorship",
       "display": "Editorship",
-      "phonetic": "",
-      "translation": "\u7f16\u8f91\u5de5\u4f5c",
-      "sentence": "",
+      "phonetic": "/ˈɛdətərˌʃɪp/",
+      "translation": "编辑工作",
+      "sentence": "An editorship is the position of editor.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "d-dit-don-dow-endow",
       "word": "endow",
       "display": "Endow",
-      "phonetic": "",
-      "translation": "\u6350\u8d60\uff1b\u7ed9\u4e88",
-      "sentence": "",
+      "phonetic": "/ɛnˈdaʊ/",
+      "translation": "捐赠；给予",
+      "sentence": "When she got married, she got dowered",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "d-dit-don-dow-extradite",
       "word": "extradite",
       "display": "Extradite",
-      "phonetic": "",
-      "translation": "\u5f15\u6e21",
-      "sentence": "",
+      "phonetic": "/ˈɛkstrəˌdaɪt/",
+      "translation": "引渡",
+      "sentence": "They extradited the fugitive to his native country so he could be tried there",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "d-dit-don-dow-pardon",
       "word": "pardon",
       "display": "Pardon",
-      "phonetic": "",
-      "translation": "\u539f\u8c05\uff1b\u5bbd\u6055",
-      "sentence": "",
+      "phonetic": "/ˈpɑrdən/",
+      "translation": "原谅；宽恕",
+      "sentence": "Ford pardoned Nixon",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "d-dit-don-dow-subeditor",
       "word": "subeditor",
       "display": "Subeditor",
-      "phonetic": "",
-      "translation": "\u526f\u4e3b\u7f16",
-      "sentence": "",
+      "phonetic": "/sʌbˈɛdʌtˌɔri/",
+      "translation": "副主编",
+      "sentence": "A subeditor is an assistant editor.",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "d-dit-don-dow-tradition",
       "word": "tradition",
       "display": "Tradition",
-      "phonetic": "",
-      "translation": "\u4f20\u7edf\uff1b\u7ba1\u7406",
-      "sentence": "",
+      "phonetic": "/trəˈdɪʃən/",
+      "translation": "传统；管理",
+      "sentence": "A tradition is an inherited pattern of thought or action.",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "d-dit-don-dow-traditional",
       "word": "traditional",
       "display": "Traditional",
-      "phonetic": "",
-      "translation": "\u4f20\u7edf\u7684\uff1b\u60ef\u4f8b\u7684",
-      "sentence": "",
+      "phonetic": "/trəˈdɪʃənəl/",
+      "translation": "传统的；惯例的",
+      "sentence": "traditional history",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "d-dit-don-dow-traditionally",
       "word": "traditionally",
       "display": "Traditionally",
-      "phonetic": "",
-      "translation": "\u4f20\u7edf\u7684",
-      "sentence": "",
+      "phonetic": "/trəˈdɪʃənəli/",
+      "translation": "传统的",
+      "sentence": "traditionally, we eat fried foods on Hanukah",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "d-dit-don-dow-traditionist",
       "word": "traditionist",
       "display": "Traditionist",
-      "phonetic": "",
-      "translation": "\u4f20\u7edf\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/trʌdˈɪʃʌnʌst/",
+      "translation": "传统主义者",
+      "sentence": "Traditionist is used here with the sense of \"传统主义者\".",
       "tags": [
         "root-family"
       ],
@@ -359,5 +359,6 @@
   "rootLevel": 2,
   "rootPath": "d>d-dit-don-dow",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

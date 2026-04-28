@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cur-cursive",
-  "root": "cursive\u7c97\u7565\u7684\uff1b\u8349\u7387\u7684",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "cursive粗略的；草率的",
+  "meaning": "cursive",
+  "descriptionCn": "粗略的；草率的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cur-cursive",
       "word": "cursive",
       "display": "Cursive",
-      "phonetic": "",
-      "translation": "\u7c97\u7565\u7684\uff1b\u8349\u7387\u7684",
-      "sentence": "",
+      "phonetic": "/kˈɚsɪv/",
+      "translation": "粗略的；草率的",
+      "sentence": "cursive script",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-cur>c-cur-cursive",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

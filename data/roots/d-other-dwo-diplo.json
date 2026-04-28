@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-dwo-diplo",
-  "root": "diplo \u4e24\u4e2a\uff08\u751f\u7269\u4e0a\uff09",
+  "root": "diplo 两个（生物上）",
   "meaning": "diplo",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "两个（生物上）",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-dwo-diplo-diplegia",
       "word": "diplegia",
       "display": "Diplegia",
-      "phonetic": "",
-      "translation": "\u53cc\u4fa7\u762b\u75ea",
-      "sentence": "",
+      "phonetic": "/dɪplˈidʒʌ/",
+      "translation": "双侧瘫痪",
+      "sentence": "A diplegia is paralysis of corresponding parts on both sides of the body.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-dwo-diplo-diploblastic",
       "word": "diploblastic",
       "display": "Diploblastic",
-      "phonetic": "",
-      "translation": "\u53cc\u80da\u5c42\u7684\uff08blast\u80da\u82bd\uff09",
-      "sentence": "",
+      "phonetic": "/dˌɪplʌbˈɛktʌlɪs/",
+      "translation": "双胚层的（blast胚芽）",
+      "sentence": "Diploblastic is used here with the sense of \"双胚层的（blast胚芽）\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-dwo-diplo-diploid",
       "word": "diploid",
       "display": "Diploid",
-      "phonetic": "",
-      "translation": "\u53cc\u500d\u7684\uff1b\u591a\u500d\u4f53",
-      "sentence": "",
+      "phonetic": "/dˈɪplˌɔɪd/",
+      "translation": "双倍的；多倍体",
+      "sentence": "diploid somatic cells",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 4,
   "rootPath": "d>d-other>d-other-dwo>d-other-dwo-diplo",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

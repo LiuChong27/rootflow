@@ -3,16 +3,16 @@
   "rootId": "anti",
   "root": "anti-",
   "meaning": "against",
-  "descriptionCn": "\u76f8\u53cd\uff1b\u5bf9\u6297",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "相反；对抗",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "antiaging",
       "word": "antiaging",
       "display": "Antiaging",
-      "phonetic": "",
-      "translation": "\u9632\u8870\u8001",
-      "sentence": "",
+      "phonetic": "/ˈæntidʒɪŋ/",
+      "translation": "防衰老",
+      "sentence": "Antiaging is used here with the sense of \"防衰老\".",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "antiaircraft",
       "word": "antiaircraft",
       "display": "Antiaircraft",
-      "phonetic": "",
-      "translation": "\u9632\u7a7a",
-      "sentence": "",
+      "phonetic": "/ˌæntaɪˈɛrˌkræft/",
+      "translation": "防空",
+      "sentence": "An antiaircraft is artillery designed to shoot upward at airplanes.",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "antibiotic",
       "word": "antibiotic",
       "display": "Antibiotic",
-      "phonetic": "",
-      "translation": "\u6297\u751f\u7d20",
-      "sentence": "",
+      "phonetic": "/ˌæntibaɪˈɑtɪk/",
+      "translation": "抗生素",
+      "sentence": "when antibiotics were first discovered they were called wonder drugs",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "antibody",
       "word": "antibody",
       "display": "Antibody",
-      "phonetic": "",
-      "translation": "\u6297\u4f53",
-      "sentence": "",
+      "phonetic": "/ˈæntɪˌbɑdi/",
+      "translation": "抗体",
+      "sentence": "An antibody is any of a large variety of proteins normally present in the body or produced in response to an antigen which it neutralizes, thus producing an immune response.",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "antifat",
       "word": "antifat",
       "display": "Antifat",
-      "phonetic": "",
-      "translation": "\u51cf\u80a5\u7684\uff1b\u9632\u6b62\u957f\u80d6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæntifˌæt/",
+      "translation": "减肥的；防止长胖的",
+      "sentence": "Antifat is used here with the sense of \"减肥的；防止长胖的\".",
       "tags": [
         "root-family",
         "other"
@@ -76,5 +76,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-prefix>anti",
   "type": "prefix",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acknowledge",
   "root": "acknowledge",
-  "meaning": "",
-  "descriptionCn": "\u7b54\u8c22\uff1b\u627f\u8ba4",
-  "updatedAt": "2026-04-15",
+  "meaning": "acknowledge family",
+  "descriptionCn": "答谢；承认",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acknowledge-acknowledge-2",
       "word": "acknowledge",
       "display": "Acknowledge",
-      "phonetic": "",
-      "translation": "\u7b54\u8c22\uff1b\u627f\u8ba4",
-      "sentence": "",
+      "phonetic": "/ækˈnɑlɪʤ/",
+      "translation": "答谢；承认",
+      "sentence": "She acknowledged that she might have forgotten",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acknowledge",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

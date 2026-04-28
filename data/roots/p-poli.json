@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-poli",
-  "root": "poli=polit=polis \u56fd\u5bb6\u57ce\u5e02",
+  "root": "poli=polit=polis 国家城市",
   "meaning": "city, state",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "国家城市",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-poli-cosmopolis",
       "word": "cosmopolis",
       "display": "Cosmopolis",
-      "phonetic": "",
-      "translation": "\u56fd\u9645\u90fd\u5e02",
-      "sentence": "",
+      "phonetic": "/kˌɔzmoʊpˈɑlʌs/",
+      "translation": "国际都市",
+      "sentence": "Cosmopolis is used here with the sense of \"国际都市\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-poli-impolitic",
       "word": "impolitic",
       "display": "Impolitic",
-      "phonetic": "",
-      "translation": "\u5931\u7b56\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmpɔˈlɪˌtɪk/",
+      "translation": "失策的",
+      "sentence": "an impolitic approach to a sensitive issue",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-poli-megalopolis",
       "word": "megalopolis",
       "display": "Megalopolis",
-      "phonetic": "",
-      "translation": "\u7279\u5927\u57ce\u5e02",
-      "sentence": "",
+      "phonetic": "/ˌmɛgəˈlɑpələs/",
+      "translation": "特大城市",
+      "sentence": "A megalopolis is a very large urban complex (usually involving several cities and towns).",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-poli-metropolitan",
       "word": "metropolitan",
       "display": "Metropolitan",
-      "phonetic": "",
-      "translation": "\u9996\u90fd\u7684",
-      "sentence": "",
+      "phonetic": "/ˌmɛtrəˈpɑlətən/",
+      "translation": "首都的",
+      "sentence": "metropolitan area",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-poli-police",
       "word": "police",
       "display": "Police",
-      "phonetic": "",
-      "translation": "\u8b66\u5bdf",
-      "sentence": "",
+      "phonetic": "/pəˈlis/",
+      "translation": "警察",
+      "sentence": "the law came looking for him",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-poli-policy",
       "word": "policy",
       "display": "Policy",
-      "phonetic": "",
-      "translation": "\u653f\u7b56\uff1b\u65b9\u9488",
-      "sentence": "",
+      "phonetic": "/ˈpɑləsi/",
+      "translation": "政策；方针",
+      "sentence": "it was a policy of retribution",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-poli-politic",
       "word": "politic",
       "display": "Politic",
-      "phonetic": "",
-      "translation": "\u7cbe\u660e\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɑləˌtɪk/",
+      "translation": "精明的",
+      "sentence": "it is neither polite nor politic to get into other people's quarrels",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-poli-political",
       "word": "political",
       "display": "Political",
-      "phonetic": "",
-      "translation": "\u653f\u6cbb\u7684",
-      "sentence": "",
+      "phonetic": "/pəˈlɪtɪkəl/",
+      "translation": "政治的",
+      "sentence": "calling a meeting is a political act in itself",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-poli-politician",
       "word": "politician",
       "display": "Politician",
-      "phonetic": "",
-      "translation": "\u653f\u6cbb\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˌpɑləˈtɪʃən/",
+      "translation": "政治家",
+      "sentence": "A politician is a leader engaged in civil administration.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-poli-politicize",
       "word": "politicize",
       "display": "Politicize",
-      "phonetic": "",
-      "translation": "\u4ece\u4e8b\u653f\u6cbb",
-      "sentence": "",
+      "phonetic": "/pəˈlɪtɪˌsaɪz/",
+      "translation": "从事政治",
+      "sentence": "politicize the discussion",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-poli-polity",
       "word": "polity",
       "display": "Polity",
-      "phonetic": "",
-      "translation": "\u653f\u4f53\uff1b\u56fd\u5bb6\u7ec4\u7ec7",
-      "sentence": "",
+      "phonetic": "/ˈpɑləti/",
+      "translation": "政体；国家组织",
+      "sentence": "we was innocent of stratagems and polity",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-poli",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

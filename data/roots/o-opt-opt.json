@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-opt-opt",
-  "root": "opt\u9009\u62e9",
+  "root": "opt选择",
   "meaning": "choose",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "选择",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-opt-opt-adopt",
       "word": "adopt",
       "display": "Adopt",
-      "phonetic": "",
-      "translation": "\u91c7\u7eb3",
-      "sentence": "",
+      "phonetic": "/əˈdɑpt/",
+      "translation": "采纳",
+      "sentence": "he adopted an air of superiority",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-opt-opt-adopter",
       "word": "adopter",
       "display": "Adopter",
-      "phonetic": "",
-      "translation": "\u517b\u7236\u517b\u6bcd",
-      "sentence": "",
+      "phonetic": "/əˈdɑptər/",
+      "translation": "养父养母",
+      "sentence": "An adopter is a person who adopts a child of other parents as his or her own child.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-opt-opt-adoption",
       "word": "adoption",
       "display": "Adoption",
-      "phonetic": "",
-      "translation": "\u6536\u517b",
-      "sentence": "",
+      "phonetic": "/əˈdɑpʃən/",
+      "translation": "收养",
+      "sentence": "its adoption by society",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-opt-opt-optative",
       "word": "optative",
       "display": "Optative",
-      "phonetic": "",
-      "translation": "\u7948\u613f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɑptʌtɪv/",
+      "translation": "祈愿的",
+      "sentence": "optative verb endings",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "o>o-opt>o-opt-opt",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

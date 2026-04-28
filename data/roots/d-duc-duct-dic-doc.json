@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-duc-duct-dic-doc",
-  "root": "dic doc teach\u6559",
+  "root": "dic doc teach教",
   "meaning": "teach",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "教",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-duc-duct-dic-doc-didactic",
       "word": "didactic",
       "display": "Didactic",
-      "phonetic": "",
-      "translation": "\u8bf4\u6559\u7684\uff1b\u6559\u8bf2\u7684",
-      "sentence": "",
+      "phonetic": "/daɪˈdæktɪk/",
+      "translation": "说教的；教诲的",
+      "sentence": "If something is didactic, it is instructive (especially excessively).",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-duc-duct-dic-doc-disciple",
       "word": "disciple",
       "display": "Disciple",
-      "phonetic": "",
-      "translation": "\u5f1f\u5b50\uff1b\u5b66\u751f",
-      "sentence": "",
+      "phonetic": "/dɪˈsaɪpəl/",
+      "translation": "弟子；学生",
+      "sentence": "A disciple is someone who believes and helps to spread the doctrine of another.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-duc-duct-dic-doc-discipline",
       "word": "discipline",
       "display": "Discipline",
-      "phonetic": "",
-      "translation": "\u7eaa\u5f8b\uff1b\u5b66\u79d1",
-      "sentence": "",
+      "phonetic": "/ˈdɪsəplən/",
+      "translation": "纪律；学科",
+      "sentence": "in what discipline is his doctorate?",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-duc-duct-dic-doc-docent",
       "word": "docent",
       "display": "Docent",
-      "phonetic": "",
-      "translation": "\u8bb2\u5e08\uff1b\u5bfc\u6e38",
-      "sentence": "",
+      "phonetic": "/ˈdoʊsənt/",
+      "translation": "讲师；导游",
+      "sentence": "A docent is a teacher at some universities.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-duc-duct-dic-doc-docile",
       "word": "docile",
       "display": "Docile",
-      "phonetic": "",
-      "translation": "\u542c\u8bdd\u7684\uff1b\u6e29\u987a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɑsəl/",
+      "translation": "听话的；温顺的",
+      "sentence": "the docile masses of an enslaved nation",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-duc-duct-dic-doc-doctor",
       "word": "doctor",
       "display": "Doctor",
-      "phonetic": "",
-      "translation": "\u535a\u58eb\uff1b\u533b\u751f\uff1b\u4fee\u8865\uff1b\u4e32\u6539",
-      "sentence": "",
+      "phonetic": "/ˈdɔktər/",
+      "translation": "博士；医生；修补；串改",
+      "sentence": "I felt so bad I went to see my doctor",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-duc-duct-dic-doc-doctoral",
       "word": "doctoral",
       "display": "Doctoral",
-      "phonetic": "",
-      "translation": "\u535a\u58eb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɑktərəl/",
+      "translation": "博士的",
+      "sentence": "doctoral dissertation",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-duc-duct-dic-doc-document",
       "word": "document",
       "display": "Document",
-      "phonetic": "",
-      "translation": "\u6587\u4ef6",
-      "sentence": "",
+      "phonetic": "/ˈdɑkjəmɛnt/",
+      "translation": "文件",
+      "sentence": "The parents documented every step of their child's development",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-duc-duct-dic-doc-documentary",
       "word": "documentary",
       "display": "Documentary",
-      "phonetic": "",
-      "translation": "\u7eaa\u5f55\u7247",
-      "sentence": "",
+      "phonetic": "/ˌdɑkjəˈmɛnəri/",
+      "translation": "纪录片",
+      "sentence": "objective art",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-duc-duct-dic-doc-indoctrinate",
       "word": "indoctrinate",
       "display": "Indoctrinate",
-      "phonetic": "",
-      "translation": "\u6559\u6388",
-      "sentence": "",
+      "phonetic": "/ɪndˈɑktrʌnʌt/",
+      "translation": "教授",
+      "sentence": "The Moonies indoctrinate their disciples",
       "tags": [
         "root-family"
       ],
@@ -131,5 +131,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-duc-duct>d-duc-duct-dic-doc",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

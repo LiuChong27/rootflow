@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ally",
   "root": "ally",
-  "meaning": "",
-  "descriptionCn": "\u540c\u76df",
-  "updatedAt": "2026-04-15",
+  "meaning": "ally family",
+  "descriptionCn": "同盟",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ally-ally-2",
       "word": "ally",
       "display": "Ally",
-      "phonetic": "",
-      "translation": "\u540c\u76df",
-      "sentence": "",
+      "phonetic": "/ˈælaɪ/",
+      "translation": "同盟",
+      "sentence": "he's a good ally in fight",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance>ally",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

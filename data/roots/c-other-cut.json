@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-cut",
-  "root": "c-other-cut",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "cut",
+  "meaning": "cut family",
+  "descriptionCn": "cut 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-cut-accident",
       "word": "accident",
       "display": "Accident",
-      "phonetic": "",
-      "translation": "\u4e8b\u6545",
-      "sentence": "",
+      "phonetic": "/ˈæksədənt/",
+      "translation": "事故",
+      "sentence": "winning the lottery was a happy accident",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-other-cut-cadence",
       "word": "cadence",
       "display": "Cadence",
-      "phonetic": "",
-      "translation": "\u6291\u626c\u987f\u632b",
-      "sentence": "",
+      "phonetic": "/ˈkeɪdəns/",
+      "translation": "抑扬顿挫",
+      "sentence": "A cadence is (prosody) the accent in a metrical foot of verse.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-other-cut-cascade",
       "word": "cascade",
       "display": "Cascade",
-      "phonetic": "",
-      "translation": "\u7011\u5e03",
-      "sentence": "",
+      "phonetic": "/kæˈskeɪd/",
+      "translation": "瀑布",
+      "sentence": "progressing in severity as though a cascade of genetic damage was occurring",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-other-cut-case",
       "word": "case",
       "display": "Case",
-      "phonetic": "",
-      "translation": "\u4e8b\u4ef6\uff1b\u60c5\u51b5\uff1b\u6848\u4f8b\uff08\u7a81\u7136\u964d\u4e34\u7684\u4e8b\u60c5\uff09",
-      "sentence": "",
+      "phonetic": "/keɪs/",
+      "translation": "事件；情况；案例（突然降临的事情）",
+      "sentence": "it was a case of bad judgment",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-other-cut-casual",
       "word": "casual",
       "display": "Casual",
-      "phonetic": "",
-      "translation": "\u968f\u4fbf\u7684\uff1b\u4e0d\u7ecf\u610f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkæʒəwəl/",
+      "translation": "随便的；不经意的",
+      "sentence": "an ability to interest casual students",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-other-cut-casualty",
       "word": "casualty",
       "display": "Casualty",
-      "phonetic": "",
-      "translation": "\u610f\u5916\u4e8b\u6545\uff1b\u53d7\u5bb3\u8005",
-      "sentence": "",
+      "phonetic": "/ˈkæʒəwəlti/",
+      "translation": "意外事故；受害者",
+      "sentence": "A casualty is someone injured or killed or captured or missing in a military engagement.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-other-cut-catastrophe",
       "word": "catastrophe",
       "display": "Catastrophe",
-      "phonetic": "",
-      "translation": "\u5927\u707e\u96be\uff1b\u7ed3\u5c40",
-      "sentence": "",
+      "phonetic": "/kəˈtæstrəfi/",
+      "translation": "大灾难；结局",
+      "sentence": "lack of funds has resulted in a catastrophe for our school system",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-other-cut-chop",
       "word": "chop",
       "display": "Chop",
-      "phonetic": "",
-      "translation": "\u780d",
-      "sentence": "",
+      "phonetic": "/ʧɑp/",
+      "translation": "砍",
+      "sentence": "the boat headed into the chop",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-other-cut-coincide",
       "word": "coincide",
       "display": "Coincide",
-      "phonetic": "",
-      "translation": "\u521a\u597d\uff1b\u4e00\u81f4",
-      "sentence": "",
+      "phonetic": "/ˌkoʊɪnˈsaɪd/",
+      "translation": "刚好；一致",
+      "sentence": "The two events coincided",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-other-cut-coincidence",
       "word": "coincidence",
       "display": "Coincidence",
-      "phonetic": "",
-      "translation": "\u4e00\u81f4\uff1b\u7b26\u5408\uff1b\u91cd\u5408",
-      "sentence": "",
+      "phonetic": "/koʊˈɪnsɪdəns/",
+      "translation": "一致；符合；重合",
+      "sentence": "he waited for the coincidence of the target and the cross hairs",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-other-cut-cook",
       "word": "cook",
       "display": "Cook",
-      "phonetic": "",
-      "translation": "\u53a8\u5e08",
-      "sentence": "",
+      "phonetic": "/kʊk/",
+      "translation": "厨师",
+      "sentence": "My husband doesn't cook",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-other-cut-court",
       "word": "court",
       "display": "Court",
-      "phonetic": "",
-      "translation": "\u6cd5\u9662",
-      "sentence": "",
+      "phonetic": "/kɔrt/",
+      "translation": "法院",
+      "sentence": "television cameras were admitted in the courtroom",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-other-cut-courtesy",
       "word": "courtesy",
       "display": "Courtesy",
-      "phonetic": "",
-      "translation": "\u6709\u793c\u8c8c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkərtəsi/",
+      "translation": "有礼貌的",
+      "sentence": "A courtesy is a courteous or respectful or considerate act.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-other-cut-courtyard",
       "word": "courtyard",
       "display": "Courtyard",
-      "phonetic": "",
-      "translation": "\u9662\u5b50",
-      "sentence": "",
+      "phonetic": "/ˈkɔrˌtjɑrd/",
+      "translation": "院子",
+      "sentence": "the house was built around an inner court",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-other-cut-crack",
       "word": "crack",
       "display": "Crack",
-      "phonetic": "",
-      "translation": "\u88c2\u7f1d\uff1b\u7f1d\u9699",
-      "sentence": "",
+      "phonetic": "/kræk/",
+      "translation": "裂缝；缝隙",
+      "sentence": "he opened the window a crack",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-other-cut-crisp",
       "word": "crisp",
       "display": "Crisp",
-      "phonetic": "",
-      "translation": "\u8106\u7684",
-      "sentence": "",
+      "phonetic": "/krɪsp/",
+      "translation": "脆的",
+      "sentence": "crisp potatoes",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-other-cut-decay",
       "word": "decay",
       "display": "Decay",
-      "phonetic": "",
-      "translation": "\u8870\u8d25",
-      "sentence": "",
+      "phonetic": "/dɪˈkeɪ/",
+      "translation": "衰败",
+      "sentence": "the corpse was in an advanced state of decay",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-other-cut-deciduous",
       "word": "deciduous",
       "display": "Deciduous",
-      "phonetic": "",
-      "translation": "\u6bcf\u5e74\u843d\u53f6\u7684\uff1b\u975e\u6c38\u4e45\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/ˌdɪˈsɪʤuəs/",
+      "translation": "每年落叶的；非永久性的",
+      "sentence": "deciduous teeth",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "c-other-cut-incidence",
       "word": "incidence",
       "display": "Incidence",
-      "phonetic": "",
-      "translation": "\u53d1\u751f\u7387",
-      "sentence": "",
+      "phonetic": "/ˈɪnsɪdəns/",
+      "translation": "发生率",
+      "sentence": "he measured the angle of incidence of the reflected light",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "c-other-cut-incident",
       "word": "incident",
       "display": "Incident",
-      "phonetic": "",
-      "translation": "\u4e8b\u53d8",
-      "sentence": "",
+      "phonetic": "/ˈɪnsədənt/",
+      "translation": "事变",
+      "sentence": "the police investigated an incident at the bus station",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "c-other-cut-incidental",
       "word": "incidental",
       "display": "Incidental",
-      "phonetic": "",
-      "translation": "\u9644\u5e26\u7684\uff1b\u5076\u7136\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnsɪˈdɛntəl/",
+      "translation": "附带的；偶然的",
+      "sentence": "he requested reimbursement of $7 for incidental expenses",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "c-other-cut-occasion",
       "word": "occasion",
       "display": "Occasion",
-      "phonetic": "",
-      "translation": "\u573a\u5408",
-      "sentence": "",
+      "phonetic": "/əˈkeɪʒən/",
+      "translation": "场合",
+      "sentence": "it was needed only on special occasions",
       "tags": [
         "root-family"
       ],
@@ -274,13 +274,18 @@
       "id": "c-other-cut-occasionally",
       "word": "occasionally",
       "display": "Occasionally",
-      "phonetic": "",
-      "translation": "\u5076\u7136\u6027",
-      "sentence": "",
+      "phonetic": "/ɔˈkeɪʒənəˌli/",
+      "translation": "偶然性",
+      "sentence": "he was arrogant and occasionally callous",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-cut",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

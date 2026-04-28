@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "amatoria",
   "root": "amatoria",
-  "meaning": "",
-  "descriptionCn": "\u597d\u8272\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "amatoria family",
+  "descriptionCn": "好色的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "amatoria-amatoria-2",
       "word": "amatoria",
       "display": "Amatoria",
-      "phonetic": "",
-      "translation": "\u597d\u8272\u7684",
-      "sentence": "",
+      "phonetic": "/ˌæmʌtˈɔriʌ/",
+      "translation": "好色的",
+      "sentence": "The amatoria quickly became part of the discussion.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>am-amor>amatoria",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

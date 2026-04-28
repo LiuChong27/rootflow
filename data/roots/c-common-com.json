@@ -3,16 +3,16 @@
   "rootId": "c-common-com",
   "root": "com",
   "meaning": "com",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "com",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-common-com-comb",
       "word": "comb",
       "display": "Comb",
-      "phonetic": "",
-      "translation": "\u68b3\u5b50",
-      "sentence": "",
+      "phonetic": "/koʊm/",
+      "translation": "梳子",
+      "sentence": "his hair needed a comb",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-common-com-combat",
       "word": "combat",
       "display": "Combat",
-      "phonetic": "",
-      "translation": "\u6218\u6597",
-      "sentence": "",
+      "phonetic": "/ˈkɑmbæt/",
+      "translation": "战斗",
+      "sentence": "The Kurds are combating Iraqi troops in Northern Iraq",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-common-com-combination",
       "word": "combination",
       "display": "Combination",
-      "phonetic": "",
-      "translation": "\u7ed3\u5408\uff1b\u56e2\u4f53",
-      "sentence": "",
+      "phonetic": "/ˌkɑmbəˈneɪʃən/",
+      "translation": "结合；团体",
+      "sentence": "he forgot the combination to the safe",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-common-com-combine",
       "word": "combine",
       "display": "Combine",
-      "phonetic": "",
-      "translation": "\u7ed3\u5408",
-      "sentence": "",
+      "phonetic": "/ˈkɑmbaɪn/",
+      "translation": "结合",
+      "sentence": "combine resources",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-common-com-comedy",
       "word": "comedy",
       "display": "Comedy",
-      "phonetic": "",
-      "translation": "\u559c\u5267",
-      "sentence": "",
+      "phonetic": "/ˈkɑmədi/",
+      "translation": "喜剧",
+      "sentence": "A comedy is light and humorous drama with a happy ending.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-common-com-comfort",
       "word": "comfort",
       "display": "Comfort",
-      "phonetic": "",
-      "translation": "\u8212\u9002\uff1b\u5b89\u9038",
-      "sentence": "",
+      "phonetic": "/ˈkəmfərt/",
+      "translation": "舒适；安逸",
+      "sentence": "he is a man who enjoys his comfort",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-common-com-comfortable",
       "word": "comfortable",
       "display": "Comfortable",
-      "phonetic": "",
-      "translation": "\u8212\u670d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkəmfərtəbəl/",
+      "translation": "舒服的",
+      "sentence": "comfortable clothes",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-common-com-comic",
       "word": "comic",
       "display": "Comic",
-      "phonetic": "",
-      "translation": "\u559c\u5267\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmɪk/",
+      "translation": "喜剧的",
+      "sentence": "a comic hat",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-common-com-command",
       "word": "command",
       "display": "Command",
-      "phonetic": "",
-      "translation": "\u547d\u4ee4",
-      "sentence": "",
+      "phonetic": "/kəˈmænd/",
+      "translation": "命令",
+      "sentence": "an admiral in command",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-common-com-commemorate",
       "word": "commemorate",
       "display": "Commemorate",
-      "phonetic": "",
-      "translation": "\u7eaa\u5ff5\uff1b\u5e86\u795d",
-      "sentence": "",
+      "phonetic": "/kəˈmɛmərˌeɪt/",
+      "translation": "纪念；庆祝",
+      "sentence": "This sculpture commemorates the victims of the concentration camps",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-common-com-commence",
       "word": "commence",
       "display": "Commence",
-      "phonetic": "",
-      "translation": "\u5f00\u59cb",
-      "sentence": "",
+      "phonetic": "/kəˈmɛns/",
+      "translation": "开始",
+      "sentence": "We began working at dawn",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-common-com-commend",
       "word": "commend",
       "display": "Commend",
-      "phonetic": "",
-      "translation": "\u8868\u626c\uff1b\u79f0\u8d5e",
-      "sentence": "",
+      "phonetic": "/kəˈmɛnd/",
+      "translation": "表扬；称赞",
+      "sentence": "His paintings commend him to the artistic world",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-common-com-comment",
       "word": "comment",
       "display": "Comment",
-      "phonetic": "",
-      "translation": "\u610f\u89c1\uff1b\u6ce8\u91ca\uff1b\u8bc4\u8bba",
-      "sentence": "",
+      "phonetic": "/ˈkɑmɛnt/",
+      "translation": "意见；注释；评论",
+      "sentence": "from time to time she contributed a personal comment on his account",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-common-com-commerce",
       "word": "commerce",
       "display": "Commerce",
-      "phonetic": "",
-      "translation": "\u8d38\u6613\uff1b\u4ea4\u5f80",
-      "sentence": "",
+      "phonetic": "/ˈkɑmərs/",
+      "translation": "贸易；交往",
+      "sentence": "A commerce is transactions (sales and purchases) having the objective of supplying commodities (goods and services).",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-common-com-commercial",
       "word": "commercial",
       "display": "Commercial",
-      "phonetic": "",
-      "translation": "\u5546\u4e1a\u7684\uff1b\u5546\u52a1\u7684",
-      "sentence": "",
+      "phonetic": "/kəˈmərʃəl/",
+      "translation": "商业的；商务的",
+      "sentence": "commercial trucker",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-common-com-commission",
       "word": "commission",
       "display": "Commission",
-      "phonetic": "",
-      "translation": "\u5c45\u59d4\u4f1a\uff1b\u59d4\u6258",
-      "sentence": "",
+      "phonetic": "/kəˈmɪʃən/",
+      "translation": "居委会；委托",
+      "sentence": "he works on commission",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-common-com-commit",
       "word": "commit",
       "display": "Commit",
-      "phonetic": "",
-      "translation": "\u4ea4\u7ed9",
-      "sentence": "",
+      "phonetic": "/kəˈmɪt/",
+      "translation": "交给",
+      "sentence": "She committed herself to the work of God",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-common-com-committee",
       "word": "committee",
       "display": "Committee",
-      "phonetic": "",
-      "translation": "\u59d4\u5458\u4f1a",
-      "sentence": "",
+      "phonetic": "/kəˈmɪti/",
+      "translation": "委员会",
+      "sentence": "a committee is a group that keeps minutes and loses hours",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "c-common-com-commodity",
       "word": "commodity",
       "display": "Commodity",
-      "phonetic": "",
-      "translation": "\u65e5\u7528\u54c1",
-      "sentence": "",
+      "phonetic": "/kəˈmɑdəti/",
+      "translation": "日用品",
+      "sentence": "A commodity is articles of commerce.",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "c-common-com-common",
       "word": "common",
       "display": "Common",
-      "phonetic": "",
-      "translation": "\u666e\u901a",
-      "sentence": "",
+      "phonetic": "/ˈkɑmən/",
+      "translation": "普通",
+      "sentence": "for the common good",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "c-common-com-commonplace",
       "word": "commonplace",
       "display": "Commonplace",
-      "phonetic": "",
-      "translation": "\u666e\u901a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmənˌpleɪs/",
+      "translation": "普通的",
+      "sentence": "air travel has now become commonplace",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "c-common-com-commonwealth",
       "word": "commonwealth",
       "display": "Commonwealth",
-      "phonetic": "",
-      "translation": "\u5171\u548c\u56fd",
-      "sentence": "",
+      "phonetic": "/ˈkɑmənˌwɛlθ/",
+      "translation": "共和国",
+      "sentence": "the state has elected a new president",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "c-common-com-communicate",
       "word": "communicate",
       "display": "Communicate",
-      "phonetic": "",
-      "translation": "\u4f20\u8fbe",
-      "sentence": "",
+      "phonetic": "/kəmˈjunəˌkeɪt/",
+      "translation": "传达",
+      "sentence": "Please communicate this message to all employees",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "c-common-com-communication",
       "word": "communication",
       "display": "Communication",
-      "phonetic": "",
-      "translation": "\u901a\u8baf",
-      "sentence": "",
+      "phonetic": "/kəmˌjunəˈkeɪʃən/",
+      "translation": "通讯",
+      "sentence": "they could not act without official communication from Moscow",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "c-common-com-communism",
       "word": "communism",
       "display": "Communism",
-      "phonetic": "",
-      "translation": "\u5171\u4ea7\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈkɑmjəˌnɪzəm/",
+      "translation": "共产主义",
+      "sentence": "A communism is a form of socialism that abolishes private ownership.",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "c-common-com-community",
       "word": "community",
       "display": "Community",
-      "phonetic": "",
-      "translation": "\u5171\u540c\u4f53\uff1b\u5168\u4f53\u5c45\u6c11",
-      "sentence": "",
+      "phonetic": "/kəmˈjunɪti/",
+      "translation": "共同体；全体居民",
+      "sentence": "the team is drawn from all parts of the community",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "c-common-com-commute",
       "word": "commute",
       "display": "Commute",
-      "phonetic": "",
-      "translation": "\u4e58\u8f66\u5f80\u8fd4",
-      "sentence": "",
+      "phonetic": "/kəmˈjut/",
+      "translation": "乘车往返",
+      "sentence": "there is standing room only on the high-speed commute",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "c-common-com-compact",
       "word": "compact",
       "display": "Compact",
-      "phonetic": "",
-      "translation": "\u7d27\u5bc6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpækt/",
+      "translation": "紧密的",
+      "sentence": "This powder compacts easily",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "c-common-com-companion",
       "word": "companion",
       "display": "Companion",
-      "phonetic": "",
-      "translation": "\u540c\u4f34",
-      "sentence": "",
+      "phonetic": "/kəmˈpænjən/",
+      "translation": "同伴",
+      "sentence": "drinking companions",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "c-common-com-company",
       "word": "company",
       "display": "Company",
-      "phonetic": "",
-      "translation": "\u516c\u53f8\uff1b\u966a\u4f34",
-      "sentence": "",
+      "phonetic": "/ˈkəmpəˌni/",
+      "translation": "公司；陪伴",
+      "sentence": "he started the company in his garage",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "c-common-com-comparable",
       "word": "comparable",
       "display": "Comparable",
-      "phonetic": "",
-      "translation": "\u53ef\u6bd4\u8f83\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmprəbəl/",
+      "translation": "可比较的",
+      "sentence": "boxes with corresponding dimensions",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "c-common-com-comparative",
       "word": "comparative",
       "display": "Comparative",
-      "phonetic": "",
-      "translation": "\u6bd4\u8f83\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpærətɪv/",
+      "translation": "比较的",
+      "sentence": "`faster' is the comparative of the adjective `fast'",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "c-common-com-comparison",
       "word": "comparison",
       "display": "Comparison",
-      "phonetic": "",
-      "translation": "\u5bf9\u6bd4",
-      "sentence": "",
+      "phonetic": "/kəmˈpɛrəsən/",
+      "translation": "对比",
+      "sentence": "they made a comparison of noise levels",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "c-common-com-compartment",
       "word": "compartment",
       "display": "Compartment",
-      "phonetic": "",
-      "translation": "\u9694\u95f4",
-      "sentence": "",
+      "phonetic": "/kəmˈpɑrtmənt/",
+      "translation": "隔间",
+      "sentence": "A compartment is a space into which an area is subdivided.",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "c-common-com-compass",
       "word": "compass",
       "display": "Compass",
-      "phonetic": "",
-      "translation": "\u7f57\u76d8\uff1b\u5706\u89c4",
-      "sentence": "",
+      "phonetic": "/ˈkəmpəs/",
+      "translation": "罗盘；圆规",
+      "sentence": "within the compass of this article",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "c-common-com-compassion",
       "word": "compassion",
       "display": "Compassion",
-      "phonetic": "",
-      "translation": "\u540c\u60c5",
-      "sentence": "",
+      "phonetic": "/kəmˈpæʃən/",
+      "translation": "同情",
+      "sentence": "A compassion is a deep awareness of and sympathy for another's suffering.",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "c-common-com-compatible",
       "word": "compatible",
       "display": "Compatible",
-      "phonetic": "",
-      "translation": "\u5408\u5f97\u6765\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpætəbəl/",
+      "translation": "合得来的",
+      "sentence": "a compatible married couple",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "c-common-com-compel",
       "word": "compel",
       "display": "Compel",
-      "phonetic": "",
-      "translation": "\u5f3a\u8feb",
-      "sentence": "",
+      "phonetic": "/kəmˈpɛl/",
+      "translation": "强迫",
+      "sentence": "We compel all students to fill out this form",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "c-common-com-compensate",
       "word": "compensate",
       "display": "Compensate",
-      "phonetic": "",
-      "translation": "\u8865\u507f",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpənˌseɪt/",
+      "translation": "补偿",
+      "sentence": "She was compensated for the loss of her arm in the accident",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "c-common-com-compensation",
       "word": "compensation",
       "display": "Compensation",
-      "phonetic": "",
-      "translation": "\u8d54\u507f",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpənˈseɪʃən/",
+      "translation": "赔偿",
+      "sentence": "A compensation is something (such as money) given or received as payment or reparation (as for a service or loss or injury).",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "c-common-com-compete",
       "word": "compete",
       "display": "Compete",
-      "phonetic": "",
-      "translation": "\u6bd4\u8d5b",
-      "sentence": "",
+      "phonetic": "/kəmˈpit/",
+      "translation": "比赛",
+      "sentence": "Compete means to for something; engage in a contest; measure oneself against others.",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "c-common-com-competent",
       "word": "competent",
       "display": "Competent",
-      "phonetic": "",
-      "translation": "\u6709\u80fd\u529b\u7684\uff1b\u8db3\u591f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpətɪnt/",
+      "translation": "有能力的；足够的",
+      "sentence": "a competent typist",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "c-common-com-competition",
       "word": "competition",
       "display": "Competition",
-      "phonetic": "",
-      "translation": "\u7ade\u8d5b",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpəˈtɪʃən/",
+      "translation": "竞赛",
+      "sentence": "business competition can be fiendish at times",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "c-common-com-competitive",
       "word": "competitive",
       "display": "Competitive",
-      "phonetic": "",
-      "translation": "\u7ade\u4e89\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpɛtɪtɪv/",
+      "translation": "竞争的",
+      "sentence": "competitive games",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "c-common-com-compile",
       "word": "compile",
       "display": "Compile",
-      "phonetic": "",
-      "translation": "\u7f16\u8f91",
-      "sentence": "",
+      "phonetic": "/kəmˈpaɪl/",
+      "translation": "编辑",
+      "sentence": "compile a list",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "c-common-com-complain",
       "word": "complain",
       "display": "Complain",
-      "phonetic": "",
-      "translation": "\u62b1\u6028",
-      "sentence": "",
+      "phonetic": "/kəmˈpleɪn/",
+      "translation": "抱怨",
+      "sentence": "My mother complains all day",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "c-common-com-complaint",
       "word": "complaint",
       "display": "Complaint",
-      "phonetic": "",
-      "translation": "\u62b1\u6028",
-      "sentence": "",
+      "phonetic": "/kəmˈpleɪnt/",
+      "translation": "抱怨",
+      "sentence": "he was arrested on a charge of larceny",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "c-common-com-complement",
       "word": "complement",
       "display": "Complement",
-      "phonetic": "",
-      "translation": "\u8865\u5145\u7269",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpləmənt/",
+      "translation": "补充物",
+      "sentence": "a full complement",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "c-common-com-complete",
       "word": "complete",
       "display": "Complete",
-      "phonetic": "",
-      "translation": "\u5b8c\u5168\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈplit/",
+      "translation": "完全的",
+      "sentence": "She completed the requirements for her Master's Degree",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "c-common-com-complex",
       "word": "complex",
       "display": "Complex",
-      "phonetic": "",
-      "translation": "\u590d\u6742\u7684\uff1b\u5408\u6210\u7684\uff1b\u7efc\u5408\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmplɛks/",
+      "translation": "复杂的；合成的；综合的",
+      "sentence": "the complex of shopping malls, houses, and roads created a new town",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "c-common-com-complicate",
       "word": "complicate",
       "display": "Complicate",
-      "phonetic": "",
-      "translation": "\u4f7f...\u590d\u6742",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpləˌkeɪt/",
+      "translation": "使...复杂",
+      "sentence": "There was a new development that complicated the matter",
       "tags": [
         "root-family"
       ],
@@ -622,9 +622,9 @@
       "id": "c-common-com-complicated",
       "word": "complicated",
       "display": "Complicated",
-      "phonetic": "",
-      "translation": "\u9ebb\u70e6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpləˌkeɪtəd/",
+      "translation": "麻烦的",
+      "sentence": "There was a new development that complicated the matter",
       "tags": [
         "root-family"
       ],
@@ -634,9 +634,9 @@
       "id": "c-common-com-complication",
       "word": "complication",
       "display": "Complication",
-      "phonetic": "",
-      "translation": "\u590d\u6742",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpləˈkeɪʃən/",
+      "translation": "复杂",
+      "sentence": "her coming was a serious complication",
       "tags": [
         "root-family"
       ],
@@ -646,9 +646,9 @@
       "id": "c-common-com-compliment",
       "word": "compliment",
       "display": "Compliment",
-      "phonetic": "",
-      "translation": "\u95ee\u5019",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpləmɛnt/",
+      "translation": "问候",
+      "sentence": "He complimented her on her last physics paper",
       "tags": [
         "root-family"
       ],
@@ -658,9 +658,9 @@
       "id": "c-common-com-component",
       "word": "component",
       "display": "Component",
-      "phonetic": "",
-      "translation": "\u7ec4\u6210\u7684\uff1b\u5408\u6210\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpoʊnənt/",
+      "translation": "组成的；合成的",
+      "sentence": "jealousy was a component of his character",
       "tags": [
         "root-family"
       ],
@@ -670,9 +670,9 @@
       "id": "c-common-com-compose",
       "word": "compose",
       "display": "Compose",
-      "phonetic": "",
-      "translation": "\u7ec4\u6210\uff1b\u6784\u6210",
-      "sentence": "",
+      "phonetic": "/kəmˈpoʊz/",
+      "translation": "组成；构成",
+      "sentence": "Greed and ambition composed his personality",
       "tags": [
         "root-family"
       ],
@@ -682,9 +682,9 @@
       "id": "c-common-com-composition",
       "word": "composition",
       "display": "Composition",
-      "phonetic": "",
-      "translation": "\u4f5c\u54c1\uff1b\u6210\u5206",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpəˈzɪʃən/",
+      "translation": "作品；成分",
+      "sentence": "harmonious composition is essential in a serious work of art",
       "tags": [
         "root-family"
       ],
@@ -694,9 +694,9 @@
       "id": "c-common-com-compound",
       "word": "compound",
       "display": "Compound",
-      "phonetic": "",
-      "translation": "\u6df7\u5408\u7269",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpaʊnd/",
+      "translation": "混合物",
+      "sentence": "compound the ingredients",
       "tags": [
         "root-family"
       ],
@@ -706,9 +706,9 @@
       "id": "c-common-com-comprehend",
       "word": "comprehend",
       "display": "Comprehend",
-      "phonetic": "",
-      "translation": "\u7406\u89e3\uff1b\u5305\u62ec",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpriˈhɛnd/",
+      "translation": "理解；包括",
+      "sentence": "Do you comprehend the meaning of this letter?",
       "tags": [
         "root-family"
       ],
@@ -718,9 +718,9 @@
       "id": "c-common-com-comprehension",
       "word": "comprehension",
       "display": "Comprehension",
-      "phonetic": "",
-      "translation": "\u7406\u89e3\u529b",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpriˈhɛnʃən/",
+      "translation": "理解力",
+      "sentence": "how you can do that is beyond my comprehension",
       "tags": [
         "root-family"
       ],
@@ -730,9 +730,9 @@
       "id": "c-common-com-comprehensive",
       "word": "comprehensive",
       "display": "Comprehensive",
-      "phonetic": "",
-      "translation": "\u7efc\u5408\u7684",
-      "sentence": "",
+      "phonetic": "/ˌkɑmpriˈhɛnsɪv/",
+      "translation": "综合的",
+      "sentence": "comprehensive coverage",
       "tags": [
         "root-family"
       ],
@@ -742,9 +742,9 @@
       "id": "c-common-com-compress",
       "word": "compress",
       "display": "Compress",
-      "phonetic": "",
-      "translation": "\u538b\u7f29",
-      "sentence": "",
+      "phonetic": "/ˈkɑmprɛs/",
+      "translation": "压缩",
+      "sentence": "compress the data",
       "tags": [
         "root-family"
       ],
@@ -754,9 +754,9 @@
       "id": "c-common-com-comprise",
       "word": "comprise",
       "display": "Comprise",
-      "phonetic": "",
-      "translation": "\u5305\u542b\uff1b\u7ec4\u6210",
-      "sentence": "",
+      "phonetic": "/kəmˈpraɪz/",
+      "translation": "包含；组成",
+      "sentence": "The land he conquered comprised several provinces",
       "tags": [
         "root-family"
       ],
@@ -766,9 +766,9 @@
       "id": "c-common-com-compromise",
       "word": "compromise",
       "display": "Compromise",
-      "phonetic": "",
-      "translation": "\u59a5\u534f",
-      "sentence": "",
+      "phonetic": "/ˈkɑmprəˌmaɪz/",
+      "translation": "妥协",
+      "sentence": "the newly elected congressmen rejected a compromise because they considered it `business as usual'",
       "tags": [
         "root-family"
       ],
@@ -778,9 +778,9 @@
       "id": "c-common-com-compulsory",
       "word": "compulsory",
       "display": "Compulsory",
-      "phonetic": "",
-      "translation": "\u5fc5\u4fee\u7684\uff1b\u5f3a\u5236\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpəlsəri/",
+      "translation": "必修的；强制性的",
+      "sentence": "in most schools physical education is compulsory",
       "tags": [
         "root-family"
       ],
@@ -790,9 +790,9 @@
       "id": "c-common-com-compute",
       "word": "compute",
       "display": "Compute",
-      "phonetic": "",
-      "translation": "\u8ba1\u7b97",
-      "sentence": "",
+      "phonetic": "/kəmˈpjut/",
+      "translation": "计算",
+      "sentence": "To compute is to make a mathematical calculation or computation.",
       "tags": [
         "root-family"
       ],
@@ -802,9 +802,9 @@
       "id": "c-common-com-computer",
       "word": "computer",
       "display": "Computer",
-      "phonetic": "",
-      "translation": "\u8ba1\u7b97\u673a",
-      "sentence": "",
+      "phonetic": "/kəmˈpjutər/",
+      "translation": "计算机",
+      "sentence": "A computer is a machine for performing calculations automatically.",
       "tags": [
         "root-family"
       ],
@@ -814,9 +814,9 @@
       "id": "c-common-com-comrade",
       "word": "comrade",
       "display": "Comrade",
-      "phonetic": "",
-      "translation": "\u540c\u4f34",
-      "sentence": "",
+      "phonetic": "/ˈkɑmˌræd/",
+      "translation": "同伴",
+      "sentence": "comrades in arms",
       "tags": [
         "root-family"
       ],
@@ -827,5 +827,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-common>c-common-com",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-other-febri",
-  "root": "febri\u70ed",
+  "root": "febri热",
   "meaning": "febri",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "热",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-other-febri-antifebrile",
       "word": "antifebrile",
       "display": "Antifebrile",
-      "phonetic": "",
-      "translation": "\u9000\u70ed\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæntɪfbˌɛl/",
+      "translation": "退热的",
+      "sentence": "Antifebrile is used here with the sense of \"退热的\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-other-febri-febricide",
       "word": "febricide",
       "display": "Febricide",
-      "phonetic": "",
-      "translation": "\u9000\u70e7\u836f",
-      "sentence": "",
+      "phonetic": "/fˈɛbrʌsˌaɪd/",
+      "translation": "退烧药",
+      "sentence": "Febricide is used here with the sense of \"退烧药\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-other-febri-febrifacient",
       "word": "febrifacient",
       "display": "Febrifacient",
-      "phonetic": "",
-      "translation": "\u4ea7\u70ed\u7684",
-      "sentence": "",
+      "phonetic": "/fˌɛbrʌfˈæʃʌnt/",
+      "translation": "产热的",
+      "sentence": "Febrifacient is used here with the sense of \"产热的\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-other-febri-febrific",
       "word": "febrific",
       "display": "Febrific",
-      "phonetic": "",
-      "translation": "\u4ea7\u70ed\u7684",
-      "sentence": "",
+      "phonetic": "/fɛbrˈɪfɪk/",
+      "translation": "产热的",
+      "sentence": "Febrific is used here with the sense of \"产热的\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-other-febri-febrifugal",
       "word": "febrifugal",
       "display": "Febrifugal",
-      "phonetic": "",
-      "translation": "\u9000\u70ed\u7684",
-      "sentence": "",
+      "phonetic": "/fʌbrˈɪfʌgʌl/",
+      "translation": "退热的",
+      "sentence": "Febrifugal is used here with the sense of \"退热的\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-other-febri-febrile",
       "word": "febrile",
       "display": "Febrile",
-      "phonetic": "",
-      "translation": "\u53d1\u70ed\u7684",
-      "sentence": "",
+      "phonetic": "/fˈɛbrʌl/",
+      "translation": "发热的",
+      "sentence": "a febrile reaction caused by an allergen",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-other-febri-febriphobia",
       "word": "febriphobia",
       "display": "Febriphobia",
-      "phonetic": "",
-      "translation": "\u53d1\u70e7\u6050\u6016",
-      "sentence": "",
+      "phonetic": "/fˌɛbrʌfʌbˈeɪwʌ/",
+      "translation": "发烧恐怖",
+      "sentence": "Febriphobia is used here with the sense of \"发烧恐怖\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-other-febri-fever",
       "word": "fever",
       "display": "Fever",
-      "phonetic": "",
-      "translation": "\u53d1\u70e7",
-      "sentence": "",
+      "phonetic": "/ˈfivər/",
+      "translation": "发烧",
+      "sentence": "in a fever of resentment",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "f-other-febri-feverish",
       "word": "feverish",
       "display": "Feverish",
-      "phonetic": "",
-      "translation": "\u53d1\u70e7\u7684\uff1b\u5174\u594b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈfivərɪʃ/",
+      "translation": "发烧的；兴奋的",
+      "sentence": "worked at a feverish pace",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-other>f-other-febri",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

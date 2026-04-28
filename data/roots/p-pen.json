@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-pen",
-  "root": "pen=pun \u7f5a",
+  "root": "pen=pun 罚",
   "meaning": "punish",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "罚",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-pen-impunity",
       "word": "impunity",
       "display": "Impunity",
-      "phonetic": "",
-      "translation": "\u514d\u7f5a",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpjunɪti/",
+      "translation": "免罚",
+      "sentence": "An impunity is exemption from punishment or loss.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-pen-penal",
       "word": "penal",
       "display": "Penal",
-      "phonetic": "",
-      "translation": "\u5211\u4e8b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpinəl/",
+      "translation": "刑事的",
+      "sentence": "penal reform",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-pen-penalize",
       "word": "penalize",
       "display": "Penalize",
-      "phonetic": "",
-      "translation": "\u5904\u7f5a",
-      "sentence": "",
+      "phonetic": "/ˈpɛnəˌlaɪz/",
+      "translation": "处罚",
+      "sentence": "The students were penalized for showing up late for class",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-pen-penalty",
       "word": "penalty",
       "display": "Penalty",
-      "phonetic": "",
-      "translation": "\u5904\u7f5a",
-      "sentence": "",
+      "phonetic": "/ˈpɛnəlti/",
+      "translation": "处罚",
+      "sentence": "neglected his health and paid the penalty",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-pen-penny",
       "word": "penny",
       "display": "Penny",
-      "phonetic": "",
-      "translation": "\u4fbf\u58eb\uff1b\u7f8e\u5206",
-      "sentence": "",
+      "phonetic": "/ˈpɛni/",
+      "translation": "便士；美分",
+      "sentence": "A penny is a fractional monetary unit of Ireland and the United Kingdom; equal to one hundredth of a pound.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-pen-pension",
       "word": "pension",
       "display": "Pension",
-      "phonetic": "",
-      "translation": "\u517b\u8001\u91d1",
-      "sentence": "",
+      "phonetic": "/ˈpɛnʃən/",
+      "translation": "养老金",
+      "sentence": "A pension is a regular payment to a person that is intended to allow them to subsist without working.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-pen-repent",
       "word": "repent",
       "display": "Repent",
-      "phonetic": "",
-      "translation": "\u540e\u6094\uff1b\u5fcf\u6094",
-      "sentence": "",
+      "phonetic": "/rɪˈpɛnt/",
+      "translation": "后悔；忏悔",
+      "sentence": "To repent is to turn away from sin or do penitence.",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-pen",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

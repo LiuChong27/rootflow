@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acrobat",
   "root": "acrobat",
-  "meaning": "",
-  "descriptionCn": "\u6742\u6280\u6f14\u5458",
-  "updatedAt": "2026-04-15",
+  "meaning": "acrobat family",
+  "descriptionCn": "杂技演员",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acrobat",
       "word": "acrobat",
       "display": "Acrobat",
-      "phonetic": "",
-      "translation": "\u6742\u6280\u6f14\u5458",
-      "sentence": "",
+      "phonetic": "/ˈækrəˌbæt/",
+      "translation": "杂技演员",
+      "sentence": "An acrobat is an athlete who performs acts requiring skill and agility and coordination.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-other>ac>acrobatics>acrobat",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

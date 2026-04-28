@@ -3,16 +3,16 @@
   "rootId": "i-im",
   "root": "im",
   "meaning": "im",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "im",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "i-im-image",
       "word": "image",
       "display": "Image",
-      "phonetic": "",
-      "translation": "\u5f62\u8c61\uff1b\u58f0\u97f3\uff1b\u60f3\u8c61",
-      "sentence": "",
+      "phonetic": "/ˈɪmɪʤ/",
+      "translation": "形象；声音；想象",
+      "sentence": "her imagination forced images upon her too awful to contemplate",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "i-im-imaginary",
       "word": "imaginary",
       "display": "Imaginary",
-      "phonetic": "",
-      "translation": "\u60f3\u8c61\u7684\uff1b\u865a\u6784\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈmæʤəˌnɛri/",
+      "translation": "想象的；虚构的",
+      "sentence": "a small child's imaginary friends",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "i-im-imagination",
       "word": "imagination",
       "display": "Imagination",
-      "phonetic": "",
-      "translation": "\u60f3\u8c61\uff0c\u5e7b\u89c9",
-      "sentence": "",
+      "phonetic": "/ˌɪˌmæʤəˈneɪʃən/",
+      "translation": "想象，幻觉",
+      "sentence": "popular imagination created a world of demons",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "i-im-imaginative",
       "word": "imaginative",
       "display": "Imaginative",
-      "phonetic": "",
-      "translation": "\u60f3\u8c61\u4e30\u5bcc",
-      "sentence": "",
+      "phonetic": "/ˌɪˈmæʤənətɪv/",
+      "translation": "想象丰富",
+      "sentence": "an imaginative use of material",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "i-im-imagine",
       "word": "imagine",
       "display": "Imagine",
-      "phonetic": "",
-      "translation": "\u60f3\u8c61\uff1b\u8bbe\u60f3",
-      "sentence": "",
+      "phonetic": "/ˌɪˈmæʤən/",
+      "translation": "想象；设想",
+      "sentence": "I imagine she earned a lot of money with her new novel",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "i-im-imitate",
       "word": "imitate",
       "display": "Imitate",
-      "phonetic": "",
-      "translation": "\u6a21\u4eff\uff1b\u4eff\u9020",
-      "sentence": "",
+      "phonetic": "/ˈɪməˌteɪt/",
+      "translation": "模仿；仿造",
+      "sentence": "The mime imitated the passers-by",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "i-im-imitation",
       "word": "imitation",
       "display": "Imitation",
-      "phonetic": "",
-      "translation": "\u6a21\u4eff\uff1b\u4eff\u9020",
-      "sentence": "",
+      "phonetic": "/ˌɪməˈteɪʃən/",
+      "translation": "模仿；仿造",
+      "sentence": "decorated with imitation palm leaves",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "i-im-immediate",
       "word": "immediate",
       "display": "Immediate",
-      "phonetic": "",
-      "translation": "\u7acb\u5373\u7684\uff1b\u6700\u8fd1\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈmiˌdiət/",
+      "translation": "立即的；最近的",
+      "sentence": "the immediate revisions",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "i-im-immense",
       "word": "immense",
       "display": "Immense",
-      "phonetic": "",
-      "translation": "\u5de8\u5927\u7684\uff1b\u5e7f\u53e3\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈmɛns/",
+      "translation": "巨大的；广口的",
+      "sentence": "the Los Angeles aqueduct winds like an immense snake along the base of the mountains",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "i-im-immerse",
       "word": "immerse",
       "display": "Immerse",
-      "phonetic": "",
-      "translation": "\u4f7f\u6c89\u6d78",
-      "sentence": "",
+      "phonetic": "/ˌɪˈmərs/",
+      "translation": "使沉浸",
+      "sentence": "Immerse yourself in hot water",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "i-im-immigrant",
       "word": "immigrant",
       "display": "Immigrant",
-      "phonetic": "",
-      "translation": "\u79fb\u6c11\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪməgrənt/",
+      "translation": "移民的",
+      "sentence": "An immigrant is a person who comes to a country where they were not born in order to settle there.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "i-im-immune",
       "word": "immune",
       "display": "Immune",
-      "phonetic": "",
-      "translation": "\u514d\u75ab\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈjun/",
+      "translation": "免疫的",
+      "sentence": "the immune system",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "i-im-impact",
       "word": "impact",
       "display": "Impact",
-      "phonetic": "",
-      "translation": "\u51b2\u51fb\uff1b\u78b0\u649e",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpækt/",
+      "translation": "冲击；碰撞",
+      "sentence": "the book had an important impact on my thinking",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "i-im-impair",
       "word": "impair",
       "display": "Impair",
-      "phonetic": "",
-      "translation": "\u635f\u5bb3\uff1b\u51cf\u5c11",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɛr/",
+      "translation": "损害；减少",
+      "sentence": "His vision was impaired",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "i-im-impart",
       "word": "impart",
       "display": "Impart",
-      "phonetic": "",
-      "translation": "\u4f20\u6388\uff1b\u7ed9\u4e88\uff1b\u544a\u77e5",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɑrt/",
+      "translation": "传授；给予；告知",
+      "sentence": "impart a new skill to the students",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "i-im-impatient",
       "word": "impatient",
       "display": "Impatient",
-      "phonetic": "",
-      "translation": "\u4e0d\u8010\u70e6\u7684\uff1b\u6025\u8e81\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpeɪʃənt/",
+      "translation": "不耐烦的；急躁的",
+      "sentence": "impatient with the slower students",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "i-im-imperative",
       "word": "imperative",
       "display": "Imperative",
-      "phonetic": "",
-      "translation": "\u9700\u8981\uff1b\u547d\u4ee4\uff1b\u5f3a\u5236\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɛrətɪv/",
+      "translation": "需要；命令；强制的",
+      "sentence": "as nuclear weapons proliferate, preventing war becomes imperative",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "i-im-imperial",
       "word": "imperial",
       "display": "Imperial",
-      "phonetic": "",
-      "translation": "\u5e1d\u56fd\u7684\uff1b\u5e1d\u738b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɪriəl/",
+      "translation": "帝国的；帝王的",
+      "sentence": "imperial colony",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "i-im-impetus",
       "word": "impetus",
       "display": "Impetus",
-      "phonetic": "",
-      "translation": "\u4fc3\u8fdb\uff1b\u63a8\u529b",
-      "sentence": "",
+      "phonetic": "/ˈɪmpətəs/",
+      "translation": "促进；推力",
+      "sentence": "the impulse knocked him over",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "i-im-implement",
       "word": "implement",
       "display": "Implement",
-      "phonetic": "",
-      "translation": "\u5de5\u5177\uff1b\u8d2f\u5f7b\uff0c\u5b9e\u73b0",
-      "sentence": "",
+      "phonetic": "/ˈɪmpləmənt/",
+      "translation": "工具；贯彻，实现",
+      "sentence": "implement a procedure",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "i-im-implication",
       "word": "implication",
       "display": "Implication",
-      "phonetic": "",
-      "translation": "\u542b\u610f\uff1b\u6697\u793a\uff1b\u7275\u8fde",
-      "sentence": "",
+      "phonetic": "/ˌɪmpləˈkeɪʃən/",
+      "translation": "含意；暗示；牵连",
+      "sentence": "his resignation had political implications",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "i-im-implicit",
       "word": "implicit",
       "display": "Implicit",
-      "phonetic": "",
-      "translation": "\u542b\u84c4\u7684\uff1b\u56fa\u6709\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈplɪsət/",
+      "translation": "含蓄的；固有的",
+      "sentence": "an implicit agreement not to raise the subject",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "i-im-imply",
       "word": "imply",
       "display": "Imply",
-      "phonetic": "",
-      "translation": "\u610f\u6307\uff1b\u6697\u793a",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈplaɪ/",
+      "translation": "意指；暗示",
+      "sentence": "The water shortage means that we have to stop taking long showers",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "i-im-import",
       "word": "import",
       "display": "Import",
-      "phonetic": "",
-      "translation": "\u63a5\u53e3\uff1b\u8f93\u5165",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɔrt/",
+      "translation": "接口；输入",
+      "sentence": "the lead role was played by an import from Sweden",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "i-im-importance",
       "word": "importance",
       "display": "Importance",
-      "phonetic": "",
-      "translation": "\u91cd\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɔrtəns/",
+      "translation": "重要的",
+      "sentence": "the importance of a well-balanced diet",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "i-im-important",
       "word": "important",
       "display": "Important",
-      "phonetic": "",
-      "translation": "\u6709\u5730\u4f4d\u7684\uff1b\u91cd\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɔrtənt/",
+      "translation": "有地位的；重要的",
+      "sentence": "important people",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "i-im-impose",
       "word": "impose",
       "display": "Impose",
-      "phonetic": "",
-      "translation": "\u628a...\u5f3a\u52a0\u7ed9\u5f81\u7a0e",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpoʊz/",
+      "translation": "把...强加给征税",
+      "sentence": "Social relations impose courtesy",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "i-im-impossible",
       "word": "impossible",
       "display": "Impossible",
-      "phonetic": "",
-      "translation": "\u4e0d\u53ef\u80fd\u7684\uff1b\u96be\u4ee5\u5fcd\u53d7\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɑsəbəl/",
+      "translation": "不可能的；难以忍受的",
+      "sentence": "his assignment verged on the impossible",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "i-im-impress",
       "word": "impress",
       "display": "Impress",
-      "phonetic": "",
-      "translation": "\u7559\u4e0b\u5370\u8c61",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈprɛs/",
+      "translation": "留下印象",
+      "sentence": "This child impressed me as unusually mature",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "i-im-impression",
       "word": "impression",
       "display": "Impression",
-      "phonetic": "",
-      "translation": "\u5370\u8c61\uff1b\u538b\u75d5",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈprɛʃən/",
+      "translation": "印象；压痕",
+      "sentence": "his impression of her was favorable",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "i-im-impressive",
       "word": "impressive",
       "display": "Impressive",
-      "phonetic": "",
-      "translation": "\u5370\u8c61\u6df1\u523b\uff1b\u611f\u4eba\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈprɛsɪv/",
+      "translation": "印象深刻；感人的",
+      "sentence": "an impressive ceremony",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "i-im-improve",
       "word": "improve",
       "display": "Improve",
-      "phonetic": "",
-      "translation": "\u6539\u5584\uff1b\u6539\u8fdb",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpruv/",
+      "translation": "改善；改进",
+      "sentence": "The editor improved the manuscript with his changes",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "i-im-improvement",
       "word": "improvement",
       "display": "Improvement",
-      "phonetic": "",
-      "translation": "\u6539\u8fdb\uff1b\u8fdb\u6b65",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpruvmənt/",
+      "translation": "改进；进步",
+      "sentence": "their improvements increased the value of the property",
       "tags": [
         "root-family"
       ],
@@ -407,5 +407,6 @@
   "rootLevel": 2,
   "rootPath": "i>i-im",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-wrap-cycl",
-  "root": "c-wrap-cycl",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "cycl",
+  "meaning": "cycl family",
+  "descriptionCn": "cycl 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-wrap-cycl-circle",
       "word": "circle",
       "display": "Circle",
-      "phonetic": "",
-      "translation": "\u5706\u5708",
-      "sentence": "",
+      "phonetic": "/ˈsərkəl/",
+      "translation": "圆圈",
+      "sentence": "he calculated the circumference of the circle",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-wrap-cycl-circlet",
       "word": "circlet",
       "display": "Circlet",
-      "phonetic": "",
-      "translation": "\u624b\u956f\uff1b\u5c0f\u5708",
-      "sentence": "",
+      "phonetic": "/sˈɚklʌt/",
+      "translation": "手镯；小圈",
+      "sentence": "A circlet is a small circle.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-wrap-cycl-circuitous",
       "word": "circuitous",
       "display": "Circuitous",
-      "phonetic": "",
-      "translation": "\u7b80\u6d01\u7684\uff1b\u8fc2\u56de\u7684",
-      "sentence": "",
+      "phonetic": "/sərˈkjuɪtəs/",
+      "translation": "简洁的；迂回的",
+      "sentence": "the explanation was circuitous and puzzling",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-wrap-cycl-circuitry",
       "word": "circuitry",
       "display": "Circuitry",
-      "phonetic": "",
-      "translation": "\u7535\u8def\uff1b\u8def\u7ebf",
-      "sentence": "",
+      "phonetic": "/ˈsərkətri/",
+      "translation": "电路；路线",
+      "sentence": "A circuitry is electronic equipment consisting of a system of circuits.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-wrap-cycl-circularize",
       "word": "circularize",
       "display": "Circularize",
-      "phonetic": "",
-      "translation": "\u5206\u53d1\u4f20\u5355",
-      "sentence": "",
+      "phonetic": "/ˈsərkjələrˌaɪz/",
+      "translation": "分发传单",
+      "sentence": "spread information",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-wrap-cycl-circulate",
       "word": "circulate",
       "display": "Circulate",
-      "phonetic": "",
-      "translation": "\u5faa\u73af\uff1b\u6d41\u901a",
-      "sentence": "",
+      "phonetic": "/ˈsərkjəˌleɪt/",
+      "translation": "循环；流通",
+      "sentence": "circulate a rumor",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-wrap-cycl-circus",
       "word": "circus",
       "display": "Circus",
-      "phonetic": "",
-      "translation": "\u9a6c\u620f\u56e2",
-      "sentence": "",
+      "phonetic": "/ˈsərkəs/",
+      "translation": "马戏团",
+      "sentence": "he ran away from home to join the circus",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-wrap-cycl-cosmic",
       "word": "cosmic",
       "display": "Cosmic",
-      "phonetic": "",
-      "translation": "\u5b87\u5b99\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑzmɪk/",
+      "translation": "宇宙的",
+      "sentence": "cosmic laws",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-wrap-cycl-cyberspace",
       "word": "cyberspace",
       "display": "Cyberspace",
-      "phonetic": "",
-      "translation": "\u7f51\u7edc\u7a7a\u95f4",
-      "sentence": "",
+      "phonetic": "/ˈsaɪbərˌspeɪs/",
+      "translation": "网络空间",
+      "sentence": "A cyberspace is a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-wrap-cycl-cyclone",
       "word": "cyclone",
       "display": "Cyclone",
-      "phonetic": "",
-      "translation": "\u65cb\u98ce\uff1b\u98d3\u98ce",
-      "sentence": "",
+      "phonetic": "/sɪˈkloʊn/",
+      "translation": "旋风；飓风",
+      "sentence": "A cyclone is (meteorology) rapid inward circulation of air masses about a low pressure center; circling counterclockwise in the northern hemisphere and clockwise in the southern.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-wrap-cycl-cylinder",
       "word": "cylinder",
       "display": "Cylinder",
-      "phonetic": "",
-      "translation": "\u5706\u7b52",
-      "sentence": "",
+      "phonetic": "/ˈsɪlɪndər/",
+      "translation": "圆筒",
+      "sentence": "A cylinder is a solid bounded by a cylindrical surface and two parallel planes (the bases).",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-wrap-cycl-encirclement",
       "word": "encirclement",
       "display": "Encirclement",
-      "phonetic": "",
-      "translation": "\u73af\u7ed5\uff1b\u5305\u56f4",
-      "sentence": "",
+      "phonetic": "/ɛnˈsərkəlmənt/",
+      "translation": "环绕；包围",
+      "sentence": "An encirclement is a war measure that isolates some area of importance to the enemy.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-wrap-cycl-encyclopaedia",
       "word": "encyclopaedia",
       "display": "Encyclopaedia",
-      "phonetic": "",
-      "translation": "\u767e\u79d1\u5168\u4e66",
-      "sentence": "",
+      "phonetic": "/ɪnˌsaɪkləˈpidiə/",
+      "translation": "百科全书",
+      "sentence": "An encyclopaedia is a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.",
       "tags": [
         "root-family"
       ],
@@ -166,13 +166,18 @@
       "id": "c-wrap-cycl-semicircle",
       "word": "semicircle",
       "display": "Semicircle",
-      "phonetic": "",
-      "translation": "\u534a\u5706",
-      "sentence": "",
+      "phonetic": "/sˈɛmʌskʌrʌl/",
+      "translation": "半圆",
+      "sentence": "A semicircle is a plane figure with the shape of half a circle.",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-wrap>c-wrap-cycl",
+  "rootLevel": 3,
+  "parentRootId": "c-wrap",
+  "tags": []
 }

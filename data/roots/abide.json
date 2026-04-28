@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "abide",
   "root": "abide",
-  "meaning": "",
-  "descriptionCn": "\u575a\u6301",
-  "updatedAt": "2026-04-15",
+  "meaning": "abide family",
+  "descriptionCn": "坚持",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abide-abide-2",
       "word": "abide",
       "display": "Abide",
-      "phonetic": "",
-      "translation": "\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/əˈbaɪd/",
+      "translation": "坚持",
+      "sentence": "You can stay with me while you are in town",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>abide",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

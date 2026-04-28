@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "l-liber",
-  "root": "liber\u81ea\u7531",
+  "root": "liber自由",
   "meaning": "free",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "自由",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "l-liber-liberal",
       "word": "liberal",
       "display": "Liberal",
-      "phonetic": "",
-      "translation": "\u81ea\u7531\u7684\uff1b\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlɪˌbərəl/",
+      "translation": "自由的；慷慨的",
+      "sentence": "a liberal newspaper",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "l-liber-liberate",
       "word": "liberate",
       "display": "Liberate",
-      "phonetic": "",
-      "translation": "\u89e3\u653e",
-      "sentence": "",
+      "phonetic": "/ˈlɪˌbərˌeɪt/",
+      "translation": "解放",
+      "sentence": "The students liberated their slaves upon graduating from the university",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "l-liber-liberation",
       "word": "liberation",
       "display": "Liberation",
-      "phonetic": "",
-      "translation": "\u89e3\u653e",
-      "sentence": "",
+      "phonetic": "/ˌlɪˌbərˈeɪʃən/",
+      "translation": "解放",
+      "sentence": "she worked for women's liberation",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "l-liber-liberty",
       "word": "liberty",
       "display": "Liberty",
-      "phonetic": "",
-      "translation": "\u81ea\u7531",
-      "sentence": "",
+      "phonetic": "/ˈlɪbərˌti/",
+      "translation": "自由",
+      "sentence": "liberty of opinion",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 2,
   "rootPath": "l>l-liber",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

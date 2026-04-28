@@ -1,0 +1,9 @@
+{
+  "name": "rootflow-shared",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow shared helpers for uniCloud functions",
+  "dependencies": {
+    "rootflow-config": "file:../rootflow-config"
+  }
+}

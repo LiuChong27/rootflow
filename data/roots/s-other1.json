@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-other1",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-other1-sane",
       "word": "sane",
       "display": "Sane",
-      "phonetic": "",
-      "translation": "\u660e\u667a\u7684",
-      "sentence": "",
+      "phonetic": "/seɪn/",
+      "translation": "明智的",
+      "sentence": "appears to be completely sane",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-other1-sarcastic",
       "word": "sarcastic",
       "display": "Sarcastic",
-      "phonetic": "",
-      "translation": "\u8bbd\u523a\u7684",
-      "sentence": "",
+      "phonetic": "/sɑrˈkæstɪk/",
+      "translation": "讽刺的",
+      "sentence": "If something is sarcastic, it is expressing or expressive of ridicule that wounds.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-other1-satire",
       "word": "satire",
       "display": "Satire",
-      "phonetic": "",
-      "translation": "\u8bbd\u523a",
-      "sentence": "",
+      "phonetic": "/ˈsæˌtaɪər/",
+      "translation": "讽刺",
+      "sentence": "Satire is a sort of glass, wherein beholders do generally discover everybody's face but their own",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-other1-scarce",
       "word": "scarce",
       "display": "Scarce",
-      "phonetic": "",
-      "translation": "\u7f3a\u4e4f\u7684",
-      "sentence": "",
+      "phonetic": "/skɛrs/",
+      "translation": "缺乏的",
+      "sentence": "fresh vegetables were scarce during the drought",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-other1-scarcely",
       "word": "scarcely",
       "display": "Scarcely",
-      "phonetic": "",
-      "translation": "\u51e0\u4e4e\u4e0d",
-      "sentence": "",
+      "phonetic": "/ˈskɛrsli/",
+      "translation": "几乎不",
+      "sentence": "had scarcely rung the bell when the door flew open",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-other1-scare",
       "word": "scare",
       "display": "Scare",
-      "phonetic": "",
-      "translation": "\u5bb3\u6015",
-      "sentence": "",
+      "phonetic": "/skɛr/",
+      "translation": "害怕",
+      "sentence": "a war scare",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-other1-scold",
       "word": "scold",
       "display": "Scold",
-      "phonetic": "",
-      "translation": "\u8d23\u9a82",
-      "sentence": "",
+      "phonetic": "/skoʊld/",
+      "translation": "责骂",
+      "sentence": "The mother scolded the child for entering a stranger's car",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-other1-scorn",
       "word": "scorn",
       "display": "Scorn",
-      "phonetic": "",
-      "translation": "\u8511\u89c6",
-      "sentence": "",
+      "phonetic": "/skɔrn/",
+      "translation": "蔑视",
+      "sentence": "The professor scorns the students who don't catch on immediately",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-other1-serious",
       "word": "serious",
       "display": "Serious",
-      "phonetic": "",
-      "translation": "\u4e25\u8083\u7684\uff1b\u8ba4\u771f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɪriəs/",
+      "translation": "严肃的；认真的",
+      "sentence": "a serious student of history",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-other1-shrewd",
       "word": "shrewd",
       "display": "Shrewd",
-      "phonetic": "",
-      "translation": "\u673a\u7075\u7684",
-      "sentence": "",
+      "phonetic": "/ʃrud/",
+      "translation": "机灵的",
+      "sentence": "he was too shrewd to go along with them on a road that could lead only to their overthrow",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-other1-sick",
       "word": "sick",
       "display": "Sick",
-      "phonetic": "",
-      "translation": "\u6709\u75c5\u7684\uff1b\u6076\u5fc3\u7684",
-      "sentence": "",
+      "phonetic": "/sɪk/",
+      "translation": "有病的；恶心的",
+      "sentence": "they devote their lives to caring for the sick",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-other1-sigh",
       "word": "sigh",
       "display": "Sigh",
-      "phonetic": "",
-      "translation": "\u53f9\u606f",
-      "sentence": "",
+      "phonetic": "/saɪ/",
+      "translation": "叹息",
+      "sentence": "she heard the sigh of the wind in the trees",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-other1-silence",
       "word": "silence",
       "display": "Silence",
-      "phonetic": "",
-      "translation": "\u6c89\u9ed8",
-      "sentence": "",
+      "phonetic": "/ˈsaɪləns/",
+      "translation": "沉默",
+      "sentence": "there was a shocked silence",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-other1-silent",
       "word": "silent",
       "display": "Silent",
-      "phonetic": "",
-      "translation": "\u6c89\u9ed8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsaɪlənt/",
+      "translation": "沉默的",
+      "sentence": "a silent house",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-other1-silly",
       "word": "silly",
       "display": "Silly",
-      "phonetic": "",
-      "translation": "\u50bb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɪli/",
+      "translation": "傻的",
+      "sentence": "don't be a silly",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-other1-sincere",
       "word": "sincere",
       "display": "Sincere",
-      "phonetic": "",
-      "translation": "\u8bda\u6073\u7684",
-      "sentence": "",
+      "phonetic": "/sɪnˈsɪr/",
+      "translation": "诚恳的",
+      "sentence": "he was a good man, decent and sincere",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-other1-slack",
       "word": "slack",
       "display": "Slack",
-      "phonetic": "",
-      "translation": "\u61c8\u6020\u7684",
-      "sentence": "",
+      "phonetic": "/slæk/",
+      "translation": "懈怠的",
+      "sentence": "a gradual slack in output",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "s-other1-sly",
       "word": "sly",
       "display": "Sly",
-      "phonetic": "",
-      "translation": "\u72e1\u733e\u7684",
-      "sentence": "",
+      "phonetic": "/slaɪ/",
+      "translation": "狡猾的",
+      "sentence": "sly as a fox",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "s-other1-smart",
       "word": "smart",
       "display": "Smart",
-      "phonetic": "",
-      "translation": "\u806a\u660e\u7684",
-      "sentence": "",
+      "phonetic": "/smɑrt/",
+      "translation": "聪明的",
+      "sentence": "a smart new dress",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "s-other1-sniff",
       "word": "sniff",
       "display": "Sniff",
-      "phonetic": "",
-      "translation": "\u8511\u89c6",
-      "sentence": "",
+      "phonetic": "/snɪf/",
+      "translation": "蔑视",
+      "sentence": "sniff the perfume",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "s-other1-soul",
       "word": "soul",
       "display": "Soul",
-      "phonetic": "",
-      "translation": "\u7075\u9b42\uff1b\u7cbe\u795e",
-      "sentence": "",
+      "phonetic": "/soʊl/",
+      "translation": "灵魂；精神",
+      "sentence": "the soul of honor",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "s-other1-sour",
       "word": "sour",
       "display": "Sour",
-      "phonetic": "",
-      "translation": "\u9178\u7684\uff1b\u5c16\u9178\u523b\u8584\u7684",
-      "sentence": "",
+      "phonetic": "/saʊər/",
+      "translation": "酸的；尖酸刻薄的",
+      "sentence": "The milk has soured",
       "tags": [
         "root-family"
       ],
@@ -275,5 +275,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-other1",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

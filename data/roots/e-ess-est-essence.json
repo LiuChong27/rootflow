@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-ess-est-essence",
-  "root": "essence\u672c\u8d28\uff1b\u7cbe\u9ad3",
+  "root": "essence本质；精髓",
   "meaning": "essence",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "本质；精髓",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-ess-est-essence-elite",
       "word": "elite",
       "display": "Elite",
-      "phonetic": "",
-      "translation": "\u7cbe\u534e\uff1b\u4e2d\u575a\u5206\u5b50",
-      "sentence": "",
+      "phonetic": "/ɪˈlit/",
+      "translation": "精华；中坚分子",
+      "sentence": "elite colleges",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-ess-est-essence-essence",
       "word": "essence",
       "display": "Essence",
-      "phonetic": "",
-      "translation": "\u672c\u8d28\uff1b\u7cbe\u9ad3",
-      "sentence": "",
+      "phonetic": "/ˈɛsəns/",
+      "translation": "本质；精髓",
+      "sentence": "the gist of the prosecutor's argument",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-ess-est-essence-essential",
       "word": "essential",
       "display": "Essential",
-      "phonetic": "",
-      "translation": "\u672c\u8d28\u7684",
-      "sentence": "",
+      "phonetic": "/ɛˈsɛnʃəl/",
+      "translation": "本质的",
+      "sentence": "the essentials of the good life",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-ess-est-essence-quintessence",
       "word": "quintessence",
       "display": "Quintessence",
-      "phonetic": "",
-      "translation": "\u7cbe\u534e",
-      "sentence": "",
+      "phonetic": "/kwɪnˈtɛsəns/",
+      "translation": "精华",
+      "sentence": "A quintessence is the fifth and highest element after air and earth and fire and water; was believed to be the substance composing all heavenly bodies.",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-ess-est>e-ess-est-essence",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-other-fabl",
-  "root": "fabl=fabul\u8bf4\u8bdd",
+  "root": "fabl=fabul说话",
   "meaning": "fabl",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "说话",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-other-fabl-affability",
       "word": "affability",
       "display": "Affability",
-      "phonetic": "",
-      "translation": "\u548c\u853c",
-      "sentence": "",
+      "phonetic": "/ˌæfʌbˈɪlʌti/",
+      "translation": "和蔼",
+      "sentence": "An affability is a disposition to be friendly and approachable (easy to talk to).",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-other-fabl-affable",
       "word": "affable",
       "display": "Affable",
-      "phonetic": "",
-      "translation": "\u4eb2\u5207\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæfəbəl/",
+      "translation": "亲切的",
+      "sentence": "an affable smile",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-other-fabl-confabulate",
       "word": "confabulate",
       "display": "Confabulate",
-      "phonetic": "",
-      "translation": "\u4ea4\u8c08",
-      "sentence": "",
+      "phonetic": "/kʌnfˈɑbʌlˌeɪt/",
+      "translation": "交谈",
+      "sentence": "the men were sitting in the cafe and shooting the breeze",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-other-fabl-effable",
       "word": "effable",
       "display": "Effable",
-      "phonetic": "",
-      "translation": "\u53ef\u8868\u8fbe\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛfʌbʌl/",
+      "translation": "可表达的",
+      "sentence": "Effable is used here with the sense of \"可表达的\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-other-fabl-fable",
       "word": "fable",
       "display": "Fable",
-      "phonetic": "",
-      "translation": "\u7ae5\u8bdd",
-      "sentence": "",
+      "phonetic": "/ˈfeɪbəl/",
+      "translation": "童话",
+      "sentence": "A fable is a deliberately false or improbable account.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-other-fabl-fabulate",
       "word": "fabulate",
       "display": "Fabulate",
-      "phonetic": "",
-      "translation": "\u5bd3\u8a00\u521b\u4f5c",
-      "sentence": "",
+      "phonetic": "/fˈæbjulˌeɪt/",
+      "translation": "寓言创作",
+      "sentence": "Fabulate is used here with the sense of \"寓言创作\".",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-other-fabl-fabulist",
       "word": "fabulist",
       "display": "Fabulist",
-      "phonetic": "",
-      "translation": "\u5bd3\u8a00\u5bb6",
-      "sentence": "",
+      "phonetic": "/fˈæbjulɪst/",
+      "translation": "寓言家",
+      "sentence": "A fabulist is a person who tells or invents fables.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-other-fabl-fabulosity",
       "word": "fabulosity",
       "display": "Fabulosity",
-      "phonetic": "",
-      "translation": "\u5bd3\u8a00\u6027\u8d28",
-      "sentence": "",
+      "phonetic": "/fˌæbjulˈæsʌti/",
+      "translation": "寓言性质",
+      "sentence": "Fabulosity is used here with the sense of \"寓言性质\".",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-other>f-other-fabl",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

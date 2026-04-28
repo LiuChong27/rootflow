@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "abundant",
   "root": "abundant",
-  "meaning": "",
-  "descriptionCn": "\u4e30\u5bcc\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "abundant family",
+  "descriptionCn": "丰富的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abundant-abundant-2",
       "word": "abundant",
       "display": "Abundant",
-      "phonetic": "",
-      "translation": "\u4e30\u5bcc\u7684",
-      "sentence": "",
+      "phonetic": "/əˈbəndənt/",
+      "translation": "丰富的",
+      "sentence": "an abundant supply of water",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>apo-ab>abundant",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ad-ac-acute",
   "root": "acute",
-  "meaning": "",
-  "descriptionCn": "\u5267\u70c8\uff1b\u5c16\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "acute",
+  "descriptionCn": "剧烈；尖的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acute-ad-ac-acute-2",
       "word": "acute",
       "display": "Acute",
-      "phonetic": "",
-      "translation": "\u5267\u70c8\uff1b\u5c16\u7684",
-      "sentence": "",
+      "phonetic": "/əˈkjut/",
+      "translation": "剧烈；尖的",
+      "sentence": "acute appendicitis",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ac>ad-ac-acute",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

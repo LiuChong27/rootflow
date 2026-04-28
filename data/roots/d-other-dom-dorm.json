@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-dom-dorm",
-  "root": "dorm \u7761\u7720",
+  "root": "dorm 睡眠",
   "meaning": "dorm",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "睡眠",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-dom-dorm-dormancy",
       "word": "dormancy",
       "display": "Dormancy",
-      "phonetic": "",
-      "translation": "\u51ac\u7720\uff1b\u9759\u6b62",
-      "sentence": "",
+      "phonetic": "/ˈdɔrmənsi/",
+      "translation": "冬眠；静止",
+      "sentence": "the volcano erupted after centuries of dormancy",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-dom-dorm-dormer",
       "word": "dormer",
       "display": "Dormer",
-      "phonetic": "",
-      "translation": "\u5929\u7a97",
-      "sentence": "",
+      "phonetic": "/ˈdɔrmər/",
+      "translation": "天窗",
+      "sentence": "A dormer is a gabled extension built out from a sloping roof to accommodate a vertical window.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-dom-dorm-dormition",
       "word": "dormition",
       "display": "Dormition",
-      "phonetic": "",
-      "translation": "\u50cf\u51ac\u7720\u4e00\u6837\u7684\u6b7b\u4ea1",
-      "sentence": "",
+      "phonetic": "/dˌɔrmˈɪʃʌn/",
+      "translation": "像冬眠一样的死亡",
+      "sentence": "A dormition is celebration in the Eastern Orthodox Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Assumption in the Roman Catholic Church and is also celebrated on August 15th.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-other-dom-dorm-dormitory",
       "word": "dormitory",
       "display": "Dormitory",
-      "phonetic": "",
-      "translation": "\u5bbf\u820d",
-      "sentence": "",
+      "phonetic": "/ˈdɔrməˌtɔri/",
+      "translation": "宿舍",
+      "sentence": "A dormitory is a college or university building containing living quarters for students.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-other-dom-dorm-dormouse",
       "word": "dormouse",
       "display": "Dormouse",
-      "phonetic": "",
-      "translation": "\u51ac\u7720\u9f20",
-      "sentence": "",
+      "phonetic": "/ˈdɔrˌmaʊs/",
+      "translation": "冬眠鼠",
+      "sentence": "A dormouse is small furry-tailed squirrel-like Old World rodent that becomes torpid in cold weather.",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 4,
   "rootPath": "d>d-other>d-other-dom>d-other-dom-dorm",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

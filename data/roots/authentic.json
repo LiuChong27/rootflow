@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "authentic",
   "root": "authentic",
-  "meaning": "",
-  "descriptionCn": "\u53ef\u4fe1\u7684\uff1b\u6743\u5a01\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "authentic family",
+  "descriptionCn": "可信的；权威的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "authentic-authentic-2",
       "word": "authentic",
       "display": "Authentic",
-      "phonetic": "",
-      "translation": "\u53ef\u4fe1\u7684\uff1b\u6743\u5a01\u7684",
-      "sentence": "",
+      "phonetic": "/əˈθɛnɪk/",
+      "translation": "可信的；权威的",
+      "sentence": "an authentic account by an eyewitness",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 7,
   "rootPath": "a>a-prefix>ad-add-axx>ad-aug>author>authority>authentic",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

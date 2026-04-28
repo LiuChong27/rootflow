@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "abound",
   "root": "abound",
-  "meaning": "",
-  "descriptionCn": "\u5145\u6ee1",
-  "updatedAt": "2026-04-15",
+  "meaning": "abound family",
+  "descriptionCn": "充满",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abound",
       "word": "abound",
       "display": "Abound",
-      "phonetic": "",
-      "translation": "\u5145\u6ee1",
-      "sentence": "",
+      "phonetic": "/əˈbaʊnd/",
+      "translation": "充满",
+      "sentence": "The room abounded with screaming children",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>apo-ab>abundant>abound",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acid-acr",
   "root": "acid=acr",
-  "meaning": "",
-  "descriptionCn": "\u9178\u3001\u5c16\u9178",
-  "updatedAt": "2026-04-15",
+  "meaning": "acid=acr",
+  "descriptionCn": "酸、尖酸",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acid-acid-acr-2",
       "word": "acid",
       "display": "Acid",
-      "phonetic": "",
-      "translation": "\u9178\u3001\u5c16\u9178",
-      "sentence": "",
+      "phonetic": "/ˈæsəd/",
+      "translation": "酸、尖酸",
+      "sentence": "a barrage of acid comments",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "acr",
       "word": "acr",
       "display": "Acr",
-      "phonetic": "",
-      "translation": "\u9178\u3001\u5c16\u9178",
-      "sentence": "",
+      "phonetic": "/ˈæks/",
+      "translation": "酸、尖酸",
+      "sentence": "Acr is used here with the sense of \"酸、尖酸\".",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>ac>acid-acr",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

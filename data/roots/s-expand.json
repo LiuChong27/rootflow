@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-expand",
-  "root": "\u5c55\u5f00",
+  "root": "展开",
   "meaning": "expand",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "展开",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-expand-spray",
       "word": "spray",
       "display": "Spray",
-      "phonetic": "",
-      "translation": "\u55b7\u96fe\uff1b\u98de\u6cab\uff1b\u6c34\u82b1",
-      "sentence": "",
+      "phonetic": "/spreɪ/",
+      "translation": "喷雾；飞沫；水花",
+      "sentence": "a spray of bullets",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-expand-spread",
       "word": "spread",
       "display": "Spread",
-      "phonetic": "",
-      "translation": "\u4f38\u5c55\uff1b\u4f20\u64ad",
-      "sentence": "",
+      "phonetic": "/sprɛd/",
+      "translation": "伸展；传播",
+      "sentence": "the spread between lending and borrowing costs",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-expand-spring",
       "word": "spring",
       "display": "Spring",
-      "phonetic": "",
-      "translation": "\u6625\uff1b\u5f39\u7c27",
-      "sentence": "",
+      "phonetic": "/spərɪŋ/",
+      "translation": "春；弹簧",
+      "sentence": "the emerging buds were a sure sign of spring",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-expand-sprinkle",
       "word": "sprinkle",
       "display": "Sprinkle",
-      "phonetic": "",
-      "translation": "\u55b7\u6d12",
-      "sentence": "",
+      "phonetic": "/ˈsprɪŋkəl/",
+      "translation": "喷洒",
+      "sentence": "It has only sprinkled, but the roads are slick",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-expand-sprout",
       "word": "sprout",
       "display": "Sprout",
-      "phonetic": "",
-      "translation": "\u53d1\u82bd",
-      "sentence": "",
+      "phonetic": "/spraʊt/",
+      "translation": "发芽",
+      "sentence": "the potatoes sprouted",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-expand-spur",
       "word": "spur",
       "display": "Spur",
-      "phonetic": "",
-      "translation": "\u97ad\u7b56\uff1b\u523a\u6fc0",
-      "sentence": "",
+      "phonetic": "/spər/",
+      "translation": "鞭策；刺激",
+      "sentence": "cowboys know not to squat with their spurs on",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-expand-stretch",
       "word": "stretch",
       "display": "Stretch",
-      "phonetic": "",
-      "translation": "\u4f38\u5c55",
-      "sentence": "",
+      "phonetic": "/strɛʧ/",
+      "translation": "伸展",
+      "sentence": "a stretch of highway",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-expand-string",
       "word": "string",
       "display": "String",
-      "phonetic": "",
-      "translation": "\u7ef3",
-      "sentence": "",
+      "phonetic": "/strɪŋ/",
+      "translation": "绳",
+      "sentence": "the strings played superlatively well",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-expand-strip",
       "word": "strip",
       "display": "Strip",
-      "phonetic": "",
-      "translation": "\u6761\u7eb9\uff1b\u5265\u53bb",
-      "sentence": "",
+      "phonetic": "/strɪp/",
+      "translation": "条纹；剥去",
+      "sentence": "he felt a flat strip of muscle",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-expand-stripe",
       "word": "stripe",
       "display": "Stripe",
-      "phonetic": "",
-      "translation": "\u6761\u7eb9",
-      "sentence": "",
+      "phonetic": "/straɪp/",
+      "translation": "条纹",
+      "sentence": "they earned their stripes in Kuwait",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-expand-stroll",
       "word": "stroll",
       "display": "Stroll",
-      "phonetic": "",
-      "translation": "\u6f2b\u6b65\uff1b\u6563\u6b65",
-      "sentence": "",
+      "phonetic": "/stroʊl/",
+      "translation": "漫步；散步",
+      "sentence": "A stroll is a leisurely walk (usually in some public place).",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-expand",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

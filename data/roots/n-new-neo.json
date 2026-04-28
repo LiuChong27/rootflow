@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-new-neo",
-  "root": "neo\u65b0",
+  "root": "neo新",
   "meaning": "new",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "新",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-new-neo-naive",
       "word": "naive",
       "display": "Naive",
-      "phonetic": "",
-      "translation": "\u5929\u771f\u7684",
-      "sentence": "",
+      "phonetic": "/naɪiv/",
+      "translation": "天真的",
+      "sentence": "a teenager's naive ignorance of life",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-new-neo-naked",
       "word": "naked",
       "display": "Naked",
-      "phonetic": "",
-      "translation": "\u88f8\u4f53\u7684",
-      "sentence": "",
+      "phonetic": "/ˈneɪkəd/",
+      "translation": "裸体的",
+      "sentence": "naked from the waist up",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "n>n-new>n-new-neo",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

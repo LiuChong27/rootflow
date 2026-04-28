@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-other-nap",
       "word": "nap",
       "display": "Nap",
-      "phonetic": "",
-      "translation": "\u6253\u76f9",
-      "sentence": "",
+      "phonetic": "/næp/",
+      "translation": "打盹",
+      "sentence": "there wasn't time for a nap",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-other-napkin",
       "word": "napkin",
       "display": "Napkin",
-      "phonetic": "",
-      "translation": "\u9910\u5dfe\uff1b\u5c3f\u5e03",
-      "sentence": "",
+      "phonetic": "/ˈnæpkɪn/",
+      "translation": "餐巾；尿布",
+      "sentence": "A napkin is a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-other-narrative",
       "word": "narrative",
       "display": "Narrative",
-      "phonetic": "",
-      "translation": "\u53d9\u8ff0",
-      "sentence": "",
+      "phonetic": "/ˈnɛrətɪv/",
+      "translation": "叙述",
+      "sentence": "his narrative was interesting",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-other-narrow",
       "word": "narrow",
       "display": "Narrow",
-      "phonetic": "",
-      "translation": "\u72ed\u7a84\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɛroʊ/",
+      "translation": "狭窄的",
+      "sentence": "The selection was narrowed",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-other-nasty",
       "word": "nasty",
       "display": "Nasty",
-      "phonetic": "",
-      "translation": "\u5351\u9119\u4e0b\u6d41\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnæsti/",
+      "translation": "卑鄙下流的",
+      "sentence": "in a nasty mood",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-other-near",
       "word": "near",
       "display": "Near",
-      "phonetic": "",
-      "translation": "\u63a5\u8fd1",
-      "sentence": "",
+      "phonetic": "/nɪr/",
+      "translation": "接近",
+      "sentence": "They are drawing near",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-other-nearby",
       "word": "nearby",
       "display": "Nearby",
-      "phonetic": "",
-      "translation": "\u9644\u8fd1\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɪrˈbaɪ/",
+      "translation": "附近的",
+      "sentence": "the nearby towns",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "n-other-nearly",
       "word": "nearly",
       "display": "Nearly",
-      "phonetic": "",
-      "translation": "\u5dee\u4e0d\u591a",
-      "sentence": "",
+      "phonetic": "/ˈnɪrli/",
+      "translation": "差不多",
+      "sentence": "he nearly fainted",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "n-other-neat",
       "word": "neat",
       "display": "Neat",
-      "phonetic": "",
-      "translation": "\u6574\u6d01\u7684\uff1b\u5e72\u51c0\u7684\uff1b\u4f18\u7f8e\u7684\uff1b\u7cbe\u81f4\u7684",
-      "sentence": "",
+      "phonetic": "/niːt/",
+      "translation": "整洁的；干净的；优美的；精致的",
+      "sentence": "her neat dress",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "n-other-necessarily",
       "word": "necessarily",
       "display": "Necessarily",
-      "phonetic": "",
-      "translation": "\u5fc5\u9700\u7684",
-      "sentence": "",
+      "phonetic": "/ˌnɛsəˈsɛrəli/",
+      "translation": "必需的",
+      "sentence": "such expenses are necessarily incurred",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "n-other-necessitate",
       "word": "necessitate",
       "display": "Necessitate",
-      "phonetic": "",
-      "translation": "\u4f7f\u5fc5\u8981",
-      "sentence": "",
+      "phonetic": "/nəˈsɛsəˌteɪt/",
+      "translation": "使必要",
+      "sentence": "It takes nerve to do what she did",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "n-other-necessity",
       "word": "necessity",
       "display": "Necessity",
-      "phonetic": "",
-      "translation": "\u5fc5\u8981\u6027",
-      "sentence": "",
+      "phonetic": "/nəˈsɛsɪti/",
+      "translation": "必要性",
+      "sentence": "food and shelter are necessities of life",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "n-other-neck",
       "word": "neck",
       "display": "Neck",
-      "phonetic": "",
-      "translation": "\u8116\u5b50",
-      "sentence": "",
+      "phonetic": "/nɛk/",
+      "translation": "脖子",
+      "sentence": "he admired her long graceful neck",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "n-other-necklace",
       "word": "necklace",
       "display": "Necklace",
-      "phonetic": "",
-      "translation": "\u9879\u94fe\uff1b\u9879\u5708",
-      "sentence": "",
+      "phonetic": "/ˈnɛkləs/",
+      "translation": "项链；项圈",
+      "sentence": "A necklace is jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women).",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "n-other-need",
       "word": "need",
       "display": "Need",
-      "phonetic": "",
-      "translation": "\u9700\u8981",
-      "sentence": "",
+      "phonetic": "/niːd/",
+      "translation": "需要",
+      "sentence": "she satisfied his need for affection",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "n-other-neutral",
       "word": "neutral",
       "display": "Neutral",
-      "phonetic": "",
-      "translation": "\u4e2d\u7acb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnutrəl/",
+      "translation": "中立的",
+      "sentence": "a neutral observer",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "n-other-nuclear",
       "word": "nuclear",
       "display": "Nuclear",
-      "phonetic": "",
-      "translation": "\u6838\u5fc3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnukliər/",
+      "translation": "核心的",
+      "sentence": "nuclear war",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "n-other-nucleus",
       "word": "nucleus",
       "display": "Nucleus",
-      "phonetic": "",
-      "translation": "\u539f\u5b50\u6838",
-      "sentence": "",
+      "phonetic": "/ˈnukliəs/",
+      "translation": "原子核",
+      "sentence": "five periodicals make up the core of their publishing program",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "n-other-nuisance",
       "word": "nuisance",
       "display": "Nuisance",
-      "phonetic": "",
-      "translation": "\u8ba8\u538c\u7684\u4eba\uff1b\u9ebb\u70e6\u4e8b",
-      "sentence": "",
+      "phonetic": "/ˈnusəns/",
+      "translation": "讨厌的人；麻烦事",
+      "sentence": "that kid is a terrible pain",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "n-other-nylon",
       "word": "nylon",
       "display": "Nylon",
-      "phonetic": "",
-      "translation": "\u5c3c\u9f99",
-      "sentence": "",
+      "phonetic": "/ˈnaɪˌlɑn/",
+      "translation": "尼龙",
+      "sentence": "A nylon is a thermoplastic polyamide; a family of strong resilient synthetic fibers.",
       "tags": [
         "root-family"
       ],
@@ -251,5 +251,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

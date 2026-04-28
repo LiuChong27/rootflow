@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-sir",
-  "root": "sir\u5148\u751f",
+  "root": "sir先生",
   "meaning": "sir",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "先生",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-sir",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-sir",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

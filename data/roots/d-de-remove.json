@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-de-remove",
-  "root": "\u53bb\u9664\uff1b\u4e0b",
+  "root": "去除；下",
   "meaning": "remove",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "去除；下",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-de-remove-decline",
       "word": "decline",
       "display": "Decline",
-      "phonetic": "",
-      "translation": "\u4e0b\u964d",
-      "sentence": "",
+      "phonetic": "/dɪˈklaɪn/",
+      "translation": "下降",
+      "sentence": "he declined to join the group on a hike",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-de-remove-decrease",
       "word": "decrease",
       "display": "Decrease",
-      "phonetic": "",
-      "translation": "\u51cf\u5c11",
-      "sentence": "",
+      "phonetic": "/ˈdiˌkris/",
+      "translation": "减少",
+      "sentence": "there was a decrease in his temperature as the fever subsided",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-de-remove-defect",
       "word": "defect",
       "display": "Defect",
-      "phonetic": "",
-      "translation": "\u8fc7\u5931\uff1b\u7f3a\u70b9",
-      "sentence": "",
+      "phonetic": "/ˈdifɛkt/",
+      "translation": "过失；缺点",
+      "sentence": "visual defects",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-de-remove-deficiency",
       "word": "deficiency",
       "display": "Deficiency",
-      "phonetic": "",
-      "translation": "\u7f3a\u4e4f\uff1b\u4e0d\u8db3",
-      "sentence": "",
+      "phonetic": "/dɪˈfɪʃənsi/",
+      "translation": "缺乏；不足",
+      "sentence": "water is the critical deficiency in desert regions",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-de-remove-deficit",
       "word": "deficit",
       "display": "Deficit",
-      "phonetic": "",
-      "translation": "\u4e8f\u635f\uff1b\u7f3a\u4e4f",
-      "sentence": "",
+      "phonetic": "/ˈdɛfəsət/",
+      "translation": "亏损；缺乏",
+      "sentence": "new blood vessels bud out from the already dilated vascular bed to make up the nutritional deficit",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-de-remove-define",
       "word": "define",
       "display": "Define",
-      "phonetic": "",
-      "translation": "\u4e0b\u5b9a\u4e49",
-      "sentence": "",
+      "phonetic": "/dɪˈfaɪn/",
+      "translation": "下定义",
+      "sentence": "Define `sadness'",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-de-remove-definition",
       "word": "definition",
       "display": "Definition",
-      "phonetic": "",
-      "translation": "\u5b9a\u4e49\uff1b\u89e3\u91ca",
-      "sentence": "",
+      "phonetic": "/ˌdɛfəˈnɪʃən/",
+      "translation": "定义；解释",
+      "sentence": "exercise had given his muscles superior definition",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-de-remove-degenerate",
       "word": "degenerate",
       "display": "Degenerate",
-      "phonetic": "",
-      "translation": "\u8870\u9000",
-      "sentence": "",
+      "phonetic": "/dɪˈʤɛnərˌeɪt/",
+      "translation": "衰退",
+      "sentence": "Conditions in the slums degenerated",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-de-remove-delay",
       "word": "delay",
       "display": "Delay",
-      "phonetic": "",
-      "translation": "\u5ef6\u8fdf",
-      "sentence": "",
+      "phonetic": "/dɪˈleɪ/",
+      "translation": "延迟",
+      "sentence": "instant replay caused too long a delay",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-de-remove-denial",
       "word": "denial",
       "display": "Denial",
-      "phonetic": "",
-      "translation": "\u5426\u8ba4\uff1b\u62d2\u7edd",
-      "sentence": "",
+      "phonetic": "/dɪˈnaɪəl/",
+      "translation": "否认；拒绝",
+      "sentence": "it resulted in a complete denial of his privileges",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-de-remove-deny",
       "word": "deny",
       "display": "Deny",
-      "phonetic": "",
-      "translation": "\u5426\u8ba4",
-      "sentence": "",
+      "phonetic": "/dɪˈnaɪ/",
+      "translation": "否认",
+      "sentence": "He denied the allegations",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-de-remove-depart",
       "word": "depart",
       "display": "Depart",
-      "phonetic": "",
-      "translation": "\u79bb\u5f00\uff1b\u8fc7\u53bb\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈpɑrt/",
+      "translation": "离开；过去的",
+      "sentence": "The train departs at noon",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-de-remove-department",
       "word": "department",
       "display": "Department",
-      "phonetic": "",
-      "translation": "\u90e8\u95e8",
-      "sentence": "",
+      "phonetic": "/dɪˈpɑrtmənt/",
+      "translation": "部门",
+      "sentence": "you'll find it in the hardware department",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "d-de-remove-depress",
       "word": "depress",
       "display": "Depress",
-      "phonetic": "",
-      "translation": "\u538b\u6291\uff1b\u964d\u4f4e",
-      "sentence": "",
+      "phonetic": "/dɪˈprɛs/",
+      "translation": "压抑；降低",
+      "sentence": "These news depressed her",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "d-de-remove-deprive",
       "word": "deprive",
       "display": "Deprive",
-      "phonetic": "",
-      "translation": "\u5265\u593a",
-      "sentence": "",
+      "phonetic": "/dɪˈpraɪv/",
+      "translation": "剥夺",
+      "sentence": "The Nazis stripped the Jews of all their assets",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "d-de-remove-descendant",
       "word": "descendant",
       "display": "Descendant",
-      "phonetic": "",
-      "translation": "\u5b50\u5b59",
-      "sentence": "",
+      "phonetic": "/dɪˈsɛndənt/",
+      "translation": "子孙",
+      "sentence": "descendent gene",
       "tags": [
         "root-family"
       ],
@@ -203,5 +203,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-de>d-de-remove",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

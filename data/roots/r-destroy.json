@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-destroy",
-  "root": "\u7834\u574f",
+  "root": "破坏",
   "meaning": "destroy",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "破坏",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-destroy-abrade",
       "word": "abrade",
       "display": "Abrade",
-      "phonetic": "",
-      "translation": "\u78e8\u635f",
-      "sentence": "",
+      "phonetic": "/ʌbrˈeɪd/",
+      "translation": "磨损",
+      "sentence": "scour the counter tops",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-destroy-abrase",
       "word": "abrase",
       "display": "Abrase",
-      "phonetic": "",
-      "translation": "\u78e8\u635f",
-      "sentence": "",
+      "phonetic": "/ʌbrˈeɪs/",
+      "translation": "磨损",
+      "sentence": "To abrase is to wear away.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-destroy-abraser",
       "word": "abraser",
       "display": "Abraser",
-      "phonetic": "",
-      "translation": "\u9b54\u77f3",
-      "sentence": "",
+      "phonetic": "/ʌbrˈeɪsɚ/",
+      "translation": "魔石",
+      "sentence": "Abraser is used here with the sense of \"魔石\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-destroy-abrasion",
       "word": "abrasion",
       "display": "Abrasion",
-      "phonetic": "",
-      "translation": "\u78e8\u635f",
-      "sentence": "",
+      "phonetic": "/əˈbreɪʒən/",
+      "translation": "磨损",
+      "sentence": "An abrasion is an abraded area where the skin is torn or worn off.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-destroy-erase",
       "word": "erase",
       "display": "Erase",
-      "phonetic": "",
-      "translation": "\u64e6\u53bb",
-      "sentence": "",
+      "phonetic": "/ɪˈreɪs/",
+      "translation": "擦去",
+      "sentence": "The Turks erased the Armenians in 1915",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-destroy-rage",
       "word": "rage",
       "display": "Rage",
-      "phonetic": "",
-      "translation": "\u6124\u6012",
-      "sentence": "",
+      "phonetic": "/reɪʤ/",
+      "translation": "愤怒",
+      "sentence": "his face turned red with rage",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-destroy-raid",
       "word": "raid",
       "display": "Raid",
-      "phonetic": "",
-      "translation": "\u88ad\u51fb",
-      "sentence": "",
+      "phonetic": "/reɪd/",
+      "translation": "袭击",
+      "sentence": "The police raided the crack house",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-destroy-rap",
       "word": "rap",
       "display": "Rap",
-      "phonetic": "",
-      "translation": "\u53e9\u51fb",
-      "sentence": "",
+      "phonetic": "/ræp/",
+      "translation": "叩击",
+      "sentence": "it was a bum rap",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-destroy-rape",
       "word": "rape",
       "display": "Rape",
-      "phonetic": "",
-      "translation": "\u63a0\u593a",
-      "sentence": "",
+      "phonetic": "/reɪp/",
+      "translation": "掠夺",
+      "sentence": "The woman was raped on her way home at night",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-destroy-rash",
       "word": "rash",
       "display": "Rash",
-      "phonetic": "",
-      "translation": "\u8f7b\u7387\u5730\uff1b\u9c81\u83bd\u7684",
-      "sentence": "",
+      "phonetic": "/ræʃ/",
+      "translation": "轻率地；鲁莽的",
+      "sentence": "a rash of bank robberies",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-destroy-razor",
       "word": "razor",
       "display": "Razor",
-      "phonetic": "",
-      "translation": "\u5243\u5200",
-      "sentence": "",
+      "phonetic": "/ˈreɪzər/",
+      "translation": "剃刀",
+      "sentence": "A razor is edge tool used in shaving.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-destroy-reap",
       "word": "reap",
       "display": "Reap",
-      "phonetic": "",
-      "translation": "\u6536\u5272",
-      "sentence": "",
+      "phonetic": "/riːp/",
+      "translation": "收割",
+      "sentence": "harvest the grapes",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-destroy-regime",
       "word": "regime",
       "display": "Regime",
-      "phonetic": "",
-      "translation": "\u653f\u4f53",
-      "sentence": "",
+      "phonetic": "/rəˈʒim/",
+      "translation": "政体",
+      "sentence": "the government reduced taxes",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-destroy-region",
       "word": "region",
       "display": "Region",
-      "phonetic": "",
-      "translation": "\u5730\u533a",
-      "sentence": "",
+      "phonetic": "/ˈriʤən/",
+      "translation": "地区",
+      "sentence": "the farming regions of France",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-destroy-rigorous",
       "word": "rigorous",
       "display": "Rigorous",
-      "phonetic": "",
-      "translation": "\u4e25\u683c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɪgərəs/",
+      "translation": "严格的",
+      "sentence": "rigorous application of the law",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-destroy-riot",
       "word": "riot",
       "display": "Riot",
-      "phonetic": "",
-      "translation": "\u66b4\u4e71\uff1b\u9a9a\u4e71",
-      "sentence": "",
+      "phonetic": "/raɪət/",
+      "translation": "暴乱；骚乱",
+      "sentence": "Students were rioting everywhere in 1968",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "r-destroy-rip",
       "word": "rip",
       "display": "Rip",
-      "phonetic": "",
-      "translation": "\u6495\u88c2",
-      "sentence": "",
+      "phonetic": "/rɪp/",
+      "translation": "撕裂",
+      "sentence": "there was a rip in his pants",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "r-destroy-ripe",
       "word": "ripe",
       "display": "Ripe",
-      "phonetic": "",
-      "translation": "\u6210\u719f\u7684",
-      "sentence": "",
+      "phonetic": "/raɪp/",
+      "translation": "成熟的",
+      "sentence": "ripe peaches",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "r-destroy-rival",
       "word": "rival",
       "display": "Rival",
-      "phonetic": "",
-      "translation": "\u5bf9\u624b\uff1b\u7ade\u4e89",
-      "sentence": "",
+      "phonetic": "/ˈraɪvəl/",
+      "translation": "对手；竞争",
+      "sentence": "he had respect for his rivals",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "r-destroy-river",
       "word": "river",
       "display": "River",
-      "phonetic": "",
-      "translation": "\u6cb3\u6d41",
-      "sentence": "",
+      "phonetic": "/ˈrɪvər/",
+      "translation": "河流",
+      "sentence": "the river was navigable for 50 miles",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "r-destroy-rob",
       "word": "rob",
       "display": "Rob",
-      "phonetic": "",
-      "translation": "\u62a2\u52ab",
-      "sentence": "",
+      "phonetic": "/rɑb/",
+      "translation": "抢劫",
+      "sentence": "The burglars robbed him of all his money",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "r-destroy-robe",
       "word": "robe",
       "display": "Robe",
-      "phonetic": "",
-      "translation": "\u957f\u888d",
-      "sentence": "",
+      "phonetic": "/roʊb/",
+      "translation": "长袍",
+      "sentence": "the mountain was clothed in tropical trees",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "r-destroy-rub",
       "word": "rub",
       "display": "Rub",
-      "phonetic": "",
-      "translation": "\u64e6",
-      "sentence": "",
+      "phonetic": "/rəb/",
+      "translation": "擦",
+      "sentence": "he gave the hood a quick rub",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "r-destroy-rubber",
       "word": "rubber",
       "display": "Rubber",
-      "phonetic": "",
-      "translation": "\u6a61\u76ae\u64e6",
-      "sentence": "",
+      "phonetic": "/ˈrəbər/",
+      "translation": "橡皮擦",
+      "sentence": "rubberize fabric for rain coats",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "r-destroy-rubbish",
       "word": "rubbish",
       "display": "Rubbish",
-      "phonetic": "",
-      "translation": "\u5783\u573e",
-      "sentence": "",
+      "phonetic": "/ˈrəbɪʃ/",
+      "translation": "垃圾",
+      "sentence": "A rubbish is worthless material that is to be disposed of.",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "r-destroy-rude",
       "word": "rude",
       "display": "Rude",
-      "phonetic": "",
-      "translation": "\u7c97\u9c81\u7684",
-      "sentence": "",
+      "phonetic": "/ruːd/",
+      "translation": "粗鲁的",
+      "sentence": "bales of rude cotton",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "r-destroy-ruin",
       "word": "ruin",
       "display": "Ruin",
-      "phonetic": "",
-      "translation": "\u6bc1\u706d",
-      "sentence": "",
+      "phonetic": "/ruɪn/",
+      "translation": "毁灭",
+      "sentence": "you have brought ruin on this entire family",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "r-destroy-rule",
       "word": "rule",
       "display": "Rule",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb\uff1b\u652f\u914d\uff1b\u89c4\u5219",
-      "sentence": "",
+      "phonetic": "/ruːl/",
+      "translation": "统治；支配；规则",
+      "sentence": "it was his rule to take a walk before breakfast",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "r-destroy-ruler",
       "word": "ruler",
       "display": "Ruler",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb\u8005",
-      "sentence": "",
+      "phonetic": "/ˈrulər/",
+      "translation": "统治者",
+      "sentence": "swayer of the universe",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "r-destroy-ruthless",
       "word": "ruthless",
       "display": "Ruthless",
-      "phonetic": "",
-      "translation": "\u6b8b\u9177\u7684",
-      "sentence": "",
+      "phonetic": "/ˈruθləs/",
+      "translation": "残酷的",
+      "sentence": "an act of ruthless ferocity",
       "tags": [
         "root-family"
       ],
@@ -371,5 +371,6 @@
   "rootLevel": 2,
   "rootPath": "r>r-destroy",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

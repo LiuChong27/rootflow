@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "agent",
   "root": "agent",
-  "meaning": "",
-  "descriptionCn": "\u4ee3\u7406\u4eba",
-  "updatedAt": "2026-04-15",
+  "meaning": "agent family",
+  "descriptionCn": "代理人",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "agent-agent-2",
       "word": "agent",
       "display": "Agent",
-      "phonetic": "",
-      "translation": "\u4ee3\u7406\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈeɪʤənt/",
+      "translation": "代理人",
+      "sentence": "their research uncovered new disease agents",
       "tags": [
         "root-family",
         "affairs"
@@ -24,5 +24,6 @@
   "rootLevel": 3,
   "rootPath": "a>act>agent",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

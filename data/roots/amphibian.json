@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "amphibian",
   "root": "amphibian",
-  "meaning": "",
-  "descriptionCn": "\u4e24\u6816\u7c7b",
-  "updatedAt": "2026-04-15",
+  "meaning": "amphibian family",
+  "descriptionCn": "两栖类",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "amphibian-amphibian-2",
       "word": "amphibian",
       "display": "Amphibian",
-      "phonetic": "",
-      "translation": "\u4e24\u6816\u7c7b",
-      "sentence": "",
+      "phonetic": "/æmˈfɪbiən/",
+      "translation": "两栖类",
+      "sentence": "An amphibian is a flat-bottomed motor vehicle that can travel on land or water.",
       "tags": [
         "root-family",
         "biology"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

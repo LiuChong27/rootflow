@@ -3,16 +3,16 @@
   "rootId": "a-without",
   "root": "a-=an-=without",
   "meaning": "without",
-  "descriptionCn": "\u6ca1\u6709",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "没有",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abyss",
       "word": "abyss",
       "display": "Abyss",
-      "phonetic": "",
-      "translation": "\u6df1\u6e0a\uff1b\u65e0\u5e95\u6d1e",
-      "sentence": "",
+      "phonetic": "/əˈbɪs/",
+      "translation": "深渊；无底洞",
+      "sentence": "Abyss refers to a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively).",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "anacid",
       "word": "anacid",
       "display": "Anacid",
-      "phonetic": "",
-      "translation": "\u65e0\u9178\u7684",
-      "sentence": "",
+      "phonetic": "/ˈænʌsɪd/",
+      "translation": "无酸的",
+      "sentence": "Anacid is used here with the sense of \"无酸的\".",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "anarchy-a-without-2",
       "word": "anarchy",
       "display": "Anarchy",
-      "phonetic": "",
-      "translation": "\u653f\u6cbb\u6df7\u4e71",
-      "sentence": "",
+      "phonetic": "/ˈænərˌki/",
+      "translation": "政治混乱",
+      "sentence": "An anarchy is a state of lawlessness and disorder (usually resulting from a failure of government).",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "anecdote",
       "word": "anecdote",
       "display": "Anecdote",
-      "phonetic": "",
-      "translation": "\u5947\u95fb",
-      "sentence": "",
+      "phonetic": "/ˈænɪkˌdoʊt/",
+      "translation": "奇闻",
+      "sentence": "An anecdote is short account of an incident (especially a biographical one).",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "anharmonic",
       "word": "anharmonic",
       "display": "Anharmonic",
-      "phonetic": "",
-      "translation": "\u4e0d\u548c\u8c10\u7684",
-      "sentence": "",
+      "phonetic": "/ˌænhˈɑrdʌmɪk/",
+      "translation": "不和谐的",
+      "sentence": "Anharmonic is used here with the sense of \"不和谐的\".",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "anhydrous",
       "word": "anhydrous",
       "display": "Anhydrous",
-      "phonetic": "",
-      "translation": "\u65e0\u6c34\u7684",
-      "sentence": "",
+      "phonetic": "/ˈænhidrˌʌs/",
+      "translation": "无水的",
+      "sentence": "If something is anhydrous, it is without water; especially without water of crystallization.",
       "tags": [
         "root-family",
         "other"
@@ -88,9 +88,9 @@
       "id": "anomaly",
       "word": "anomaly",
       "display": "Anomaly",
-      "phonetic": "",
-      "translation": "\u4e0d\u89c4\u5219",
-      "sentence": "",
+      "phonetic": "/əˈnɑməli/",
+      "translation": "不规则",
+      "sentence": "An anomaly is deviation from the normal or common order or form or rule.",
       "tags": [
         "root-family",
         "other"
@@ -101,9 +101,9 @@
       "id": "anonymous",
       "word": "anonymous",
       "display": "Anonymous",
-      "phonetic": "",
-      "translation": "\u65e0\u540d\u7684\uff1b\u533f\u540d\u7684",
-      "sentence": "",
+      "phonetic": "/əˈnɑnəməs/",
+      "translation": "无名的；匿名的",
+      "sentence": "anonymous authors",
       "tags": [
         "root-family",
         "other"
@@ -114,9 +114,9 @@
       "id": "apathy",
       "word": "apathy",
       "display": "Apathy",
-      "phonetic": "",
-      "translation": "\u51b7\u6f20",
-      "sentence": "",
+      "phonetic": "/ˈæpəθi/",
+      "translation": "冷漠",
+      "sentence": "An apathy is an absence of emotion or enthusiasm.",
       "tags": [
         "root-family",
         "other"
@@ -127,9 +127,9 @@
       "id": "aperiodic",
       "word": "aperiodic",
       "display": "Aperiodic",
-      "phonetic": "",
-      "translation": "\u975e\u5468\u671f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌæpɚaɪdˈɪkɪd/",
+      "translation": "非周期的",
+      "sentence": "If something is aperiodic, it is not recurring at regular intervals.",
       "tags": [
         "root-family",
         "other"
@@ -140,9 +140,9 @@
       "id": "asexual",
       "word": "asexual",
       "display": "Asexual",
-      "phonetic": "",
-      "translation": "\u65e0\u6027\u7684\uff1b\u65e0\u6027\u751f\u6b96\u7684",
-      "sentence": "",
+      "phonetic": "/eɪˈsɛksjuəl/",
+      "translation": "无性的；无性生殖的",
+      "sentence": "an asexual spore",
       "tags": [
         "root-family",
         "other"
@@ -153,9 +153,9 @@
       "id": "asymmetry",
       "word": "asymmetry",
       "display": "Asymmetry",
-      "phonetic": "",
-      "translation": "\u4e0d\u5bf9\u79f0\u7684",
-      "sentence": "",
+      "phonetic": "/ˌeɪˈsɪmətri/",
+      "translation": "不对称的",
+      "sentence": "An asymmetry is (mathematics) a lack of symmetry.",
       "tags": [
         "root-family",
         "other"
@@ -166,9 +166,9 @@
       "id": "atheist",
       "word": "atheist",
       "display": "Atheist",
-      "phonetic": "",
-      "translation": "\u65e0\u795e\u8bba\u8005",
-      "sentence": "",
+      "phonetic": "/ˈeɪθiəst/",
+      "translation": "无神论者",
+      "sentence": "atheist leanings",
       "tags": [
         "root-family",
         "other"
@@ -179,9 +179,9 @@
       "id": "atypical",
       "word": "atypical",
       "display": "Atypical",
-      "phonetic": "",
-      "translation": "\u975e\u5178\u578b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌeɪˈtɪpɪkəl/",
+      "translation": "非典型的",
+      "sentence": "a group that is atypical of the target audience",
       "tags": [
         "root-family",
         "other"
@@ -193,5 +193,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-prefix>a-without",
   "type": "prefix",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

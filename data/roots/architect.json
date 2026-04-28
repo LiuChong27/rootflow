@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "architect",
   "root": "architect",
-  "meaning": "",
-  "descriptionCn": "\u5efa\u7b51\u5e08",
-  "updatedAt": "2026-04-15",
+  "meaning": "architect family",
+  "descriptionCn": "建筑师",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "architect-architect-2",
       "word": "architect",
       "display": "Architect",
-      "phonetic": "",
-      "translation": "\u5efa\u7b51\u5e08",
-      "sentence": "",
+      "phonetic": "/ˈɑrkəˌtɛkt/",
+      "translation": "建筑师",
+      "sentence": "An architect is someone who creates plans to be used in making something (such as buildings).",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>arch>architect",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

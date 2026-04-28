@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "audition",
   "root": "audition",
-  "meaning": "",
-  "descriptionCn": "\u89c6\u542c\uff1b\u8bd5\u955c",
-  "updatedAt": "2026-04-15",
+  "meaning": "audition family",
+  "descriptionCn": "视听；试镜",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "audit",
       "word": "audit",
       "display": "Audit",
-      "phonetic": "",
-      "translation": "\u67e5\u8d26\uff1b\u65c1\u542c",
-      "sentence": "",
+      "phonetic": "/ˈɔdɪt/",
+      "translation": "查账；旁听",
+      "sentence": "he made an audit of all the plants on his property",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "audition-audition-2",
       "word": "audition",
       "display": "Audition",
-      "phonetic": "",
-      "translation": "\u89c6\u542c\uff1b\u8bd5\u955c",
-      "sentence": "",
+      "phonetic": "/ɑˈdɪʃən/",
+      "translation": "视听；试镜",
+      "sentence": "She auditioned for a role on Broadway",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "auditor",
       "word": "auditor",
       "display": "Auditor",
-      "phonetic": "",
-      "translation": "\u65c1\u542c\u751f",
-      "sentence": "",
+      "phonetic": "/ˈɔdɪtər/",
+      "translation": "旁听生",
+      "sentence": "An auditor is someone who listens attentively.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "auditory",
       "word": "auditory",
       "display": "Auditory",
-      "phonetic": "",
-      "translation": "\u542c\u89c9\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɔdɪˌtɔri/",
+      "translation": "听觉的",
+      "sentence": "auditory processing",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "a>audi>audition",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

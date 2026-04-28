@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-card-cartoon",
-  "root": "cartoon\u5361\u901a",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "cartoon卡通",
+  "meaning": "cartoon",
+  "descriptionCn": "卡通",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-card-cartoon-carte",
       "word": "carte",
       "display": "Carte",
-      "phonetic": "",
-      "translation": "\u5784\u65ad\u8054\u76df",
-      "sentence": "",
+      "phonetic": "/kɑrt/",
+      "translation": "垄断联盟",
+      "sentence": "the menu was in French",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-card-cartoon-cartoonist",
       "word": "cartoonist",
       "display": "Cartoonist",
-      "phonetic": "",
-      "translation": "\u6f2b\u753b\u5bb6",
-      "sentence": "",
+      "phonetic": "/kɑrˈtunəst/",
+      "translation": "漫画家",
+      "sentence": "A cartoonist is a person who draws cartoons.",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-card>c-card-cartoon",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-fund-foundation",
-  "root": "foundation\u57fa\u7840\uff1b\u6839\u672c",
+  "root": "foundation基础；根本",
   "meaning": "foundation",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "基础；根本",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-fund-foundation",
       "word": "foundation",
       "display": "Foundation",
-      "phonetic": "",
-      "translation": "\u57fa\u7840\uff1b\u6839\u672c",
-      "sentence": "",
+      "phonetic": "/faʊnˈdeɪʃən/",
+      "translation": "基础；根本",
+      "sentence": "there is little foundation for his objections",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-fund-foundation-founder",
       "word": "founder",
       "display": "Founder",
-      "phonetic": "",
-      "translation": "\u94f8\u5de5",
-      "sentence": "",
+      "phonetic": "/ˈfaʊndər/",
+      "translation": "铸工",
+      "sentence": "The project foundered",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-fund-foundation-fund",
       "word": "fund",
       "display": "Fund",
-      "phonetic": "",
-      "translation": "\u8d44\u91d1",
-      "sentence": "",
+      "phonetic": "/fənd/",
+      "translation": "资金",
+      "sentence": "fund a medical care plan",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-fund>f-fund-foundation",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

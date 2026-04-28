@@ -3,12 +3,13 @@
   "rootId": "d-de",
   "root": "de",
   "meaning": "de",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "de",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "d",
-  "rootLevel": 2,
-  "rootPath": "d>d-de",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "d-de",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

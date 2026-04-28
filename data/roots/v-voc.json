@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "v-voc",
   "root": "voc",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "voc",
+  "descriptionCn": "voc",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "v-voc-vocabulary",
       "word": "vocabulary",
       "display": "Vocabulary",
-      "phonetic": "",
-      "translation": "\u8bcd\u6c47",
-      "sentence": "",
+      "phonetic": "/voʊˈkæbjəˌlɛri/",
+      "translation": "词汇",
+      "sentence": "he introduced a wide vocabulary of techniques",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "v-voc-vocal",
       "word": "vocal",
       "display": "Vocal",
-      "phonetic": "",
-      "translation": "\u58f0\u97f3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvoʊkəl/",
+      "translation": "声音的",
+      "sentence": "vocal technique",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "v-voc-vocation",
       "word": "vocation",
       "display": "Vocation",
-      "phonetic": "",
-      "translation": "\u804c\u4e1a",
-      "sentence": "",
+      "phonetic": "/voʊˈkeɪʃən/",
+      "translation": "职业",
+      "sentence": "A vocation is the particular occupation for which you are trained.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "v-voc-voice",
       "word": "voice",
       "display": "Voice",
-      "phonetic": "",
-      "translation": "\u58f0\u97f3",
-      "sentence": "",
+      "phonetic": "/vɔɪs/",
+      "translation": "声音",
+      "sentence": "A shrill voice sounded behind us",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "v-voc-volume",
       "word": "volume",
       "display": "Volume",
-      "phonetic": "",
-      "translation": "\u5bb9\u79ef;\u97f3\u91cf",
-      "sentence": "",
+      "phonetic": "/ˈvɑljum/",
+      "translation": "容积;音量",
+      "sentence": "the gas expanded to twice its original volume",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "v-voc-vowel",
       "word": "vowel",
       "display": "Vowel",
-      "phonetic": "",
-      "translation": "\u5143\u97f3",
-      "sentence": "",
+      "phonetic": "/vaʊəl/",
+      "translation": "元音",
+      "sentence": "A vowel is a speech sound made with the vocal tract open.",
       "tags": [
         "root-family"
       ],
@@ -80,8 +80,9 @@
     }
   ],
   "parentRootId": "v",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "v>v-voc",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

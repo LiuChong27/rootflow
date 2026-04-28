@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-hand-heal",
-  "root": "\u5f15\u7533\uff1a\u6cbb\u7597",
+  "root": "引申：治疗",
   "meaning": "heal",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "引申：治疗",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-hand-heal-har",
       "word": "har",
       "display": "Har",
-      "phonetic": "",
-      "translation": "\u519b\u961f\uff1b\u6218\u4e89",
-      "sentence": "",
+      "phonetic": "/hɑr/",
+      "translation": "军队；战争",
+      "sentence": "Har is used here with the sense of \"军队；战争\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-hand-heal-harass",
       "word": "harass",
       "display": "Harass",
-      "phonetic": "",
-      "translation": "\u9a9a\u6270",
-      "sentence": "",
+      "phonetic": "/həræs/",
+      "translation": "骚扰",
+      "sentence": "This man harasses his female co-workers",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-hand-heal-harassment",
       "word": "harassment",
       "display": "Harassment",
-      "phonetic": "",
-      "translation": "\u9a9a\u6270\uff1b\u6270\u4e71\uff1b\u70e6\u607c",
-      "sentence": "",
+      "phonetic": "/hərˈæsmənt/",
+      "translation": "骚扰；扰乱；烦恼",
+      "sentence": "so great was his harassment that he wanted to destroy his tormentors",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-hand-heal-harm",
       "word": "harm",
       "display": "Harm",
-      "phonetic": "",
-      "translation": "\u4f24\u5bb3",
-      "sentence": "",
+      "phonetic": "/hɑrm/",
+      "translation": "伤害",
+      "sentence": "These pills won't harm your system",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-hand-heal-harness",
       "word": "harness",
       "display": "Harness",
-      "phonetic": "",
-      "translation": "\u6cbb\u7406\uff1b\u5229\u7528",
-      "sentence": "",
+      "phonetic": "/ˈhɑrnɪs/",
+      "translation": "治理；利用",
+      "sentence": "harness the horse",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "h-hand-heal-harsh",
       "word": "harsh",
       "display": "Harsh",
-      "phonetic": "",
-      "translation": "\u7c97\u7cd9\u7684\uff1b\u82db\u523b\u7684\uff1b\u523a\u8033\u7684",
-      "sentence": "",
+      "phonetic": "/hɑrʃ/",
+      "translation": "粗糙的；苛刻的；刺耳的",
+      "sentence": "wild and harsh country full of hot sand and cactus",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "h-hand-heal-hazard",
       "word": "hazard",
       "display": "Hazard",
-      "phonetic": "",
-      "translation": "\u5371\u9669\uff1b\u5192\u9669",
-      "sentence": "",
+      "phonetic": "/ˈhæzərd/",
+      "translation": "危险；冒险",
+      "sentence": "drinking alcohol is a health hazard",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "h-hand-heal-heal",
       "word": "heal",
       "display": "Heal",
-      "phonetic": "",
-      "translation": "\u6cbb\u6108",
-      "sentence": "",
+      "phonetic": "/hiːl/",
+      "translation": "治愈",
+      "sentence": "The wound is healing slowly",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "h-hand-heal-health",
       "word": "health",
       "display": "Health",
-      "phonetic": "",
-      "translation": "\u5065\u5eb7",
-      "sentence": "",
+      "phonetic": "/hɛlθ/",
+      "translation": "健康",
+      "sentence": "physicians should be held responsible for the health of their patients",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "h-hand-heal-healthy",
       "word": "healthy",
       "display": "Healthy",
-      "phonetic": "",
-      "translation": "\u5065\u5eb7\u7684\uff1b\u5065\u58ee\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhɛlθi/",
+      "translation": "健康的；健壮的",
+      "sentence": "a rosy healthy baby",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "h-hand-heal-heir",
       "word": "heir",
       "display": "Heir",
-      "phonetic": "",
-      "translation": "\u7ee7\u627f\u4eba",
-      "sentence": "",
+      "phonetic": "/ɛr/",
+      "translation": "继承人",
+      "sentence": "A heir is a person who is entitled by law or by the terms of a will to inherit the estate of another.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "h-hand-heal-help",
       "word": "help",
       "display": "Help",
-      "phonetic": "",
-      "translation": "\u5e2e\u52a9\uff1b\u6551\u547d",
-      "sentence": "",
+      "phonetic": "/hɛlp/",
+      "translation": "帮助；救命",
+      "sentence": "offered his help in unloading",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "h-hand-heal-helpful",
       "word": "helpful",
       "display": "Helpful",
-      "phonetic": "",
-      "translation": "\u6709\u76ca\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhɛlpfəl/",
+      "translation": "有益的",
+      "sentence": "If something is helpful, it is providing assistance or serving a useful function.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "h-hand-heal-heritage",
       "word": "heritage",
       "display": "Heritage",
-      "phonetic": "",
-      "translation": "\u9057\u4ea7\uff1b\u7ee7\u627f\u7269\uff1b\u4f20\u7edf",
-      "sentence": "",
+      "phonetic": "/ˈhɛrɪtɪʤ/",
+      "translation": "遗产；继承物；传统",
+      "sentence": "a heritage of freedom",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "h-hand-heal-huddle",
       "word": "huddle",
       "display": "Huddle",
-      "phonetic": "",
-      "translation": "\u62e5\u6324\uff1b\u805a\u96c6\uff1b\u7f29\u6210\u4e00\u56e2",
-      "sentence": "",
+      "phonetic": "/ˈhədəl/",
+      "translation": "拥挤；聚集；缩成一团",
+      "sentence": "a huddle of frightened women",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "h-hand-heal-hug",
       "word": "hug",
       "display": "Hug",
-      "phonetic": "",
-      "translation": "\u62e5\u62b1",
-      "sentence": "",
+      "phonetic": "/həg/",
+      "translation": "拥抱",
+      "sentence": "come here and give me a big hug",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "h-hand-heal-hunger",
       "word": "hunger",
       "display": "Hunger",
-      "phonetic": "",
-      "translation": "\u6e34\u671b\uff1b\u9965\u997f",
-      "sentence": "",
+      "phonetic": "/ˈhəŋgər/",
+      "translation": "渴望；饥饿",
+      "sentence": "hunger for affection",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "h-hand-heal-hungry",
       "word": "hungry",
       "display": "Hungry",
-      "phonetic": "",
-      "translation": "\u9965\u997f\u7684\uff1b\u6e34\u671b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhəŋgri/",
+      "translation": "饥饿的；渴望的",
+      "sentence": "a world full of hungry people",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "h-hand-heal-hunt",
       "word": "hunt",
       "display": "Hunt",
-      "phonetic": "",
-      "translation": "\u6253\u730e\uff1b\u641c\u5bfb",
-      "sentence": "",
+      "phonetic": "/hənt/",
+      "translation": "打猎；搜寻",
+      "sentence": "the hunt for submarines",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "h-hand-heal-hurl",
       "word": "hurl",
       "display": "Hurl",
-      "phonetic": "",
-      "translation": "\u529b\u63b7\uff1b\u5927\u58f0\u53eb\u9a82",
-      "sentence": "",
+      "phonetic": "/hərl/",
+      "translation": "力掷；大声叫骂",
+      "sentence": "hurl insults",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "h-hand-heal-hurry",
       "word": "hurry",
       "display": "Hurry",
-      "phonetic": "",
-      "translation": "\u5306\u5fd9\uff1b\u50ac\u4fc3",
-      "sentence": "",
+      "phonetic": "/ˈhəri/",
+      "translation": "匆忙；催促",
+      "sentence": "in a hurry to lock the door",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "h-hand-heal-hurt",
       "word": "hurt",
       "display": "Hurt",
-      "phonetic": "",
-      "translation": "\u4f24\u75db",
-      "sentence": "",
+      "phonetic": "/hərt/",
+      "translation": "伤痛",
+      "sentence": "This exercise will hurt your back",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "h-hand-heal-hypocrisy",
       "word": "hypocrisy",
       "display": "Hypocrisy",
-      "phonetic": "",
-      "translation": "\u4f2a\u5584\uff1b\u865a\u4f2a",
-      "sentence": "",
+      "phonetic": "/hɪˈpɑkrəsi/",
+      "translation": "伪善；虚伪",
+      "sentence": "A hypocrisy is an expression of agreement that is not supported by real conviction.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "h-hand-heal-hypothesis",
       "word": "hypothesis",
       "display": "Hypothesis",
-      "phonetic": "",
-      "translation": "\u5047\u8bf4\uff1b\u5047\u8bbe\uff1b\u524d\u63d0",
-      "sentence": "",
+      "phonetic": "/haɪˈpɑθəsəs/",
+      "translation": "假说；假设；前提",
+      "sentence": "a scientific hypothesis that survives experimental testing becomes a scientific theory",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "h-hand-heal-hysterical",
       "word": "hysterical",
       "display": "Hysterical",
-      "phonetic": "",
-      "translation": "\u60c5\u7eea\u5f02\u5e38\u6fc0\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/hɪˈstɛrɪkəl/",
+      "translation": "情绪异常激动的",
+      "sentence": "during hysterical conditions various functions of the human body are disordered",
       "tags": [
         "root-family"
       ],
@@ -311,5 +311,6 @@
   "rootLevel": 3,
   "rootPath": "h>h-hand>h-hand-heal",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

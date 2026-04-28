@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cord-cor-heart",
-  "root": "cord=cor=\u5fc3",
+  "root": "cord=cor=心",
   "meaning": "heart",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "心",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cord-cor-heart-cool",
       "word": "cool",
       "display": "Cool",
-      "phonetic": "",
-      "translation": "\u51b7\u9759\u7684",
-      "sentence": "",
+      "phonetic": "/kuːl/",
+      "translation": "冷静的",
+      "sentence": "the cool of early morning",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cord-cor-heart-cord",
       "word": "cord",
       "display": "Cord",
-      "phonetic": "",
-      "translation": "\u7ef3\u7d22\uff1b\u675f\u7f1a",
-      "sentence": "",
+      "phonetic": "/kɔrd/",
+      "translation": "绳索；束缚",
+      "sentence": "the bundle was tied with a cord",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-cord-cor-heart-cordial",
       "word": "cordial",
       "display": "Cordial",
-      "phonetic": "",
-      "translation": "\u8bda\u6073\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɔrʤəl/",
+      "translation": "诚恳的",
+      "sentence": "cordial relations",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-cord-cor-heart-corn",
       "word": "corn",
       "display": "Corn",
-      "phonetic": "",
-      "translation": "\u8c37\u7269",
-      "sentence": "",
+      "phonetic": "/kɔrn/",
+      "translation": "谷物",
+      "sentence": "that movie was pure corn",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-cord-cor-heart-corner",
       "word": "corner",
       "display": "Corner",
-      "phonetic": "",
-      "translation": "\u89d2\u843d",
-      "sentence": "",
+      "phonetic": "/ˈkɔrnər/",
+      "translation": "角落",
+      "sentence": "he tripled to the rightfield corner",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-cord-cor-heart-corporation",
       "word": "corporation",
       "display": "Corporation",
-      "phonetic": "",
-      "translation": "\u516c\u53f8",
-      "sentence": "",
+      "phonetic": "/ˌkɔrpərˈeɪʃən/",
+      "translation": "公司",
+      "sentence": "A corporation is a business firm whose articles of incorporation have been approved in some state.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-cord-cor-heart-correct",
       "word": "correct",
       "display": "Correct",
-      "phonetic": "",
-      "translation": "\u6b63\u786e\u7684",
-      "sentence": "",
+      "phonetic": "/kərˈɛkt/",
+      "translation": "正确的",
+      "sentence": "Correct the mistakes",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-cord-cor-heart-correlate",
       "word": "correlate",
       "display": "Correlate",
-      "phonetic": "",
-      "translation": "\u76f8\u5173\u8054\u7684\u4e8b\u7269",
-      "sentence": "",
+      "phonetic": "/ˈkɔrəˌleɪt/",
+      "translation": "相关联的事物",
+      "sentence": "Do these facts correlate?",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-cord-cor-heart-corridor",
       "word": "corridor",
       "display": "Corridor",
-      "phonetic": "",
-      "translation": "\u8d70\u5eca\uff1b\u9053\u8def",
-      "sentence": "",
+      "phonetic": "/ˈkɔrɪdər/",
+      "translation": "走廊；道路",
+      "sentence": "A corridor is an enclosed passageway; rooms usually open onto it.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-cord-cor-heart-corrode",
       "word": "corrode",
       "display": "Corrode",
-      "phonetic": "",
-      "translation": "\u8150\u8680",
-      "sentence": "",
+      "phonetic": "/kəroʊd/",
+      "translation": "腐蚀",
+      "sentence": "The acid corroded the metal",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-cord-cor-heart-corrupt",
       "word": "corrupt",
       "display": "Corrupt",
-      "phonetic": "",
-      "translation": "\u8d3f\u8d42",
-      "sentence": "",
+      "phonetic": "/kərəpt/",
+      "translation": "贿赂",
+      "sentence": "Socrates was accused of corrupting young men",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-cord-cor-heart-crop",
       "word": "crop",
       "display": "Crop",
-      "phonetic": "",
-      "translation": "\u4f5c\u7269",
-      "sentence": "",
+      "phonetic": "/krɑp/",
+      "translation": "作物",
+      "sentence": "the annual crop of students brings a new crop of ideas",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 2,
   "rootPath": "c>c-cord-cor-heart",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acumen",
   "root": "acumen",
-  "meaning": "",
-  "descriptionCn": "\u806a\u660e",
-  "updatedAt": "2026-04-15",
+  "meaning": "acumen family",
+  "descriptionCn": "聪明",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acumen",
       "word": "acumen",
       "display": "Acumen",
-      "phonetic": "",
-      "translation": "\u806a\u660e",
-      "sentence": "",
+      "phonetic": "/əˈkjumən/",
+      "translation": "聪明",
+      "sentence": "An acumen is a tapering point.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-other>ac>ac-acute>acumen",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

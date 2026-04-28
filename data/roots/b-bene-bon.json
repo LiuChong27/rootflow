@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-bene-bon",
-  "root": "bene=bon \u597d\u5584",
+  "root": "bene=bon 好善",
   "meaning": "good",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "好善",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-bene-benediction",
       "word": "benediction",
       "display": "Benediction",
-      "phonetic": "",
-      "translation": "\u795d\u7977\uff1b\u6069\u8d50",
-      "sentence": "",
+      "phonetic": "/ˌbɛnəˈdɪkʃən/",
+      "translation": "祝祷；恩赐",
+      "sentence": "A benediction is the act of praying for divine protection.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-bene-benefaction",
       "word": "benefaction",
       "display": "Benefaction",
-      "phonetic": "",
-      "translation": "\u6069\u60e0\uff1b\u65bd\u820d",
-      "sentence": "",
+      "phonetic": "/bˌɛnʌfˈækʃʌn/",
+      "translation": "恩惠；施舍",
+      "sentence": "A benefaction is a contribution of money or assistance.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-bene-beneficence",
       "word": "beneficence",
       "display": "Beneficence",
-      "phonetic": "",
-      "translation": "\u5584\u884c\uff1b\u4ec1\u6148",
-      "sentence": "",
+      "phonetic": "/bəˈnɛfəsəns/",
+      "translation": "善行；仁慈",
+      "sentence": "A beneficence is doing good; feeling beneficent.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-bene-beneficial",
       "word": "beneficial",
       "display": "Beneficial",
-      "phonetic": "",
-      "translation": "\u6709\u5229\u7684",
-      "sentence": "",
+      "phonetic": "/ˌbɛnəˈfɪʃəl/",
+      "translation": "有利的",
+      "sentence": "an arms limitation agreement beneficial to all countries",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-bene-beneficiary",
       "word": "beneficiary",
       "display": "Beneficiary",
-      "phonetic": "",
-      "translation": "\u53d7\u60e0\u8005",
-      "sentence": "",
+      "phonetic": "/ˌbɛnəˈfɪʃiˌɛri/",
+      "translation": "受惠者",
+      "sentence": "a beneficiary baron",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-bene-benefit",
       "word": "benefit",
       "display": "Benefit",
-      "phonetic": "",
-      "translation": "\u5229\u76ca",
-      "sentence": "",
+      "phonetic": "/ˈbɛnəfɪt/",
+      "translation": "利益",
+      "sentence": "for the benefit of all",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-bene-benevolent",
       "word": "benevolent",
       "display": "Benevolent",
-      "phonetic": "",
-      "translation": "\u4ec1\u6148\u7684",
-      "sentence": "",
+      "phonetic": "/bəˈnɛvələnt/",
+      "translation": "仁慈的",
+      "sentence": "a benevolent society",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-bene-benignant",
       "word": "benignant",
       "display": "Benignant",
-      "phonetic": "",
-      "translation": "\u5584\u826f\u7684",
-      "sentence": "",
+      "phonetic": "/bˈɛnɪgnʌnt/",
+      "translation": "善良的",
+      "sentence": "our benignant king",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-bene-boon",
       "word": "boon",
       "display": "Boon",
-      "phonetic": "",
-      "translation": "\u6069\u8d50",
-      "sentence": "",
+      "phonetic": "/buːn/",
+      "translation": "恩赐",
+      "sentence": "a spanking breeze is a boon to sailors",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-bene-bounteous",
       "word": "bounteous",
       "display": "Bounteous",
-      "phonetic": "",
-      "translation": "\u5bbd\u5b8f\u5927\u91cf\u7684\uff1b\u535a\u7231\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/bˈaʊntiʌs/",
+      "translation": "宽宏大量的；博爱慷慨的",
+      "sentence": "the bounteous goodness of God",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-bene-bountiful",
       "word": "bountiful",
       "display": "Bountiful",
-      "phonetic": "",
-      "translation": "\u4e30\u5bcc\u7684\uff1b\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbaʊnɪfəl/",
+      "translation": "丰富的；慷慨的",
+      "sentence": "bountiful compliments",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-bene-bounty",
       "word": "bounty",
       "display": "Bounty",
-      "phonetic": "",
-      "translation": "\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbaʊnti/",
+      "translation": "慷慨的",
+      "sentence": "A bounty is payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military.",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-bene-bon",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

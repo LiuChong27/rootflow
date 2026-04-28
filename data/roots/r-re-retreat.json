@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-re-retreat",
-  "root": "\u64a4\u9000",
+  "root": "撤退",
   "meaning": "retreat",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "撤退",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-re-retreat-recede",
       "word": "recede",
       "display": "Recede",
-      "phonetic": "",
-      "translation": "\u9000\u540e",
-      "sentence": "",
+      "phonetic": "/rɪˈsid/",
+      "translation": "退后",
+      "sentence": "the unhappy memories of her childhood receded as she grew older",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-re-retreat-refuge",
       "word": "refuge",
       "display": "Refuge",
-      "phonetic": "",
-      "translation": "\u85cf\u8eab\u5904",
-      "sentence": "",
+      "phonetic": "/ˈrɛfjuʤ/",
+      "translation": "藏身处",
+      "sentence": "took refuge in lying",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-re-retreat-refugee",
       "word": "refugee",
       "display": "Refugee",
-      "phonetic": "",
-      "translation": "\u907f\u96be\u8005\uff1b\u96be\u6c11",
-      "sentence": "",
+      "phonetic": "/ˈrɛfjuʤi/",
+      "translation": "避难者；难民",
+      "sentence": "A refugee is an exile who flees for safety.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-re-retreat-refund",
       "word": "refund",
       "display": "Refund",
-      "phonetic": "",
-      "translation": "\u9000\u6b3e\uff1b\u9000\u8fd8",
-      "sentence": "",
+      "phonetic": "/ˈriˌfənd/",
+      "translation": "退款；退还",
+      "sentence": "Please refund me my money",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-re-retreat-refusal",
       "word": "refusal",
       "display": "Refusal",
-      "phonetic": "",
-      "translation": "\u62d2\u7edd",
-      "sentence": "",
+      "phonetic": "/rɪfˈjuzəl/",
+      "translation": "拒绝",
+      "sentence": "A refusal is the act of refusing.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-re-retreat-refuse",
       "word": "refuse",
       "display": "Refuse",
-      "phonetic": "",
-      "translation": "\u62d2\u7edd",
-      "sentence": "",
+      "phonetic": "/ˈrɛfˌjuz/",
+      "translation": "拒绝",
+      "sentence": "He refused my offer of hospitality",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-re-retreat-reject",
       "word": "reject",
       "display": "Reject",
-      "phonetic": "",
-      "translation": "\u62d2\u7edd\uff1b\u62b5\u5236",
-      "sentence": "",
+      "phonetic": "/ˈriʤɛkt/",
+      "translation": "拒绝；抵制",
+      "sentence": "I reject the idea of starting a war",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-re-retreat-removal",
       "word": "removal",
       "display": "Removal",
-      "phonetic": "",
-      "translation": "\u79fb\u52a8",
-      "sentence": "",
+      "phonetic": "/rɪˈmuvəl/",
+      "translation": "移动",
+      "sentence": "he had surgery for the removal of a malignancy",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-re-retreat-remove",
       "word": "remove",
       "display": "Remove",
-      "phonetic": "",
-      "translation": "\u79fb\u52a8",
-      "sentence": "",
+      "phonetic": "/riˈmuv/",
+      "translation": "移动",
+      "sentence": "just one remove from madness",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-re-retreat-renew",
       "word": "renew",
       "display": "Renew",
-      "phonetic": "",
-      "translation": "\u91cd\u65b0\u5f00\u59cb",
-      "sentence": "",
+      "phonetic": "/rɪˈnu/",
+      "translation": "重新开始",
+      "sentence": "We renewed our friendship after a hiatus of twenty years",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-re-retreat-renovate",
       "word": "renovate",
       "display": "Renovate",
-      "phonetic": "",
-      "translation": "\u66f4\u65b0",
-      "sentence": "",
+      "phonetic": "/ˈrɛnəˌveɪt/",
+      "translation": "更新",
+      "sentence": "They renovated the ceiling of the Sistine Chapel",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-re-retreat-repel",
       "word": "repel",
       "display": "Repel",
-      "phonetic": "",
-      "translation": "\u51fb\u9000",
-      "sentence": "",
+      "phonetic": "/rɪˈpɛl/",
+      "translation": "击退",
+      "sentence": "repel the enemy",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-re-retreat-repression",
       "word": "repression",
       "display": "Repression",
-      "phonetic": "",
-      "translation": "\u538b\u6291\uff1b\u538b\u5236",
-      "sentence": "",
+      "phonetic": "/riˈprɛʃən/",
+      "translation": "压抑；压制",
+      "sentence": "the long repression of Christian sects",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-re-retreat-resign",
       "word": "resign",
       "display": "Resign",
-      "phonetic": "",
-      "translation": "\u8f9e\u53bb",
-      "sentence": "",
+      "phonetic": "/rɪˈzaɪn/",
+      "translation": "辞去",
+      "sentence": "The chairman resigned when he was found to have misappropriated funds",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-re-retreat-rest",
       "word": "rest",
       "display": "Rest",
-      "phonetic": "",
-      "translation": "\u4f11\u606f",
-      "sentence": "",
+      "phonetic": "/rɛst/",
+      "translation": "休息",
+      "sentence": "he threw away the rest",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-re-retreat-restaurant",
       "word": "restaurant",
       "display": "Restaurant",
-      "phonetic": "",
-      "translation": "\u53c2\u89c2",
-      "sentence": "",
+      "phonetic": "/ˈrɛˌstrɑnt/",
+      "translation": "参观",
+      "sentence": "A restaurant is a building where people go to eat.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "r-re-retreat-restless",
       "word": "restless",
       "display": "Restless",
-      "phonetic": "",
-      "translation": "\u5f97\u4e0d\u5230\u4f11\u606f",
-      "sentence": "",
+      "phonetic": "/ˈrɛstləs/",
+      "translation": "得不到休息",
+      "sentence": "the restless sea",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "r-re-retreat-restore",
       "word": "restore",
       "display": "Restore",
-      "phonetic": "",
-      "translation": "\u6062\u590d",
-      "sentence": "",
+      "phonetic": "/rɪˈstɔr/",
+      "translation": "恢复",
+      "sentence": "restore the forest to its original pristine condition",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "r-re-retreat-retire",
       "word": "retire",
       "display": "Retire",
-      "phonetic": "",
-      "translation": "\u9000\u4f11",
-      "sentence": "",
+      "phonetic": "/ˌriˈtaɪər/",
+      "translation": "退休",
+      "sentence": "He retired at age 68",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "r-re-retreat-retreat",
       "word": "retreat",
       "display": "Retreat",
-      "phonetic": "",
-      "translation": "\u64a4\u9000",
-      "sentence": "",
+      "phonetic": "/riˈtrit/",
+      "translation": "撤退",
+      "sentence": "the disorderly retreat of French troops",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "r-re-retreat-return",
       "word": "return",
       "display": "Return",
-      "phonetic": "",
-      "translation": "\u8fd4\u56de",
-      "sentence": "",
+      "phonetic": "/rɪˈtərn/",
+      "translation": "返回",
+      "sentence": "his gross income was enough that he had to file a tax return",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "r-re-retreat-reverse",
       "word": "reverse",
       "display": "Reverse",
-      "phonetic": "",
-      "translation": "\u76f8\u53cd",
-      "sentence": "",
+      "phonetic": "/rɪˈvərs/",
+      "translation": "相反",
+      "sentence": "we thought Sue was older than Bill but just the reverse was true",
       "tags": [
         "root-family"
       ],
@@ -275,5 +275,6 @@
   "rootLevel": 3,
   "rootPath": "r>r-re>r-re-retreat",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

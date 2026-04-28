@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "h-hum-homo",
-  "root": "hum=hom=homo\u4eba",
+  "root": "hum=hom=homo人",
   "meaning": "hum",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "人",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "h",
-  "rootLevel": 2,
-  "rootPath": "h>h-hum-homo",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "h-hum-homo",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

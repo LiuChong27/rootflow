@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-fer",
-  "root": "fer\u5e26",
+  "root": "fer带",
   "meaning": "fer",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "带",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-fer-afferent",
       "word": "afferent",
       "display": "Afferent",
-      "phonetic": "",
-      "translation": "\u8f93\u5165\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæfərənt/",
+      "translation": "输入的",
+      "sentence": "afferent nerves",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-fer-confer",
       "word": "confer",
       "display": "Confer",
-      "phonetic": "",
-      "translation": "\u6388\u4e88\uff1b\u534f\u5546",
-      "sentence": "",
+      "phonetic": "/kənˈfər/",
+      "translation": "授予；协商",
+      "sentence": "We conferred about a plan of action",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-fer-defer",
       "word": "defer",
       "display": "Defer",
-      "phonetic": "",
-      "translation": "\u63a8\u8fdf",
-      "sentence": "",
+      "phonetic": "/dɪˈfər/",
+      "translation": "推迟",
+      "sentence": "let's postpone the exam",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-fer-deference",
       "word": "deference",
       "display": "Deference",
-      "phonetic": "",
-      "translation": "\u987a\u4ece\uff1b\u5c0a\u91cd",
-      "sentence": "",
+      "phonetic": "/ˈdɛfərəns/",
+      "translation": "顺从；尊重",
+      "sentence": "his deference to her wishes was very flattering",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-fer-deferential",
       "word": "deferential",
       "display": "Deferential",
-      "phonetic": "",
-      "translation": "\u606d\u656c\u7684",
-      "sentence": "",
+      "phonetic": "/ˌdɛfərˈɛnʧəl/",
+      "translation": "恭敬的",
+      "sentence": "If something is deferential, it is showing deference.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-fer-differ",
       "word": "differ",
       "display": "Differ",
-      "phonetic": "",
-      "translation": "\u4e0d\u540c",
-      "sentence": "",
+      "phonetic": "/ˈdɪfər/",
+      "translation": "不同",
+      "sentence": "These two tests differ in only one respect",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-fer-difference",
       "word": "difference",
       "display": "Difference",
-      "phonetic": "",
-      "translation": "\u5dee\u5f02\uff1b\u5206\u6b67",
-      "sentence": "",
+      "phonetic": "/ˈdɪfərəns/",
+      "translation": "差异；分歧",
+      "sentence": "there are many differences between jazz and rock",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-fer-differential",
       "word": "differential",
       "display": "Differential",
-      "phonetic": "",
-      "translation": "\u533a\u522b\uff1b\u8fa8\u522b",
-      "sentence": "",
+      "phonetic": "/ˌdɪfərˈɛnʃəl/",
+      "translation": "区别；辨别",
+      "sentence": "differential treatment",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "f-fer-efferent",
       "word": "efferent",
       "display": "Efferent",
-      "phonetic": "",
-      "translation": "\u4f20\u51fa\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛfərənt/",
+      "translation": "传出的",
+      "sentence": "efferent nerves and impulses",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "f-fer-ferry",
       "word": "ferry",
       "display": "Ferry",
-      "phonetic": "",
-      "translation": "\u6446\u6e21",
-      "sentence": "",
+      "phonetic": "/ˈfɛri/",
+      "translation": "摆渡",
+      "sentence": "A ferry is a boat that transports people or vehicles across a body of water and operates on a regular schedule.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "f-fer-fertile",
       "word": "fertile",
       "display": "Fertile",
-      "phonetic": "",
-      "translation": "\u80a5\u6c83\u7684",
-      "sentence": "",
+      "phonetic": "/ˈfərtəl/",
+      "translation": "肥沃的",
+      "sentence": "fertile farmland",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "f-fer-fertilize",
       "word": "fertilize",
       "display": "Fertilize",
-      "phonetic": "",
-      "translation": "\u80a5\u6c83",
-      "sentence": "",
+      "phonetic": "/ˈfərtəˌlaɪz/",
+      "translation": "肥沃",
+      "sentence": "We should fertilize soil if we want to grow healthy plants",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "f-fer-indifference",
       "word": "indifference",
       "display": "Indifference",
-      "phonetic": "",
-      "translation": "\u51b7\u6de1",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdɪfərəns/",
+      "translation": "冷淡",
+      "sentence": "An indifference is unbiased impartial unconcern.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "f-fer-indifferent",
       "word": "indifferent",
       "display": "Indifferent",
-      "phonetic": "",
-      "translation": "\u4e0d\u611f\u5174\u8da3\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdɪfərənt/",
+      "translation": "不感兴趣的",
+      "sentence": "the universe is neither hostile nor friendly; it is simply indifferent",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "f-fer-infer",
       "word": "infer",
       "display": "Infer",
-      "phonetic": "",
-      "translation": "\u63a8\u65ad",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈfər/",
+      "translation": "推断",
+      "sentence": "He guessed the right number of beans in the jar and won the prize",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "f-fer-inferable",
       "word": "inferable",
       "display": "Inferable",
-      "phonetic": "",
-      "translation": "\u80fd\u63a8\u65ad\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnfɚʌbʌl/",
+      "translation": "能推断的",
+      "sentence": "Inferable is used here with the sense of \"能推断的\".",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "f-fer-inference",
       "word": "inference",
       "display": "Inference",
-      "phonetic": "",
-      "translation": "\u63a8\u65ad",
-      "sentence": "",
+      "phonetic": "/ˈɪnfərəns/",
+      "translation": "推断",
+      "sentence": "An inference is the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "f-fer-offer",
       "word": "offer",
       "display": "Offer",
-      "phonetic": "",
-      "translation": "\u63d0\u4f9b\uff1b\u62a5\u4ef7",
-      "sentence": "",
+      "phonetic": "/ˈɔfər/",
+      "translation": "提供；报价",
+      "sentence": "a generous offer of assistance",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "f-fer-prefer",
       "word": "prefer",
       "display": "Prefer",
-      "phonetic": "",
-      "translation": "\u5b81\u613f",
-      "sentence": "",
+      "phonetic": "/prɪˈfər/",
+      "translation": "宁愿",
+      "sentence": "Some people prefer camping to staying in hotels",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "f-fer-preferable",
       "word": "preferable",
       "display": "Preferable",
-      "phonetic": "",
-      "translation": "\u66f4\u53ef\u53d6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɛfərəbəl/",
+      "translation": "更可取的",
+      "sentence": "coffee is preferable to tea",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "f-fer-preference",
       "word": "preference",
       "display": "Preference",
-      "phonetic": "",
-      "translation": "\u504f\u7231",
-      "sentence": "",
+      "phonetic": "/ˈprɛfərəns/",
+      "translation": "偏爱",
+      "sentence": "my own preference is for good literature",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "f-fer-proffer",
       "word": "proffer",
       "display": "Proffer",
-      "phonetic": "",
-      "translation": "\u732e\u51fa",
-      "sentence": "",
+      "phonetic": "/ˈprɑfər/",
+      "translation": "献出",
+      "sentence": "it was a suggestion we couldn't refuse",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "f-fer-refer",
       "word": "refer",
       "display": "Refer",
-      "phonetic": "",
-      "translation": "\u63d0\u53ca",
-      "sentence": "",
+      "phonetic": "/rɪˈfər/",
+      "translation": "提及",
+      "sentence": "There were lots of questions referring to her talk",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "f-fer-reference",
       "word": "reference",
       "display": "Reference",
-      "phonetic": "",
-      "translation": "\u63d0\u53ca\uff1b\u53c2\u8003",
-      "sentence": "",
+      "phonetic": "/ˈrɛfərəns/",
+      "translation": "提及；参考",
+      "sentence": "the speaker made several references to his wife",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "f-fer-referendum",
       "word": "referendum",
       "display": "Referendum",
-      "phonetic": "",
-      "translation": "\u6295\u7968",
-      "sentence": "",
+      "phonetic": "/ˌrɛfərˈɛndəm/",
+      "translation": "投票",
+      "sentence": "A referendum is a legislative act is referred for final approval to a popular vote by the electorate.",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "f-fer-referential",
       "word": "referential",
       "display": "Referential",
-      "phonetic": "",
-      "translation": "\u6709\u53c2\u8003\u7684",
-      "sentence": "",
+      "phonetic": "/rˌɛfɚˈɛnʃʌnʌl/",
+      "translation": "有参考的",
+      "sentence": "symbols are inherently referential",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "f-fer-suffer",
       "word": "suffer",
       "display": "Suffer",
-      "phonetic": "",
-      "translation": "\u906d\u53d7",
-      "sentence": "",
+      "phonetic": "/ˈsəfər/",
+      "translation": "遭受",
+      "sentence": "He suffered the penalty",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "f-fer-transfer",
       "word": "transfer",
       "display": "Transfer",
-      "phonetic": "",
-      "translation": "\u8f6c\u8d26\uff1b\u8fc1\u79fb",
-      "sentence": "",
+      "phonetic": "/ˈtrænsfər/",
+      "translation": "转账；迁移",
+      "sentence": "the best student was a transfer from LSU",
       "tags": [
         "root-family"
       ],
@@ -347,5 +347,6 @@
   "rootLevel": 2,
   "rootPath": "f>f-fer",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

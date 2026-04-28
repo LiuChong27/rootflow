@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-habit",
-  "root": "habit/hab/hibit=dwell\u5c45\u4f4f",
+  "root": "habit/hab/hibit=dwell居住",
   "meaning": "habit",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "居住",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-habit-cohabit",
       "word": "cohabit",
       "display": "Cohabit",
-      "phonetic": "",
-      "translation": "\u672a\u5a5a\u540c\u5c45",
-      "sentence": "",
+      "phonetic": "/koʊˈhæbɪt/",
+      "translation": "未婚同居",
+      "sentence": "To cohabit is to share living quarters; usually said of people who are not married and live together as a couple.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-habit-cohabitant",
       "word": "cohabitant",
       "display": "Cohabitant",
-      "phonetic": "",
-      "translation": "\u540c\u5c45\u8005",
-      "sentence": "",
+      "phonetic": "/koʊhˈæbʌtʌnt/",
+      "translation": "同居者",
+      "sentence": "Cohabitant is used here with the sense of \"同居者\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-habit-cohabitation",
       "word": "cohabitation",
       "display": "Cohabitation",
-      "phonetic": "",
-      "translation": "\u540c\u5c45\uff1b\u540c\u5c45\u751f\u6d3b",
-      "sentence": "",
+      "phonetic": "/koʊˌhæbəˈteɪʃən/",
+      "translation": "同居；同居生活",
+      "sentence": "A cohabitation is the act of living together and having a sexual relationship (especially without being married).",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-habit-exhibit",
       "word": "exhibit",
       "display": "Exhibit",
-      "phonetic": "",
-      "translation": "\u5c55\u51fa\uff1b\u6210\u5217\uff1b\u5c55\u89c8\u5e73",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɪbɪt/",
+      "translation": "展出；成列；展览平",
+      "sentence": "the museum had many exhibits of oriental art",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-habit-exhibition",
       "word": "exhibition",
       "display": "Exhibition",
-      "phonetic": "",
-      "translation": "\u8868\u73b0\uff1b\u663e\u793a",
-      "sentence": "",
+      "phonetic": "/ˌɛksəˈbɪʃən/",
+      "translation": "表现；显示",
+      "sentence": "a remarkable exhibition of musicianship",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "h-habit-exhibitor",
       "word": "exhibitor",
       "display": "Exhibitor",
-      "phonetic": "",
-      "translation": "\u5c55\u51fa\u8005",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɪbətər/",
+      "translation": "展出者",
+      "sentence": "An exhibitor is someone who organizes an exhibit for others to see.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "h-habit-habit",
       "word": "habit",
       "display": "Habit",
-      "phonetic": "",
-      "translation": "\u4e60\u60ef",
-      "sentence": "",
+      "phonetic": "/ˈhæbət/",
+      "translation": "习惯",
+      "sentence": "it was their habit to dine at 7 every evening",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "h-habit-habitat",
       "word": "habitat",
       "display": "Habitat",
-      "phonetic": "",
-      "translation": "\u6816\u606f\u5730",
-      "sentence": "",
+      "phonetic": "/ˈhæbəˌtæt/",
+      "translation": "栖息地",
+      "sentence": "a marine habitat",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "h-habit-habitation",
       "word": "habitation",
       "display": "Habitation",
-      "phonetic": "",
-      "translation": "\u5c45\u4f4f\uff1b\u751f\u6d3b\u73af\u5883",
-      "sentence": "",
+      "phonetic": "/ˌhæbəˈteɪʃən/",
+      "translation": "居住；生活环境",
+      "sentence": "he studied the creation and inhabitation and demise of the colony",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "h-habit-habitual",
       "word": "habitual",
       "display": "Habitual",
-      "phonetic": "",
-      "translation": "\u4e60\u60ef\u7684",
-      "sentence": "",
+      "phonetic": "/həˈbɪʧuəl/",
+      "translation": "习惯的",
+      "sentence": "his habitual comment",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "h-habit-inhabitant",
       "word": "inhabitant",
       "display": "Inhabitant",
-      "phonetic": "",
-      "translation": "\u5c45\u6c11",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈhæbɪtənt/",
+      "translation": "居民",
+      "sentence": "An inhabitant is a person who inhabits a particular place.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "h-habit-prohibit",
       "word": "prohibit",
       "display": "Prohibit",
-      "phonetic": "",
-      "translation": "\u7981\u6b62",
-      "sentence": "",
+      "phonetic": "/proʊˈhɪbət/",
+      "translation": "禁止",
+      "sentence": "I forbid you to call me late at night",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "h-habit-prohibition",
       "word": "prohibition",
       "display": "Prohibition",
-      "phonetic": "",
-      "translation": "\u7981\u6b62\uff1b\u963b\u6b62",
-      "sentence": "",
+      "phonetic": "/ˌproʊəˈbɪʃən/",
+      "translation": "禁止；阻止",
+      "sentence": "in 1920 the 18th amendment to the Constitution established prohibition in the US",
       "tags": [
         "root-family"
       ],
@@ -167,5 +167,6 @@
   "rootLevel": 2,
   "rootPath": "h>h-habit",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

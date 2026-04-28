@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ambiance-ambience",
   "root": "ambiance=ambience",
-  "meaning": "",
-  "descriptionCn": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
-  "updatedAt": "2026-04-15",
+  "meaning": "ambiance=ambience",
+  "descriptionCn": "周围环境；气氛",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambiance",
       "word": "ambiance",
       "display": "Ambiance",
-      "phonetic": "",
-      "translation": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
-      "sentence": "",
+      "phonetic": "/ˈæmbiəns/",
+      "translation": "周围环境；气氛",
+      "sentence": "there was an atmosphere of excitement",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "ambience",
       "word": "ambience",
       "display": "Ambience",
-      "phonetic": "",
-      "translation": "\u5468\u56f4\u73af\u5883\uff1b\u6c14\u6c1b",
-      "sentence": "",
+      "phonetic": "/ˈæmbiəns/",
+      "translation": "周围环境；气氛",
+      "sentence": "there was an atmosphere of excitement",
       "tags": [
         "root-family",
         "other"
@@ -37,5 +37,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

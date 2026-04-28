@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ambit",
   "root": "ambit",
-  "meaning": "",
-  "descriptionCn": "\u754c\u9650\uff1b\u8303\u56f4",
-  "updatedAt": "2026-04-15",
+  "meaning": "ambit family",
+  "descriptionCn": "界限；范围",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambit-ambit-2",
       "word": "ambit",
       "display": "Ambit",
-      "phonetic": "",
-      "translation": "\u754c\u9650\uff1b\u8303\u56f4",
-      "sentence": "",
+      "phonetic": "/ˈæmbɪt/",
+      "translation": "界限；范围",
+      "sentence": "the ambit of municipal legislation",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>amphi-ambi>ambit",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

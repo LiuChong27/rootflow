@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-norm",
-  "root": "norm=rule\u6b63\u5e38",
+  "root": "norm=rule正常",
   "meaning": "rule",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "正常",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-norm-norm",
       "word": "norm",
       "display": "Norm",
-      "phonetic": "",
-      "translation": "\u51c6\u5219\uff1b\u5e73\u5747\u6570",
-      "sentence": "",
+      "phonetic": "/nɔrm/",
+      "translation": "准则；平均数",
+      "sentence": "the current middle-class norm of two children per family",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-norm-normal",
       "word": "normal",
       "display": "Normal",
-      "phonetic": "",
-      "translation": "\u6807\u51c6\u7684\uff1b\u6b63\u5e38\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɔrməl/",
+      "translation": "标准的；正常的",
+      "sentence": "serve wine at normal room temperature",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-norm-normalization",
       "word": "normalization",
       "display": "Normalization",
-      "phonetic": "",
-      "translation": "\u6807\u51c6\u5316",
-      "sentence": "",
+      "phonetic": "/ˌnɔrməlɪˈzeɪʃən/",
+      "translation": "标准化",
+      "sentence": "a committee was appointed to recommend terminological standardization",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-norm",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

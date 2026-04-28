@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-tor",
   "root": "tor",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tor",
+  "descriptionCn": "tor",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-tor-tempt",
       "word": "tempt",
       "display": "Tempt",
-      "phonetic": "",
-      "translation": "\u8bf1\u60d1",
-      "sentence": "",
+      "phonetic": "/tɛmpt/",
+      "translation": "诱惑",
+      "sentence": "We were tempted by the delicious-looking food",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-tor-temptation",
       "word": "temptation",
       "display": "Temptation",
-      "phonetic": "",
-      "translation": "\u5f15\u8bf1",
-      "sentence": "",
+      "phonetic": "/tɛmˈteɪʃən/",
+      "translation": "引诱",
+      "sentence": "he felt the temptation and his will power weakened",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-tor-tentative",
       "word": "tentative",
       "display": "Tentative",
-      "phonetic": "",
-      "translation": "\u8bd5\u63a2\u6027\u7684\uff1b\u6682\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈtɛntətɪv/",
+      "translation": "试探性的；暂时的",
+      "sentence": "just a tentative schedule",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-tor-thrust",
       "word": "thrust",
       "display": "Thrust",
-      "phonetic": "",
-      "translation": "\u63d2\u5165",
-      "sentence": "",
+      "phonetic": "/θrəst/",
+      "translation": "插入",
+      "sentence": "the thrust of the jet engines",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-tor-trail",
       "word": "trail",
       "display": "Trail",
-      "phonetic": "",
-      "translation": "\u5c1d\u8bd5\uff1b\u5ba1\u8baf",
-      "sentence": "",
+      "phonetic": "/treɪl/",
+      "translation": "尝试；审讯",
+      "sentence": "there as a trail of blood",
       "tags": [
         "root-family"
       ],
@@ -68,8 +68,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-tor",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

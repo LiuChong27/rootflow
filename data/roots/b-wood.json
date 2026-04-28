@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "b-wood",
-  "root": "B\u6728\u5934",
+  "root": "B木头",
   "meaning": "wood",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "木头",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "b",
-  "rootLevel": 2,
-  "rootPath": "b>b-wood",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "b-wood",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

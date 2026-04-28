@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ameliorate",
   "root": "ameliorate",
-  "meaning": "",
-  "descriptionCn": "\u6539\u5584",
-  "updatedAt": "2026-04-15",
+  "meaning": "ameliorate family",
+  "descriptionCn": "改善",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ameliorate",
       "word": "ameliorate",
       "display": "Ameliorate",
-      "phonetic": "",
-      "translation": "\u6539\u5584",
-      "sentence": "",
+      "phonetic": "/əˈmiljərˌeɪt/",
+      "translation": "改善",
+      "sentence": "The editor improved the manuscript with his changes",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>ameliorate",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

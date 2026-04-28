@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-hes",
-  "root": "hes=here=stick\u7c98\u7740",
+  "root": "hes=here=stick粘着",
   "meaning": "hes",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "粘着",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-hes-adhere",
       "word": "adhere",
       "display": "Adhere",
-      "phonetic": "",
-      "translation": "\u9ecf\u9644\uff1b\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/əˈdhɪr/",
+      "translation": "黏附；坚持",
+      "sentence": "You must adhere to the rules",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-hes-adherence",
       "word": "adherence",
       "display": "Adherence",
-      "phonetic": "",
-      "translation": "\u7c98\u7740\uff1b\u5fe0\u8bda\uff1b\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/əˈdhɪrəns/",
+      "translation": "粘着；忠诚；坚持",
+      "sentence": "adherence to a fat-free diet",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-hes-adherent",
       "word": "adherent",
       "display": "Adherent",
-      "phonetic": "",
-      "translation": "\u7c98\u7740\u7684\uff1b\u8ffd\u968f\u8005",
-      "sentence": "",
+      "phonetic": "/əˈdhɪrənt/",
+      "translation": "粘着的；追随者",
+      "sentence": "An adherent is someone who believes and helps to spread the doctrine of another.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-hes-adhesion",
       "word": "adhesion",
       "display": "Adhesion",
-      "phonetic": "",
-      "translation": "\u7c98\u7740",
-      "sentence": "",
+      "phonetic": "/æˈdhiʒən/",
+      "translation": "粘着",
+      "sentence": "a heated hydraulic press was required for adhesion",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-hes-cohere",
       "word": "cohere",
       "display": "Cohere",
-      "phonetic": "",
-      "translation": "\u8fde\u8d2f\uff1b\u7c98\u5408",
-      "sentence": "",
+      "phonetic": "/koʊˈhɪr/",
+      "translation": "连贯；粘合",
+      "sentence": "The sushi rice grains cohere",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "h-hes-coherence",
       "word": "coherence",
       "display": "Coherence",
-      "phonetic": "",
-      "translation": "\u8fde\u8d2f\u6027\uff1b\u4e00\u81f4\u6027",
-      "sentence": "",
+      "phonetic": "/koʊˈhɪrəns/",
+      "translation": "连贯性；一致性",
+      "sentence": "A coherence is the state of cohering or sticking together.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "h-hes-cohesible",
       "word": "cohesible",
       "display": "Cohesible",
-      "phonetic": "",
-      "translation": "\u53ef\u7c98\u5408\u7684",
-      "sentence": "",
+      "phonetic": "/koʊhˈizʌbʌl/",
+      "translation": "可粘合的",
+      "sentence": "Cohesible is used here with the sense of \"可粘合的\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "h-hes-cohesion",
       "word": "cohesion",
       "display": "Cohesion",
-      "phonetic": "",
-      "translation": "\u7ed3\u5408\uff1b\u51dd\u805a",
-      "sentence": "",
+      "phonetic": "/koʊˈhiʒən/",
+      "translation": "结合；凝聚",
+      "sentence": "A cohesion is the state of cohering or sticking together.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "h-hes-cohesive",
       "word": "cohesive",
       "display": "Cohesive",
-      "phonetic": "",
-      "translation": "\u51dd\u805a\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/koʊˈhisɪv/",
+      "translation": "凝聚性的",
+      "sentence": "a cohesive agent",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "h-hes-hesitance",
       "word": "hesitance",
       "display": "Hesitance",
-      "phonetic": "",
-      "translation": "\u8e0c\u8e87\uff1b\u72b9\u8c6b",
-      "sentence": "",
+      "phonetic": "/hˈɛzɪtʌns/",
+      "translation": "踌躇；犹豫",
+      "sentence": "A hesitance is a feeling of diffidence and indecision about doing something.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "h-hes-hesitancy",
       "word": "hesitancy",
       "display": "Hesitancy",
-      "phonetic": "",
-      "translation": "\u8fdf\u7591\uff1b\u8e0c\u8e87",
-      "sentence": "",
+      "phonetic": "/ˈhɛzɪtənsi/",
+      "translation": "迟疑；踌躇",
+      "sentence": "his hesitancy revealed his basic indisposition",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "h-hes-hesitant",
       "word": "hesitant",
       "display": "Hesitant",
-      "phonetic": "",
-      "translation": "\u72b9\u8c6b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhɛzɪtənt/",
+      "translation": "犹豫的",
+      "sentence": "If something is hesitant, it is lacking decisiveness of character; unable to act or decide quickly or firmly.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "h-hes-hesitate",
       "word": "hesitate",
       "display": "Hesitate",
-      "phonetic": "",
-      "translation": "\u72b9\u8c6b",
-      "sentence": "",
+      "phonetic": "/ˈhɛzəˌteɪt/",
+      "translation": "犹豫",
+      "sentence": "Authorities hesitate to quote exact figures",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "h-hes-hesitative",
       "word": "hesitative",
       "display": "Hesitative",
-      "phonetic": "",
-      "translation": "\u652f\u543e\u5176\u8bcd\u7684",
-      "sentence": "",
+      "phonetic": "/hˈɛzɪtˌeɪtɪv/",
+      "translation": "支吾其词的",
+      "sentence": "Hesitative is used here with the sense of \"支吾其词的\".",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "h-hes-incoherent",
       "word": "incoherent",
       "display": "Incoherent",
-      "phonetic": "",
-      "translation": "\u4e0d\u8fde\u8d2f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnkoʊˈhɪrənt/",
+      "translation": "不连贯的",
+      "sentence": "a turgid incoherent presentation",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "h-hes-inhere",
       "word": "inhere",
       "display": "Inhere",
-      "phonetic": "",
-      "translation": "\u56fa\u6709\u7684",
-      "sentence": "",
+      "phonetic": "/ɪnhjˈɛr/",
+      "translation": "固有的",
+      "sentence": "To inhere is to be inherent in something.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "h-hes-inherence",
       "word": "inherence",
       "display": "Inherence",
-      "phonetic": "",
-      "translation": "\u5185\u5728\uff1b\u56fa\u6709\uff1b\u5929\u8d4b",
-      "sentence": "",
+      "phonetic": "/ˈɪnhɚʌns/",
+      "translation": "内在；固有；天赋",
+      "sentence": "the inherence of polysemy in human language",
       "tags": [
         "root-family"
       ],
@@ -215,5 +215,6 @@
   "rootLevel": 2,
   "rootPath": "h>h-hes",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "q-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "q-other-quarrel",
       "word": "quarrel",
       "display": "Quarrel",
-      "phonetic": "",
-      "translation": "\u4e89\u5435",
-      "sentence": "",
+      "phonetic": "/kˈwɔrəl/",
+      "translation": "争吵",
+      "sentence": "they had a quarrel",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "q-other-quilt",
       "word": "quilt",
       "display": "Quilt",
-      "phonetic": "",
-      "translation": "\u88ab\u5b50",
-      "sentence": "",
+      "phonetic": "/kwɪlt/",
+      "translation": "被子",
+      "sentence": "quilt the skirt",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "q-other-quiver",
       "word": "quiver",
       "display": "Quiver",
-      "phonetic": "",
-      "translation": "\u98a4\u6296",
-      "sentence": "",
+      "phonetic": "/kˈwɪvər/",
+      "translation": "颤抖",
+      "sentence": "a frisson of surprise shot through him",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "q-other-quiz",
       "word": "quiz",
       "display": "Quiz",
-      "phonetic": "",
-      "translation": "\u6d4b\u9a8c",
-      "sentence": "",
+      "phonetic": "/kwɪz/",
+      "translation": "测验",
+      "sentence": "We got quizzed on French irregular verbs",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "q-other-quota",
       "word": "quota",
       "display": "Quota",
-      "phonetic": "",
-      "translation": "\u9650\u989d",
-      "sentence": "",
+      "phonetic": "/kˈwoʊtə/",
+      "translation": "限额",
+      "sentence": "all the salesmen met their quota for the month",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "q>q-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

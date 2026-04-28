@@ -3,16 +3,16 @@
   "rootId": "anim",
   "root": "anim",
   "meaning": "soul/life",
-  "descriptionCn": "\u5fc3\u7075\uff1b\u751f\u547d",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "心灵；生命",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "unanimous",
       "word": "unanimous",
       "display": "Unanimous",
-      "phonetic": "",
-      "translation": "\u65e0\u5f02\u8bae\u7684\uff0c\u610f\u89c1\u4e00\u81f4\u7684",
-      "sentence": "",
+      "phonetic": "/juˈnænəməs/",
+      "translation": "无异议的，意见一致的",
+      "sentence": "a unanimous decision",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-other>anim",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

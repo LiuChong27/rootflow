@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-tain-contain",
   "root": "tain=ten=tin",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tain=ten=tin",
+  "descriptionCn": "tain=ten=tin",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-tain-contain-contain",
       "word": "contain",
       "display": "Contain",
-      "phonetic": "",
-      "translation": "\u5305\u542b\uff1b\u5bb9\u7eb3",
-      "sentence": "",
+      "phonetic": "/kənˈteɪn/",
+      "translation": "包含；容纳",
+      "sentence": "The record contains many old songs from the 1930's",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-tain-contain-content",
       "word": "content",
       "display": "Content",
-      "phonetic": "",
-      "translation": "\u6ee1\u8db3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑntɛnt/",
+      "translation": "满足的",
+      "sentence": "he emptied the contents of his pockets",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-tain-contain-impertinent",
       "word": "impertinent",
       "display": "Impertinent",
-      "phonetic": "",
-      "translation": "\u65e0\u793c\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpərtənənt/",
+      "translation": "无礼的",
+      "sentence": "mentioned several impertinent facts before finally coming to the point",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-tain-contain-maintain",
       "word": "maintain",
       "display": "Maintain",
-      "phonetic": "",
-      "translation": "\u7ef4\u6301",
-      "sentence": "",
+      "phonetic": "/meɪnˈteɪn/",
+      "translation": "维持",
+      "sentence": "maintain a record",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-tain-contain-retain",
       "word": "retain",
       "display": "Retain",
-      "phonetic": "",
-      "translation": "\u4fdd\u6301",
-      "sentence": "",
+      "phonetic": "/rɪˈteɪn/",
+      "translation": "保持",
+      "sentence": "This soil retains water",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-tain-contain-sustain",
       "word": "sustain",
       "display": "Sustain",
-      "phonetic": "",
-      "translation": "\u652f\u6301",
-      "sentence": "",
+      "phonetic": "/səˈsteɪn/",
+      "translation": "支持",
+      "sentence": "We sustained the diplomatic negotiations as long as possible",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-tain-contain-tenet",
       "word": "tenet",
       "display": "Tenet",
-      "phonetic": "",
-      "translation": "\u4fe1\u6761\uff1b\u6559\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈtɛnət/",
+      "translation": "信条；教义",
+      "sentence": "A tenet is a religious doctrine that is proclaimed as true without proof.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "t-tain-contain-tolerance",
       "word": "tolerance",
       "display": "Tolerance",
-      "phonetic": "",
-      "translation": "\u5bbd\u5bb9",
-      "sentence": "",
+      "phonetic": "/ˈtɑlərəns/",
+      "translation": "宽容",
+      "sentence": "A tolerance is the power or capacity of an organism to tolerate unfavorable environmental conditions.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "t-tain-contain-tolerate",
       "word": "tolerate",
       "display": "Tolerate",
-      "phonetic": "",
-      "translation": "\u5bb9\u5fcd\u7684",
-      "sentence": "",
+      "phonetic": "/ˈtɑlərˌeɪt/",
+      "translation": "容忍的",
+      "sentence": "he learned to tolerate the heat",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "t-tain-contain-tolerate-2",
       "word": "tolerate",
       "display": "Tolerate",
-      "phonetic": "",
-      "translation": "\u5bb9\u8bb8",
-      "sentence": "",
+      "phonetic": "/ˈtɑlərˌeɪt/",
+      "translation": "容许",
+      "sentence": "he learned to tolerate the heat",
       "tags": [
         "root-family"
       ],
@@ -128,8 +128,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-tain-contain",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

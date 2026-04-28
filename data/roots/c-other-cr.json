@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-cr",
-  "root": "c-other-cr",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "cr",
+  "meaning": "cr family",
+  "descriptionCn": "cr 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-cr-crab",
       "word": "crab",
       "display": "Crab",
-      "phonetic": "",
-      "translation": "\u8783\u87f9",
-      "sentence": "",
+      "phonetic": "/kræb/",
+      "translation": "螃蟹",
+      "sentence": "he caught a crab and lost the race",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-other-cr-crane",
       "word": "crane",
       "display": "Crane",
-      "phonetic": "",
-      "translation": "\u8d77\u91cd\u673a",
-      "sentence": "",
+      "phonetic": "/kreɪn/",
+      "translation": "起重机",
+      "sentence": "The women craned their necks to see the President drive by",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-other-cr-crawl",
       "word": "crawl",
       "display": "Crawl",
-      "phonetic": "",
-      "translation": "\u722c\u884c",
-      "sentence": "",
+      "phonetic": "/krɔl/",
+      "translation": "爬行",
+      "sentence": "the traffic advanced at a crawl",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-other-cr-creep",
       "word": "creep",
       "display": "Creep",
-      "phonetic": "",
-      "translation": "\u722c\u884c",
-      "sentence": "",
+      "phonetic": "/kriːp/",
+      "translation": "爬行",
+      "sentence": "the traffic moved at a creep",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-other-cr-cricket",
       "word": "cricket",
       "display": "Cricket",
-      "phonetic": "",
-      "translation": "\u87cb\u87c0\uff1b\u677f\u7403",
-      "sentence": "",
+      "phonetic": "/ˈkrɪkɪt/",
+      "translation": "蟋蟀；板球",
+      "sentence": "A cricket is leaping insect; male makes chirping noises by rubbing the forewings together.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-other-cr-crime",
       "word": "crime",
       "display": "Crime",
-      "phonetic": "",
-      "translation": "\u72af\u7f6a",
-      "sentence": "",
+      "phonetic": "/kraɪm/",
+      "translation": "犯罪",
+      "sentence": "a long record of crimes",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-other-cr-criminal",
       "word": "criminal",
       "display": "Criminal",
-      "phonetic": "",
-      "translation": "\u7f6a\u72af",
-      "sentence": "",
+      "phonetic": "/ˈkrɪmənəl/",
+      "translation": "罪犯",
+      "sentence": "a criminal waste of talent",
       "tags": [
         "root-family"
       ],
@@ -94,13 +94,18 @@
       "id": "c-other-cr-cripple",
       "word": "cripple",
       "display": "Cripple",
-      "phonetic": "",
-      "translation": "\u6b8b\u75be\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈkrɪpəl/",
+      "translation": "残疾人",
+      "sentence": "This measure crippled our efforts",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-cr",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

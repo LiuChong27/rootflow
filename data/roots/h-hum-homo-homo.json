@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-hum-homo-homo",
-  "root": "homo\u4eba\u7c7b",
+  "root": "homo人类",
   "meaning": "homo",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "人类",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-hum-homo-homo-homage",
       "word": "homage",
       "display": "Homage",
-      "phonetic": "",
-      "translation": "\u656c\u610f\uff1b\u670d\u4ece",
-      "sentence": "",
+      "phonetic": "/ˈɑməʤ/",
+      "translation": "敬意；服从",
+      "sentence": "pay court to the emperor",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-hum-homo-homo-homager",
       "word": "homager",
       "display": "Homager",
-      "phonetic": "",
-      "translation": "\u5c01\u81e3\uff1b\u81f4\u656c\u8005",
-      "sentence": "",
+      "phonetic": "/hˈoʊmɑdʒɚ/",
+      "translation": "封臣；致敬者",
+      "sentence": "Homager is used here with the sense of \"封臣；致敬者\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-hum-homo-homo-homicidomania",
       "word": "homicidomania",
       "display": "Homicidomania",
-      "phonetic": "",
-      "translation": "\u6740\u4eba\u72c2",
-      "sentence": "",
+      "phonetic": "/hˌoʊmɪsɪdʌmˈɪʃʌn/",
+      "translation": "杀人狂",
+      "sentence": "Homicidomania is used here with the sense of \"杀人狂\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-hum-homo-homo-hominid",
       "word": "hominid",
       "display": "Hominid",
-      "phonetic": "",
-      "translation": "\u539f\u59cb\u4eba\u7c7b",
-      "sentence": "",
+      "phonetic": "/ˈhɑmənɪd/",
+      "translation": "原始人类",
+      "sentence": "A hominid is a primate of the family Hominidae.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-hum-homo-homo-hominine",
       "word": "hominine",
       "display": "Hominine",
-      "phonetic": "",
-      "translation": "\u4eba\u7c7b\u7684\uff1b\u4eba\u7684",
-      "sentence": "",
+      "phonetic": "/hˈɑmʌnʌn/",
+      "translation": "人类的；人的",
+      "sentence": "If something is hominine, it is characteristic of humankind.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "h-hum-homo-homo-hominism",
       "word": "hominism",
       "display": "Hominism",
-      "phonetic": "",
-      "translation": "\u4eba\u6027\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/hˈoʊmˌɪnˌɪzʌm/",
+      "translation": "人性主义",
+      "sentence": "Hominism is used here with the sense of \"人性主义\".",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "h-hum-homo-homo-hominize",
       "word": "hominize",
       "display": "Hominize",
-      "phonetic": "",
-      "translation": "\u4f7f\u4eba\u6027\u5316",
-      "sentence": "",
+      "phonetic": "/hˈɑmʌnˌaɪz/",
+      "translation": "使人性化",
+      "sentence": "Hominize is used here with the sense of \"使人性化\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "h-hum-homo-homo-homonid",
       "word": "homonid",
       "display": "Homonid",
-      "phonetic": "",
-      "translation": "\u539f\u59cb\u4eba\u7c7b",
-      "sentence": "",
+      "phonetic": "/hˈɑmʌnɪd/",
+      "translation": "原始人类",
+      "sentence": "Homonid is used here with the sense of \"原始人类\".",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "h-hum-homo-homo-human",
       "word": "human",
       "display": "Human",
-      "phonetic": "",
-      "translation": "\u4eba\u7c7b\uff1b\u6709\u540c\u60c5\u5fc3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈjumən/",
+      "translation": "人类；有同情心的",
+      "sentence": "human nature",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "h-hum-homo-homo-humanism",
       "word": "humanism",
       "display": "Humanism",
-      "phonetic": "",
-      "translation": "\u4eba\u9053\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈhjuməˌnɪzəm/",
+      "translation": "人道主义",
+      "sentence": "A humanism is the doctrine that people's duty is to promote human welfare.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "h-hum-homo-homo-humanist",
       "word": "humanist",
       "display": "Humanist",
-      "phonetic": "",
-      "translation": "\u4eba\u9053\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/ˈhjumənɪst/",
+      "translation": "人道主义者",
+      "sentence": "the humanistic revival of learning",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "h-hum-homo-homo-humanity",
       "word": "humanity",
       "display": "Humanity",
-      "phonetic": "",
-      "translation": "\u4eba\u7c7b\uff1b\u4ec1\u6148",
-      "sentence": "",
+      "phonetic": "/juˈmænɪti/",
+      "translation": "人类；仁慈",
+      "sentence": "he feared the speedy decline of all manhood",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "h-hum-homo-homo-humanize",
       "word": "humanize",
       "display": "Humanize",
-      "phonetic": "",
-      "translation": "\u8d4b\u4e88\u4eba\u6027",
-      "sentence": "",
+      "phonetic": "/ˈhjuməˌnaɪz/",
+      "translation": "赋予人性",
+      "sentence": "The mayor tried to humanize life in the big city",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "h-hum-homo-homo-inhuman",
       "word": "inhuman",
       "display": "Inhuman",
-      "phonetic": "",
-      "translation": "\u975e\u4eba\u7684\uff1b\u6b8b\u5fcd\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈhjumən/",
+      "translation": "非人的；残忍的",
+      "sentence": "something dark and inhuman in form",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "h-hum-homo-homo-inhumanity",
       "word": "inhumanity",
       "display": "Inhumanity",
-      "phonetic": "",
-      "translation": "\u4e0d\u4eba\u9053\u7684\uff1b\u6b8b\u66b4\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnhjuˈmænəti/",
+      "translation": "不人道的；残暴的",
+      "sentence": "An inhumanity is the quality of lacking compassion or consideration for others.",
       "tags": [
         "root-family"
       ],
@@ -191,5 +191,6 @@
   "rootLevel": 3,
   "rootPath": "h>h-hum-homo>h-hum-homo-homo",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

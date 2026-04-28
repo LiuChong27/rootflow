@@ -1,0 +1,6 @@
+{
+  "name": "rootflow-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow shared WeChat mini program credential config for uniCloud functions"
+}

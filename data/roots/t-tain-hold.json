@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-tain-hold",
   "root": "tain=ten=tin=hold",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tain=ten=tin=hold",
+  "descriptionCn": "tain=ten=tin=hold",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-tain-hold-tow",
       "word": "tow",
       "display": "Tow",
-      "phonetic": "",
-      "translation": "\u62d6",
-      "sentence": "",
+      "phonetic": "/toʊ/",
+      "translation": "拖",
+      "sentence": "the truck gave him a tow to the garage",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-tain-hold-toward",
       "word": "toward",
       "display": "Toward",
-      "phonetic": "",
-      "translation": "\u671d\u5411",
-      "sentence": "",
+      "phonetic": "/təˈwɔrd/",
+      "translation": "朝向",
+      "sentence": "Toward is used here with the sense of \"朝向\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-tain-hold-tuck",
       "word": "tuck",
       "display": "Tuck",
-      "phonetic": "",
-      "translation": "\u5377\u8d77",
-      "sentence": "",
+      "phonetic": "/tək/",
+      "translation": "卷起",
+      "sentence": "tuck your shirttail in",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-tain-hold-tug",
       "word": "tug",
       "display": "Tug",
-      "phonetic": "",
-      "translation": "\u62d6",
-      "sentence": "",
+      "phonetic": "/təg/",
+      "translation": "拖",
+      "sentence": "The prisoner tugged at the chains",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-tain-hold-turn",
       "word": "turn",
       "display": "Turn",
-      "phonetic": "",
-      "translation": "\u8f6c\u52a8",
-      "sentence": "",
+      "phonetic": "/tərn/",
+      "translation": "转动",
+      "sentence": "he took a turn to the right",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-tain-hold-turnover",
       "word": "turnover",
       "display": "Turnover",
-      "phonetic": "",
-      "translation": "\u7ffb\u5230",
-      "sentence": "",
+      "phonetic": "/ˈtərˌnoʊvər/",
+      "translation": "翻到",
+      "sentence": "the store's dollar volume continues to rise",
       "tags": [
         "root-family"
       ],
@@ -80,8 +80,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-tain-hold",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

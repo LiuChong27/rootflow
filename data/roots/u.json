@@ -2,13 +2,14 @@
   "version": 1,
   "rootId": "u",
   "root": "U",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "U root map",
+  "descriptionCn": "U",
+  "updatedAt": "2026-04-18",
   "words": [],
   "parentRootId": "",
   "rootLevel": 1,
   "rootPath": "u",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

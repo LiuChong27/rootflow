@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-organ",
-  "root": "organ\u5668\u5b98",
+  "root": "organ器官",
   "meaning": "organ",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "器官",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-organ-organ",
       "word": "organ",
       "display": "Organ",
-      "phonetic": "",
-      "translation": "\u5668\u5b98\uff1b\u673a\u6784\uff1b\u98ce\u7434",
-      "sentence": "",
+      "phonetic": "/ˈɔrgən/",
+      "translation": "器官；机构；风琴",
+      "sentence": "The Census Bureau is an organ of the Commerce Department",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-organ-organic",
       "word": "organic",
       "display": "Organic",
-      "phonetic": "",
-      "translation": "\u5668\u5b98\u7684\uff1b\u6709\u673a\u4f53",
-      "sentence": "",
+      "phonetic": "/ɔrˈgænɪk/",
+      "translation": "器官的；有机体",
+      "sentence": "hydrocarbons are organic compounds",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-organ-organism",
       "word": "organism",
       "display": "Organism",
-      "phonetic": "",
-      "translation": "\u751f\u7269\uff1b\u6709\u673a\u4f53",
-      "sentence": "",
+      "phonetic": "/ˈɔrgəˌnɪzəm/",
+      "translation": "生物；有机体",
+      "sentence": "the social organism",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-organ-organization",
       "word": "organization",
       "display": "Organization",
-      "phonetic": "",
-      "translation": "\u7ec4\u7ec7\uff1b\u673a\u6784",
-      "sentence": "",
+      "phonetic": "/ˌɔrgənəˈzeɪʃən/",
+      "translation": "组织；机构",
+      "sentence": "the facts were familiar but it was in the organization of them that he was original",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-organ-organize",
       "word": "organize",
       "display": "Organize",
-      "phonetic": "",
-      "translation": "\u7ec4\u7ec7",
-      "sentence": "",
+      "phonetic": "/ˈɔrgəˌnaɪz/",
+      "translation": "组织",
+      "sentence": "Can you help me organize my files?",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-organ",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

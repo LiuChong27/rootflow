@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-simple",
-  "root": "simple\u7b80\u5355",
+  "root": "simple简单",
   "meaning": "simple",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "简单",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-simple",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-simple",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

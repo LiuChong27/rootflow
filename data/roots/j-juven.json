@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "j-juven",
-  "root": "juven=young\u5e74\u8f7b",
+  "root": "juven=young年轻",
   "meaning": "young",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "年轻",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "j-juven-junior",
       "word": "junior",
       "display": "Junior",
-      "phonetic": "",
-      "translation": "\u5b66\u751f\uff1b\u4e0b\u7ea7\uff1b\u5e74\u5c11\u7684",
-      "sentence": "",
+      "phonetic": "/ˈʤunjər/",
+      "translation": "学生；下级；年少的",
+      "sentence": "look here, junior, it's none of your business",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "j-juven-juvenile",
       "word": "juvenile",
       "display": "Juvenile",
-      "phonetic": "",
-      "translation": "\u9752\u5c11\u5e74\uff1b\u4f18\u8d28\u7684",
-      "sentence": "",
+      "phonetic": "/ˈʤuvəˌnaɪl/",
+      "translation": "青少年；优质的",
+      "sentence": "juvenile diabetes",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 2,
   "rootPath": "j>j-juven",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

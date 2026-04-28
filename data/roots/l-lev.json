@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "l-lev",
-  "root": "lev\u4e3e\u8d77 \u8f7b",
+  "root": "lev举起 轻",
   "meaning": "lift, light",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "举起 轻",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "l-lev-alleviate",
       "word": "alleviate",
       "display": "Alleviate",
-      "phonetic": "",
-      "translation": "\u51cf\u8f7b",
-      "sentence": "",
+      "phonetic": "/əˈliviˌeɪt/",
+      "translation": "减轻",
+      "sentence": "This pill will relieve your headaches",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "l-lev-alleviation",
       "word": "alleviation",
       "display": "Alleviation",
-      "phonetic": "",
-      "translation": "\u7f13\u548c",
-      "sentence": "",
+      "phonetic": "/əˌliviˈeɪʃən/",
+      "translation": "缓和",
+      "sentence": "as he heard the news he was suddenly flooded with relief",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "l-lev-elevate",
       "word": "elevate",
       "display": "Elevate",
-      "phonetic": "",
-      "translation": "\u4e3e\u8d77",
-      "sentence": "",
+      "phonetic": "/ˈɛləˌveɪt/",
+      "translation": "举起",
+      "sentence": "John was kicked upstairs when a replacement was hired",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "l-lev-elevator",
       "word": "elevator",
       "display": "Elevator",
-      "phonetic": "",
-      "translation": "\u7535\u68af",
-      "sentence": "",
+      "phonetic": "/ˈɛləˌveɪtər/",
+      "translation": "电梯",
+      "sentence": "An elevator is lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "l-lev-lever",
       "word": "lever",
       "display": "Lever",
-      "phonetic": "",
-      "translation": "\u6760\u6746",
-      "sentence": "",
+      "phonetic": "/ˈlɛvər/",
+      "translation": "杠杆",
+      "sentence": "The burglar jimmied the lock",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "l-lev-leverage",
       "word": "leverage",
       "display": "Leverage",
-      "phonetic": "",
-      "translation": "\u6760\u6746\u4f5c\u7528",
-      "sentence": "",
+      "phonetic": "/ˈlɛvərɪʤ/",
+      "translation": "杠杆作用",
+      "sentence": "relatively small groups can sometimes exert immense political leverage",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "l-lev-levity",
       "word": "levity",
       "display": "Levity",
-      "phonetic": "",
-      "translation": "\u8f7b\u6d6e",
-      "sentence": "",
+      "phonetic": "/ˈlɛvɪti/",
+      "translation": "轻浮",
+      "sentence": "A levity is feeling an inappropriate lack of seriousness.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "l-lev-levy",
       "word": "levy",
       "display": "Levy",
-      "phonetic": "",
-      "translation": "\u5f81\u6536",
-      "sentence": "",
+      "phonetic": "/ˈlɛvi/",
+      "translation": "征收",
+      "sentence": "levy a fine",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "l-lev-relevant",
       "word": "relevant",
       "display": "Relevant",
-      "phonetic": "",
-      "translation": "\u6709\u5173\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛləvənt/",
+      "translation": "有关的",
+      "sentence": "the scientist corresponds with colleagues in order to learn about matters relevant to her own research",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "l-lev-relief",
       "word": "relief",
       "display": "Relief",
-      "phonetic": "",
-      "translation": "\u6551\u6d4e",
-      "sentence": "",
+      "phonetic": "/rɪˈlif/",
+      "translation": "救济",
+      "sentence": "as he heard the news he was suddenly flooded with relief",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "l-lev-relieve",
       "word": "relieve",
       "display": "Relieve",
-      "phonetic": "",
-      "translation": "\u51cf\u8f7b",
-      "sentence": "",
+      "phonetic": "/rɪˈliv/",
+      "translation": "减轻",
+      "sentence": "This pill will relieve your headaches",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 2,
   "rootPath": "l>l-lev",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "cogent",
   "root": "cogent",
-  "meaning": "",
-  "descriptionCn": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "cogent family",
+  "descriptionCn": "强有力的；使人信服的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "cogent-cogent-2",
       "word": "cogent",
       "display": "Cogent",
-      "phonetic": "",
-      "translation": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkoʊʤənt/",
+      "translation": "强有力的；使人信服的",
+      "sentence": "a cogent argument",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>act>cogent",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

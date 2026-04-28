@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "adjust",
   "root": "adjust",
-  "meaning": "",
-  "descriptionCn": "\u8c03\u8282\uff1b\u6574\u987f",
-  "updatedAt": "2026-04-15",
+  "meaning": "adjust family",
+  "descriptionCn": "调节；整顿",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "adjust",
       "word": "adjust",
       "display": "Adjust",
-      "phonetic": "",
-      "translation": "\u8c03\u8282\uff1b\u6574\u987f",
-      "sentence": "",
+      "phonetic": "/əˈʤəst/",
+      "translation": "调节；整顿",
+      "sentence": "Adjust the clock, please",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>adjust",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

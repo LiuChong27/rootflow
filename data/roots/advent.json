@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "advent",
   "root": "advent",
-  "meaning": "",
-  "descriptionCn": "\u5230\u6765",
-  "updatedAt": "2026-04-15",
+  "meaning": "advent family",
+  "descriptionCn": "到来",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "advent",
       "word": "advent",
       "display": "Advent",
-      "phonetic": "",
-      "translation": "\u5230\u6765",
-      "sentence": "",
+      "phonetic": "/ˈædˌvɛnt/",
+      "translation": "到来",
+      "sentence": "the advent of the computer",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit>advent",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

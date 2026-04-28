@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-stell",
-  "root": "stell=star\u661f\u661f",
+  "root": "stell=star星星",
   "meaning": "star",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "星星",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-stell-resplendent",
       "word": "resplendent",
       "display": "Resplendent",
-      "phonetic": "",
-      "translation": "\u8f89\u714c\u7684",
-      "sentence": "",
+      "phonetic": "/riˈsplɛndənt/",
+      "translation": "辉煌的",
+      "sentence": "a glorious spring morning",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-stell-satellite",
       "word": "satellite",
       "display": "Satellite",
-      "phonetic": "",
-      "translation": "\u536b\u661f",
-      "sentence": "",
+      "phonetic": "/ˈsætəˌlaɪt/",
+      "translation": "卫星",
+      "sentence": "a city and its satellite communities",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-stell-scout",
       "word": "scout",
       "display": "Scout",
-      "phonetic": "",
-      "translation": "\u4fa6\u67e5\u5458",
-      "sentence": "",
+      "phonetic": "/skaʊt/",
+      "translation": "侦查员",
+      "sentence": "A scout is a person employed to keep watch for some anticipated event.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-stell-splend",
       "word": "splend",
       "display": "Splend",
-      "phonetic": "",
-      "translation": "\u53d1\u5149",
-      "sentence": "",
+      "phonetic": "/splˈɛnd/",
+      "translation": "发光",
+      "sentence": "Splend is used here with the sense of \"发光\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-stell-star",
       "word": "star",
       "display": "Star",
-      "phonetic": "",
-      "translation": "\u6052\u661f",
-      "sentence": "",
+      "phonetic": "/stɑr/",
+      "translation": "恒星",
+      "sentence": "The movie stars Dustin Hoffman as an autistic man",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-stell-stare",
       "word": "stare",
       "display": "Stare",
-      "phonetic": "",
-      "translation": "\u76ef\uff1b\u51dd\u89c6",
-      "sentence": "",
+      "phonetic": "/stɛr/",
+      "translation": "盯；凝视",
+      "sentence": "The students stared at the teacher with amazement",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-stell",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "c-car-char",
   "root": "car/char",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "car/char",
+  "descriptionCn": "car/char",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-car-char-cargo",
       "word": "cargo",
       "display": "Cargo",
-      "phonetic": "",
-      "translation": "\u8d27\u7269",
-      "sentence": "",
+      "phonetic": "/ˈkɑrˌgoʊ/",
+      "translation": "货物",
+      "sentence": "A cargo is goods carried by a large vehicle.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-car-char-charge",
       "word": "charge",
       "display": "Charge",
-      "phonetic": "",
-      "translation": "\u5145\u7535\uff1b\u638c\u7ba1\uff1b\u88c5\u6ee1\uff1b\u63a7\u8bc9",
-      "sentence": "",
+      "phonetic": "/ʧɑrʤ/",
+      "translation": "充电；掌管；装满；控诉",
+      "sentence": "the wrestler's charge carried him past his adversary",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-car-char-charger",
       "word": "charger",
       "display": "Charger",
-      "phonetic": "",
-      "translation": "\u5145\u7535\u5668\uff1b\u59d4\u6258\u4eba\uff1b\u63a7\u8bc9\u8005",
-      "sentence": "",
+      "phonetic": "/ˈʧɑrʤər/",
+      "translation": "充电器；委托人；控诉者",
+      "sentence": "A charger is formerly a strong swift horse ridden into battle.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-car-char-chase",
       "word": "chase",
       "display": "Chase",
-      "phonetic": "",
-      "translation": "\u8ffd\u9010",
-      "sentence": "",
+      "phonetic": "/ʧeɪs/",
+      "translation": "追逐",
+      "sentence": "The policeman chased the mugger down the alley",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-car-char-discharge",
       "word": "discharge",
       "display": "Discharge",
-      "phonetic": "",
-      "translation": "\u5378\u4e0b\uff1b\u89e3\u96c7\uff1b\u653e\u7535",
-      "sentence": "",
+      "phonetic": "/ˈdɪsˌʧɑrʤ/",
+      "translation": "卸下；解雇；放电",
+      "sentence": "the discharge of pus",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "c>c-car-char",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cur-concur",
-  "root": "concur\u540c\u610f\uff1b\u540c\u65f6\u53d1\u751f",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "concur同意；同时发生",
+  "meaning": "concur",
+  "descriptionCn": "同意；同时发生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cur-concur-concurrence",
       "word": "concurrence",
       "display": "Concurrence",
-      "phonetic": "",
-      "translation": "\u540c\u610f\uff1b\u540c\u65f6\u53d1\u751f",
-      "sentence": "",
+      "phonetic": "/kənˈkərəns/",
+      "translation": "同意；同时发生",
+      "sentence": "the interval determining the coincidence gate is adjustable",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cur-concur-concurrent",
       "word": "concurrent",
       "display": "Concurrent",
-      "phonetic": "",
-      "translation": "\u540c\u65f6\u53d1\u751f\uff1b\u4e00\u81f4\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈkərənt/",
+      "translation": "同时发生；一致的",
+      "sentence": "a series of coincident events",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-cur>c-cur-concur",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

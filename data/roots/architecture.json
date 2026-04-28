@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "architecture",
   "root": "architecture",
-  "meaning": "",
-  "descriptionCn": "\u5efa\u7b51\u5b66",
-  "updatedAt": "2026-04-15",
+  "meaning": "architecture family",
+  "descriptionCn": "建筑学",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "architecture",
       "word": "architecture",
       "display": "Architecture",
-      "phonetic": "",
-      "translation": "\u5efa\u7b51\u5b66",
-      "sentence": "",
+      "phonetic": "/ˈɑrkəˌtɛkʧər/",
+      "translation": "建筑学",
+      "sentence": "architecture and eloquence are mixed arts whose end is sometimes beauty and sometimes use",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-other>arch>architect>architecture",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-other-or",
-  "root": "or\u8bf4",
+  "root": "or说",
   "meaning": "say",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "说",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-other-or-oral",
       "word": "oral",
       "display": "Oral",
-      "phonetic": "",
-      "translation": "\u53e3\u5934\u7684\uff1b\u53e3\u8ff0\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɔrəl/",
+      "translation": "口头的；口述的",
+      "sentence": "an oral tradition",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-other-or-oration",
       "word": "oration",
       "display": "Oration",
-      "phonetic": "",
-      "translation": "\u6f14\u8bf4",
-      "sentence": "",
+      "phonetic": "/ɔˈreɪʃən/",
+      "translation": "演说",
+      "sentence": "he delivered an oration on the decline of family values",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-other-or-orchestra",
       "word": "orchestra",
       "display": "Orchestra",
-      "phonetic": "",
-      "translation": "\u7ba1\u5f26\u4e50\u961f",
-      "sentence": "",
+      "phonetic": "/ˈɔrkəstrə/",
+      "translation": "管弦乐队",
+      "sentence": "An orchestra is a musical organization consisting of a group of instrumentalists including string players.",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "o>o-other>o-other-or",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

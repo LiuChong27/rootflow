@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "apo-physical",
-  "root": "\u7269\u7406/\u52a8\u4f5c",
-  "meaning": "",
-  "descriptionCn": "\u7269\u7406/\u52a8\u4f5c\u7c7b\u6d3e\u751f",
-  "updatedAt": "2026-04-15",
+  "root": "物理/动作",
+  "meaning": "physical/action forms",
+  "descriptionCn": "物理/动作类派生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abaxial-apo-physical-2",
       "word": "abaxial",
       "display": "Abaxial",
-      "phonetic": "",
-      "translation": "\u79bb\u8f74\u7684",
-      "sentence": "",
+      "phonetic": "/ʌbˈæksiʌl/",
+      "translation": "离轴的",
+      "sentence": "the abaxial surface of a leaf is the underside or side facing away from the stem",
       "tags": [
         "root-family",
         "physics"
@@ -23,9 +23,9 @@
       "id": "abduce-apo-physical-2",
       "word": "abduce",
       "display": "Abduce",
-      "phonetic": "",
-      "translation": "\u5916\u5c55",
-      "sentence": "",
+      "phonetic": "/æbdˈus/",
+      "translation": "外展",
+      "sentence": "Abduce means to advance evidence for.",
       "tags": [
         "root-family",
         "physics"
@@ -37,5 +37,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>apo-ab>apo-physical",
   "type": "category",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

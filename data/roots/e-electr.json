@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-electr",
-  "root": "electr\u7425\u73c0 \u6469\u64e6\u5e26\u7535",
+  "root": "electr琥珀 摩擦带电",
   "meaning": "electr",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "琥珀 摩擦带电",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-electr-electric",
       "word": "electric",
       "display": "Electric",
-      "phonetic": "",
-      "translation": "\u7535\u7684\uff1b\u5bfc\u7535\u7684",
-      "sentence": "",
+      "phonetic": "/ɪˈlɛktrɪk/",
+      "translation": "电的；导电的",
+      "sentence": "electric current",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-electr-electrical",
       "word": "electrical",
       "display": "Electrical",
-      "phonetic": "",
-      "translation": "\u5bfc\u7535\u7684\uff1b\u7535\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/ɪˈlɛktrɪkəl/",
+      "translation": "导电的；电动的",
+      "sentence": "an electrical engineer",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-electr-electrician",
       "word": "electrician",
       "display": "Electrician",
-      "phonetic": "",
-      "translation": "\u7535\u7684\uff1b\u7535\u5b66\u7684",
-      "sentence": "",
+      "phonetic": "/ɪlɛkˈtrɪʃən/",
+      "translation": "电的；电学的",
+      "sentence": "An electrician is a person who installs or repairs electrical or telephone lines.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-electr-electricity",
       "word": "electricity",
       "display": "Electricity",
-      "phonetic": "",
-      "translation": "\u7535\u6d41",
-      "sentence": "",
+      "phonetic": "/ɪˌlɛkˈtrɪsəti/",
+      "translation": "电流",
+      "sentence": "they built a car that runs on electricity",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-electr-electron",
       "word": "electron",
       "display": "Electron",
-      "phonetic": "",
-      "translation": "\u7535\u5b50",
-      "sentence": "",
+      "phonetic": "/ˌɪˈlɛktrɑn/",
+      "translation": "电子",
+      "sentence": "An electron is an elementary particle with negative charge.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "e-electr-electronic",
       "word": "electronic",
       "display": "Electronic",
-      "phonetic": "",
-      "translation": "\u7535\u5b50\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˌlɛkˈtrɑnɪk/",
+      "translation": "电子的",
+      "sentence": "electronic devices",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "e>e-electr",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

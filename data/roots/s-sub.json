@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-sub",
-  "root": "sub\u4e0b",
+  "root": "sub下",
   "meaning": "under",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "下",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-sub-submarine",
       "word": "submarine",
       "display": "Submarine",
-      "phonetic": "",
-      "translation": "\u6f5c\u6c34\u8247",
-      "sentence": "",
+      "phonetic": "/ˌsəbmərˈin/",
+      "translation": "潜水艇",
+      "sentence": "The child was injured when he submarined under the safety belt of the car",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-sub-submerge",
       "word": "submerge",
       "display": "Submerge",
-      "phonetic": "",
-      "translation": "\u6c89\u6ca1",
-      "sentence": "",
+      "phonetic": "/səbˈmərʤ/",
+      "translation": "沉没",
+      "sentence": "submerge your head completely",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-sub-subordinate",
       "word": "subordinate",
       "display": "Subordinate",
-      "phonetic": "",
-      "translation": "\u4e0b\u7ea7",
-      "sentence": "",
+      "phonetic": "/səˈbɔrdəˌneɪt/",
+      "translation": "下级",
+      "sentence": "Art is sometimes subordinated to Science in these schools",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-sub-subscribe",
       "word": "subscribe",
       "display": "Subscribe",
-      "phonetic": "",
-      "translation": "\u8ba2\u9605",
-      "sentence": "",
+      "phonetic": "/səbˈskraɪb/",
+      "translation": "订阅",
+      "sentence": "The broker subscribed 500 shares",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-sub-subsequent",
       "word": "subsequent",
       "display": "Subsequent",
-      "phonetic": "",
-      "translation": "\u968f\u540e\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsəbsəkwənt/",
+      "translation": "随后的",
+      "sentence": "subsequent developments",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-sub-subsidy",
       "word": "subsidy",
       "display": "Subsidy",
-      "phonetic": "",
-      "translation": "\u8865\u52a9\u91d1",
-      "sentence": "",
+      "phonetic": "/ˈsəbsɪdi/",
+      "translation": "补助金",
+      "sentence": "a subsidy for research in artificial intelligence",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-sub-substance",
       "word": "substance",
       "display": "Substance",
-      "phonetic": "",
-      "translation": "\u7269\u8d28\uff1b\u672c\u8d28",
-      "sentence": "",
+      "phonetic": "/ˈsəbstəns/",
+      "translation": "物质；本质",
+      "sentence": "DNA is the substance of our genes",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-sub-substantial",
       "word": "substantial",
       "display": "Substantial",
-      "phonetic": "",
-      "translation": "\u5b9e\u8d28\u7684",
-      "sentence": "",
+      "phonetic": "/səbˈstænʃəl/",
+      "translation": "实质的",
+      "sentence": "won by a substantial margin",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-sub-substitute",
       "word": "substitute",
       "display": "Substitute",
-      "phonetic": "",
-      "translation": "\u66ff\u4ee3\u8005\uff1b\u66ff\u4ee3",
-      "sentence": "",
+      "phonetic": "/ˈsəbstəˌtut/",
+      "translation": "替代者；替代",
+      "sentence": "substitute regular milk with fat-free milk",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-sub-subtle",
       "word": "subtle",
       "display": "Subtle",
-      "phonetic": "",
-      "translation": "\u7cbe\u5de7\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsətəl/",
+      "translation": "精巧的",
+      "sentence": "his whole attitude had undergone a subtle change",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-sub-subtract",
       "word": "subtract",
       "display": "Subtract",
-      "phonetic": "",
-      "translation": "\u51cf\u53bb",
-      "sentence": "",
+      "phonetic": "/səbˈtrækt/",
+      "translation": "减去",
+      "sentence": "subtract this amount from my paycheck",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-sub-suburb",
       "word": "suburb",
       "display": "Suburb",
-      "phonetic": "",
-      "translation": "\u90ca\u533a",
-      "sentence": "",
+      "phonetic": "/ˈsəbərb/",
+      "translation": "郊区",
+      "sentence": "A suburb is a residential district located on the outskirts of a city.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-sub-subway",
       "word": "subway",
       "display": "Subway",
-      "phonetic": "",
-      "translation": "\u5730\u94c1",
-      "sentence": "",
+      "phonetic": "/ˈsəbˌweɪ/",
+      "translation": "地铁",
+      "sentence": "in Paris the subway system is called the `metro' and in London it is called the `tube' or the `underground'",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-sub-succeed",
       "word": "succeed",
       "display": "Succeed",
-      "phonetic": "",
-      "translation": "\u6210\u529f\uff1b\u7ee7\u627f",
-      "sentence": "",
+      "phonetic": "/səkˈsid/",
+      "translation": "成功；继承",
+      "sentence": "The enterprise succeeded",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-sub-success",
       "word": "success",
       "display": "Success",
-      "phonetic": "",
-      "translation": "\u6210\u5c31",
-      "sentence": "",
+      "phonetic": "/səkˈsɛs/",
+      "translation": "成就",
+      "sentence": "let's call heads a success and tails a failure",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-sub-successful",
       "word": "successful",
       "display": "Successful",
-      "phonetic": "",
-      "translation": "\u6210\u529f\u7684\uff1b\u5706\u6ee1\u7684",
-      "sentence": "",
+      "phonetic": "/səkˈsɛsfəl/",
+      "translation": "成功的；圆满的",
+      "sentence": "a successful architect",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-sub-succession",
       "word": "succession",
       "display": "Succession",
-      "phonetic": "",
-      "translation": "\u8fde\u7eed\u7684",
-      "sentence": "",
+      "phonetic": "/səkˈsɛʃən/",
+      "translation": "连续的",
+      "sentence": "a succession of stalls offering soft drinks",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "s-sub-successive",
       "word": "successive",
       "display": "Successive",
-      "phonetic": "",
-      "translation": "\u63a5\u8fde\u7684",
-      "sentence": "",
+      "phonetic": "/səkˈsɛsɪv/",
+      "translation": "接连的",
+      "sentence": "serial concerts",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "s-sub-successor",
       "word": "successor",
       "display": "Successor",
-      "phonetic": "",
-      "translation": "\u7ee7\u4efb\u8005",
-      "sentence": "",
+      "phonetic": "/səkˈsɛsər/",
+      "translation": "继任者",
+      "sentence": "he was President Lincoln's successor",
       "tags": [
         "root-family"
       ],
@@ -239,5 +239,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-sub",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

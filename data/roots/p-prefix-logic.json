@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "p-prefix-logic",
-  "root": "\u903b\u8f91",
+  "root": "逻辑",
   "meaning": "logic",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "逻辑",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "p-prefix",
-  "rootLevel": 3,
-  "rootPath": "p>p-prefix>p-prefix-logic",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "p-prefix-logic",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

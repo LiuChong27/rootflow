@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-path",
-  "root": "path=pathy pati=passi \u611f\u60c5\uff1b\u5fcd\u53d7",
+  "root": "path=pathy pati=passi 感情；忍受",
   "meaning": "feeling, endure",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "感情；忍受",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-path-antipathetic",
       "word": "antipathetic",
       "display": "Antipathetic",
-      "phonetic": "",
-      "translation": "\u8ba8\u538c\u7684",
-      "sentence": "",
+      "phonetic": "/ˌæntʌpˈætɪk/",
+      "translation": "讨厌的",
+      "sentence": "antipathetic to new ideas",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-path-antipathy",
       "word": "antipathy",
       "display": "Antipathy",
-      "phonetic": "",
-      "translation": "\u618e\u6076",
-      "sentence": "",
+      "phonetic": "/ænˈtɪpəθi/",
+      "translation": "憎恶",
+      "sentence": "cats were his greatest antipathy",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-path-apathy",
       "word": "apathy",
       "display": "Apathy",
-      "phonetic": "",
-      "translation": "\u51b7\u6de1",
-      "sentence": "",
+      "phonetic": "/ˈæpəθi/",
+      "translation": "冷淡",
+      "sentence": "An apathy is an absence of emotion or enthusiasm.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-path-compassion",
       "word": "compassion",
       "display": "Compassion",
-      "phonetic": "",
-      "translation": "\u540c\u60c5\uff1b\u601c\u60af",
-      "sentence": "",
+      "phonetic": "/kəmˈpæʃən/",
+      "translation": "同情；怜悯",
+      "sentence": "A compassion is a deep awareness of and sympathy for another's suffering.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-path-compatible",
       "word": "compatible",
       "display": "Compatible",
-      "phonetic": "",
-      "translation": "\u80fd\u5171\u5904\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈpætəbəl/",
+      "translation": "能共处的",
+      "sentence": "a compatible married couple",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-path-dispassion",
       "word": "dispassion",
       "display": "Dispassion",
-      "phonetic": "",
-      "translation": "\u51b7\u9759\uff1b\u4e0d\u51b2\u52a8",
-      "sentence": "",
+      "phonetic": "/dɪspˈæʃʌn/",
+      "translation": "冷静；不冲动",
+      "sentence": "her manner assumed a dispassion and dryness very unlike her usual tone",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-path-dispassionate",
       "word": "dispassionate",
       "display": "Dispassionate",
-      "phonetic": "",
-      "translation": "\u51b7\u9759",
-      "sentence": "",
+      "phonetic": "/dɪˈspæʃənət/",
+      "translation": "冷静",
+      "sentence": "a journalist should be a dispassionate reporter of fact",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-path-impassible",
       "word": "impassible",
       "display": "Impassible",
-      "phonetic": "",
-      "translation": "\u9ebb\u6728\u7684",
-      "sentence": "",
+      "phonetic": "/ɪmpˈæsʌbʌl/",
+      "translation": "麻木的",
+      "sentence": "Impassible is used here with the sense of \"麻木的\".",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-path-impassioned",
       "word": "impassioned",
       "display": "Impassioned",
-      "phonetic": "",
-      "translation": "\u4f7f\u611f\u52a8\uff1b\u5145\u6ee1\u70ed\u60c5\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpæʃənd/",
+      "translation": "使感动；充满热情的",
+      "sentence": "an impassioned appeal",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-path-incompatible",
       "word": "incompatible",
       "display": "Incompatible",
-      "phonetic": "",
-      "translation": "\u77db\u76fe\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnkəmˈpætəbəl/",
+      "translation": "矛盾的",
+      "sentence": "incompatible personalities",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-path-neuropathy",
       "word": "neuropathy",
       "display": "Neuropathy",
-      "phonetic": "",
-      "translation": "\u795e\u7ecf\u75c5",
-      "sentence": "",
+      "phonetic": "/ˌnʊˈrɔpəθi/",
+      "translation": "神经病",
+      "sentence": "A neuropathy is any pathology of the peripheral nerves.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-path-passion",
       "word": "passion",
       "display": "Passion",
-      "phonetic": "",
-      "translation": "\u70ed\u60c5",
-      "sentence": "",
+      "phonetic": "/ˈpæʃən/",
+      "translation": "热情",
+      "sentence": "he has a passion for cock fighting",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-path-passionate",
       "word": "passionate",
       "display": "Passionate",
-      "phonetic": "",
-      "translation": "\u70ed\u60c5\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpæʃənət/",
+      "translation": "热情的",
+      "sentence": "If something is passionate, it is having or expressing strong emotions.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-path-passive",
       "word": "passive",
       "display": "Passive",
-      "phonetic": "",
-      "translation": "\u6d88\u6781\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpæsɪv/",
+      "translation": "消极的",
+      "sentence": "`The ball was thrown by the boy' uses the passive voice",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-path-passivism",
       "word": "passivism",
       "display": "Passivism",
-      "phonetic": "",
-      "translation": "\u88ab\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/pˈæsɪvˌɪzʌm/",
+      "translation": "被动的",
+      "sentence": "A passivism is the doctrine that all violence is unjustifiable.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-path-pathetic",
       "word": "pathetic",
       "display": "Pathetic",
-      "phonetic": "",
-      "translation": "\u53ef\u601c\u7684\uff1b\u53ef\u60b2\u7684",
-      "sentence": "",
+      "phonetic": "/pəˈθɛtɪk/",
+      "translation": "可怜的；可悲的",
+      "sentence": "the shabby room struck her as extraordinarily pathetic",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-path-pathology",
       "word": "pathology",
       "display": "Pathology",
-      "phonetic": "",
-      "translation": "\u75c5\u7406\u5b66",
-      "sentence": "",
+      "phonetic": "/pəˈθɑləʤi/",
+      "translation": "病理学",
+      "sentence": "A pathology is the branch of medical science that studies the causes and nature and effects of diseases.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-path-patience",
       "word": "patience",
       "display": "Patience",
-      "phonetic": "",
-      "translation": "\u8010\u5fc3\uff1b\u5fcd\u8010",
-      "sentence": "",
+      "phonetic": "/ˈpeɪʃəns/",
+      "translation": "耐心；忍耐",
+      "sentence": "A patience is good-natured tolerance of delay or incompetence.",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-path-patient",
       "word": "patient",
       "display": "Patient",
-      "phonetic": "",
-      "translation": "\u6709\u8010\u5fc3\u7684\uff1b\u75c5\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈpeɪʃənt/",
+      "translation": "有耐心的；病人",
+      "sentence": "the number of emergency patients has grown rapidly",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-path-sympathy",
       "word": "sympathy",
       "display": "Sympathy",
-      "phonetic": "",
-      "translation": "\u540c\u60c5",
-      "sentence": "",
+      "phonetic": "/ˈsɪmpəθi/",
+      "translation": "同情",
+      "sentence": "the two of them were in close sympathy",
       "tags": [
         "root-family"
       ],
@@ -251,5 +251,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-path",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

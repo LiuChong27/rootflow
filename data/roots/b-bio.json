@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-bio",
-  "root": "bio\u751f\u547d",
+  "root": "bio生命",
   "meaning": "life",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "生命",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-bio-anabiosis",
       "word": "anabiosis",
       "display": "Anabiosis",
-      "phonetic": "",
-      "translation": "\u590d\u82cf",
-      "sentence": "",
+      "phonetic": "/ˌænʌbˈiʌsʌs/",
+      "translation": "复苏",
+      "sentence": "Anabiosis refers to suspended animation in organisms during periods of extreme drought from which they revive when moisture returns.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-bio-bioacoustics",
       "word": "bioacoustics",
       "display": "Bioacoustics",
-      "phonetic": "",
-      "translation": "\u751f\u7269\u58f0\u5b66",
-      "sentence": "",
+      "phonetic": "/bˌaɪoʊkʌtsˈupɪks/",
+      "translation": "生物声学",
+      "sentence": "Bioacoustics is used here with the sense of \"生物声学\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-bio-biochronology",
       "word": "biochronology",
       "display": "Biochronology",
-      "phonetic": "",
-      "translation": "\u751f\u7269\u5e74\u4ee3\u5b66",
-      "sentence": "",
+      "phonetic": "/bˌaɪoʊkrˈɑnʌgli/",
+      "translation": "生物年代学",
+      "sentence": "Biochronology is used here with the sense of \"生物年代学\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-bio-bioecology",
       "word": "bioecology",
       "display": "Bioecology",
-      "phonetic": "",
-      "translation": "\u751f\u7269\u751f\u6001\u5b66",
-      "sentence": "",
+      "phonetic": "/bˌaɪoʊkˈeɪlʌdʒi/",
+      "translation": "生物生态学",
+      "sentence": "Bioecology is used here with the sense of \"生物生态学\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-bio-biolith",
       "word": "biolith",
       "display": "Biolith",
-      "phonetic": "",
-      "translation": "\u751f\u7269\u5ca9",
-      "sentence": "",
+      "phonetic": "/bˈaɪʌlɪθ/",
+      "translation": "生物岩",
+      "sentence": "Biolith is used here with the sense of \"生物岩\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-bio-biology",
       "word": "biology",
       "display": "Biology",
-      "phonetic": "",
-      "translation": "\u751f\u7269\u5b66",
-      "sentence": "",
+      "phonetic": "/baɪˈɑləʤi/",
+      "translation": "生物学",
+      "sentence": "the biology of viruses",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-bio-biosis",
       "word": "biosis",
       "display": "Biosis",
-      "phonetic": "",
-      "translation": "\u751f\u6d3b\u65b9\u5f0f",
-      "sentence": "",
+      "phonetic": "/biˈoʊˌsɪs/",
+      "translation": "生活方式",
+      "sentence": "Biosis is used here with the sense of \"生活方式\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-bio-biosphere",
       "word": "biosphere",
       "display": "Biosphere",
-      "phonetic": "",
-      "translation": "\u751f\u7269\u5708",
-      "sentence": "",
+      "phonetic": "/ˈbaɪoʊsˌfɪr/",
+      "translation": "生物圈",
+      "sentence": "A biosphere is the regions of the surface and atmosphere of the Earth (or other planet) where living organisms exist.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-bio-dysbiosis",
       "word": "dysbiosis",
       "display": "Dysbiosis",
-      "phonetic": "",
-      "translation": "\u751f\u6001\u5e73\u8861",
-      "sentence": "",
+      "phonetic": "/dɪsbˈaɪʌsʌs/",
+      "translation": "生态平衡",
+      "sentence": "Dysbiosis is used here with the sense of \"生态平衡\".",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-bio-eubiosis",
       "word": "eubiosis",
       "display": "Eubiosis",
-      "phonetic": "",
-      "translation": "\u751f\u6001\u5e73\u8861",
-      "sentence": "",
+      "phonetic": "/jˈubioʊsɪs/",
+      "translation": "生态平衡",
+      "sentence": "Eubiosis is used here with the sense of \"生态平衡\".",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-bio-hypobiosis",
       "word": "hypobiosis",
       "display": "Hypobiosis",
-      "phonetic": "",
-      "translation": "\u4f4e\u751f\u6d3b\u529b",
-      "sentence": "",
+      "phonetic": "/hˌaɪpoʊbˈisiʌs/",
+      "translation": "低生活力",
+      "sentence": "Hypobiosis is used here with the sense of \"低生活力\".",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-bio-mixobiosis",
       "word": "mixobiosis",
       "display": "Mixobiosis",
-      "phonetic": "",
-      "translation": "\u6df7\u5408\u5171\u751f",
-      "sentence": "",
+      "phonetic": "/mɪksˈoʊbiʌs/",
+      "translation": "混合共生",
+      "sentence": "Mixobiosis is used here with the sense of \"混合共生\".",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-bio",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

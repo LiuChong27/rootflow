@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ambiguous",
   "root": "ambiguous",
-  "meaning": "",
-  "descriptionCn": "\u542b\u7cca\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "ambiguous family",
+  "descriptionCn": "含糊的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambiguous",
       "word": "ambiguous",
       "display": "Ambiguous",
-      "phonetic": "",
-      "translation": "\u542b\u7cca\u7684",
-      "sentence": "",
+      "phonetic": "/æmˈbɪgjuəs/",
+      "translation": "含糊的",
+      "sentence": "the polling had a complex and equivocal (or ambiguous) message for potential female candidates",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>amphi-ambi>ambiguity>ambiguous",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

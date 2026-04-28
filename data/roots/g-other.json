@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-other-gauge",
       "word": "gauge",
       "display": "Gauge",
-      "phonetic": "",
-      "translation": "\u6d4b\u91cf\uff1b\u89c4\u683c",
-      "sentence": "",
+      "phonetic": "/geɪʤ/",
+      "translation": "测量；规格",
+      "sentence": "gauge bricks",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-other-gear",
       "word": "gear",
       "display": "Gear",
-      "phonetic": "",
-      "translation": "\u9f7f\u8f6e",
-      "sentence": "",
+      "phonetic": "/gɪr/",
+      "translation": "齿轮",
+      "sentence": "the fool got his tie caught in the geartrain",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-other-glamor",
       "word": "glamor",
       "display": "Glamor",
-      "phonetic": "",
-      "translation": "\u9b45\u529b\uff1b\u9b54\u6cd5",
-      "sentence": "",
+      "phonetic": "/ˈglæmər/",
+      "translation": "魅力；魔法",
+      "sentence": "A glamor is alluring beauty or charm (often with sex-appeal).",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-other-glare",
       "word": "glare",
       "display": "Glare",
-      "phonetic": "",
-      "translation": "\u6012\u89c6\uff1b\u70ab\u8000",
-      "sentence": "",
+      "phonetic": "/glɛr/",
+      "translation": "怒视；炫耀",
+      "sentence": "a glare of sunlight",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-other-glitter",
       "word": "glitter",
       "display": "Glitter",
-      "phonetic": "",
-      "translation": "\u5149\u8f89\uff1b\u95ea\u8000",
-      "sentence": "",
+      "phonetic": "/ˈglɪtər/",
+      "translation": "光辉；闪耀",
+      "sentence": "His eyes were glistening",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "g-other-gloomy",
       "word": "gloomy",
       "display": "Gloomy",
-      "phonetic": "",
-      "translation": "\u9634\u90c1\u7684",
-      "sentence": "",
+      "phonetic": "/ˈglumi/",
+      "translation": "阴郁的",
+      "sentence": "the gloomy forest",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "g-other-glory",
       "word": "glory",
       "display": "Glory",
-      "phonetic": "",
-      "translation": "\u5149\u8363\uff1b\u8363\u8a89",
-      "sentence": "",
+      "phonetic": "/ˈglɔri/",
+      "translation": "光荣；荣誉",
+      "sentence": "he valued glory above life itself",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "g-other-good",
       "word": "good",
       "display": "Good",
-      "phonetic": "",
-      "translation": "\u597d\u7684\uff1b\u5229\u76ca",
-      "sentence": "",
+      "phonetic": "/gʊd/",
+      "translation": "好的；利益",
+      "sentence": "for your own good",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "g-other-goodness",
       "word": "goodness",
       "display": "Goodness",
-      "phonetic": "",
-      "translation": "\u5546\u91cf\uff1b\u4ec1\u6148",
-      "sentence": "",
+      "phonetic": "/ˈgʊdnɪs/",
+      "translation": "商量；仁慈",
+      "sentence": "weigh the good against the bad",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "g-other-goods",
       "word": "goods",
       "display": "Goods",
-      "phonetic": "",
-      "translation": "\u5546\u54c1",
-      "sentence": "",
+      "phonetic": "/gʊdz/",
+      "translation": "商品",
+      "sentence": "among the highest goods of all are happiness and self-realization",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "g-other-gorgeous",
       "word": "gorgeous",
       "display": "Gorgeous",
-      "phonetic": "",
-      "translation": "\u534e\u4e3d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈgɔrʤəs/",
+      "translation": "华丽的",
+      "sentence": "a gorgeous Victorian gown",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "g-other-govern",
       "word": "govern",
       "display": "Govern",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb\uff1b\u7ba1\u7406",
-      "sentence": "",
+      "phonetic": "/ˈgəvərn/",
+      "translation": "统治；管理",
+      "sentence": "His belief in God governs his conduct",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "g-other-government",
       "word": "government",
       "display": "Government",
-      "phonetic": "",
-      "translation": "\u653f\u5e9c\uff1b\u653f\u4f53",
-      "sentence": "",
+      "phonetic": "/ˈgəvərnmənt/",
+      "translation": "政府；政体",
+      "sentence": "the government reduced taxes",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "g-other-governor",
       "word": "governor",
       "display": "Governor",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb\u8005\uff1b\u7ba1\u7406\u8005",
-      "sentence": "",
+      "phonetic": "/ˈgəvərnər/",
+      "translation": "统治者；管理者",
+      "sentence": "A governor is the head of a state government.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "g-other-gown",
       "word": "gown",
       "display": "Gown",
-      "phonetic": "",
-      "translation": "\u957f\u888d\uff1b\u7279\u6b8a\u573a\u5408\u7a7f\u7684\u957f\u670d",
-      "sentence": "",
+      "phonetic": "/gaʊn/",
+      "translation": "长袍；特殊场合穿的长服",
+      "sentence": "the relations between town and gown are always sensitive",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "g-other-grace",
       "word": "grace",
       "display": "Grace",
-      "phonetic": "",
-      "translation": "\u4f18\u7f8e\uff1b\u6587\u96c5\uff1b\u7f13\u5211",
-      "sentence": "",
+      "phonetic": "/greɪs/",
+      "translation": "优美；文雅；缓刑",
+      "sentence": "the conception of grace developed alongside the conception of sin",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "g-other-graceful",
       "word": "graceful",
       "display": "Graceful",
-      "phonetic": "",
-      "translation": "\u4f18\u7f8e\u7684",
-      "sentence": "",
+      "phonetic": "/ˈgreɪsfəl/",
+      "translation": "优美的",
+      "sentence": "If something is graceful, it is characterized by beauty of movement, style, form, or execution.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "g-other-gracious",
       "word": "gracious",
       "display": "Gracious",
-      "phonetic": "",
-      "translation": "\u4eb2\u5207\u7684",
-      "sentence": "",
+      "phonetic": "/ˈgreɪʃəs/",
+      "translation": "亲切的",
+      "sentence": "gracious even to unexpected visitors",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "g-other-grand",
       "word": "grand",
       "display": "Grand",
-      "phonetic": "",
-      "translation": "\u91cd\u5927\u7684",
-      "sentence": "",
+      "phonetic": "/grænd/",
+      "translation": "重大的",
+      "sentence": "in the grand manner",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "g-other-grant",
       "word": "grant",
       "display": "Grant",
-      "phonetic": "",
-      "translation": "\u540c\u610f\uff1b\u6388\u4e88",
-      "sentence": "",
+      "phonetic": "/grænt/",
+      "translation": "同意；授予",
+      "sentence": "grant permission",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "g-other-great",
       "word": "great",
       "display": "Great",
-      "phonetic": "",
-      "translation": "\u4f1f\u5927\u7684\uff1b\u91cd\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/greɪt/",
+      "translation": "伟大的；重要的",
+      "sentence": "he is one of the greats of American music",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "g-other-greedy",
       "word": "greedy",
       "display": "Greedy",
-      "phonetic": "",
-      "translation": "\u8d2a\u5a6a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈgridi/",
+      "translation": "贪婪的",
+      "sentence": "greedy for money and power",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "g-other-greet",
       "word": "greet",
       "display": "Greet",
-      "phonetic": "",
-      "translation": "\u81f4\u656c\uff1b\u656c\u610f",
-      "sentence": "",
+      "phonetic": "/griːt/",
+      "translation": "致敬；敬意",
+      "sentence": "The President was greeted with catcalls",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "g-other-greeting",
       "word": "greeting",
       "display": "Greeting",
-      "phonetic": "",
-      "translation": "\u95ee\u5019",
-      "sentence": "",
+      "phonetic": "/ˈgritɪŋ/",
+      "translation": "问候",
+      "sentence": "The President was greeted with catcalls",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "g-other-grim",
       "word": "grim",
       "display": "Grim",
-      "phonetic": "",
-      "translation": "\u4e25\u9177\u7684\uff1b\u4ee4\u4eba\u5bb3\u6015\u7684",
-      "sentence": "",
+      "phonetic": "/grɪm/",
+      "translation": "严酷的；令人害怕的",
+      "sentence": "grim determination",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "g-other-grin",
       "word": "grin",
       "display": "Grin",
-      "phonetic": "",
-      "translation": "\u9732\u9f7f\u800c\u7b11",
-      "sentence": "",
+      "phonetic": "/grɪn/",
+      "translation": "露齿而笑",
+      "sentence": "A grin is a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "g-other-grind",
       "word": "grind",
       "display": "Grind",
-      "phonetic": "",
-      "translation": "\u78e8\u788e\uff1b\u78be\u788e",
-      "sentence": "",
+      "phonetic": "/graɪnd/",
+      "translation": "磨碎；碾碎",
+      "sentence": "a coarse grind of coffee",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "g-other-grocer",
       "word": "grocer",
       "display": "Grocer",
-      "phonetic": "",
-      "translation": "\u98df\u54c1\u5546",
-      "sentence": "",
+      "phonetic": "/ˈgroʊsər/",
+      "translation": "食品商",
+      "sentence": "A grocer is a retail merchant who sells foodstuffs (and some household supplies).",
       "tags": [
         "root-family"
       ],
@@ -347,5 +347,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

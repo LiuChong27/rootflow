@@ -1,0 +1,30 @@
+[
+  {
+    "IndexName": "assetKey_unique",
+    "MgoKeySchema": {
+      "MgoIndexKeys": [
+        {
+          "Name": "assetKey",
+          "Direction": "1",
+          "Type": "varchar"
+        }
+      ],
+      "MgoIsUnique": true,
+      "MgoIsSparse": false
+    }
+  },
+  {
+    "IndexName": "letter_asc",
+    "MgoKeySchema": {
+      "MgoIndexKeys": [
+        {
+          "Name": "letter",
+          "Direction": "1",
+          "Type": "varchar"
+        }
+      ],
+      "MgoIsUnique": false,
+      "MgoIsSparse": false
+    }
+  }
+]

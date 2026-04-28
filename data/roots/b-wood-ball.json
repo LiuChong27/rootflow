@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-wood-ball",
-  "root": "ball\u7403\uff1b\u821e\u4f1a",
+  "root": "ball球；舞会",
   "meaning": "ball",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "球；舞会",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-wood-ball-badminton",
       "word": "badminton",
       "display": "Badminton",
-      "phonetic": "",
-      "translation": "\u7fbd\u6bdb\u7403",
-      "sentence": "",
+      "phonetic": "/ˈbædˌmɪntən/",
+      "translation": "羽毛球",
+      "sentence": "A badminton is a game played on a court with light long-handled rackets used to volley a shuttlecock over a net.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-wood-ball-ballet",
       "word": "ballet",
       "display": "Ballet",
-      "phonetic": "",
-      "translation": "\u82ad\u857e\u821e",
-      "sentence": "",
+      "phonetic": "/bæˈleɪ/",
+      "translation": "芭蕾舞",
+      "sentence": "A ballet is a theatrical representation of a story that is performed to music by trained dancers.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-wood-ball-ballot",
       "word": "ballot",
       "display": "Ballot",
-      "phonetic": "",
-      "translation": "\u6295\u7968",
-      "sentence": "",
+      "phonetic": "/ˈbælət/",
+      "translation": "投票",
+      "sentence": "The voters were balloting in this state",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-wood-ball-beverage",
       "word": "beverage",
       "display": "Beverage",
-      "phonetic": "",
-      "translation": "\u996e\u6599",
-      "sentence": "",
+      "phonetic": "/ˈbɛvərɪʤ/",
+      "translation": "饮料",
+      "sentence": "may I take your beverage order?",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-wood-ball-bowling",
       "word": "bowling",
       "display": "Bowling",
-      "phonetic": "",
-      "translation": "\u4fdd\u9f84\u7403",
-      "sentence": "",
+      "phonetic": "/ˈboʊlɪŋ/",
+      "translation": "保龄球",
+      "sentence": "My parents like to bowl on Friday nights",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-wood-ball-bubble",
       "word": "bubble",
       "display": "Bubble",
-      "phonetic": "",
-      "translation": "\u6c14\u6ce1\uff1b\u5192\u6ce1\uff1b\u6cb8\u817e\uff1b\u6fc0\u52a8",
-      "sentence": "",
+      "phonetic": "/ˈbəbəl/",
+      "translation": "气泡；冒泡；沸腾；激动",
+      "sentence": "a real estate bubble",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-wood-ball-bulb",
       "word": "bulb",
       "display": "Bulb",
-      "phonetic": "",
-      "translation": "\u706f\u6ce1\uff1b\u7403\u72b6\u7269",
-      "sentence": "",
+      "phonetic": "/bəlb/",
+      "translation": "灯泡；球状物",
+      "sentence": "the bulb of a syringe",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-wood-ball-imbibe",
       "word": "imbibe",
       "display": "Imbibe",
-      "phonetic": "",
-      "translation": "\u5438\u6536",
-      "sentence": "",
+      "phonetic": "/ɪmˈbaɪb/",
+      "translation": "吸收",
+      "sentence": "Imbibe ethical principles",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-wood>b-wood-ball",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -3,16 +3,16 @@
   "rootId": "alt",
   "root": "alt=alti=alto=high",
   "meaning": "high",
-  "descriptionCn": "\u9ad8",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "高",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "altar",
       "word": "altar",
       "display": "Altar",
-      "phonetic": "",
-      "translation": "\u796d\u575b",
-      "sentence": "",
+      "phonetic": "/ˈɔltər/",
+      "translation": "祭坛",
+      "sentence": "An altar is the table in Christian churches where communion is given.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "altimeter",
       "word": "altimeter",
       "display": "Altimeter",
-      "phonetic": "",
-      "translation": "\u9ad8\u5ea6\u8ba1",
-      "sentence": "",
+      "phonetic": "/ælˈtɪmətər/",
+      "translation": "高度计",
+      "sentence": "An altimeter is an instrument that measures the height above ground; used in navigation.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "alto",
       "word": "alto",
       "display": "Alto",
-      "phonetic": "",
-      "translation": "\u5973\u4f4e\u97f3\uff1b\u6b21\u9ad8\u97f3",
-      "sentence": "",
+      "phonetic": "/ˈæltoʊ/",
+      "translation": "女低音；次高音",
+      "sentence": "alto clarinet or recorder",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "exaltation",
       "word": "exaltation",
       "display": "Exaltation",
-      "phonetic": "",
-      "translation": "\u63d0\u5347\uff1b\u5174\u594b",
-      "sentence": "",
+      "phonetic": "/ɪgzˈæltʌʃʌn/",
+      "translation": "提升；兴奋",
+      "sentence": "listening to sweet music in a perfect rapture",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-other>alt",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "agenda",
   "root": "agenda",
-  "meaning": "",
-  "descriptionCn": "\u8bae\u4e8b\u65e5\u7a0b",
-  "updatedAt": "2026-04-15",
+  "meaning": "agenda family",
+  "descriptionCn": "议事日程",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "agenda",
       "word": "agenda",
       "display": "Agenda",
-      "phonetic": "",
-      "translation": "\u8bae\u4e8b\u65e5\u7a0b",
-      "sentence": "",
+      "phonetic": "/əˈʤɛndə/",
+      "translation": "议事日程",
+      "sentence": "An agenda is a temporally organized plan for matters to be attended to.",
       "tags": [
         "root-family",
         "affairs"
@@ -24,5 +24,6 @@
   "rootLevel": 4,
   "rootPath": "a>act>agent>agenda",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

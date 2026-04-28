@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "amenable",
   "root": "amenable",
-  "meaning": "",
-  "descriptionCn": "\u5e94\u670d\u4ece\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "amenable family",
+  "descriptionCn": "应服从的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "amenable-amenable-2",
       "word": "amenable",
       "display": "Amenable",
-      "phonetic": "",
-      "translation": "\u5e94\u670d\u4ece\u7684",
-      "sentence": "",
+      "phonetic": "/əˈmɛnəbəl/",
+      "translation": "应服从的",
+      "sentence": "someone amenable to persuasion",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>amenable",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "v-vis",
   "root": "vis=vid=view",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "vis=vid=view",
+  "descriptionCn": "vis=vid=view",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "v-vis-view",
       "word": "view",
       "display": "View",
-      "phonetic": "",
-      "translation": "\u89c2\u5bdf;\u8ba4\u4e3a",
-      "sentence": "",
+      "phonetic": "/vjuː/",
+      "translation": "观察;认为",
+      "sentence": "consider what follows from the positivist view",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "v-vis-viewpoint",
       "word": "viewpoint",
       "display": "Viewpoint",
-      "phonetic": "",
-      "translation": "\u89c2\u70b9",
-      "sentence": "",
+      "phonetic": "/vˈjuˌpɔɪnt/",
+      "translation": "观点",
+      "sentence": "we should consider this problem from the viewpoint of the Russians",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "v-vis-visible",
       "word": "visible",
       "display": "Visible",
-      "phonetic": "",
-      "translation": "\u660e\u663e\u7684;\u663e\u8457\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvɪzəbəl/",
+      "translation": "明显的;显著的",
+      "sentence": "a visible object",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "v-vis-vision",
       "word": "vision",
       "display": "Vision",
-      "phonetic": "",
-      "translation": "\u89c6\u529b;\u60f3\u8c61\u529b",
-      "sentence": "",
+      "phonetic": "/ˈvɪʒən/",
+      "translation": "视力;想象力",
+      "sentence": "he had a vision of his own death",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "v-vis-visual",
       "word": "visual",
       "display": "Visual",
-      "phonetic": "",
-      "translation": "\u89c6\u89c9\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvɪʒəwəl/",
+      "translation": "视觉的",
+      "sentence": "visual powers",
       "tags": [
         "root-family"
       ],
@@ -68,8 +68,9 @@
     }
   ],
   "parentRootId": "v",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "v>v-vis",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

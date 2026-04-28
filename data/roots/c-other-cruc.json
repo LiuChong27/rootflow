@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-cruc",
-  "root": "c-other-cruc",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "cruc",
+  "meaning": "cruc family",
+  "descriptionCn": "cruc 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-cruc-country",
       "word": "country",
       "display": "Country",
-      "phonetic": "",
-      "translation": "\u4e61\u4e0b",
-      "sentence": "",
+      "phonetic": "/ˈkəntri/",
+      "translation": "乡下",
+      "sentence": "the country's largest manufacturer",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-other-cruc-countryside",
       "word": "countryside",
       "display": "Countryside",
-      "phonetic": "",
-      "translation": "\u4e61\u4e0b",
-      "sentence": "",
+      "phonetic": "/ˈkəntriˌsaɪd/",
+      "translation": "乡下",
+      "sentence": "A countryside is rural regions.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-other-cruc-county",
       "word": "county",
       "display": "County",
-      "phonetic": "",
-      "translation": "\u53bf",
-      "sentence": "",
+      "phonetic": "/ˈkaʊnti/",
+      "translation": "县",
+      "sentence": "the county has a population of 12,345 people",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-other-cruc-crisis",
       "word": "crisis",
       "display": "Crisis",
-      "phonetic": "",
-      "translation": "\u7d27\u8981\u5173\u5934",
-      "sentence": "",
+      "phonetic": "/ˈkraɪsəs/",
+      "translation": "紧要关头",
+      "sentence": "they went bankrupt during the economic crisis",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-other-cruc-cross",
       "word": "cross",
       "display": "Cross",
-      "phonetic": "",
-      "translation": "\u5341\u5b57\u67b6\uff1b\u4ea4\u53c9\u7684",
-      "sentence": "",
+      "phonetic": "/krɔs/",
+      "translation": "十字架；交叉的",
+      "sentence": "that is his cross to bear",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-other-cruc-crucial",
       "word": "crucial",
       "display": "Crucial",
-      "phonetic": "",
-      "translation": "\u91cd\u8981\u7684\uff08\u4ea4\u53c9\u8def\u53e3\u5f88\u91cd\u8981\uff09",
-      "sentence": "",
+      "phonetic": "/ˈkruʃəl/",
+      "translation": "重要的（交叉路口很重要）",
+      "sentence": "a crucial moment in his career",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-other-cruc-crucifix",
       "word": "crucifix",
       "display": "Crucifix",
-      "phonetic": "",
-      "translation": "\u5341\u5b57\u67b6",
-      "sentence": "",
+      "phonetic": "/ˈkrusəˌfɪks/",
+      "translation": "十字架",
+      "sentence": "A crucifix is representation of the cross on which Jesus died.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-other-cruc-crucifixion",
       "word": "crucifixion",
       "display": "Crucifixion",
-      "phonetic": "",
-      "translation": "\u5211\u7f5a",
-      "sentence": "",
+      "phonetic": "/ˌkrusɪˈfɪkʃən/",
+      "translation": "刑罚",
+      "sentence": "A crucifixion is the act of executing by a method widespread in the ancient world; the victim's hands and feet are bound or nailed to a cross.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-other-cruc-cruciform",
       "word": "cruciform",
       "display": "Cruciform",
-      "phonetic": "",
-      "translation": "\u5341\u5b57\u67b6\u72b6\u7684",
-      "sentence": "",
+      "phonetic": "/krˈusɪfˌɔmɚ/",
+      "translation": "十字架状的",
+      "sentence": "If something is cruciform, it is shaped like a cross.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-other-cruc-crucify",
       "word": "crucify",
       "display": "Crucify",
-      "phonetic": "",
-      "translation": "\u6298\u78e8",
-      "sentence": "",
+      "phonetic": "/ˈkrusəˌfaɪ/",
+      "translation": "折磨",
+      "sentence": "Jesus Christ was crucified",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-other-cruc-crude",
       "word": "crude",
       "display": "Crude",
-      "phonetic": "",
-      "translation": "\u5929\u7136\u7684\uff1b\u7c97\u9c81\u7684",
-      "sentence": "",
+      "phonetic": "/kruːd/",
+      "translation": "天然的；粗鲁的",
+      "sentence": "managed to make a crude splint",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-other-cruc-cruel",
       "word": "cruel",
       "display": "Cruel",
-      "phonetic": "",
-      "translation": "\u6b8b\u5fcd\u7684",
-      "sentence": "",
+      "phonetic": "/kruəl/",
+      "translation": "残忍的",
+      "sentence": "cruel tortures",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-other-cruc-cruise",
       "word": "cruise",
       "display": "Cruise",
-      "phonetic": "",
-      "translation": "\u5de1\u822a",
-      "sentence": "",
+      "phonetic": "/kruːz/",
+      "translation": "巡航",
+      "sentence": "She cruised the neighborhood in her new convertible",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-other-cruc-cruisetile",
       "word": "cruisetile",
       "display": "Cruisetile",
-      "phonetic": "",
-      "translation": "\u5c0f\u5de1\u822a\u8230",
-      "sentence": "",
+      "phonetic": "/krˈusɪtʌl/",
+      "translation": "小巡航舰",
+      "sentence": "Cruisetile is used here with the sense of \"小巡航舰\".",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-other-cruc-crusade",
       "word": "crusade",
       "display": "Crusade",
-      "phonetic": "",
-      "translation": "\u52a0\u5165\u5341\u5b57\u519b",
-      "sentence": "",
+      "phonetic": "/kruˈseɪd/",
+      "translation": "加入十字军",
+      "sentence": "he supported populist campaigns",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-other-cruc-crusader",
       "word": "crusader",
       "display": "Crusader",
-      "phonetic": "",
-      "translation": "\u5341\u5b57\u519b\u6218\u58eb",
-      "sentence": "",
+      "phonetic": "/kruˈseɪdər/",
+      "translation": "十字军战士",
+      "sentence": "the Crusaders tried to recapture the Holy Land from the Muslims",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-other-cruc-crush",
       "word": "crush",
       "display": "Crush",
-      "phonetic": "",
-      "translation": "\u538b\u788e",
-      "sentence": "",
+      "phonetic": "/krəʃ/",
+      "translation": "压碎",
+      "sentence": "crush an aluminum can",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-other-cruc-curb",
       "word": "curb",
       "display": "Curb",
-      "phonetic": "",
-      "translation": "\u8def\u8fb9\uff1b\u6291\u5236",
-      "sentence": "",
+      "phonetic": "/kərb/",
+      "translation": "路边；抑制",
+      "sentence": "curb your dogs",
       "tags": [
         "root-family"
       ],
@@ -226,13 +226,18 @@
       "id": "c-other-cruc-excruciate",
       "word": "excruciate",
       "display": "Excruciate",
-      "phonetic": "",
-      "translation": "\u6298\u78e8",
-      "sentence": "",
+      "phonetic": "/ɪkskrˈusiˌeɪt/",
+      "translation": "折磨",
+      "sentence": "The sinners will be tormented in Hell, according to the Bible",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-cruc",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

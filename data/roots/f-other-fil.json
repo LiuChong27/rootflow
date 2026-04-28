@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-other-fil",
-  "root": "fil=thread\u7ebf",
+  "root": "fil=thread线",
   "meaning": "fil",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "线",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-other-fil-bifilar",
       "word": "bifilar",
       "display": "Bifilar",
-      "phonetic": "",
-      "translation": "\u53cc\u7ebf\u7684",
-      "sentence": "",
+      "phonetic": "/bˈɪfʌlɚ/",
+      "translation": "双线的",
+      "sentence": "a bifilar suspension of a waving part of an instrument",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-other-fil-defile",
       "word": "defile",
       "display": "Defile",
-      "phonetic": "",
-      "translation": "\u5f04\u810f\uff1b\u6c61\u6e0d\uff1b\u4eb5\u6e0e",
-      "sentence": "",
+      "phonetic": "/dˈɛfaɪl/",
+      "translation": "弄脏；污渍；亵渎",
+      "sentence": "The townspeople defiled the river by emptying raw sewage into it",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-other-fil-filament",
       "word": "filament",
       "display": "Filament",
-      "phonetic": "",
-      "translation": "\u706f\u4e1d\uff1b\u7ec6\u4e1d",
-      "sentence": "",
+      "phonetic": "/ˈfɪləmənt/",
+      "translation": "灯丝；细丝",
+      "sentence": "A filament is a very slender natural or synthetic fiber.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-other-fil-filar",
       "word": "filar",
       "display": "Filar",
-      "phonetic": "",
-      "translation": "\u4e1d\u72b6\u7684",
-      "sentence": "",
+      "phonetic": "/fˈaɪlɚ/",
+      "translation": "丝状的",
+      "sentence": "a filar eyepiece",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-other-fil-filiform",
       "word": "filiform",
       "display": "Filiform",
-      "phonetic": "",
-      "translation": "\u4e1d\u72b6\u7684\uff1b\u7ea4\u7ef4\u72b6\u7684",
-      "sentence": "",
+      "phonetic": "/fˈɪlɪfˌɔrm/",
+      "translation": "丝状的；纤维状的",
+      "sentence": "If something is filiform, it is thin in diameter; resembling a thread.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-other-fil-profile",
       "word": "profile",
       "display": "Profile",
-      "phonetic": "",
-      "translation": "\u4fa7\u9762\uff1b\u5916\u5f62",
-      "sentence": "",
+      "phonetic": "/ˈproʊˌfaɪl/",
+      "translation": "侧面；外形",
+      "sentence": "a biochemical profile of blood",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-other>f-other-fil",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

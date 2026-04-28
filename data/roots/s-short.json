@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-short",
-  "root": "short\u77ed\u7684",
+  "root": "short短的",
   "meaning": "short",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "短的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-short-shortage",
       "word": "shortage",
       "display": "Shortage",
-      "phonetic": "",
-      "translation": "\u4e0d\u8db3\uff1b\u7f3a\u5c11",
-      "sentence": "",
+      "phonetic": "/ˈʃɔrtɪʤ/",
+      "translation": "不足；缺少",
+      "sentence": "new blood vessels bud out from the already dilated vascular bed to make up the nutritional deficit",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-short-shortcoming",
       "word": "shortcoming",
       "display": "Shortcoming",
-      "phonetic": "",
-      "translation": "\u7f3a\u70b9",
-      "sentence": "",
+      "phonetic": "/ˈʃɔrtˌkəmɪŋ/",
+      "translation": "缺点",
+      "sentence": "that interpretation is an unfortunate defect of our lack of information",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-short-shorthand",
       "word": "shorthand",
       "display": "Shorthand",
-      "phonetic": "",
-      "translation": "\u901f\u8bb0",
-      "sentence": "",
+      "phonetic": "/ˈʃɔrˌthænd/",
+      "translation": "速记",
+      "sentence": "shorthand notes",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-short-shortly",
       "word": "shortly",
       "display": "Shortly",
-      "phonetic": "",
-      "translation": "\u7acb\u523b\uff1b\u4e0d\u4e45",
-      "sentence": "",
+      "phonetic": "/ˈʃɔrtli/",
+      "translation": "立刻；不久",
+      "sentence": "he was at the airport shortly before she was expected to arrive",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-short-shut",
       "word": "shut",
       "display": "Shut",
-      "phonetic": "",
-      "translation": "\u5173\u95ed",
-      "sentence": "",
+      "phonetic": "/ʃət/",
+      "translation": "关闭",
+      "sentence": "shut the window",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-short-shutter",
       "word": "shutter",
       "display": "Shutter",
-      "phonetic": "",
-      "translation": "\u767e\u53f6\u7a97",
-      "sentence": "",
+      "phonetic": "/ˈʃətər/",
+      "translation": "百叶窗",
+      "sentence": "We shuttered the window to keep the house cool",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-short-shuttle",
       "word": "shuttle",
       "display": "Shuttle",
-      "phonetic": "",
-      "translation": "\u7a7f\u68ad",
-      "sentence": "",
+      "phonetic": "/ˈʃətəl/",
+      "translation": "穿梭",
+      "sentence": "A shuttle is badminton equipment consisting of a ball of cork or rubber with a crown of feathers.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-short-sock",
       "word": "sock",
       "display": "Sock",
-      "phonetic": "",
-      "translation": "\u77ed\u889c",
-      "sentence": "",
+      "phonetic": "/sɑk/",
+      "translation": "短袜",
+      "sentence": "A sock is hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee.",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-short",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

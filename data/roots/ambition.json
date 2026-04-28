@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ambition",
   "root": "ambition",
-  "meaning": "",
-  "descriptionCn": "\u96c4\u5fc3",
-  "updatedAt": "2026-04-15",
+  "meaning": "ambition family",
+  "descriptionCn": "雄心",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambition-ambition-2",
       "word": "ambition",
       "display": "Ambition",
-      "phonetic": "",
-      "translation": "\u96c4\u5fc3",
-      "sentence": "",
+      "phonetic": "/æmˈbɪʃən/",
+      "translation": "雄心",
+      "sentence": "his ambition is to own his own business",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>ambul>ambition",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

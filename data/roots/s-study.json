@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-study",
-  "root": "\u5b66\u4e60",
+  "root": "学习",
   "meaning": "study",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "学习",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-study-scholar",
       "word": "scholar",
       "display": "Scholar",
-      "phonetic": "",
-      "translation": "\u5b66\u8005",
-      "sentence": "",
+      "phonetic": "/ˈskɑlər/",
+      "translation": "学者",
+      "sentence": "A scholar is a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-study-scholarship",
       "word": "scholarship",
       "display": "Scholarship",
-      "phonetic": "",
-      "translation": "\u5b66\u95ee",
-      "sentence": "",
+      "phonetic": "/ˈskɑlərˌʃɪp/",
+      "translation": "学问",
+      "sentence": "A scholarship is financial aid provided to a student on the basis of academic merit.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-study-school",
       "word": "school",
       "display": "School",
-      "phonetic": "",
-      "translation": "\u5b66\u6821",
-      "sentence": "",
+      "phonetic": "/skuːl/",
+      "translation": "学校",
+      "sentence": "the school was founded in 1900",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-study-science",
       "word": "science",
       "display": "Science",
-      "phonetic": "",
-      "translation": "\u5b66\u79d1",
-      "sentence": "",
+      "phonetic": "/saɪəns/",
+      "translation": "学科",
+      "sentence": "the science of genetics",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-study-scientific",
       "word": "scientific",
       "display": "Scientific",
-      "phonetic": "",
-      "translation": "\u79d1\u5b66\u4e0a\u7684",
-      "sentence": "",
+      "phonetic": "/ˌsaɪənˈtɪfɪk/",
+      "translation": "科学上的",
+      "sentence": "scientific journals",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-study-scientist",
       "word": "scientist",
       "display": "Scientist",
-      "phonetic": "",
-      "translation": "\u79d1\u5b66\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˈsaɪəntɪst/",
+      "translation": "科学家",
+      "sentence": "A scientist is a person with advanced knowledge of one or more sciences.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-study-script",
       "word": "script",
       "display": "Script",
-      "phonetic": "",
-      "translation": "\u624b\u7a3f",
-      "sentence": "",
+      "phonetic": "/skrɪpt/",
+      "translation": "手稿",
+      "sentence": "The playwright scripted the movie",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-study-semester",
       "word": "semester",
       "display": "Semester",
-      "phonetic": "",
-      "translation": "\u5b66\u671f",
-      "sentence": "",
+      "phonetic": "/səˈmɛstər/",
+      "translation": "学期",
+      "sentence": "A semester is one of two divisions of an academic year.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-study-seminar",
       "word": "seminar",
       "display": "Seminar",
-      "phonetic": "",
-      "translation": "\u7814\u8ba8\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈsɛməˌnɑr/",
+      "translation": "研讨会",
+      "sentence": "A seminar is any meeting for an exchange of ideas.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-study-senate",
       "word": "senate",
       "display": "Senate",
-      "phonetic": "",
-      "translation": "\u53c2\u8bae\u9662",
-      "sentence": "",
+      "phonetic": "/ˈsɛnɪt/",
+      "translation": "参议院",
+      "sentence": "A senate is assembly possessing high legislative powers.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-study-senator",
       "word": "senator",
       "display": "Senator",
-      "phonetic": "",
-      "translation": "\u53c2\u8bae\u5458",
-      "sentence": "",
+      "phonetic": "/ˈsɛnətər/",
+      "translation": "参议员",
+      "sentence": "A senator is a member of a senate.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-study-senior",
       "word": "senior",
       "display": "Senior",
-      "phonetic": "",
-      "translation": "\u5e74\u957f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsinjər/",
+      "translation": "年长的",
+      "sentence": "senior officer",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-study-subject",
       "word": "subject",
       "display": "Subject",
-      "phonetic": "",
-      "translation": "\u4e3b\u9898\uff1b\u5b66\u79d1",
-      "sentence": "",
+      "phonetic": "/ˈsəbʤɪkt/",
+      "translation": "主题；学科",
+      "sentence": "he didn't want to discuss that subject",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-study-subjective",
       "word": "subjective",
       "display": "Subjective",
-      "phonetic": "",
-      "translation": "\u4e3b\u89c2\u7684",
-      "sentence": "",
+      "phonetic": "/səˈbʤɛktɪv/",
+      "translation": "主观的",
+      "sentence": "a subjective judgment",
       "tags": [
         "root-family"
       ],
@@ -179,5 +179,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-study",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

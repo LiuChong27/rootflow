@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-daily",
-  "root": "daily\u6bcf\u65e5\u7684",
+  "root": "daily每日的",
   "meaning": "daily",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "每日的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-daily-dairy",
       "word": "dairy",
       "display": "Dairy",
-      "phonetic": "",
-      "translation": "\u725b\u5976\u5e97",
-      "sentence": "",
+      "phonetic": "/ˈdɛri/",
+      "translation": "牛奶店",
+      "sentence": "A dairy is a farm where dairy products are produced.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-daily-dawn",
       "word": "dawn",
       "display": "Dawn",
-      "phonetic": "",
-      "translation": "\u9ece\u660e",
-      "sentence": "",
+      "phonetic": "/dɔn/",
+      "translation": "黎明",
+      "sentence": "we got up before dawn",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-daily-day",
       "word": "day",
       "display": "Day",
-      "phonetic": "",
-      "translation": "\u5929",
-      "sentence": "",
+      "phonetic": "/deɪ/",
+      "translation": "天",
+      "sentence": "two days later they left",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-other-daily-daylight",
       "word": "daylight",
       "display": "Daylight",
-      "phonetic": "",
-      "translation": "\u65e5\u5149",
-      "sentence": "",
+      "phonetic": "/ˈdeɪˌlaɪt/",
+      "translation": "日光",
+      "sentence": "the dawn turned night into day",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-other-daily-daytime",
       "word": "daytime",
       "display": "Daytime",
-      "phonetic": "",
-      "translation": "\u767d\u5929",
-      "sentence": "",
+      "phonetic": "/ˈdeɪˌtaɪm/",
+      "translation": "白天",
+      "sentence": "it is easier to make the repairs in the daytime",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-other-daily-dazzle",
       "word": "dazzle",
       "display": "Dazzle",
-      "phonetic": "",
-      "translation": "\u8000\u773c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdæzəl/",
+      "translation": "耀眼的",
+      "sentence": "She was dazzled by the bright headlights",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-other-daily-dead",
       "word": "dead",
       "display": "Dead",
-      "phonetic": "",
-      "translation": "\u5b8c\u5168\u5730\uff1b\u6b7b\u7684",
-      "sentence": "",
+      "phonetic": "/dɛd/",
+      "translation": "完全地；死的",
+      "sentence": "they buried the dead",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-other-daily-deadline",
       "word": "deadline",
       "display": "Deadline",
-      "phonetic": "",
-      "translation": "\u6700\u540e\u671f\u9650",
-      "sentence": "",
+      "phonetic": "/ˈdɛˌdlaɪn/",
+      "translation": "最后期限",
+      "sentence": "A deadline is the point in time at which something must be completed.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-other-daily-deadly",
       "word": "deadly",
       "display": "Deadly",
-      "phonetic": "",
-      "translation": "\u77e5\u540d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɛdli/",
+      "translation": "知名的",
+      "sentence": "a deadly enemy",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-other-daily-deaf",
       "word": "deaf",
       "display": "Deaf",
-      "phonetic": "",
-      "translation": "\u804b\u7684",
-      "sentence": "",
+      "phonetic": "/dɛf/",
+      "translation": "聋的",
+      "sentence": "many of the deaf use sign language",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-other-daily-die",
       "word": "die",
       "display": "Die",
-      "phonetic": "",
-      "translation": "\u6b7b",
-      "sentence": "",
+      "phonetic": "/daɪ/",
+      "translation": "死",
+      "sentence": "She died from cancer",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-other-daily-diet",
       "word": "diet",
       "display": "Diet",
-      "phonetic": "",
-      "translation": "\u98df\u7269",
-      "sentence": "",
+      "phonetic": "/daɪət/",
+      "translation": "食物",
+      "sentence": "He has high blood pressure and must stick to a low-salt diet",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-other>d-other-daily",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

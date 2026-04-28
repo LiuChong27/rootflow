@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-claim",
-  "root": "c-other-claim",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "claim",
+  "meaning": "claim family",
+  "descriptionCn": "claim 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-claim-acclaim",
       "word": "acclaim",
       "display": "Acclaim",
-      "phonetic": "",
-      "translation": "\u79f0\u8d5e",
-      "sentence": "",
+      "phonetic": "/əˈkleɪm/",
+      "translation": "称赞",
+      "sentence": "the book met with modest acclaim",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-other-claim-acclamation",
       "word": "acclamation",
       "display": "Acclamation",
-      "phonetic": "",
-      "translation": "\u58f0\u660e",
-      "sentence": "",
+      "phonetic": "/ˌækləˈmeɪʃən/",
+      "translation": "声明",
+      "sentence": "the book met with modest acclaim",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-other-claim-claim",
       "word": "claim",
       "display": "Claim",
-      "phonetic": "",
-      "translation": "\u5ba3\u79f0\uff1b\u8981\u6c42",
-      "sentence": "",
+      "phonetic": "/kleɪm/",
+      "translation": "宣称；要求",
+      "sentence": "his claim asked for damages",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-other-claim-clamor",
       "word": "clamor",
       "display": "Clamor",
-      "phonetic": "",
-      "translation": "\u55a7\u95f9\uff1b\u53eb\u56a3",
-      "sentence": "",
+      "phonetic": "/ˈklæmər/",
+      "translation": "喧闹；叫嚣",
+      "sentence": "he ignored the clamor of the crowd",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-other-claim-clamorous",
       "word": "clamorous",
       "display": "Clamorous",
-      "phonetic": "",
-      "translation": "\u5435\u95f9\u7684",
-      "sentence": "",
+      "phonetic": "/klˈæmɚʌs/",
+      "translation": "吵闹的",
+      "sentence": "a clamorous uproar",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-other-claim-declaim",
       "word": "declaim",
       "display": "Declaim",
-      "phonetic": "",
-      "translation": "\u6f14\u8bb2",
-      "sentence": "",
+      "phonetic": "/dɪˈkleɪm/",
+      "translation": "演讲",
+      "sentence": "he declaimed against the wasteful ways of modern society",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-other-claim-disclaim",
       "word": "disclaim",
       "display": "Disclaim",
-      "phonetic": "",
-      "translation": "\u5426\u8ba4\uff1b\u653e\u5f03",
-      "sentence": "",
+      "phonetic": "/dɪˈskleɪm/",
+      "translation": "否认；放弃",
+      "sentence": "He disclaimed any responsibility",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-other-claim-exclaim",
       "word": "exclaim",
       "display": "Exclaim",
-      "phonetic": "",
-      "translation": "\u547c\u558a\uff1b\u60ca\u53eb",
-      "sentence": "",
+      "phonetic": "/ɪkˈskleɪm/",
+      "translation": "呼喊；惊叫",
+      "sentence": "`I won!' he exclaimed",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-other-claim-proclaim",
       "word": "proclaim",
       "display": "Proclaim",
-      "phonetic": "",
-      "translation": "\u5ba3\u5e03",
-      "sentence": "",
+      "phonetic": "/proʊˈkleɪm/",
+      "translation": "宣布",
+      "sentence": "He was proclaimed King",
       "tags": [
         "root-family"
       ],
@@ -118,13 +118,18 @@
       "id": "c-other-claim-reclaim",
       "word": "reclaim",
       "display": "Reclaim",
-      "phonetic": "",
-      "translation": "\u53d6\u56de\uff1b\u5f00\u62d3\uff1b\u7ea0\u6b63",
-      "sentence": "",
+      "phonetic": "/riˈkleɪm/",
+      "translation": "取回；开拓；纠正",
+      "sentence": "The people reclaimed the marshes",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-claim",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

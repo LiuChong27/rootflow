@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "u-under",
   "root": "under",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "under",
+  "descriptionCn": "under",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "u-under-underestimate",
       "word": "underestimate",
       "display": "Underestimate",
-      "phonetic": "",
-      "translation": "\u4f4e\u4f30",
-      "sentence": "",
+      "phonetic": "/ˈəndərˈɛstəˌmeɪt/",
+      "translation": "低估",
+      "sentence": "Don't underestimate the value of this heirloom-you may sell it at a good price",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "u-under-undergo",
       "word": "undergo",
       "display": "Undergo",
-      "phonetic": "",
-      "translation": "\u906d\u53d7",
-      "sentence": "",
+      "phonetic": "/ˌəndərˈgoʊ/",
+      "translation": "遭受",
+      "sentence": "The chemical undergoes a sudden change",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "u-under-undergraduate",
       "word": "undergraduate",
       "display": "Undergraduate",
-      "phonetic": "",
-      "translation": "\u5927\u5b66\u751f",
-      "sentence": "",
+      "phonetic": "/ˌəndərˈgræʤəwət/",
+      "translation": "大学生",
+      "sentence": "An undergraduate is a university student who has not yet received a first degree.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "u-under-underground",
       "word": "underground",
       "display": "Underground",
-      "phonetic": "",
-      "translation": "\u5730\u4e0b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈəndərˌgraʊnd/",
+      "translation": "地下的",
+      "sentence": "in Paris the subway system is called the `metro' and in London it is called the `tube' or the `underground'",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "u-under-underlie",
       "word": "underlie",
       "display": "Underlie",
-      "phonetic": "",
-      "translation": "\u6210\u4e3a... \u7684\u57fa\u7840",
-      "sentence": "",
+      "phonetic": "/ˌəndərˈlaɪ/",
+      "translation": "成为... 的基础",
+      "sentence": "To underlie is to be or form the base for.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "u-under-underline",
       "word": "underline",
       "display": "Underline",
-      "phonetic": "",
-      "translation": "\u5f3a\u8c03",
-      "sentence": "",
+      "phonetic": "/ˈəndərˌlaɪn/",
+      "translation": "强调",
+      "sentence": "Her gesture emphasized her words",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "u-under-underlying",
       "word": "underlying",
       "display": "Underlying",
-      "phonetic": "",
-      "translation": "\u542b\u84c4\u7684",
-      "sentence": "",
+      "phonetic": "/ˌəndərˈlaɪɪŋ/",
+      "translation": "含蓄的",
+      "sentence": "an underlying meaning",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "u-under-undermine",
       "word": "undermine",
       "display": "Undermine",
-      "phonetic": "",
-      "translation": "\u6697\u4e2d\u7834\u574f",
-      "sentence": "",
+      "phonetic": "/ˈəndərˌmaɪn/",
+      "translation": "暗中破坏",
+      "sentence": "The Resistance sabotaged railroad operations during the war",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "u-under-underneath",
       "word": "underneath",
       "display": "Underneath",
-      "phonetic": "",
-      "translation": "\u5728\u4e0b\u9762",
-      "sentence": "",
+      "phonetic": "/ˌəndərˈniθ/",
+      "translation": "在下面",
+      "sentence": "a chest of drawers all scratched underneath",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "u-under-undertake",
       "word": "undertake",
       "display": "Undertake",
-      "phonetic": "",
-      "translation": "\u627f\u62c5",
-      "sentence": "",
+      "phonetic": "/ˈəndərˌteɪk/",
+      "translation": "承担",
+      "sentence": "I'll tackle this difficult task",
       "tags": [
         "root-family"
       ],
@@ -128,8 +128,9 @@
     }
   ],
   "parentRootId": "u",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "u>u-under",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

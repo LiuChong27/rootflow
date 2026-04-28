@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-eco-ecology",
-  "root": "ecology\u751f\u6001\u5b66",
+  "root": "ecology生态学",
   "meaning": "ecology",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "生态学",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-eco-ecology-ecoagriculture",
       "word": "ecoagriculture",
       "display": "Ecoagriculture",
-      "phonetic": "",
-      "translation": "\u751f\u6001\u519c\u4e1a",
-      "sentence": "",
+      "phonetic": "/ɪkˌɑrʌkʌdʒˈɛktɚʌl/",
+      "translation": "生态农业",
+      "sentence": "Ecoagriculture is used here with the sense of \"生态农业\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-eco-ecology-ecology",
       "word": "ecology",
       "display": "Ecology",
-      "phonetic": "",
-      "translation": "\u751f\u6001\u5b66",
-      "sentence": "",
+      "phonetic": "/ɪˈkɑləʤi/",
+      "translation": "生态学",
+      "sentence": "it changed the ecology of the island",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-eco-ecology-ecosystem",
       "word": "ecosystem",
       "display": "Ecosystem",
-      "phonetic": "",
-      "translation": "\u751f\u6001\u7cfb\u7edf",
-      "sentence": "",
+      "phonetic": "/ˈikoʊˌsɪstəm/",
+      "translation": "生态系统",
+      "sentence": "An ecosystem is a system formed by the interaction of a community of organisms with their physical environment.",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-eco>e-eco-ecology",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

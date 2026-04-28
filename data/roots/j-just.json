@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "j-just",
-  "root": "just=juris\u6cd5\u5f8b\uff1b\u6b63\u4e49",
+  "root": "just=juris法律；正义",
   "meaning": "law; justice",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "法律；正义",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "j-just-adjust",
       "word": "adjust",
       "display": "Adjust",
-      "phonetic": "",
-      "translation": "\u8c03\u6574\uff1b\u6821\u51c6",
-      "sentence": "",
+      "phonetic": "/əˈʤəst/",
+      "translation": "调整；校准",
+      "sentence": "Adjust the clock, please",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "j-just-adjustable",
       "word": "adjustable",
       "display": "Adjustable",
-      "phonetic": "",
-      "translation": "\u53ef\u8c03\u6574\u7684",
-      "sentence": "",
+      "phonetic": "/əˈʤəstəbəl/",
+      "translation": "可调整的",
+      "sentence": "adjustable seat belts",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "j-just-adjustment",
       "word": "adjustment",
       "display": "Adjustment",
-      "phonetic": "",
-      "translation": "\u8c03\u8282",
-      "sentence": "",
+      "phonetic": "/əˈʤəstmənt/",
+      "translation": "调节",
+      "sentence": "an allowance for profit",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "j-just-adjustor",
       "word": "adjustor",
       "display": "Adjustor",
-      "phonetic": "",
-      "translation": "\u8c03\u8282\u5668\uff1b\u8c03\u505c\u8005",
-      "sentence": "",
+      "phonetic": "/ʌdʒˈʌstɚ/",
+      "translation": "调节器；调停者",
+      "sentence": "An adjustor is one who investigates insurance claims or claims for damages and recommends an effective settlement.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "j-just-injure",
       "word": "injure",
       "display": "Injure",
-      "phonetic": "",
-      "translation": "\u635f\u5bb3",
-      "sentence": "",
+      "phonetic": "/ˈɪnʤər/",
+      "translation": "损害",
+      "sentence": "She hurt me when she did not include me among her guests",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "j-just-injurious",
       "word": "injurious",
       "display": "Injurious",
-      "phonetic": "",
-      "translation": "\u8bfd\u8c24\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʤʊriəs/",
+      "translation": "诽谤的",
+      "sentence": "deleterious chemical additives",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "j-just-injury",
       "word": "injury",
       "display": "Injury",
-      "phonetic": "",
-      "translation": "\u4fae\u8fb1",
-      "sentence": "",
+      "phonetic": "/ˈɪnʤəri/",
+      "translation": "侮辱",
+      "sentence": "An injury is any physical damage to the body caused by violence or accident or fracture etc.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "j-just-injustice",
       "word": "injustice",
       "display": "Injustice",
-      "phonetic": "",
-      "translation": "\u4e0d\u516c\u5e73",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʤəstɪs/",
+      "translation": "不公平",
+      "sentence": "An injustice is an unjust act.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "j-just-juridical",
       "word": "juridical",
       "display": "Juridical",
-      "phonetic": "",
-      "translation": "\u88c1\u5224\u7684\uff1b\u53f8\u6cd5\u7684",
-      "sentence": "",
+      "phonetic": "/dʒˈʊrɪdˌɪkʌl/",
+      "translation": "裁判的；司法的",
+      "sentence": "juridical days",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "j-just-jurisprudence",
       "word": "jurisprudence",
       "display": "Jurisprudence",
-      "phonetic": "",
-      "translation": "\u6cd5\u5b66\uff1b\u6cd5\u7406\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌʤʊrəˈsprudəns/",
+      "translation": "法学；法理学",
+      "sentence": "the great problem for jurisprudence to allow freedom while enforcing order",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "j-just-jury",
       "word": "jury",
       "display": "Jury",
-      "phonetic": "",
-      "translation": "\u966a\u5ba1\u56e2",
-      "sentence": "",
+      "phonetic": "/ˈʤʊri/",
+      "translation": "陪审团",
+      "sentence": "A jury is a body of citizens sworn to give a true verdict according to the evidence presented in a court of law.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "j-just-just",
       "word": "just",
       "display": "Just",
-      "phonetic": "",
-      "translation": "\u6b63\u597d\u7684\uff1b\u53ea\u4e0d\u8fc7\uff1b\u516c\u6b63\u7684",
-      "sentence": "",
+      "phonetic": "/ʤɪst/",
+      "translation": "正好的；只不过；公正的",
+      "sentence": "a just and lasting peace",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "j-just-justice",
       "word": "justice",
       "display": "Justice",
-      "phonetic": "",
-      "translation": "\u516c\u6b63\uff1b\u5ba1\u5224",
-      "sentence": "",
+      "phonetic": "/ˈʤəstɪs/",
+      "translation": "公正；审判",
+      "sentence": "A justice is the quality of being just or fair.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "j-just-justify",
       "word": "justify",
       "display": "Justify",
-      "phonetic": "",
-      "translation": "\u8bc1\u660e\uff1b\u4e3a...\u8fa9\u62a4",
-      "sentence": "",
+      "phonetic": "/ˈʤəstəˌfaɪ/",
+      "translation": "证明；为...辩护",
+      "sentence": "justify the margins",
       "tags": [
         "root-family"
       ],
@@ -179,5 +179,6 @@
   "rootLevel": 2,
   "rootPath": "j>j-just",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

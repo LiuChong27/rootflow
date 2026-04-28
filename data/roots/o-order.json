@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-order",
-  "root": "order=ordin\u987a\u5e8f",
+  "root": "order=ordin顺序",
   "meaning": "order",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "顺序",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-order-coordinate",
       "word": "coordinate",
       "display": "Coordinate",
-      "phonetic": "",
-      "translation": "\u540c\u7b49\u7684",
-      "sentence": "",
+      "phonetic": "/koʊˈɔrdəˌneɪt/",
+      "translation": "同等的",
+      "sentence": "coordinate the painters, masons, and plumbers",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-order-disorder",
       "word": "disorder",
       "display": "Disorder",
-      "phonetic": "",
-      "translation": "\u6742\u4e71\uff1b\u6df7\u4e71",
-      "sentence": "",
+      "phonetic": "/dɪˈsɔrdər/",
+      "translation": "杂乱；混乱",
+      "sentence": "the doctor prescribed some medicine for the disorder",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-order-extraordinary",
       "word": "extraordinary",
       "display": "Extraordinary",
-      "phonetic": "",
-      "translation": "\u975e\u5e38\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɛkstrəˈɔrdəˌnɛri/",
+      "translation": "非常的",
+      "sentence": "extraordinary authority",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-order-inordinate",
       "word": "inordinate",
       "display": "Inordinate",
-      "phonetic": "",
-      "translation": "\u65e0\u9650\u5236\u7684\uff1b\u7d0a\u4e71\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɔrdənɪt/",
+      "translation": "无限制的；紊乱的",
+      "sentence": "a book of inordinate length",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-order-ordinal",
       "word": "ordinal",
       "display": "Ordinal",
-      "phonetic": "",
-      "translation": "\u5e8f\u6570",
-      "sentence": "",
+      "phonetic": "/ˈɔrdʌnʌl/",
+      "translation": "序数",
+      "sentence": "family and ordinal names of animals and plants",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "o-order-ordinance",
       "word": "ordinance",
       "display": "Ordinance",
-      "phonetic": "",
-      "translation": "\u6cd5\u4ee4",
-      "sentence": "",
+      "phonetic": "/ˈɔrdənəns/",
+      "translation": "法令",
+      "sentence": "the rabbi's family was present for his ordination",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "o-order-ordinary",
       "word": "ordinary",
       "display": "Ordinary",
-      "phonetic": "",
-      "translation": "\u5e73\u5e38\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɔrdəˌnɛri/",
+      "translation": "平常的",
+      "sentence": "not out of the ordinary",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "o-order-subordinate",
       "word": "subordinate",
       "display": "Subordinate",
-      "phonetic": "",
-      "translation": "\u6b21\u8981\u7684\uff1b\u4e0b\u5c5e",
-      "sentence": "",
+      "phonetic": "/səˈbɔrdəˌneɪt/",
+      "translation": "次要的；下属",
+      "sentence": "Art is sometimes subordinated to Science in these schools",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-order",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

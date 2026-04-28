@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "n-no",
-  "root": "no\u5426\uff1b\u65e0",
+  "root": "no否；无",
   "meaning": "no",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "否；无",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "n",
-  "rootLevel": 2,
-  "rootPath": "n>n-no",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "n-no",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

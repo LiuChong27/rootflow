@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aqueous",
   "root": "aqueous",
-  "meaning": "",
-  "descriptionCn": "\u50cf\u6c34\u4e00\u6837\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "aqueous family",
+  "descriptionCn": "像水一样的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aqueous-aqueous-2",
       "word": "aqueous",
       "display": "Aqueous",
-      "phonetic": "",
-      "translation": "\u50cf\u6c34\u4e00\u6837\u7684",
-      "sentence": "",
+      "phonetic": "/ˈeɪkwiəs/",
+      "translation": "像水一样的",
+      "sentence": "aqueous solutions",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>aqu>aqueous",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -3,16 +3,16 @@
   "rootId": "i-inside-is",
   "root": "is",
   "meaning": "is",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "is",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "i-inside-is-island",
       "word": "island",
       "display": "Island",
-      "phonetic": "",
-      "translation": "\u5c9b\u5c7f",
-      "sentence": "",
+      "phonetic": "/ˈaɪlənd/",
+      "translation": "岛屿",
+      "sentence": "An island is a land mass (smaller than a continent) that is surrounded by water.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "i-inside-is-isle",
       "word": "isle",
       "display": "Isle",
-      "phonetic": "",
-      "translation": "\u5c0f\u5c9b",
-      "sentence": "",
+      "phonetic": "/aɪl/",
+      "translation": "小岛",
+      "sentence": "An isle is a small island.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "i-inside-is-isolate",
       "word": "isolate",
       "display": "Isolate",
-      "phonetic": "",
-      "translation": "\u9694\u79bb\uff1b\u9f13\u52b1",
-      "sentence": "",
+      "phonetic": "/ˈaɪsəˌleɪt/",
+      "translation": "隔离；鼓励",
+      "sentence": "They isolated the political prisoners from the other inmates",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "i>i-inside>i-inside-is",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

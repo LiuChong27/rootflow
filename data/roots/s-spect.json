@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-spect",
-  "root": "spect=look\u770b",
+  "root": "spect=look看",
   "meaning": "look",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "看",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-spect-scan",
       "word": "scan",
       "display": "Scan",
-      "phonetic": "",
-      "translation": "\u626b\u63cf",
-      "sentence": "",
+      "phonetic": "/skæn/",
+      "translation": "扫描",
+      "sentence": "he made a thorough scan of the beach with his binoculars",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-spect-scandal",
       "word": "scandal",
       "display": "Scandal",
-      "phonetic": "",
-      "translation": "\u8bfd\u8c24",
-      "sentence": "",
+      "phonetic": "/ˈskændəl/",
+      "translation": "诽谤",
+      "sentence": "A scandal is disgraceful gossip about the private lives of other people.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-spect-scene",
       "word": "scene",
       "display": "Scene",
-      "phonetic": "",
-      "translation": "\u666f\u8c61",
-      "sentence": "",
+      "phonetic": "/siːn/",
+      "translation": "景象",
+      "sentence": "the police returned to the scene of the crime",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-spect-scenery",
       "word": "scenery",
       "display": "Scenery",
-      "phonetic": "",
-      "translation": "\u98ce\u666f",
-      "sentence": "",
+      "phonetic": "/ˈsinəri/",
+      "translation": "风景",
+      "sentence": "they worked all night painting the scenery",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-spect-script",
       "word": "script",
       "display": "Script",
-      "phonetic": "",
-      "translation": "\u624b\u7a3f",
-      "sentence": "",
+      "phonetic": "/skrɪpt/",
+      "translation": "手稿",
+      "sentence": "The playwright scripted the movie",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-spect-scrutiny",
       "word": "scrutiny",
       "display": "Scrutiny",
-      "phonetic": "",
-      "translation": "\u76d1\u89c6",
-      "sentence": "",
+      "phonetic": "/ˈskrutəni/",
+      "translation": "监视",
+      "sentence": "A scrutiny is the act of examining something closely (as for mistakes).",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-spect-seek",
       "word": "seek",
       "display": "Seek",
-      "phonetic": "",
-      "translation": "\u5bfb\u627e",
-      "sentence": "",
+      "phonetic": "/siːk/",
+      "translation": "寻找",
+      "sentence": "seek a position",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-spect-sight",
       "word": "sight",
       "display": "Sight",
-      "phonetic": "",
-      "translation": "\u89c6\u529b",
-      "sentence": "",
+      "phonetic": "/saɪt/",
+      "translation": "视力",
+      "sentence": "the sight of his wife brought him back to reality",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-spect-sightseeing",
       "word": "sightseeing",
       "display": "Sightseeing",
-      "phonetic": "",
-      "translation": "\u89c2\u5149",
-      "sentence": "",
+      "phonetic": "/ˈsaɪtˈsiɪŋ/",
+      "translation": "观光",
+      "sentence": "A sightseeing is going about to look at places of interest.",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-spect",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

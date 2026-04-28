@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-eco-economic",
-  "root": "economic\u7ecf\u6d4e\u5b66\u7684",
+  "root": "economic经济学的",
   "meaning": "economic",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "经济学的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-eco-economic-economic",
       "word": "economic",
       "display": "Economic",
-      "phonetic": "",
-      "translation": "\u7ecf\u6d4e\u5b66\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɛkəˈnɑmɪk/",
+      "translation": "经济学的",
+      "sentence": "economic growth",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-eco-economic-economical",
       "word": "economical",
       "display": "Economical",
-      "phonetic": "",
-      "translation": "\u8282\u7ea6\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɛkəˈnɑmɪkəl/",
+      "translation": "节约的",
+      "sentence": "a modern economical heating system",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-eco-economic-economics",
       "word": "economics",
       "display": "Economics",
-      "phonetic": "",
-      "translation": "\u7ecf\u6d4e\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌɛkəˈnɑmɪks/",
+      "translation": "经济学",
+      "sentence": "Economics refers to the branch of social science that deals with the production and distribution and consumption of goods and services and their management.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-eco-economic-economize",
       "word": "economize",
       "display": "Economize",
-      "phonetic": "",
-      "translation": "\u8282\u7ea6",
-      "sentence": "",
+      "phonetic": "/ɪˈkɑnəˌmaɪz/",
+      "translation": "节约",
+      "sentence": "I try to economize my spare time",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-eco-economic-economy",
       "word": "economy",
       "display": "Economy",
-      "phonetic": "",
-      "translation": "\u8282\u7ea6\uff1b\u7ecf\u6d4e",
-      "sentence": "",
+      "phonetic": "/ɪˈkɑnəmi/",
+      "translation": "节约；经济",
+      "sentence": "economy of effort",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-eco>e-eco-economic",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,13 +2,14 @@
   "version": 1,
   "rootId": "t-to",
   "root": "to",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "to",
+  "descriptionCn": "to",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "t",
+  "parentRootId": "",
   "rootLevel": 1,
-  "rootPath": "t>t-to",
+  "rootPath": "t-to",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-equ-equal",
-  "root": "\u76f8\u7b49\u7684 \u80dc\u4efb \u5bf9\u624b",
+  "root": "相等的 胜任 对手",
   "meaning": "equal",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "相等的 胜任 对手",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-equ-equal-adequate",
       "word": "adequate",
       "display": "Adequate",
-      "phonetic": "",
-      "translation": "\u9002\u5f53\u7684\uff1b\u8db3\u591f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈædəkˌweɪt/",
+      "translation": "适当的；足够的",
+      "sentence": "she had adequate training",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-equ-equal-average",
       "word": "average",
       "display": "Average",
-      "phonetic": "",
-      "translation": "\u5e73\u5747",
-      "sentence": "",
+      "phonetic": "/ˈævərɪʤ/",
+      "translation": "平均",
+      "sentence": "he is about average in height",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-equ-equal-equable",
       "word": "equable",
       "display": "Equable",
-      "phonetic": "",
-      "translation": "\u53d8\u52a8\u5c0f\u7684\uff1b\u5e73\u9759\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛkwəbəl/",
+      "translation": "变动小的；平静的",
+      "sentence": "an equable climate",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-equ-equal-equality",
       "word": "equality",
       "display": "Equality",
-      "phonetic": "",
-      "translation": "\u5e73\u7b49",
-      "sentence": "",
+      "phonetic": "/ɪkˈwɑləti/",
+      "translation": "平等",
+      "sentence": "on a par with the best",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-equ-equal-equalize",
       "word": "equalize",
       "display": "Equalize",
-      "phonetic": "",
-      "translation": "\u4f7f\u76f8\u7b49",
-      "sentence": "",
+      "phonetic": "/ˈikwəˌlaɪz/",
+      "translation": "使相等",
+      "sentence": "let's equalize the duties among all employees in this office",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "e-equ-equal-equate",
       "word": "equate",
       "display": "Equate",
-      "phonetic": "",
-      "translation": "\u4f7f\u76f8\u7b49",
-      "sentence": "",
+      "phonetic": "/ɪkˈweɪt/",
+      "translation": "使相等",
+      "sentence": "You cannot equate success in financial matters with greed",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "e-equ-equal-even",
       "word": "even",
       "display": "Even",
-      "phonetic": "",
-      "translation": "\u751a\u81f3\uff1b\u76f8\u7b49\u7684\uff1b\u5076\u6570\u7684",
-      "sentence": "",
+      "phonetic": "/ˈivɪn/",
+      "translation": "甚至；相等的；偶数的",
+      "sentence": "he enjoyed the evening light across the lake",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-equ>e-equ-equal",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

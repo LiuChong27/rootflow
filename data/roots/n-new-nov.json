@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-new-nov",
-  "root": "nov\u65b0",
+  "root": "nov新",
   "meaning": "new",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "新",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-new-nov-innovate",
       "word": "innovate",
       "display": "Innovate",
-      "phonetic": "",
-      "translation": "\u6539\u9769",
-      "sentence": "",
+      "phonetic": "/ˈɪnəˌveɪt/",
+      "translation": "改革",
+      "sentence": "A new word processor was introduced",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-new-nov-innovation",
       "word": "innovation",
       "display": "Innovation",
-      "phonetic": "",
-      "translation": "\u9769\u65b0\uff1b\u521b\u65b0",
-      "sentence": "",
+      "phonetic": "/ˌɪnəˈveɪʃən/",
+      "translation": "革新；创新",
+      "sentence": "she looked forward to her initiation as an adult",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-new-nov-innovative",
       "word": "innovative",
       "display": "Innovative",
-      "phonetic": "",
-      "translation": "\u521b\u65b0\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnəˌveɪtɪv/",
+      "translation": "创新的",
+      "sentence": "is British industry innovative enough?",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-new-nov-innovativeness",
       "word": "innovativeness",
       "display": "Innovativeness",
-      "phonetic": "",
-      "translation": "\u521b\u65b0\u6027",
-      "sentence": "",
+      "phonetic": "/ˌɪnʌvˈeɪtʌnsɪz/",
+      "translation": "创新性",
+      "sentence": "Innovativeness refers to originality by virtue of introducing new ideas.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-new-nov-innovator",
       "word": "innovator",
       "display": "Innovator",
-      "phonetic": "",
-      "translation": "\u6539\u9769\u8005",
-      "sentence": "",
+      "phonetic": "/ˈɪnəˌveɪtər/",
+      "translation": "改革者",
+      "sentence": "An innovator is someone who helps to open up a new line of research or technology or art.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-new-nov-novel",
       "word": "novel",
       "display": "Novel",
-      "phonetic": "",
-      "translation": "\u65b0\u5947\u7684\uff1b\u5c0f\u8bf4",
-      "sentence": "",
+      "phonetic": "/ˈnɑvəl/",
+      "translation": "新奇的；小说",
+      "sentence": "his bookcases were filled with nothing but novels",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-new-nov-novelist",
       "word": "novelist",
       "display": "Novelist",
-      "phonetic": "",
-      "translation": "\u5c0f\u8bf4\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˈnɑvələst/",
+      "translation": "小说家",
+      "sentence": "A novelist is one who writes novels.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "n-new-nov-novelize",
       "word": "novelize",
       "display": "Novelize",
-      "phonetic": "",
-      "translation": "\u5c0f\u8bf4\u5316",
-      "sentence": "",
+      "phonetic": "/nˈɑvʌlˌaɪz/",
+      "translation": "小说化",
+      "sentence": "The author novelized the historical event",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "n-new-nov-novelty",
       "word": "novelty",
       "display": "Novelty",
-      "phonetic": "",
-      "translation": "\u65b0\u5947\uff1b\u65b0\u9896",
-      "sentence": "",
+      "phonetic": "/ˈnɑvəlti/",
+      "translation": "新奇；新颖",
+      "sentence": "A novelty is originality by virtue of being refreshingly novel.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "n-new-nov-november",
       "word": "november",
       "display": "November",
-      "phonetic": "",
-      "translation": "\u5341\u4e00\u6708",
-      "sentence": "",
+      "phonetic": "/noʊˈvɛmbər/",
+      "translation": "十一月",
+      "sentence": "A november is the month following October and preceding December.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "n-new-nov-renew",
       "word": "renew",
       "display": "Renew",
-      "phonetic": "",
-      "translation": "\u66f4\u65b0\uff1b\u91cd\u65b0\u5f00\u59cb",
-      "sentence": "",
+      "phonetic": "/rɪˈnu/",
+      "translation": "更新；重新开始",
+      "sentence": "We renewed our friendship after a hiatus of twenty years",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "n-new-nov-renewable",
       "word": "renewable",
       "display": "Renewable",
-      "phonetic": "",
-      "translation": "\u53ef\u518d\u751f\u7684",
-      "sentence": "",
+      "phonetic": "/riˈnuəbəl/",
+      "translation": "可再生的",
+      "sentence": "a renewable lease",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "n-new-nov-renovate",
       "word": "renovate",
       "display": "Renovate",
-      "phonetic": "",
-      "translation": "\u66f4\u65b0",
-      "sentence": "",
+      "phonetic": "/ˈrɛnəˌveɪt/",
+      "translation": "更新",
+      "sentence": "They renovated the ceiling of the Sistine Chapel",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "n-new-nov-renovation",
       "word": "renovation",
       "display": "Renovation",
-      "phonetic": "",
-      "translation": "\u9769\u65b0\uff1b\u4fee\u7406",
-      "sentence": "",
+      "phonetic": "/ˌrɛnəˈveɪʃən/",
+      "translation": "革新；修理",
+      "sentence": "they are pursuing a general program of renovation to the entire property",
       "tags": [
         "root-family"
       ],
@@ -179,5 +179,6 @@
   "rootLevel": 3,
   "rootPath": "n>n-new>n-new-nov",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-wood-bat",
-  "root": "bat\u62cd\u6253",
+  "root": "bat拍打",
   "meaning": "beat",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "拍打",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-wood-bat-bacon",
       "word": "bacon",
       "display": "Bacon",
-      "phonetic": "",
-      "translation": "\u57f9\u6839\uff1b\u718f\u732a\u8089",
-      "sentence": "",
+      "phonetic": "/ˈbeɪkən/",
+      "translation": "培根；熏猪肉",
+      "sentence": "A bacon is back and sides of a hog salted and dried or smoked; usually sliced thin and fried.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-wood-bat-bake",
       "word": "bake",
       "display": "Bake",
-      "phonetic": "",
-      "translation": "\u70e4",
-      "sentence": "",
+      "phonetic": "/beɪk/",
+      "translation": "烤",
+      "sentence": "bake the potatoes",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-wood-bat-bang",
       "word": "bang",
       "display": "Bang",
-      "phonetic": "",
-      "translation": "\u731b\u51fb",
-      "sentence": "",
+      "phonetic": "/bæŋ/",
+      "translation": "猛击",
+      "sentence": "he got a bang on the head",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-wood-bat-barbecue",
       "word": "barbecue",
       "display": "Barbecue",
-      "phonetic": "",
-      "translation": "\u70e4\u8089",
-      "sentence": "",
+      "phonetic": "/ˈbɑrbɪˌkju/",
+      "translation": "烤肉",
+      "sentence": "let's barbecue that meat",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-wood-bat-bark",
       "word": "bark",
       "display": "Bark",
-      "phonetic": "",
-      "translation": "\u72d7\u5420",
-      "sentence": "",
+      "phonetic": "/bɑrk/",
+      "translation": "狗吠",
+      "sentence": "She barked into the dictaphone",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-wood-bat-batch",
       "word": "batch",
       "display": "Batch",
-      "phonetic": "",
-      "translation": "\u4e00\u6279",
-      "sentence": "",
+      "phonetic": "/bæʧ/",
+      "translation": "一批",
+      "sentence": "a batch of letters",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-wood-bat-bath",
       "word": "bath",
       "display": "Bath",
-      "phonetic": "",
-      "translation": "\u6d17\u6fa1\uff1b\u6d74\u5ba4",
-      "sentence": "",
+      "phonetic": "/bæθ/",
+      "translation": "洗澡；浴室",
+      "sentence": "she soaked the etching in an acid bath",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-wood-bat-bathe",
       "word": "bathe",
       "display": "Bathe",
-      "phonetic": "",
-      "translation": "\u6d17\u6fa1\uff1b\u6e38\u6cf3",
-      "sentence": "",
+      "phonetic": "/beɪð/",
+      "translation": "洗澡；游泳",
+      "sentence": "the Englishman said he had a good bathe",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-wood-bat-bathroom",
       "word": "bathroom",
       "display": "Bathroom",
-      "phonetic": "",
-      "translation": "\u6d74\u5ba4",
-      "sentence": "",
+      "phonetic": "/ˈbæθˌrum/",
+      "translation": "浴室",
+      "sentence": "A bathroom is a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-wood-bat-battle",
       "word": "battle",
       "display": "Battle",
-      "phonetic": "",
-      "translation": "\u6218\u4e89\uff1b\u640f\u6597",
-      "sentence": "",
+      "phonetic": "/ˈbætəl/",
+      "translation": "战争；搏斗",
+      "sentence": "Grant won a decisive victory in the battle of Chickamauga",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-wood-bat-beef",
       "word": "beef",
       "display": "Beef",
-      "phonetic": "",
-      "translation": "\u725b\u8089",
-      "sentence": "",
+      "phonetic": "/biːf/",
+      "translation": "牛肉",
+      "sentence": "I have a gripe about the service here",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-wood-bat-bull",
       "word": "bull",
       "display": "Bull",
-      "phonetic": "",
-      "translation": "\u516c\u725b",
-      "sentence": "",
+      "phonetic": "/bʊl/",
+      "translation": "公牛",
+      "sentence": "he was a bull of a man",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-wood>b-wood-bat",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

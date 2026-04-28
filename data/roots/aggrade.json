@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aggrade",
   "root": "aggrade",
-  "meaning": "",
-  "descriptionCn": "\u6de4\u79ef",
-  "updatedAt": "2026-04-15",
+  "meaning": "aggrade family",
+  "descriptionCn": "淤积",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aggrade-aggrade-2",
       "word": "aggrade",
       "display": "Aggrade",
-      "phonetic": "",
-      "translation": "\u6de4\u79ef",
-      "sentence": "",
+      "phonetic": "/ʌgrˈeɪd/",
+      "translation": "淤积",
+      "sentence": "To aggrade is to build up to a level by depositing sediment.",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ag>aggrade",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

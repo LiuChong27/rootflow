@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "apathetic",
   "root": "apathetic",
-  "meaning": "",
-  "descriptionCn": "\u51b7\u6de1\u7684\uff1b\u6f20\u4e0d\u5173\u5fc3\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "apathetic family",
+  "descriptionCn": "冷淡的；漠不关心的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "apathetic",
       "word": "apathetic",
       "display": "Apathetic",
-      "phonetic": "",
-      "translation": "\u51b7\u6de1\u7684\uff1b\u6f20\u4e0d\u5173\u5fc3\u7684",
-      "sentence": "",
+      "phonetic": "/ˌæpəˈθɛtɪk/",
+      "translation": "冷淡的；漠不关心的",
+      "sentence": "a woman who became active rather than apathetic as she grew older",
       "tags": [
         "root-family",
         "emotion"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>a-without>a-without-emotion>apathy>apathetic",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

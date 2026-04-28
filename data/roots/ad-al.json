@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ad-al",
   "root": "al-",
-  "meaning": "",
-  "descriptionCn": "l \u524d\u53d8\u4f53",
-  "updatedAt": "2026-04-15",
+  "meaning": "l variant",
+  "descriptionCn": "l 前变体",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "allege-ad-al-2",
       "word": "allege",
       "display": "Allege",
-      "phonetic": "",
-      "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
-      "sentence": "",
+      "phonetic": "/əˈlɛʤ/",
+      "translation": "断言；宣称；指控",
+      "sentence": "He alleged that he was the victim of a crime",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "alleviate",
       "word": "alleviate",
       "display": "Alleviate",
-      "phonetic": "",
-      "translation": "\u51cf\u8f7b\uff1b\u7f13\u548c",
-      "sentence": "",
+      "phonetic": "/əˈliviˌeɪt/",
+      "translation": "减轻；缓和",
+      "sentence": "This pill will relieve your headaches",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "alliance",
       "word": "alliance",
       "display": "Alliance",
-      "phonetic": "",
-      "translation": "\u540c\u76df",
-      "sentence": "",
+      "phonetic": "/əˈlaɪəns/",
+      "translation": "同盟",
+      "sentence": "the shifting alliances within a large family",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "allowance",
       "word": "allowance",
       "display": "Allowance",
-      "phonetic": "",
-      "translation": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
-      "sentence": "",
+      "phonetic": "/əˈlaʊəns/",
+      "translation": "补贴；津贴折扣",
+      "sentence": "travel allowance",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "ally",
       "word": "ally",
       "display": "Ally",
-      "phonetic": "",
-      "translation": "\u540c\u76df",
-      "sentence": "",
+      "phonetic": "/ˈælaɪ/",
+      "translation": "同盟",
+      "sentence": "he's a good ally in fight",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "amplifier",
       "word": "amplifier",
       "display": "Amplifier",
-      "phonetic": "",
-      "translation": "\u653e\u5927\uff1b\u589e\u5f3a",
-      "sentence": "",
+      "phonetic": "/ˈæmpləˌfaɪər/",
+      "translation": "放大；增强",
+      "sentence": "An amplifier is electronic equipment that increases strength of signals passing through it.",
       "tags": [
         "root-family",
         "other"
@@ -88,9 +88,9 @@
       "id": "approval",
       "word": "approval",
       "display": "Approval",
-      "phonetic": "",
-      "translation": "\u8d5e\u6210",
-      "sentence": "",
+      "phonetic": "/əˈpruvəl/",
+      "translation": "赞成",
+      "sentence": "his decision merited the approval of any sensible person",
       "tags": [
         "root-family",
         "other"
@@ -101,9 +101,9 @@
       "id": "approve",
       "word": "approve",
       "display": "Approve",
-      "phonetic": "",
-      "translation": "\u8d5e\u6210",
-      "sentence": "",
+      "phonetic": "/əˈpruv/",
+      "translation": "赞成",
+      "sentence": "I approve of his educational policies",
       "tags": [
         "root-family",
         "other"
@@ -114,9 +114,9 @@
       "id": "assembly",
       "word": "assembly",
       "display": "Assembly",
-      "phonetic": "",
-      "translation": "\u96c6\u5408",
-      "sentence": "",
+      "phonetic": "/əˈsɛmbli/",
+      "translation": "集合",
+      "sentence": "they demanded the right of assembly",
       "tags": [
         "root-family",
         "other"
@@ -128,5 +128,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>ad-add-axx>ad-al",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

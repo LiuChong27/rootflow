@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "allowance",
   "root": "allowance",
-  "meaning": "",
-  "descriptionCn": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
-  "updatedAt": "2026-04-15",
+  "meaning": "allowance family",
+  "descriptionCn": "补贴；津贴折扣",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "allowance-allowance-2",
       "word": "allowance",
       "display": "Allowance",
-      "phonetic": "",
-      "translation": "\u8865\u8d34\uff1b\u6d25\u8d34\u6298\u6263",
-      "sentence": "",
+      "phonetic": "/əˈlaʊəns/",
+      "translation": "补贴；津贴折扣",
+      "sentence": "travel allowance",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-al>alliance>allowance",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

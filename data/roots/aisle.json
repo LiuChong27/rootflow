@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aisle",
   "root": "aisle",
-  "meaning": "",
-  "descriptionCn": "\u8fc7\u9053",
-  "updatedAt": "2026-04-15",
+  "meaning": "aisle family",
+  "descriptionCn": "过道",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aisle-aisle-2",
       "word": "aisle",
       "display": "Aisle",
-      "phonetic": "",
-      "translation": "\u8fc7\u9053",
-      "sentence": "",
+      "phonetic": "/aɪəl/",
+      "translation": "过道",
+      "sentence": "An aisle is a long narrow passage (as in a cave or woods).",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>aer>aisle",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-geo",
-  "root": "geo\u5730\u7403\uff0c\u571f\u5730",
+  "root": "geo地球，土地",
   "meaning": "geo",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "地球，土地",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-geo-geobiology",
       "word": "geobiology",
       "display": "Geobiology",
-      "phonetic": "",
-      "translation": "\u5730\u7406\u751f\u7269\u5b66",
-      "sentence": "",
+      "phonetic": "/dʒˌibiˈɑlʌdʒi/",
+      "translation": "地理生物学",
+      "sentence": "Geobiology is used here with the sense of \"地理生物学\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-geo-geocentricism",
       "word": "geocentricism",
       "display": "Geocentricism",
-      "phonetic": "",
-      "translation": "\u5730\u7403\u4e2d\u5fc3\u8bba",
-      "sentence": "",
+      "phonetic": "/dʒˌiʌstˈɪrnɪstɪs/",
+      "translation": "地球中心论",
+      "sentence": "Geocentricism is used here with the sense of \"地球中心论\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-geo-geology",
       "word": "geology",
       "display": "Geology",
-      "phonetic": "",
-      "translation": "\u5730\u8d28\u5b66",
-      "sentence": "",
+      "phonetic": "/ʤiˈɑləʤi/",
+      "translation": "地质学",
+      "sentence": "A geology is a science that deals with the history of the earth as recorded in rocks.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-geo-geometry",
       "word": "geometry",
       "display": "Geometry",
-      "phonetic": "",
-      "translation": "\u51e0\u4f55\u5b66",
-      "sentence": "",
+      "phonetic": "/ʤiˈɑmətri/",
+      "translation": "几何学",
+      "sentence": "A geometry is the pure mathematics of points and lines and curves and surfaces.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-geo-geospace",
       "word": "geospace",
       "display": "Geospace",
-      "phonetic": "",
-      "translation": "\u5730\u7403\u7a7a\u95f4",
-      "sentence": "",
+      "phonetic": "/dʒˈiʌspˌeɪs/",
+      "translation": "地球空间",
+      "sentence": "Geospace is used here with the sense of \"地球空间\".",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-geo",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "z",
   "root": "Z",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "Z root map",
+  "descriptionCn": "Z",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "z-zeal",
       "word": "zeal",
       "display": "Zeal",
-      "phonetic": "",
-      "translation": "\u70ed\u5fc3",
-      "sentence": "",
+      "phonetic": "/ziːl/",
+      "translation": "热心",
+      "sentence": "he felt a kind of religious zeal",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "z-zebra",
       "word": "zebra",
       "display": "Zebra",
-      "phonetic": "",
-      "translation": "\u6591\u9a6c",
-      "sentence": "",
+      "phonetic": "/ˈzibrə/",
+      "translation": "斑马",
+      "sentence": "A zebra is any of several fleet black-and-white striped African equines.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "z-zigzag",
       "word": "zigzag",
       "display": "Zigzag",
-      "phonetic": "",
-      "translation": "Z\u5b57\u5f62;\u5f2f\u66f2\u7684",
-      "sentence": "",
+      "phonetic": "/ˈzɪgzæg/",
+      "translation": "Z字形;弯曲的",
+      "sentence": "The river zigzags through the countryside",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "z-zinc",
       "word": "zinc",
       "display": "Zinc",
-      "phonetic": "",
-      "translation": "\u950c",
-      "sentence": "",
+      "phonetic": "/zɪŋk/",
+      "translation": "锌",
+      "sentence": "A zinc is a bluish-white lustrous metallic element; brittle at ordinary temperatures but malleable when heated; used in a wide variety of alloys and in galvanizing iron; it occurs naturally as zinc sulphide in zinc blende.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "z-zip",
       "word": "zip",
       "display": "Zip",
-      "phonetic": "",
-      "translation": "\u62c9\u94fe",
-      "sentence": "",
+      "phonetic": "/zɪp/",
+      "translation": "拉链",
+      "sentence": "he's full of zip",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "z-zoom",
       "word": "zoom",
       "display": "Zoom",
-      "phonetic": "",
-      "translation": "(\u98de\u673a)\u9661\u5347",
-      "sentence": "",
+      "phonetic": "/zuːm/",
+      "translation": "(飞机)陡升",
+      "sentence": "the dollar soared against the yen",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 1,
   "rootPath": "z",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

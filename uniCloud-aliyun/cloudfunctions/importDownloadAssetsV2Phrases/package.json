@@ -1,0 +1,6 @@
+{
+  "name": "importDownloadAssetsV2Phrases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "One-time idempotent import for RootFlow v2 phrase PDF assets"
+}

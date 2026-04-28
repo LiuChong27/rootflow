@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "inaudible",
   "root": "inaudible",
-  "meaning": "",
-  "descriptionCn": "\u542c\u4e0d\u89c1\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "inaudible family",
+  "descriptionCn": "听不见的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "inaudible-inaudible-2",
       "word": "inaudible",
       "display": "Inaudible",
-      "phonetic": "",
-      "translation": "\u542c\u4e0d\u89c1\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɔdəbəl/",
+      "translation": "听不见的",
+      "sentence": "an inaudible conversation",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>audi>audio>inaudible",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

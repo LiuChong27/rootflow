@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-gram",
-  "root": "gram=graph\u5199",
+  "root": "gram=graph写",
   "meaning": "gram",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "写",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-gram-autobiography",
       "word": "autobiography",
       "display": "Autobiography",
-      "phonetic": "",
-      "translation": "\u81ea\u4f20",
-      "sentence": "",
+      "phonetic": "/ˌɔtəbaɪˈɑgrəfi/",
+      "translation": "自传",
+      "sentence": "An autobiography is a biography of yourself.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-gram-autograph",
       "word": "autograph",
       "display": "Autograph",
-      "phonetic": "",
-      "translation": "\u4eb2\u7b14\uff1b\u624b\u7a3f",
-      "sentence": "",
+      "phonetic": "/ˈɔtəˌgræf/",
+      "translation": "亲笔；手稿",
+      "sentence": "The author autographed his book",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-gram-biography",
       "word": "biography",
       "display": "Biography",
-      "phonetic": "",
-      "translation": "\u4f20\u8bb0",
-      "sentence": "",
+      "phonetic": "/baɪˈɑgrəfi/",
+      "translation": "传记",
+      "sentence": "A biography is an account of the series of events making up a person's life.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-gram-calligraphy",
       "word": "calligraphy",
       "display": "Calligraphy",
-      "phonetic": "",
-      "translation": "\u4e66\u6cd5\uff1b\u7b14\u8ff9",
-      "sentence": "",
+      "phonetic": "/kəˈlɪgrəfi/",
+      "translation": "书法；笔迹",
+      "sentence": "A calligraphy is beautiful handwriting.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-gram-cryptogram",
       "word": "cryptogram",
       "display": "Cryptogram",
-      "phonetic": "",
-      "translation": "\u5bc6\u7801",
-      "sentence": "",
+      "phonetic": "/krˈɪptgˌɑrʌm/",
+      "translation": "密码",
+      "sentence": "A cryptogram is a piece of writing in code or cipher.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "g-gram-diagram",
       "word": "diagram",
       "display": "Diagram",
-      "phonetic": "",
-      "translation": "\u56fe\u8868",
-      "sentence": "",
+      "phonetic": "/ˈdaɪəˌgræm/",
+      "translation": "图表",
+      "sentence": "A diagram is a drawing intended to explain how something works; a drawing showing the relation between the parts.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "g-gram-epigram",
       "word": "epigram",
       "display": "Epigram",
-      "phonetic": "",
-      "translation": "\u683c\u8a00",
-      "sentence": "",
+      "phonetic": "/ˈɛpəˌgræm/",
+      "translation": "格言",
+      "sentence": "An epigram is a witty saying.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "g-gram-geography",
       "word": "geography",
       "display": "Geography",
-      "phonetic": "",
-      "translation": "\u5730\u7406\u5b66",
-      "sentence": "",
+      "phonetic": "/ʤiˈɑgrəfi/",
+      "translation": "地理学",
+      "sentence": "A geography is study of the earth's surface; includes people's responses to topography and climate and soil and vegetation.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "g-gram-grammar",
       "word": "grammar",
       "display": "Grammar",
-      "phonetic": "",
-      "translation": "\u8bed\u6cd5",
-      "sentence": "",
+      "phonetic": "/ˈgræmər/",
+      "translation": "语法",
+      "sentence": "A grammar is the branch of linguistics that deals with syntax and morphology (and sometimes also deals with semantics).",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "g-gram-graph",
       "word": "graph",
       "display": "Graph",
-      "phonetic": "",
-      "translation": "\u56fe\u6807\uff1b\u66f2\u7ebf\u56fe",
-      "sentence": "",
+      "phonetic": "/græf/",
+      "translation": "图标；曲线图",
+      "sentence": "chart the data",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "g-gram-graphic",
       "word": "graphic",
       "display": "Graphic",
-      "phonetic": "",
-      "translation": "\u4e66\u5199\u7684\uff1b\u56fe\u8868\u7684",
-      "sentence": "",
+      "phonetic": "/ˈgræfɪk/",
+      "translation": "书写的；图表的",
+      "sentence": "graphic symbols",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "g-gram-phonograph",
       "word": "phonograph",
       "display": "Phonograph",
-      "phonetic": "",
-      "translation": "\u7559\u58f0\u673a",
-      "sentence": "",
+      "phonetic": "/ˈfoʊnəˌgræf/",
+      "translation": "留声机",
+      "sentence": "A phonograph is machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "g-gram-photograph",
       "word": "photograph",
       "display": "Photograph",
-      "phonetic": "",
-      "translation": "\u7167\u7247",
-      "sentence": "",
+      "phonetic": "/ˈfoʊtəˌgræf/",
+      "translation": "照片",
+      "sentence": "I photographed the scene of the accident",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "g-gram-program",
       "word": "program",
       "display": "Program",
-      "phonetic": "",
-      "translation": "\u7a0b\u5e8f\uff1b\u8ba1\u5212\uff1b\u5927\u7eb2",
-      "sentence": "",
+      "phonetic": "/ˈproʊˌgræm/",
+      "translation": "程序；计划；大纲",
+      "sentence": "he proposed an elaborate program of public works",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "g-gram-telegraph",
       "word": "telegraph",
       "display": "Telegraph",
-      "phonetic": "",
-      "translation": "\u7535\u62a5",
-      "sentence": "",
+      "phonetic": "/ˈtɛləˌgræf/",
+      "translation": "电报",
+      "sentence": "A telegraph is apparatus used to communicate at a distance over a wire (usually in Morse code).",
       "tags": [
         "root-family"
       ],
@@ -191,5 +191,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-gram",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

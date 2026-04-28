@@ -3,12 +3,13 @@
   "rootId": "s-v",
   "root": "v",
   "meaning": "verb",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "verb",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-v",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-v",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

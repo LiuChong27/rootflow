@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-wood-build",
-  "root": "build\u5efa\u7b51",
+  "root": "build建筑",
   "meaning": "build",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "建筑",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-wood-build-baseball",
       "word": "baseball",
       "display": "Baseball",
-      "phonetic": "",
-      "translation": "\u68d2\u7403",
-      "sentence": "",
+      "phonetic": "/ˈbeɪsˈbɔl/",
+      "translation": "棒球",
+      "sentence": "he played baseball in high school",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-wood-build-basement",
       "word": "basement",
       "display": "Basement",
-      "phonetic": "",
-      "translation": "\u5730\u7a96\uff1b\u5730\u4e0b\u5ba4",
-      "sentence": "",
+      "phonetic": "/ˈbeɪsmənt/",
+      "translation": "地窖；地下室",
+      "sentence": "A basement is the lowermost portion of a structure partly or wholly below ground level; often used for storage.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-wood-build-basic-problem",
       "word": "basic problem",
       "display": "Basic Problem",
-      "phonetic": "",
-      "translation": "\u6839\u672c\u95ee\u9898",
-      "sentence": "",
+      "phonetic": "/ˈbeɪsɪk ˈprɑbləm/",
+      "translation": "根本问题",
+      "sentence": "Basic problem is used here with the sense of \"根本问题\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-wood-build-block",
       "word": "block",
       "display": "Block",
-      "phonetic": "",
-      "translation": "\u77f3\u5757\uff1b\u969c\u788d\u7269",
-      "sentence": "",
+      "phonetic": "/blɑk/",
+      "translation": "石块；障碍物",
+      "sentence": "the pyramids were built with large stone blocks",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-wood-build-booth",
       "word": "booth",
       "display": "Booth",
-      "phonetic": "",
-      "translation": "\u7535\u8bdd\u4ead",
-      "sentence": "",
+      "phonetic": "/buθ/",
+      "translation": "电话亭",
+      "sentence": "A booth is a table (in a restaurant or bar) surrounded by two high-backed benches.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-wood-build-brick",
       "word": "brick",
       "display": "Brick",
-      "phonetic": "",
-      "translation": "\u7816\u5757",
-      "sentence": "",
+      "phonetic": "/brɪk/",
+      "translation": "砖块",
+      "sentence": "A brick is rectangular block of clay baked by the sun or in a kiln; used as a building or paving material.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-wood-build-bridge",
       "word": "bridge",
       "display": "Bridge",
-      "phonetic": "",
-      "translation": "\u6865",
-      "sentence": "",
+      "phonetic": "/brɪʤ/",
+      "translation": "桥",
+      "sentence": "his letters provided a bridge across the centuries",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-wood-build-building",
       "word": "building",
       "display": "Building",
-      "phonetic": "",
-      "translation": "\u5efa\u7b51\u7269",
-      "sentence": "",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "translation": "建筑物",
+      "sentence": "there was a three-story building on the corner",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-wood-build-burglar",
       "word": "burglar",
       "display": "Burglar",
-      "phonetic": "",
-      "translation": "\u5165\u5ba4\u76d7\u8d3c",
-      "sentence": "",
+      "phonetic": "/ˈbərglər/",
+      "translation": "入室盗贼",
+      "sentence": "A burglar is a thief who enters a building with intent to steal.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-wood-build-bus",
       "word": "bus",
       "display": "Bus",
-      "phonetic": "",
-      "translation": "\u516c\u5171\u6c7d\u8f66",
-      "sentence": "",
+      "phonetic": "/bəs/",
+      "translation": "公共汽车",
+      "sentence": "he always rode the bus to work",
       "tags": [
         "root-family"
       ],
@@ -131,5 +131,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-wood>b-wood-build",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

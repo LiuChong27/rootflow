@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-nihil",
-  "root": "nihil=nothing\u65e0",
+  "root": "nihil=nothing无",
   "meaning": "nothing",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "无",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-nihil-annihilate",
       "word": "annihilate",
       "display": "Annihilate",
-      "phonetic": "",
-      "translation": "\u6d88\u706d\uff1b\u6b7c\u706d",
-      "sentence": "",
+      "phonetic": "/əˈnaɪəˌleɪt/",
+      "translation": "消灭；歼灭",
+      "sentence": "the plague wiped out an entire population",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-nihil-nihil",
       "word": "nihil",
       "display": "Nihil",
-      "phonetic": "",
-      "translation": "\u865a\u65e0",
-      "sentence": "",
+      "phonetic": "/nˈɪhʌl/",
+      "translation": "虚无",
+      "sentence": "nihil habet",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-nihil-nihilism",
       "word": "nihilism",
       "display": "Nihilism",
-      "phonetic": "",
-      "translation": "\u865a\u65e0\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈnaɪəˌlɪzəm/",
+      "translation": "虚无主义",
+      "sentence": "A nihilism is a revolutionary doctrine that advocates destruction of the social system for its own sake.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-nihil-nonetheless",
       "word": "nonetheless",
       "display": "Nonetheless",
-      "phonetic": "",
-      "translation": "\u867d\u7136\u5982\u6b64\uff1b\u4f46\u662f",
-      "sentence": "",
+      "phonetic": "/ˌnənðəˈlɛs/",
+      "translation": "虽然如此；但是",
+      "sentence": "although I'm a little afraid, however I'd like to try it",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-nihil-nonsense",
       "word": "nonsense",
       "display": "Nonsense",
-      "phonetic": "",
-      "translation": "\u80e1\u8bf4\uff1b\u5e9f\u8bdd",
-      "sentence": "",
+      "phonetic": "/ˈnɑnsɛns/",
+      "translation": "胡说；废话",
+      "sentence": "nonsense syllables",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-nihil-nor",
       "word": "nor",
       "display": "Nor",
-      "phonetic": "",
-      "translation": "\u4e5f\u4e0d\uff1b\u4e5f\u6ca1\u6709",
-      "sentence": "",
+      "phonetic": "/nɔr/",
+      "translation": "也不；也没有",
+      "sentence": "Nor is used here with the sense of \"也不；也没有\".",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-nihil-not",
       "word": "not",
       "display": "Not",
-      "phonetic": "",
-      "translation": "\u975e",
-      "sentence": "",
+      "phonetic": "/nɑt/",
+      "translation": "非",
+      "sentence": "he does not speak French",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "n-nihil-notwithstanding",
       "word": "notwithstanding",
       "display": "Notwithstanding",
-      "phonetic": "",
-      "translation": "\u5c3d\u7ba1",
-      "sentence": "",
+      "phonetic": "/ˌnɑtwɪθˈstændɪŋ/",
+      "translation": "尽管",
+      "sentence": "although I'm a little afraid, however I'd like to try it",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-nihil",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

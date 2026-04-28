@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-plen",
-  "root": "plen=plet=ple pli=ply \u5145\u6ee1",
+  "root": "plen=plet=ple pli=ply 充满",
   "meaning": "full",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "充满",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-plen-accomplish",
       "word": "accomplish",
       "display": "Accomplish",
-      "phonetic": "",
-      "translation": "\u5b8c\u6210\uff1b\u5b9e\u73b0",
-      "sentence": "",
+      "phonetic": "/əˈkɑmplɪʃ/",
+      "translation": "完成；实现",
+      "sentence": "carry out a task",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-plen-ample",
       "word": "ample",
       "display": "Ample",
-      "phonetic": "",
-      "translation": "\u5145\u8db3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæmpəl/",
+      "translation": "充足的",
+      "sentence": "had ample food for the party",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-plen-amplify",
       "word": "amplify",
       "display": "Amplify",
-      "phonetic": "",
-      "translation": "\u6269\u5927\uff1b\u8be6\u8ff0",
-      "sentence": "",
+      "phonetic": "/ˈæmpləˌfaɪ/",
+      "translation": "扩大；详述",
+      "sentence": "amplify sound",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-plen-complement",
       "word": "complement",
       "display": "Complement",
-      "phonetic": "",
-      "translation": "\u8865\u5145\u7269",
-      "sentence": "",
+      "phonetic": "/ˈkɑmpləmənt/",
+      "translation": "补充物",
+      "sentence": "a full complement",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-plen-complete",
       "word": "complete",
       "display": "Complete",
-      "phonetic": "",
-      "translation": "\u5b8c\u6574\u7684\uff1b\u5b8c\u7f8e\u7684",
-      "sentence": "",
+      "phonetic": "/kəmˈplit/",
+      "translation": "完整的；完美的",
+      "sentence": "She completed the requirements for her Master's Degree",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-plen-compliance",
       "word": "compliance",
       "display": "Compliance",
-      "phonetic": "",
-      "translation": "\u670d\u4ece",
-      "sentence": "",
+      "phonetic": "/kəmˈplaɪəns/",
+      "translation": "服从",
+      "sentence": "their financial statements are in conformity with generally accepted accounting practices",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-plen-comply",
       "word": "comply",
       "display": "Comply",
-      "phonetic": "",
-      "translation": "\u987a\u4ece",
-      "sentence": "",
+      "phonetic": "/kəmˈplaɪ/",
+      "translation": "顺从",
+      "sentence": "You must comply or else!",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-plen-deplete",
       "word": "deplete",
       "display": "Deplete",
-      "phonetic": "",
-      "translation": "\u8017\u5c3d\uff1b\u4f7f\u8870\u7aed",
-      "sentence": "",
+      "phonetic": "/dɪˈplit/",
+      "translation": "耗尽；使衰竭",
+      "sentence": "this car consumes a lot of gas",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-plen-plenary",
       "word": "plenary",
       "display": "Plenary",
-      "phonetic": "",
-      "translation": "\u5145\u5206\u7684\uff1b\u5b8c\u5168\u7684",
-      "sentence": "",
+      "phonetic": "/ˈplɛnəri/",
+      "translation": "充分的；完全的",
+      "sentence": "a plenary session of the legislature",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-plen-supplement",
       "word": "supplement",
       "display": "Supplement",
-      "phonetic": "",
-      "translation": "\u8865\u5145\uff1b\u9644\u5f55",
-      "sentence": "",
+      "phonetic": "/ˌsəpləˈmɛnt/",
+      "translation": "补充；附录",
+      "sentence": "supplement your diet",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-plen-supplementary",
       "word": "supplementary",
       "display": "Supplementary",
-      "phonetic": "",
-      "translation": "\u8865\u5145\u7684",
-      "sentence": "",
+      "phonetic": "/ˌsəpləˈmɛntəˌri/",
+      "translation": "补充的",
+      "sentence": "produced supplementary volumes",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-plen-supply",
       "word": "supply",
       "display": "Supply",
-      "phonetic": "",
-      "translation": "\u8865\u7ed9",
-      "sentence": "",
+      "phonetic": "/səˈplaɪ/",
+      "translation": "补给",
+      "sentence": "supply blankets for the beds",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-plen",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

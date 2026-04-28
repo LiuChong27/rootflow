@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-hand",
-  "root": "c-other-hand",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "hand",
+  "meaning": "hand family",
+  "descriptionCn": "hand 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-hand-cabbage",
       "word": "cabbage",
       "display": "Cabbage",
-      "phonetic": "",
-      "translation": "\u5377\u5fc3\u83dc",
-      "sentence": "",
+      "phonetic": "/ˈkæbɪʤ/",
+      "translation": "卷心菜",
+      "sentence": "A cabbage is any of various types of cabbage.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-other-hand-cafe",
       "word": "cafe",
       "display": "Cafe",
-      "phonetic": "",
-      "translation": "\u5496\u5561",
-      "sentence": "",
+      "phonetic": "/kəˈfeɪ/",
+      "translation": "咖啡",
+      "sentence": "A cafe is a small restaurant where drinks and snacks are sold.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-other-hand-cafeteria",
       "word": "cafeteria",
       "display": "Cafeteria",
-      "phonetic": "",
-      "translation": "\u81ea\u52a9\u98df\u5802",
-      "sentence": "",
+      "phonetic": "/ˌkæfəˈtɪriə/",
+      "translation": "自助食堂",
+      "sentence": "A cafeteria is a restaurant where you serve yourself and pay a cashier.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-other-hand-cake",
       "word": "cake",
       "display": "Cake",
-      "phonetic": "",
-      "translation": "\u997c\u5e72\uff1b\u86cb\u7cd5",
-      "sentence": "",
+      "phonetic": "/keɪk/",
+      "translation": "饼干；蛋糕",
+      "sentence": "a bar of chocolate",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-other-hand-calcium",
       "word": "calcium",
       "display": "Calcium",
-      "phonetic": "",
-      "translation": "\u9499",
-      "sentence": "",
+      "phonetic": "/ˈkælsiəm/",
+      "translation": "钙",
+      "sentence": "A calcium is a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-other-hand-calculate",
       "word": "calculate",
       "display": "Calculate",
-      "phonetic": "",
-      "translation": "\u8ba1\u7b97",
-      "sentence": "",
+      "phonetic": "/ˈkælkjəˌleɪt/",
+      "translation": "计算",
+      "sentence": "you can count on me to help you any time",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-other-hand-calorie",
       "word": "calorie",
       "display": "Calorie",
-      "phonetic": "",
-      "translation": "\u5361\u8def\u91cc",
-      "sentence": "",
+      "phonetic": "/ˈkælɔˌri/",
+      "translation": "卡路里",
+      "sentence": "A calorie is a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-other-hand-candy",
       "word": "candy",
       "display": "Candy",
-      "phonetic": "",
-      "translation": "\u7cd6\u679c",
-      "sentence": "",
+      "phonetic": "/ˈkændi/",
+      "translation": "糖果",
+      "sentence": "A candy is a rich sweet made of flavored sugar and often combined with fruit or nuts.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-other-hand-carrot",
       "word": "carrot",
       "display": "Carrot",
-      "phonetic": "",
-      "translation": "\u80e1\u841d\u535c",
-      "sentence": "",
+      "phonetic": "/ˈkɛrət/",
+      "translation": "胡萝卜",
+      "sentence": "carrot and stick",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-other-hand-cereal",
       "word": "cereal",
       "display": "Cereal",
-      "phonetic": "",
-      "translation": "\u8c37\u7269",
-      "sentence": "",
+      "phonetic": "/ˈsɪriəl/",
+      "translation": "谷物",
+      "sentence": "a cereal beverage",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-other-hand-champagne",
       "word": "champagne",
       "display": "Champagne",
-      "phonetic": "",
-      "translation": "\u9999\u69df\u9152",
-      "sentence": "",
+      "phonetic": "/ʃæmˈpeɪn/",
+      "translation": "香槟酒",
+      "sentence": "A champagne is a white sparkling wine either produced in Champagne or resembling that produced there.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-other-hand-cheese",
       "word": "cheese",
       "display": "Cheese",
-      "phonetic": "",
-      "translation": "\u5976\u916a",
-      "sentence": "",
+      "phonetic": "/ʧiz/",
+      "translation": "奶酪",
+      "sentence": "Cheese it!",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-other-hand-chef",
       "word": "chef",
       "display": "Chef",
-      "phonetic": "",
-      "translation": "\u53a8\u5e08",
-      "sentence": "",
+      "phonetic": "/ʃɛf/",
+      "translation": "厨师",
+      "sentence": "A chef is a professional cook.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-other-hand-cherry",
       "word": "cherry",
       "display": "Cherry",
-      "phonetic": "",
-      "translation": "\u6a31\u6843\u6811",
-      "sentence": "",
+      "phonetic": "/ˈʧɛri/",
+      "translation": "樱桃树",
+      "sentence": "A cherry is wood of any of various cherry trees especially the black cherry.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-other-hand-chicken",
       "word": "chicken",
       "display": "Chicken",
-      "phonetic": "",
-      "translation": "\u9e21\u8089",
-      "sentence": "",
+      "phonetic": "/ˈʧɪkən/",
+      "translation": "鸡肉",
+      "sentence": "A chicken is the flesh of a chicken used for food.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-other-hand-clap",
       "word": "clap",
       "display": "Clap",
-      "phonetic": "",
-      "translation": "\u62cd\u624b",
-      "sentence": "",
+      "phonetic": "/klæp/",
+      "translation": "拍手",
+      "sentence": "The judge clapped him in jail",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-other-hand-claw",
       "word": "claw",
       "display": "Claw",
-      "phonetic": "",
-      "translation": "\u722a",
-      "sentence": "",
+      "phonetic": "/klɔ/",
+      "translation": "爪",
+      "sentence": "They clawed their way to the top of the mountain",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-other-hand-cling",
       "word": "cling",
       "display": "Cling",
-      "phonetic": "",
-      "translation": "\u7c98\u9644\uff1b\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/klɪŋ/",
+      "translation": "粘附；坚持",
+      "sentence": "The dress clings to her body",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "c-other-hand-clip",
       "word": "clip",
       "display": "Clip",
-      "phonetic": "",
-      "translation": "\u4fee\u526a\uff1b\u56de\u5f62\u9488",
-      "sentence": "",
+      "phonetic": "/klɪp/",
+      "translation": "修剪；回形针",
+      "sentence": "he could do ten at a clip",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "c-other-hand-clone",
       "word": "clone",
       "display": "Clone",
-      "phonetic": "",
-      "translation": "\u514b\u9686",
-      "sentence": "",
+      "phonetic": "/kloʊn/",
+      "translation": "克隆",
+      "sentence": "people can clone a sheep nowadays",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "c-other-hand-clutch",
       "word": "clutch",
       "display": "Clutch",
-      "phonetic": "",
-      "translation": "\u6293\u4f4f",
-      "sentence": "",
+      "phonetic": "/kləʧ/",
+      "translation": "抓住",
+      "sentence": "he is a good man in the clutch",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "c-other-hand-cock",
       "word": "cock",
       "display": "Cock",
-      "phonetic": "",
-      "translation": "\u516c\u9e21\uff1b\u5f00\u5173",
-      "sentence": "",
+      "phonetic": "/kɑk/",
+      "translation": "公鸡；开关",
+      "sentence": "cock one's head",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "c-other-hand-colonial",
       "word": "colonial",
       "display": "Colonial",
-      "phonetic": "",
-      "translation": "\u6b96\u6c11\u5730\u7684",
-      "sentence": "",
+      "phonetic": "/kəˈloʊniəl/",
+      "translation": "殖民地的",
+      "sentence": "coral is a colonial organism",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "c-other-hand-colony",
       "word": "colony",
       "display": "Colony",
-      "phonetic": "",
-      "translation": "\u6b96\u6c11\u5730",
-      "sentence": "",
+      "phonetic": "/ˈkɑləni/",
+      "translation": "殖民地",
+      "sentence": "the American colony in Paris",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "c-other-hand-cooperate",
       "word": "cooperate",
       "display": "Cooperate",
-      "phonetic": "",
-      "translation": "\u5408\u4f5c",
-      "sentence": "",
+      "phonetic": "/kˈwɑpərˌeɪt/",
+      "translation": "合作",
+      "sentence": "The soprano and the pianist did not get together very well",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "c-other-hand-cooperative",
       "word": "cooperative",
       "display": "Cooperative",
-      "phonetic": "",
-      "translation": "\u5408\u4f5c\u7684",
-      "sentence": "",
+      "phonetic": "/koʊˈɑpərˌeɪtɪv/",
+      "translation": "合作的",
+      "sentence": "a cooperative effort",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "c-other-hand-coordinate",
       "word": "coordinate",
       "display": "Coordinate",
-      "phonetic": "",
-      "translation": "\u540c\u7b49\u7684",
-      "sentence": "",
+      "phonetic": "/koʊˈɔrdəˌneɪt/",
+      "translation": "同等的",
+      "sentence": "coordinate the painters, masons, and plumbers",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "c-other-hand-cop",
       "word": "cop",
       "display": "Cop",
-      "phonetic": "",
-      "translation": "\u8b66\u5bdf",
-      "sentence": "",
+      "phonetic": "/kɑp/",
+      "translation": "警察",
+      "sentence": "Someone snitched my wallet!",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "c-other-hand-cope",
       "word": "cope",
       "display": "Cope",
-      "phonetic": "",
-      "translation": "\u7ade\u4e89\uff1b\u5bf9\u6297\uff1b\u5904\u7406",
-      "sentence": "",
+      "phonetic": "/koʊp/",
+      "translation": "竞争；对抗；处理",
+      "sentence": "We got by on just a gallon of gas",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "c-other-hand-copy",
       "word": "copy",
       "display": "Copy",
-      "phonetic": "",
-      "translation": "\u6284\u672c\uff1b\u6284\u5199",
-      "sentence": "",
+      "phonetic": "/ˈkɑpi/",
+      "translation": "抄本；抄写",
+      "sentence": "she made a copy of the designer dress",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "c-other-hand-copyright",
       "word": "copyright",
       "display": "Copyright",
-      "phonetic": "",
-      "translation": "\u7248\u6743",
-      "sentence": "",
+      "phonetic": "/ˈkɑpiˌraɪt/",
+      "translation": "版权",
+      "sentence": "did you copyright your manuscript?",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "c-other-hand-cost",
       "word": "cost",
       "display": "Cost",
-      "phonetic": "",
-      "translation": "\u6210\u672c\uff1b\u8d39\u7528\uff1b\u4ee3\u4ef7",
-      "sentence": "",
+      "phonetic": "/kɔst/",
+      "translation": "成本；费用；代价",
+      "sentence": "he couldn't calculate the cost of the collection",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "c-other-hand-costly",
       "word": "costly",
       "display": "Costly",
-      "phonetic": "",
-      "translation": "\u6602\u8d35\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɔstli/",
+      "translation": "昂贵的",
+      "sentence": "costly jewelry",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "c-other-hand-costume",
       "word": "costume",
       "display": "Costume",
-      "phonetic": "",
-      "translation": "\u670d\u88c5",
-      "sentence": "",
+      "phonetic": "/ˈkɑstum/",
+      "translation": "服装",
+      "sentence": "he won the prize for best costume",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "c-other-hand-counsel",
       "word": "counsel",
       "display": "Counsel",
-      "phonetic": "",
-      "translation": "\u529d\u544a\uff1b\u5fe0\u544a",
-      "sentence": "",
+      "phonetic": "/ˈkaʊnsəl/",
+      "translation": "劝告；忠告",
+      "sentence": "The teacher counsels troubled students",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "c-other-hand-count",
       "word": "count",
       "display": "Count",
-      "phonetic": "",
-      "translation": "\u8ba1\u7b97\uff1b\u91cd\u8981",
-      "sentence": "",
+      "phonetic": "/kaʊnt/",
+      "translation": "计算；重要",
+      "sentence": "a blood count",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "c-other-hand-counter",
       "word": "counter",
       "display": "Counter",
-      "phonetic": "",
-      "translation": "\u67dc\u53f0\uff1b\u53cd\u5bf9\uff1b\u8ba1\u6570\u5668",
-      "sentence": "",
+      "phonetic": "/ˈkaʊntər/",
+      "translation": "柜台；反对；计数器",
+      "sentence": "a counter may be used to stiffen the material around the heel and to give support to the foot",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "c-other-hand-counterpart",
       "word": "counterpart",
       "display": "Counterpart",
-      "phonetic": "",
-      "translation": "\u5bf9\u5e94\u7684\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈkaʊntərˌpɑrt/",
+      "translation": "对应的人",
+      "sentence": "A counterpart is a person or thing having the same function or characteristics as another.",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "c-other-hand-cover",
       "word": "cover",
       "display": "Cover",
-      "phonetic": "",
-      "translation": "\u8986\u76d6\uff1b\u6d89\u53ca\uff1b\u5305\u62ec\uff1b\u5c01\u9762",
-      "sentence": "",
+      "phonetic": "/ˈkəvər/",
+      "translation": "覆盖；涉及；包括；封面",
+      "sentence": "under cover of darkness",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "c-other-hand-cow",
       "word": "cow",
       "display": "Cow",
-      "phonetic": "",
-      "translation": "\u5976\u725b\uff1b\u6bcd\u725b",
-      "sentence": "",
+      "phonetic": "/kaʊ/",
+      "translation": "奶牛；母牛",
+      "sentence": "`moo-cow' is a child's term",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "c-other-hand-coward",
       "word": "coward",
       "display": "Coward",
-      "phonetic": "",
-      "translation": "\u61e6\u592b",
-      "sentence": "",
+      "phonetic": "/kaʊərd/",
+      "translation": "懦夫",
+      "sentence": "A coward is a person who shows fear or timidity.",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "c-other-hand-craft",
       "word": "craft",
       "display": "Craft",
-      "phonetic": "",
-      "translation": "\u624b\u827a\uff1b\u6280\u5de7\uff1b\u98de\u8239",
-      "sentence": "",
+      "phonetic": "/kræft/",
+      "translation": "手艺；技巧；飞船",
+      "sentence": "he represented the craft of brewers",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "c-other-hand-cream",
       "word": "cream",
       "display": "Cream",
-      "phonetic": "",
-      "translation": "\u5976\u6cb9",
-      "sentence": "",
+      "phonetic": "/kriːm/",
+      "translation": "奶油",
+      "sentence": "the cream of England's young men were killed in the Great War",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "c-other-hand-cucumber",
       "word": "cucumber",
       "display": "Cucumber",
-      "phonetic": "",
-      "translation": "\u9ec4\u76d6",
-      "sentence": "",
+      "phonetic": "/ˈkjukəmbər/",
+      "translation": "黄盖",
+      "sentence": "A cucumber is a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit.",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "c-other-hand-cue",
       "word": "cue",
       "display": "Cue",
-      "phonetic": "",
-      "translation": "\u63d0\u793a\uff1b\u7403\u6746",
-      "sentence": "",
+      "phonetic": "/kjuː/",
+      "translation": "提示；球杆",
+      "sentence": "A cue is an actor's line that immediately precedes and serves as a reminder for some action or speech.",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "c-other-hand-cult",
       "word": "cult",
       "display": "Cult",
-      "phonetic": "",
-      "translation": "\u79cd",
-      "sentence": "",
+      "phonetic": "/kəlt/",
+      "translation": "种",
+      "sentence": "it was a satanic cult",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "c-other-hand-cultivate",
       "word": "cultivate",
       "display": "Cultivate",
-      "phonetic": "",
-      "translation": "\u57f9\u517b",
-      "sentence": "",
+      "phonetic": "/ˈkəltəˌveɪt/",
+      "translation": "培养",
+      "sentence": "cultivate the land",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "c-other-hand-cunning",
       "word": "cunning",
       "display": "Cunning",
-      "phonetic": "",
-      "translation": "\u72e1\u733e\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkənɪŋ/",
+      "translation": "狡猾的",
+      "sentence": "cunning kittens",
       "tags": [
         "root-family"
       ],
@@ -586,13 +586,18 @@
       "id": "c-other-hand-discount",
       "word": "discount",
       "display": "Discount",
-      "phonetic": "",
-      "translation": "\u6253\u6298",
-      "sentence": "",
+      "phonetic": "/ˈdɪskaʊnt/",
+      "translation": "打折",
+      "sentence": "I never discount these books-they sell like hot cakes",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-hand",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

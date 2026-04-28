@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "m-important",
-  "root": "M\u91cd\u8981",
+  "root": "M重要",
   "meaning": "important",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "重要",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "m",
-  "rootLevel": 2,
-  "rootPath": "m>m-important",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "m-important",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-clar-clear-declare",
-  "root": "declare\u5ba3\u79f0\uff1b\u58f0\u660e\uff1b\u7533\u62a5",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "declare宣称；声明；申报",
+  "meaning": "declare",
+  "descriptionCn": "宣称；声明；申报",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-clar-clear-declare",
       "word": "declare",
       "display": "Declare",
-      "phonetic": "",
-      "translation": "\u5ba3\u79f0\uff1b\u58f0\u660e\uff1b\u7533\u62a5",
-      "sentence": "",
+      "phonetic": "/dɪˈklɛr/",
+      "translation": "宣称；声明；申报",
+      "sentence": "He declared that he needed more money to carry out the task he was charged with",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-clar-clear-declare-declaration",
       "word": "declaration",
       "display": "Declaration",
-      "phonetic": "",
-      "translation": "\u5ba3\u5e03",
-      "sentence": "",
+      "phonetic": "/ˌdɛklərˈeɪʃən/",
+      "translation": "宣布",
+      "sentence": "his declaration of innocence",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-clar-clear-declare-declarative",
       "word": "declarative",
       "display": "Declarative",
-      "phonetic": "",
-      "translation": "\u5ba3\u8a00\u7684\uff1b\u516c\u5e03\u7684",
-      "sentence": "",
+      "phonetic": "/dɪklˈɛrʌtɪv/",
+      "translation": "宣言的；公布的",
+      "sentence": "indicative mood",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-clar-clear-declare-declarer",
       "word": "declarer",
       "display": "Declarer",
-      "phonetic": "",
-      "translation": "\u5ba3\u8a00\u8005\uff1b\u7533\u62a5\u8005",
-      "sentence": "",
+      "phonetic": "/dɪklˈɛrɚ/",
+      "translation": "宣言者；申报者",
+      "sentence": "a declarer of his intentions",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-clar-clear>c-clar-clear-declare",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

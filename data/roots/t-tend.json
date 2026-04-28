@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-tend",
   "root": "tend tens tent",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tend",
+  "descriptionCn": "tend tens tent",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-tend-attend",
       "word": "attend",
       "display": "Attend",
-      "phonetic": "",
-      "translation": "\u51fa\u5e2d",
-      "sentence": "",
+      "phonetic": "/əˈtɛnd/",
+      "translation": "出席",
+      "sentence": "She attends class regularly",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-tend-attendance",
       "word": "attendance",
       "display": "Attendance",
-      "phonetic": "",
-      "translation": "\u51fa\u5e2d",
-      "sentence": "",
+      "phonetic": "/əˈtɛndəns/",
+      "translation": "出席",
+      "sentence": "a student's attendance is an important factor in her grade",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-tend-attendant",
       "word": "attendant",
       "display": "Attendant",
-      "phonetic": "",
-      "translation": "\u968f\u4ece",
-      "sentence": "",
+      "phonetic": "/əˈtɛndənt/",
+      "translation": "随从",
+      "sentence": "attendant members of the congreation",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-tend-contend",
       "word": "contend",
       "display": "Contend",
-      "phonetic": "",
-      "translation": "\u7ade\u4e89",
-      "sentence": "",
+      "phonetic": "/kənˈtɛnd/",
+      "translation": "竞争",
+      "sentence": "He contended that Communism had no future",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-tend-contention",
       "word": "contention",
       "display": "Contention",
-      "phonetic": "",
-      "translation": "\u4e89\u8bba",
-      "sentence": "",
+      "phonetic": "/kənˈtɛnʃən/",
+      "translation": "争论",
+      "sentence": "the teams were in fierce contention for first place",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-tend-contentious",
       "word": "contentious",
       "display": "Contentious",
-      "phonetic": "",
-      "translation": "\u4e89\u8bba\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈtɛnʃəs/",
+      "translation": "争论的",
+      "sentence": "a style described as abrasive and contentious",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-tend-distend",
       "word": "distend",
       "display": "Distend",
-      "phonetic": "",
-      "translation": "\u6269\u5f20",
-      "sentence": "",
+      "phonetic": "/dɪˈstɛnd/",
+      "translation": "扩张",
+      "sentence": "The gas distended the animal's body",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "t-tend-distent",
       "word": "distent",
       "display": "Distent",
-      "phonetic": "",
-      "translation": "\u81a8\u80c0\u7684",
-      "sentence": "",
+      "phonetic": "/dˈɪsʌnt/",
+      "translation": "膨胀的",
+      "sentence": "Distent is used here with the sense of \"膨胀的\".",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "t-tend-distention",
       "word": "distention",
       "display": "Distention",
-      "phonetic": "",
-      "translation": "\u81a8\u80c0",
-      "sentence": "",
+      "phonetic": "/dɪstˈɛnʃʌn/",
+      "translation": "膨胀",
+      "sentence": "A distention is the state of being stretched beyond normal dimensions.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "t-tend-extend",
       "word": "extend",
       "display": "Extend",
-      "phonetic": "",
-      "translation": "\u5ef6\u4f38\uff1b\u6269\u5145",
-      "sentence": "",
+      "phonetic": "/ɪkˈstɛnd/",
+      "translation": "延伸；扩充",
+      "sentence": "The law was extended to all citizens",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "t-tend-extent",
       "word": "extent",
       "display": "Extent",
-      "phonetic": "",
-      "translation": "\u957f\u5ea6",
-      "sentence": "",
+      "phonetic": "/ɪkˈstɛnt/",
+      "translation": "长度",
+      "sentence": "the extent of the damage",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "t-tend-intend",
       "word": "intend",
       "display": "Intend",
-      "phonetic": "",
-      "translation": "\u6253\u7b97\uff1b\u76ee\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛnd/",
+      "translation": "打算；目的",
+      "sentence": "She was intended to become the director",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "t-tend-intense",
       "word": "intense",
       "display": "Intense",
-      "phonetic": "",
-      "translation": "\u5f3a\u70c8\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛns/",
+      "translation": "强烈的",
+      "sentence": "intense heat",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "t-tend-intensify",
       "word": "intensify",
       "display": "Intensify",
-      "phonetic": "",
-      "translation": "\u4f7f\u5f3a\u70c8",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛnsɪˌfaɪ/",
+      "translation": "使强烈",
+      "sentence": "The Allies escalated the bombing",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "t-tend-tend",
       "word": "tend",
       "display": "Tend",
-      "phonetic": "",
-      "translation": "\u8d8b\u5411",
-      "sentence": "",
+      "phonetic": "/tɛnd/",
+      "translation": "趋向",
+      "sentence": "She tends to be nervous before her lectures",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "t-tend-tendency",
       "word": "tendency",
       "display": "Tendency",
-      "phonetic": "",
-      "translation": "\u8d8b\u52bf",
-      "sentence": "",
+      "phonetic": "/ˈtɛndənsi/",
+      "translation": "趋势",
+      "sentence": "a tendency to be too strict",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "t-tend-tender",
       "word": "tender",
       "display": "Tender",
-      "phonetic": "",
-      "translation": "\u6e29\u67d4\u7684\uff1b\u654f\u611f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈtɛndər/",
+      "translation": "温柔的；敏感的",
+      "sentence": "tenderize meat",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "t-tend-tense",
       "word": "tense",
       "display": "Tense",
-      "phonetic": "",
-      "translation": "\u62c9\u7d27\uff1b\u65f6\u6001",
-      "sentence": "",
+      "phonetic": "/tɛns/",
+      "translation": "拉紧；时态",
+      "sentence": "the bodybuilder's neck muscles tensed;",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "t-tend-tension",
       "word": "tension",
       "display": "Tension",
-      "phonetic": "",
-      "translation": "\u72b6\u6001",
-      "sentence": "",
+      "phonetic": "/ˈtɛnʃən/",
+      "translation": "状态",
+      "sentence": "he suffered from fatigue and emotional tension",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "t-tend-tent",
       "word": "tent",
       "display": "Tent",
-      "phonetic": "",
-      "translation": "\u5e10\u7bf7",
-      "sentence": "",
+      "phonetic": "/tɛnt/",
+      "translation": "帐篷",
+      "sentence": "he pitched his tent near the creek",
       "tags": [
         "root-family"
       ],
@@ -248,8 +248,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-tend",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

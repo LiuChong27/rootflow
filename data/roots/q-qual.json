@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "q-qual",
-  "root": "qual\u6027\u8d28 \u7279\u5f81",
+  "root": "qual性质 特征",
   "meaning": "quality, characteristic",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "性质 特征",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "q-qual-qualification",
       "word": "qualification",
       "display": "Qualification",
-      "phonetic": "",
-      "translation": "\u8d44\u683c\uff1b\u5408\u683c",
-      "sentence": "",
+      "phonetic": "/kˌwɑləfəˈkeɪʃən/",
+      "translation": "资格；合格",
+      "sentence": "her qualifications for the job are excellent",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "q-qual-qualify",
       "word": "qualify",
       "display": "Qualify",
-      "phonetic": "",
-      "translation": "\u4f7f\u5177\u6709\u8d44\u683c\uff1b\u4fee\u9970",
-      "sentence": "",
+      "phonetic": "/kˈwɑləˌfaɪ/",
+      "translation": "使具有资格；修饰",
+      "sentence": "qualify these remarks",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "q-qual-qualitative",
       "word": "qualitative",
       "display": "Qualitative",
-      "phonetic": "",
-      "translation": "\u6027\u8d28\u4e0a\u7684 \u5b9a\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/kˈwɑləˌteɪtɪv/",
+      "translation": "性质上的 定性的",
+      "sentence": "qualitative change",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "q-qual-quality",
       "word": "quality",
       "display": "Quality",
-      "phonetic": "",
-      "translation": "\u8d28\u91cf \u7279\u6027\uff1b\u54c1\u8d28",
-      "sentence": "",
+      "phonetic": "/kˈwɑləti/",
+      "translation": "质量 特性；品质",
+      "sentence": "the quality of mercy is not strained",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "q-qual-quantify",
       "word": "quantify",
       "display": "Quantify",
-      "phonetic": "",
-      "translation": "\u786e\u5b9a\u6570\u91cf",
-      "sentence": "",
+      "phonetic": "/kˈwɑntɪˌfaɪ/",
+      "translation": "确定数量",
+      "sentence": "Can you quantify your results?",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "q-qual-quantitative",
       "word": "quantitative",
       "display": "Quantitative",
-      "phonetic": "",
-      "translation": "\u5b9a\u91cf\u7684",
-      "sentence": "",
+      "phonetic": "/kˈwɑntɪˌteɪtɪv/",
+      "translation": "定量的",
+      "sentence": "export wheat without quantitative limitations",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "q>q-qual",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

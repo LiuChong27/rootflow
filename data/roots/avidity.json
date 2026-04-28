@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "avidity",
   "root": "avidity",
-  "meaning": "",
-  "descriptionCn": "\u8d2a\u5a6a",
-  "updatedAt": "2026-04-15",
+  "meaning": "avidity family",
+  "descriptionCn": "贪婪",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "avidity",
       "word": "avidity",
       "display": "Avidity",
-      "phonetic": "",
-      "translation": "\u8d2a\u5a6a",
-      "sentence": "",
+      "phonetic": "/ʌvˈɪdʌti/",
+      "translation": "贪婪",
+      "sentence": "An avidity is a positive feeling of wanting to push ahead with something.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>avi>avid>avidity",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

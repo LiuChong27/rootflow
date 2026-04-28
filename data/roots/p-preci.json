@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-preci",
-  "root": "preci=value \u4ef7\u503c",
+  "root": "preci=value 价值",
   "meaning": "value",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "价值",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-preci-appraisable",
       "word": "appraisable",
       "display": "Appraisable",
-      "phonetic": "",
-      "translation": "\u53ef\u8bc4\u4f30\u7684",
-      "sentence": "",
+      "phonetic": "/ʌprˈeɪzʌbʌl/",
+      "translation": "可评估的",
+      "sentence": "Appraisable is used here with the sense of \"可评估的\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-preci-appraisal",
       "word": "appraisal",
       "display": "Appraisal",
-      "phonetic": "",
-      "translation": "\u9274\u5b9a",
-      "sentence": "",
+      "phonetic": "/əˈpreɪzəl/",
+      "translation": "鉴定",
+      "sentence": "An appraisal is the classification of someone or something with respect to its worth.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-preci-appraise",
       "word": "appraise",
       "display": "Appraise",
-      "phonetic": "",
-      "translation": "\u8bc4\u4ef7\uff1b\u9274\u5b9a",
-      "sentence": "",
+      "phonetic": "/əˈpreɪz/",
+      "translation": "评价；鉴定",
+      "sentence": "I will have the family jewels appraised by a professional",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-preci-appraiser",
       "word": "appraiser",
       "display": "Appraiser",
-      "phonetic": "",
-      "translation": "\u575a\u5b9a\u7740",
-      "sentence": "",
+      "phonetic": "/əˈpreɪzər/",
+      "translation": "坚定着",
+      "sentence": "An appraiser is one who estimates officially the worth or value or quality of things.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-preci-appreciable",
       "word": "appreciable",
       "display": "Appreciable",
-      "phonetic": "",
-      "translation": "\u53ef\u89c2\u7684",
-      "sentence": "",
+      "phonetic": "/əˈpriʃəbəl/",
+      "translation": "可观的",
+      "sentence": "appreciable amounts of noxious wastes are dumped into the harbor",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-preci-appreciate",
       "word": "appreciate",
       "display": "Appreciate",
-      "phonetic": "",
-      "translation": "\u9274\u8d4f",
-      "sentence": "",
+      "phonetic": "/əˈpriʃiˌeɪt/",
+      "translation": "鉴赏",
+      "sentence": "Do you appreciate the full meaning of this letter?",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-preci-appreciative",
       "word": "appreciative",
       "display": "Appreciative",
-      "phonetic": "",
-      "translation": "\u6b23\u8d4f\u7684",
-      "sentence": "",
+      "phonetic": "/əˈpriʃjətɪv/",
+      "translation": "欣赏的",
+      "sentence": "was appreciative of his efforts",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-preci-depreciate",
       "word": "depreciate",
       "display": "Depreciate",
-      "phonetic": "",
-      "translation": "\u8d2c\u503c\uff1b\u964d\u4f4e",
-      "sentence": "",
+      "phonetic": "/dɪˈpriʃiˌeɪt/",
+      "translation": "贬值；降低",
+      "sentence": "The Fed depreciated the dollar once again",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-preci-depreciative",
       "word": "depreciative",
       "display": "Depreciative",
-      "phonetic": "",
-      "translation": "\u8d2c\u503c\u7684",
-      "sentence": "",
+      "phonetic": "/dɪprˈiʃiˌeɪvɪt/",
+      "translation": "贬值的",
+      "sentence": "a depreciating currency",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-preci-disappreciate",
       "word": "disappreciate",
       "display": "Disappreciate",
-      "phonetic": "",
-      "translation": "\u8f7b\u89c6",
-      "sentence": "",
+      "phonetic": "/dˌɪsʌprˈiʃiʌt/",
+      "translation": "轻视",
+      "sentence": "Disappreciate is used here with the sense of \"轻视\".",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-preci-praise",
       "word": "praise",
       "display": "Praise",
-      "phonetic": "",
-      "translation": "\u79f0\u8d5e",
-      "sentence": "",
+      "phonetic": "/preɪz/",
+      "translation": "称赞",
+      "sentence": "he always appreciated praise for his work",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-preci-preciosity",
       "word": "preciosity",
       "display": "Preciosity",
-      "phonetic": "",
-      "translation": "\u8fc7\u5206\u8bb2\u7a76\uff1b\u77eb\u63c9\u9020\u4f5c",
-      "sentence": "",
+      "phonetic": "/prˌisiʌsˈaɪti/",
+      "translation": "过分讲究；矫揉造作",
+      "sentence": "A preciosity is the quality of being fastidious or excessively refined.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-preci-precious",
       "word": "precious",
       "display": "Precious",
-      "phonetic": "",
-      "translation": "\u5b9d\u8d35\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɛʃəs/",
+      "translation": "宝贵的",
+      "sentence": "children are precious",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-preci-pride",
       "word": "pride",
       "display": "Pride",
-      "phonetic": "",
-      "translation": "\u81ea\u8c6a",
-      "sentence": "",
+      "phonetic": "/praɪd/",
+      "translation": "自豪",
+      "sentence": "he takes pride in his son's success",
       "tags": [
         "root-family"
       ],
@@ -179,5 +179,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-preci",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

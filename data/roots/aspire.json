@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aspire",
   "root": "aspire",
-  "meaning": "",
-  "descriptionCn": "\u6e34\u671b\uff1b\u8ffd\u6c42",
-  "updatedAt": "2026-04-15",
+  "meaning": "aspire family",
+  "descriptionCn": "渴望；追求",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aspire",
       "word": "aspire",
       "display": "Aspire",
-      "phonetic": "",
-      "translation": "\u6e34\u671b\uff1b\u8ffd\u6c42",
-      "sentence": "",
+      "phonetic": "/əˈspaɪr/",
+      "translation": "渴望；追求",
+      "sentence": "To aspire is to have an ambitious plan or a lofty goal.",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>astir>aspire",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

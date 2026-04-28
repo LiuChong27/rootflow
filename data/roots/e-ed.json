@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-ed",
-  "root": "ed=eat\u5403 \u8c10\u97f3\u997f\u7684",
+  "root": "ed=eat吃 谐音饿的",
   "meaning": "ed",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "吃 谐音饿的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-ed-edacious",
       "word": "edacious",
       "display": "Edacious",
-      "phonetic": "",
-      "translation": "\u8d2a\u5403\u7684",
-      "sentence": "",
+      "phonetic": "/ɪdˈeɪʃʌs/",
+      "translation": "贪吃的",
+      "sentence": "edacious vultures",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-ed-edacity",
       "word": "edacity",
       "display": "Edacity",
-      "phonetic": "",
-      "translation": "\u72fc\u541e\u864e\u54bd",
-      "sentence": "",
+      "phonetic": "/ɪdˈæsʌti/",
+      "translation": "狼吞虎咽",
+      "sentence": "An edacity is excessive desire to eat.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-ed-edibility",
       "word": "edibility",
       "display": "Edibility",
-      "phonetic": "",
-      "translation": "\u53ef\u98df\u6027",
-      "sentence": "",
+      "phonetic": "/ˌɛdʌbˈɪlʌti/",
+      "translation": "可食性",
+      "sentence": "An edibility is the property of being fit to eat.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-ed-edible",
       "word": "edible",
       "display": "Edible",
-      "phonetic": "",
-      "translation": "\u53ef\u98df\u7528\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛdəbəl/",
+      "translation": "可食用的",
+      "sentence": "An edible is any substance that can be used as food.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-ed-edibleness",
       "word": "edibleness",
       "display": "Edibleness",
-      "phonetic": "",
-      "translation": "\u98df\u7528\u4ef7\u503c",
-      "sentence": "",
+      "phonetic": "/ˈɛdʌblʌnsʌz/",
+      "translation": "食用价值",
+      "sentence": "Edibleness refers to the property of being fit to eat.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "e-ed-inedible",
       "word": "inedible",
       "display": "Inedible",
-      "phonetic": "",
-      "translation": "\u4e0d\u53ef\u98df\u7528\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɛdəbəl/",
+      "translation": "不可食用的",
+      "sentence": "If something is inedible, it is not suitable for food.",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "e>e-ed",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

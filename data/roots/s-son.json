@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-son",
-  "root": "son=sound\u58f0\u97f3",
+  "root": "son=sound声音",
   "meaning": "sound",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "声音",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-son",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-son",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

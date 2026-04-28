@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-gam",
-  "root": "gam\u5a5a\u59fb",
+  "root": "gam婚姻",
   "meaning": "gam",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "婚姻",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-gam-bigamist",
       "word": "bigamist",
       "display": "Bigamist",
-      "phonetic": "",
-      "translation": "\u91cd\u65b0\u7ed3\u5a5a\u8005",
-      "sentence": "",
+      "phonetic": "/bˈɪgʌmɪst/",
+      "translation": "重新结婚者",
+      "sentence": "A bigamist is someone who marries one person while already legally married to another.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-gam-bigamous",
       "word": "bigamous",
       "display": "Bigamous",
-      "phonetic": "",
-      "translation": "\u72af\u91cd\u5a5a\u7f6a\u7684",
-      "sentence": "",
+      "phonetic": "/bˈɪgʌmʌs/",
+      "translation": "犯重婚罪的",
+      "sentence": "If something is bigamous, it is of illegal marriage to a second person while legally married to a first.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-gam-bigamy",
       "word": "bigamy",
       "display": "Bigamy",
-      "phonetic": "",
-      "translation": "\u91cd\u5a5a",
-      "sentence": "",
+      "phonetic": "/bˈɪgʌmi/",
+      "translation": "重婚",
+      "sentence": "A bigamy is having two spouses at the same time.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-gam-monogamist",
       "word": "monogamist",
       "display": "Monogamist",
-      "phonetic": "",
-      "translation": "\u4e00\u592b\u4e00\u59bb\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/mʌnˈɑgʌmʌst/",
+      "translation": "一夫一妻主义者",
+      "sentence": "A monogamist is someone who practices monogamy (one spouse at a time).",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-gam-monogamous",
       "word": "monogamous",
       "display": "Monogamous",
-      "phonetic": "",
-      "translation": "\u4e00\u592b\u4e00\u59bb\u5236\u7684",
-      "sentence": "",
+      "phonetic": "/məˈnɑgəməs/",
+      "translation": "一夫一妻制的",
+      "sentence": "monogamous marriage",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "g-gam-monogamy",
       "word": "monogamy",
       "display": "Monogamy",
-      "phonetic": "",
-      "translation": "\u4e00\u592b\u4e00\u59bb",
-      "sentence": "",
+      "phonetic": "/məˈnɑgəmi/",
+      "translation": "一夫一妻",
+      "sentence": "A monogamy is having only one spouse at a time.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "g-gam-polygamist",
       "word": "polygamist",
       "display": "Polygamist",
-      "phonetic": "",
-      "translation": "\u591a\u914d\u5076\u8bba\u8005",
-      "sentence": "",
+      "phonetic": "/pʌlˈɪgʌmʌst/",
+      "translation": "多配偶论者",
+      "sentence": "A polygamist is someone who is married to two or more people at the same time.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "g-gam-polygamous",
       "word": "polygamous",
       "display": "Polygamous",
-      "phonetic": "",
-      "translation": "\u4e00\u592b\u591a\u59bb",
-      "sentence": "",
+      "phonetic": "/pəˈlɪgəməs/",
+      "translation": "一夫多妻",
+      "sentence": "If something is polygamous, it is having more than one mate at a time; used of relationships and individuals.",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-gam",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

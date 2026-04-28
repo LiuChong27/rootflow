@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aeroplane",
   "root": "aeroplane",
-  "meaning": "",
-  "descriptionCn": "\u98de\u673a",
-  "updatedAt": "2026-04-15",
+  "meaning": "aeroplane family",
+  "descriptionCn": "飞机",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aeroplane-aeroplane-2",
       "word": "aeroplane",
       "display": "Aeroplane",
-      "phonetic": "",
-      "translation": "\u98de\u673a",
-      "sentence": "",
+      "phonetic": "/ˈɛrʌplˌoʊn/",
+      "translation": "飞机",
+      "sentence": "the flight was delayed due to trouble with the airplane",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>aer>aeroplane",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

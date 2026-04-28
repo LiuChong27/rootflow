@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "a-prefix",
-  "root": "\u524d\u7f00",
-  "meaning": "",
-  "descriptionCn": "\u524d\u7f00\u5206\u652f",
-  "updatedAt": "2026-04-15",
+  "root": "前缀",
+  "meaning": "prefix branch",
+  "descriptionCn": "前缀分支",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "a",
       "word": "a-",
       "display": "A-",
-      "phonetic": "",
-      "translation": "\u6ca1\u6709\uff1b\u65e0",
-      "sentence": "",
+      "phonetic": "/ə-/",
+      "translation": "没有；无",
+      "sentence": "a typical household circuit carries 15 to 50 amps",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "ad",
       "word": "ad-",
       "display": "Ad-",
-      "phonetic": "",
-      "translation": "\u5411\uff1b\u52a0\u5f3a",
-      "sentence": "",
+      "phonetic": "/æd-/",
+      "translation": "向；加强",
+      "sentence": "in AD 200",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "amphi",
       "word": "amphi-",
       "display": "Amphi-",
-      "phonetic": "",
-      "translation": "\u4e24\u4e2a\uff1b\u5468\u56f4",
-      "sentence": "",
+      "phonetic": "/ˈæmfi/",
+      "translation": "两个；周围",
+      "sentence": "The prefix amphi- often adds the sense of \"两个；周围\" in words like a-, ad-, and ante-.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "ante",
       "word": "ante-",
       "display": "Ante-",
-      "phonetic": "",
-      "translation": "\u5148\u524d",
-      "sentence": "",
+      "phonetic": "/ˈænti-/",
+      "translation": "先前",
+      "sentence": "The prefix ante- often adds the sense of \"先前\" in words like a-, ad-, and amphi-.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "anti",
       "word": "anti-",
       "display": "Anti-",
-      "phonetic": "",
-      "translation": "\u76f8\u53cd\uff1b\u5bf9\u6297",
-      "sentence": "",
+      "phonetic": "/ˈænˌti-/",
+      "translation": "相反；对抗",
+      "sentence": "the antis smelled victory after a long battle",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "apo",
       "word": "apo-",
       "display": "Apo-",
-      "phonetic": "",
-      "translation": "\u8fdc\u79bb",
-      "sentence": "",
+      "phonetic": "/ˈeɪpoʊ/",
+      "translation": "远离",
+      "sentence": "The prefix apo- often adds the sense of \"远离\" in words like a-, ad-, and amphi-.",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "a>a-prefix",
   "type": "section",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

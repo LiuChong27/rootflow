@@ -3,16 +3,16 @@
   "rootId": "amphi-ambi",
   "root": "amphi-=ambi-",
   "meaning": "two/both",
-  "descriptionCn": "\u4e24\u4e2a",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "两个",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambidextrous",
       "word": "ambidextrous",
       "display": "Ambidextrous",
-      "phonetic": "",
-      "translation": "\u4e24\u624b\u90fd\u7075\u5de7\u7684\uff1b\u5f15\u7533\u4e3a\u6b3a\u9a97\u7684",
-      "sentence": "",
+      "phonetic": "/ˌæmbɪˈdɛkstrəs/",
+      "translation": "两手都灵巧的；引申为欺骗的",
+      "sentence": "an ambidextrous surgeon",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "ambiguity",
       "word": "ambiguity",
       "display": "Ambiguity",
-      "phonetic": "",
-      "translation": "\u6a21\u68f1\u4e24\u53ef\uff1b\u542b\u4e49\u6a21\u7cca",
-      "sentence": "",
+      "phonetic": "/ˌæmbɪˈgjuəti/",
+      "translation": "模棱两可；含义模糊",
+      "sentence": "An ambiguity is an expression whose meaning cannot be determined from its context.",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "ambilingual",
       "word": "ambilingual",
       "display": "Ambilingual",
-      "phonetic": "",
-      "translation": "\u901a\u4e24\u56fd\u8bed\u8a00\u7684\u4eba",
-      "sentence": "",
+      "phonetic": "/ˌæmbɪljˈugʌn/",
+      "translation": "通两国语言的人",
+      "sentence": "Ambilingual is used here with the sense of \"通两国语言的人\".",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "ambisexual",
       "word": "ambisexual",
       "display": "Ambisexual",
-      "phonetic": "",
-      "translation": "\u4e24\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/æmbˈɪskʌwˌʌsʌl/",
+      "translation": "两性的",
+      "sentence": "Ambisexual is used here with the sense of \"两性的\".",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "ambit",
       "word": "ambit",
       "display": "Ambit",
-      "phonetic": "",
-      "translation": "\u754c\u9650\uff1b\u8303\u56f4",
-      "sentence": "",
+      "phonetic": "/ˈæmbɪt/",
+      "translation": "界限；范围",
+      "sentence": "the ambit of municipal legislation",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "ambitendency",
       "word": "ambitendency",
       "display": "Ambitendency",
-      "phonetic": "",
-      "translation": "\u81ea\u6211\u77db\u76fe\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæmbɪtɪndin/",
+      "translation": "自我矛盾的",
+      "sentence": "Ambitendency is used here with the sense of \"自我矛盾的\".",
       "tags": [
         "root-family",
         "other"
@@ -88,9 +88,9 @@
       "id": "ambivert",
       "word": "ambivert",
       "display": "Ambivert",
-      "phonetic": "",
-      "translation": "\u4e2d\u95f4\u6027\u683c",
-      "sentence": "",
+      "phonetic": "/ˈæmbɪvɚt/",
+      "translation": "中间性格",
+      "sentence": "Ambivert is used here with the sense of \"中间性格\".",
       "tags": [
         "root-family",
         "other"
@@ -101,9 +101,9 @@
       "id": "amphibian",
       "word": "amphibian",
       "display": "Amphibian",
-      "phonetic": "",
-      "translation": "\u4e24\u6816\u7c7b",
-      "sentence": "",
+      "phonetic": "/æmˈfɪbiən/",
+      "translation": "两栖类",
+      "sentence": "An amphibian is a flat-bottomed motor vehicle that can travel on land or water.",
       "tags": [
         "root-family",
         "other"
@@ -114,9 +114,9 @@
       "id": "amphicar",
       "word": "amphicar",
       "display": "Amphicar",
-      "phonetic": "",
-      "translation": "\u6c34\u9646\u4e24\u7528\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈæmfɪkˌɑr/",
+      "translation": "水陆两用车",
+      "sentence": "Amphicar is used here with the sense of \"水陆两用车\".",
       "tags": [
         "root-family",
         "other"
@@ -127,9 +127,9 @@
       "id": "amphigamy",
       "word": "amphigamy",
       "display": "Amphigamy",
-      "phonetic": "",
-      "translation": "\u53d7\u7cbe\u4f5c\u7528",
-      "sentence": "",
+      "phonetic": "/æmfˈɪgʌmi/",
+      "translation": "受精作用",
+      "sentence": "Amphigamy is used here with the sense of \"受精作用\".",
       "tags": [
         "root-family",
         "other"
@@ -141,5 +141,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-prefix>amphi-ambi",
   "type": "prefix",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

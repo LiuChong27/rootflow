@@ -1,0 +1,50 @@
+[
+  {
+    "id": "office-comeback",
+    "title": "职场",
+    "eyebrow": "OFFICE COMEBACK",
+    "tagline": "甩锅、越界、拖进度、装专业时，办公室里该怎么带刺回去。",
+    "statement": "不用爆粗，也能把不爽说得很扎实。",
+    "theme": "slate-graphite"
+  },
+  {
+    "id": "campus-snark",
+    "title": "校园",
+    "eyebrow": "CAMPUS SNARK",
+    "tagline": "课堂、小组作业、社团、宿舍、考试周，这些场景里的讽刺和回怼全整理出来。",
+    "statement": "校园冲突往往很幼稚，但回嘴不能太幼稚。",
+    "theme": "rose-smoke"
+  },
+  {
+    "id": "cafeteria-chaos",
+    "title": "食堂",
+    "eyebrow": "CAFETERIA CHAOS",
+    "tagline": "排队、抢位、插队、点评别人吃什么，这些食堂场景里的火气全归档。",
+    "statement": "一顿饭而已，有些人偏要吃出火药味。",
+    "theme": "ash-crimson"
+  },
+  {
+    "id": "gaming-rage",
+    "title": "打游戏",
+    "eyebrow": "GAMING RAGE",
+    "tagline": "队友摆烂、乱指挥、瞎开麦、送节奏时，能直接甩出去的短句都放这里。",
+    "statement": "游戏里最怕的不是输，是有人一边送一边吵。",
+    "theme": "arcade-neon"
+  },
+  {
+    "id": "social-platform",
+    "title": "社交平台",
+    "eyebrow": "SOCIAL PLATFORM",
+    "tagline": "评论区、转发区、私信、热评、钓鱼发言，这些线上场景里的反讽全放进来。",
+    "statement": "有些人不值得长篇大论，短句就够了。",
+    "theme": "obsidian-alert"
+  },
+  {
+    "id": "mom-swears",
+    "title": "对喷老外",
+    "eyebrow": "MOM SWEARS",
+    "tagline": "将老外喷的怀疑人生",
+    "statement": "将老外喷的怀疑人生",
+    "theme": "obsidian-alert"
+  }
+]

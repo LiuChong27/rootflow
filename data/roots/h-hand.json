@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "h-hand",
-  "root": "hand\u624b",
+  "root": "hand手",
   "meaning": "hand",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "手",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "h",
-  "rootLevel": 2,
-  "rootPath": "h>h-hand",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "h-hand",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

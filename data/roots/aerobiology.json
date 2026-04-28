@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aerobiology",
   "root": "aerobiology",
-  "meaning": "",
-  "descriptionCn": "\u5927\u6c14\u751f\u7269\u5b66",
-  "updatedAt": "2026-04-15",
+  "meaning": "aerobiology family",
+  "descriptionCn": "大气生物学",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aerobiology-aerobiology-2",
       "word": "aerobiology",
       "display": "Aerobiology",
-      "phonetic": "",
-      "translation": "\u5927\u6c14\u751f\u7269\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌɛroʊbaɪˈɑlʌdʒi/",
+      "translation": "大气生物学",
+      "sentence": "The aerobiology quickly became part of the discussion.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>aer>aerobiology",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

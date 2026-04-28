@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-supply",
-  "root": "supply\u63d0\u4f9b",
+  "root": "supply提供",
   "meaning": "supply",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "提供",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-supply",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-supply",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

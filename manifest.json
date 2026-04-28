@@ -43,16 +43,69 @@
       /* ios打包配置 */
       "ios": {},
       /* SDK配置 */
-      "sdkConfigs": {}
+      "sdkConfigs": {
+        "ad": {}
+      }
     }
   },
   /* 快应用特有相关 */
   "quickapp": {},
   /* 小程序特有相关 */
   "mp-weixin": {
-    "appid": "wx97d8bb89bc935861",
+    "appid": "wx3557eefe54fc9971",
+    "packOptions": {
+      "ignore": [
+        {
+          "type": "folder",
+          "value": "data/raw"
+        },
+        {
+          "type": "folder",
+          "value": "data/roots"
+        },
+        {
+          "type": "folder",
+          "value": "docs"
+        },
+        {
+          "type": "folder",
+          "value": "scripts"
+        },
+        {
+          "type": "folder",
+          "value": "tests"
+        },
+        {
+          "type": "folder",
+          "value": "cloudfunctions"
+        },
+        {
+          "type": "folder",
+          "value": "uniCloud-aliyun"
+        },
+        {
+          "type": "file",
+          "value": "README.md"
+        },
+        {
+          "type": "file",
+          "value": "package-lock.json"
+        },
+        {
+          "type": "file",
+          "value": "package.json"
+        }
+      ]
+    },
     "setting": {
-      "urlCheck": false
+      "urlCheck": false,
+      "es6": true,
+      "postcss": true,
+      "minified": true
+    },
+    "lazyCodeLoading": "requiredComponents",
+    "optimization": {
+      "subPackages": true
     },
     "usingComponents": true
   },

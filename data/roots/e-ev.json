@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-ev",
-  "root": "ev age\u5e74\u9f84 \u65f6\u95f4",
+  "root": "ev age年龄 时间",
   "meaning": "ev",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "年龄 时间",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-ev-coeval",
       "word": "coeval",
       "display": "Coeval",
-      "phonetic": "",
-      "translation": "\u540c\u65f6\u4ee3\u7684",
-      "sentence": "",
+      "phonetic": "/kˈoʊvʌl/",
+      "translation": "同时代的",
+      "sentence": "A coeval is a person of nearly the same age as another.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-ev-epoch",
       "word": "epoch",
       "display": "Epoch",
-      "phonetic": "",
-      "translation": "\u65b0\u7eaa\u5143",
-      "sentence": "",
+      "phonetic": "/ˈɛpək/",
+      "translation": "新纪元",
+      "sentence": "An epoch is a period marked by distinctive character or reckoned from a fixed point or event.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-ev-era",
       "word": "era",
       "display": "Era",
-      "phonetic": "",
-      "translation": "\u65f6\u4ee3\uff1b\u7eaa\u5143\uff1b\u9636\u6bb5",
-      "sentence": "",
+      "phonetic": "/ˈɪrə/",
+      "translation": "时代；纪元；阶段",
+      "sentence": "An era is a period marked by distinctive character or reckoned from a fixed point or event.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-ev-eve",
       "word": "eve",
       "display": "Eve",
-      "phonetic": "",
-      "translation": "\u524d\u5915",
-      "sentence": "",
+      "phonetic": "/iːv/",
+      "translation": "前夕",
+      "sentence": "he always arrives on the eve of her departure",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-ev-evening",
       "word": "evening",
       "display": "Evening",
-      "phonetic": "",
-      "translation": "\u9ec4\u660f",
-      "sentence": "",
+      "phonetic": "/ˈivnɪŋ/",
+      "translation": "黄昏",
+      "sentence": "he enjoyed the evening light across the lake",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "e-ev-ever",
       "word": "ever",
       "display": "Ever",
-      "phonetic": "",
-      "translation": "\u66fe\u7ecf\uff1b\u6c38\u8fdc\uff1b\u7a76\u7adf",
-      "sentence": "",
+      "phonetic": "/ˈɛvər/",
+      "translation": "曾经；永远；究竟",
+      "sentence": "did you ever smoke?",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "e-ev-forever",
       "word": "forever",
       "display": "Forever",
-      "phonetic": "",
-      "translation": "\u6c38\u8fdc=for ever",
-      "sentence": "",
+      "phonetic": "/fərˈɛvər/",
+      "translation": "永远=for ever",
+      "sentence": "no one can live forever",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "e-ev-inevitable",
       "word": "inevitable",
       "display": "Inevitable",
-      "phonetic": "",
-      "translation": "\u4e0d\u53ef\u907f\u514d\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɛvətəbəl/",
+      "translation": "不可避免的",
+      "sentence": "don't argue with the inevitable",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "e-ev-longeval",
       "word": "longeval",
       "display": "Longeval",
-      "phonetic": "",
-      "translation": "\u957f\u547d",
-      "sentence": "",
+      "phonetic": "/lˈɔŋgʌlɑv/",
+      "translation": "长命",
+      "sentence": "Longeval is used here with the sense of \"长命\".",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "e-ev-longevous",
       "word": "longevous",
       "display": "Longevous",
-      "phonetic": "",
-      "translation": "\u957f\u5bff",
-      "sentence": "",
+      "phonetic": "/lˈɔŋgʌvʌs/",
+      "translation": "长寿",
+      "sentence": "Longevous is used here with the sense of \"长寿\".",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "e-ev-mediaeval",
       "word": "mediaeval",
       "display": "Mediaeval",
-      "phonetic": "",
-      "translation": "\u4e2d\u53e4\u7684",
-      "sentence": "",
+      "phonetic": "/mˌidiʌvˈeɪli/",
+      "translation": "中古的",
+      "sentence": "Medieval scholars",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "e-ev-medieval",
       "word": "medieval",
       "display": "Medieval",
-      "phonetic": "",
-      "translation": "\u4e2d\u4e16\u7eaa",
-      "sentence": "",
+      "phonetic": "/mɪˈdjivəl/",
+      "translation": "中世纪",
+      "sentence": "Medieval scholars",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "e-ev-never",
       "word": "never",
       "display": "Never",
-      "phonetic": "",
-      "translation": "\u7edd\u4e0d",
-      "sentence": "",
+      "phonetic": "/ˈnɛvər/",
+      "translation": "绝不",
+      "sentence": "I have never been to China",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "e-ev-nevertheless",
       "word": "nevertheless",
       "display": "Nevertheless",
-      "phonetic": "",
-      "translation": "\u7136\u800c",
-      "sentence": "",
+      "phonetic": "/ˌnɛvərðəˈlɛs/",
+      "translation": "然而",
+      "sentence": "while we disliked each other, nevertheless we agreed",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "e-ev-primeval",
       "word": "primeval",
       "display": "Primeval",
-      "phonetic": "",
-      "translation": "\u6700\u521d\u7684\uff1b\u65e9\u671f",
-      "sentence": "",
+      "phonetic": "/praɪˈmivəl/",
+      "translation": "最初的；早期",
+      "sentence": "the forest primeval",
       "tags": [
         "root-family"
       ],
@@ -191,5 +191,6 @@
   "rootLevel": 2,
   "rootPath": "e>e-ev",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-grav",
-  "root": "grav=heavy\u91cd",
+  "root": "grav=heavy重",
   "meaning": "grav",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "重",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-grav-aggravate",
       "word": "aggravate",
       "display": "Aggravate",
-      "phonetic": "",
-      "translation": "\u52a0\u91cd\uff1b\u4f7f\u6076\u5316",
-      "sentence": "",
+      "phonetic": "/ˈægrəˌveɪt/",
+      "translation": "加重；使恶化",
+      "sentence": "This drug aggravates the pain",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-grav-aggravation",
       "word": "aggravation",
       "display": "Aggravation",
-      "phonetic": "",
-      "translation": "\u52a0\u91cd",
-      "sentence": "",
+      "phonetic": "/ˌægrəˈveɪʃən/",
+      "translation": "加重",
+      "sentence": "the aggravation of her condition resulted from lack of care",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-grav-grave",
       "word": "grave",
       "display": "Grave",
-      "phonetic": "",
-      "translation": "\u4e25\u8083\u7684\uff1b\u5e84\u91cd\u7684",
-      "sentence": "",
+      "phonetic": "/greɪv/",
+      "translation": "严肃的；庄重的",
+      "sentence": "he went to his grave without forgiving me",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-grav-gravid",
       "word": "gravid",
       "display": "Gravid",
-      "phonetic": "",
-      "translation": "\u6000\u5b55\u7684",
-      "sentence": "",
+      "phonetic": "/grˈævʌd/",
+      "translation": "怀孕的",
+      "sentence": "was big with child",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-grav-gravific",
       "word": "gravific",
       "display": "Gravific",
-      "phonetic": "",
-      "translation": "\u4f7f\u53d8\u91cd",
-      "sentence": "",
+      "phonetic": "/grʌvˈɪfɪk/",
+      "translation": "使变重",
+      "sentence": "Gravific is used here with the sense of \"使变重\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "g-grav-gravisphere",
       "word": "gravisphere",
       "display": "Gravisphere",
-      "phonetic": "",
-      "translation": "\u5f15\u529b\u5c42",
-      "sentence": "",
+      "phonetic": "/grˈævɪsfˌɪr/",
+      "translation": "引力层",
+      "sentence": "Gravisphere is used here with the sense of \"引力层\".",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "g-grav-gravity",
       "word": "gravity",
       "display": "Gravity",
-      "phonetic": "",
-      "translation": "\u5e84\u91cd\uff1b\u91cd\u529b",
-      "sentence": "",
+      "phonetic": "/ˈgrævɪti/",
+      "translation": "庄重；重力",
+      "sentence": "the more remote the body the less the gravity",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "g-grav-grief",
       "word": "grief",
       "display": "Grief",
-      "phonetic": "",
-      "translation": "\u60b2\u75db",
-      "sentence": "",
+      "phonetic": "/griːf/",
+      "translation": "悲痛",
+      "sentence": "her death was a great grief to John",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "g-grav-grieve",
       "word": "grieve",
       "display": "Grieve",
-      "phonetic": "",
-      "translation": "\u60b2\u75db",
-      "sentence": "",
+      "phonetic": "/griːv/",
+      "translation": "悲痛",
+      "sentence": "his behavior grieves his mother",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-grav",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

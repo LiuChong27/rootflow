@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "m-operation-min",
-  "root": "min=project\u4f38\u51fa",
+  "root": "min=project伸出",
   "meaning": "project",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "伸出",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "m-operation",
-  "rootLevel": 3,
-  "rootPath": "m>m-operation>m-operation-min",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "m-operation-min",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

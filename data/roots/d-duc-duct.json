@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-duc-duct",
-  "root": "duc duct lead \u5f15\u5bfc\uff1b\u6559\u5bfc",
+  "root": "duc duct lead 引导；教导",
   "meaning": "lead",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "引导；教导",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-duc-duct-abduct",
       "word": "abduct",
       "display": "Abduct",
-      "phonetic": "",
-      "translation": "\u8bf1\u62d0\uff1b\u7ed1\u67b6",
-      "sentence": "",
+      "phonetic": "/æbˈdəkt/",
+      "translation": "诱拐；绑架",
+      "sentence": "this muscle abducts",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-duc-duct-adduce",
       "word": "adduce",
       "display": "Adduce",
-      "phonetic": "",
-      "translation": "\u5f15\u8bc1\uff1b\u4e3e\u51fa",
-      "sentence": "",
+      "phonetic": "/ˈædʌs/",
+      "translation": "引证；举出",
+      "sentence": "To adduce is to advance evidence for.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-duc-duct-adduct",
       "word": "adduct",
       "display": "Adduct",
-      "phonetic": "",
-      "translation": "\u5185\u6536\u808c",
-      "sentence": "",
+      "phonetic": "/ˈædəkt/",
+      "translation": "内收肌",
+      "sentence": "adduct the thigh muscle",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-duc-duct-deduce",
       "word": "deduce",
       "display": "Deduce",
-      "phonetic": "",
-      "translation": "\u6f14\u7ece\uff1b\u63a8\u65ad",
-      "sentence": "",
+      "phonetic": "/dɪˈdus/",
+      "translation": "演绎；推断",
+      "sentence": "To deduce is to reason by deduction; establish by deduction.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-duc-duct-duct",
       "word": "duct",
       "display": "Duct",
-      "phonetic": "",
-      "translation": "\u7ba1\u5b50\uff1b\u8fd0\u8f93\u7ba1",
-      "sentence": "",
+      "phonetic": "/dəkt/",
+      "translation": "管子；运输管",
+      "sentence": "the tear duct was obstructed",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-duc-duct-educate",
       "word": "educate",
       "display": "Educate",
-      "phonetic": "",
-      "translation": "\u6559\u80b2\uff1b\u57f9\u517b",
-      "sentence": "",
+      "phonetic": "/ˈɛʤəˌkeɪt/",
+      "translation": "教育；培养",
+      "sentence": "We must educate our youngsters better",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-duc-duct-educe",
       "word": "educe",
       "display": "Educe",
-      "phonetic": "",
-      "translation": "\u5f15\u8bf1",
-      "sentence": "",
+      "phonetic": "/ˈɛdʒʌs/",
+      "translation": "引诱",
+      "sentence": "We drew out some interesting linguistic data from the native informant",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-duc-duct-induce",
       "word": "induce",
       "display": "Induce",
-      "phonetic": "",
-      "translation": "\u5f15\u8bf1",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdus/",
+      "translation": "引诱",
+      "sentence": "induce a crisis",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-duc-duct-induct",
       "word": "induct",
       "display": "Induct",
-      "phonetic": "",
-      "translation": "\u5f15\u5165",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdəkt/",
+      "translation": "引入",
+      "sentence": "there was a ceremony to induct the president of the Academy",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-duc-duct-introduction",
       "word": "introduction",
       "display": "Introduction",
-      "phonetic": "",
-      "translation": "\u4ecb\u7ecd",
-      "sentence": "",
+      "phonetic": "/ˌɪntrəˈdəkʃən/",
+      "translation": "介绍",
+      "sentence": "they resisted the introduction of impractical alternatives",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-duc-duct-produce",
       "word": "produce",
       "display": "Produce",
-      "phonetic": "",
-      "translation": "\u63d0\u51fa\uff1b\u751f\u4ea7\uff1b\u4ea7\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈproʊdus/",
+      "translation": "提出；生产；产品",
+      "sentence": "The tree would not produce fruit",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-duc-duct-product",
       "word": "product",
       "display": "Product",
-      "phonetic": "",
-      "translation": "\u4ea7\u7269",
-      "sentence": "",
+      "phonetic": "/ˈprɑdəkt/",
+      "translation": "产物",
+      "sentence": "that store offers a variety of products",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-duc-duct-traduce",
       "word": "traduce",
       "display": "Traduce",
-      "phonetic": "",
-      "translation": "\u8bcb\u6bc1\uff1b\u8bfd\u8c24",
-      "sentence": "",
+      "phonetic": "/trˈædus/",
+      "translation": "诋毁；诽谤",
+      "sentence": "She badmouths her husband everywhere",
       "tags": [
         "root-family"
       ],
@@ -167,5 +167,6 @@
   "rootLevel": 2,
   "rootPath": "d>d-duc-duct",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

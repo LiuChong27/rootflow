@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-mind",
-  "root": "\u795e\u5fd7",
+  "root": "神志",
   "meaning": "mind",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "神志",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-mind-sat",
       "word": "sat",
       "display": "Sat",
-      "phonetic": "",
-      "translation": "\u6ee1\u8db3",
-      "sentence": "",
+      "phonetic": "/sæt/",
+      "translation": "满足",
+      "sentence": "The object sat in the corner",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-mind-satis",
       "word": "satis",
       "display": "Satis",
-      "phonetic": "",
-      "translation": "\u6ee1\u8db3",
-      "sentence": "",
+      "phonetic": "/sˈætɪs/",
+      "translation": "满足",
+      "sentence": "Satis is used here with the sense of \"满足\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-mind-satisfy",
       "word": "satisfy",
       "display": "Satisfy",
-      "phonetic": "",
-      "translation": "\u6ee1\u610f",
-      "sentence": "",
+      "phonetic": "/ˈsætɪsˌfaɪ/",
+      "translation": "满意",
+      "sentence": "To satisfy is to meet the requirements or expectations of.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-mind-satur",
       "word": "satur",
       "display": "Satur",
-      "phonetic": "",
-      "translation": "\u6ee1\u8db3",
-      "sentence": "",
+      "phonetic": "/sˈætʊr/",
+      "translation": "满足",
+      "sentence": "Satur is used here with the sense of \"满足\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-mind-saturate",
       "word": "saturate",
       "display": "Saturate",
-      "phonetic": "",
-      "translation": "\u6d78\u900f",
-      "sentence": "",
+      "phonetic": "/ˈsæʧərˌeɪt/",
+      "translation": "浸透",
+      "sentence": "Impregnate the cloth with alcohol",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-mind-sens",
       "word": "sens",
       "display": "Sens",
-      "phonetic": "",
-      "translation": "\u611f\u89c9",
-      "sentence": "",
+      "phonetic": "/sɛnz/",
+      "translation": "感觉",
+      "sentence": "A sens is street names for marijuana.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-mind-sense",
       "word": "sense",
       "display": "Sense",
-      "phonetic": "",
-      "translation": "\u611f\u89c9",
-      "sentence": "",
+      "phonetic": "/sɛns/",
+      "translation": "感觉",
+      "sentence": "a sense of security",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-mind-sensible",
       "word": "sensible",
       "display": "Sensible",
-      "phonetic": "",
-      "translation": "\u660e\u667a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɛnsəbəl/",
+      "translation": "明智的",
+      "sentence": "a sensible choice",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-mind-sensitive",
       "word": "sensitive",
       "display": "Sensitive",
-      "phonetic": "",
-      "translation": "\u654f\u611f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɛnsɪtɪv/",
+      "translation": "敏感的",
+      "sentence": "a mimosa's leaves are sensitive to touch",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-mind-sent",
       "word": "sent",
       "display": "Sent",
-      "phonetic": "",
-      "translation": "\u611f\u89c9",
-      "sentence": "",
+      "phonetic": "/sɛnt/",
+      "translation": "感觉",
+      "sentence": "The explosion sent the car flying in the air",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-mind-sentiment",
       "word": "sentiment",
       "display": "Sentiment",
-      "phonetic": "",
-      "translation": "\u611f\u60c5",
-      "sentence": "",
+      "phonetic": "/ˈsɛnəmənt/",
+      "translation": "感情",
+      "sentence": "my opinion differs from yours",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-mind-servant",
       "word": "servant",
       "display": "Servant",
-      "phonetic": "",
-      "translation": "\u4ec6\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈsərvənt/",
+      "translation": "仆人",
+      "sentence": "the state cannot be a servant of the church",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-mind-serve",
       "word": "serve",
       "display": "Serve",
-      "phonetic": "",
-      "translation": "\u670d\u52a1",
-      "sentence": "",
+      "phonetic": "/sərv/",
+      "translation": "服务",
+      "sentence": "his powerful serves won the game",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-mind-service",
       "word": "service",
       "display": "Service",
-      "phonetic": "",
-      "translation": "\u670d\u52a1",
-      "sentence": "",
+      "phonetic": "/ˈsərvɪs/",
+      "translation": "服务",
+      "sentence": "budget separately for goods and services",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-mind-sore",
       "word": "sore",
       "display": "Sore",
-      "phonetic": "",
-      "translation": "\u75bc\u75db\u7684",
-      "sentence": "",
+      "phonetic": "/sɔr/",
+      "translation": "疼痛的",
+      "sentence": "it was a sore trial to him",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-mind-sorrow",
       "word": "sorrow",
       "display": "Sorrow",
-      "phonetic": "",
-      "translation": "\u60b2\u75db",
-      "sentence": "",
+      "phonetic": "/ˈsɑroʊ/",
+      "translation": "悲痛",
+      "sentence": "he tried to express his sorrow at her loss",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-mind-sorry",
       "word": "sorry",
       "display": "Sorry",
-      "phonetic": "",
-      "translation": "\u96be\u8fc7",
-      "sentence": "",
+      "phonetic": "/ˈsɑri/",
+      "translation": "难过",
+      "sentence": "a sorry state of affairs",
       "tags": [
         "root-family"
       ],
@@ -215,5 +215,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-mind",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-soph",
-  "root": "soph\u667a\u6167",
+  "root": "soph智慧",
   "meaning": "wisdom",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "智慧",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-soph",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-soph",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

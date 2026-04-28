@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "antenna",
   "root": "antenna",
-  "meaning": "",
-  "descriptionCn": "\u89e6\u89d2\uff1b\u5929\u7ebf",
-  "updatedAt": "2026-04-15",
+  "meaning": "antenna family",
+  "descriptionCn": "触角；天线",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "antenna-antenna-2",
       "word": "antenna",
       "display": "Antenna",
-      "phonetic": "",
-      "translation": "\u89e6\u89d2\uff1b\u5929\u7ebf",
-      "sentence": "",
+      "phonetic": "/ænˈtɛnə/",
+      "translation": "触角；天线",
+      "sentence": "he had a special antenna for public relations",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>ante>antenna",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

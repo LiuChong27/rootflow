@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "amphi-emotion",
-  "root": "\u60c5\u611f/\u6027\u683c",
-  "meaning": "",
-  "descriptionCn": "\u60c5\u611f/\u6027\u683c\u7c7b\u6d3e\u751f",
-  "updatedAt": "2026-04-15",
+  "root": "情感/性格",
+  "meaning": "emotion/trait forms",
+  "descriptionCn": "情感/性格类派生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ambidextrous-amphi-emotion-2",
       "word": "ambidextrous",
       "display": "Ambidextrous",
-      "phonetic": "",
-      "translation": "\u4e24\u624b\u90fd\u7075\u5de7\u7684\uff1b\u5f15\u7533\u4e3a\u6b3a\u9a97\u7684",
-      "sentence": "",
+      "phonetic": "/ˌæmbɪˈdɛkstrəs/",
+      "translation": "两手都灵巧的；引申为欺骗的",
+      "sentence": "an ambidextrous surgeon",
       "tags": [
         "root-family",
         "emotion"
@@ -23,9 +23,9 @@
       "id": "ambisexual-amphi-emotion-2",
       "word": "ambisexual",
       "display": "Ambisexual",
-      "phonetic": "",
-      "translation": "\u4e24\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/æmbˈɪskʌwˌʌsʌl/",
+      "translation": "两性的",
+      "sentence": "Ambisexual is used here with the sense of \"两性的\".",
       "tags": [
         "root-family",
         "emotion"
@@ -36,9 +36,9 @@
       "id": "ambitendency-amphi-emotion-2",
       "word": "ambitendency",
       "display": "Ambitendency",
-      "phonetic": "",
-      "translation": "\u81ea\u6211\u77db\u76fe\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæmbɪtɪndin/",
+      "translation": "自我矛盾的",
+      "sentence": "Ambitendency is used here with the sense of \"自我矛盾的\".",
       "tags": [
         "root-family",
         "emotion"
@@ -49,9 +49,9 @@
       "id": "ambivert-amphi-emotion-2",
       "word": "ambivert",
       "display": "Ambivert",
-      "phonetic": "",
-      "translation": "\u4e2d\u95f4\u6027\u683c",
-      "sentence": "",
+      "phonetic": "/ˈæmbɪvɚt/",
+      "translation": "中间性格",
+      "sentence": "Ambivert is used here with the sense of \"中间性格\".",
       "tags": [
         "root-family",
         "emotion"
@@ -63,5 +63,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>amphi-ambi>amphi-emotion",
   "type": "category",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "f-fac",
-  "root": "fac\u505a",
+  "root": "fac做",
   "meaning": "fac",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "做",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "f",
-  "rootLevel": 2,
-  "rootPath": "f>f-fac",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "f-fac",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

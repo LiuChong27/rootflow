@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-neg",
-  "root": "neg\u5426\u8ba4",
+  "root": "neg否认",
   "meaning": "deny",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "否认",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-neg-negate",
       "word": "negate",
       "display": "Negate",
-      "phonetic": "",
-      "translation": "\u5426\u8ba4",
-      "sentence": "",
+      "phonetic": "/nɪˈgeɪt/",
+      "translation": "否认",
+      "sentence": "This action will negate the effect of my efforts",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-neg-negative",
       "word": "negative",
       "display": "Negative",
-      "phonetic": "",
-      "translation": "\u5426\u5b9a\u7684\uff1b\u6d88\u6781\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɛgətɪv/",
+      "translation": "否定的；消极的",
+      "sentence": "he answered in the negative",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-neg-neglect",
       "word": "neglect",
       "display": "Neglect",
-      "phonetic": "",
-      "translation": "\u5ffd\u7565",
-      "sentence": "",
+      "phonetic": "/nɪˈglɛkt/",
+      "translation": "忽略",
+      "sentence": "the house was in a terrible state of neglect",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-neg-negligence",
       "word": "negligence",
       "display": "Negligence",
-      "phonetic": "",
-      "translation": "\u758f\u5ffd",
-      "sentence": "",
+      "phonetic": "/ˈnɛglɪʤəns/",
+      "translation": "疏忽",
+      "sentence": "A negligence is failure to act with the prudence that a reasonable person would exercise under the same circumstances.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-neg-negligible",
       "word": "negligible",
       "display": "Negligible",
-      "phonetic": "",
-      "translation": "\u5fae\u4e0d\u8db3\u9053\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɛglɪʤəbəl/",
+      "translation": "微不足道的",
+      "sentence": "the effect was negligible",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-neg-negotiate",
       "word": "negotiate",
       "display": "Negotiate",
-      "phonetic": "",
-      "translation": "\u8c08\u5224",
-      "sentence": "",
+      "phonetic": "/nɪˈgoʊʃiˌeɪt/",
+      "translation": "谈判",
+      "sentence": "They negotiated the sale of the house",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-neg-never",
       "word": "never",
       "display": "Never",
-      "phonetic": "",
-      "translation": "\u7edd\u4e0d",
-      "sentence": "",
+      "phonetic": "/ˈnɛvər/",
+      "translation": "绝不",
+      "sentence": "I have never been to China",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "n-neg-nevertheless",
       "word": "nevertheless",
       "display": "Nevertheless",
-      "phonetic": "",
-      "translation": "\u7136\u800c\uff1b\u4e0d\u8fc7",
-      "sentence": "",
+      "phonetic": "/ˌnɛvərðəˈlɛs/",
+      "translation": "然而；不过",
+      "sentence": "while we disliked each other, nevertheless we agreed",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "n-neg-renege",
       "word": "renege",
       "display": "Renege",
-      "phonetic": "",
-      "translation": "\u98df\u8a00\uff1b\u5426\u8ba4\uff1b\u62d2\u7edd",
-      "sentence": "",
+      "phonetic": "/rɪˈnɪg/",
+      "translation": "食言；否认；拒绝",
+      "sentence": "She backed out of her promise",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-neg",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

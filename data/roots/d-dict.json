@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-dict",
-  "root": "dict \u8bf4 \u5ba3\u544a",
+  "root": "dict 说 宣告",
   "meaning": "dict",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "说 宣告",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-dict-abdicant",
       "word": "abdicant",
       "display": "Abdicant",
-      "phonetic": "",
-      "translation": "\u9000\u4f4d\u8005",
-      "sentence": "",
+      "phonetic": "/æbdˈɪkʌnt/",
+      "translation": "退位者",
+      "sentence": "Abdicant is used here with the sense of \"退位者\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-dict-abdicate",
       "word": "abdicate",
       "display": "Abdicate",
-      "phonetic": "",
-      "translation": "\u653e\u5f03\uff1b\u8f9e\u804c",
-      "sentence": "",
+      "phonetic": "/ˈæbdəˌkeɪt/",
+      "translation": "放弃；辞职",
+      "sentence": "The King abdicated when he married a divorcee",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-dict-abdication",
       "word": "abdication",
       "display": "Abdication",
-      "phonetic": "",
-      "translation": "\u5f03\u6743\uff1b\u8ba9\u4f4d",
-      "sentence": "",
+      "phonetic": "/ˌæbdɪˈkeɪʃən/",
+      "translation": "弃权；让位",
+      "sentence": "An abdication is a formal resignation and renunciation of powers.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-dict-addiction",
       "word": "addiction",
       "display": "Addiction",
-      "phonetic": "",
-      "translation": "\u4e0a\u763e",
-      "sentence": "",
+      "phonetic": "/əˈdɪkʃən/",
+      "translation": "上瘾",
+      "sentence": "under Roman law addiction was the justification for slavery",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-dict-addictology",
       "word": "addictology",
       "display": "Addictology",
-      "phonetic": "",
-      "translation": "\u763e\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌædʌktˈɑlʌdʒi/",
+      "translation": "瘾学",
+      "sentence": "Addictology is used here with the sense of \"瘾学\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-dict-dedicate",
       "word": "dedicate",
       "display": "Dedicate",
-      "phonetic": "",
-      "translation": "\u732e\u8eab\u4e8e",
-      "sentence": "",
+      "phonetic": "/ˈdɛdəˌkeɪt/",
+      "translation": "献身于",
+      "sentence": "She dedicated her book to her parents",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-dict-dictate",
       "word": "dictate",
       "display": "Dictate",
-      "phonetic": "",
-      "translation": "\u53e3\u8ff0\uff1b\u6307\u4ee4",
-      "sentence": "",
+      "phonetic": "/ˈdɪkˌteɪt/",
+      "translation": "口述；指令",
+      "sentence": "the dictates of reason",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-dict-dictation",
       "word": "dictation",
       "display": "Dictation",
-      "phonetic": "",
-      "translation": "\u542c\u5199\uff1b\u53e3\u8ff0",
-      "sentence": "",
+      "phonetic": "/dɪkˈteɪʃən/",
+      "translation": "听写；口述",
+      "sentence": "he signed and mailed his dictation without bothering to read it",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-dict-dictator",
       "word": "dictator",
       "display": "Dictator",
-      "phonetic": "",
-      "translation": "\u72ec\u88c1\u8005\uff1b\u4e13\u5236\u541b\u4e3b",
-      "sentence": "",
+      "phonetic": "/ˈdɪkteɪtər/",
+      "translation": "独裁者；专制君主",
+      "sentence": "my boss is a dictator who makes everyone work overtime",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-dict-diction",
       "word": "diction",
       "display": "Diction",
-      "phonetic": "",
-      "translation": "\u63aa\u8f9e",
-      "sentence": "",
+      "phonetic": "/ˈdɪkʃən/",
+      "translation": "措辞",
+      "sentence": "use concise military verbiage",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-dict-dictionary",
       "word": "dictionary",
       "display": "Dictionary",
-      "phonetic": "",
-      "translation": "\u8bcd\u5178",
-      "sentence": "",
+      "phonetic": "/ˈdɪkʃəˌnɛri/",
+      "translation": "词典",
+      "sentence": "A dictionary is a reference book containing an alphabetical list of words with information about them.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-dict-dictum",
       "word": "dictum",
       "display": "Dictum",
-      "phonetic": "",
-      "translation": "\u6743\u5a01\u7684\u65ad\u8a00\uff1b\u683c\u8a00\uff1b\u8b66\u53e5",
-      "sentence": "",
+      "phonetic": "/ˈdɪktəm/",
+      "translation": "权威的断言；格言；警句",
+      "sentence": "A dictum is an authoritative declaration.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-dict-predicate",
       "word": "predicate",
       "display": "Predicate",
-      "phonetic": "",
-      "translation": "\u65ad\u8a00\uff1b\u8c13\u8bed",
-      "sentence": "",
+      "phonetic": "/ˈprɛdɪkət/",
+      "translation": "断言；谓语",
+      "sentence": "`Socrates is a man' predicates manhood of Socrates",
       "tags": [
         "root-family"
       ],
@@ -167,5 +167,6 @@
   "rootLevel": 2,
   "rootPath": "d>d-dict",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

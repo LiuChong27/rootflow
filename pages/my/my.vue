@@ -1,297 +1,177 @@
-﻿<template>
-  <view class="my-container" :class="currentTheme">
-    <!-- 头部用户信息 -->
-    <view class="profile-header" @tap="handleLogin">
-      <image class="avatar" :src="userInfo.avatar || '/static/logo.png'" mode="aspectFill"></image>
-      <view class="user-info">
-        <text class="name">{{ userInfo.isLogged ? userInfo.name : '点击登录' }}</text>
-        <text class="status">{{
-          userInfo.isLogged ? sessionStatusText : '接入微信登录与云同步'
-        }}</text>
-      </view>
-      <view class="arrow">›</view>
+<template>
+  <view class="my-page" :class="currentTheme">
+    <theme-toggle-fab :theme="currentTheme" />
+
+    <view class="page-head">
+      <text class="page-head__title">我的</text>
     </view>
 
-    <!-- 核心数据看板 -->
-    <view class="stats-area">
-      <view class="stat-card">
-        <text class="num">{{ stats.mastered }}</text>
-        <text class="label">成熟果实</text>
+    <view class="account-card" @tap="handleAccountTap">
+      <image class="account-card__avatar" :src="avatarUrl" mode="aspectFill" />
+      <view class="account-card__meta">
+        <text class="account-card__name">{{ displayName }}</text>
+        <text class="account-card__status">{{ statusText }}</text>
       </view>
-      <view class="stat-card line-divider"></view>
-      <view class="stat-card">
-        <text class="num">{{ stats.roots }}</text>
-        <text class="label">点亮词根</text>
-      </view>
-      <view class="stat-card line-divider"></view>
-      <view class="stat-card">
-        <text class="num">{{ stats.days }}</text>
-        <text class="label">静心天数</text>
-      </view>
+      <text class="account-card__arrow">›</text>
     </view>
 
-    <!-- 功能列表 -->
-    <view class="action-list">
-      <view class="action-group">
-        <view class="action-item" @tap="toggleTheme">
-          <view class="item-left">
-            <text class="icon">{{ currentTheme === 'theme-dark-zen' ? '🌙' : '🍦' }}</text>
-            <text class="item-text">视觉风格</text>
-          </view>
-          <view class="item-right">
-            <text class="item-desc">{{
-              currentTheme === 'theme-dark-zen' ? '暗黑禅意' : '奶油黏土'
-            }}</text>
-            <text class="arrow">›</text>
-          </view>
-        </view>
-        <view class="action-item" @tap="viewHistory">
-          <view class="item-left">
-            <text class="icon">📈</text>
-            <text class="item-text">记忆生长曲线</text>
-          </view>
-          <view class="item-right"><text class="arrow">›</text></view>
-        </view>
-        <view class="action-item" @tap="syncNow">
-          <view class="item-left">
-            <text class="icon">☁️</text>
-            <text class="item-text">立即同步</text>
-          </view>
-          <view class="item-right">
-            <text class="item-desc">{{ syncStatusText }}</text>
-            <text class="arrow">›</text>
-          </view>
-        </view>
-        <view class="action-item" @tap="openCloudConfig">
-          <view class="item-left">
-            <text class="icon">⚙️</text>
-            <text class="item-text">云环境配置</text>
-          </view>
-          <view class="item-right">
-            <text class="item-desc">{{ cloudEnvSummary }}</text>
-            <text class="arrow">›</text>
-          </view>
-        </view>
+    <view class="stats-grid">
+      <view class="stat-card">
+        <text class="stat-card__value">{{ stats.todayCompleted }}</text>
+        <text class="stat-card__label">今日完成</text>
       </view>
-
-      <view class="action-group" v-if="userInfo.isLogged">
-        <view class="action-item" @tap="clearMemory">
-          <view class="item-left">
-            <text class="icon">🧹</text>
-            <text class="item-text danger-text">清空画布 (重置记忆)</text>
-          </view>
-        </view>
+      <view class="stat-card">
+        <text class="stat-card__value">{{ stats.due }}</text>
+        <text class="stat-card__label">待复习</text>
+      </view>
+      <view class="stat-card">
+        <text class="stat-card__value">{{ stats.mastered }}</text>
+        <text class="stat-card__label">已掌握</text>
+      </view>
+      <view class="stat-card">
+        <text class="stat-card__value">{{ stats.days }}</text>
+        <text class="stat-card__label">连续天数</text>
       </view>
     </view>
 
-    <view class="version-text">RootFlow v1.0.0 | 极简减法</view>
+    <view class="section-card">
+      <view class="menu-row" @tap="goToday">
+        <text class="menu-row__title">今日学习</text>
+        <text class="menu-row__arrow">›</text>
+      </view>
+      <view class="menu-row" @tap="goPractice">
+        <text class="menu-row__title">进入复习</text>
+        <text class="menu-row__arrow">›</text>
+      </view>
+      <view class="menu-row" @tap="goRoots">
+        <text class="menu-row__title">词根图谱</text>
+        <text class="menu-row__arrow">›</text>
+      </view>
+      <view class="menu-row" @tap="goDownloads">
+        <text class="menu-row__title">资料下载中心</text>
+        <text class="menu-row__arrow">›</text>
+      </view>
+    </view>
+
+    <view class="section-card">
+      <view class="menu-row menu-row--danger" @tap="clearMemory">
+        <text class="menu-row__title">清空学习记录</text>
+        <text class="menu-row__arrow">›</text>
+      </view>
+      <view v-if="userInfo.isLogged" class="menu-row menu-row--danger" @tap="handleLogout">
+        <text class="menu-row__title">退出登录</text>
+        <text class="menu-row__arrow">›</text>
+      </view>
+    </view>
   </view>
 </template>
 
 <script>
+import themePage from '../../mixins/themePage';
 import authService from '../../services/authService';
-import { getCloudCapabilityStatus } from '../../services/cloudService';
-import progressSyncService from '../../services/progressSyncService';
+import { getProgressSyncService, getWordRepo } from '../../services/lazyServices';
+
+function buildUserState(session = authService.getStoredSession()) {
+  return {
+    isLogged: Boolean(session.userId),
+    name: session.nickName || '',
+    avatar: session.avatarUrl || '',
+  };
+}
+
+function createStatsState(stats = {}) {
+  return {
+    mastered: Number(stats.masteredWords || 0),
+    days: Number(stats.streakDays || 0),
+    due: Number(stats.dueWords || 0),
+    todayCompleted: Number(stats.todayCompletedWords || 0),
+  };
+}
 
 export default {
+  mixins: [themePage],
   data() {
     return {
-      currentTheme: 'theme-dark-zen',
-      userInfo: {
-        isLogged: false,
-        name: '',
-        avatar: '',
-      },
-      stats: {
-        mastered: '--',
-        roots: '--',
-        days: '--',
-      },
-      isSyncing: false,
-      lastSyncAt: 0,
-      cloudStatus: {
-        configured: false,
-        envId: '',
-        ok: false,
-        code: '',
-        message: '',
-      },
+      userInfo: buildUserState(),
+      stats: createStatsState(),
     };
   },
   computed: {
-    sessionStatusText() {
-      if (!this.userInfo.isLogged) return '';
-      if (this.isSyncing) return '云端同步中...';
-      if (this.lastSyncAt) {
-        return `已连接云端 · ${this.formatSyncTime(this.lastSyncAt)}`;
+    avatarUrl() {
+      return this.userInfo.avatar || '/static/logo.png';
+    },
+    displayName() {
+      if (this.userInfo.isLogged) {
+        return this.userInfo.name || '微信用户';
       }
-      return '已连接微信用户';
+      return '未登录';
     },
-    syncStatusText() {
-      if (!this.userInfo.isLogged) return '未登录';
-      if (this.isSyncing) return '同步中';
-      return this.lastSyncAt ? this.formatSyncTime(this.lastSyncAt) : '未同步';
-    },
-    cloudEnvSummary() {
-      if (!this.cloudStatus.configured) return '未配置';
-      if (this.cloudStatus.ok) return '已就绪';
-      return '待检测';
+    statusText() {
+      return this.userInfo.isLogged ? '已登录' : '点击登录';
     },
   },
-  async onShow() {
-    // 每次显示页面(多Tab切换)均从本地存储同步主题状态，保证全局同步
-    const savedTheme = uni.getStorageSync('user_theme');
-    if (savedTheme) {
-      this.currentTheme = savedTheme;
-    }
-
-    await this.refreshUserState();
-    this.cloudStatus = getCloudCapabilityStatus();
+  onShow() {
+    this.userInfo = buildUserState();
+    this.refreshStats();
   },
   methods: {
-    async refreshUserState() {
-      const session = authService.getStoredSession();
-      this.lastSyncAt = Number(session.lastSyncAt || 0);
-      if (!session.userId) {
-        this.userInfo = { isLogged: false, name: '', avatar: '' };
-        const stats = progressSyncService.getLocalProgressStats();
-        this.stats = {
-          mastered: stats.masteredWords || 0,
-          roots: stats.masteredRoots || 0,
-          days: stats.streakDays || 0,
-        };
-        return;
-      }
-
-      this.userInfo = {
-        isLogged: true,
-        name: session.nickName || 'RootFlow 用户',
-        avatar: session.avatarUrl || '/static/logo.png',
-      };
-
+    async refreshStats() {
       try {
-        const hydrated = await progressSyncService.hydrateProgressFromCloud();
-        const stats =
-          hydrated && hydrated.stats ? hydrated.stats : progressSyncService.getLocalProgressStats();
-        this.stats = {
-          mastered: stats.masteredWords || 0,
-          roots: stats.masteredRoots || 0,
-          days: stats.streakDays || 0,
-        };
-        const latestSession = authService.getStoredSession();
-        this.lastSyncAt = Number(latestSession.lastSyncAt || 0);
+        const progressSyncService = await getProgressSyncService();
+        this.stats = createStatsState(progressSyncService.getLocalProgressStats());
       } catch (error) {
-        const stats = progressSyncService.getLocalProgressStats();
-        this.stats = {
-          mastered: stats.masteredWords || 0,
-          roots: stats.masteredRoots || 0,
-          days: stats.streakDays || 0,
-        };
-        uni.showToast({ title: error.message || '同步失败', icon: 'none' });
+        this.stats = createStatsState();
       }
     },
-    formatSyncTime(timestamp) {
-      if (!timestamp) return '未同步';
-      const date = new Date(timestamp);
-      if (Number.isNaN(date.getTime())) return '未同步';
-      const hour = String(date.getHours()).padStart(2, '0');
-      const minute = String(date.getMinutes()).padStart(2, '0');
-      return `${hour}:${minute}`;
+    handleAccountTap() {
+      if (this.userInfo.isLogged) return;
+      uni.navigateTo({ url: '/pages/login/login' });
     },
-    async handleLogin() {
-      if (this.userInfo.isLogged) {
-        await this.syncNow();
-        return;
-      }
-
-      uni.showLoading({ title: '登录中...' });
-      try {
-        const session = await authService.loginWithWeChatProfile();
-        this.userInfo = {
-          isLogged: true,
-          name: session.nickName || 'RootFlow 用户',
-          avatar: session.avatarUrl || '/static/logo.png',
-        };
-        await this.syncNow({ silent: true });
-        uni.showToast({ title: '微信已连接', icon: 'success' });
-      } catch (error) {
-        uni.showToast({ title: error.message || '登录失败', icon: 'none' });
-      } finally {
-        uni.hideLoading();
-      }
+    goToday() {
+      uni.switchTab({ url: '/pages/today/today' });
     },
-    toggleTheme() {
-      // 切换全局主题并本地持久化
-      this.currentTheme =
-        this.currentTheme === 'theme-dark-zen' ? 'theme-clay-pastel' : 'theme-dark-zen';
-      uni.setStorageSync('user_theme', this.currentTheme);
-      uni.vibrateShort({ type: 'light' });
+    goPractice() {
+      uni.navigateTo({ url: '/pages/practice/practice' });
     },
-    viewHistory() {
-      const stats = progressSyncService.getLocalProgressStats();
-      uni.showToast({ title: `已连续学习 ${stats.streakDays || 0} 天`, icon: 'none' });
+    goRoots() {
+      uni.switchTab({ url: '/pages/roots/roots' });
     },
-    async syncNow(options = {}) {
-      const { silent = false } = options || {};
-      if (!this.userInfo.isLogged) {
-        uni.showToast({ title: '请先登录微信', icon: 'none' });
-        return;
-      }
-
-      this.isSyncing = true;
-      if (!silent) uni.showLoading({ title: '同步中...' });
-      try {
-        const result = await progressSyncService.syncProgressToCloud();
-        const stats =
-          result && result.stats ? result.stats : progressSyncService.getLocalProgressStats();
-        this.stats = {
-          mastered: stats.masteredWords || 0,
-          roots: stats.masteredRoots || 0,
-          days: stats.streakDays || 0,
-        };
-        this.lastSyncAt = Number(authService.getStoredSession().lastSyncAt || Date.now());
-        if (!silent) uni.showToast({ title: '同步完成', icon: 'success' });
-      } catch (error) {
-        uni.showToast({ title: error.message || '同步失败', icon: 'none' });
-      } finally {
-        this.isSyncing = false;
-        if (!silent) uni.hideLoading();
-      }
+    goDownloads() {
+      uni.navigateTo({ url: '/pages/downloads/downloads' });
     },
-    openCloudConfig() {
-      uni.navigateTo({
-        url: '/pages/cloud-config/cloud-config',
+    handleLogout() {
+      uni.showModal({
+        title: '退出登录',
+        content: '确认退出当前账号？',
+        success: (res) => {
+          if (!res.confirm) return;
+          authService.logoutLocally();
+          this.userInfo = buildUserState();
+          uni.showToast({ title: '已退出', icon: 'none' });
+        },
       });
     },
-    async clearMemory() {
-      // 呼应文档中的“清理成就感”，引入防误触高敏危险操作
+    clearMemory() {
       uni.showModal({
-        title: '清空画布',
-        content: '确定要抹除所有记忆痕迹，让一切归于空白吗？',
-        confirmText: '归零',
-        confirmColor: '#FF4D4F',
-        cancelText: '保留',
-        success: (res) => {
-          if (res.confirm) {
-            uni.vibrateLong();
-            progressSyncService
-              .clearProgressAndSync()
-              .then((result) => {
-                const stats =
-                  result && result.stats
-                    ? result.stats
-                    : progressSyncService.getLocalProgressStats();
-                this.stats = {
-                  mastered: stats.masteredWords || 0,
-                  roots: stats.masteredRoots || 0,
-                  days: stats.streakDays || 0,
-                };
-                this.lastSyncAt = Number(authService.getStoredSession().lastSyncAt || Date.now());
-                uni.showToast({ title: '已归于虚无', icon: 'none' });
-              })
-              .catch((error) => {
-                uni.showToast({ title: error.message || '清空失败', icon: 'none' });
-              });
+        title: '清空学习记录',
+        content: '确认清空当前学习记录？',
+        confirmText: '确认',
+        confirmColor: '#d64545',
+        success: async (res) => {
+          if (!res.confirm) return;
+
+          try {
+            if (authService.isCloudLinked()) {
+              const progressSyncService = await getProgressSyncService();
+              await progressSyncService.clearProgressAndSync();
+            } else {
+              const wordRepo = await getWordRepo();
+              wordRepo.clearProgress({ clearActivity: true });
+            }
+            await this.refreshStats();
+            uni.showToast({ title: '已清空', icon: 'none' });
+          } catch (error) {
+            uni.showToast({ title: error.message || '清空失败', icon: 'none' });
           }
         },
       });
@@ -301,258 +181,131 @@ export default {
 </script>
 
 <style lang="scss">
-/* ====== 基础共用布局 ====== */
-.my-container {
+.my-page {
   min-height: 100vh;
-  padding: 120rpx 40rpx 40rpx;
+  padding: 112rpx 28rpx 44rpx;
   box-sizing: border-box;
-  transition: background-color 0.5s ease;
+  background: var(--rf-page-bg);
+  color: var(--rf-page-text);
 }
 
-.profile-header {
+.page-head {
+  margin-bottom: 24rpx;
+}
+
+.page-head__title {
+  font-size: 56rpx;
+  font-weight: 700;
+  color: var(--rf-text-strong);
+}
+
+.account-card,
+.section-card {
+  background: var(--rf-surface);
+  border: 1rpx solid var(--rf-border);
+  box-shadow: var(--rf-card-shadow);
+}
+
+.account-card {
   display: flex;
   align-items: center;
-  margin-bottom: 80rpx;
-  padding: 20rpx;
-  border-radius: 40rpx;
-  transition: all 0.3s;
-  &:active {
-    transform: scale(0.98);
-  }
-
-  .avatar {
-    width: 120rpx;
-    height: 120rpx;
-    border-radius: 60rpx;
-    margin-right: 40rpx;
-    background-color: rgba(125, 125, 125, 0.1); /* 头像占位符 */
-  }
-  .user-info {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-  }
-  .name {
-    font-size: 48rpx;
-    font-weight: 600;
-    margin-bottom: 8rpx;
-    transition: color 0.5s;
-    font-family: -apple-system, sans-serif;
-  }
-  .status {
-    font-size: 24rpx;
-    transition: color 0.5s;
-  }
-  .arrow {
-    font-size: 40rpx;
-    opacity: 0.5;
-    transition: color 0.5s;
-  }
+  gap: 20rpx;
+  padding: 28rpx;
+  border-radius: 32rpx;
 }
 
-.stats-area {
-  display: flex;
-  align-items: center;
-  margin-bottom: 80rpx;
-  border-radius: 40rpx;
-  padding: 40rpx 20rpx;
-  transition: all 0.5s ease;
-  .stat-card {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    .num {
-      font-size: 56rpx;
-      font-weight: bold;
-      margin-bottom: 12rpx;
-      transition: color 0.5s;
-      font-family: -apple-system, sans-serif;
-    }
-    .label {
-      font-size: 24rpx;
-      transition: color 0.5s;
-    }
-  }
-  .line-divider {
-    flex: none;
-    width: 2rpx;
-    height: 60rpx;
-    opacity: 0.2;
-  }
+.account-card__avatar {
+  width: 104rpx;
+  height: 104rpx;
+  border-radius: 28rpx;
+  background: var(--rf-surface-elevated);
 }
 
-.action-list {
+.account-card__meta {
+  flex: 1;
+  min-width: 0;
   display: flex;
   flex-direction: column;
-  gap: 40rpx;
-  .action-group {
-    border-radius: 40rpx;
-    overflow: hidden;
-    transition: all 0.5s ease;
-  }
-  .action-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 40rpx;
-    transition: all 0.3s;
-    &:active {
-      opacity: 0.7;
-    }
-
-    .item-left {
-      display: flex;
-      align-items: center;
-    }
-    .icon {
-      font-size: 36rpx;
-      margin-right: 20rpx;
-    }
-    .item-text {
-      font-size: 30rpx;
-      font-weight: 500;
-      transition: color 0.5s;
-    }
-
-    .item-right {
-      display: flex;
-      align-items: center;
-    }
-    .item-desc {
-      font-size: 26rpx;
-      margin-right: 16rpx;
-      transition: color 0.5s;
-      opacity: 0.7;
-    }
-    .arrow {
-      font-size: 36rpx;
-      opacity: 0.5;
-      transition: color 0.5s;
-    }
-  }
+  gap: 8rpx;
 }
 
-.version-text {
-  text-align: center;
-  margin-top: 80rpx;
+.account-card__name {
+  font-size: 34rpx;
+  font-weight: 700;
+  color: var(--rf-text-strong);
+}
+
+.account-card__status {
+  font-size: 24rpx;
+  color: var(--rf-text-muted);
+}
+
+.account-card__arrow,
+.menu-row__arrow {
+  font-size: 40rpx;
+  color: var(--rf-text-soft);
+}
+
+.stats-grid {
+  margin-top: 20rpx;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14rpx;
+}
+
+.stat-card {
+  padding: 24rpx;
+  border-radius: 28rpx;
+  background: var(--rf-surface);
+  border: 1rpx solid var(--rf-border);
+  box-shadow: var(--rf-card-shadow);
+}
+
+.stat-card__value {
+  display: block;
+  font-size: 40rpx;
+  font-weight: 700;
+  color: var(--rf-text-strong);
+}
+
+.stat-card__label {
+  display: block;
+  margin-top: 10rpx;
   font-size: 22rpx;
-  opacity: 0.3;
-  transition: color 0.5s;
+  color: var(--rf-text-muted);
 }
 
-/* ====== 主题1：暗黑禅意 (Dark Zen) ====== */
-.theme-dark-zen {
-  background-color: #0a0a0b;
-  .profile-header {
-    .name {
-      color: #ffffff;
-    }
-    .status {
-      color: #5e5e60;
-    }
-    .arrow {
-      color: #5e5e60;
-    }
-  }
-  .stats-area {
-    background: rgba(255, 255, 255, 0.03);
-    border: 1px solid rgba(255, 255, 255, 0.02);
-    box-shadow: 0 10rpx 40rpx rgba(0, 0, 0, 0.2);
-    .num {
-      color: #ffffff;
-    }
-    .label {
-      color: #8ca0bc;
-    }
-    .line-divider {
-      background-color: #ffffff;
-    }
-  }
-  .action-group {
-    background-color: #121212;
-    border: 1px solid rgba(255, 255, 255, 0.02);
-  }
-  .action-item {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.02);
-    &:last-child {
-      border-bottom: none;
-    }
-    .item-text {
-      color: #e5e5ea;
-    }
-    .item-desc {
-      color: #8ca0bc;
-    }
-    .arrow {
-      color: #5e5e60;
-    }
-    .danger-text {
-      color: #ff4d4f;
-    }
-  }
-  .version-text {
-    color: #ffffff;
-  }
+.section-card {
+  margin-top: 20rpx;
+  border-radius: 32rpx;
+  overflow: hidden;
 }
 
-/* ====== 主题2：奶油黏土 (Clay Pastel) ====== */
-.theme-clay-pastel {
-  background-color: #f0f4f8;
-  .profile-header {
-    .name {
-      color: #4a5a70;
-    }
-    .status {
-      color: #a0b0c4;
-    }
-    .arrow {
-      color: #a0b0c4;
-    }
-  }
-  .stats-area {
-    background-color: #f0f4f8;
-    border-radius: 40rpx;
-    box-shadow:
-      20rpx 20rpx 40rpx #d9e2ec,
-      -20rpx -20rpx 40rpx #ffffff;
-    .num {
-      color: #7b8cde;
-    }
-    .label {
-      color: #a0b0c4;
-    }
-    .line-divider {
-      background-color: #a0b0c4;
-    }
-  }
-  .action-group {
-    background-color: #f0f4f8;
-    box-shadow:
-      16rpx 16rpx 32rpx #d9e2ec,
-      -16rpx -16rpx 32rpx #ffffff;
-  }
-  .action-item {
-    border-bottom: 1px solid rgba(217, 226, 236, 0.4);
-    &:last-child {
-      border-bottom: none;
-    }
-    .item-text {
-      color: #4a5a70;
-    }
-    .item-desc {
-      color: #7b8cde;
-    }
-    .arrow {
-      color: #a0b0c4;
-    }
-    .danger-text {
-      color: #f28c8c;
-    }
-  }
-  .version-text {
-    color: #4a5a70;
+.menu-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16rpx;
+  padding: 28rpx;
+  border-bottom: 1rpx solid var(--rf-border);
+}
+
+.menu-row:last-child {
+  border-bottom: none;
+}
+
+.menu-row__title {
+  font-size: 28rpx;
+  color: var(--rf-text-strong);
+}
+
+.menu-row--danger .menu-row__title {
+  color: var(--rf-danger-text);
+}
+
+@media (max-width: 420px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
   }
 }
 </style>

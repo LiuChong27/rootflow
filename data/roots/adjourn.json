@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "adjourn",
   "root": "adjourn",
-  "meaning": "",
-  "descriptionCn": "\u5ef6\u671f\uff1b\u4f11\u4f1a",
-  "updatedAt": "2026-04-15",
+  "meaning": "adjourn family",
+  "descriptionCn": "延期；休会",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "adjourn",
       "word": "adjourn",
       "display": "Adjourn",
-      "phonetic": "",
-      "translation": "\u5ef6\u671f\uff1b\u4f11\u4f1a",
-      "sentence": "",
+      "phonetic": "/əˈʤərn/",
+      "translation": "延期；休会",
+      "sentence": "The court adjourned",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-core>adjure>adjourn",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

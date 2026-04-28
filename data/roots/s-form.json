@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-form",
-  "root": "\u5f62\u6001",
+  "root": "形态",
   "meaning": "form",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "形态",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-form-scar",
       "word": "scar",
       "display": "Scar",
-      "phonetic": "",
-      "translation": "\u4f24\u75a4",
-      "sentence": "",
+      "phonetic": "/skɑr/",
+      "translation": "伤疤",
+      "sentence": "The skin disease scarred his face permanently",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-form-scent",
       "word": "scent",
       "display": "Scent",
-      "phonetic": "",
-      "translation": "\u9999\u6c34",
-      "sentence": "",
+      "phonetic": "/sɛnt/",
+      "translation": "香水",
+      "sentence": "The dog nosed out the drugs",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-form-shoulder",
       "word": "shoulder",
       "display": "Shoulder",
-      "phonetic": "",
-      "translation": "\u80a9\u8180",
-      "sentence": "",
+      "phonetic": "/ˈʃoʊldər/",
+      "translation": "肩膀",
+      "sentence": "an ornamental gold braid on the shoulder of his uniform",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-form-shrug",
       "word": "shrug",
       "display": "Shrug",
-      "phonetic": "",
-      "translation": "\u8038\u80a9",
-      "sentence": "",
+      "phonetic": "/ʃrəg/",
+      "translation": "耸肩",
+      "sentence": "A shrug is a gesture involving the shoulders.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-form-sketch",
       "word": "sketch",
       "display": "Sketch",
-      "phonetic": "",
-      "translation": "\u7d20\u63cf",
-      "sentence": "",
+      "phonetic": "/skɛʧ/",
+      "translation": "素描",
+      "sentence": "sketch the building",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-form-sleeve",
       "word": "sleeve",
       "display": "Sleeve",
-      "phonetic": "",
-      "translation": "\u8896\u5b50",
-      "sentence": "",
+      "phonetic": "/sliːv/",
+      "translation": "袖子",
+      "sentence": "A sleeve is the part of a garment that is attached at the armhole and that provides a cloth covering for the arm.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-form-slender",
       "word": "slender",
       "display": "Slender",
-      "phonetic": "",
-      "translation": "\u4fee\u957f\u7684",
-      "sentence": "",
+      "phonetic": "/sˈlɛndər/",
+      "translation": "修长的",
+      "sentence": "she was slender as a willow shoot is slender",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-form-slim",
       "word": "slim",
       "display": "Slim",
-      "phonetic": "",
-      "translation": "\u82d7\u6761\u7684",
-      "sentence": "",
+      "phonetic": "/slɪm/",
+      "translation": "苗条的",
+      "sentence": "a slim girl with straight blonde hair",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-form-smooth",
       "word": "smooth",
       "display": "Smooth",
-      "phonetic": "",
-      "translation": "\u5149\u6ed1\u7684",
-      "sentence": "",
+      "phonetic": "/smuð/",
+      "translation": "光滑的",
+      "sentence": "he gave his hair a quick smooth",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-form-sniff",
       "word": "sniff",
       "display": "Sniff",
-      "phonetic": "",
-      "translation": "\u95fb",
-      "sentence": "",
+      "phonetic": "/snɪf/",
+      "translation": "闻",
+      "sentence": "sniff the perfume",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-form-snuggle",
       "word": "snuggle",
       "display": "Snuggle",
-      "phonetic": "",
-      "translation": "\u4f9d\u504e",
-      "sentence": "",
+      "phonetic": "/sˈnəgəl/",
+      "translation": "依偎",
+      "sentence": "The children snuggled into their sleeping bags",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-form-sock",
       "word": "sock",
       "display": "Sock",
-      "phonetic": "",
-      "translation": "\u77ed\u889c",
-      "sentence": "",
+      "phonetic": "/sɑk/",
+      "translation": "短袜",
+      "sentence": "A sock is hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-form-suit",
       "word": "suit",
       "display": "Suit",
-      "phonetic": "",
-      "translation": "\u5957\u88c5",
-      "sentence": "",
+      "phonetic": "/suːt/",
+      "translation": "套装",
+      "sentence": "they buried him in his best suit",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-form-sweater",
       "word": "sweater",
       "display": "Sweater",
-      "phonetic": "",
-      "translation": "\u6bdb\u8863",
-      "sentence": "",
+      "phonetic": "/sˈwɛtər/",
+      "translation": "毛衣",
+      "sentence": "A sweater is a crocheted or knitted garment covering the upper part of the body.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-form-sword",
       "word": "sword",
       "display": "Sword",
-      "phonetic": "",
-      "translation": "\u5251",
-      "sentence": "",
+      "phonetic": "/sɔrd/",
+      "translation": "剑",
+      "sentence": "A sword is a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-form-tail",
       "word": "tail",
       "display": "Tail",
-      "phonetic": "",
-      "translation": "\u5c3e\u5df4",
-      "sentence": "",
+      "phonetic": "/teɪl/",
+      "translation": "尾巴",
+      "sentence": "the tail of the storm",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-form-tap",
       "word": "tap",
       "display": "Tap",
-      "phonetic": "",
-      "translation": "\u8f7b\u62cd",
-      "sentence": "",
+      "phonetic": "/tæp/",
+      "translation": "轻拍",
+      "sentence": "tap one's memory",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "s-form-tip",
       "word": "tip",
       "display": "Tip",
-      "phonetic": "",
-      "translation": "\u5c16\u7aef",
-      "sentence": "",
+      "phonetic": "/tɪp/",
+      "translation": "尖端",
+      "sentence": "he got a tip on the stock market",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "s-form-toe",
       "word": "toe",
       "display": "Toe",
-      "phonetic": "",
-      "translation": "\u811a\u8dbe",
-      "sentence": "",
+      "phonetic": "/toʊ/",
+      "translation": "脚趾",
+      "sentence": "She toes inwards",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "s-form-tongue",
       "word": "tongue",
       "display": "Tongue",
-      "phonetic": "",
-      "translation": "\u820c\u5934",
-      "sentence": "",
+      "phonetic": "/təŋ/",
+      "translation": "舌头",
+      "sentence": "tongues of flame licked at the walls",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "s-form-tooth",
       "word": "tooth",
       "display": "Tooth",
-      "phonetic": "",
-      "translation": "\u7259\u9f7f",
-      "sentence": "",
+      "phonetic": "/tuθ/",
+      "translation": "牙齿",
+      "sentence": "the treaty had no teeth in it",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "s-form-top",
       "word": "top",
       "display": "Top",
-      "phonetic": "",
-      "translation": "\u9876\u90e8",
-      "sentence": "",
+      "phonetic": "/tɔp/",
+      "translation": "顶部",
+      "sentence": "the mower cuts off the tops of the grass",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "s-form-trunk",
       "word": "trunk",
       "display": "Trunk",
-      "phonetic": "",
-      "translation": "\u6811\u5e72",
-      "sentence": "",
+      "phonetic": "/trəŋk/",
+      "translation": "树干",
+      "sentence": "he put his golf bag in the trunk",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "s-form-wool",
       "word": "wool",
       "display": "Wool",
-      "phonetic": "",
-      "translation": "\u7f8a\u6bdb",
-      "sentence": "",
+      "phonetic": "/wʊl/",
+      "translation": "羊毛",
+      "sentence": "A wool is a fabric made from the hair of sheep.",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "s-form-wrinkle",
       "word": "wrinkle",
       "display": "Wrinkle",
-      "phonetic": "",
-      "translation": "\u76b1\u7eb9",
-      "sentence": "",
+      "phonetic": "/ˈrɪŋkəl/",
+      "translation": "皱纹",
+      "sentence": "ironing gets rid of most wrinkles",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "s-form-wrist",
       "word": "wrist",
       "display": "Wrist",
-      "phonetic": "",
-      "translation": "\u624b\u8155",
-      "sentence": "",
+      "phonetic": "/rɪst/",
+      "translation": "手腕",
+      "sentence": "A wrist is a joint between the distal end of the radius and the proximal row of carpal bones.",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "s-form-zigzag",
       "word": "zigzag",
       "display": "Zigzag",
-      "phonetic": "",
-      "translation": "\u952f\u9f7f\u5f62",
-      "sentence": "",
+      "phonetic": "/ˈzɪgzæg/",
+      "translation": "锯齿形",
+      "sentence": "The river zigzags through the countryside",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "s-form-zip",
       "word": "zip",
       "display": "Zip",
-      "phonetic": "",
-      "translation": "\u62c9\u94fe",
-      "sentence": "",
+      "phonetic": "/zɪp/",
+      "translation": "拉链",
+      "sentence": "he's full of zip",
       "tags": [
         "root-family"
       ],
@@ -347,5 +347,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-form",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

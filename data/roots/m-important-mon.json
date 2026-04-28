@@ -3,12 +3,13 @@
   "rootId": "m-important-mon",
   "root": "mon",
   "meaning": "mon",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "mon",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "m-important",
-  "rootLevel": 3,
-  "rootPath": "m>m-important>m-important-mon",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "m-important-mon",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

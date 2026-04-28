@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-note",
-  "root": "note\u7b14\u8bb0",
+  "root": "note笔记",
   "meaning": "note",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "笔记",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-note-annotate",
       "word": "annotate",
       "display": "Annotate",
-      "phonetic": "",
-      "translation": "\u6ce8\u91ca",
-      "sentence": "",
+      "phonetic": "/ˈænəˌteɪt/",
+      "translation": "注释",
+      "sentence": "The scholar annotated the early edition of a famous novel",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-note-cannot",
       "word": "cannot",
       "display": "Cannot",
-      "phonetic": "",
-      "translation": "\u6697\u793a\uff1b\u542b\u84c4",
-      "sentence": "",
+      "phonetic": "/ˈkænɑt/",
+      "translation": "暗示；含蓄",
+      "sentence": "Cannot is used here with the sense of \"暗示；含蓄\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-note-notary",
       "word": "notary",
       "display": "Notary",
-      "phonetic": "",
-      "translation": "\u516c\u8bc1\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈnoʊtəri/",
+      "translation": "公证人",
+      "sentence": "A notary is someone legally empowered to witness signatures and certify a document's validity and to take depositions.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-note-noted",
       "word": "noted",
       "display": "Noted",
-      "phonetic": "",
-      "translation": "\u8457\u540d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnoʊtɪd/",
+      "translation": "著名的",
+      "sentence": "They noted that it was a fine day to go sailing",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-note-noticeable",
       "word": "noticeable",
       "display": "Noticeable",
-      "phonetic": "",
-      "translation": "\u663e\u800c\u6613\u89c1\u7684\uff1b\u91cd\u8981\u7684\uff1b\u503c\u5f97\u6ce8\u610f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnoʊtəsəbəl/",
+      "translation": "显而易见的；重要的；值得注意的",
+      "sentence": "noticeable shadows under her eyes",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-note-notify",
       "word": "notify",
       "display": "Notify",
-      "phonetic": "",
-      "translation": "\u901a\u77e5\uff1b\u544a\u77e5",
-      "sentence": "",
+      "phonetic": "/ˈnoʊtəˌfaɪ/",
+      "translation": "通知；告知",
+      "sentence": "I advised him that the rent was due",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-note-notion",
       "word": "notion",
       "display": "Notion",
-      "phonetic": "",
-      "translation": "\u6982\u5ff5",
-      "sentence": "",
+      "phonetic": "/ˈnoʊʃən/",
+      "translation": "概念",
+      "sentence": "the theatrical notion of disguise is associated with disaster in his stories",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "n-note-notorious",
       "word": "notorious",
       "display": "Notorious",
-      "phonetic": "",
-      "translation": "\u81ed\u540d\u662d\u8457\u7684",
-      "sentence": "",
+      "phonetic": "/noʊˈtɔriəs/",
+      "translation": "臭名昭著的",
+      "sentence": "a notorious gangster",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-note",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -13,14 +13,58 @@
       "style": { "navigationStyle": "custom" }
     },
     {
+      "path": "pages/vibes/scene",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/vibes/favorites",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
       "path": "pages/my/my",
       "style": { "navigationStyle": "custom" }
     },
     {
-      "path": "pages/cloud-config/cloud-config",
+      "path": "pages/login/login",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/downloads/downloads",
+      "style": { "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/agreement/user-agreement",
       "style": {
-        "navigationBarTitleText": "云环境配置"
+        "navigationBarTitleText": "用户协议"
       }
+    },
+    {
+      "path": "pages/agreement/privacy-policy",
+      "style": {
+        "navigationBarTitleText": "隐私政策"
+      }
+    },
+    {
+      "path": "pages/practice/practice",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/learning/learning",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "subPackages": [
+    {
+      "root": "pages/shards_data",
+      "pages": [
+        {
+          "path": "index"
+        }
+      ]
     }
   ],
   "globalStyle": {

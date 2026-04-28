@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "agile",
   "root": "agile",
-  "meaning": "",
-  "descriptionCn": "\u7075\u6d3b\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "agile family",
+  "descriptionCn": "灵活的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "agile",
       "word": "agile",
       "display": "Agile",
-      "phonetic": "",
-      "translation": "\u7075\u6d3b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæʤəl/",
+      "translation": "灵活的",
+      "sentence": "sleek and agile as a gymnast",
       "tags": [
         "root-family",
         "affairs"
@@ -24,5 +24,6 @@
   "rootLevel": 4,
   "rootPath": "a>act>agent>agile",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

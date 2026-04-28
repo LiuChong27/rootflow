@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "u-other",
   "root": "other",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "other",
+  "descriptionCn": "other",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "u-other-ultimate",
       "word": "ultimate",
       "display": "Ultimate",
-      "phonetic": "",
-      "translation": "\u6700\u540e\u7684",
-      "sentence": "",
+      "phonetic": "/ˈəltəmət/",
+      "translation": "最后的",
+      "sentence": "the ultimate in luxury",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "u-other-ultraviolet",
       "word": "ultraviolet",
       "display": "Ultraviolet",
-      "phonetic": "",
-      "translation": "\u7d2b\u5916\u7ebf\u7684",
-      "sentence": "",
+      "phonetic": "/ˌəltrəˈvaɪəlɪt/",
+      "translation": "紫外线的",
+      "sentence": "ultraviolet radiation",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "u-other-unanimous",
       "word": "unanimous",
       "display": "Unanimous",
-      "phonetic": "",
-      "translation": "\u4e00\u81f4\u540c\u610f\u7684",
-      "sentence": "",
+      "phonetic": "/juˈnænəməs/",
+      "translation": "一致同意的",
+      "sentence": "a unanimous decision",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "u-other-urban",
       "word": "urban",
       "display": "Urban",
-      "phonetic": "",
-      "translation": "\u57ce\u5e02\u7684",
-      "sentence": "",
+      "phonetic": "/ˈərbən/",
+      "translation": "城市的",
+      "sentence": "urban sociology",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "u-other-utter",
       "word": "utter",
       "display": "Utter",
-      "phonetic": "",
-      "translation": "\u5f7b\u5e95\u7684",
-      "sentence": "",
+      "phonetic": "/ˈətər/",
+      "translation": "彻底的",
+      "sentence": "He uttered a curse",
       "tags": [
         "root-family"
       ],
@@ -68,8 +68,9 @@
     }
   ],
   "parentRootId": "u",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "u>u-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

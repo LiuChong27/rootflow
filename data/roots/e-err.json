@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "e-err",
-  "root": "err \u6f02\u6cca \u8ff7\u9014",
+  "root": "err 漂泊 迷途",
   "meaning": "err",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "漂泊 迷途",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "e",
-  "rootLevel": 2,
-  "rootPath": "e>e-err",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "e-err",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

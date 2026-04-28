@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-important-landscape",
-  "root": "\u5c71\u6cb3\u5927\u5730",
+  "root": "山河大地",
   "meaning": "landscape",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "山河大地",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-important-landscape-mar-marble",
       "word": "marble",
       "display": "Marble",
-      "phonetic": "",
-      "translation": "\u5927\u7406\u77f3",
-      "sentence": "",
+      "phonetic": "/ˈmɑrbəl/",
+      "translation": "大理石",
+      "sentence": "marble paper",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-important-landscape-mar-margin",
       "word": "margin",
       "display": "Margin",
-      "phonetic": "",
-      "translation": "\u8fb9\u7f18",
-      "sentence": "",
+      "phonetic": "/ˈmɑrʤən/",
+      "translation": "边缘",
+      "sentence": "the margin of victory",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-important-landscape-mar-marginal",
       "word": "marginal",
       "display": "Marginal",
-      "phonetic": "",
-      "translation": "\u8fb9\u7f18\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɑrʤənəl/",
+      "translation": "边缘的",
+      "sentence": "the marginal strip of beach",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "m-important-landscape-mar-marine",
       "word": "marine",
       "display": "Marine",
-      "phonetic": "",
-      "translation": "\u6d77\u7684\uff1b\u822a\u6d77\u7684",
-      "sentence": "",
+      "phonetic": "/mərˈin/",
+      "translation": "海的；航海的",
+      "sentence": "marine explorations",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "m-important-landscape-mar-mark",
       "word": "mark",
       "display": "Mark",
-      "phonetic": "",
-      "translation": "\u6807\u8bb0\uff1b\u5206\u6570",
-      "sentence": "",
+      "phonetic": "/mɑrk/",
+      "translation": "标记；分数",
+      "sentence": "she made good marks in algebra",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "m-important-landscape-mar-market",
       "word": "market",
       "display": "Market",
-      "phonetic": "",
-      "translation": "\u5e02\u573a\uff1b\u9500\u552e",
-      "sentence": "",
+      "phonetic": "/ˈmɑrkɪt/",
+      "translation": "市场；销售",
+      "sentence": "without competition there would be no market",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "m-important-landscape-meadow",
       "word": "meadow",
       "display": "Meadow",
-      "phonetic": "",
-      "translation": "\u8349\u5730\uff1b\u7267\u573a",
-      "sentence": "",
+      "phonetic": "/ˈmɛˌdoʊ/",
+      "translation": "草地；牧场",
+      "sentence": "A meadow is a field where grass or alfalfa are grown to be made into hay.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "m-important-landscape-migr-migrate",
       "word": "migrate",
       "display": "Migrate",
-      "phonetic": "",
-      "translation": "\u8fc1\u79fb",
-      "sentence": "",
+      "phonetic": "/ˈmaɪˌgreɪt/",
+      "translation": "迁移",
+      "sentence": "Many Germans migrated to South America in the mid-19th century",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "m-important-landscape-mount",
       "word": "mount",
       "display": "Mount",
-      "phonetic": "",
-      "translation": "\u767b\u4e0a\uff1b\u5b89\u88c5\uff1b\u5c71\u5cf0\uff1b\u652f\u67b6",
-      "sentence": "",
+      "phonetic": "/maʊnt/",
+      "translation": "登上；安装；山峰；支架",
+      "sentence": "the diamond was in a plain gold mount",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "m-important-landscape-mountain",
       "word": "mountain",
       "display": "Mountain",
-      "phonetic": "",
-      "translation": "\u5c71",
-      "sentence": "",
+      "phonetic": "/ˈmaʊntən/",
+      "translation": "山",
+      "sentence": "a batch of letters",
       "tags": [
         "root-family"
       ],
@@ -131,5 +131,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-important>m-important-landscape",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

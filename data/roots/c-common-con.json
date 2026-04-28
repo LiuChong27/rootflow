@@ -3,16 +3,16 @@
   "rootId": "c-common-con",
   "root": "con",
   "meaning": "con",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "con",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-common-con-coach",
       "word": "coach",
       "display": "Coach",
-      "phonetic": "",
-      "translation": "\u6559\u7ec3",
-      "sentence": "",
+      "phonetic": "/koʊʧ/",
+      "translation": "教练",
+      "sentence": "She is coaching the crew",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-common-con-coal",
       "word": "coal",
       "display": "Coal",
-      "phonetic": "",
-      "translation": "\u7164\u5757",
-      "sentence": "",
+      "phonetic": "/koʊl/",
+      "translation": "煤块",
+      "sentence": "The big ship coaled",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-common-con-coalition",
       "word": "coalition",
       "display": "Coalition",
-      "phonetic": "",
-      "translation": "\u540c\u76df\uff1b\u7ed3\u5408",
-      "sentence": "",
+      "phonetic": "/ˌkoʊəˈlɪʃən/",
+      "translation": "同盟；结合",
+      "sentence": "A coalition is an organization of people (or countries) involved in a pact or treaty.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-common-con-coarse",
       "word": "coarse",
       "display": "Coarse",
-      "phonetic": "",
-      "translation": "\u7c97\u7cd9\u7684\uff1b\u7c97\u9c81\u7684",
-      "sentence": "",
+      "phonetic": "/kɔrs/",
+      "translation": "粗糙的；粗鲁的",
+      "sentence": "coarse meal",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-common-con-coast",
       "word": "coast",
       "display": "Coast",
-      "phonetic": "",
-      "translation": "\u6d77\u5cb8",
-      "sentence": "",
+      "phonetic": "/koʊst/",
+      "translation": "海岸",
+      "sentence": "when it snowed they made a coast on the golf course",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-common-con-coat",
       "word": "coat",
       "display": "Coat",
-      "phonetic": "",
-      "translation": "\u5916\u5957\uff1b\u8986\u76d6\u7269",
-      "sentence": "",
+      "phonetic": "/koʊt/",
+      "translation": "外套；覆盖物",
+      "sentence": "a second coat of paint",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-common-con-cocaine",
       "word": "cocaine",
       "display": "Cocaine",
-      "phonetic": "",
-      "translation": "\u53ef\u5361\u56e0",
-      "sentence": "",
+      "phonetic": "/koʊˈkeɪn/",
+      "translation": "可卡因",
+      "sentence": "A cocaine is a narcotic (alkaloid) extracted from coca leaves; used as a surface anesthetic or taken for pleasure; can become powerfully addictive.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-common-con-code",
       "word": "code",
       "display": "Code",
-      "phonetic": "",
-      "translation": "\u4ee3\u7801\uff1b\u5bc6\u7801",
-      "sentence": "",
+      "phonetic": "/koʊd/",
+      "translation": "代码；密码",
+      "sentence": "Code the pieces with numbers so that you can identify them later",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-common-con-coffee",
       "word": "coffee",
       "display": "Coffee",
-      "phonetic": "",
-      "translation": "\u5496\u5561",
-      "sentence": "",
+      "phonetic": "/ˈkɔfi/",
+      "translation": "咖啡",
+      "sentence": "he ordered a cup of coffee",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-common-con-cognitive",
       "word": "cognitive",
       "display": "Cognitive",
-      "phonetic": "",
-      "translation": "\u8ba4\u77e5\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑgnɪtɪv/",
+      "translation": "认知的",
+      "sentence": "cognitive psychology",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-common-con-coherent",
       "word": "coherent",
       "display": "Coherent",
-      "phonetic": "",
-      "translation": "\u4e00\u81f4\u7684",
-      "sentence": "",
+      "phonetic": "/koʊˈhɪrənt/",
+      "translation": "一致的",
+      "sentence": "a coherent argument",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-common-con-cohesive",
       "word": "cohesive",
       "display": "Cohesive",
-      "phonetic": "",
-      "translation": "\u7c98\u5408\u6027",
-      "sentence": "",
+      "phonetic": "/koʊˈhisɪv/",
+      "translation": "粘合性",
+      "sentence": "a cohesive agent",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-common-con-coil",
       "word": "coil",
       "display": "Coil",
-      "phonetic": "",
-      "translation": "\u4e00\u5708\uff1b\u76d8\u7ed5",
-      "sentence": "",
+      "phonetic": "/kɔɪl/",
+      "translation": "一圈；盘绕",
+      "sentence": "a coil of rope",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-common-con-coin",
       "word": "coin",
       "display": "Coin",
-      "phonetic": "",
-      "translation": "\u786c\u5e01",
-      "sentence": "",
+      "phonetic": "/kɔɪn/",
+      "translation": "硬币",
+      "sentence": "coin phrases or words",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-common-con-coincide",
       "word": "coincide",
       "display": "Coincide",
-      "phonetic": "",
-      "translation": "\u540c\u65f6\u53d1\u751f",
-      "sentence": "",
+      "phonetic": "/ˌkoʊɪnˈsaɪd/",
+      "translation": "同时发生",
+      "sentence": "The two events coincided",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-common-con-coincidence",
       "word": "coincidence",
       "display": "Coincidence",
-      "phonetic": "",
-      "translation": "\u5de7\u5408\uff1b\u540c\u65f6\u53d1\u751f",
-      "sentence": "",
+      "phonetic": "/koʊˈɪnsɪdəns/",
+      "translation": "巧合；同时发生",
+      "sentence": "he waited for the coincidence of the target and the cross hairs",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-common-con-coke",
       "word": "coke",
       "display": "Coke",
-      "phonetic": "",
-      "translation": "\u7126\u70ad\uff1b\u53ef\u53e3\u53ef\u4e50",
-      "sentence": "",
+      "phonetic": "/koʊk/",
+      "translation": "焦炭；可口可乐",
+      "sentence": "petroleum oils coke after distillation",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-common-con-cold",
       "word": "cold",
       "display": "Cold",
-      "phonetic": "",
-      "translation": "\u5bd2\u51b7\u7684",
-      "sentence": "",
+      "phonetic": "/koʊld/",
+      "translation": "寒冷的",
+      "sentence": "will they never find a cure for the common cold?",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "c-common-con-collaborate",
       "word": "collaborate",
       "display": "Collaborate",
-      "phonetic": "",
-      "translation": "\u5408\u4f5c",
-      "sentence": "",
+      "phonetic": "/kəˈlæbərˌeɪt/",
+      "translation": "合作",
+      "sentence": "he collaborated with the Nazis when they occupied Paris",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "c-common-con-collapse",
       "word": "collapse",
       "display": "Collapse",
-      "phonetic": "",
-      "translation": "\u5012\u584c",
-      "sentence": "",
+      "phonetic": "/kəˈlæps/",
+      "translation": "倒塌",
+      "sentence": "the roof is in danger of collapse",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "c-common-con-collar",
       "word": "collar",
       "display": "Collar",
-      "phonetic": "",
-      "translation": "\u8863\u9886",
-      "sentence": "",
+      "phonetic": "/ˈkɑlər/",
+      "translation": "衣领",
+      "sentence": "the thief was forced to wear a heavy wooden collar",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "c-common-con-colleague",
       "word": "colleague",
       "display": "Colleague",
-      "phonetic": "",
-      "translation": "\u540c\u4e8b",
-      "sentence": "",
+      "phonetic": "/ˈkɑlig/",
+      "translation": "同事",
+      "sentence": "the surgeon consulted his colleagues",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "c-common-con-collect",
       "word": "collect",
       "display": "Collect",
-      "phonetic": "",
-      "translation": "\u6536\u96c6",
-      "sentence": "",
+      "phonetic": "/kəˈlɛkt/",
+      "translation": "收集",
+      "sentence": "we collected over a million dollars in outstanding debts",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "c-common-con-collection",
       "word": "collection",
       "display": "Collection",
-      "phonetic": "",
-      "translation": "\u6536\u85cf\u54c1",
-      "sentence": "",
+      "phonetic": "/kəˈlɛkʃən/",
+      "translation": "收藏品",
+      "sentence": "an appeal to raise money for starving children",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "c-common-con-collective",
       "word": "collective",
       "display": "Collective",
-      "phonetic": "",
-      "translation": "\u96c6\u4f53",
-      "sentence": "",
+      "phonetic": "/kəˈlɛktɪv/",
+      "translation": "集体",
+      "sentence": "the collective mind",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "c-common-con-college",
       "word": "college",
       "display": "College",
-      "phonetic": "",
-      "translation": "\u5b66\u9662",
-      "sentence": "",
+      "phonetic": "/ˈkɑlɪʤ/",
+      "translation": "学院",
+      "sentence": "A college is the body of faculty and students of a college.",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "c-common-con-collide",
       "word": "collide",
       "display": "Collide",
-      "phonetic": "",
-      "translation": "\u78b0\u649e",
-      "sentence": "",
+      "phonetic": "/kəˈlaɪd/",
+      "translation": "碰撞",
+      "sentence": "The physicists collided the particles",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "c-common-con-collision",
       "word": "collision",
       "display": "Collision",
-      "phonetic": "",
-      "translation": "\u78b0\u649e",
-      "sentence": "",
+      "phonetic": "/kəˈlɪʒən/",
+      "translation": "碰撞",
+      "sentence": "the collision of the particles resulted in an exchange of energy and a change of direction",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "c-common-con-colonel",
       "word": "colonel",
       "display": "Colonel",
-      "phonetic": "",
-      "translation": "\u4e0a\u6821",
-      "sentence": "",
+      "phonetic": "/ˈkərnəl/",
+      "translation": "上校",
+      "sentence": "A colonel is a commissioned military officer in the United States Army or Air Force or Marines who ranks above a lieutenant colonel and below a brigadier general.",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "c-common-con-color",
       "word": "color",
       "display": "Color",
-      "phonetic": "",
-      "translation": "\u989c\u8272\uff1b\u80a4\u8272",
-      "sentence": "",
+      "phonetic": "/ˈkələr/",
+      "translation": "颜色；肤色",
+      "sentence": "a white color is made up of many different wavelengths of light",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "c-common-con-column",
       "word": "column",
       "display": "Column",
-      "phonetic": "",
-      "translation": "\u5706\u67f1",
-      "sentence": "",
+      "phonetic": "/ˈkɑləm/",
+      "translation": "圆柱",
+      "sentence": "he added a column of numbers",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "c-common-con-concede",
       "word": "concede",
       "display": "Concede",
-      "phonetic": "",
-      "translation": "\u627f\u8ba4",
-      "sentence": "",
+      "phonetic": "/kənˈsid/",
+      "translation": "承认",
+      "sentence": "The candidate conceded after enough votes had come in to show that he would lose",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "c-common-con-conceive",
       "word": "conceive",
       "display": "Conceive",
-      "phonetic": "",
-      "translation": "\u8bbe\u60f3\uff1b\u6784\u601d",
-      "sentence": "",
+      "phonetic": "/kənˈsiv/",
+      "translation": "设想；构思",
+      "sentence": "He conceived of a robot that would help paralyzed patients",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "c-common-con-concentrate",
       "word": "concentrate",
       "display": "Concentrate",
-      "phonetic": "",
-      "translation": "\u96c6\u4e2d\uff1b\u4e13\u6ce8\u4e8e",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsənˌtreɪt/",
+      "translation": "集中；专注于",
+      "sentence": "the concentrate of contemporary despair",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "c-common-con-concentration",
       "word": "concentration",
       "display": "Concentration",
-      "phonetic": "",
-      "translation": "\u4e13\u6ce8",
-      "sentence": "",
+      "phonetic": "/ˌkɑnsənˈtreɪʃən/",
+      "translation": "专注",
+      "sentence": "A concentration is the strength of a solution; number of molecules of a substance in a given volume.",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "c-common-con-concern",
       "word": "concern",
       "display": "Concern",
-      "phonetic": "",
-      "translation": "\u5173\u5fc3",
-      "sentence": "",
+      "phonetic": "/kənˈsərn/",
+      "translation": "关心",
+      "sentence": "the safety of the ship is the captain's concern",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "c-common-con-concerning",
       "word": "concerning",
       "display": "Concerning",
-      "phonetic": "",
-      "translation": "\u5173\u5fc3\uff1b\u6d89\u53ca\u5230",
-      "sentence": "",
+      "phonetic": "/kənˈsərnɪŋ/",
+      "translation": "关心；涉及到",
+      "sentence": "There were lots of questions referring to her talk",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "c-common-con-concert",
       "word": "concert",
       "display": "Concert",
-      "phonetic": "",
-      "translation": "\u4e00\u81f4\uff1b\u97f3\u4e50\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsərt/",
+      "translation": "一致；音乐会",
+      "sentence": "concert one's differences",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "c-common-con-concession",
       "word": "concession",
       "display": "Concession",
-      "phonetic": "",
-      "translation": "\u59a5\u534f\uff1b\u8ba9\u6b65",
-      "sentence": "",
+      "phonetic": "/kənˈsɛʃən/",
+      "translation": "妥协；让步",
+      "sentence": "he got the beer concession at the ball park",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "c-common-con-conclude",
       "word": "conclude",
       "display": "Conclude",
-      "phonetic": "",
-      "translation": "\u65ad\u5b9a",
-      "sentence": "",
+      "phonetic": "/kənˈklud/",
+      "translation": "断定",
+      "sentence": "The committee concluded the meeting",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "c-common-con-conclusion",
       "word": "conclusion",
       "display": "Conclusion",
-      "phonetic": "",
-      "translation": "\u7ed3\u8bba",
-      "sentence": "",
+      "phonetic": "/kənˈkluʒən/",
+      "translation": "结论",
+      "sentence": "his conclusion took the evidence into account",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "c-common-con-concrete",
       "word": "concrete",
       "display": "Concrete",
-      "phonetic": "",
-      "translation": "\u5177\u4f53\u7684\uff1b\u5b9e\u8d28\u6027\u7684\uff1b\u6df7\u51dd\u571f",
-      "sentence": "",
+      "phonetic": "/ˈkɑnkrit/",
+      "translation": "具体的；实质性的；混凝土",
+      "sentence": "concrete the walls",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "c-common-con-condemn",
       "word": "condemn",
       "display": "Condemn",
-      "phonetic": "",
-      "translation": "\u8c34\u8d23\uff1b\u6307\u8d23",
-      "sentence": "",
+      "phonetic": "/kənˈdɛm/",
+      "translation": "谴责；指责",
+      "sentence": "We condemn the racism in South Africa",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "c-common-con-condition",
       "word": "condition",
       "display": "Condition",
-      "phonetic": "",
-      "translation": "\u6761\u4ef6\uff1b\u73af\u5883\uff1b\u51b3\u5b9a\uff1b\u652f\u914d",
-      "sentence": "",
+      "phonetic": "/kənˈdɪʃən/",
+      "translation": "条件；环境；决定；支配",
+      "sentence": "a condition (or state) of disrepair",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "c-common-con-conduct",
       "word": "conduct",
       "display": "Conduct",
-      "phonetic": "",
-      "translation": "\u884c\u4e3a\uff1b\u5f15\u5bfc",
-      "sentence": "",
+      "phonetic": "/ˈkɑndəkt/",
+      "translation": "行为；引导",
+      "sentence": "You cannot conduct business like this",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "c-common-con-conductor",
       "word": "conductor",
       "display": "Conductor",
-      "phonetic": "",
-      "translation": "\u7ba1\u7406\u8005\uff1b\u9886\u961f",
-      "sentence": "",
+      "phonetic": "/kənˈdəktər/",
+      "translation": "管理者；领队",
+      "sentence": "A conductor is the person who leads a musical group.",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "c-common-con-confer",
       "word": "confer",
       "display": "Confer",
-      "phonetic": "",
-      "translation": "\u6388\u4e88",
-      "sentence": "",
+      "phonetic": "/kənˈfər/",
+      "translation": "授予",
+      "sentence": "We conferred about a plan of action",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "c-common-con-conference",
       "word": "conference",
       "display": "Conference",
-      "phonetic": "",
-      "translation": "\u8ba8\u8bba\uff1b\u5546\u8c08",
-      "sentence": "",
+      "phonetic": "/ˈkɑnfərəns/",
+      "translation": "讨论；商谈",
+      "sentence": "A conference is a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda).",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "c-common-con-confess",
       "word": "confess",
       "display": "Confess",
-      "phonetic": "",
-      "translation": "\u627f\u8ba4",
-      "sentence": "",
+      "phonetic": "/kənˈfɛs/",
+      "translation": "承认",
+      "sentence": "She confessed that she had taken the money",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "c-common-con-confidence",
       "word": "confidence",
       "display": "Confidence",
-      "phonetic": "",
-      "translation": "\u4fe1\u5fc3\uff1b\u79d8\u5bc6",
-      "sentence": "",
+      "phonetic": "/ˈkɑnfədɛns/",
+      "translation": "信心；秘密",
+      "sentence": "after that failure he lost his confidence",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "c-common-con-confident",
       "word": "confident",
       "display": "Confident",
-      "phonetic": "",
-      "translation": "\u81ea\u4fe1\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑnfədənt/",
+      "translation": "自信的",
+      "sentence": "a confident speaker",
       "tags": [
         "root-family"
       ],
@@ -622,9 +622,9 @@
       "id": "c-common-con-confidential",
       "word": "confidential",
       "display": "Confidential",
-      "phonetic": "",
-      "translation": "\u79d8\u5bc6\u7684",
-      "sentence": "",
+      "phonetic": "/ˌkɑnfəˈdɛnʃəl/",
+      "translation": "秘密的",
+      "sentence": "a confidential secretary",
       "tags": [
         "root-family"
       ],
@@ -634,9 +634,9 @@
       "id": "c-common-con-confine",
       "word": "confine",
       "display": "Confine",
-      "phonetic": "",
-      "translation": "\u9650\u5236\uff1b\u754c\u9650",
-      "sentence": "",
+      "phonetic": "/kənˈfaɪn/",
+      "translation": "限制；界限",
+      "sentence": "restrict the use of this parking lot",
       "tags": [
         "root-family"
       ],
@@ -646,9 +646,9 @@
       "id": "c-common-con-confirm",
       "word": "confirm",
       "display": "Confirm",
-      "phonetic": "",
-      "translation": "\u575a\u4fe1",
-      "sentence": "",
+      "phonetic": "/kənˈfərm/",
+      "translation": "坚信",
+      "sentence": "his story confirmed my doubts",
       "tags": [
         "root-family"
       ],
@@ -658,9 +658,9 @@
       "id": "c-common-con-conflict",
       "word": "conflict",
       "display": "Conflict",
-      "phonetic": "",
-      "translation": "\u51b2\u7a81\uff1b\u6218\u6597",
-      "sentence": "",
+      "phonetic": "/ˈkɑnflɪkt/",
+      "translation": "冲突；战斗",
+      "sentence": "the harder the conflict the more glorious the triumph",
       "tags": [
         "root-family"
       ],
@@ -670,9 +670,9 @@
       "id": "c-common-con-conform",
       "word": "conform",
       "display": "Conform",
-      "phonetic": "",
-      "translation": "\u9075\u5b88\uff1b\u4e00\u81f4\uff1b\u7b26\u5408",
-      "sentence": "",
+      "phonetic": "/kənˈfɔrm/",
+      "translation": "遵守；一致；符合",
+      "sentence": "We must adjust to the bad economic situation",
       "tags": [
         "root-family"
       ],
@@ -682,9 +682,9 @@
       "id": "c-common-con-confront",
       "word": "confront",
       "display": "Confront",
-      "phonetic": "",
-      "translation": "\u9762\u5bf9",
-      "sentence": "",
+      "phonetic": "/kənˈfrənt/",
+      "translation": "面对",
+      "sentence": "You must confront your opponent",
       "tags": [
         "root-family"
       ],
@@ -694,9 +694,9 @@
       "id": "c-common-con-confuse",
       "word": "confuse",
       "display": "Confuse",
-      "phonetic": "",
-      "translation": "\u6df7\u6dc6",
-      "sentence": "",
+      "phonetic": "/kənfˈjuz/",
+      "translation": "混淆",
+      "sentence": "These questions confuse even the experts",
       "tags": [
         "root-family"
       ],
@@ -706,9 +706,9 @@
       "id": "c-common-con-confusion",
       "word": "confusion",
       "display": "Confusion",
-      "phonetic": "",
-      "translation": "\u6df7\u6dc6",
-      "sentence": "",
+      "phonetic": "/kənfˈjuʒən/",
+      "translation": "混淆",
+      "sentence": "the army retreated in confusion",
       "tags": [
         "root-family"
       ],
@@ -718,9 +718,9 @@
       "id": "c-common-con-congratulate",
       "word": "congratulate",
       "display": "Congratulate",
-      "phonetic": "",
-      "translation": "\u795d\u8d3a",
-      "sentence": "",
+      "phonetic": "/kənˈgræʧəˌleɪt/",
+      "translation": "祝贺",
+      "sentence": "He complimented her on her last physics paper",
       "tags": [
         "root-family"
       ],
@@ -730,9 +730,9 @@
       "id": "c-common-con-congratulation",
       "word": "congratulation",
       "display": "Congratulation",
-      "phonetic": "",
-      "translation": "\u795d\u8d3a",
-      "sentence": "",
+      "phonetic": "/kənˌgræʧəˈleɪʃən/",
+      "translation": "祝贺",
+      "sentence": "I sent them my sincere congratulations on their marriage",
       "tags": [
         "root-family"
       ],
@@ -742,9 +742,9 @@
       "id": "c-common-con-congress",
       "word": "congress",
       "display": "Congress",
-      "phonetic": "",
-      "translation": "\u5927\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋgrəs/",
+      "translation": "大会",
+      "sentence": "Congress refers to the legislature of the United States government.",
       "tags": [
         "root-family"
       ],
@@ -754,9 +754,9 @@
       "id": "c-common-con-conjunction",
       "word": "conjunction",
       "display": "Conjunction",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5",
-      "sentence": "",
+      "phonetic": "/kənˈʤəŋkʃən/",
+      "translation": "连接",
+      "sentence": "the interval determining the coincidence gate is adjustable",
       "tags": [
         "root-family"
       ],
@@ -766,9 +766,9 @@
       "id": "c-common-con-connect",
       "word": "connect",
       "display": "Connect",
-      "phonetic": "",
-      "translation": "\u8fde\u63a5",
-      "sentence": "",
+      "phonetic": "/kəˈnɛkt/",
+      "translation": "连接",
+      "sentence": "Can you connect the two loudspeakers?",
       "tags": [
         "root-family"
       ],
@@ -778,9 +778,9 @@
       "id": "c-common-con-connection",
       "word": "connection",
       "display": "Connection",
-      "phonetic": "",
-      "translation": "\u8054\u7cfb\uff1b\u4eb2\u621a",
-      "sentence": "",
+      "phonetic": "/kəˈnɛkʃən/",
+      "translation": "联系；亲戚",
+      "sentence": "there was a connection between eating that pickle and having that nightmare",
       "tags": [
         "root-family"
       ],
@@ -790,9 +790,9 @@
       "id": "c-common-con-conquer",
       "word": "conquer",
       "display": "Conquer",
-      "phonetic": "",
-      "translation": "\u5f81\u670d",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋkər/",
+      "translation": "征服",
+      "sentence": "conquer one's desires",
       "tags": [
         "root-family"
       ],
@@ -802,9 +802,9 @@
       "id": "c-common-con-conquest",
       "word": "conquest",
       "display": "Conquest",
-      "phonetic": "",
-      "translation": "\u63a0\u53d6\u5f97\u5230\u7684\u4e1c\u897f",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋkwɛst/",
+      "translation": "掠取得到的东西",
+      "sentence": "the conquest of space",
       "tags": [
         "root-family"
       ],
@@ -814,9 +814,9 @@
       "id": "c-common-con-conscience",
       "word": "conscience",
       "display": "Conscience",
-      "phonetic": "",
-      "translation": "\u826f\u5fc3",
-      "sentence": "",
+      "phonetic": "/ˈkɑnʃəns/",
+      "translation": "良心",
+      "sentence": "a person of unflagging conscience",
       "tags": [
         "root-family"
       ],
@@ -826,9 +826,9 @@
       "id": "c-common-con-conscientious",
       "word": "conscientious",
       "display": "Conscientious",
-      "phonetic": "",
-      "translation": "\u8ba4\u771f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌkɑnʃiˈɛnʃəs/",
+      "translation": "认真的",
+      "sentence": "conscientious application to the work at hand",
       "tags": [
         "root-family"
       ],
@@ -838,9 +838,9 @@
       "id": "c-common-con-conscious",
       "word": "conscious",
       "display": "Conscious",
-      "phonetic": "",
-      "translation": "\u610f\u8bc6\u5230\uff1b\u81ea\u89c9\u5730",
-      "sentence": "",
+      "phonetic": "/ˈkɑnʃəs/",
+      "translation": "意识到；自觉地",
+      "sentence": "a conscious effort to speak more slowly",
       "tags": [
         "root-family"
       ],
@@ -850,9 +850,9 @@
       "id": "c-common-con-consent",
       "word": "consent",
       "display": "Consent",
-      "phonetic": "",
-      "translation": "\u540c\u610f",
-      "sentence": "",
+      "phonetic": "/kənˈsɛnt/",
+      "translation": "同意",
+      "sentence": "he indicated his consent",
       "tags": [
         "root-family"
       ],
@@ -862,9 +862,9 @@
       "id": "c-common-con-consequence",
       "word": "consequence",
       "display": "Consequence",
-      "phonetic": "",
-      "translation": "\u7ed3\u679c",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsəkwəns/",
+      "translation": "结果",
+      "sentence": "his decision had depressing consequences for business",
       "tags": [
         "root-family"
       ],
@@ -874,9 +874,9 @@
       "id": "c-common-con-consequently",
       "word": "consequently",
       "display": "Consequently",
-      "phonetic": "",
-      "translation": "\u7ed3\u679c",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsəkˌwɛntli/",
+      "translation": "结果",
+      "sentence": "consequently, he didn't do it",
       "tags": [
         "root-family"
       ],
@@ -886,9 +886,9 @@
       "id": "c-common-con-conservation",
       "word": "conservation",
       "display": "Conservation",
-      "phonetic": "",
-      "translation": "\u4fdd\u62a4",
-      "sentence": "",
+      "phonetic": "/ˌkɑnsərˈveɪʃən/",
+      "translation": "保护",
+      "sentence": "A conservation is an occurrence of improvement by virtue of preventing loss or injury or other change.",
       "tags": [
         "root-family"
       ],
@@ -898,9 +898,9 @@
       "id": "c-common-con-conservative",
       "word": "conservative",
       "display": "Conservative",
-      "phonetic": "",
-      "translation": "\u4fdd\u5b88\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈsərvətɪv/",
+      "translation": "保守的",
+      "sentence": "a conservative estimate",
       "tags": [
         "root-family"
       ],
@@ -910,9 +910,9 @@
       "id": "c-common-con-consider",
       "word": "consider",
       "display": "Consider",
-      "phonetic": "",
-      "translation": "\u8003\u8651",
-      "sentence": "",
+      "phonetic": "/kənˈsɪdər/",
+      "translation": "考虑",
+      "sentence": "I consider her to be shallow",
       "tags": [
         "root-family"
       ],
@@ -922,9 +922,9 @@
       "id": "c-common-con-considerable",
       "word": "considerable",
       "display": "Considerable",
-      "phonetic": "",
-      "translation": "\u76f8\u5f53\u5927\u7684\uff1b\u5ba2\u89c2\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈsɪdərəbəl/",
+      "translation": "相当大的；客观的",
+      "sentence": "a considerable quantity",
       "tags": [
         "root-family"
       ],
@@ -934,9 +934,9 @@
       "id": "c-common-con-considerate",
       "word": "considerate",
       "display": "Considerate",
-      "phonetic": "",
-      "translation": "\u4f53\u8c05\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈsɪdərət/",
+      "translation": "体谅的",
+      "sentence": "friends considerate enough to leave us alone",
       "tags": [
         "root-family"
       ],
@@ -946,9 +946,9 @@
       "id": "c-common-con-consideration",
       "word": "consideration",
       "display": "Consideration",
-      "phonetic": "",
-      "translation": "\u8003\u8651\uff1b\u7406\u7531",
-      "sentence": "",
+      "phonetic": "/kənˌsɪdərˈeɪʃən/",
+      "translation": "考虑；理由",
+      "sentence": "another consideration is the time it would take",
       "tags": [
         "root-family"
       ],
@@ -958,9 +958,9 @@
       "id": "c-common-con-consist",
       "word": "consist",
       "display": "Consist",
-      "phonetic": "",
-      "translation": "\u7531...\u6784\u6210",
-      "sentence": "",
+      "phonetic": "/kənˈsɪst/",
+      "translation": "由...构成",
+      "sentence": "The payment consists in food",
       "tags": [
         "root-family"
       ],
@@ -970,9 +970,9 @@
       "id": "c-common-con-consistent",
       "word": "consistent",
       "display": "Consistent",
-      "phonetic": "",
-      "translation": "\u4e00\u81f4\uff1b\u7b26\u5408",
-      "sentence": "",
+      "phonetic": "/kənˈsɪstənt/",
+      "translation": "一致；符合",
+      "sentence": "testimony consistent with the known facts",
       "tags": [
         "root-family"
       ],
@@ -982,9 +982,9 @@
       "id": "c-common-con-console",
       "word": "console",
       "display": "Console",
-      "phonetic": "",
-      "translation": "\u63a7\u5236\u53f0\uff1b\u6170\u95ee",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsoʊl/",
+      "translation": "控制台；慰问",
+      "sentence": "the bust of Napoleon stood on a console",
       "tags": [
         "root-family"
       ],
@@ -994,9 +994,9 @@
       "id": "c-common-con-consolidate",
       "word": "consolidate",
       "display": "Consolidate",
-      "phonetic": "",
-      "translation": "\u4f7f\u52a0\u56fa",
-      "sentence": "",
+      "phonetic": "/kənˈsɑlɪˌdeɪt/",
+      "translation": "使加固",
+      "sentence": "The companies consolidated",
       "tags": [
         "root-family"
       ],
@@ -1006,9 +1006,9 @@
       "id": "c-common-con-conspicuous",
       "word": "conspicuous",
       "display": "Conspicuous",
-      "phonetic": "",
-      "translation": "\u663e\u773c\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈspɪkjuəs/",
+      "translation": "显眼的",
+      "sentence": "a tower conspicuous at a great distance",
       "tags": [
         "root-family"
       ],
@@ -1018,9 +1018,9 @@
       "id": "c-common-con-conspiracy",
       "word": "conspiracy",
       "display": "Conspiracy",
-      "phonetic": "",
-      "translation": "\u9634\u8c0b",
-      "sentence": "",
+      "phonetic": "/kənˈspɪrəsi/",
+      "translation": "阴谋",
+      "sentence": "A conspiracy is a secret agreement between two or more people to perform an unlawful act.",
       "tags": [
         "root-family"
       ],
@@ -1030,9 +1030,9 @@
       "id": "c-common-con-constant",
       "word": "constant",
       "display": "Constant",
-      "phonetic": "",
-      "translation": "\u6301\u7eed\u7684\uff1b\u56fa\u5b9a\u7684\uff1b\u5e38\u6570",
-      "sentence": "",
+      "phonetic": "/ˈkɑnstənt/",
+      "translation": "持续的；固定的；常数",
+      "sentence": "the velocity of light is a constant",
       "tags": [
         "root-family"
       ],
@@ -1042,9 +1042,9 @@
       "id": "c-common-con-constituent",
       "word": "constituent",
       "display": "Constituent",
-      "phonetic": "",
-      "translation": "\u6210\u5206\uff1b\u9009\u6c11\uff1b\u6784\u6210\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈstɪʧuənt/",
+      "translation": "成分；选民；构成的",
+      "sentence": "a component or constituent element of a system",
       "tags": [
         "root-family"
       ],
@@ -1054,9 +1054,9 @@
       "id": "c-common-con-constitute",
       "word": "constitute",
       "display": "Constitute",
-      "phonetic": "",
-      "translation": "\u7ec4\u6210",
-      "sentence": "",
+      "phonetic": "/ˈkɑnstəˌtut/",
+      "translation": "组成",
+      "sentence": "These constitute my entire belonging",
       "tags": [
         "root-family"
       ],
@@ -1066,9 +1066,9 @@
       "id": "c-common-con-constitution",
       "word": "constitution",
       "display": "Constitution",
-      "phonetic": "",
-      "translation": "\u6784\u6210\uff1b\u6210\u5206",
-      "sentence": "",
+      "phonetic": "/ˌkɑnstəˈtuʃən/",
+      "translation": "构成；成分",
+      "sentence": "the constitution of a PTA group last year",
       "tags": [
         "root-family"
       ],
@@ -1078,9 +1078,9 @@
       "id": "c-common-con-constrain",
       "word": "constrain",
       "display": "Constrain",
-      "phonetic": "",
-      "translation": "\u9650\u5236",
-      "sentence": "",
+      "phonetic": "/kənˈstreɪn/",
+      "translation": "限制",
+      "sentence": "Tighten the rules",
       "tags": [
         "root-family"
       ],
@@ -1090,9 +1090,9 @@
       "id": "c-common-con-construct",
       "word": "construct",
       "display": "Construct",
-      "phonetic": "",
-      "translation": "\u5efa\u8bbe",
-      "sentence": "",
+      "phonetic": "/ˈkɑnstrəkt/",
+      "translation": "建设",
+      "sentence": "Some eccentric constructed an electric brassiere warmer",
       "tags": [
         "root-family"
       ],
@@ -1102,9 +1102,9 @@
       "id": "c-common-con-construction",
       "word": "construction",
       "display": "Construction",
-      "phonetic": "",
-      "translation": "\u5efa\u9020\uff1b\u6784\u9020\uff1b\u5efa\u7b51\u7269",
-      "sentence": "",
+      "phonetic": "/kənˈstrəkʃən/",
+      "translation": "建造；构造；建筑物",
+      "sentence": "during the construction we had to take a detour",
       "tags": [
         "root-family"
       ],
@@ -1114,9 +1114,9 @@
       "id": "c-common-con-consult",
       "word": "consult",
       "display": "Consult",
-      "phonetic": "",
-      "translation": "\u8bf7\u6559",
-      "sentence": "",
+      "phonetic": "/kənˈsəlt/",
+      "translation": "请教",
+      "sentence": "Consult your local broker",
       "tags": [
         "root-family"
       ],
@@ -1126,9 +1126,9 @@
       "id": "c-common-con-consultant",
       "word": "consultant",
       "display": "Consultant",
-      "phonetic": "",
-      "translation": "\u987e\u95ee",
-      "sentence": "",
+      "phonetic": "/kənˈsəltənt/",
+      "translation": "顾问",
+      "sentence": "an adviser helped students select their courses",
       "tags": [
         "root-family"
       ],
@@ -1138,9 +1138,9 @@
       "id": "c-common-con-consume",
       "word": "consume",
       "display": "Consume",
-      "phonetic": "",
-      "translation": "\u6d88\u8017",
-      "sentence": "",
+      "phonetic": "/kənˈsum/",
+      "translation": "消耗",
+      "sentence": "The fire consumed the building",
       "tags": [
         "root-family"
       ],
@@ -1150,9 +1150,9 @@
       "id": "c-common-con-consumption",
       "word": "consumption",
       "display": "Consumption",
-      "phonetic": "",
-      "translation": "\u6d88\u8017",
-      "sentence": "",
+      "phonetic": "/kənˈsəmʃən/",
+      "translation": "消耗",
+      "sentence": "the consumption of energy has increased steadily",
       "tags": [
         "root-family"
       ],
@@ -1162,9 +1162,9 @@
       "id": "c-common-con-contain",
       "word": "contain",
       "display": "Contain",
-      "phonetic": "",
-      "translation": "\u5305\u542b\uff1b\u5bb9\u5fcd",
-      "sentence": "",
+      "phonetic": "/kənˈteɪn/",
+      "translation": "包含；容忍",
+      "sentence": "The record contains many old songs from the 1930's",
       "tags": [
         "root-family"
       ],
@@ -1174,9 +1174,9 @@
       "id": "c-common-con-container",
       "word": "container",
       "display": "Container",
-      "phonetic": "",
-      "translation": "\u5bb9\u5668",
-      "sentence": "",
+      "phonetic": "/kənˈteɪnər/",
+      "translation": "容器",
+      "sentence": "A container is any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another).",
       "tags": [
         "root-family"
       ],
@@ -1186,9 +1186,9 @@
       "id": "c-common-con-contaminate",
       "word": "contaminate",
       "display": "Contaminate",
-      "phonetic": "",
-      "translation": "\u5f04\u810f",
-      "sentence": "",
+      "phonetic": "/kənˈtæməˌneɪt/",
+      "translation": "弄脏",
+      "sentence": "Don't drink the water--it's contaminated",
       "tags": [
         "root-family"
       ],
@@ -1198,9 +1198,9 @@
       "id": "c-common-con-contempt",
       "word": "contempt",
       "display": "Contempt",
-      "phonetic": "",
-      "translation": "\u8511\u89c6\uff1b\u8f7b\u89c6",
-      "sentence": "",
+      "phonetic": "/kənˈtɛmpt/",
+      "translation": "蔑视；轻视",
+      "sentence": "he was held in contempt",
       "tags": [
         "root-family"
       ],
@@ -1210,9 +1210,9 @@
       "id": "c-common-con-contend",
       "word": "contend",
       "display": "Contend",
-      "phonetic": "",
-      "translation": "\u6597\u4e89",
-      "sentence": "",
+      "phonetic": "/kənˈtɛnd/",
+      "translation": "斗争",
+      "sentence": "He contended that Communism had no future",
       "tags": [
         "root-family"
       ],
@@ -1222,9 +1222,9 @@
       "id": "c-common-con-contest",
       "word": "contest",
       "display": "Contest",
-      "phonetic": "",
-      "translation": "\u6bd4\u8d5b\uff1b\u7ade\u4e89",
-      "sentence": "",
+      "phonetic": "/ˈkɑntɛst/",
+      "translation": "比赛；竞争",
+      "sentence": "They contested the outcome of the race",
       "tags": [
         "root-family"
       ],
@@ -1234,9 +1234,9 @@
       "id": "c-common-con-context",
       "word": "context",
       "display": "Context",
-      "phonetic": "",
-      "translation": "\u80cc\u666f\uff1b\u6587\u7ae0\u524d\u540e\u5173\u7cfb",
-      "sentence": "",
+      "phonetic": "/ˈkɑntɛkst/",
+      "translation": "背景；文章前后关系",
+      "sentence": "the historical context",
       "tags": [
         "root-family"
       ],
@@ -1246,9 +1246,9 @@
       "id": "c-common-con-continent",
       "word": "continent",
       "display": "Continent",
-      "phonetic": "",
-      "translation": "\u5927\u9646\uff1b\u6d32",
-      "sentence": "",
+      "phonetic": "/ˈkɑntənənt/",
+      "translation": "大陆；洲",
+      "sentence": "there are seven continents",
       "tags": [
         "root-family"
       ],
@@ -1258,9 +1258,9 @@
       "id": "c-common-con-continual",
       "word": "continual",
       "display": "Continual",
-      "phonetic": "",
-      "translation": "\u4e0d\u65ad\u5730\uff1b\u8fde\u7eed\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈtɪnjuəl/",
+      "translation": "不断地；连续的",
+      "sentence": "the continual banging of the shutters",
       "tags": [
         "root-family"
       ],
@@ -1270,9 +1270,9 @@
       "id": "c-common-con-continue",
       "word": "continue",
       "display": "Continue",
-      "phonetic": "",
-      "translation": "\u7ee7\u7eed\uff1b\u5ef6\u4f38",
-      "sentence": "",
+      "phonetic": "/kənˈtɪnju/",
+      "translation": "继续；延伸",
+      "sentence": "We continued to work into the night",
       "tags": [
         "root-family"
       ],
@@ -1282,9 +1282,9 @@
       "id": "c-common-con-continuous",
       "word": "continuous",
       "display": "Continuous",
-      "phonetic": "",
-      "translation": "\u8fde\u7eed\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈtɪnjuəs/",
+      "translation": "连续的",
+      "sentence": "a continuous rearrangement of electrons in the solar atoms results in the emission of light",
       "tags": [
         "root-family"
       ],
@@ -1294,9 +1294,9 @@
       "id": "c-common-con-contract",
       "word": "contract",
       "display": "Contract",
-      "phonetic": "",
-      "translation": "\u5408\u540c\uff1b\u5951\u7ea6",
-      "sentence": "",
+      "phonetic": "/ˈkɑnˌtrækt/",
+      "translation": "合同；契约",
+      "sentence": "the spasm contracted the muscle",
       "tags": [
         "root-family"
       ],
@@ -1306,9 +1306,9 @@
       "id": "c-common-con-contradict",
       "word": "contradict",
       "display": "Contradict",
-      "phonetic": "",
-      "translation": "\u53cd\u9a73",
-      "sentence": "",
+      "phonetic": "/ˌkɑntrəˈdɪkt/",
+      "translation": "反驳",
+      "sentence": "The board opposed his motion",
       "tags": [
         "root-family"
       ],
@@ -1318,9 +1318,9 @@
       "id": "c-common-con-contradiction",
       "word": "contradiction",
       "display": "Contradiction",
-      "phonetic": "",
-      "translation": "\u53cd\u9a73",
-      "sentence": "",
+      "phonetic": "/ˌkɑntrəˈdɪkʃən/",
+      "translation": "反驳",
+      "sentence": "the statement `he is brave and he is not brave' is a contradiction",
       "tags": [
         "root-family"
       ],
@@ -1330,9 +1330,9 @@
       "id": "c-common-con-contrary",
       "word": "contrary",
       "display": "Contrary",
-      "phonetic": "",
-      "translation": "\u76f8\u53cd\u7684\uff1b\u77db\u76fe\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɑntrɛri/",
+      "translation": "相反的；矛盾的",
+      "sentence": "public opinion to the contrary he is not guilty",
       "tags": [
         "root-family"
       ],
@@ -1342,9 +1342,9 @@
       "id": "c-common-con-contrast",
       "word": "contrast",
       "display": "Contrast",
-      "phonetic": "",
-      "translation": "\u5bf9\u6bd4",
-      "sentence": "",
+      "phonetic": "/ˈkɑntræst/",
+      "translation": "对比",
+      "sentence": "in contrast to",
       "tags": [
         "root-family"
       ],
@@ -1354,9 +1354,9 @@
       "id": "c-common-con-contribute",
       "word": "contribute",
       "display": "Contribute",
-      "phonetic": "",
-      "translation": "\u8d21\u732e",
-      "sentence": "",
+      "phonetic": "/kənˈtrɪbjut/",
+      "translation": "贡献",
+      "sentence": "Her presence lends a certain cachet to the company",
       "tags": [
         "root-family"
       ],
@@ -1366,9 +1366,9 @@
       "id": "c-common-con-contribution",
       "word": "contribution",
       "display": "Contribution",
-      "phonetic": "",
-      "translation": "\u8d21\u732e",
-      "sentence": "",
+      "phonetic": "/ˌkɑntrəˈbjuʃən/",
+      "translation": "贡献",
+      "sentence": "I am proud of my contribution in advancing the project",
       "tags": [
         "root-family"
       ],
@@ -1378,9 +1378,9 @@
       "id": "c-common-con-contrive",
       "word": "contrive",
       "display": "Contrive",
-      "phonetic": "",
-      "translation": "\u7b56\u5212",
-      "sentence": "",
+      "phonetic": "/kənˈtraɪv/",
+      "translation": "策划",
+      "sentence": "They contrived to murder their boss",
       "tags": [
         "root-family"
       ],
@@ -1390,9 +1390,9 @@
       "id": "c-common-con-control",
       "word": "control",
       "display": "Control",
-      "phonetic": "",
-      "translation": "\u63a7\u5236\uff1b\u652f\u914d",
-      "sentence": "",
+      "phonetic": "/kənˈtroʊl/",
+      "translation": "控制；支配",
+      "sentence": "under control",
       "tags": [
         "root-family"
       ],
@@ -1402,9 +1402,9 @@
       "id": "c-common-con-controversial",
       "word": "controversial",
       "display": "Controversial",
-      "phonetic": "",
-      "translation": "\u6709\u4e89\u8bae\u7684",
-      "sentence": "",
+      "phonetic": "/ˌkɑntrəˈvərʃəl/",
+      "translation": "有争议的",
+      "sentence": "the issue of the death penalty is highly controversial",
       "tags": [
         "root-family"
       ],
@@ -1414,9 +1414,9 @@
       "id": "c-common-con-controversy",
       "word": "controversy",
       "display": "Controversy",
-      "phonetic": "",
-      "translation": "\u4e89\u8bba\uff1b\u8fa9\u8bba",
-      "sentence": "",
+      "phonetic": "/ˈkɑntrəˌvərsi/",
+      "translation": "争论；辩论",
+      "sentence": "they were involved in a violent argument",
       "tags": [
         "root-family"
       ],
@@ -1426,9 +1426,9 @@
       "id": "c-common-con-convenience",
       "word": "convenience",
       "display": "Convenience",
-      "phonetic": "",
-      "translation": "\u65b9\u4fbf",
-      "sentence": "",
+      "phonetic": "/kənˈvinjəns/",
+      "translation": "方便",
+      "sentence": "chairs arranged for his own convenience",
       "tags": [
         "root-family"
       ],
@@ -1438,9 +1438,9 @@
       "id": "c-common-con-convenient",
       "word": "convenient",
       "display": "Convenient",
-      "phonetic": "",
-      "translation": "\u65b9\u4fbf\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈvinjənt/",
+      "translation": "方便的",
+      "sentence": "a convenient excuse for not going",
       "tags": [
         "root-family"
       ],
@@ -1450,9 +1450,9 @@
       "id": "c-common-con-convention",
       "word": "convention",
       "display": "Convention",
-      "phonetic": "",
-      "translation": "\u5927\u4f1a\uff1b\u5e38\u89c4",
-      "sentence": "",
+      "phonetic": "/kənˈvɛnʃən/",
+      "translation": "大会；常规",
+      "sentence": "political convention",
       "tags": [
         "root-family"
       ],
@@ -1462,9 +1462,9 @@
       "id": "c-common-con-conventional",
       "word": "conventional",
       "display": "Conventional",
-      "phonetic": "",
-      "translation": "\u5e38\u89c4\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈvɛnʃənəl/",
+      "translation": "常规的",
+      "sentence": "conventional wisdom",
       "tags": [
         "root-family"
       ],
@@ -1474,9 +1474,9 @@
       "id": "c-common-con-conversation",
       "word": "conversation",
       "display": "Conversation",
-      "phonetic": "",
-      "translation": "\u8c08\u8bdd",
-      "sentence": "",
+      "phonetic": "/ˌkɑnvərˈseɪʃən/",
+      "translation": "谈话",
+      "sentence": "A conversation is the use of speech for informal exchange of views or ideas or information etc.",
       "tags": [
         "root-family"
       ],
@@ -1486,9 +1486,9 @@
       "id": "c-common-con-conversely",
       "word": "conversely",
       "display": "Conversely",
-      "phonetic": "",
-      "translation": "\u76f8\u53cd\u5730",
-      "sentence": "",
+      "phonetic": "/ˈkɑnvərsli/",
+      "translation": "相反地",
+      "sentence": "conversely, not all women are mothers",
       "tags": [
         "root-family"
       ],
@@ -1498,9 +1498,9 @@
       "id": "c-common-con-conversion",
       "word": "conversion",
       "display": "Conversion",
-      "phonetic": "",
-      "translation": "\u8f6c\u53d8",
-      "sentence": "",
+      "phonetic": "/kənˈvərʒən/",
+      "translation": "转变",
+      "sentence": "conversion from Fahrenheit to Centigrade",
       "tags": [
         "root-family"
       ],
@@ -1510,9 +1510,9 @@
       "id": "c-common-con-convert",
       "word": "convert",
       "display": "Convert",
-      "phonetic": "",
-      "translation": "\u8f6c\u53d8",
-      "sentence": "",
+      "phonetic": "/ˈkɑnvərt/",
+      "translation": "转变",
+      "sentence": "We converted from 220 to 110 Volt",
       "tags": [
         "root-family"
       ],
@@ -1522,9 +1522,9 @@
       "id": "c-common-con-convey",
       "word": "convey",
       "display": "Convey",
-      "phonetic": "",
-      "translation": "\u642c\u8fd0",
-      "sentence": "",
+      "phonetic": "/kənˈveɪ/",
+      "translation": "搬运",
+      "sentence": "She conveyed the message to me",
       "tags": [
         "root-family"
       ],
@@ -1534,9 +1534,9 @@
       "id": "c-common-con-convict",
       "word": "convict",
       "display": "Convict",
-      "phonetic": "",
-      "translation": "\u8bc1\u660e...\u6709\u7f6a\uff1b\u56da\u72af",
-      "sentence": "",
+      "phonetic": "/ˈkɑnvɪkt/",
+      "translation": "证明...有罪；囚犯",
+      "sentence": "The man was convicted of fraud and sentenced",
       "tags": [
         "root-family"
       ],
@@ -1546,9 +1546,9 @@
       "id": "c-common-con-conviction",
       "word": "conviction",
       "display": "Conviction",
-      "phonetic": "",
-      "translation": "\u6df1\u4fe1\uff1b\u5b9a\u7f6a",
-      "sentence": "",
+      "phonetic": "/kənˈvɪkʃən/",
+      "translation": "深信；定罪",
+      "sentence": "the conviction came as no surprise",
       "tags": [
         "root-family"
       ],
@@ -1558,9 +1558,9 @@
       "id": "c-common-con-convince",
       "word": "convince",
       "display": "Convince",
-      "phonetic": "",
-      "translation": "\u4f7f\u4fe1\u670d",
-      "sentence": "",
+      "phonetic": "/kənˈvɪns/",
+      "translation": "使信服",
+      "sentence": "He had finally convinced several customers of the advantages of his product",
       "tags": [
         "root-family"
       ],
@@ -1570,9 +1570,9 @@
       "id": "c-common-con-cool",
       "word": "cool",
       "display": "Cool",
-      "phonetic": "",
-      "translation": "\u51b7\u9759\uff1b\u51c9\u7684",
-      "sentence": "",
+      "phonetic": "/kuːl/",
+      "translation": "冷静；凉的",
+      "sentence": "the cool of early morning",
       "tags": [
         "root-family"
       ],
@@ -1582,9 +1582,9 @@
       "id": "c-common-con-cooperate",
       "word": "cooperate",
       "display": "Cooperate",
-      "phonetic": "",
-      "translation": "\u5408\u4f5c",
-      "sentence": "",
+      "phonetic": "/kˈwɑpərˌeɪt/",
+      "translation": "合作",
+      "sentence": "The soprano and the pianist did not get together very well",
       "tags": [
         "root-family"
       ],
@@ -1594,9 +1594,9 @@
       "id": "c-common-con-cooperative",
       "word": "cooperative",
       "display": "Cooperative",
-      "phonetic": "",
-      "translation": "\u5408\u4f5c\u7684",
-      "sentence": "",
+      "phonetic": "/koʊˈɑpərˌeɪtɪv/",
+      "translation": "合作的",
+      "sentence": "a cooperative effort",
       "tags": [
         "root-family"
       ],
@@ -1606,9 +1606,9 @@
       "id": "c-common-con-coordinate",
       "word": "coordinate",
       "display": "Coordinate",
-      "phonetic": "",
-      "translation": "\u540c\u7b49\u7684\uff1b\u5e76\u5217\u7684",
-      "sentence": "",
+      "phonetic": "/koʊˈɔrdəˌneɪt/",
+      "translation": "同等的；并列的",
+      "sentence": "coordinate the painters, masons, and plumbers",
       "tags": [
         "root-family"
       ],
@@ -1618,9 +1618,9 @@
       "id": "c-common-con-cop",
       "word": "cop",
       "display": "Cop",
-      "phonetic": "",
-      "translation": "\u8b66\u5bdf",
-      "sentence": "",
+      "phonetic": "/kɑp/",
+      "translation": "警察",
+      "sentence": "Someone snitched my wallet!",
       "tags": [
         "root-family"
       ],
@@ -1630,9 +1630,9 @@
       "id": "c-common-con-course",
       "word": "course",
       "display": "Course",
-      "phonetic": "",
-      "translation": "\u8bfe\u7a0b",
-      "sentence": "",
+      "phonetic": "/kɔrs/",
+      "translation": "课程",
+      "sentence": "he took a course in basket weaving",
       "tags": [
         "root-family"
       ],
@@ -1643,5 +1643,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-common>c-common-con",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

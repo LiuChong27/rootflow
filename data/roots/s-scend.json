@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-scend",
-  "root": "scend=scens=climb\u722c",
+  "root": "scend=scens=climb爬",
   "meaning": "climb",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "爬",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-scend-scramble",
       "word": "scramble",
       "display": "Scramble",
-      "phonetic": "",
-      "translation": "\u6500\u767b",
-      "sentence": "",
+      "phonetic": "/ˈskræmbəl/",
+      "translation": "攀登",
+      "sentence": "The friend scrambled after them",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-scend-scrap",
       "word": "scrap",
       "display": "Scrap",
-      "phonetic": "",
-      "translation": "\u788e\u7247\uff1b\u5e9f\u54c1",
-      "sentence": "",
+      "phonetic": "/skræp/",
+      "translation": "碎片；废品",
+      "sentence": "she jotted it on a scrap of paper",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-scend-scrape",
       "word": "scrape",
       "display": "Scrape",
-      "phonetic": "",
-      "translation": "\u64e6\u75d5",
-      "sentence": "",
+      "phonetic": "/skreɪp/",
+      "translation": "擦痕",
+      "sentence": "the scrape of violin bows distracted her",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-scend-scratch",
       "word": "scratch",
       "display": "Scratch",
-      "phonetic": "",
-      "translation": "\u6293\u75d5",
-      "sentence": "",
+      "phonetic": "/skræʧ/",
+      "translation": "抓痕",
+      "sentence": "a golfer who plays at scratch should be able to achieve par on a course",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-scend-scream",
       "word": "scream",
       "display": "Scream",
-      "phonetic": "",
-      "translation": "\u5c16\u53eb\u7684",
-      "sentence": "",
+      "phonetic": "/skriːm/",
+      "translation": "尖叫的",
+      "sentence": "her screaming attracted the neighbors",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-scend-slaughter",
       "word": "slaughter",
       "display": "Slaughter",
-      "phonetic": "",
-      "translation": "\u5c60\u6740",
-      "sentence": "",
+      "phonetic": "/sˈlɔtər/",
+      "translation": "屠杀",
+      "sentence": "They slaughtered their only goat to survive the winter",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-scend-slice",
       "word": "slice",
       "display": "Slice",
-      "phonetic": "",
-      "translation": "\u5207\u7247",
-      "sentence": "",
+      "phonetic": "/slaɪs/",
+      "translation": "切片",
+      "sentence": "a slice of the company's revenue",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-scend-slide",
       "word": "slide",
       "display": "Slide",
-      "phonetic": "",
-      "translation": "\u6ed1\u52a8",
-      "sentence": "",
+      "phonetic": "/slaɪd/",
+      "translation": "滑动",
+      "sentence": "the violinist was indulgent with his swoops and slides",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-scend-slip",
       "word": "slip",
       "display": "Slip",
-      "phonetic": "",
-      "translation": "\u6ed1\u5012",
-      "sentence": "",
+      "phonetic": "/slɪp/",
+      "translation": "滑倒",
+      "sentence": "he's a mere slip of a lad",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-scend-slipper",
       "word": "slipper",
       "display": "Slipper",
-      "phonetic": "",
-      "translation": "\u62d6\u978b",
-      "sentence": "",
+      "phonetic": "/sˈlɪpər/",
+      "translation": "拖鞋",
+      "sentence": "A slipper is low footwear that can be slipped on and off easily; usually worn indoors.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-scend-slippery",
       "word": "slippery",
       "display": "Slippery",
-      "phonetic": "",
-      "translation": "\u6ed1\u7684",
-      "sentence": "",
+      "phonetic": "/sˈlɪpəri/",
+      "translation": "滑的",
+      "sentence": "slippery sidewalks",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-scend-slit",
       "word": "slit",
       "display": "Slit",
-      "phonetic": "",
-      "translation": "\u88c2\u7f1d",
-      "sentence": "",
+      "phonetic": "/slɪt/",
+      "translation": "裂缝",
+      "sentence": "slit her throat",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-scend",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

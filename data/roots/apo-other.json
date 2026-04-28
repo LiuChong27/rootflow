@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "apo-other",
-  "root": "\u62bd\u8c61/\u5176\u4ed6",
-  "meaning": "",
-  "descriptionCn": "\u62bd\u8c61/\u5176\u4ed6\u7c7b\u6d3e\u751f",
-  "updatedAt": "2026-04-15",
+  "root": "抽象/其他",
+  "meaning": "abstract/other forms",
+  "descriptionCn": "抽象/其他类派生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abstract-apo-other-2",
       "word": "abstract",
       "display": "Abstract",
-      "phonetic": "",
-      "translation": "\u6458\u8981",
-      "sentence": "",
+      "phonetic": "/ˈæbˌstrækt/",
+      "translation": "摘要",
+      "sentence": "he loved her only in the abstract--not in person",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "aphorism-apo-other-2",
       "word": "aphorism",
       "display": "Aphorism",
-      "phonetic": "",
-      "translation": "\u683c\u8a00",
-      "sentence": "",
+      "phonetic": "/ˈæfərˌɪzəm/",
+      "translation": "格言",
+      "sentence": "An aphorism is a short pithy instructive saying.",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "object-apo-other-2",
       "word": "object",
       "display": "Object",
-      "phonetic": "",
-      "translation": "\u5ba2\u89c2\u7684\uff1b\u53cd\u5bf9\uff1b\u5bbe\u8bed\uff1b\u5bf9\u8c61",
-      "sentence": "",
+      "phonetic": "/ˈɑbʤɛkt/",
+      "translation": "客观的；反对；宾语；对象",
+      "sentence": "it was full of rackets, balls and other objects",
       "tags": [
         "root-family",
         "other"
@@ -50,5 +50,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>apo-ab>apo-other",
   "type": "category",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

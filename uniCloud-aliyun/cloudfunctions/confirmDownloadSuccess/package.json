@@ -1,0 +1,9 @@
+{
+  "name": "confirmDownloadSuccess",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow download confirmation and credit consumption",
+  "dependencies": {
+    "rootflow-shared": "file:../common/rootflow-shared"
+  }
+}

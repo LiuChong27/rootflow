@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-other-onym",
-  "root": "onym=name\u540d\u5b57",
+  "root": "onym=name名字",
   "meaning": "name",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "名字",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-other-onym-synonym",
       "word": "synonym",
       "display": "Synonym",
-      "phonetic": "",
-      "translation": "\u540c\u4e49\u8bcd",
-      "sentence": "",
+      "phonetic": "/ˈsɪnəˌnɪm/",
+      "translation": "同义词",
+      "sentence": "A synonym is two words that can be interchanged in a context are said to be synonymous relative to that context.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "o>o-other>o-other-onym",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

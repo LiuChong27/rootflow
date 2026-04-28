@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "allege",
   "root": "allege",
-  "meaning": "",
-  "descriptionCn": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
-  "updatedAt": "2026-04-15",
+  "meaning": "allege family",
+  "descriptionCn": "断言；宣称；指控",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "allege-allege-2",
       "word": "allege",
       "display": "Allege",
-      "phonetic": "",
-      "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
-      "sentence": "",
+      "phonetic": "/əˈlɛʤ/",
+      "translation": "断言；宣称；指控",
+      "sentence": "He alleged that he was the victim of a crime",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-al>allege",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

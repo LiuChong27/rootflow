@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "l-log",
-  "root": "log\u8bf4\u8bdd",
+  "root": "log说话",
   "meaning": "speak",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "说话",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "l-log-apologize",
       "word": "apologize",
       "display": "Apologize",
-      "phonetic": "",
-      "translation": "\u9053\u6b49",
-      "sentence": "",
+      "phonetic": "/əˈpɑləˌʤaɪz/",
+      "translation": "道歉",
+      "sentence": "I apologized for being late",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "l-log-apology",
       "word": "apology",
       "display": "Apology",
-      "phonetic": "",
-      "translation": "\u9053\u6b49",
-      "sentence": "",
+      "phonetic": "/əˈpɑləˌʤi/",
+      "translation": "道歉",
+      "sentence": "he wrote a letter of apology to the hostess",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "l-log-biology",
       "word": "biology",
       "display": "Biology",
-      "phonetic": "",
-      "translation": "\u751f\u7269\u5b66",
-      "sentence": "",
+      "phonetic": "/baɪˈɑləʤi/",
+      "translation": "生物学",
+      "sentence": "the biology of viruses",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "l-log-dialogue",
       "word": "dialogue",
       "display": "Dialogue",
-      "phonetic": "",
-      "translation": "\u5bf9\u8bdd",
-      "sentence": "",
+      "phonetic": "/ˈdaɪəˌlɔg/",
+      "translation": "对话",
+      "sentence": "he has read Plato's Dialogues in the original Greek",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "l-log-logic",
       "word": "logic",
       "display": "Logic",
-      "phonetic": "",
-      "translation": "\u903b\u8f91",
-      "sentence": "",
+      "phonetic": "/ˈlɑʤɪk/",
+      "translation": "逻辑",
+      "sentence": "it made a certain kind of logic",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "l-log-logical",
       "word": "logical",
       "display": "Logical",
-      "phonetic": "",
-      "translation": "\u903b\u8f91\u7684",
-      "sentence": "",
+      "phonetic": "/ˈlɑʤɪkəl/",
+      "translation": "逻辑的",
+      "sentence": "a logical mind",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "l-log-psychology",
       "word": "psychology",
       "display": "Psychology",
-      "phonetic": "",
-      "translation": "\u5fc3\u7406\u5b66",
-      "sentence": "",
+      "phonetic": "/saɪˈkɑləʤi/",
+      "translation": "心理学",
+      "sentence": "A psychology is the science of mental life.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "l-log-technology",
       "word": "technology",
       "display": "Technology",
-      "phonetic": "",
-      "translation": "\u6280\u672f",
-      "sentence": "",
+      "phonetic": "/tɛkˈnɑləʤi/",
+      "translation": "技术",
+      "sentence": "he had trouble deciding which branch of engineering to study",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "l>l-log",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

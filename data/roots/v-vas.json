@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "v-vas",
   "root": "vas=vad=walk",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "vas=vad=walk",
+  "descriptionCn": "vas=vad=walk",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "v-vas-advent",
       "word": "advent",
       "display": "Advent",
-      "phonetic": "",
-      "translation": "\u5230\u6765",
-      "sentence": "",
+      "phonetic": "/ˈædˌvɛnt/",
+      "translation": "到来",
+      "sentence": "the advent of the computer",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "v-vas-adventure",
       "word": "adventure",
       "display": "Adventure",
-      "phonetic": "",
-      "translation": "\u5192\u9669",
-      "sentence": "",
+      "phonetic": "/ədˈvɛnʧər/",
+      "translation": "冒险",
+      "sentence": "When you buy these stocks you are gambling",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "v-vas-vapour",
       "word": "vapour",
       "display": "Vapour",
-      "phonetic": "",
-      "translation": "\u6c34\u84b8\u6c14",
-      "sentence": "",
+      "phonetic": "/vʌpˈɔr/",
+      "translation": "水蒸气",
+      "sentence": "A vapour is a visible suspension in the air of particles of some substance.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "v-vas-vase",
       "word": "vase",
       "display": "Vase",
-      "phonetic": "",
-      "translation": "\u82b1\u74f6",
-      "sentence": "",
+      "phonetic": "/vɑz/",
+      "translation": "花瓶",
+      "sentence": "A vase is an open jar of glass or porcelain used as an ornament or to hold flowers.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "v-vas-veil",
       "word": "veil",
       "display": "Veil",
-      "phonetic": "",
-      "translation": "\u9762\u7eb1",
-      "sentence": "",
+      "phonetic": "/veɪl/",
+      "translation": "面纱",
+      "sentence": "women in Afghanistan veil their faces",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "v-vas-vein",
       "word": "vein",
       "display": "Vein",
-      "phonetic": "",
-      "translation": "\u8840\u7ba1;\u9759\u8109",
-      "sentence": "",
+      "phonetic": "/veɪn/",
+      "translation": "血管;静脉",
+      "sentence": "all veins except the pulmonary vein carry unaerated blood",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "v-vas-velocity",
       "word": "velocity",
       "display": "Velocity",
-      "phonetic": "",
-      "translation": "\u901f\u5ea6",
-      "sentence": "",
+      "phonetic": "/vəˈlɑsəti/",
+      "translation": "速度",
+      "sentence": "A velocity is distance travelled per unit time.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "v-vas-velvet",
       "word": "velvet",
       "display": "Velvet",
-      "phonetic": "",
-      "translation": "\u5929\u9e45\u7ed2",
-      "sentence": "",
+      "phonetic": "/ˈvɛlvət/",
+      "translation": "天鹅绒",
+      "sentence": "A velvet is a silky densely piled fabric with a plain back.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "v-vas-venture",
       "word": "venture",
       "display": "Venture",
-      "phonetic": "",
-      "translation": "\u5192\u9669",
-      "sentence": "",
+      "phonetic": "/ˈvɛnʧər/",
+      "translation": "冒险",
+      "sentence": "We ventured into the world of high-tech and bought a supercomputer",
       "tags": [
         "root-family"
       ],
@@ -116,8 +116,9 @@
     }
   ],
   "parentRootId": "v",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "v>v-vas",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "v-other",
   "root": "other",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "other",
+  "descriptionCn": "other",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "v-other-variable",
       "word": "variable",
       "display": "Variable",
-      "phonetic": "",
-      "translation": "\u53ef\u53d8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvɛriəbəl/",
+      "translation": "可变的",
+      "sentence": "the weather is one variable to be considered",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "v-other-variation",
       "word": "variation",
       "display": "Variation",
-      "phonetic": "",
-      "translation": "\u53d8\u52a8",
-      "sentence": "",
+      "phonetic": "/ˌvɛriˈeɪʃən/",
+      "translation": "变动",
+      "sentence": "any variation in his routine was immediately reported",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "v-other-variety",
       "word": "variety",
       "display": "Variety",
-      "phonetic": "",
-      "translation": "\u79cd\u7c7b",
-      "sentence": "",
+      "phonetic": "/vərˈaɪəti/",
+      "translation": "种类",
+      "sentence": "he had a variety of disorders",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "v-other-various",
       "word": "various",
       "display": "Various",
-      "phonetic": "",
-      "translation": "\u4e0d\u540c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvɛriəs/",
+      "translation": "不同的",
+      "sentence": "his disguises are many and various",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "v-other-vary",
       "word": "vary",
       "display": "Vary",
-      "phonetic": "",
-      "translation": "\u6539\u53d8",
-      "sentence": "",
+      "phonetic": "/ˈvɛri/",
+      "translation": "改变",
+      "sentence": "Prices vary",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "v-other-vegetarian",
       "word": "vegetarian",
       "display": "Vegetarian",
-      "phonetic": "",
-      "translation": "\u7d20\u98df\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/ˌvɛʤəˈtɛˌriən/",
+      "translation": "素食主义者",
+      "sentence": "A vegetarian is eater of fruits and grains and nuts; someone who eats no meat or fish or (often) any animal products.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "v-other-vegetation",
       "word": "vegetation",
       "display": "Vegetation",
-      "phonetic": "",
-      "translation": "\u690d\u7269",
-      "sentence": "",
+      "phonetic": "/ˌvɛʤəˈteɪʃən/",
+      "translation": "植物",
+      "sentence": "Pleistocene vegetation",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "v-other-vegtable",
       "word": "vegtable",
       "display": "Vegtable",
-      "phonetic": "",
-      "translation": "\u852c\u83dc",
-      "sentence": "",
+      "phonetic": "/vˈɛtʌbʌl/",
+      "translation": "蔬菜",
+      "sentence": "Vegtable is used here with the sense of \"蔬菜\".",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "v-other-verge",
       "word": "verge",
       "display": "Verge",
-      "phonetic": "",
-      "translation": "\u8fb9\u7f18",
-      "sentence": "",
+      "phonetic": "/vərʤ/",
+      "translation": "边缘",
+      "sentence": "on the verge of tears",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "v-other-verify",
       "word": "verify",
       "display": "Verify",
-      "phonetic": "",
-      "translation": "\u8bc1\u5b9e",
-      "sentence": "",
+      "phonetic": "/ˈvɛrəˌfaɪ/",
+      "translation": "证实",
+      "sentence": "Please verify that the doors are closed",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "v-other-vibrate",
       "word": "vibrate",
       "display": "Vibrate",
-      "phonetic": "",
-      "translation": "\u6447\u6446",
-      "sentence": "",
+      "phonetic": "/ˈvaɪbreɪt/",
+      "translation": "摇摆",
+      "sentence": "the needle on the meter was oscillating",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "v-other-vice",
       "word": "vice",
       "display": "Vice",
-      "phonetic": "",
-      "translation": "\u90aa\u6076",
-      "sentence": "",
+      "phonetic": "/vaɪs/",
+      "translation": "邪恶",
+      "sentence": "vice offends the moral standards of the community",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "v-other-vicinity",
       "word": "vicinity",
       "display": "Vicinity",
-      "phonetic": "",
-      "translation": "\u90bb\u8fd1",
-      "sentence": "",
+      "phonetic": "/vɪˈsɪnɪti/",
+      "translation": "邻近",
+      "sentence": "the plane crashed in the vicinity of Asheville",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "v-other-vicious",
       "word": "vicious",
       "display": "Vicious",
-      "phonetic": "",
-      "translation": "\u6076\u6bd2\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvɪʃəs/",
+      "translation": "恶毒的",
+      "sentence": "vicious kicks",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "v-other-victim",
       "word": "victim",
       "display": "Victim",
-      "phonetic": "",
-      "translation": "\u53d7\u5bb3\u8005",
-      "sentence": "",
+      "phonetic": "/ˈvɪktɪm/",
+      "translation": "受害者",
+      "sentence": "A victim is an unfortunate person who suffers from some adverse circumstance.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "v-other-vigorous",
       "word": "vigorous",
       "display": "Vigorous",
-      "phonetic": "",
-      "translation": "\u671d\u6c14\u84ec\u52c3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvɪgərəs/",
+      "translation": "朝气蓬勃的",
+      "sentence": "a vigorous hiker",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "v-other-vinegar",
       "word": "vinegar",
       "display": "Vinegar",
-      "phonetic": "",
-      "translation": "\u918b",
-      "sentence": "",
+      "phonetic": "/ˈvɪnəgər/",
+      "translation": "醋",
+      "sentence": "A vinegar is sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food preservative.",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "v-other-violate",
       "word": "violate",
       "display": "Violate",
-      "phonetic": "",
-      "translation": "\u8fdd\u80cc;\u5192\u72af",
-      "sentence": "",
+      "phonetic": "/ˈvaɪəleɪt/",
+      "translation": "违背;冒犯",
+      "sentence": "This sentence violates the rules of syntax",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "v-other-violence",
       "word": "violence",
       "display": "Violence",
-      "phonetic": "",
-      "translation": "\u731b\u70c8",
-      "sentence": "",
+      "phonetic": "/ˈvaɪələns/",
+      "translation": "猛烈",
+      "sentence": "he may accomplish by craft in the long run what he cannot do by force and violence in the short one",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "v-other-violent",
       "word": "violent",
       "display": "Violent",
-      "phonetic": "",
-      "translation": "\u731b\u70c8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvaɪələnt/",
+      "translation": "猛烈的",
+      "sentence": "a violent attack",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "v-other-virgin",
       "word": "virgin",
       "display": "Virgin",
-      "phonetic": "",
-      "translation": "\u5904\u5973;\u7eaf\u6d01\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvərʤɪn/",
+      "translation": "处女;纯洁的",
+      "sentence": "virgin wool",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "v-other-virtual",
       "word": "virtual",
       "display": "Virtual",
-      "phonetic": "",
-      "translation": "\u5b9e\u9645\u4e0a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvərʧuəl/",
+      "translation": "实际上的",
+      "sentence": "the once elegant temple lay in virtual ruin",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "v-other-virtue",
       "word": "virtue",
       "display": "Virtue",
-      "phonetic": "",
-      "translation": "\u5fb7\u884c;\u529f\u6548",
-      "sentence": "",
+      "phonetic": "/ˈvərʧu/",
+      "translation": "德行;功效",
+      "sentence": "work of great merit",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "v-other-virus",
       "word": "virus",
       "display": "Virus",
-      "phonetic": "",
-      "translation": "\u75c5\u6bd2",
-      "sentence": "",
+      "phonetic": "/ˈvaɪrəs/",
+      "translation": "病毒",
+      "sentence": "bigotry is a virus that must not be allowed to spread",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "v-other-vital",
       "word": "vital",
       "display": "Vital",
-      "phonetic": "",
-      "translation": "\u91cd\u5927\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvaɪtəl/",
+      "translation": "重大的",
+      "sentence": "vital for a healthy society",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "v-other-vitamin",
       "word": "vitamin",
       "display": "Vitamin",
-      "phonetic": "",
-      "translation": "\u7ef4\u751f\u7d20",
-      "sentence": "",
+      "phonetic": "/ˈvaɪtəmən/",
+      "translation": "维生素",
+      "sentence": "A vitamin is any of a group of organic substances essential in small quantities to normal metabolism.",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "v-other-vivid",
       "word": "vivid",
       "display": "Vivid",
-      "phonetic": "",
-      "translation": "\u9c9c\u8273\u7684;\u751f\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvɪvɪd/",
+      "translation": "鲜艳的;生动的",
+      "sentence": "a vivid description",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "v-other-volt",
       "word": "volt",
       "display": "Volt",
-      "phonetic": "",
-      "translation": "\u4f0f\u7279",
-      "sentence": "",
+      "phonetic": "/voʊlt/",
+      "translation": "伏特",
+      "sentence": "A volt is a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it.",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "v-other-voltage",
       "word": "voltage",
       "display": "Voltage",
-      "phonetic": "",
-      "translation": "\u7535\u538b",
-      "sentence": "",
+      "phonetic": "/ˈvoʊltɪʤ/",
+      "translation": "电压",
+      "sentence": "A voltage is the rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts.",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "v-other-vulgar",
       "word": "vulgar",
       "display": "Vulgar",
-      "phonetic": "",
-      "translation": "\u7c97\u4fd7\u7684;\u666e\u901a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈvəlgər/",
+      "translation": "粗俗的;普通的",
+      "sentence": "appealing to the vulgar taste for violence",
       "tags": [
         "root-family"
       ],
@@ -368,8 +368,9 @@
     }
   ],
   "parentRootId": "v",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "v>v-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

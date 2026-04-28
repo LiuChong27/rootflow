@@ -3,16 +3,16 @@
   "rootId": "aer",
   "root": "aer=aero=air",
   "meaning": "air",
-  "descriptionCn": "\u7a7a\u6c14",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "空气",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aerial",
       "word": "aerial",
       "display": "Aerial",
-      "phonetic": "",
-      "translation": "\u822a\u7a7a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛriəl/",
+      "translation": "航空的",
+      "sentence": "aerial roots of a philodendron",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "aerobiology",
       "word": "aerobiology",
       "display": "Aerobiology",
-      "phonetic": "",
-      "translation": "\u5927\u6c14\u751f\u7269\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌɛroʊbaɪˈɑlʌdʒi/",
+      "translation": "大气生物学",
+      "sentence": "Aerobiology is used here with the sense of \"大气生物学\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "aeroplane",
       "word": "aeroplane",
       "display": "Aeroplane",
-      "phonetic": "",
-      "translation": "\u98de\u673a",
-      "sentence": "",
+      "phonetic": "/ˈɛrʌplˌoʊn/",
+      "translation": "飞机",
+      "sentence": "the flight was delayed due to trouble with the airplane",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "aerostatics",
       "word": "aerostatics",
       "display": "Aerostatics",
-      "phonetic": "",
-      "translation": "\u7a7a\u6c14\u9759\u529b\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌɛroʊstˈætɪks/",
+      "translation": "空气静力学",
+      "sentence": "Aerostatics is used here with the sense of \"空气静力学\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "aisle",
       "word": "aisle",
       "display": "Aisle",
-      "phonetic": "",
-      "translation": "\u8fc7\u9053",
-      "sentence": "",
+      "phonetic": "/aɪəl/",
+      "translation": "过道",
+      "sentence": "An aisle is a long narrow passage (as in a cave or woods).",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "a>aer",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

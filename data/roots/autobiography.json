@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "autobiography",
   "root": "autobiography",
-  "meaning": "",
-  "descriptionCn": "\u81ea\u4f20\u4f5c\u8005",
-  "updatedAt": "2026-04-15",
+  "meaning": "autobiography family",
+  "descriptionCn": "自传作者",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "autobiography-autobiography-2",
       "word": "autobiography",
       "display": "Autobiography",
-      "phonetic": "",
-      "translation": "\u81ea\u4f20\u4f5c\u8005",
-      "sentence": "",
+      "phonetic": "/ˌɔtəbaɪˈɑgrəfi/",
+      "translation": "自传作者",
+      "sentence": "An autobiography is a biography of yourself.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>auto>autobiography",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

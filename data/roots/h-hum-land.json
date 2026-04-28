@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-hum-land",
-  "root": "hum\u571f\u5730",
+  "root": "hum土地",
   "meaning": "hum",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "土地",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-hum-land-exhume",
       "word": "exhume",
       "display": "Exhume",
-      "phonetic": "",
-      "translation": "\u6316\u6398",
-      "sentence": "",
+      "phonetic": "/ɛksˈhjum/",
+      "translation": "挖掘",
+      "sentence": "To exhume is to dig up for reburial or for medical investigation; of dead bodies.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-hum-land-humble",
       "word": "humble",
       "display": "Humble",
-      "phonetic": "",
-      "translation": "\u5351\u4e0b\u7684\uff1b\u8c26\u900a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈhəmbəl/",
+      "translation": "卑下的；谦逊的",
+      "sentence": "This experience will humble him",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-hum-land-humid",
       "word": "humid",
       "display": "Humid",
-      "phonetic": "",
-      "translation": "\u6e7f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈjumɪd/",
+      "translation": "湿的",
+      "sentence": "humid air",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-hum-land-humidity",
       "word": "humidity",
       "display": "Humidity",
-      "phonetic": "",
-      "translation": "\u6e7f\u5ea6",
-      "sentence": "",
+      "phonetic": "/hjuˈmɪdəti/",
+      "translation": "湿度",
+      "sentence": "A humidity is wetness in the atmosphere.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-hum-land-humiliate",
       "word": "humiliate",
       "display": "Humiliate",
-      "phonetic": "",
-      "translation": "\u7f9e\u8fb1\uff1b\u4f7f\u4e22\u8138\uff1b\u803b\u8fb1",
-      "sentence": "",
+      "phonetic": "/hjuˈmɪliˌeɪt/",
+      "translation": "羞辱；使丢脸；耻辱",
+      "sentence": "He humiliated his colleague by criticising him in front of the boss",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "h-hum-land-humiliate-2",
       "word": "humiliate",
       "display": "Humiliate",
-      "phonetic": "",
-      "translation": "\u4f7f\u7f9e\u8fb1",
-      "sentence": "",
+      "phonetic": "/hjuˈmɪliˌeɪt/",
+      "translation": "使羞辱",
+      "sentence": "He humiliated his colleague by criticising him in front of the boss",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "h-hum-land-humiliation",
       "word": "humiliation",
       "display": "Humiliation",
-      "phonetic": "",
-      "translation": "\u7f9e\u8fb1\uff1b\u8499\u803b",
-      "sentence": "",
+      "phonetic": "/hjuˌmɪliˈeɪʃən/",
+      "translation": "羞辱；蒙耻",
+      "sentence": "he had to undergo one humiliation after another",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "h-hum-land-humility",
       "word": "humility",
       "display": "Humility",
-      "phonetic": "",
-      "translation": "\u8c26\u900a\uff1b\u8c26\u606d",
-      "sentence": "",
+      "phonetic": "/hjuˈmɪlɪti/",
+      "translation": "谦逊；谦恭",
+      "sentence": "not everyone regards humility as a virtue",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "h-hum-land-humus",
       "word": "humus",
       "display": "Humus",
-      "phonetic": "",
-      "translation": "\u8150\u6b96\u8d28",
-      "sentence": "",
+      "phonetic": "/ˈhjuməs/",
+      "translation": "腐殖质",
+      "sentence": "Humus refers to partially decomposed organic matter; the organic component of soil.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "h-hum-land-inhumane",
       "word": "inhumane",
       "display": "Inhumane",
-      "phonetic": "",
-      "translation": "\u57cb\u846c",
-      "sentence": "",
+      "phonetic": "/ˌɪnhjuˈmeɪn/",
+      "translation": "埋葬",
+      "sentence": "humans are innately inhumane; this explains much of the misery and suffering in the world",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "h-hum-land-inhumation",
       "word": "inhumation",
       "display": "Inhumation",
-      "phonetic": "",
-      "translation": "\u57cb\u846c\uff1b\u571f\u846c",
-      "sentence": "",
+      "phonetic": "/ɪnhjˌumˈeɪʃʌn/",
+      "translation": "埋葬；土葬",
+      "sentence": "An inhumation is the ritual placing of a corpse in a grave.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "h-hum-land-inhume",
       "word": "inhume",
       "display": "Inhume",
-      "phonetic": "",
-      "translation": "\u57cb\u846c",
-      "sentence": "",
+      "phonetic": "/ɪnhjˈum/",
+      "translation": "埋葬",
+      "sentence": "Stalin was buried behind the Kremlin wall on Red Square",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 2,
   "rootPath": "h>h-hum-land",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

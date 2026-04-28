@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "audiogram",
   "root": "audiogram",
-  "meaning": "",
-  "descriptionCn": "\u542c\u529b\u654f\u611f\u56fe",
-  "updatedAt": "2026-04-15",
+  "meaning": "audiogram family",
+  "descriptionCn": "听力敏感图",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "audiogram-audiogram-2",
       "word": "audiogram",
       "display": "Audiogram",
-      "phonetic": "",
-      "translation": "\u542c\u529b\u654f\u611f\u56fe",
-      "sentence": "",
+      "phonetic": "/oʊdiˈɑrmʌbʌl/",
+      "translation": "听力敏感图",
+      "sentence": "An audiogram is a graphical representation of a person's auditory sensitivity to sound.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>audi>audio>audiogram",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

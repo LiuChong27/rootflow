@@ -3,16 +3,16 @@
   "rootId": "aqu",
   "root": "aqu=water",
   "meaning": "water",
-  "descriptionCn": "\u6c34",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "水",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aquamarine",
       "word": "aquamarine",
       "display": "Aquamarine",
-      "phonetic": "",
-      "translation": "\u84dd\u6676\uff1b\u6d77\u84dd\u5b9d\u77f3",
-      "sentence": "",
+      "phonetic": "/ˌɑkwəmərˈin/",
+      "translation": "蓝晶；海蓝宝石",
+      "sentence": "An aquamarine is a transparent variety of beryl that is blue green in color.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "aquanaut",
       "word": "aquanaut",
       "display": "Aquanaut",
-      "phonetic": "",
-      "translation": "\u6f5c\u6c34\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈɑkwəˌnɑt/",
+      "translation": "潜水人",
+      "sentence": "An aquanaut is an underwater swimmer equipped with a face mask and foot fins and either a snorkel or an air cylinder.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "aquatic",
       "word": "aquatic",
       "display": "Aquatic",
-      "phonetic": "",
-      "translation": "\u6c34\u751f\u7684",
-      "sentence": "",
+      "phonetic": "/əkˈwɑtɪk/",
+      "translation": "水生的",
+      "sentence": "an aquatic environment",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "aqueduct",
       "word": "aqueduct",
       "display": "Aqueduct",
-      "phonetic": "",
-      "translation": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
-      "sentence": "",
+      "phonetic": "/ˈækwəˌdəkt/",
+      "translation": "沟渠；导水管",
+      "sentence": "An aqueduct is a conduit that resembles a bridge but carries water over a valley.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "aqueous",
       "word": "aqueous",
       "display": "Aqueous",
-      "phonetic": "",
-      "translation": "\u50cf\u6c34\u4e00\u6837\u7684",
-      "sentence": "",
+      "phonetic": "/ˈeɪkwiəs/",
+      "translation": "像水一样的",
+      "sentence": "aqueous solutions",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-other>aqu",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

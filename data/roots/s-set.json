@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-set",
-  "root": "set\u88c5\u7f6e\uff1b\u4e00\u5957",
+  "root": "set装置；一套",
   "meaning": "set",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "装置；一套",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-set",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-set",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "agitator",
   "root": "agitator",
-  "meaning": "",
-  "descriptionCn": "\u717d\u52a8\u8005",
-  "updatedAt": "2026-04-15",
+  "meaning": "agitator family",
+  "descriptionCn": "煽动者",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "agitator",
       "word": "agitator",
       "display": "Agitator",
-      "phonetic": "",
-      "translation": "\u717d\u52a8\u8005",
-      "sentence": "",
+      "phonetic": "/ˈæʤəˌteɪtər/",
+      "translation": "煽动者",
+      "sentence": "An agitator is one who agitates; a political troublemaker.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>act>actuate>agitate>agitator",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

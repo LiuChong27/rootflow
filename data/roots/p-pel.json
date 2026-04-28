@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-pel",
-  "root": "pel=push \u63a8",
+  "root": "pel=push 推",
   "meaning": "push",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "推",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-pel-compel",
       "word": "compel",
       "display": "Compel",
-      "phonetic": "",
-      "translation": "\u5f3a\u8feb",
-      "sentence": "",
+      "phonetic": "/kəmˈpɛl/",
+      "translation": "强迫",
+      "sentence": "We compel all students to fill out this form",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-pel-compulsion",
       "word": "compulsion",
       "display": "Compulsion",
-      "phonetic": "",
-      "translation": "\u538b\u529b\uff1b\u5f3a\u5236",
-      "sentence": "",
+      "phonetic": "/kəmˈpəlʃən/",
+      "translation": "压力；强制",
+      "sentence": "he felt a compulsion to babble on about the accident",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-pel-expulse",
       "word": "expulse",
       "display": "Expulse",
-      "phonetic": "",
-      "translation": "\u9a71\u9010",
-      "sentence": "",
+      "phonetic": "/ɪkspˈʌlz/",
+      "translation": "驱逐",
+      "sentence": "Expulse is used here with the sense of \"驱逐\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-pel-expulsion",
       "word": "expulsion",
       "display": "Expulsion",
-      "phonetic": "",
-      "translation": "\u9a71\u9010",
-      "sentence": "",
+      "phonetic": "/ɪkˈspəlʃən/",
+      "translation": "驱逐",
+      "sentence": "the child's expulsion from school",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-pel-impel",
       "word": "impel",
       "display": "Impel",
-      "phonetic": "",
-      "translation": "\u63a8\u52a8\uff1b\u6fc0\u52b1",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɛl/",
+      "translation": "推动；激励",
+      "sentence": "Steam propels this ship",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-pel-impeller",
       "word": "impeller",
       "display": "Impeller",
-      "phonetic": "",
-      "translation": "\u63a8\u8fdb\u8005",
-      "sentence": "",
+      "phonetic": "/ɪmpˈɛlɚ/",
+      "translation": "推进者",
+      "sentence": "An impeller is the blade of a rotor (as in the compressor of a jet engine).",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-pel-impulse",
       "word": "impulse",
       "display": "Impulse",
-      "phonetic": "",
-      "translation": "\u63a8\u52a8",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpəls/",
+      "translation": "推动",
+      "sentence": "profound religious impulses",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-pel-impulsion",
       "word": "impulsion",
       "display": "Impulsion",
-      "phonetic": "",
-      "translation": "\u9a71\u4f7f\uff1b\u63a8\u529b",
-      "sentence": "",
+      "phonetic": "/ɪmpˈʌlʃʌn/",
+      "translation": "驱使；推力",
+      "sentence": "the impulse knocked him over",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-pel-impulsive",
       "word": "impulsive",
       "display": "Impulsive",
-      "phonetic": "",
-      "translation": "\u5bb9\u6613\u51b2\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpəlsɪv/",
+      "translation": "容易冲动的",
+      "sentence": "an impulsive gesture of affection",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-pel-propel",
       "word": "propel",
       "display": "Propel",
-      "phonetic": "",
-      "translation": "\u63a8\u52a8\uff1b\u9f13\u52b1",
-      "sentence": "",
+      "phonetic": "/prəˈpɛl/",
+      "translation": "推动；鼓励",
+      "sentence": "Steam propels this ship",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-pel-propeller",
       "word": "propeller",
       "display": "Propeller",
-      "phonetic": "",
-      "translation": "\u87ba\u65cb\u6868",
-      "sentence": "",
+      "phonetic": "/prəˈpɛlər/",
+      "translation": "螺旋桨",
+      "sentence": "A propeller is a mechanical device that rotates to push against air or water.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-pel-pulsate",
       "word": "pulsate",
       "display": "Pulsate",
-      "phonetic": "",
-      "translation": "\u640f\u52a8",
-      "sentence": "",
+      "phonetic": "/pˈʌlsˌeɪt/",
+      "translation": "搏动",
+      "sentence": "the city pulsated with music and excitement",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-pel-pulse",
       "word": "pulse",
       "display": "Pulse",
-      "phonetic": "",
-      "translation": "\u8109\u640f",
-      "sentence": "",
+      "phonetic": "/pəls/",
+      "translation": "脉搏",
+      "sentence": "pulse waves",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-pel-pump",
       "word": "pump",
       "display": "Pump",
-      "phonetic": "",
-      "translation": "\u6cf5",
-      "sentence": "",
+      "phonetic": "/pəmp/",
+      "translation": "泵",
+      "sentence": "pump the gas pedal",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-pel-punch",
       "word": "punch",
       "display": "Punch",
-      "phonetic": "",
-      "translation": "\u51b2\u538b",
-      "sentence": "",
+      "phonetic": "/pənʧ/",
+      "translation": "冲压",
+      "sentence": "he punched me in the stomach",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-pel-punctual",
       "word": "punctual",
       "display": "Punctual",
-      "phonetic": "",
-      "translation": "\u51c6\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpəŋkʧuəl/",
+      "translation": "准时的",
+      "sentence": "she expected guests to be punctual at meals",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-pel-punish",
       "word": "punish",
       "display": "Punish",
-      "phonetic": "",
-      "translation": "\u60e9\u7f5a",
-      "sentence": "",
+      "phonetic": "/ˈpənɪʃ/",
+      "translation": "惩罚",
+      "sentence": "we had to punish the dog for soiling the floor again",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-pel-repel",
       "word": "repel",
       "display": "Repel",
-      "phonetic": "",
-      "translation": "\u51fb\u9000\uff1b\u4f7f\u8ba8\u538c",
-      "sentence": "",
+      "phonetic": "/rɪˈpɛl/",
+      "translation": "击退；使讨厌",
+      "sentence": "repel the enemy",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-pel-repellent",
       "word": "repellent",
       "display": "Repellent",
-      "phonetic": "",
-      "translation": "\u8ba8\u538c\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈpɛlənt/",
+      "translation": "讨厌的",
+      "sentence": "she knew many repellents to his advances",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-pel-repulse",
       "word": "repulse",
       "display": "Repulse",
-      "phonetic": "",
-      "translation": "\u53cd\u51fb\uff1b\u8c22\u7edd",
-      "sentence": "",
+      "phonetic": "/riˈpəls/",
+      "translation": "反击；谢绝",
+      "sentence": "repel the attacker",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "p-pel-repulsion",
       "word": "repulsion",
       "display": "Repulsion",
-      "phonetic": "",
-      "translation": "\u538c\u6076\uff1b\u53cd\u9a73",
-      "sentence": "",
+      "phonetic": "/ripˈʌlʃʌn/",
+      "translation": "厌恶；反驳",
+      "sentence": "A repulsion is the force by which bodies repel one another.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "p-pel-repulsive",
       "word": "repulsive",
       "display": "Repulsive",
-      "phonetic": "",
-      "translation": "\u6392\u65a5\u7684",
-      "sentence": "",
+      "phonetic": "/riˈpəlsɪv/",
+      "translation": "排斥的",
+      "sentence": "repulsive behavior",
       "tags": [
         "root-family"
       ],
@@ -275,5 +275,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-pel",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-summary",
-  "root": "\u5c0f\u7ed3",
+  "root": "小结",
   "meaning": "summary",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "小结",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-summary-g",
-      "word": "g=k=c=\u6293",
-      "display": "g=k=c=\u6293",
-      "phonetic": "",
-      "translation": "\u6293",
-      "sentence": "",
+      "word": "g=k=c=抓",
+      "display": "g=k=c=抓",
+      "phonetic": "/ʤi keɪ si 抓/",
+      "translation": "抓",
+      "sentence": "The root g k c 抓 is associated with \"summary\".",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-summary",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

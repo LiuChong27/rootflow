@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-re-emphasize",
-  "root": "\u518d\u6b21\u5f3a\u8c03",
+  "root": "再次强调",
   "meaning": "emphasize again",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "再次强调",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-re-emphasize-recipient",
       "word": "recipient",
       "display": "Recipient",
-      "phonetic": "",
-      "translation": "\u63a5\u53d7\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈsɪpiənt/",
+      "translation": "接受的",
+      "sentence": "A recipient is a person who receives something.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-re-emphasize-recognition",
       "word": "recognition",
       "display": "Recognition",
-      "phonetic": "",
-      "translation": "\u8fa8\u8ba4",
-      "sentence": "",
+      "phonetic": "/ˌrɛkɪgˈnɪʃən/",
+      "translation": "辨认",
+      "sentence": "the partners were delighted with the recognition of their work",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-re-emphasize-recognize",
       "word": "recognize",
       "display": "Recognize",
-      "phonetic": "",
-      "translation": "\u8ba4\u51fa\uff1b\u8fa8\u8ba4",
-      "sentence": "",
+      "phonetic": "/ˈrɛkəgˌnaɪz/",
+      "translation": "认出；辨认",
+      "sentence": "We do not recognize your gods",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-re-emphasize-recommend",
       "word": "recommend",
       "display": "Recommend",
-      "phonetic": "",
-      "translation": "\u63a8\u8350",
-      "sentence": "",
+      "phonetic": "/ˌrɛkəˈmɛnd/",
+      "translation": "推荐",
+      "sentence": "The travel agent recommended strongly that we not travel on Thanksgiving Day",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-re-emphasize-reconcile",
       "word": "reconcile",
       "display": "Reconcile",
-      "phonetic": "",
-      "translation": "\u8c03\u89e3",
-      "sentence": "",
+      "phonetic": "/ˈrɛkənˌsaɪl/",
+      "translation": "调解",
+      "sentence": "The scientists had to accommodate the new results with the existing theories",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-re-emphasize-reduce",
       "word": "reduce",
       "display": "Reduce",
-      "phonetic": "",
-      "translation": "\u51cf\u5c11",
-      "sentence": "",
+      "phonetic": "/rɪˈdus/",
+      "translation": "减少",
+      "sentence": "reduce your daily fat intake",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-re-emphasize-reduction",
       "word": "reduction",
       "display": "Reduction",
-      "phonetic": "",
-      "translation": "\u51cf\u5c0f",
-      "sentence": "",
+      "phonetic": "/rɪˈdəkʃən/",
+      "translation": "减小",
+      "sentence": "A reduction is the act of decreasing or reducing something.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-re-emphasize-redundant",
       "word": "redundant",
       "display": "Redundant",
-      "phonetic": "",
-      "translation": "\u591a\u4f59\u7684\uff1b\u8fc7\u5269\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈdəndənt/",
+      "translation": "多余的；过剩的",
+      "sentence": "yet another book on heraldry might be thought redundant",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-re-emphasize-refer",
       "word": "refer",
       "display": "Refer",
-      "phonetic": "",
-      "translation": "\u53c2\u8003",
-      "sentence": "",
+      "phonetic": "/rɪˈfər/",
+      "translation": "参考",
+      "sentence": "There were lots of questions referring to her talk",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-re-emphasize-reference",
       "word": "reference",
       "display": "Reference",
-      "phonetic": "",
-      "translation": "\u63d0\u53ca",
-      "sentence": "",
+      "phonetic": "/ˈrɛfərəns/",
+      "translation": "提及",
+      "sentence": "the speaker made several references to his wife",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-re-emphasize-register",
       "word": "register",
       "display": "Register",
-      "phonetic": "",
-      "translation": "\u767b\u8bb0\uff1b\u6ce8\u518c",
-      "sentence": "",
+      "phonetic": "/ˈrɛʤɪstər/",
+      "translation": "登记；注册",
+      "sentence": "register for an election",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-re-emphasize-regular",
       "word": "regular",
       "display": "Regular",
-      "phonetic": "",
-      "translation": "\u6709\u89c4\u5f8b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛgjələr/",
+      "translation": "有规律的",
+      "sentence": "he is one of the party regulars",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-re-emphasize-regulate",
       "word": "regulate",
       "display": "Regulate",
-      "phonetic": "",
-      "translation": "\u7ba1\u5236\uff1b\u8c03\u8282",
-      "sentence": "",
+      "phonetic": "/ˈrɛgjəˌleɪt/",
+      "translation": "管制；调节",
+      "sentence": "regulate the temperature",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-re-emphasize-regulation",
       "word": "regulation",
       "display": "Regulation",
-      "phonetic": "",
-      "translation": "\u89c4\u5219\uff1b\u6821\u51c6",
-      "sentence": "",
+      "phonetic": "/ˌrɛgjəˈleɪʃən/",
+      "translation": "规则；校准",
+      "sentence": "short haircuts were the regulation",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-re-emphasize-reign",
       "word": "reign",
       "display": "Reign",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb",
-      "sentence": "",
+      "phonetic": "/reɪn/",
+      "translation": "统治",
+      "sentence": "he was helpless under the reign of his egotism",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-re-emphasize-rein",
       "word": "rein",
       "display": "Rein",
-      "phonetic": "",
-      "translation": "\u7edf\u6cbb",
-      "sentence": "",
+      "phonetic": "/reɪn/",
+      "translation": "统治",
+      "sentence": "he took up the reins of government",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "r-re-emphasize-reinforce",
       "word": "reinforce",
       "display": "Reinforce",
-      "phonetic": "",
-      "translation": "\u589e\u63f4\uff1b\u52a0\u5f3a",
-      "sentence": "",
+      "phonetic": "/ˌriɪnˈfɔrs/",
+      "translation": "增援；加强",
+      "sentence": "he reinforced the concrete",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "r-re-emphasize-relate",
       "word": "relate",
       "display": "Relate",
-      "phonetic": "",
-      "translation": "\u53d9\u8ff0\uff1b\u5173\u8054",
-      "sentence": "",
+      "phonetic": "/rɪˈleɪt/",
+      "translation": "叙述；关联",
+      "sentence": "I cannot relate these events at all",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "r-re-emphasize-relation",
       "word": "relation",
       "display": "Relation",
-      "phonetic": "",
-      "translation": "\u5173\u7cfb\uff1b\u4eb2\u621a",
-      "sentence": "",
+      "phonetic": "/riˈleɪʃən/",
+      "translation": "关系；亲戚",
+      "sentence": "he has distant relations back in New Jersey",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "r-re-emphasize-relationship",
       "word": "relationship",
       "display": "Relationship",
-      "phonetic": "",
-      "translation": "\u5173\u7cfb",
-      "sentence": "",
+      "phonetic": "/riˈleɪʃənˌʃɪp/",
+      "translation": "关系",
+      "sentence": "the relationship between mothers and their children",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "r-re-emphasize-relative",
       "word": "relative",
       "display": "Relative",
-      "phonetic": "",
-      "translation": "\u76f8\u5bf9\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛlətɪv/",
+      "translation": "相对的",
+      "sentence": "police are searching for relatives of the deceased",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "r-re-emphasize-relativity",
       "word": "relativity",
       "display": "Relativity",
-      "phonetic": "",
-      "translation": "\u76f8\u5173",
-      "sentence": "",
+      "phonetic": "/ˌrɛləˈtɪvəti/",
+      "translation": "相关",
+      "sentence": "A relativity is (physics) the theory that space and time are relative concepts rather than absolute concepts.",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "r-re-emphasize-relevant",
       "word": "relevant",
       "display": "Relevant",
-      "phonetic": "",
-      "translation": "\u6709\u5173\u7684\uff1b\u4e2d\u80af\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛləvənt/",
+      "translation": "有关的；中肯的",
+      "sentence": "the scientist corresponds with colleagues in order to learn about matters relevant to her own research",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "r-re-emphasize-reliable",
       "word": "reliable",
       "display": "Reliable",
-      "phonetic": "",
-      "translation": "\u53ef\u9760\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈlaɪəbəl/",
+      "translation": "可靠的",
+      "sentence": "a reliable source of information",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "r-re-emphasize-reliance",
       "word": "reliance",
       "display": "Reliance",
-      "phonetic": "",
-      "translation": "\u4fe1\u4efb",
-      "sentence": "",
+      "phonetic": "/rɪˈlaɪəns/",
+      "translation": "信任",
+      "sentence": "he wrote the paper with considerable reliance on the work of other scientists",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "r-re-emphasize-religion",
       "word": "religion",
       "display": "Religion",
-      "phonetic": "",
-      "translation": "\u5b97\u6559",
-      "sentence": "",
+      "phonetic": "/rɪˈlɪʤən/",
+      "translation": "宗教",
+      "sentence": "he was raised in the Baptist religion",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "r-re-emphasize-religious",
       "word": "religious",
       "display": "Religious",
-      "phonetic": "",
-      "translation": "\u5b97\u6559\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈlɪʤəs/",
+      "translation": "宗教的",
+      "sentence": "religious texts",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "r-re-emphasize-relish",
       "word": "relish",
       "display": "Relish",
-      "phonetic": "",
-      "translation": "\u7f8e\u5473",
-      "sentence": "",
+      "phonetic": "/ˈrɛlɪʃ/",
+      "translation": "美味",
+      "sentence": "She relished her fame and basked in her glory",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "r-re-emphasize-rely",
       "word": "rely",
       "display": "Rely",
-      "phonetic": "",
-      "translation": "\u4f9d\u9760",
-      "sentence": "",
+      "phonetic": "/rɪˈlaɪ/",
+      "translation": "依靠",
+      "sentence": "Rely on your friends",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "r-re-emphasize-remain",
       "word": "remain",
       "display": "Remain",
-      "phonetic": "",
-      "translation": "\u5269\u4e0b",
-      "sentence": "",
+      "phonetic": "/rɪˈmeɪn/",
+      "translation": "剩下",
+      "sentence": "The dress remained wet after repeated attempts to dry it",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "r-re-emphasize-remainder",
       "word": "remainder",
       "display": "Remainder",
-      "phonetic": "",
-      "translation": "\u5269\u4f59\u7269",
-      "sentence": "",
+      "phonetic": "/rɪˈmeɪndər/",
+      "translation": "剩余物",
+      "sentence": "there was no remainder",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "r-re-emphasize-remains",
       "word": "remains",
       "display": "Remains",
-      "phonetic": "",
-      "translation": "\u5269\u4f59",
-      "sentence": "",
+      "phonetic": "/rɪˈmeɪnz/",
+      "translation": "剩余",
+      "sentence": "I threw out the remains of my dinner",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "r-re-emphasize-remind",
       "word": "remind",
       "display": "Remind",
-      "phonetic": "",
-      "translation": "\u63d0\u9192",
-      "sentence": "",
+      "phonetic": "/riˈmaɪnd/",
+      "translation": "提醒",
+      "sentence": "Remind me to call Mother",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "r-re-emphasize-remnant",
       "word": "remnant",
       "display": "Remnant",
-      "phonetic": "",
-      "translation": "\u5269\u4f59",
-      "sentence": "",
+      "phonetic": "/ˈrɛmnənt/",
+      "translation": "剩余",
+      "sentence": "A remnant is a small part or portion that remains after the main part no longer exists.",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "r-re-emphasize-remote",
       "word": "remote",
       "display": "Remote",
-      "phonetic": "",
-      "translation": "\u9065\u8fdc\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈmoʊt/",
+      "translation": "遥远的",
+      "sentence": "he lost the remote for his TV",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "r-re-emphasize-represent",
       "word": "represent",
       "display": "Represent",
-      "phonetic": "",
-      "translation": "\u63cf\u8ff0\uff1b\u4ee3\u8868",
-      "sentence": "",
+      "phonetic": "/ˌrɛprɪˈzɛnt/",
+      "translation": "描述；代表",
+      "sentence": "This period is represented by Beethoven",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "r-re-emphasize-representative",
       "word": "representative",
       "display": "Representative",
-      "phonetic": "",
-      "translation": "\u4ee3\u8868",
-      "sentence": "",
+      "phonetic": "/ˌrɛprɪˈzɛnətɪv/",
+      "translation": "代表",
+      "sentence": "representative moviegoers",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "r-re-emphasize-reproduce",
       "word": "reproduce",
       "display": "Reproduce",
-      "phonetic": "",
-      "translation": "\u751f\u6b96",
-      "sentence": "",
+      "phonetic": "/ˌriprəˈdus/",
+      "translation": "生殖",
+      "sentence": "reproduce the painting",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "r-re-emphasize-reptile",
       "word": "reptile",
       "display": "Reptile",
-      "phonetic": "",
-      "translation": "\u722c\u884c\u52a8\u7269",
-      "sentence": "",
+      "phonetic": "/ˈrɛptaɪl/",
+      "translation": "爬行动物",
+      "sentence": "A reptile is any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms.",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "r-re-emphasize-republic",
       "word": "republic",
       "display": "Republic",
-      "phonetic": "",
-      "translation": "\u5171\u548c\u56fd",
-      "sentence": "",
+      "phonetic": "/riˈpəblɪk/",
+      "translation": "共和国",
+      "sentence": "the head of state in a republic is usually a president",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "r-re-emphasize-republican",
       "word": "republican",
       "display": "Republican",
-      "phonetic": "",
-      "translation": "\u5171\u548c\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈpəblɪkən/",
+      "translation": "共和的",
+      "sentence": "a Republican senator",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "r-re-emphasize-resemblance",
       "word": "resemblance",
       "display": "Resemblance",
-      "phonetic": "",
-      "translation": "\u76f8\u4f3c\u7269",
-      "sentence": "",
+      "phonetic": "/rɪˈzɛmbləns/",
+      "translation": "相似物",
+      "sentence": "A resemblance is similarity in appearance or external or superficial details.",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "r-re-emphasize-resemble",
       "word": "resemble",
       "display": "Resemble",
-      "phonetic": "",
-      "translation": "\u7c7b\u4f3c",
-      "sentence": "",
+      "phonetic": "/rɪˈzɛmbəl/",
+      "translation": "类似",
+      "sentence": "She resembles her mother very much",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "r-re-emphasize-reservation",
       "word": "reservation",
       "display": "Reservation",
-      "phonetic": "",
-      "translation": "\u4fdd\u7559",
-      "sentence": "",
+      "phonetic": "/ˌrɛzərˈveɪʃən/",
+      "translation": "保留",
+      "sentence": "he recommended her without any reservations",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "r-re-emphasize-reserve",
       "word": "reserve",
       "display": "Reserve",
-      "phonetic": "",
-      "translation": "\u4fdd\u7559",
-      "sentence": "",
+      "phonetic": "/rɪˈzərv/",
+      "translation": "保留",
+      "sentence": "We managed to reserve a table at Maxim's",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "r-re-emphasize-reservoir",
       "word": "reservoir",
       "display": "Reservoir",
-      "phonetic": "",
-      "translation": "\u6c34\u5e93",
-      "sentence": "",
+      "phonetic": "/ˈrɛzəvˌwɑr/",
+      "translation": "水库",
+      "sentence": "a reservoir of talent",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "r-re-emphasize-residence",
       "word": "residence",
       "display": "Residence",
-      "phonetic": "",
-      "translation": "\u4f4f\u5b85",
-      "sentence": "",
+      "phonetic": "/ˈrɛzɪdəns/",
+      "translation": "住宅",
+      "sentence": "a person can have several residences",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "r-re-emphasize-resident",
       "word": "resident",
       "display": "Resident",
-      "phonetic": "",
-      "translation": "\u5c45\u6c11",
-      "sentence": "",
+      "phonetic": "/ˈrɛzɪdənt/",
+      "translation": "居民",
+      "sentence": "the resident was receiving special clinical training at the hospital",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "r-re-emphasize-result",
       "word": "result",
       "display": "Result",
-      "phonetic": "",
-      "translation": "\u7ed3\u679c",
-      "sentence": "",
+      "phonetic": "/rɪˈzəlt/",
+      "translation": "结果",
+      "sentence": "he computed the result to four decimal places",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "r-re-emphasize-resultant",
       "word": "resultant",
       "display": "Resultant",
-      "phonetic": "",
-      "translation": "\u5408\u6210\u7684",
-      "sentence": "",
+      "phonetic": "/riˈzəltənt/",
+      "translation": "合成的",
+      "sentence": "the resultant savings were considerable",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "r-re-emphasize-resume",
       "word": "resume",
       "display": "Resume",
-      "phonetic": "",
-      "translation": "\u4e2a\u4eba\u7b80\u5386",
-      "sentence": "",
+      "phonetic": "/ˈrɛzəˌmeɪ/",
+      "translation": "个人简历",
+      "sentence": "We resumed the negotiations",
       "tags": [
         "root-family"
       ],
@@ -622,9 +622,9 @@
       "id": "r-re-emphasize-retain",
       "word": "retain",
       "display": "Retain",
-      "phonetic": "",
-      "translation": "\u4fdd\u6301",
-      "sentence": "",
+      "phonetic": "/rɪˈteɪn/",
+      "translation": "保持",
+      "sentence": "This soil retains water",
       "tags": [
         "root-family"
       ],
@@ -634,9 +634,9 @@
       "id": "r-re-emphasize-retention",
       "word": "retention",
       "display": "Retention",
-      "phonetic": "",
-      "translation": "\u4fdd\u7559",
-      "sentence": "",
+      "phonetic": "/riˈtɛnʃən/",
+      "translation": "保留",
+      "sentence": "he had a good memory when he was younger",
       "tags": [
         "root-family"
       ],
@@ -647,5 +647,6 @@
   "rootLevel": 3,
   "rootPath": "r>r-re>r-re-emphasize",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "monarch",
   "root": "monarch",
-  "meaning": "",
-  "descriptionCn": "\u541b\u4e3b\u5e1d\u738b",
-  "updatedAt": "2026-04-15",
+  "meaning": "monarch family",
+  "descriptionCn": "君主帝王",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "monarch-monarch-2",
       "word": "monarch",
       "display": "Monarch",
-      "phonetic": "",
-      "translation": "\u541b\u4e3b\u5e1d\u738b",
-      "sentence": "",
+      "phonetic": "/ˈmɑˌnɑrk/",
+      "translation": "君主帝王",
+      "sentence": "A monarch is a nation's ruler or head of state usually by hereditary right.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>arch>monarch",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

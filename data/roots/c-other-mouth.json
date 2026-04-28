@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-mouth",
-  "root": "c-other-mouth",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "mouth",
+  "meaning": "mouth family",
+  "descriptionCn": "mouth 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-mouth-cancel",
       "word": "cancel",
       "display": "Cancel",
-      "phonetic": "",
-      "translation": "\u53d6\u6d88\uff1b\u5212\u6389",
-      "sentence": "",
+      "phonetic": "/ˈkænsəl/",
+      "translation": "取消；划掉",
+      "sentence": "cancel the dinner party",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-other-mouth-cater",
       "word": "cater",
       "display": "Cater",
-      "phonetic": "",
-      "translation": "\u6ee1\u8db3\uff1b\u8fce\u5408",
-      "sentence": "",
+      "phonetic": "/ˈkeɪtər/",
+      "translation": "满足；迎合",
+      "sentence": "The hostess provided lunch for all the guests",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-other-mouth-ceremony",
       "word": "ceremony",
       "display": "Ceremony",
-      "phonetic": "",
-      "translation": "\u5178\u793c",
-      "sentence": "",
+      "phonetic": "/ˈsɛrəˌmoʊni/",
+      "translation": "典礼",
+      "sentence": "a ceremony commemorating Pearl Harbor",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-other-mouth-chat",
       "word": "chat",
       "display": "Chat",
-      "phonetic": "",
-      "translation": "\u804a\u5929",
-      "sentence": "",
+      "phonetic": "/ʧæt/",
+      "translation": "聊天",
+      "sentence": "the men were sitting in the cafe and shooting the breeze",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-other-mouth-cheat",
       "word": "cheat",
       "display": "Cheat",
-      "phonetic": "",
-      "translation": "\u6b3a\u9a97",
-      "sentence": "",
+      "phonetic": "/ʧit/",
+      "translation": "欺骗",
+      "sentence": "we were cheated by their clever-sounding scheme",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-other-mouth-cheer",
       "word": "cheer",
       "display": "Cheer",
-      "phonetic": "",
-      "translation": "\u6b22\u547c",
-      "sentence": "",
+      "phonetic": "/ʧɪr/",
+      "translation": "欢呼",
+      "sentence": "flowers added a note of cheerfulness to the drab room",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-other-mouth-chew",
       "word": "chew",
       "display": "Chew",
-      "phonetic": "",
-      "translation": "\u5480\u56bc",
-      "sentence": "",
+      "phonetic": "/ʧu/",
+      "translation": "咀嚼",
+      "sentence": "Chew your food and don't swallow it!",
       "tags": [
         "root-family"
       ],
@@ -94,13 +94,18 @@
       "id": "c-other-mouth-cite",
       "word": "cite",
       "display": "Cite",
-      "phonetic": "",
-      "translation": "\u5f15\u7528\uff1b\u5f15\u8bc1",
-      "sentence": "",
+      "phonetic": "/saɪt/",
+      "translation": "引用；引证",
+      "sentence": "he was cited for his outstanding achievements",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-mouth",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

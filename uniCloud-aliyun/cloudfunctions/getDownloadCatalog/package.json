@@ -1,0 +1,9 @@
+{
+  "name": "getDownloadCatalog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow download catalog and entitlement snapshot",
+  "dependencies": {
+    "rootflow-shared": "file:../common/rootflow-shared"
+  }
+}

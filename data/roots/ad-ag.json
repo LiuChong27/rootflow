@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ad-ag",
   "root": "ag-",
-  "meaning": "",
-  "descriptionCn": "g \u524d\u53d8\u4f53",
-  "updatedAt": "2026-04-15",
+  "meaning": "g variant",
+  "descriptionCn": "g 前变体",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "agglomerate-ad-ag-2",
       "word": "agglomerate",
       "display": "Agglomerate",
-      "phonetic": "",
-      "translation": "\u5927\u5757",
-      "sentence": "",
+      "phonetic": "/əˈglɑmərˌeɪt/",
+      "translation": "大块",
+      "sentence": "an agglomerated flower head",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "aggrade",
       "word": "aggrade",
       "display": "Aggrade",
-      "phonetic": "",
-      "translation": "\u6de4\u79ef",
-      "sentence": "",
+      "phonetic": "/ʌgrˈeɪd/",
+      "translation": "淤积",
+      "sentence": "To aggrade is to build up to a level by depositing sediment.",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "aggravate",
       "word": "aggravate",
       "display": "Aggravate",
-      "phonetic": "",
-      "translation": "\u52a0\u91cd\uff1b\u6076\u5316",
-      "sentence": "",
+      "phonetic": "/ˈægrəˌveɪt/",
+      "translation": "加重；恶化",
+      "sentence": "This drug aggravates the pain",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "aggress",
       "word": "aggress",
       "display": "Aggress",
-      "phonetic": "",
-      "translation": "\u653b\u51fb",
-      "sentence": "",
+      "phonetic": "/əˈgrɛs/",
+      "translation": "攻击",
+      "sentence": "The Serbs attacked the village at night",
       "tags": [
         "root-family",
         "other"
@@ -63,5 +63,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ag",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

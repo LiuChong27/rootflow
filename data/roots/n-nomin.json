@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-nomin",
-  "root": "nomin=name\u540d\u5b57",
+  "root": "nomin=name名字",
   "meaning": "name",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "名字",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-nomin-denomination",
       "word": "denomination",
       "display": "Denomination",
-      "phonetic": "",
-      "translation": "\u547d\u540d\uff1b\u540d\u79f0",
-      "sentence": "",
+      "phonetic": "/dɪˌnɔməˈneɪʃən/",
+      "translation": "命名；名称",
+      "sentence": "he flashed a fistful of bills of large denominations",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-nomin-ignominy",
       "word": "ignominy",
       "display": "Ignominy",
-      "phonetic": "",
-      "translation": "\u803b\u8fb1\uff1b\u7f9e\u803b",
-      "sentence": "",
+      "phonetic": "/ˈɪgnoʊˌmɪni/",
+      "translation": "耻辱；羞耻",
+      "sentence": "suffered the ignominy of being sent to prison",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-nomin-nominal",
       "word": "nominal",
       "display": "Nominal",
-      "phonetic": "",
-      "translation": "\u540d\u4e49\u4e0a\u7684\uff1b\u5fae\u4e0d\u8db3\u9053\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɑmənəl/",
+      "translation": "名义上的；微不足道的",
+      "sentence": "the Russian system of nominal brevity",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-nomin-nominate",
       "word": "nominate",
       "display": "Nominate",
-      "phonetic": "",
-      "translation": "\u63d0\u540d",
-      "sentence": "",
+      "phonetic": "/ˈnɑməˌneɪt/",
+      "translation": "提名",
+      "sentence": "The President nominated her as head of the Civil Rights Commission",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-nomin-noun",
       "word": "noun",
       "display": "Noun",
-      "phonetic": "",
-      "translation": "\u540d\u8bcd",
-      "sentence": "",
+      "phonetic": "/naʊn/",
+      "translation": "名词",
+      "sentence": "A noun is a content word that can be used to refer to a person, place, thing, quality, or action.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-nomin-renown",
       "word": "renown",
       "display": "Renown",
-      "phonetic": "",
-      "translation": "\u58f0\u8a89",
-      "sentence": "",
+      "phonetic": "/rɪˈnaʊn/",
+      "translation": "声誉",
+      "sentence": "A renown is the state or quality of being widely honored and acclaimed.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-nomin-renowned",
       "word": "renowned",
       "display": "Renowned",
-      "phonetic": "",
-      "translation": "\u8457\u540d\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈnaʊnd/",
+      "translation": "著名的",
+      "sentence": "a renowned painter",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-nomin",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

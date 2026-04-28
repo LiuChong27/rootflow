@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-space",
-  "root": "space\u7a7a\u95f4",
+  "root": "space空间",
   "meaning": "space",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "空间",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-space",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-space",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

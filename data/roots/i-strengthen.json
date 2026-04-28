@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "i-strengthen",
-  "root": "\u52a0\u5f3a",
+  "root": "加强",
   "meaning": "strengthen",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "加强",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "i-strengthen-impulse",
       "word": "impulse",
       "display": "Impulse",
-      "phonetic": "",
-      "translation": "\u63a8\u52a8\uff1b\u51b2\u52a8\uff1b\u523a\u6fc0",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpəls/",
+      "translation": "推动；冲动；刺激",
+      "sentence": "profound religious impulses",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "i-strengthen-incentive",
       "word": "incentive",
       "display": "Incentive",
-      "phonetic": "",
-      "translation": "\u523a\u6fc0\uff1b\u52a8\u529b",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈsɛnɪv/",
+      "translation": "刺激；动力",
+      "sentence": "An incentive is a positive motivational influence.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "i-strengthen-incidence",
       "word": "incidence",
       "display": "Incidence",
-      "phonetic": "",
-      "translation": "\u5f71\u54cd\u7a0b\u5ea6",
-      "sentence": "",
+      "phonetic": "/ˈɪnsɪdəns/",
+      "translation": "影响程度",
+      "sentence": "he measured the angle of incidence of the reflected light",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "i-strengthen-incident",
       "word": "incident",
       "display": "Incident",
-      "phonetic": "",
-      "translation": "\u4e8b\u4ef6",
-      "sentence": "",
+      "phonetic": "/ˈɪnsədənt/",
+      "translation": "事件",
+      "sentence": "the police investigated an incident at the bus station",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "i-strengthen-incidentally",
       "word": "incidentally",
       "display": "Incidentally",
-      "phonetic": "",
-      "translation": "\u9644\u5e26\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnsɪˈdɛntəli/",
+      "translation": "附带的",
+      "sentence": "incidentally, I won't go to the party",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "i-strengthen-income",
       "word": "income",
       "display": "Income",
-      "phonetic": "",
-      "translation": "\u6536\u5165\uff1b\u6536\u76ca",
-      "sentence": "",
+      "phonetic": "/ˈɪnˌkəm/",
+      "translation": "收入；收益",
+      "sentence": "An income is the financial gain (earned or unearned) accruing over a given period of time.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "i-strengthen-incorporate",
       "word": "incorporate",
       "display": "Incorporate",
-      "phonetic": "",
-      "translation": "\u5408\u5e76\uff1b\u7eb3\u5165",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈkɔrpərˌeɪt/",
+      "translation": "合并；纳入",
+      "sentence": "She incorporated his suggestions into her proposal",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "i-strengthen-increase",
       "word": "increase",
       "display": "Increase",
-      "phonetic": "",
-      "translation": "\u589e\u52a0",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈkris/",
+      "translation": "增加",
+      "sentence": "the increase is scheduled for next month",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "i-strengthen-increasingly",
       "word": "increasingly",
       "display": "Increasingly",
-      "phonetic": "",
-      "translation": "\u4e0d\u65ad\u589e\u52a0\u7684\uff1b\u65e5\u76ca",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈkrisɪŋgli/",
+      "translation": "不断增加的；日益",
+      "sentence": "she became increasingly depressed",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "i-strengthen-incredible",
       "word": "incredible",
       "display": "Incredible",
-      "phonetic": "",
-      "translation": "\u60ca\u4eba\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈkrɛdəbəl/",
+      "translation": "惊人的",
+      "sentence": "at incredible speed",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "i-strengthen-incur",
       "word": "incur",
       "display": "Incur",
-      "phonetic": "",
-      "translation": "\u62db\u81f4\uff1b\u906d\u53d7",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈkər/",
+      "translation": "招致；遭受",
+      "sentence": "People who smoke incur a great danger to their health",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "i-strengthen-indeed",
       "word": "indeed",
       "display": "Indeed",
-      "phonetic": "",
-      "translation": "\u786e\u5b9e\uff1b\u5b9e\u5728",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdid/",
+      "translation": "确实；实在",
+      "sentence": "they said the car would break down and indeed it did",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "i-strengthen-indicate",
       "word": "indicate",
       "display": "Indicate",
-      "phonetic": "",
-      "translation": "\u6307\u51fa\uff1b\u8868\u793a",
-      "sentence": "",
+      "phonetic": "/ˈɪndəˌkeɪt/",
+      "translation": "指出；表示",
+      "sentence": "These symptoms indicate a serious illness",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "i-strengthen-indication",
       "word": "indication",
       "display": "Indication",
-      "phonetic": "",
-      "translation": "\u6307\u51fa\uff1b\u8868\u660e\uff1b\u6697\u793a",
-      "sentence": "",
+      "phonetic": "/ˌɪndəˈkeɪʃən/",
+      "translation": "指出；表明；暗示",
+      "sentence": "an indication of foul play",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "i-strengthen-indicative",
       "word": "indicative",
       "display": "Indicative",
-      "phonetic": "",
-      "translation": "\u6697\u793a\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdɪkətɪv/",
+      "translation": "暗示的",
+      "sentence": "indicative mood",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "i-strengthen-induce",
       "word": "induce",
       "display": "Induce",
-      "phonetic": "",
-      "translation": "\u5f15\u8d77\uff1b\u8bf1\u4f7f",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdus/",
+      "translation": "引起；诱使",
+      "sentence": "induce a crisis",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "i-strengthen-indulge",
       "word": "indulge",
       "display": "Indulge",
-      "phonetic": "",
-      "translation": "\u653e\u4efb\uff1b\u7eb5\u5bb9\uff1b\u6c89\u6eba",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdəlʤ/",
+      "translation": "放任；纵容；沉溺",
+      "sentence": "The writer indulged in metaphorical language",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "i-strengthen-infect",
       "word": "infect",
       "display": "Infect",
-      "phonetic": "",
-      "translation": "\u4f20\u67d3\uff1b\u611f\u67d3\uff1b\u5f71\u54cd",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈfɛkt/",
+      "translation": "传染；感染；影响",
+      "sentence": "Your children have infected you with this head cold",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "i-strengthen-infectious",
       "word": "infectious",
       "display": "Infectious",
-      "phonetic": "",
-      "translation": "\u4f20\u67d3\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈfɛkʃəs/",
+      "translation": "传染的",
+      "sentence": "fear is exceedingly infectious; children catch it from their elders",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "i-strengthen-infer",
       "word": "infer",
       "display": "Infer",
-      "phonetic": "",
-      "translation": "\u63a8\u65ad",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈfər/",
+      "translation": "推断",
+      "sentence": "He guessed the right number of beans in the jar and won the prize",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "i-strengthen-inference",
       "word": "inference",
       "display": "Inference",
-      "phonetic": "",
-      "translation": "\u63a8\u8bba\uff1b\u63a8\u65ad",
-      "sentence": "",
+      "phonetic": "/ˈɪnfərəns/",
+      "translation": "推论；推断",
+      "sentence": "An inference is the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "i-strengthen-influence",
       "word": "influence",
       "display": "Influence",
-      "phonetic": "",
-      "translation": "\u5f71\u54cd\uff1b\u611f\u5316\uff1b\u6743\u52bf",
-      "sentence": "",
+      "phonetic": "/ˈɪnfluəns/",
+      "translation": "影响；感化；权势",
+      "sentence": "used her parents' influence to get the job",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "i-strengthen-influential",
       "word": "influential",
       "display": "Influential",
-      "phonetic": "",
-      "translation": "\u6709\u5f71\u54cd\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnfluˈɛnʃəl/",
+      "translation": "有影响的",
+      "sentence": "an influential newspaper",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "i-strengthen-inform",
       "word": "inform",
       "display": "Inform",
-      "phonetic": "",
-      "translation": "\u901a\u77e5",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈfɔrm/",
+      "translation": "通知",
+      "sentence": "I informed him of his rights",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "i-strengthen-information",
       "word": "information",
       "display": "Information",
-      "phonetic": "",
-      "translation": "\u6d88\u606f",
-      "sentence": "",
+      "phonetic": "/ˌɪnˌfɔrˈmeɪʃən/",
+      "translation": "消息",
+      "sentence": "the signal contained thousands of bits of information",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "i-strengthen-ingenious",
       "word": "ingenious",
       "display": "Ingenious",
-      "phonetic": "",
-      "translation": "\u673a\u654f\u7684\uff1b\u7cbe\u5de7\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʤinjəs/",
+      "translation": "机敏的；精巧的",
+      "sentence": "an ingenious solution to the problem",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "i-strengthen-inhale",
       "word": "inhale",
       "display": "Inhale",
-      "phonetic": "",
-      "translation": "\u5438\u5165",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈheɪl/",
+      "translation": "吸入",
+      "sentence": "Clinton smoked marijuana but never inhaled",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "i-strengthen-inherit",
       "word": "inherit",
       "display": "Inherit",
-      "phonetic": "",
-      "translation": "\u7ee7\u627f",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈhɛrət/",
+      "translation": "继承",
+      "sentence": "I inherited a castle from my French grandparents",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "i-strengthen-inhibit",
       "word": "inhibit",
       "display": "Inhibit",
-      "phonetic": "",
-      "translation": "\u6291\u5236\uff1b\u7ea6\u675f",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈhɪbət/",
+      "translation": "抑制；约束",
+      "sentence": "Contact between the young was inhibited by strict social customs",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "i-strengthen-initial",
       "word": "initial",
       "display": "Initial",
-      "phonetic": "",
-      "translation": "\u6700\u521d\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɪʃəl/",
+      "translation": "最初的",
+      "sentence": "he refused to put the initials FRS after his name",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "i-strengthen-initiate",
       "word": "initiate",
       "display": "Initiate",
-      "phonetic": "",
-      "translation": "\u5f00\u59cb\uff1b\u521b\u59cb\uff1b\u542f\u8499",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɪʃiˌeɪt/",
+      "translation": "开始；创始；启蒙",
+      "sentence": "it is very familiar to the initiate",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "i-strengthen-injure",
       "word": "injure",
       "display": "Injure",
-      "phonetic": "",
-      "translation": "\u635f\u5bb3\uff1b\u4f24\u5bb3",
-      "sentence": "",
+      "phonetic": "/ˈɪnʤər/",
+      "translation": "损害；伤害",
+      "sentence": "She hurt me when she did not include me among her guests",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "i-strengthen-injury",
       "word": "injury",
       "display": "Injury",
-      "phonetic": "",
-      "translation": "\u4f24\u5bb3",
-      "sentence": "",
+      "phonetic": "/ˈɪnʤəri/",
+      "translation": "伤害",
+      "sentence": "An injury is any physical damage to the body caused by violence or accident or fracture etc.",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "i-strengthen-innovation",
       "word": "innovation",
       "display": "Innovation",
-      "phonetic": "",
-      "translation": "\u6539\u9769\uff1b\u65b0\u6982\u5ff5( nov=new)",
-      "sentence": "",
+      "phonetic": "/ˌɪnəˈveɪʃən/",
+      "translation": "改革；新概念( nov=new)",
+      "sentence": "she looked forward to her initiation as an adult",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "i-strengthen-inspect",
       "word": "inspect",
       "display": "Inspect",
-      "phonetic": "",
-      "translation": "\u68c0\u67e5\uff1b\u8c03\u67e5",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈspɛkt/",
+      "translation": "检查；调查",
+      "sentence": "Please inspect your father's will carefully",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "i-strengthen-inspiration",
       "word": "inspiration",
       "display": "Inspiration",
-      "phonetic": "",
-      "translation": "\u7075\u611f\uff1b\u9f13\u821e",
-      "sentence": "",
+      "phonetic": "/ˌɪnspərˈeɪʃən/",
+      "translation": "灵感；鼓舞",
+      "sentence": "he had little respect for the inspirations of other artists",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "i-strengthen-inspire",
       "word": "inspire",
       "display": "Inspire",
-      "phonetic": "",
-      "translation": "\u6fc0\u52b1",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈspaɪr/",
+      "translation": "激励",
+      "sentence": "The article about the artist inspired the exhibition of his recent work",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "i-strengthen-install",
       "word": "install",
       "display": "Install",
-      "phonetic": "",
-      "translation": "\u5b89\u88c5",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈstɔl/",
+      "translation": "安装",
+      "sentence": "install the washer and dryer",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "i-strengthen-installation",
       "word": "installation",
       "display": "Installation",
-      "phonetic": "",
-      "translation": "\u5b89\u88c5\uff1b\u8bbe\u5907",
-      "sentence": "",
+      "phonetic": "/ˌɪnstəˈleɪʃən/",
+      "translation": "安装；设备",
+      "sentence": "the telephone installation took only a few minutes",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "i-strengthen-installment",
       "word": "installment",
       "display": "Installment",
-      "phonetic": "",
-      "translation": "\u5206\u671f\u4ed8\u6b3e",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈstɔlmənt/",
+      "translation": "分期付款",
+      "sentence": "the telephone installation took only a few minutes",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "i-strengthen-instance",
       "word": "instance",
       "display": "Instance",
-      "phonetic": "",
-      "translation": "\u4f8b\u5b50\uff1b\u4e8b\u4f8b",
-      "sentence": "",
+      "phonetic": "/ˈɪnstəns/",
+      "translation": "例子；事例",
+      "sentence": "another instance occurred yesterday",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "i-strengthen-instant",
       "word": "instant",
       "display": "Instant",
-      "phonetic": "",
-      "translation": "\u7acb\u5373\u7684\uff1b\u6025\u8feb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnstənt/",
+      "translation": "立即的；急迫的",
+      "sentence": "relief was instantaneous",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "i-strengthen-instantaneous",
       "word": "instantaneous",
       "display": "Instantaneous",
-      "phonetic": "",
-      "translation": "\u77ac\u95f4\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnstənˈtæniəs/",
+      "translation": "瞬间的",
+      "sentence": "relief was instantaneous",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "i-strengthen-instruct",
       "word": "instruct",
       "display": "Instruct",
-      "phonetic": "",
-      "translation": "\u6559\u6388\uff1b\u547d\u4ee4\uff1b\u6307\u793a",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈstrəkt/",
+      "translation": "教授；命令；指示",
+      "sentence": "He instructed me in building a boat",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "i-strengthen-instruction",
       "word": "instruction",
       "display": "Instruction",
-      "phonetic": "",
-      "translation": "\u6559\u6388\uff1b\u6307\u5bfc\uff1b\u64cd\u4f5c\u6307\u5357",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈstrəkʃən/",
+      "translation": "教授；指导；操作指南",
+      "sentence": "our instruction was carefully programmed",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "i-strengthen-instrument",
       "word": "instrument",
       "display": "Instrument",
-      "phonetic": "",
-      "translation": "\u5de5\u5177\uff1b\u4eea\u5668",
-      "sentence": "",
+      "phonetic": "/ˈɪnstrəmənt/",
+      "translation": "工具；仪器",
+      "sentence": "my greed was the instrument of my destruction",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "i-strengthen-insulate",
       "word": "insulate",
       "display": "Insulate",
-      "phonetic": "",
-      "translation": "\u5b64\u7acb\uff1b\u9694\u79bb\uff1b\u4f7f\u7edd\u7f18",
-      "sentence": "",
+      "phonetic": "/ˈɪnsəˌleɪt/",
+      "translation": "孤立；隔离；使绝缘",
+      "sentence": "We had his bedroom insulated before winter came",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "i-strengthen-insult",
       "word": "insult",
       "display": "Insult",
-      "phonetic": "",
-      "translation": "\u4fae\u8fb1",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈsəlt/",
+      "translation": "侮辱",
+      "sentence": "they yelled insults at the visiting team",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "i-strengthen-insurance",
       "word": "insurance",
       "display": "Insurance",
-      "phonetic": "",
-      "translation": "\u4fdd\u9669",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʃʊrəns/",
+      "translation": "保险",
+      "sentence": "you should have read the small print on your policy",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "i-strengthen-insure",
       "word": "insure",
       "display": "Insure",
-      "phonetic": "",
-      "translation": "\u4fdd\u9669\uff1b\u786e\u4fdd",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈʃʊr/",
+      "translation": "保险；确保",
+      "sentence": "He verified that the valves were closed",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "i-strengthen-intellectual",
       "word": "intellectual",
       "display": "Intellectual",
-      "phonetic": "",
-      "translation": "\u77e5\u8bc6\u5206\u5b50 \u667a\u529b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnəˈlɛkʧuəl/",
+      "translation": "知识分子 智力的",
+      "sentence": "intellectual problems",
       "tags": [
         "root-family"
       ],
@@ -622,9 +622,9 @@
       "id": "i-strengthen-intelligence",
       "word": "intelligence",
       "display": "Intelligence",
-      "phonetic": "",
-      "translation": "\u667a\u529b\uff1b\u7406\u89e3\u529b",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛləʤəns/",
+      "translation": "智力；理解力",
+      "sentence": "we sent out planes to gather intelligence on their radar coverage",
       "tags": [
         "root-family"
       ],
@@ -634,9 +634,9 @@
       "id": "i-strengthen-intelligent",
       "word": "intelligent",
       "display": "Intelligent",
-      "phonetic": "",
-      "translation": "\u806a\u660e\u7684\uff1b\u660e\u667a\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛləʤənt/",
+      "translation": "聪明的；明智的",
+      "sentence": "is there intelligent life in the universe?",
       "tags": [
         "root-family"
       ],
@@ -646,9 +646,9 @@
       "id": "i-strengthen-intelligible",
       "word": "intelligible",
       "display": "Intelligible",
-      "phonetic": "",
-      "translation": "\u53ef\u7406\u89e3\u7684\uff1b\u6e05\u695a\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛləʤəbəl/",
+      "translation": "可理解的；清楚的",
+      "sentence": "intelligible pronunciation",
       "tags": [
         "root-family"
       ],
@@ -658,9 +658,9 @@
       "id": "i-strengthen-intend",
       "word": "intend",
       "display": "Intend",
-      "phonetic": "",
-      "translation": "\u60f3\u8981\uff1b\u6253\u7b97",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛnd/",
+      "translation": "想要；打算",
+      "sentence": "She was intended to become the director",
       "tags": [
         "root-family"
       ],
@@ -670,9 +670,9 @@
       "id": "i-strengthen-intense",
       "word": "intense",
       "display": "Intense",
-      "phonetic": "",
-      "translation": "\u5f3a\u70c8\u7684\uff1b\u5267\u70c8\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛns/",
+      "translation": "强烈的；剧烈的",
+      "sentence": "intense heat",
       "tags": [
         "root-family"
       ],
@@ -682,9 +682,9 @@
       "id": "i-strengthen-intension",
       "word": "intension",
       "display": "Intension",
-      "phonetic": "",
-      "translation": "\u610f\u56fe\uff1b\u76ee\u7684",
-      "sentence": "",
+      "phonetic": "/ɪntˈɛnʃʌn/",
+      "translation": "意图；目的",
+      "sentence": "An intension is what you must know in order to determine the reference of an expression.",
       "tags": [
         "root-family"
       ],
@@ -694,9 +694,9 @@
       "id": "i-strengthen-intensity",
       "word": "intensity",
       "display": "Intensity",
-      "phonetic": "",
-      "translation": "\u5f3a\u70c8",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛnsɪti/",
+      "translation": "强烈",
+      "sentence": "he adjusted the intensity of the sound",
       "tags": [
         "root-family"
       ],
@@ -706,9 +706,9 @@
       "id": "i-strengthen-intensive",
       "word": "intensive",
       "display": "Intensive",
-      "phonetic": "",
-      "translation": "\u52a0\u5f3a\u7684\uff1b\u96c6\u4e2d\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtɛnsɪv/",
+      "translation": "加强的；集中的",
+      "sentence": "the questioning was intensive",
       "tags": [
         "root-family"
       ],
@@ -718,9 +718,9 @@
       "id": "i-strengthen-interpret",
       "word": "interpret",
       "display": "Interpret",
-      "phonetic": "",
-      "translation": "\u89e3\u91ca\uff1b\u8bf4\u660e",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtərprət/",
+      "translation": "解释；说明",
+      "sentence": "How do you interpret his behavior?",
       "tags": [
         "root-family"
       ],
@@ -730,9 +730,9 @@
       "id": "i-strengthen-intimate-threat",
       "word": "intimate",
       "display": "Intimate",
-      "phonetic": "",
-      "translation": "\u80c1\u8feb\uff1b\u5a01\u80c1",
-      "sentence": "",
+      "phonetic": "/ˈɪnɪmət/",
+      "translation": "胁迫；威胁",
+      "sentence": "intimate friend",
       "tags": [
         "root-family"
       ],
@@ -742,9 +742,9 @@
       "id": "i-strengthen-intricate",
       "word": "intricate",
       "display": "Intricate",
-      "phonetic": "",
-      "translation": "\u590d\u6742\u7684\uff1b\u9519\u7efc\u7684\uff1b\u96be\u4ee5\u7406\u89e3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪntrəkət/",
+      "translation": "复杂的；错综的；难以理解的",
+      "sentence": "intricate lacework",
       "tags": [
         "root-family"
       ],
@@ -754,9 +754,9 @@
       "id": "i-strengthen-introduce",
       "word": "introduce",
       "display": "Introduce",
-      "phonetic": "",
-      "translation": "\u4ecb\u7ecd\uff1b\u5f15\u5165",
-      "sentence": "",
+      "phonetic": "/ˌɪntrəˈdus/",
+      "translation": "介绍；引入",
+      "sentence": "introduce the new neighbors to the community",
       "tags": [
         "root-family"
       ],
@@ -766,9 +766,9 @@
       "id": "i-strengthen-introduction",
       "word": "introduction",
       "display": "Introduction",
-      "phonetic": "",
-      "translation": "\u7eea\u8bba\uff1b\u5f15\u8fdb",
-      "sentence": "",
+      "phonetic": "/ˌɪntrəˈdəkʃən/",
+      "translation": "绪论；引进",
+      "sentence": "they resisted the introduction of impractical alternatives",
       "tags": [
         "root-family"
       ],
@@ -778,9 +778,9 @@
       "id": "i-strengthen-intrude",
       "word": "intrude",
       "display": "Intrude",
-      "phonetic": "",
-      "translation": "\u95ef\u5165\uff1b\u5f3a\u52a0",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈtrud/",
+      "translation": "闯入；强加",
+      "sentence": "They intruded on our dinner party",
       "tags": [
         "root-family"
       ],
@@ -790,9 +790,9 @@
       "id": "i-strengthen-invade",
       "word": "invade",
       "display": "Invade",
-      "phonetic": "",
-      "translation": "\u5165\u4fb5\uff1b\u4fb5\u7565",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈveɪd/",
+      "translation": "入侵；侵略",
+      "sentence": "Hitler invaded Poland on September 1, 1939",
       "tags": [
         "root-family"
       ],
@@ -802,9 +802,9 @@
       "id": "i-strengthen-invaluable",
       "word": "invaluable",
       "display": "Invaluable",
-      "phonetic": "",
-      "translation": "\u975e\u5e38\u5b9d\u8d35\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvæljəbəl/",
+      "translation": "非常宝贵的",
+      "sentence": "If something is invaluable, it is having incalculable monetary, intellectual, or spiritual worth.",
       "tags": [
         "root-family"
       ],
@@ -814,9 +814,9 @@
       "id": "i-strengthen-invasion",
       "word": "invasion",
       "display": "Invasion",
-      "phonetic": "",
-      "translation": "\u5165\u4fb5\uff1b\u4fb5\u7565",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈveɪʒən/",
+      "translation": "入侵；侵略",
+      "sentence": "an invasion of tourists",
       "tags": [
         "root-family"
       ],
@@ -826,9 +826,9 @@
       "id": "i-strengthen-invent",
       "word": "invent",
       "display": "Invent",
-      "phonetic": "",
-      "translation": "\u53d1\u660e\uff1b\u521b\u9020",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvɛnt/",
+      "translation": "发明；创造",
+      "sentence": "excogitate a way to measure the speed of light",
       "tags": [
         "root-family"
       ],
@@ -838,9 +838,9 @@
       "id": "i-strengthen-invention",
       "word": "invention",
       "display": "Invention",
-      "phonetic": "",
-      "translation": "\u53d1\u660e\uff1b\u521b\u9020",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvɛnʃən/",
+      "translation": "发明；创造",
+      "sentence": "An invention is the creation of something in the mind.",
       "tags": [
         "root-family"
       ],
@@ -850,9 +850,9 @@
       "id": "i-strengthen-inventory",
       "word": "inventory",
       "display": "Inventory",
-      "phonetic": "",
-      "translation": "\u8be6\u7ec6\u76ee\u5f55\uff1b\u5b58\u8d27",
-      "sentence": "",
+      "phonetic": "/ˌɪnvənˈtɔri/",
+      "translation": "详细目录；存货",
+      "sentence": "they carried a vast inventory of hardware",
       "tags": [
         "root-family"
       ],
@@ -862,9 +862,9 @@
       "id": "i-strengthen-invest",
       "word": "invest",
       "display": "Invest",
-      "phonetic": "",
-      "translation": "\u6295\u8d44\uff1b\u6295\u5165",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvɛst/",
+      "translation": "投资；投入",
+      "sentence": "Put money into bonds",
       "tags": [
         "root-family"
       ],
@@ -874,9 +874,9 @@
       "id": "i-strengthen-investigate",
       "word": "investigate",
       "display": "Investigate",
-      "phonetic": "",
-      "translation": "\u8c03\u67e5",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvɛstəˌgeɪt/",
+      "translation": "调查",
+      "sentence": "Let's investigate the syntax of Chinese",
       "tags": [
         "root-family"
       ],
@@ -886,9 +886,9 @@
       "id": "i-strengthen-investment",
       "word": "investment",
       "display": "Investment",
-      "phonetic": "",
-      "translation": "\u6295\u8d44\uff1b\u6295\u8d44\u989d",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvɛstmənt/",
+      "translation": "投资；投资额",
+      "sentence": "this job calls for the investment of some hard thinking",
       "tags": [
         "root-family"
       ],
@@ -899,5 +899,6 @@
   "rootLevel": 2,
   "rootPath": "i>i-strengthen",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

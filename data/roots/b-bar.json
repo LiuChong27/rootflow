@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-bar",
-  "root": "bar\u6728\u6761",
+  "root": "bar木条",
   "meaning": "wood",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "木条",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-bar-barber",
       "word": "barber",
       "display": "Barber",
-      "phonetic": "",
-      "translation": "\u7406\u53d1\u5e08\uff08\u6728\u5934=\u68b3\u5b50\uff09",
-      "sentence": "",
+      "phonetic": "/ˈbɑrbər/",
+      "translation": "理发师（木头=梳子）",
+      "sentence": "A barber is United States composer (1910-1981).",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-bar-bargain",
       "word": "bargain",
       "display": "Bargain",
-      "phonetic": "",
-      "translation": "\u5408\u540c",
-      "sentence": "",
+      "phonetic": "/ˈbɑrgɪn/",
+      "translation": "合同",
+      "sentence": "he made a bargain with the devil",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-bar-barrel",
       "word": "barrel",
       "display": "Barrel",
-      "phonetic": "",
-      "translation": "\u6876\uff1b\u67aa\u7ba1",
-      "sentence": "",
+      "phonetic": "/ˈbɛrəl/",
+      "translation": "桶；枪管",
+      "sentence": "a barrel of beer is 31 gallons and a barrel of oil is 42 gallons",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-bar-barrier",
       "word": "barrier",
       "display": "Barrier",
-      "phonetic": "",
-      "translation": "\u6805\u680f\uff1b\u5c4f\u969c",
-      "sentence": "",
+      "phonetic": "/ˈbɛriər/",
+      "translation": "栅栏；屏障",
+      "sentence": "intolerance is a barrier to understanding",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-bar-basic",
       "word": "basic",
       "display": "Basic",
-      "phonetic": "",
-      "translation": "\u57fa\u672c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbeɪsɪk/",
+      "translation": "基本的",
+      "sentence": "a basic fact",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-bar-bloom",
       "word": "bloom",
       "display": "Bloom",
-      "phonetic": "",
-      "translation": "\u5f00\u82b1",
-      "sentence": "",
+      "phonetic": "/bluːm/",
+      "translation": "开花",
+      "sentence": "you will stop all bloom if you let the flowers go to seed",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-bar-blossom",
       "word": "blossom",
       "display": "Blossom",
-      "phonetic": "",
-      "translation": "\u7e41\u8363\uff1b\u9752\u6625",
-      "sentence": "",
+      "phonetic": "/ˈblɑsəm/",
+      "translation": "繁荣；青春",
+      "sentence": "Youth blossomed into maturity",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-bar-blouse",
       "word": "blouse",
       "display": "Blouse",
-      "phonetic": "",
-      "translation": "\u5973\u886c\u8863",
-      "sentence": "",
+      "phonetic": "/blaʊs/",
+      "translation": "女衬衣",
+      "sentence": "A blouse is a top worn by women.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-bar-bolt",
       "word": "bolt",
       "display": "Bolt",
-      "phonetic": "",
-      "translation": "\u63d2\u9500\uff1b\u87ba\u6813",
-      "sentence": "",
+      "phonetic": "/boʊlt/",
+      "translation": "插销；螺栓",
+      "sentence": "She bolted from her seat",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-bar-boost",
       "word": "boost",
       "display": "Boost",
-      "phonetic": "",
-      "translation": "\u63d0\u5347",
-      "sentence": "",
+      "phonetic": "/buːst/",
+      "translation": "提升",
+      "sentence": "he gave her a boost over the fence",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-bar-booth",
       "word": "booth",
       "display": "Booth",
-      "phonetic": "",
-      "translation": "\u7535\u8bdd\u4ead\uff1b\u8d27\u644a",
-      "sentence": "",
+      "phonetic": "/buθ/",
+      "translation": "电话亭；货摊",
+      "sentence": "A booth is a table (in a restaurant or bar) surrounded by two high-backed benches.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-bar-borrow",
       "word": "borrow",
       "display": "Borrow",
-      "phonetic": "",
-      "translation": "\u501f\uff0c\u6284\u88ad",
-      "sentence": "",
+      "phonetic": "/ˈbɑˌroʊ/",
+      "translation": "借，抄袭",
+      "sentence": "May I borrow your lawn mower?",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-bar-brace",
       "word": "brace",
       "display": "Brace",
-      "phonetic": "",
-      "translation": "\u652f\u6491\uff1b\u6258\u67b6",
-      "sentence": "",
+      "phonetic": "/breɪs/",
+      "translation": "支撑；托架",
+      "sentence": "he wore a brace on his knee",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "b-bar-bracket",
       "word": "bracket",
       "display": "Bracket",
-      "phonetic": "",
-      "translation": "\u62ec\u53f7",
-      "sentence": "",
+      "phonetic": "/ˈbrækɪt/",
+      "translation": "括号",
+      "sentence": "bracket bookshelves",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "b-bar-branch",
       "word": "branch",
       "display": "Branch",
-      "phonetic": "",
-      "translation": "\u6811\u6761\uff1b\u5206\u652f\uff1b\u90e8\u95e8\uff1b\u4ea4\u6d41",
-      "sentence": "",
+      "phonetic": "/brænʧ/",
+      "translation": "树条；分支；部门；交流",
+      "sentence": "a branch of Congress",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "b-bar-brisk",
       "word": "brisk",
       "display": "Brisk",
-      "phonetic": "",
-      "translation": "\u751f\u673a\u52c3\u52c3\u7684\uff1b\u8f7b\u5feb\u7684",
-      "sentence": "",
+      "phonetic": "/brɪsk/",
+      "translation": "生机勃勃的；轻快的",
+      "sentence": "business brisked up",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "b-bar-broom",
       "word": "broom",
       "display": "Broom",
-      "phonetic": "",
-      "translation": "\u626b\u5e1a",
-      "sentence": "",
+      "phonetic": "/bruːm/",
+      "translation": "扫帚",
+      "sentence": "Sweep the crumbs off the table",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "b-bar-bruise",
       "word": "bruise",
       "display": "Bruise",
-      "phonetic": "",
-      "translation": "\u4f24\u75d5",
-      "sentence": "",
+      "phonetic": "/bruːz/",
+      "translation": "伤痕",
+      "sentence": "I bruised my knee",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "b-bar-brush",
       "word": "brush",
       "display": "Brush",
-      "phonetic": "",
-      "translation": "\u5237\u5b50\uff1b\u753b\u7b14",
-      "sentence": "",
+      "phonetic": "/brəʃ/",
+      "translation": "刷子；画笔",
+      "sentence": "the dentist recommended two brushes a day",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "b-bar-bruta",
       "word": "bruta",
       "display": "Bruta",
-      "phonetic": "",
-      "translation": "\u6b8b\u5fcd\u7684\uff1b\u4e25\u5cfb\u7684",
-      "sentence": "",
+      "phonetic": "/brˈutʌ/",
+      "translation": "残忍的；严峻的",
+      "sentence": "Bruta is used here with the sense of \"残忍的；严峻的\".",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "b-bar-bucket",
       "word": "bucket",
       "display": "Bucket",
-      "phonetic": "",
-      "translation": "\u6c34\u6876",
-      "sentence": "",
+      "phonetic": "/ˈbəkɪt/",
+      "translation": "水桶",
+      "sentence": "A bucket is a roughly cylindrical vessel that is open at the top.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "b-bar-bulletin",
       "word": "bulletin",
       "display": "Bulletin",
-      "phonetic": "",
-      "translation": "\u516c\u544a\uff1b\u544a\u793a",
-      "sentence": "",
+      "phonetic": "/ˈbʊlɪtən/",
+      "translation": "公告；告示",
+      "sentence": "A bulletin is a brief report (especially an official statement issued for immediate publication or broadcast).",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "b-bar-burden",
       "word": "burden",
       "display": "Burden",
-      "phonetic": "",
-      "translation": "\u8d1f\u62c5",
-      "sentence": "",
+      "phonetic": "/ˈbərdən/",
+      "translation": "负担",
+      "sentence": "the burden of responsibility",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "b-bar-embar",
       "word": "embar",
       "display": "Embar",
-      "phonetic": "",
-      "translation": "\u56da\u7981",
-      "sentence": "",
+      "phonetic": "/ɛmbˈɑr/",
+      "translation": "囚禁",
+      "sentence": "Embar is used here with the sense of \"囚禁\".",
       "tags": [
         "root-family"
       ],
@@ -299,5 +299,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-bar",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

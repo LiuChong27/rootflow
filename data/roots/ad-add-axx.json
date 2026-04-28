@@ -3,16 +3,16 @@
   "rootId": "ad-add-axx",
   "root": "ad=add=axx",
   "meaning": "toward/intensify",
-  "descriptionCn": "\u52a0\u5f3a",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "加强",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abide",
       "word": "abide",
       "display": "Abide",
-      "phonetic": "",
-      "translation": "\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/əˈbaɪd/",
+      "translation": "坚持",
+      "sentence": "You can stay with me while you are in town",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "accuse",
       "word": "accuse",
       "display": "Accuse",
-      "phonetic": "",
-      "translation": "\u63a7\u544a\uff1b\u8c34\u8d23",
-      "sentence": "",
+      "phonetic": "/əˈkjuz/",
+      "translation": "控告；谴责",
+      "sentence": "The neighbors accused the man of spousal abuse",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "adhere",
       "word": "adhere",
       "display": "Adhere",
-      "phonetic": "",
-      "translation": "\u4f9d\u9644",
-      "sentence": "",
+      "phonetic": "/əˈdhɪr/",
+      "translation": "依附",
+      "sentence": "You must adhere to the rules",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "adjure",
       "word": "adjure",
       "display": "Adjure",
-      "phonetic": "",
-      "translation": "\u6073\u8bf7",
-      "sentence": "",
+      "phonetic": "/ʌdʒˈʊr/",
+      "translation": "恳请",
+      "sentence": "The prophet bid all people to become good persons",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "admit",
       "word": "admit",
       "display": "Admit",
-      "phonetic": "",
-      "translation": "\u5141\u8bb8\u8fdb\u5165",
-      "sentence": "",
+      "phonetic": "/ədˈmɪt/",
+      "translation": "允许进入",
+      "sentence": "He admitted his errors",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "admonish",
       "word": "admonish",
       "display": "Admonish",
-      "phonetic": "",
-      "translation": "\u529d\u544a",
-      "sentence": "",
+      "phonetic": "/ædˈmɑnɪʃ/",
+      "translation": "劝告",
+      "sentence": "He admonished the child for his bad behavior",
       "tags": [
         "root-family",
         "other"
@@ -88,9 +88,9 @@
       "id": "affiance",
       "word": "affiance",
       "display": "Affiance",
-      "phonetic": "",
-      "translation": "\u5a5a\u7ea6\uff1b\u4fe1\u6258",
-      "sentence": "",
+      "phonetic": "/ʌfˈaɪʌns/",
+      "translation": "婚约；信托",
+      "sentence": "Affiance means to give to in marriage.",
       "tags": [
         "root-family",
         "other"
@@ -101,9 +101,9 @@
       "id": "agglomerate",
       "word": "agglomerate",
       "display": "Agglomerate",
-      "phonetic": "",
-      "translation": "\u5927\u5757",
-      "sentence": "",
+      "phonetic": "/əˈglɑmərˌeɪt/",
+      "translation": "大块",
+      "sentence": "an agglomerated flower head",
       "tags": [
         "root-family",
         "other"
@@ -114,9 +114,9 @@
       "id": "allege",
       "word": "allege",
       "display": "Allege",
-      "phonetic": "",
-      "translation": "\u65ad\u8a00\uff1b\u5ba3\u79f0\uff1b\u6307\u63a7",
-      "sentence": "",
+      "phonetic": "/əˈlɛʤ/",
+      "translation": "断言；宣称；指控",
+      "sentence": "He alleged that he was the victim of a crime",
       "tags": [
         "root-family",
         "other"
@@ -127,9 +127,9 @@
       "id": "augment",
       "word": "augment",
       "display": "Augment",
-      "phonetic": "",
-      "translation": "\u589e\u5927",
-      "sentence": "",
+      "phonetic": "/ɔgˈmɛnt/",
+      "translation": "增大",
+      "sentence": "The recent speech of the president augmented tensions in the Near East",
       "tags": [
         "root-family",
         "other"
@@ -141,5 +141,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-prefix>ad-add-axx",
   "type": "prefix",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

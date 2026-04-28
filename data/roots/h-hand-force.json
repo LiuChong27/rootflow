@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "h-hand-force",
-  "root": "\u5f15\u7533\uff1a\u529b",
+  "root": "引申：力",
   "meaning": "force",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "引申：力",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "h-hand-force-harbour",
       "word": "harbour",
       "display": "Harbour",
-      "phonetic": "",
-      "translation": "\u6d77\u6e2f\uff1b\u907f\u96be\u6240",
-      "sentence": "",
+      "phonetic": "/ˈhɑrbər/",
+      "translation": "海港；避难所",
+      "sentence": "She is harboring a grudge against him",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "h-hand-force-hard",
       "word": "hard",
       "display": "Hard",
-      "phonetic": "",
-      "translation": "\u575a\u786c\u7684\uff1b\u7ed3\u5b9e\u7684\uff1b\u56f0\u96be",
-      "sentence": "",
+      "phonetic": "/hɑrd/",
+      "translation": "坚硬的；结实的；困难",
+      "sentence": "why is it so hard for you to keep a secret?",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "h-hand-force-harden",
       "word": "harden",
       "display": "Harden",
-      "phonetic": "",
-      "translation": "\u53d8\u786c",
-      "sentence": "",
+      "phonetic": "/ˈhɑrdən/",
+      "translation": "变硬",
+      "sentence": "The wax hardened",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "h-hand-force-hardly",
       "word": "hardly",
       "display": "Hardly",
-      "phonetic": "",
-      "translation": "\u51e0\u4e4e\u4e0d",
-      "sentence": "",
+      "phonetic": "/ˈhɑrdli/",
+      "translation": "几乎不",
+      "sentence": "we hardly knew them",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "h-hand-force-hardship",
       "word": "hardship",
       "display": "Hardship",
-      "phonetic": "",
-      "translation": "\u8270\u96be\uff1b\u56f0\u82e6",
-      "sentence": "",
+      "phonetic": "/ˈhɑrdʃɪp/",
+      "translation": "艰难；困苦",
+      "sentence": "a life of hardship",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "h-hand-force-haste",
       "word": "haste",
       "display": "Haste",
-      "phonetic": "",
-      "translation": "\u5306\u5fd9\uff1b\u6fc0\u7d20\uff1b\u8349\u7387",
-      "sentence": "",
+      "phonetic": "/heɪst/",
+      "translation": "匆忙；激素；草率",
+      "sentence": "he soon regretted his haste",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "h-hand-force-hasty",
       "word": "hasty",
       "display": "Hasty",
-      "phonetic": "",
-      "translation": "\u5306\u5fd9\u7684\uff1b\u8349\u7387\u7684",
-      "sentence": "",
+      "phonetic": "/ˈheɪsti/",
+      "translation": "匆忙的；草率的",
+      "sentence": "made a hasty exit",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "h-hand-force-hat",
       "word": "hat",
       "display": "Hat",
-      "phonetic": "",
-      "translation": "\u5e3d\u5b50",
-      "sentence": "",
+      "phonetic": "/hæt/",
+      "translation": "帽子",
+      "sentence": "he took off his politician's hat and talked frankly",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "h-hand-force-hatch",
       "word": "hatch",
       "display": "Hatch",
-      "phonetic": "",
-      "translation": "\u5b75\u5316\uff08hen\u6bcd\u9e21\uff09",
-      "sentence": "",
+      "phonetic": "/hæʧ/",
+      "translation": "孵化（hen母鸡）",
+      "sentence": "young birds, fish, and reptiles hatch",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "h-hand-force-hate",
       "word": "hate",
       "display": "Hate",
-      "phonetic": "",
-      "translation": "\u618e\u6068",
-      "sentence": "",
+      "phonetic": "/heɪt/",
+      "translation": "憎恨",
+      "sentence": "I hate Mexican food",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "h-hand-force-hatred",
       "word": "hatred",
       "display": "Hatred",
-      "phonetic": "",
-      "translation": "\u618e\u6068\uff1b\u6028\u6068",
-      "sentence": "",
+      "phonetic": "/ˈheɪtrəd/",
+      "translation": "憎恨；怨恨",
+      "sentence": "A hatred is the emotion of intense dislike; a feeling of dislike so strong that it demands action.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "h-hand-force-haul",
       "word": "haul",
       "display": "Haul",
-      "phonetic": "",
-      "translation": "\u7528\u529b\u62d6",
-      "sentence": "",
+      "phonetic": "/hɔl/",
+      "translation": "用力拖",
+      "sentence": "the haul up the hill went very slowly",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "h-hand-force-hawk",
       "word": "hawk",
       "display": "Hawk",
-      "phonetic": "",
-      "translation": "\u9e70\uff1b\u96bc",
-      "sentence": "",
+      "phonetic": "/hɔk/",
+      "translation": "鹰；隼",
+      "sentence": "the tribes like to hawk in the desert",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "h-hand-force-heap",
       "word": "heap",
       "display": "Heap",
-      "phonetic": "",
-      "translation": "\u5927\u91cf\uff1b\u8bb8\u591a\uff1b\u4e00\u5806",
-      "sentence": "",
+      "phonetic": "/hiːp/",
+      "translation": "大量；许多；一堆",
+      "sentence": "He heaped him with work",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "h-hand-force-hence",
       "word": "hence",
       "display": "Hence",
-      "phonetic": "",
-      "translation": "\u4ece\u6b64\uff1b\u4eca\u540e",
-      "sentence": "",
+      "phonetic": "/hɛns/",
+      "translation": "从此；今后",
+      "sentence": "the eggs were fresh and hence satisfactory",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "h-hand-force-henceforth",
       "word": "henceforth",
       "display": "Henceforth",
-      "phonetic": "",
-      "translation": "\u4eca\u540e",
-      "sentence": "",
+      "phonetic": "/ˈhɛnsˈfɔrθ/",
+      "translation": "今后",
+      "sentence": "henceforth she will be known as Mrs. Smith",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "h-hand-force-hijack",
       "word": "hijack",
       "display": "Hijack",
-      "phonetic": "",
-      "translation": "\u52ab\u6301\uff1b\u62e6\u8def\u62a2\u52ab",
-      "sentence": "",
+      "phonetic": "/ˈhaɪˌʤæk/",
+      "translation": "劫持；拦路抢劫",
+      "sentence": "they hijacked the judicial process",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "h-hand-force-howl",
       "word": "howl",
       "display": "Howl",
-      "phonetic": "",
-      "translation": "\u5486\u54ee\uff1b\u6012\u543c",
-      "sentence": "",
+      "phonetic": "/haʊl/",
+      "translation": "咆哮；怒吼",
+      "sentence": "he gave a howl of pain",
       "tags": [
         "root-family"
       ],
@@ -227,5 +227,6 @@
   "rootLevel": 3,
   "rootPath": "h>h-hand>h-hand-force",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

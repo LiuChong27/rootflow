@@ -3,12 +3,13 @@
   "rootId": "r-re",
   "root": "R_re",
   "meaning": "re-",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "_re",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "r",
-  "rootLevel": 2,
-  "rootPath": "r>r-re",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "r-re",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

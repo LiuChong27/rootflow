@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-ced-ceed-cess",
-  "root": "c-ced-ceed-cess",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "ced / ceed / cess",
+  "meaning": "ced / ceed / cess family",
+  "descriptionCn": "ced / ceed / cess 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-ced-ceed-cess-accede",
       "word": "accede",
       "display": "Accede",
-      "phonetic": "",
-      "translation": "\u540c\u610f\uff1b\u5c31\u804c",
-      "sentence": "",
+      "phonetic": "/ækˈsid/",
+      "translation": "同意；就职",
+      "sentence": "accede to the throne",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-ced-ceed-cess-access",
       "word": "access",
       "display": "Access",
-      "phonetic": "",
-      "translation": "\u63a5\u8fd1\uff1b\u8fdb\u5165",
-      "sentence": "",
+      "phonetic": "/ˈækˌsɛs/",
+      "translation": "接近；进入",
+      "sentence": "he took a wrong turn on the access to the bridge",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-ced-ceed-cess-accessible",
       "word": "accessible",
       "display": "Accessible",
-      "phonetic": "",
-      "translation": "\u6613\u63a5\u8fd1\u7684\uff1b\u53ef\u7406\u89e3\u7684",
-      "sentence": "",
+      "phonetic": "/ækˈsɛsəbəl/",
+      "translation": "易接近的；可理解的",
+      "sentence": "a town accessible by rail",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-ced-ceed-cess-antecedent",
       "word": "antecedent",
       "display": "Antecedent",
-      "phonetic": "",
-      "translation": "\u524d\u4e8b\uff1b\u5148\u884c\u8005",
-      "sentence": "",
+      "phonetic": "/ˌænˈtɛsədənt/",
+      "translation": "前事；先行者",
+      "sentence": "phrenology was an antecedent of modern neuroscience",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-ced-ceed-cess-concession",
       "word": "concession",
       "display": "Concession",
-      "phonetic": "",
-      "translation": "\u8ba9\u6b65\uff1b\u7279\u8bb8\u6743",
-      "sentence": "",
+      "phonetic": "/kənˈsɛʃən/",
+      "translation": "让步；特许权",
+      "sentence": "he got the beer concession at the ball park",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-ced-ceed-cess-exceed",
       "word": "exceed",
       "display": "Exceed",
-      "phonetic": "",
-      "translation": "\u8d85\u8d8a",
-      "sentence": "",
+      "phonetic": "/ɪkˈsid/",
+      "translation": "超越",
+      "sentence": "Their loyalty exceeds their national bonds",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-ced-ceed-cess-excess",
       "word": "excess",
       "display": "Excess",
-      "phonetic": "",
-      "translation": "\u8fc7\u5ea6\uff1b\u8d85\u8fc7",
-      "sentence": "",
+      "phonetic": "/ˈɛkˌsɛs/",
+      "translation": "过度；超过",
+      "sentence": "trying to lose excess weight",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-ced-ceed-cess-excessive",
       "word": "excessive",
       "display": "Excessive",
-      "phonetic": "",
-      "translation": "\u8fc7\u5ea6\u7684",
-      "sentence": "",
+      "phonetic": "/ɪkˈsɛsɪv/",
+      "translation": "过度的",
+      "sentence": "excessive charges",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-ced-ceed-cess-inaccessible",
       "word": "inaccessible",
       "display": "Inaccessible",
-      "phonetic": "",
-      "translation": "\u96be\u4ee5\u63a5\u8fd1\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnəkˈsɛsəbəl/",
+      "translation": "难以接近的",
+      "sentence": "a rare work, today almost inaccessible",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-ced-ceed-cess-intercede",
       "word": "intercede",
       "display": "Intercede",
-      "phonetic": "",
-      "translation": "\u8c03\u89e3",
-      "sentence": "",
+      "phonetic": "/ˌɪntərˈsid/",
+      "translation": "调解",
+      "sentence": "He interceded in the family dispute",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-ced-ceed-cess-necessary",
       "word": "necessary",
       "display": "Necessary",
-      "phonetic": "",
-      "translation": "\u5fc5\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɛsəˌsɛri/",
+      "translation": "必要的",
+      "sentence": "the necessary consequences of one's actions",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-ced-ceed-cess-necessity",
       "word": "necessity",
       "display": "Necessity",
-      "phonetic": "",
-      "translation": "\u5fc5\u8981\u6027",
-      "sentence": "",
+      "phonetic": "/nəˈsɛsɪti/",
+      "translation": "必要性",
+      "sentence": "food and shelter are necessities of life",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-ced-ceed-cess-precede",
       "word": "precede",
       "display": "Precede",
-      "phonetic": "",
-      "translation": "\u9886\u5148\uff1b\u4f18\u4e8e",
-      "sentence": "",
+      "phonetic": "/prɪˈsid/",
+      "translation": "领先；优于",
+      "sentence": "Stone tools precede bronze tools",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-ced-ceed-cess-precedent",
       "word": "precedent",
       "display": "Precedent",
-      "phonetic": "",
-      "translation": "\u5148\u4f8b\uff1b\u60ef\u4f8b",
-      "sentence": "",
+      "phonetic": "/ˈprɛsɪdənt/",
+      "translation": "先例；惯例",
+      "sentence": "common law originated in the unwritten laws of England and was later applied in the United States",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-ced-ceed-cess-preceding",
       "word": "preceding",
       "display": "Preceding",
-      "phonetic": "",
-      "translation": "\u5728\u524d\u7684\uff1b\u524d\u8ff0\u7684",
-      "sentence": "",
+      "phonetic": "/priˈsidɪŋ/",
+      "translation": "在前的；前述的",
+      "sentence": "Stone tools precede bronze tools",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-ced-ceed-cess-procedure",
       "word": "procedure",
       "display": "Procedure",
-      "phonetic": "",
-      "translation": "\u7a0b\u5e8f\uff1b\u624b\u7eed",
-      "sentence": "",
+      "phonetic": "/prəˈsiʤər/",
+      "translation": "程序；手续",
+      "sentence": "the procedure of obtaining a driver's license",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-ced-ceed-cess-proceed",
       "word": "proceed",
       "display": "Proceed",
-      "phonetic": "",
-      "translation": "\u8fdb\u884c\uff1b\u7ee7\u7eed\u4e0b\u53bb",
-      "sentence": "",
+      "phonetic": "/pərˈsid/",
+      "translation": "进行；继续下去",
+      "sentence": "We proceeded towards Washington",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-ced-ceed-cess-process",
       "word": "process",
       "display": "Process",
-      "phonetic": "",
-      "translation": "\u8fc7\u7a0b\uff1b\u7a0b\u5e8f",
-      "sentence": "",
+      "phonetic": "/ˈprɔˌsɛs/",
+      "translation": "过程；程序",
+      "sentence": "it was a process of trial and error",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "c-ced-ceed-cess-recede",
       "word": "recede",
       "display": "Recede",
-      "phonetic": "",
-      "translation": "\u540e\u9000",
-      "sentence": "",
+      "phonetic": "/rɪˈsid/",
+      "translation": "后退",
+      "sentence": "the unhappy memories of her childhood receded as she grew older",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "c-ced-ceed-cess-recess",
       "word": "recess",
       "display": "Recess",
-      "phonetic": "",
-      "translation": "\u4f11\u606f\uff1b\u4f11\u5047",
-      "sentence": "",
+      "phonetic": "/ˈrisɛs/",
+      "translation": "休息；休假",
+      "sentence": "recess lights",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "c-ced-ceed-cess-recession",
       "word": "recession",
       "display": "Recession",
-      "phonetic": "",
-      "translation": "\u8870\u9000",
-      "sentence": "",
+      "phonetic": "/ˌriˈsɛʃən/",
+      "translation": "衰退",
+      "sentence": "A recession is the state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "c-ced-ceed-cess-recessional",
       "word": "recessional",
       "display": "Recessional",
-      "phonetic": "",
-      "translation": "\u9000\u573a\u7684",
-      "sentence": "",
+      "phonetic": "/rʌsˈɛʃʌnʌl/",
+      "translation": "退场的",
+      "sentence": "A recessional is the withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service.",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "c-ced-ceed-cess-secede",
       "word": "secede",
       "display": "Secede",
-      "phonetic": "",
-      "translation": "\u8131\u79bb",
-      "sentence": "",
+      "phonetic": "/sɪˈsid/",
+      "translation": "脱离",
+      "sentence": "After the break up of the Soviet Union, many republics broke away",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "c-ced-ceed-cess-secession",
       "word": "secession",
       "display": "Secession",
-      "phonetic": "",
-      "translation": "\u8131\u79bb",
-      "sentence": "",
+      "phonetic": "/sɪˈsɛʃən/",
+      "translation": "脱离",
+      "sentence": "A secession is an Austrian school of art and architecture parallel to the French art nouveau in the 1890s.",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "c-ced-ceed-cess-session",
       "word": "session",
       "display": "Session",
-      "phonetic": "",
-      "translation": "\u4f1a\u8bae\uff1b\u5b66\u671f",
-      "sentence": "",
+      "phonetic": "/ˈsɛʃən/",
+      "translation": "会议；学期",
+      "sentence": "it was the opening session of the legislature",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "c-ced-ceed-cess-succeed",
       "word": "succeed",
       "display": "Succeed",
-      "phonetic": "",
-      "translation": "\u6210\u529f\uff1b\u7ee7\u627f",
-      "sentence": "",
+      "phonetic": "/səkˈsid/",
+      "translation": "成功；继承",
+      "sentence": "The enterprise succeeded",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "c-ced-ceed-cess-success",
       "word": "success",
       "display": "Success",
-      "phonetic": "",
-      "translation": "\u6210\u529f",
-      "sentence": "",
+      "phonetic": "/səkˈsɛs/",
+      "translation": "成功",
+      "sentence": "let's call heads a success and tails a failure",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "c-ced-ceed-cess-successful",
       "word": "successful",
       "display": "Successful",
-      "phonetic": "",
-      "translation": "\u6210\u529f\u7684",
-      "sentence": "",
+      "phonetic": "/səkˈsɛsfəl/",
+      "translation": "成功的",
+      "sentence": "a successful architect",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "c-ced-ceed-cess-succession",
       "word": "succession",
       "display": "Succession",
-      "phonetic": "",
-      "translation": "\u8fde\u7eed\uff1b\u7ee7\u627f\u6743",
-      "sentence": "",
+      "phonetic": "/səkˈsɛʃən/",
+      "translation": "连续；继承权",
+      "sentence": "a succession of stalls offering soft drinks",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "c-ced-ceed-cess-successive",
       "word": "successive",
       "display": "Successive",
-      "phonetic": "",
-      "translation": "\u8fde\u7eed\u7684",
-      "sentence": "",
+      "phonetic": "/səkˈsɛsɪv/",
+      "translation": "连续的",
+      "sentence": "serial concerts",
       "tags": [
         "root-family"
       ],
@@ -370,13 +370,18 @@
       "id": "c-ced-ceed-cess-successor",
       "word": "successor",
       "display": "Successor",
-      "phonetic": "",
-      "translation": "\u7ee7\u627f\u4eba",
-      "sentence": "",
+      "phonetic": "/səkˈsɛsər/",
+      "translation": "继承人",
+      "sentence": "he was President Lincoln's successor",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-ced-ceed-cess",
+  "rootLevel": 2,
+  "parentRootId": "c",
+  "tags": []
 }

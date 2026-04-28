@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-wood-branch",
-  "root": "branch\u6811\u6761\uff1b\u5206\u652f\uff1b\u90e8\u95e8\uff1b\u4ea4\u6d41",
+  "root": "branch树条；分支；部门；交流",
   "meaning": "branch",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "树条；分支；部门；交流",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-wood-branch-barber",
       "word": "barber",
       "display": "Barber",
-      "phonetic": "",
-      "translation": "\u7406\u53d1\u5e08",
-      "sentence": "",
+      "phonetic": "/ˈbɑrbər/",
+      "translation": "理发师",
+      "sentence": "A barber is United States composer (1910-1981).",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-wood-branch-blade",
       "word": "blade",
       "display": "Blade",
-      "phonetic": "",
-      "translation": "\u5200\u7247\uff1b\u8349\u53f6",
-      "sentence": "",
+      "phonetic": "/bleɪd/",
+      "translation": "刀片；草叶",
+      "sentence": "gay young blades bragged of their amorous adventures",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-wood-branch-bleed",
       "word": "bleed",
       "display": "Bleed",
-      "phonetic": "",
-      "translation": "\u6d41\u8840",
-      "sentence": "",
+      "phonetic": "/bliːd/",
+      "translation": "流血",
+      "sentence": "bleed the radiators",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-wood-branch-blood",
       "word": "blood",
       "display": "Blood",
-      "phonetic": "",
-      "translation": "\u8840\u6db2",
-      "sentence": "",
+      "phonetic": "/bləd/",
+      "translation": "血液",
+      "sentence": "blood carries oxygen and nutrients to the tissues and carries away waste products",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-wood-branch-bloom",
       "word": "bloom",
       "display": "Bloom",
-      "phonetic": "",
-      "translation": "\u5f00\u82b1",
-      "sentence": "",
+      "phonetic": "/bluːm/",
+      "translation": "开花",
+      "sentence": "you will stop all bloom if you let the flowers go to seed",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-wood-branch-blossom",
       "word": "blossom",
       "display": "Blossom",
-      "phonetic": "",
-      "translation": "\u7e41\u8363\uff1b\u9752\u6625",
-      "sentence": "",
+      "phonetic": "/ˈblɑsəm/",
+      "translation": "繁荣；青春",
+      "sentence": "Youth blossomed into maturity",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-wood-branch-blouse",
       "word": "blouse",
       "display": "Blouse",
-      "phonetic": "",
-      "translation": "\u5973\u886c\u8863",
-      "sentence": "",
+      "phonetic": "/blaʊs/",
+      "translation": "女衬衣",
+      "sentence": "A blouse is a top worn by women.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-wood-branch-brim",
       "word": "brim",
       "display": "Brim",
-      "phonetic": "",
-      "translation": "\u8fb9\u7f18",
-      "sentence": "",
+      "phonetic": "/brɪm/",
+      "translation": "边缘",
+      "sentence": "His eyes brimmed with tears",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-wood-branch-brisk",
       "word": "brisk",
       "display": "Brisk",
-      "phonetic": "",
-      "translation": "\u751f\u673a\u52c3\u52c3\u7684\uff1b\u8f7b\u5feb\u7684",
-      "sentence": "",
+      "phonetic": "/brɪsk/",
+      "translation": "生机勃勃的；轻快的",
+      "sentence": "business brisked up",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-wood-branch-broom",
       "word": "broom",
       "display": "Broom",
-      "phonetic": "",
-      "translation": "\u626b\u5e1a",
-      "sentence": "",
+      "phonetic": "/bruːm/",
+      "translation": "扫帚",
+      "sentence": "Sweep the crumbs off the table",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-wood-branch-bruise",
       "word": "bruise",
       "display": "Bruise",
-      "phonetic": "",
-      "translation": "\u9752\u80bf\uff1b\u4f24\u75d5",
-      "sentence": "",
+      "phonetic": "/bruːz/",
+      "translation": "青肿；伤痕",
+      "sentence": "I bruised my knee",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-wood-branch-brush",
       "word": "brush",
       "display": "Brush",
-      "phonetic": "",
-      "translation": "\u5237\u5b50\uff1b\u753b\u7b14",
-      "sentence": "",
+      "phonetic": "/brəʃ/",
+      "translation": "刷子；画笔",
+      "sentence": "the dentist recommended two brushes a day",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-wood-branch-brutal",
       "word": "brutal",
       "display": "Brutal",
-      "phonetic": "",
-      "translation": "\u6b8b\u5fcd\u7684\uff1b\u4e25\u5cfb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbrutəl/",
+      "translation": "残忍的；严峻的",
+      "sentence": "brutal beatings",
       "tags": [
         "root-family"
       ],
@@ -167,5 +167,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-wood>b-wood-branch",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

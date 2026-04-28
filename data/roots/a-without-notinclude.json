@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "a-without-notinclude",
-  "root": "\u4e0d\u5305\u542b",
-  "meaning": "",
-  "descriptionCn": "\u4e0d\u5305\u542b\u7c7b\u6d3e\u751f",
-  "updatedAt": "2026-04-15",
+  "root": "不包含",
+  "meaning": "exclusion-related forms",
+  "descriptionCn": "不包含类派生",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abyss-a-without-notinclude-2",
       "word": "abyss",
       "display": "Abyss",
-      "phonetic": "",
-      "translation": "\u6df1\u6e0a\uff1b\u65e0\u5e95\u6d1e",
-      "sentence": "",
+      "phonetic": "/əˈbɪs/",
+      "translation": "深渊；无底洞",
+      "sentence": "Abyss refers to a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively).",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "anacid-a-without-notinclude-2",
       "word": "anacid",
       "display": "Anacid",
-      "phonetic": "",
-      "translation": "\u65e0\u9178\u7684",
-      "sentence": "",
+      "phonetic": "/ˈænʌsɪd/",
+      "translation": "无酸的",
+      "sentence": "Anacid is used here with the sense of \"无酸的\".",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "anecdote-a-without-notinclude-2",
       "word": "anecdote",
       "display": "Anecdote",
-      "phonetic": "",
-      "translation": "\u5947\u95fb",
-      "sentence": "",
+      "phonetic": "/ˈænɪkˌdoʊt/",
+      "translation": "奇闻",
+      "sentence": "An anecdote is short account of an incident (especially a biographical one).",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "anhydrous-a-without-notinclude-2",
       "word": "anhydrous",
       "display": "Anhydrous",
-      "phonetic": "",
-      "translation": "\u65e0\u6c34\u7684",
-      "sentence": "",
+      "phonetic": "/ˈænhidrˌʌs/",
+      "translation": "无水的",
+      "sentence": "If something is anhydrous, it is without water; especially without water of crystallization.",
       "tags": [
         "root-family",
         "other"
@@ -63,5 +63,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>a-without>a-without-notinclude",
   "type": "category",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

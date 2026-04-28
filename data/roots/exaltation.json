@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "exaltation",
   "root": "exaltation",
-  "meaning": "",
-  "descriptionCn": "\u63d0\u5347\uff1b\u5174\u594b",
-  "updatedAt": "2026-04-15",
+  "meaning": "exaltation family",
+  "descriptionCn": "提升；兴奋",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "exaltation-exaltation-2",
       "word": "exaltation",
       "display": "Exaltation",
-      "phonetic": "",
-      "translation": "\u63d0\u5347\uff1b\u5174\u594b",
-      "sentence": "",
+      "phonetic": "/ɪgzˈæltʌʃʌn/",
+      "translation": "提升；兴奋",
+      "sentence": "listening to sweet music in a perfect rapture",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>alt>exaltation",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-biblio-book",
-  "root": "biblio=book\u4e66",
+  "root": "biblio=book书",
   "meaning": "book",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "书",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-biblio-bibliographer",
       "word": "bibliographer",
       "display": "Bibliographer",
-      "phonetic": "",
-      "translation": "\u7f16\u8457\u8005",
-      "sentence": "",
+      "phonetic": "/bɪblˈaɪʌŋɚhˌɔf/",
+      "translation": "编著者",
+      "sentence": "A bibliographer is someone trained in compiling bibliographies.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-biblio-bibliography",
       "word": "bibliography",
       "display": "Bibliography",
-      "phonetic": "",
-      "translation": "\u6587\u732e\u5b66\uff1b\u53c2\u8003\u4e66\u76ee",
-      "sentence": "",
+      "phonetic": "/ˌbɪbliˈɑgrəfi/",
+      "translation": "文献学；参考书目",
+      "sentence": "A bibliography is a list of writings with time and place of publication (such as the writings of a single author or the works referred to in preparing a document etc.).",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-biblio-bibliolater",
       "word": "bibliolater",
       "display": "Bibliolater",
-      "phonetic": "",
-      "translation": "\u5723\u7ecf\u5d07\u62dc\u8005",
-      "sentence": "",
+      "phonetic": "/bˈɪbliʌtˌɔr/",
+      "translation": "圣经崇拜者",
+      "sentence": "Bibliolater is used here with the sense of \"圣经崇拜者\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-biblio-bibliology",
       "word": "bibliology",
       "display": "Bibliology",
-      "phonetic": "",
-      "translation": "\u5723\u7ecf\u5b66",
-      "sentence": "",
+      "phonetic": "/bɪbliˈɑdʒi/",
+      "translation": "圣经学",
+      "sentence": "Bibliology is used here with the sense of \"圣经学\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-biblio-bibliomania",
       "word": "bibliomania",
       "display": "Bibliomania",
-      "phonetic": "",
-      "translation": "\u85cf\u4e66\u7656",
-      "sentence": "",
+      "phonetic": "/bɪbliˈɑmiʌn/",
+      "translation": "藏书癖",
+      "sentence": "A bibliomania is preoccupation with the acquisition and possession of books.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-biblio-bibliophilist",
       "word": "bibliophilist",
       "display": "Bibliophilist",
-      "phonetic": "",
-      "translation": "\u4e66\u7c4d\u6536\u85cf\u5bb6",
-      "sentence": "",
+      "phonetic": "/bˈɪbliʌfʌsʌnts/",
+      "translation": "书籍收藏家",
+      "sentence": "Bibliophilist is used here with the sense of \"书籍收藏家\".",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-biblio-bibliophobia",
       "word": "bibliophobia",
       "display": "Bibliophobia",
-      "phonetic": "",
-      "translation": "\u5bf9\u4e66\u7c4d\u6050\u6016",
-      "sentence": "",
+      "phonetic": "/bɪbliˈɑfʌbiʌ/",
+      "translation": "对书籍恐怖",
+      "sentence": "Bibliophobia is used here with the sense of \"对书籍恐怖\".",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-biblio-book",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

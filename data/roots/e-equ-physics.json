@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-equ-physics",
-  "root": "\u7269\u7406",
+  "root": "物理",
   "meaning": "physics",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "物理",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-equ-physics-equation",
       "word": "equation",
       "display": "Equation",
-      "phonetic": "",
-      "translation": "\u7b49\u5f0f",
-      "sentence": "",
+      "phonetic": "/ɪkˈweɪʒən/",
+      "translation": "等式",
+      "sentence": "on a par with the best",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-equ-physics-equator",
       "word": "equator",
       "display": "Equator",
-      "phonetic": "",
-      "translation": "\u8d64\u9053\uff08\u628a\u5730\u7403\u5206\u6210\u76f8\u7b49\u4e24\u534a\uff09",
-      "sentence": "",
+      "phonetic": "/ɪkˈweɪtər/",
+      "translation": "赤道（把地球分成相等两半）",
+      "sentence": "the equator is the boundary between the northern and southern hemispheres",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-equ-physics-equidistant",
       "word": "equidistant",
       "display": "Equidistant",
-      "phonetic": "",
-      "translation": "\u7b49\u8ddd\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛkwʌdˌɪstʌnt/",
+      "translation": "等距的",
+      "sentence": "If something is equidistant, it is the same distance apart at every point.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-equ-physics-equilibrium",
       "word": "equilibrium",
       "display": "Equilibrium",
-      "phonetic": "",
-      "translation": "\u5e73\u8861",
-      "sentence": "",
+      "phonetic": "/ˌikwəˈlɪbriəm/",
+      "translation": "平衡",
+      "sentence": "An equilibrium is a stable situation in which forces cancel one another.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-equ-physics-equinox",
       "word": "equinox",
       "display": "Equinox",
-      "phonetic": "",
-      "translation": "\u663c\u591c\u5e73\u5206\u70b9\uff1b\u6625\u5206\u79cb\u5206",
-      "sentence": "",
+      "phonetic": "/ˈikwəˌnɑks/",
+      "translation": "昼夜平分点；春分秋分",
+      "sentence": "An equinox is either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length.",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-equ>e-equ-physics",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "altar",
   "root": "altar",
-  "meaning": "",
-  "descriptionCn": "\u796d\u575b",
-  "updatedAt": "2026-04-15",
+  "meaning": "altar family",
+  "descriptionCn": "祭坛",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "altar-altar-2",
       "word": "altar",
       "display": "Altar",
-      "phonetic": "",
-      "translation": "\u796d\u575b",
-      "sentence": "",
+      "phonetic": "/ˈɔltər/",
+      "translation": "祭坛",
+      "sentence": "An altar is the table in Christian churches where communion is given.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>alt>altar",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

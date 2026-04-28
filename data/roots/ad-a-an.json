@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ad-a-an",
   "root": "a-=an-",
-  "meaning": "",
-  "descriptionCn": "\u589e\u52a0",
-  "updatedAt": "2026-04-15",
+  "meaning": "a-=an",
+  "descriptionCn": "增加",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "abide-ad-a-an-2",
       "word": "abide",
       "display": "Abide",
-      "phonetic": "",
-      "translation": "\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/əˈbaɪd/",
+      "translation": "坚持",
+      "sentence": "You can stay with me while you are in town",
       "tags": [
         "root-family",
         "other"
@@ -23,9 +23,9 @@
       "id": "abut",
       "word": "abut",
       "display": "Abut",
-      "phonetic": "",
-      "translation": "\u90bb\u63a5",
-      "sentence": "",
+      "phonetic": "/əˈbət/",
+      "translation": "邻接",
+      "sentence": "Canada adjoins the U.S.",
       "tags": [
         "root-family",
         "other"
@@ -36,9 +36,9 @@
       "id": "amass",
       "word": "amass",
       "display": "Amass",
-      "phonetic": "",
-      "translation": "\u79ef\u84c4",
-      "sentence": "",
+      "phonetic": "/əˈmæs/",
+      "translation": "积蓄",
+      "sentence": "She is amassing a lot of data for her thesis",
       "tags": [
         "root-family",
         "other"
@@ -49,9 +49,9 @@
       "id": "amenable",
       "word": "amenable",
       "display": "Amenable",
-      "phonetic": "",
-      "translation": "\u5e94\u670d\u4ece\u7684",
-      "sentence": "",
+      "phonetic": "/əˈmɛnəbəl/",
+      "translation": "应服从的",
+      "sentence": "someone amenable to persuasion",
       "tags": [
         "root-family",
         "other"
@@ -62,9 +62,9 @@
       "id": "ascribe",
       "word": "ascribe",
       "display": "Ascribe",
-      "phonetic": "",
-      "translation": "\u5f52\u56e0\u4e8e",
-      "sentence": "",
+      "phonetic": "/əˈskraɪb/",
+      "translation": "归因于",
+      "sentence": "We attributed this quotation to Shakespeare",
       "tags": [
         "root-family",
         "other"
@@ -75,9 +75,9 @@
       "id": "astir",
       "word": "astir",
       "display": "Astir",
-      "phonetic": "",
-      "translation": "\u6fc0\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/ʌstˈɪr/",
+      "translation": "激动的",
+      "sentence": "are they astir yet?",
       "tags": [
         "root-family",
         "other"
@@ -88,9 +88,9 @@
       "id": "astray",
       "word": "astray",
       "display": "Astray",
-      "phonetic": "",
-      "translation": "\u8ff7\u9014\u7684",
-      "sentence": "",
+      "phonetic": "/əˈstreɪ/",
+      "translation": "迷途的",
+      "sentence": "he was led astray",
       "tags": [
         "root-family",
         "other"
@@ -101,9 +101,9 @@
       "id": "augment-ad-a-an-2",
       "word": "augment",
       "display": "Augment",
-      "phonetic": "",
-      "translation": "\u589e\u52a0",
-      "sentence": "",
+      "phonetic": "/ɔgˈmɛnt/",
+      "translation": "增加",
+      "sentence": "The recent speech of the president augmented tensions in the Near East",
       "tags": [
         "root-family",
         "other"
@@ -114,9 +114,9 @@
       "id": "aver",
       "word": "aver",
       "display": "Aver",
-      "phonetic": "",
-      "translation": "\u58f0\u79f0\uff1b\u65ad\u8a00",
-      "sentence": "",
+      "phonetic": "/ˈeɪvər/",
+      "translation": "声称；断言",
+      "sentence": "He alleged that he was the victim of a crime",
       "tags": [
         "root-family",
         "other"
@@ -127,9 +127,9 @@
       "id": "enhance",
       "word": "enhance",
       "display": "Enhance",
-      "phonetic": "",
-      "translation": "\u589e\u52a0",
-      "sentence": "",
+      "phonetic": "/ɛnˈhæns/",
+      "translation": "增加",
+      "sentence": "This will enhance your enjoyment",
       "tags": [
         "root-family",
         "other"
@@ -141,5 +141,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

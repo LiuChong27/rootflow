@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "amorist",
   "root": "amorist",
-  "meaning": "",
-  "descriptionCn": "\u597d\u8272\u4e4b\u5f92",
-  "updatedAt": "2026-04-15",
+  "meaning": "amorist family",
+  "descriptionCn": "好色之徒",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "amorist",
       "word": "amorist",
       "display": "Amorist",
-      "phonetic": "",
-      "translation": "\u597d\u8272\u4e4b\u5f92",
-      "sentence": "",
+      "phonetic": "/ˈæmərəst/",
+      "translation": "好色之徒",
+      "sentence": "An amorist is one dedicated to love and lovemaking especially one who writes about love.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-other>am-amor>amatoria>amorist",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-flu",
-  "root": "flu=fluc=flux\u6d41",
+  "root": "flu=fluc=flux流",
   "meaning": "flu",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "流",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-flu-affluence",
       "word": "affluence",
       "display": "Affluence",
-      "phonetic": "",
-      "translation": "\u4e30\u5bcc",
-      "sentence": "",
+      "phonetic": "/ˈæfluəns/",
+      "translation": "丰富",
+      "sentence": "they studied forerunners of richness or poverty",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-flu-affluence-rich",
       "word": "affluence",
       "display": "Affluence",
-      "phonetic": "",
-      "translation": "\u5bcc\u88d5",
-      "sentence": "",
+      "phonetic": "/ˈæfluəns/",
+      "translation": "富裕",
+      "sentence": "they studied forerunners of richness or poverty",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-flu-affluent",
       "word": "affluent",
       "display": "Affluent",
-      "phonetic": "",
-      "translation": "\u4e30\u5bcc\u7684\uff1b\u6d41\u7545\u7684",
-      "sentence": "",
+      "phonetic": "/ˈæfluənt/",
+      "translation": "丰富的；流畅的",
+      "sentence": "the so-called emerging affluents",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-flu-afflux",
       "word": "afflux",
       "display": "Afflux",
-      "phonetic": "",
-      "translation": "\u6d41\u5165",
-      "sentence": "",
+      "phonetic": "/ˈæflˌʌks/",
+      "translation": "流入",
+      "sentence": "Afflux is used here with the sense of \"流入\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-flu-circumfluent",
       "word": "circumfluent",
       "display": "Circumfluent",
-      "phonetic": "",
-      "translation": "\u73af\u6d41\u7684",
-      "sentence": "",
+      "phonetic": "/sˈɚkmʌlfjunt/",
+      "translation": "环流的",
+      "sentence": "Circumfluent is used here with the sense of \"环流的\".",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-flu-confluence",
       "word": "confluence",
       "display": "Confluence",
-      "phonetic": "",
-      "translation": "\u6c47\u6d41",
-      "sentence": "",
+      "phonetic": "/ˈkɑnfluəns/",
+      "translation": "汇流",
+      "sentence": "Pittsburgh is located at the confluence of the Allegheny and Monongahela rivers",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-flu-confluent",
       "word": "confluent",
       "display": "Confluent",
-      "phonetic": "",
-      "translation": "\u6c47\u5408\u7684",
-      "sentence": "",
+      "phonetic": "/kɑnˈfluənt/",
+      "translation": "汇合的",
+      "sentence": "A confluent is a branch that flows into the main stream.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-flu-effluence",
       "word": "effluence",
       "display": "Effluence",
-      "phonetic": "",
-      "translation": "\u6d41\u51fa",
-      "sentence": "",
+      "phonetic": "/ˈɛfluəns/",
+      "translation": "流出",
+      "sentence": "An effluence is the process of flowing out.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "f-flu-effluent",
       "word": "effluent",
       "display": "Effluent",
-      "phonetic": "",
-      "translation": "\u6d41\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛfluənt/",
+      "translation": "流动的",
+      "sentence": "An effluent is water mixed with waste matter.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "f-flu-fluency",
       "word": "fluency",
       "display": "Fluency",
-      "phonetic": "",
-      "translation": "\u6d41\u5229\uff1b\u6d41\u7545",
-      "sentence": "",
+      "phonetic": "/ˈfluənsi/",
+      "translation": "流利；流畅",
+      "sentence": "fluency in spoken and written English is essential",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "f-flu-fluent",
       "word": "fluent",
       "display": "Fluent",
-      "phonetic": "",
-      "translation": "\u6d41\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/fluənt/",
+      "translation": "流动的",
+      "sentence": "a long, smooth stride",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "f-flu-flush",
       "word": "flush",
       "display": "Flush",
-      "phonetic": "",
-      "translation": "\u5954\u6d41",
-      "sentence": "",
+      "phonetic": "/fləʃ/",
+      "translation": "奔流",
+      "sentence": "he heard the flush of a toilet",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "f-flu-fluvent",
       "word": "fluvent",
       "display": "Fluvent",
-      "phonetic": "",
-      "translation": "\u51b2\u51fb\u65b0\u6210\u571f",
-      "sentence": "",
+      "phonetic": "/flˈuvʌnt/",
+      "translation": "冲击新成土",
+      "sentence": "Fluvent is used here with the sense of \"冲击新成土\".",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "f-flu-fluvial",
       "word": "fluvial",
       "display": "Fluvial",
-      "phonetic": "",
-      "translation": "\u6cb3\u6d41\u7684",
-      "sentence": "",
+      "phonetic": "/ˈfluviəl/",
+      "translation": "河流的",
+      "sentence": "fluvial deposits",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "f-flu-fluviatic",
       "word": "fluviatic",
       "display": "Fluviatic",
-      "phonetic": "",
-      "translation": "\u6cb3\u5ddd\u7684",
-      "sentence": "",
+      "phonetic": "/flˌuvitˈeɪkɪt/",
+      "translation": "河川的",
+      "sentence": "Fluviatic is used here with the sense of \"河川的\".",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "f-flu-fluviatile",
       "word": "fluviatile",
       "display": "Fluviatile",
-      "phonetic": "",
-      "translation": "\u6cb3\u7684",
-      "sentence": "",
+      "phonetic": "/flˈuviʌtʌl/",
+      "translation": "河的",
+      "sentence": "Fluviatile is used here with the sense of \"河的\".",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "f-flu-fluviation",
       "word": "fluviation",
       "display": "Fluviation",
-      "phonetic": "",
-      "translation": "\u6cb3\u6c34\u4f5c\u7528",
-      "sentence": "",
+      "phonetic": "/flˌuviˈeɪʃʌn/",
+      "translation": "河水作用",
+      "sentence": "Fluviation is used here with the sense of \"河水作用\".",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "f-flu-flux",
       "word": "flux",
       "display": "Flux",
-      "phonetic": "",
-      "translation": "\u6d41\u91cf\uff1b\u6da8\u6f6e",
-      "sentence": "",
+      "phonetic": "/fləks/",
+      "translation": "流量；涨潮",
+      "sentence": "the flux following the death of the emperor",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "f-flu-inflow",
       "word": "inflow",
       "display": "Inflow",
-      "phonetic": "",
-      "translation": "\u6d41\u5165\u7269",
-      "sentence": "",
+      "phonetic": "/ˈɪnˌfloʊ/",
+      "translation": "流入物",
+      "sentence": "An inflow is the process of flowing in.",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "f-flu-influence",
       "word": "influence",
       "display": "Influence",
-      "phonetic": "",
-      "translation": "\u5f71\u54cd",
-      "sentence": "",
+      "phonetic": "/ˈɪnfluəns/",
+      "translation": "影响",
+      "sentence": "used her parents' influence to get the job",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "f-flu-influential",
       "word": "influential",
       "display": "Influential",
-      "phonetic": "",
-      "translation": "\u6709\u5f71\u54cd\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnfluˈɛnʃəl/",
+      "translation": "有影响的",
+      "sentence": "an influential newspaper",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "f-flu-influx",
       "word": "influx",
       "display": "Influx",
-      "phonetic": "",
-      "translation": "\u6c47\u96c6\uff1b\u6d41\u52a8",
-      "sentence": "",
+      "phonetic": "/ˈɪnˌfləks/",
+      "translation": "汇集；流动",
+      "sentence": "An influx is the process of flowing in.",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "f-flu-reflux",
       "word": "reflux",
       "display": "Reflux",
-      "phonetic": "",
-      "translation": "\u9006\u6d41\uff1b\u9000\u6f6e",
-      "sentence": "",
+      "phonetic": "/rɪflˈʌks/",
+      "translation": "逆流；退潮",
+      "sentence": "A reflux is an abnormal backward flow of body fluids.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "f-flu-superfluity",
       "word": "superfluity",
       "display": "Superfluity",
-      "phonetic": "",
-      "translation": "\u5962\u4f88\u54c1",
-      "sentence": "",
+      "phonetic": "/sˌupɚflˈuɪti/",
+      "translation": "奢侈品",
+      "sentence": "an embarrassment of riches",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "f-flu-superflux",
       "word": "superflux",
       "display": "Superflux",
-      "phonetic": "",
-      "translation": "\u6ea2\u51fa\uff1b\u5927\u91cf",
-      "sentence": "",
+      "phonetic": "/sˈupɚflˌʌks/",
+      "translation": "溢出；大量",
+      "sentence": "Superflux is used here with the sense of \"溢出；大量\".",
       "tags": [
         "root-family"
       ],
@@ -311,5 +311,6 @@
   "rootLevel": 2,
   "rootPath": "f>f-flu",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

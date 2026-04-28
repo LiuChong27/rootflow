@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-wood-barrier",
-  "root": "barrier\u6805\u680f\uff1b\u5c4f\u969c",
+  "root": "barrier栅栏；屏障",
   "meaning": "barrier",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "栅栏；屏障",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-wood-barrier-barrage",
       "word": "barrage",
       "display": "Barrage",
-      "phonetic": "",
-      "translation": "\u62e6\u6cb3\u575d",
-      "sentence": "",
+      "phonetic": "/bərɑʒ/",
+      "translation": "拦河坝",
+      "sentence": "a barrage of questions",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-wood-barrier-barrel",
       "word": "barrel",
       "display": "Barrel",
-      "phonetic": "",
-      "translation": "\u6876\uff1b\u67aa\u7ba1",
-      "sentence": "",
+      "phonetic": "/ˈbɛrəl/",
+      "translation": "桶；枪管",
+      "sentence": "a barrel of beer is 31 gallons and a barrel of oil is 42 gallons",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-wood-barrier-barren",
       "word": "barren",
       "display": "Barren",
-      "phonetic": "",
-      "translation": "\u8d2b\u7620\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbɛrən/",
+      "translation": "贫瘠的",
+      "sentence": "the barrens of central Africa",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-wood-barrier-barricade",
       "word": "barricade",
       "display": "Barricade",
-      "phonetic": "",
-      "translation": "\u8def\u969c\uff1b\u9694\u677f",
-      "sentence": "",
+      "phonetic": "/ˈbɛrəˌkeɪd/",
+      "translation": "路障；隔板",
+      "sentence": "they stormed the barricade",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-wood-barrier-bucket",
       "word": "bucket",
       "display": "Bucket",
-      "phonetic": "",
-      "translation": "\u6c34\u6876",
-      "sentence": "",
+      "phonetic": "/ˈbəkɪt/",
+      "translation": "水桶",
+      "sentence": "A bucket is a roughly cylindrical vessel that is open at the top.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-wood-barrier-bulk",
       "word": "bulk",
       "display": "Bulk",
-      "phonetic": "",
-      "translation": "\u5bb9\u79ef",
-      "sentence": "",
+      "phonetic": "/bəlk/",
+      "translation": "容积",
+      "sentence": "the bulk of the work is finished",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-wood-barrier-bullet",
       "word": "bullet",
       "display": "Bullet",
-      "phonetic": "",
-      "translation": "\u5b50\u5f39",
-      "sentence": "",
+      "phonetic": "/ˈbʊlət/",
+      "translation": "子弹",
+      "sentence": "he swung late on the fastball",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-wood-barrier-bulletin",
       "word": "bulletin",
       "display": "Bulletin",
-      "phonetic": "",
-      "translation": "\u516c\u544a\uff1b\u544a\u793a",
-      "sentence": "",
+      "phonetic": "/ˈbʊlɪtən/",
+      "translation": "公告；告示",
+      "sentence": "A bulletin is a brief report (especially an official statement issued for immediate publication or broadcast).",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-wood-barrier-bully",
       "word": "bully",
       "display": "Bully",
-      "phonetic": "",
-      "translation": "\u5c0f\u6d41\u6c13\uff1b\u5a01\u80c1",
-      "sentence": "",
+      "phonetic": "/ˈbʊli/",
+      "translation": "小流氓；威胁",
+      "sentence": "he did a bully job",
       "tags": [
         "root-family"
       ],
@@ -119,5 +119,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-wood>b-wood-barrier",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

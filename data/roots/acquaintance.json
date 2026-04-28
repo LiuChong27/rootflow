@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acquaintance",
   "root": "acquaintance",
-  "meaning": "",
-  "descriptionCn": "\u8ba4\u8bc6\uff1b\u719f\u4eba",
-  "updatedAt": "2026-04-15",
+  "meaning": "acquaintance family",
+  "descriptionCn": "认识；熟人",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acquaintance",
       "word": "acquaintance",
       "display": "Acquaintance",
-      "phonetic": "",
-      "translation": "\u8ba4\u8bc6\uff1b\u719f\u4eba",
-      "sentence": "",
+      "phonetic": "/əkˈweɪntəns/",
+      "translation": "认识；熟人",
+      "sentence": "I have trouble remembering the names of all my acquaintances",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 7,
   "rootPath": "a>a-prefix>ad-add-axx>ad-ac>acquire>acquaint>acquaintance",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

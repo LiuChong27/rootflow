@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-trace",
   "root": "trace",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "trace",
+  "descriptionCn": "trace",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-trace-trace",
       "word": "trace",
       "display": "Trace",
-      "phonetic": "",
-      "translation": "\u75d5\u8ff9",
-      "sentence": "",
+      "phonetic": "/treɪs/",
+      "translation": "痕迹",
+      "sentence": "he speaks French with a trace of an accent",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-trace-track",
       "word": "track",
       "display": "Track",
-      "phonetic": "",
-      "translation": "\u8dd1\u9053",
-      "sentence": "",
+      "phonetic": "/træk/",
+      "translation": "跑道",
+      "sentence": "the track of an animal",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-trace-tractor",
       "word": "tractor",
       "display": "Tractor",
-      "phonetic": "",
-      "translation": "\u62d6\u62c9\u673a",
-      "sentence": "",
+      "phonetic": "/ˈtræktər/",
+      "translation": "拖拉机",
+      "sentence": "A tractor is a wheeled vehicle with large wheels; used in farming and other applications.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-trace-trade",
       "word": "trade",
       "display": "Trade",
-      "phonetic": "",
-      "translation": "\u8d38\u6613",
-      "sentence": "",
+      "phonetic": "/treɪd/",
+      "translation": "贸易",
+      "sentence": "Venice was an important center of trade with the East",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-trace-trademark",
       "word": "trademark",
       "display": "Trademark",
-      "phonetic": "",
-      "translation": "\u5546\u6807\uff1b\u7279\u5f81",
-      "sentence": "",
+      "phonetic": "/ˈtreɪdˌmɑrk/",
+      "translation": "商标；特征",
+      "sentence": "The company trademarked their new gadget",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-trace-trail",
       "word": "trail",
       "display": "Trail",
-      "phonetic": "",
-      "translation": "\u75d5\u8ff9",
-      "sentence": "",
+      "phonetic": "/treɪl/",
+      "translation": "痕迹",
+      "sentence": "there as a trail of blood",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-trace-trait",
       "word": "trait",
       "display": "Trait",
-      "phonetic": "",
-      "translation": "\u7279\u5f81",
-      "sentence": "",
+      "phonetic": "/treɪt/",
+      "translation": "特征",
+      "sentence": "A trait is a distinguishing feature of your personal nature.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "t-trace-traitor",
       "word": "traitor",
       "display": "Traitor",
-      "phonetic": "",
-      "translation": "\u53db\u5f92",
-      "sentence": "",
+      "phonetic": "/ˈtreɪtər/",
+      "translation": "叛徒",
+      "sentence": "A traitor is someone who betrays his country by committing treason.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "t-trace-tram",
       "word": "tram",
       "display": "Tram",
-      "phonetic": "",
-      "translation": "\u6709\u8f68\u7535\u8f66",
-      "sentence": "",
+      "phonetic": "/træm/",
+      "translation": "有轨电车",
+      "sentence": "a tramcar carries coal out of a coal mine",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "t-trace-tramp",
       "word": "tramp",
       "display": "Tramp",
-      "phonetic": "",
-      "translation": "\u6b65\u884c",
-      "sentence": "",
+      "phonetic": "/træmp/",
+      "translation": "步行",
+      "sentence": "a homeless tramp",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "t-trace-trolley",
       "word": "trolley",
       "display": "Trolley",
-      "phonetic": "",
-      "translation": "\u624b\u63a8\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈtrɑli/",
+      "translation": "手推车",
+      "sentence": "A trolley is a wheeled vehicle that runs on rails and is propelled by electricity.",
       "tags": [
         "root-family"
       ],
@@ -140,8 +140,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-trace",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

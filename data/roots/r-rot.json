@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-rot",
-  "root": "rot\u8f6c\u52a8",
+  "root": "rot转动",
   "meaning": "rotate",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "转动",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-rot-rotary",
       "word": "rotary",
       "display": "Rotary",
-      "phonetic": "",
-      "translation": "\u65cb\u8f6c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈroʊtəri/",
+      "translation": "旋转的",
+      "sentence": "the accident blocked all traffic at the rotary",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-rot-rotate",
       "word": "rotate",
       "display": "Rotate",
-      "phonetic": "",
-      "translation": "\u65cb\u8f6c",
-      "sentence": "",
+      "phonetic": "/ˈroʊˌteɪt/",
+      "translation": "旋转",
+      "sentence": "The lamb roast rotates on a spit over the fire",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 2,
   "rootPath": "r>r-rot",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

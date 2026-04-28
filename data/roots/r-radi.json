@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-radi",
-  "root": "radi\u5149\u7ebf",
+  "root": "radi光线",
   "meaning": "light",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "光线",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-radi-eradicate",
       "word": "eradicate",
       "display": "Eradicate",
-      "phonetic": "",
-      "translation": "\u6839\u9664",
-      "sentence": "",
+      "phonetic": "/ɪˈrædəˌkeɪt/",
+      "translation": "根除",
+      "sentence": "the plague wiped out an entire population",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-radi-eradication",
       "word": "eradication",
       "display": "Eradication",
-      "phonetic": "",
-      "translation": "\u6839\u9664",
-      "sentence": "",
+      "phonetic": "/ɪˌrædəˈkeɪʃən/",
+      "translation": "根除",
+      "sentence": "An eradication is the complete destruction of every trace of something.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-radi-radar",
       "word": "radar",
       "display": "Radar",
-      "phonetic": "",
-      "translation": "\u96f7\u8fbe",
-      "sentence": "",
+      "phonetic": "/ˈreɪˌdɑr/",
+      "translation": "雷达",
+      "sentence": "A radar is measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-radi-radiant",
       "word": "radiant",
       "display": "Radiant",
-      "phonetic": "",
-      "translation": "\u53d1\u5149\u7684",
-      "sentence": "",
+      "phonetic": "/ˈreɪˌdiənt/",
+      "translation": "发光的",
+      "sentence": "a radiant sunrise",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-radi-radical",
       "word": "radical",
       "display": "Radical",
-      "phonetic": "",
-      "translation": "\u6839\u672c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrædɪkəl/",
+      "translation": "根本的",
+      "sentence": "in the body free radicals are high-energy particles that ricochet wildly and damage cells",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-radi-radicalism",
       "word": "radicalism",
       "display": "Radicalism",
-      "phonetic": "",
-      "translation": "\u6fc0\u8fdb\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˈrædɪkəˌlɪzəm/",
+      "translation": "激进主义",
+      "sentence": "A radicalism is the political orientation of those who favor revolutionary change in government and society.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-radi-radicle",
       "word": "radicle",
       "display": "Radicle",
-      "phonetic": "",
-      "translation": "\u6839",
-      "sentence": "",
+      "phonetic": "/rˈædʌkʌl/",
+      "translation": "根",
+      "sentence": "A radicle is (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve).",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-radi-radio",
       "word": "radio",
       "display": "Radio",
-      "phonetic": "",
-      "translation": "\u6536\u97f3\u673a",
-      "sentence": "",
+      "phonetic": "/ˈreɪdiˌoʊ/",
+      "translation": "收音机",
+      "sentence": "he radioed for help",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-radi-radioactive",
       "word": "radioactive",
       "display": "Radioactive",
-      "phonetic": "",
-      "translation": "\u653e\u5c04\u6027",
-      "sentence": "",
+      "phonetic": "/ˌreɪdioʊˈæktɪv/",
+      "translation": "放射性",
+      "sentence": "radioactive isotope",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-radi-radius",
       "word": "radius",
       "display": "Radius",
-      "phonetic": "",
-      "translation": "\u534a\u5f84",
-      "sentence": "",
+      "phonetic": "/ˈreɪdiəs/",
+      "translation": "半径",
+      "sentence": "they located it within a radius of 2 miles",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-radi-ray",
       "word": "ray",
       "display": "Ray",
-      "phonetic": "",
-      "translation": "\u5149\u7ebf",
-      "sentence": "",
+      "phonetic": "/reɪ/",
+      "translation": "光线",
+      "sentence": "That tower rays a laser beam for miles across the sky",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-radi-rear",
       "word": "rear",
       "display": "Rear",
-      "phonetic": "",
-      "translation": "\u9972\u517b\uff1b\u80cc\u540e",
-      "sentence": "",
+      "phonetic": "/rɪr/",
+      "translation": "饲养；背后",
+      "sentence": "infantrymen were in the rear",
       "tags": [
         "root-family"
       ],
@@ -155,5 +155,6 @@
   "rootLevel": 2,
   "rootPath": "r>r-radi",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

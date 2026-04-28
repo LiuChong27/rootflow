@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aviary",
   "root": "aviary",
-  "meaning": "",
-  "descriptionCn": "\u9e1f\u820d",
-  "updatedAt": "2026-04-15",
+  "meaning": "aviary family",
+  "descriptionCn": "鸟舍",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aviary",
       "word": "aviary",
       "display": "Aviary",
-      "phonetic": "",
-      "translation": "\u9e1f\u820d",
-      "sentence": "",
+      "phonetic": "/ˈeɪviˌɛri/",
+      "translation": "鸟舍",
+      "sentence": "An aviary is a building where birds are kept.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>avi>avian>aviary",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

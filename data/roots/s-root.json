@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-root",
-  "root": "\u6839\u6e90 \u76f4\u7684 \u6233\u523a \u9759\u6b62\u7684\u4e1c\u897f \u5f3a\u786c\u7684\u4e1c\u897f",
+  "root": "根源 直的 戳刺 静止的东西 强硬的东西",
   "meaning": "root, straight, stab, stationary, strong",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "根源 直的 戳刺 静止的东西 强硬的东西",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-root-spear",
       "word": "spear",
       "display": "Spear",
-      "phonetic": "",
-      "translation": "\u77db\uff1b\u67aa",
-      "sentence": "",
+      "phonetic": "/spɪr/",
+      "translation": "矛；枪",
+      "sentence": "spear fish",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-root-stab",
       "word": "stab",
       "display": "Stab",
-      "phonetic": "",
-      "translation": "\u523a",
-      "sentence": "",
+      "phonetic": "/stæb/",
+      "translation": "刺",
+      "sentence": "she felt a stab of excitement",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-root-stability",
       "word": "stability",
       "display": "Stability",
-      "phonetic": "",
-      "translation": "\u7a33\u5b9a",
-      "sentence": "",
+      "phonetic": "/stəˈbɪlɪti/",
+      "translation": "稳定",
+      "sentence": "early mariners relied on the constancy of the trade winds",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-root-stable",
       "word": "stable",
       "display": "Stable",
-      "phonetic": "",
-      "translation": "\u7a33\u5b9a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsteɪbəl/",
+      "translation": "稳定的",
+      "sentence": "stable horses",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-root-stadium",
       "word": "stadium",
       "display": "Stadium",
-      "phonetic": "",
-      "translation": "\u4f53\u80b2\u9986",
-      "sentence": "",
+      "phonetic": "/ˈsteɪdiəm/",
+      "translation": "体育馆",
+      "sentence": "A stadium is a large structure for open-air sports or entertainments.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-root-staff",
       "word": "staff",
       "display": "Staff",
-      "phonetic": "",
-      "translation": "\u804c\u5de5",
-      "sentence": "",
+      "phonetic": "/stæf/",
+      "translation": "职工",
+      "sentence": "the hospital has an excellent nursing staff",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-root-stage",
       "word": "stage",
       "display": "Stage",
-      "phonetic": "",
-      "translation": "\u821e\u53f0",
-      "sentence": "",
+      "phonetic": "/steɪʤ/",
+      "translation": "舞台",
+      "sentence": "we are in a transitional stage in which many former ideas must be revised or rejected",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-root-stagger",
       "word": "stagger",
       "display": "Stagger",
-      "phonetic": "",
-      "translation": "\u8e52\u8dda",
-      "sentence": "",
+      "phonetic": "/ˈstægər/",
+      "translation": "蹒跚",
+      "sentence": "The drunken man staggered into the room",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-root-stain",
       "word": "stain",
       "display": "Stain",
-      "phonetic": "",
-      "translation": "\u6c61\u70b9",
-      "sentence": "",
+      "phonetic": "/steɪn/",
+      "translation": "污点",
+      "sentence": "the wine left a dark stain",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-root-stair",
       "word": "stair",
       "display": "Stair",
-      "phonetic": "",
-      "translation": "\u697c\u68af",
-      "sentence": "",
+      "phonetic": "/stɛr/",
+      "translation": "楼梯",
+      "sentence": "he paused on the bottom step",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-root-staircase",
       "word": "staircase",
       "display": "Staircase",
-      "phonetic": "",
-      "translation": "\u697c\u68af",
-      "sentence": "",
+      "phonetic": "/ˈstɛrˌkeɪs/",
+      "translation": "楼梯",
+      "sentence": "A staircase is a way of access (upward and downward) consisting of a set of steps.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-root-stake",
       "word": "stake",
       "display": "Stake",
-      "phonetic": "",
-      "translation": "\u8d4c\u6ce8",
-      "sentence": "",
+      "phonetic": "/steɪk/",
+      "translation": "赌注",
+      "sentence": "a stake in the company's future",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-root-stale",
       "word": "stale",
       "display": "Stale",
-      "phonetic": "",
-      "translation": "\u53d8\u8d28\u7684\uff1b\u9648\u65e7\u7684",
-      "sentence": "",
+      "phonetic": "/steɪl/",
+      "translation": "变质的；陈旧的",
+      "sentence": "stale bread",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-root-stall",
       "word": "stall",
       "display": "Stall",
-      "phonetic": "",
-      "translation": "\u8d27\u644a",
-      "sentence": "",
+      "phonetic": "/stɔl/",
+      "translation": "货摊",
+      "sentence": "the plane went into a stall and I couldn't control it",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-root-stamp",
       "word": "stamp",
       "display": "Stamp",
-      "phonetic": "",
-      "translation": "\u90ae\u7968\uff1b\u6807\u5fd7",
-      "sentence": "",
+      "phonetic": "/stæmp/",
+      "translation": "邮票；标志",
+      "sentence": "more men of his stamp are needed",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-root-staple",
       "word": "staple",
       "display": "Staple",
-      "phonetic": "",
-      "translation": "\u4e3b\u8981\u4ea7\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈsteɪpəl/",
+      "translation": "主要产品",
+      "sentence": "staple fibers vary widely in length",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-root-steam",
       "word": "steam",
       "display": "Steam",
-      "phonetic": "",
-      "translation": "\u84b8\u6c7d",
-      "sentence": "",
+      "phonetic": "/stiːm/",
+      "translation": "蒸汽",
+      "sentence": "The ship steamed off into the Pacific",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "s-root-steamer",
       "word": "steamer",
       "display": "Steamer",
-      "phonetic": "",
-      "translation": "\u8f6e\u8239",
-      "sentence": "",
+      "phonetic": "/ˈstimər/",
+      "translation": "轮船",
+      "sentence": "The ship steamed off into the Pacific",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "s-root-stem",
       "word": "stem",
       "display": "Stem",
-      "phonetic": "",
-      "translation": "\u8d77\u6e90\u4e8e\uff1b\u6839\u830e",
-      "sentence": "",
+      "phonetic": "/stɛm/",
+      "translation": "起源于；根茎",
+      "sentence": "thematic vowels are part of the stem",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "s-root-step",
       "word": "step",
       "display": "Step",
-      "phonetic": "",
-      "translation": "\u53f0\u9636\uff1b\u697c\u68af",
-      "sentence": "",
+      "phonetic": "/stɛp/",
+      "translation": "台阶；楼梯",
+      "sentence": "the police took steps to reduce crime",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "s-root-stick",
       "word": "stick",
       "display": "Stick",
-      "phonetic": "",
-      "translation": "\u68cd\u5b50",
-      "sentence": "",
+      "phonetic": "/stɪk/",
+      "translation": "棍子",
+      "sentence": "he collected dry sticks for a campfire",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "s-root-stimulate",
       "word": "stimulate",
       "display": "Stimulate",
-      "phonetic": "",
-      "translation": "\u523a\u6fc0",
-      "sentence": "",
+      "phonetic": "/ˈstɪmjəˌleɪt/",
+      "translation": "刺激",
+      "sentence": "The book stimulated her imagination",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "s-root-sting",
       "word": "sting",
       "display": "Sting",
-      "phonetic": "",
-      "translation": "\u523a\u75db",
-      "sentence": "",
+      "phonetic": "/stɪŋ/",
+      "translation": "刺痛",
+      "sentence": "the sting of death",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "s-root-stir",
       "word": "stir",
       "display": "Stir",
-      "phonetic": "",
-      "translation": "\u6405\u62cc",
-      "sentence": "",
+      "phonetic": "/stər/",
+      "translation": "搅拌",
+      "sentence": "stir the soup",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "s-root-stitch",
       "word": "stitch",
       "display": "Stitch",
-      "phonetic": "",
-      "translation": "\u4e00\u9488",
-      "sentence": "",
+      "phonetic": "/stɪʧ/",
+      "translation": "一针",
+      "sentence": "A stitch is a link or loop or knot made by an implement in knitting, crocheting, embroidery, or sewing.",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "s-root-stone",
       "word": "stone",
       "display": "Stone",
-      "phonetic": "",
-      "translation": "\u77f3\u5934",
-      "sentence": "",
+      "phonetic": "/stoʊn/",
+      "translation": "石头",
+      "sentence": "he wanted a special stone to mark the site",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "s-root-stool",
       "word": "stool",
       "display": "Stool",
-      "phonetic": "",
-      "translation": "\u51f3\u5b50\uff1b\u5927\u4fbf",
-      "sentence": "",
+      "phonetic": "/stuːl/",
+      "translation": "凳子；大便",
+      "sentence": "The dog had made in the flower beds",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "s-root-store",
       "word": "store",
       "display": "Store",
-      "phonetic": "",
-      "translation": "\u5546\u5e97",
-      "sentence": "",
+      "phonetic": "/stɔr/",
+      "translation": "商店",
+      "sentence": "he brought back a large store of Cuban cigars",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "s-root-storey",
       "word": "storey",
       "display": "Storey",
-      "phonetic": "",
-      "translation": "\u697c\u5c42\uff08\u767e\u8d27\u5927\u697c\uff09",
-      "sentence": "",
+      "phonetic": "/ˈstɔri/",
+      "translation": "楼层（百货大楼）",
+      "sentence": "what level is the office on?",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "s-root-storm",
       "word": "storm",
       "display": "Storm",
-      "phonetic": "",
-      "translation": "\u66b4\u98ce\u96ea",
-      "sentence": "",
+      "phonetic": "/stɔrm/",
+      "translation": "暴风雪",
+      "sentence": "the storms that had characterized their relationship had died away",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "s-root-stove",
       "word": "stove",
       "display": "Stove",
-      "phonetic": "",
-      "translation": "\u706b\u7089",
-      "sentence": "",
+      "phonetic": "/stoʊv/",
+      "translation": "火炉",
+      "sentence": "dinner was already on the stove",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "s-root-straight",
       "word": "straight",
       "display": "Straight",
-      "phonetic": "",
-      "translation": "\u76f4\u7684",
-      "sentence": "",
+      "phonetic": "/streɪt/",
+      "translation": "直的",
+      "sentence": "sick for five straight days",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "s-root-straightforward",
       "word": "straightforward",
       "display": "Straightforward",
-      "phonetic": "",
-      "translation": "\u6b63\u76f4\u7684",
-      "sentence": "",
+      "phonetic": "/ˈstreɪtˈfɔrwərd/",
+      "translation": "正直的",
+      "sentence": "a straightforward set of instructions",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "s-root-strain",
       "word": "strain",
       "display": "Strain",
-      "phonetic": "",
-      "translation": "\u62c9\u7d27",
-      "sentence": "",
+      "phonetic": "/streɪn/",
+      "translation": "拉紧",
+      "sentence": "she endured the stresses and strains of life",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "s-root-strange",
       "word": "strange",
       "display": "Strange",
-      "phonetic": "",
-      "translation": "\u5947\u602a\u7684",
-      "sentence": "",
+      "phonetic": "/streɪnʤ/",
+      "translation": "奇怪的",
+      "sentence": "a strange exaltation that was indefinable",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "s-root-stranger",
       "word": "stranger",
       "display": "Stranger",
-      "phonetic": "",
-      "translation": "\u964c\u751f\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈstreɪnʤər/",
+      "translation": "陌生人",
+      "sentence": "a strange exaltation that was indefinable",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "s-root-strap",
       "word": "strap",
       "display": "Strap",
-      "phonetic": "",
-      "translation": "\u76ae\u5e26",
-      "sentence": "",
+      "phonetic": "/stræp/",
+      "translation": "皮带",
+      "sentence": "strap a razor",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "s-root-strategy",
       "word": "strategy",
       "display": "Strategy",
-      "phonetic": "",
-      "translation": "\u6218\u7565\uff1b\u653f\u7b56",
-      "sentence": "",
+      "phonetic": "/ˈstrætəʤi/",
+      "translation": "战略；政策",
+      "sentence": "A strategy is an elaborate and systematic plan of action.",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "s-root-straw",
       "word": "straw",
       "display": "Straw",
-      "phonetic": "",
-      "translation": "\u7a3b\u8349",
-      "sentence": "",
+      "phonetic": "/strɔ/",
+      "translation": "稻草",
+      "sentence": "cows were strawed to weather the snowstorm",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "s-root-strawberry",
       "word": "strawberry",
       "display": "Strawberry",
-      "phonetic": "",
-      "translation": "\u8349\u8393",
-      "sentence": "",
+      "phonetic": "/ˈstrɔˌbɛri/",
+      "translation": "草莓",
+      "sentence": "A strawberry is sweet fleshy red fruit.",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "s-root-stream",
       "word": "stream",
       "display": "Stream",
-      "phonetic": "",
-      "translation": "\u6eaa\u6d41",
-      "sentence": "",
+      "phonetic": "/striːm/",
+      "translation": "溪流",
+      "sentence": "two streams of development run through American history",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "s-root-streamline",
       "word": "streamline",
       "display": "Streamline",
-      "phonetic": "",
-      "translation": "\u6d41\u7ebf\u578b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈstrimˌlaɪn/",
+      "translation": "流线型的",
+      "sentence": "To streamline is to contour economically or efficiently.",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "s-root-street",
       "word": "street",
       "display": "Street",
-      "phonetic": "",
-      "translation": "\u8857\u9053",
-      "sentence": "",
+      "phonetic": "/striːt/",
+      "translation": "街道",
+      "sentence": "they walked the streets of the small town",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "s-root-strength",
       "word": "strength",
       "display": "Strength",
-      "phonetic": "",
-      "translation": "\u529b\u91cf\uff1b\u4f18\u70b9",
-      "sentence": "",
+      "phonetic": "/strɛŋθ/",
+      "translation": "力量；优点",
+      "sentence": "fatigue sapped his strength",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "s-root-strengthen",
       "word": "strengthen",
       "display": "Strengthen",
-      "phonetic": "",
-      "translation": "\u52a0\u5f3a",
-      "sentence": "",
+      "phonetic": "/ˈstrɛŋθən/",
+      "translation": "加强",
+      "sentence": "This exercise will strengthen your upper body",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "s-root-strenuous",
       "word": "strenuous",
       "display": "Strenuous",
-      "phonetic": "",
-      "translation": "\u8d39\u529b\u5730\uff1b\u8270\u8f9b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈstrɛnjuəs/",
+      "translation": "费力地；艰辛的",
+      "sentence": "strenuous exercise",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "s-root-stress",
       "word": "stress",
       "display": "Stress",
-      "phonetic": "",
-      "translation": "\u538b\u529b",
-      "sentence": "",
+      "phonetic": "/strɛs/",
+      "translation": "压力",
+      "sentence": "he put the stress on the wrong syllable",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "s-root-strict",
       "word": "strict",
       "display": "Strict",
-      "phonetic": "",
-      "translation": "\u4e25\u683c\u7684",
-      "sentence": "",
+      "phonetic": "/strɪkt/",
+      "translation": "严格的",
+      "sentence": "a strict vegetarian",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "s-root-strife",
       "word": "strife",
       "display": "Strife",
-      "phonetic": "",
-      "translation": "\u4e89\u5435",
-      "sentence": "",
+      "phonetic": "/straɪf/",
+      "translation": "争吵",
+      "sentence": "A strife is lack of agreement or harmony.",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "s-root-strike",
       "word": "strike",
       "display": "Strike",
-      "phonetic": "",
-      "translation": "\u653b\u51fb",
-      "sentence": "",
+      "phonetic": "/straɪk/",
+      "translation": "攻击",
+      "sentence": "the strike lasted more than a month before it was settled",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "s-root-striking",
       "word": "striking",
       "display": "Striking",
-      "phonetic": "",
-      "translation": "\u663e\u8457\u7684",
-      "sentence": "",
+      "phonetic": "/ˈstraɪkɪŋ/",
+      "translation": "显著的",
+      "sentence": "The auto workers are striking for higher wages",
       "tags": [
         "root-family"
       ],
@@ -622,9 +622,9 @@
       "id": "s-root-strive",
       "word": "strive",
       "display": "Strive",
-      "phonetic": "",
-      "translation": "\u594b\u6597",
-      "sentence": "",
+      "phonetic": "/straɪv/",
+      "translation": "奋斗",
+      "sentence": "we endeavor to make our customers happy",
       "tags": [
         "root-family"
       ],
@@ -634,9 +634,9 @@
       "id": "s-root-stroke",
       "word": "stroke",
       "display": "Stroke",
-      "phonetic": "",
-      "translation": "\u629a\u6478",
-      "sentence": "",
+      "phonetic": "/stroʊk/",
+      "translation": "抚摸",
+      "sentence": "it took two strokes to get out of the bunker",
       "tags": [
         "root-family"
       ],
@@ -646,9 +646,9 @@
       "id": "s-root-structure",
       "word": "structure",
       "display": "Structure",
-      "phonetic": "",
-      "translation": "\u7ed3\u6784\uff1b\u6784\u9020",
-      "sentence": "",
+      "phonetic": "/ˈstrəkʧər/",
+      "translation": "结构；构造",
+      "sentence": "the structure consisted of a series of arches",
       "tags": [
         "root-family"
       ],
@@ -658,9 +658,9 @@
       "id": "s-root-struggle",
       "word": "struggle",
       "display": "Struggle",
-      "phonetic": "",
-      "translation": "\u6597\u4e89\uff1b\u594b\u6597",
-      "sentence": "",
+      "phonetic": "/ˈstrəgəl/",
+      "translation": "斗争；奋斗",
+      "sentence": "getting through the crowd was a real struggle",
       "tags": [
         "root-family"
       ],
@@ -670,9 +670,9 @@
       "id": "s-root-stubborn",
       "word": "stubborn",
       "display": "Stubborn",
-      "phonetic": "",
-      "translation": "\u987d\u56fa\u7684",
-      "sentence": "",
+      "phonetic": "/ˈstəbərn/",
+      "translation": "顽固的",
+      "sentence": "a stubborn infection",
       "tags": [
         "root-family"
       ],
@@ -682,9 +682,9 @@
       "id": "s-root-stuff",
       "word": "stuff",
       "display": "Stuff",
-      "phonetic": "",
-      "translation": "\u539f\u6599\uff1b\u6750\u6599",
-      "sentence": "",
+      "phonetic": "/stəf/",
+      "translation": "原料；材料",
+      "sentence": "wheat is the stuff they use to make bread",
       "tags": [
         "root-family"
       ],
@@ -694,9 +694,9 @@
       "id": "s-root-stumble",
       "word": "stumble",
       "display": "Stumble",
-      "phonetic": "",
-      "translation": "\u7eca\u5012",
-      "sentence": "",
+      "phonetic": "/ˈstəmbəl/",
+      "translation": "绊倒",
+      "sentence": "The drunk man stumbled about",
       "tags": [
         "root-family"
       ],
@@ -706,9 +706,9 @@
       "id": "s-root-sturdy",
       "word": "sturdy",
       "display": "Sturdy",
-      "phonetic": "",
-      "translation": "\u575a\u5b9a\u7684\uff1b\u5f3a\u5065\u7684",
-      "sentence": "",
+      "phonetic": "/ˈstərdi/",
+      "translation": "坚定的；强健的",
+      "sentence": "sturdy young athletes",
       "tags": [
         "root-family"
       ],
@@ -718,9 +718,9 @@
       "id": "s-root-style",
       "word": "style",
       "display": "Style",
-      "phonetic": "",
-      "translation": "\u98ce\u683c\uff1b\u7c7b\u578b",
-      "sentence": "",
+      "phonetic": "/staɪl/",
+      "translation": "风格；类型",
+      "sentence": "in the characteristic New York style",
       "tags": [
         "root-family"
       ],
@@ -731,5 +731,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-root",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-other-adoral",
       "word": "adoral",
       "display": "Adoral",
-      "phonetic": "",
-      "translation": "\u53e3\u90e8\u9644\u8fd1\u7684",
-      "sentence": "",
+      "phonetic": "/ʌdˈɔrʌl/",
+      "translation": "口部附近的",
+      "sentence": "Adoral is used here with the sense of \"口部附近的\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-other-adoration",
       "word": "adoration",
       "display": "Adoration",
-      "phonetic": "",
-      "translation": "\u5d07\u62dc",
-      "sentence": "",
+      "phonetic": "/ˌædərˈeɪʃən/",
+      "translation": "崇拜",
+      "sentence": "An adoration is a feeling of profound love and admiration.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-other-adore",
       "word": "adore",
       "display": "Adore",
-      "phonetic": "",
-      "translation": "\u5d07\u62dc",
-      "sentence": "",
+      "phonetic": "/əˈdɔr/",
+      "translation": "崇拜",
+      "sentence": "he just adored his wife",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-other-adorer",
       "word": "adorer",
       "display": "Adorer",
-      "phonetic": "",
-      "translation": "\u7231\u6155\u8005",
-      "sentence": "",
+      "phonetic": "/ʌdˈɔrɚ/",
+      "translation": "爱慕者",
+      "sentence": "she had many admirers",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-other-oak",
       "word": "oak",
       "display": "Oak",
-      "phonetic": "",
-      "translation": "\u6a61\u6728\uff1b\u6a61\u6811",
-      "sentence": "",
+      "phonetic": "/oʊk/",
+      "translation": "橡木；橡树",
+      "sentence": "great oaks grow from little acorns",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "o-other-oar",
       "word": "oar",
       "display": "Oar",
-      "phonetic": "",
-      "translation": "\u6868\uff1b\u5212\u52a8",
-      "sentence": "",
+      "phonetic": "/ɔr/",
+      "translation": "桨；划动",
+      "sentence": "An oar is an implement used to propel or steer a boat.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "o-other-oath",
       "word": "oath",
       "display": "Oath",
-      "phonetic": "",
-      "translation": "\u8a93\u8a00\uff1b\u8bc5\u5492",
-      "sentence": "",
+      "phonetic": "/oʊθ/",
+      "translation": "誓言；诅咒",
+      "sentence": "they took an oath of allegiance",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "o-other-occasion",
       "word": "occasion",
       "display": "Occasion",
-      "phonetic": "",
-      "translation": "\u573a\u5408\uff1b\u673a\u4f1a",
-      "sentence": "",
+      "phonetic": "/əˈkeɪʒən/",
+      "translation": "场合；机会",
+      "sentence": "it was needed only on special occasions",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "o-other-occasional",
       "word": "occasional",
       "display": "Occasional",
-      "phonetic": "",
-      "translation": "\u5076\u7136\u7684\uff1b\u4e34\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ɔˈkeɪʒənəl/",
+      "translation": "偶然的；临时的",
+      "sentence": "took an occasional glass of wine",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "o-other-occupation",
       "word": "occupation",
       "display": "Occupation",
-      "phonetic": "",
-      "translation": "\u5360\u9886\uff1b\u804c\u4e1a",
-      "sentence": "",
+      "phonetic": "/ˌɑkjəˈpeɪʃən/",
+      "translation": "占领；职业",
+      "sentence": "he missed the bell in his occupation with the computer game",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "o-other-occupy",
       "word": "occupy",
       "display": "Occupy",
-      "phonetic": "",
-      "translation": "\u5360\u7528",
-      "sentence": "",
+      "phonetic": "/ˈɑkjəˌpaɪ/",
+      "translation": "占用",
+      "sentence": "the young prince will soon occupy the throne",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "o-other-occur",
       "word": "occur",
       "display": "Occur",
-      "phonetic": "",
-      "translation": "\u53d1\u751f",
-      "sentence": "",
+      "phonetic": "/əˈkər/",
+      "translation": "发生",
+      "sentence": "Nothing occurred that seemed important",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "o-other-occurrence",
       "word": "occurrence",
       "display": "Occurrence",
-      "phonetic": "",
-      "translation": "\u53d1\u751f\uff1b\u4e8b\u6545",
-      "sentence": "",
+      "phonetic": "/əˈkərəns/",
+      "translation": "发生；事故",
+      "sentence": "a disease of frequent occurrence",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "o-other-odd",
       "word": "odd",
       "display": "Odd",
-      "phonetic": "",
-      "translation": "\u5947\u602a\u7684\uff1b\u5947\u6570\u7684",
-      "sentence": "",
+      "phonetic": "/ɑd/",
+      "translation": "奇怪的；奇数的",
+      "sentence": "it is odd that his name is never mentioned",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "o-other-odds",
       "word": "odds",
       "display": "Odds",
-      "phonetic": "",
-      "translation": "\u4e0d\u5e73\u7b49\uff1b\u5dee\u5f02",
-      "sentence": "",
+      "phonetic": "/ɑdz/",
+      "translation": "不平等；差异",
+      "sentence": "he offered odds of two to one",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "o-other-odor",
       "word": "odor",
       "display": "Odor",
-      "phonetic": "",
-      "translation": "\u6c14\u5473\uff1b\u9999\u5473",
-      "sentence": "",
+      "phonetic": "/ˈoʊdər/",
+      "translation": "气味；香味",
+      "sentence": "she loved the smell of roses",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "o-other-omit",
       "word": "omit",
       "display": "Omit",
-      "phonetic": "",
-      "translation": "\u7701\u7565",
-      "sentence": "",
+      "phonetic": "/oʊˈmɪt/",
+      "translation": "省略",
+      "sentence": "The bad results were excluded from the report",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "o-other-opaque",
       "word": "opaque",
       "display": "Opaque",
-      "phonetic": "",
-      "translation": "\u6666\u6da9\u7684\uff1b\u96be\u7406\u89e3\u7684",
-      "sentence": "",
+      "phonetic": "/oʊˈpeɪk/",
+      "translation": "晦涩的；难理解的",
+      "sentence": "opaque windows of the jail",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "o-other-orbit",
       "word": "orbit",
       "display": "Orbit",
-      "phonetic": "",
-      "translation": "\u8f68\u9053",
-      "sentence": "",
+      "phonetic": "/ˈɔrbət/",
+      "translation": "轨道",
+      "sentence": "he plotted the orbit of the moon",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "o-other-orchard",
       "word": "orchard",
       "display": "Orchard",
-      "phonetic": "",
-      "translation": "\u679c\u56ed",
-      "sentence": "",
+      "phonetic": "/ˈɔrʧərd/",
+      "translation": "果园",
+      "sentence": "An orchard is garden consisting of a small cultivated wood without undergrowth.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "o-other-orphan",
       "word": "orphan",
       "display": "Orphan",
-      "phonetic": "",
-      "translation": "\u5b64\u513f",
-      "sentence": "",
+      "phonetic": "/ˈɔrfən/",
+      "translation": "孤儿",
+      "sentence": "An orphan is a child who has lost both parents.",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "o-other-orthodox",
       "word": "orthodox",
       "display": "Orthodox",
-      "phonetic": "",
-      "translation": "\u4f20\u7edf\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɔrθəˌdɑks/",
+      "translation": "传统的",
+      "sentence": "Orthodox Judaism",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "o-other-ought",
       "word": "ought",
       "display": "Ought",
-      "phonetic": "",
-      "translation": "\u5e94\u8be5",
-      "sentence": "",
+      "phonetic": "/ɔt/",
+      "translation": "应该",
+      "sentence": "Ought is used here with the sense of \"应该\".",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "o-other-ounce",
       "word": "ounce",
       "display": "Ounce",
-      "phonetic": "",
-      "translation": "\u76ce\u53f8,\u82f1\u4e24",
-      "sentence": "",
+      "phonetic": "/aʊns/",
+      "translation": "盎司,英两",
+      "sentence": "An ounce is a unit of apothecary weight equal to 480 grains or one twelfth of a pound.",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "o-other-oval",
       "word": "oval",
       "display": "Oval",
-      "phonetic": "",
-      "translation": "\u5375\u5f62\u7684\uff1b\u692d\u5706\u5f62",
-      "sentence": "",
+      "phonetic": "/ˈoʊvəl/",
+      "translation": "卵形的；椭圆形",
+      "sentence": "the sums of the distances from the foci to any point on an ellipse is constant",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "o-other-owing",
       "word": "owing",
       "display": "Owing",
-      "phonetic": "",
-      "translation": "\u6b20\u503a\u7684",
-      "sentence": "",
+      "phonetic": "/oʊɪŋ/",
+      "translation": "欠债的",
+      "sentence": "This new theory owes much to Einstein's Relativity Theory",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "o-other-own",
       "word": "own",
       "display": "Own",
-      "phonetic": "",
-      "translation": "\u6b20\u503a",
-      "sentence": "",
+      "phonetic": "/oʊn/",
+      "translation": "欠债",
+      "sentence": "He owns three houses in Florida",
       "tags": [
         "root-family"
       ],
@@ -335,5 +335,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

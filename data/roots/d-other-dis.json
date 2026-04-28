@@ -3,12 +3,13 @@
   "rootId": "d-other-dis",
   "root": "dis",
   "meaning": "dis",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "dis",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "d-other",
-  "rootLevel": 3,
-  "rootPath": "d>d-other>d-other-dis",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "d-other-dis",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

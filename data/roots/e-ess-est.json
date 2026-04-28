@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-ess-est",
-  "root": "ess=est\u5b58\u5728",
+  "root": "ess=est存在",
   "meaning": "ess=est",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "存在",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-ess-est-exist",
       "word": "exist",
       "display": "Exist",
-      "phonetic": "",
-      "translation": "\u5b58\u5728\uff1b\u751f\u6d3b",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɪst/",
+      "translation": "存在；生活",
+      "sentence": "he could barely exist on such a low wage",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-ess-est-existence",
       "word": "existence",
       "display": "Existence",
-      "phonetic": "",
-      "translation": "\u5b9e\u5728\uff1b\u751f\u5b58",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɪstəns/",
+      "translation": "实在；生存",
+      "sentence": "laws in existence for centuries",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-ess-est-interest",
       "word": "interest",
       "display": "Interest",
-      "phonetic": "",
-      "translation": "\u5174\u8da3\uff1b\u5229\u76ca",
-      "sentence": "",
+      "phonetic": "/ˈɪntəˌrɛst/",
+      "translation": "兴趣；利益",
+      "sentence": "an interest in music",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "e>e-ess-est",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

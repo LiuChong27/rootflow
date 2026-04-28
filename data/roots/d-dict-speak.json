@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-dict-speak",
-  "root": "\u5bf9\u7740\u4e0b\u9762\u4e00\u7fa4\u4eba\u8bf4",
+  "root": "对着下面一群人说",
   "meaning": "speak",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "对着下面一群人说",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-dict-speak-contradict",
       "word": "contradict",
       "display": "Contradict",
-      "phonetic": "",
-      "translation": "\u53cd\u9a73",
-      "sentence": "",
+      "phonetic": "/ˌkɑntrəˈdɪkt/",
+      "translation": "反驳",
+      "sentence": "The board opposed his motion",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-dict-speak-index",
       "word": "index",
       "display": "Index",
-      "phonetic": "",
-      "translation": "\u7d22\u5f15\uff1b\u6307\u6570",
-      "sentence": "",
+      "phonetic": "/ˈɪndɛks/",
+      "translation": "索引；指数",
+      "sentence": "index the book",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-dict-speak-indicate",
       "word": "indicate",
       "display": "Indicate",
-      "phonetic": "",
-      "translation": "\u6307\u660e",
-      "sentence": "",
+      "phonetic": "/ˈɪndəˌkeɪt/",
+      "translation": "指明",
+      "sentence": "These symptoms indicate a serious illness",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-dict-speak-indict",
       "word": "indict",
       "display": "Indict",
-      "phonetic": "",
-      "translation": "\u8d77\u8bc9\uff1b\u63a7\u544a",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdaɪt/",
+      "translation": "起诉；控告",
+      "sentence": "To indict is to accuse formally of a crime.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-dict-speak-interdict",
       "word": "interdict",
       "display": "Interdict",
-      "phonetic": "",
-      "translation": "\u7981\u6b62\uff1b\u9650\u5236",
-      "sentence": "",
+      "phonetic": "/ˈɪntərˌdɪkt/",
+      "translation": "禁止；限制",
+      "sentence": "I forbid you to call me late at night",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-dict-speak-jurisdiction",
       "word": "jurisdiction",
       "display": "Jurisdiction",
-      "phonetic": "",
-      "translation": "\u53f8\u6cd5\u6743\uff1b\u88c1\u5224\u6743",
-      "sentence": "",
+      "phonetic": "/ˌʤʊrɪsˈdɪkʃən/",
+      "translation": "司法权；裁判权",
+      "sentence": "courts having jurisdiction in this district",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-dict-speak-malediction",
       "word": "malediction",
       "display": "Malediction",
-      "phonetic": "",
-      "translation": "\u8bc5\u5492\uff1b\u6c61\u8511\uff1b\u8bfd\u8c24",
-      "sentence": "",
+      "phonetic": "/mˌælɪdˈɪkʃʌn/",
+      "translation": "诅咒；污蔑；诽谤",
+      "sentence": "he suffered the imprecations of the mob",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-dict-speak-predicament",
       "word": "predicament",
       "display": "Predicament",
-      "phonetic": "",
-      "translation": "\u56f0\u5883\uff1b\u7a98\u5883",
-      "sentence": "",
+      "phonetic": "/prɪˈdɪkəmənt/",
+      "translation": "困境；窘境",
+      "sentence": "finds himself in a most awkward predicament",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-dict-speak-predict",
       "word": "predict",
       "display": "Predict",
-      "phonetic": "",
-      "translation": "\u9884\u77e5",
-      "sentence": "",
+      "phonetic": "/prɪˈdɪkt/",
+      "translation": "预知",
+      "sentence": "Call the outcome of an election",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-dict-speak-valedictory",
       "word": "valedictory",
       "display": "Valedictory",
-      "phonetic": "",
-      "translation": "\u544a\u522b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌvæləˈdɪktəri/",
+      "translation": "告别的",
+      "sentence": "a valedictory address",
       "tags": [
         "root-family"
       ],
@@ -131,5 +131,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-dict>d-dict-speak",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

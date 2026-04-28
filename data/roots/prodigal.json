@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "prodigal",
   "root": "prodigal",
-  "meaning": "",
-  "descriptionCn": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "prodigal family",
+  "descriptionCn": "挥霍的；奢侈的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "prodigal-prodigal-2",
       "word": "prodigal",
       "display": "Prodigal",
-      "phonetic": "",
-      "translation": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɑdɪgəl/",
+      "translation": "挥霍的；奢侈的",
+      "sentence": "prodigal in their expenditures",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>act>prodigal",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

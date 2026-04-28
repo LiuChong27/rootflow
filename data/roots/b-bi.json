@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-bi",
-  "root": "bi \u4e24\u4e2a",
+  "root": "bi 两个",
   "meaning": "two",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "两个",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-bi-biannual",
       "word": "biannual",
       "display": "Biannual",
-      "phonetic": "",
-      "translation": "\u6bcf\u5e74\u4e24\u6b21\u7684",
-      "sentence": "",
+      "phonetic": "/baɪˈænuəl/",
+      "translation": "每年两次的",
+      "sentence": "If something is biannual, it is occurring or payable twice each year.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-bi-bias",
       "word": "bias",
       "display": "Bias",
-      "phonetic": "",
-      "translation": "\u504f\u89c1\uff1b\u504f\u8892",
-      "sentence": "",
+      "phonetic": "/baɪəs/",
+      "translation": "偏见；偏袒",
+      "sentence": "you are biasing my choice by telling me yours",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-bi-bicarbonate",
       "word": "bicarbonate",
       "display": "Bicarbonate",
-      "phonetic": "",
-      "translation": "\u91cd\u78b3\u9178\u76d0",
-      "sentence": "",
+      "phonetic": "/baɪˈkɑrbənət/",
+      "translation": "重碳酸盐",
+      "sentence": "A bicarbonate is a salt of carbonic acid (containing the anion HCO3) in which one hydrogen atom has been replaced; an acid carbonate.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-bi-biconvex",
       "word": "biconvex",
       "display": "Biconvex",
-      "phonetic": "",
-      "translation": "\u4e24\u9762\u51f8\u7684",
-      "sentence": "",
+      "phonetic": "/bˈɪknɑvz/",
+      "translation": "两面凸的",
+      "sentence": "If something is biconvex, it is convex on both sides; shaped like a lentil.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-bi-bicycle",
       "word": "bicycle",
       "display": "Bicycle",
-      "phonetic": "",
-      "translation": "\u81ea\u884c\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈbaɪsɪkəl/",
+      "translation": "自行车",
+      "sentence": "A bicycle is a wheeled vehicle that has two wheels and is moved by foot pedals.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-bi-biennial",
       "word": "biennial",
       "display": "Biennial",
-      "phonetic": "",
-      "translation": "\u4e24\u5e74\u4e00\u751f\u7684",
-      "sentence": "",
+      "phonetic": "/baɪˈɛniəl/",
+      "translation": "两年一生的",
+      "sentence": "a biennial life cycle",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-bi-binal",
       "word": "binal",
       "display": "Binal",
-      "phonetic": "",
-      "translation": "\u53cc\u500d\u7684\uff1b\u5b6a\u751f\u7684",
-      "sentence": "",
+      "phonetic": "/bˈaɪnʌl/",
+      "translation": "双倍的；孪生的",
+      "sentence": "Binal is used here with the sense of \"双倍的；孪生的\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-bi-binary",
       "word": "binary",
       "display": "Binary",
-      "phonetic": "",
-      "translation": "\u4e8c\u7ea7\u5236",
-      "sentence": "",
+      "phonetic": "/ˈbaɪnəˌri/",
+      "translation": "二级制",
+      "sentence": "a binary digit",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-bi-bipartisan",
       "word": "bipartisan",
       "display": "Bipartisan",
-      "phonetic": "",
-      "translation": "\u4e24\u515a\u7684",
-      "sentence": "",
+      "phonetic": "/baɪˈpɑrtɪzən/",
+      "translation": "两党的",
+      "sentence": "a two-way treaty",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-bi-bizarre",
       "word": "bizarre",
       "display": "Bizarre",
-      "phonetic": "",
-      "translation": "\u7a00\u5947\u53e4\u602a\u7684",
-      "sentence": "",
+      "phonetic": "/bɪˈzɑr/",
+      "translation": "稀奇古怪的",
+      "sentence": "restaurants of bizarre design--one like a hat, another like a rabbit",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-bi-both",
       "word": "both",
       "display": "Both",
-      "phonetic": "",
-      "translation": "\u4e24\u8005",
-      "sentence": "",
+      "phonetic": "/boʊθ/",
+      "translation": "两者",
+      "sentence": "both girls are pretty",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-bi",
   "type": "prefix",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

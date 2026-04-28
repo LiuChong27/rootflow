@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-tail",
   "root": "tail",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "tail",
+  "descriptionCn": "tail",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-tail-tackle",
       "word": "tackle",
       "display": "Tackle",
-      "phonetic": "",
-      "translation": "\u5904\u7406\uff1b\u7528\u5177",
-      "sentence": "",
+      "phonetic": "/ˈtækəl/",
+      "translation": "处理；用具",
+      "sentence": "the right tackle is a straight A student",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-tail-tactic",
       "word": "tactic",
       "display": "Tactic",
-      "phonetic": "",
-      "translation": "\u7b56\u7565",
-      "sentence": "",
+      "phonetic": "/ˈtæktɪk/",
+      "translation": "策略",
+      "sentence": "A tactic is a plan for attaining a particular goal.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-tail-tease",
       "word": "tease",
       "display": "Tease",
-      "phonetic": "",
-      "translation": "\u620f\u5f04",
-      "sentence": "",
+      "phonetic": "/tiːz/",
+      "translation": "戏弄",
+      "sentence": "he ignored their teases",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-tail-tenant",
       "word": "tenant",
       "display": "Tenant",
-      "phonetic": "",
-      "translation": "\u79df\u501f",
-      "sentence": "",
+      "phonetic": "/ˈtɛnənt/",
+      "translation": "租借",
+      "sentence": "the landlord can evict a tenant who doesn't pay the rent",
       "tags": [
         "root-family"
       ],
@@ -56,8 +56,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-tail",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

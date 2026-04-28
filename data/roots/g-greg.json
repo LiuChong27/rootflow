@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-greg",
-  "root": "greg=group\u7fa4\uff0c\u96c6\u5408",
+  "root": "greg=group群，集合",
   "meaning": "greg",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "群，集合",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-greg-aggregate",
       "word": "aggregate",
       "display": "Aggregate",
-      "phonetic": "",
-      "translation": "\u5408\u8ba1\uff1b\u805a\u96c6",
-      "sentence": "",
+      "phonetic": "/ˈægrəgət/",
+      "translation": "合计；聚集",
+      "sentence": "aggregate expenses include expenses of all divisions combined for the entire year",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-greg-aggregation",
       "word": "aggregation",
       "display": "Aggregation",
-      "phonetic": "",
-      "translation": "\u805a\u96c6\uff1b\u805a\u5408",
-      "sentence": "",
+      "phonetic": "/ˌægrəˈgeɪʃən/",
+      "translation": "聚集；聚合",
+      "sentence": "An aggregation is several things grouped together or considered as a whole.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "g-greg-congregate",
       "word": "congregate",
       "display": "Congregate",
-      "phonetic": "",
-      "translation": "\u805a\u96c6",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋgrəˌgeɪt/",
+      "translation": "聚集",
+      "sentence": "The crowds congregated in front of the Vatican on Christmas Eve",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "g-greg-congregation",
       "word": "congregation",
       "display": "Congregation",
-      "phonetic": "",
-      "translation": "\u96c6\u5408",
-      "sentence": "",
+      "phonetic": "/ˌkɑŋgrəˈgeɪʃən/",
+      "translation": "集合",
+      "sentence": "a congregation of children pleaded for his autograph",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "g-greg-desegregate",
       "word": "desegregate",
       "display": "Desegregate",
-      "phonetic": "",
-      "translation": "\u5e9f\u9664\u79cd\u65cf\u9694\u79bb",
-      "sentence": "",
+      "phonetic": "/dɪˈsɛgrəˌgeɪt/",
+      "translation": "废除种族隔离",
+      "sentence": "This school is completely desegregated",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "g-greg-desegregation",
       "word": "desegregation",
       "display": "Desegregation",
-      "phonetic": "",
-      "translation": "\u5e9f\u9664\u79cd\u65cf\u6b67\u89c6",
-      "sentence": "",
+      "phonetic": "/ˌdisɛgrəˈgeɪʃən/",
+      "translation": "废除种族歧视",
+      "sentence": "A desegregation is the action of incorporating a racial or religious group into a community.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "g-greg-segregation",
       "word": "segregation",
       "display": "Segregation",
-      "phonetic": "",
-      "translation": "\u5206\u79bb\uff1b\u9694\u79bb",
-      "sentence": "",
+      "phonetic": "/ˌsɛgrəˈgeɪʃən/",
+      "translation": "分离；隔离",
+      "sentence": "sequestration of the jury",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "g-greg-segregationist",
       "word": "segregationist",
       "display": "Segregationist",
-      "phonetic": "",
-      "translation": "\u9694\u79bb\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/ˌsɛgrəˈgeɪʃənɪst/",
+      "translation": "隔离主义者",
+      "sentence": "A segregationist is someone who believes the races should be kept apart.",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-greg",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-safe",
-  "root": "safe\u5b89\u5168\u7684",
+  "root": "safe安全的",
   "meaning": "safe",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "安全的",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-safe",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-safe",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-wood-line",
-  "root": "\u7ebf",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "线",
+  "meaning": "line",
+  "descriptionCn": "线",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-wood-line-baggage",
       "word": "baggage",
       "display": "Baggage",
-      "phonetic": "",
-      "translation": "\u884c\u674e",
-      "sentence": "",
+      "phonetic": "/ˈbægɪʤ/",
+      "translation": "行李",
+      "sentence": "A baggage is cases used to carry belongings when traveling.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-wood-line-bone",
       "word": "bone",
       "display": "Bone",
-      "phonetic": "",
-      "translation": "\u9aa8\u9abc",
-      "sentence": "",
+      "phonetic": "/boʊn/",
+      "translation": "骨骼",
+      "sentence": "I had to bone up on my Latin verbs before the final exam",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-wood-line-brandy",
       "word": "brandy",
       "display": "Brandy",
-      "phonetic": "",
-      "translation": "\u767d\u5170\u5730\u9152",
-      "sentence": "",
+      "phonetic": "/ˈbrændi/",
+      "translation": "白兰地酒",
+      "sentence": "A brandy is distilled from wine or fermented fruit juice.",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-wood>b-wood-line",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

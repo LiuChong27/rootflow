@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-re-emotion",
-  "root": "\u60c5\u611f",
+  "root": "情感",
   "meaning": "emotion",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "情感",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-re-emotion-refresh",
       "word": "refresh",
       "display": "Refresh",
-      "phonetic": "",
-      "translation": "\u4f7f\u7cbe\u795e\u632f\u4f5c",
-      "sentence": "",
+      "phonetic": "/rɪˈfrɛʃ/",
+      "translation": "使精神振作",
+      "sentence": "The cool water refreshed us",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-re-emotion-refreshment",
       "word": "refreshment",
       "display": "Refreshment",
-      "phonetic": "",
-      "translation": "\u70b9\u5fc3\uff1b\u996e\u6599",
-      "sentence": "",
+      "phonetic": "/rəˈfrɛʃmənt/",
+      "translation": "点心；饮料",
+      "sentence": "time for rest and refreshment by the pool",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-re-emotion-rejoice",
       "word": "rejoice",
       "display": "Rejoice",
-      "phonetic": "",
-      "translation": "\u4f7f\u9ad8\u5174",
-      "sentence": "",
+      "phonetic": "/rɪˈʤɔɪs/",
+      "translation": "使高兴",
+      "sentence": "Who cannot exult in Spring?",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-re-emotion-relax",
       "word": "relax",
       "display": "Relax",
-      "phonetic": "",
-      "translation": "\u653e\u677e",
-      "sentence": "",
+      "phonetic": "/rɪˈlæks/",
+      "translation": "放松",
+      "sentence": "He relaxed in the hot tub",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-re-emotion-relay",
       "word": "relay",
       "display": "Relay",
-      "phonetic": "",
-      "translation": "\u63a5\u529b\uff1b\u63a5\u73ed",
-      "sentence": "",
+      "phonetic": "/ˈriˌleɪ/",
+      "translation": "接力；接班",
+      "sentence": "the relay was successful",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-re-emotion-release",
       "word": "release",
       "display": "Release",
-      "phonetic": "",
-      "translation": "\u91ca\u653e",
-      "sentence": "",
+      "phonetic": "/riˈlis/",
+      "translation": "释放",
+      "sentence": "a new release from the London Symphony Orchestra",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-re-emotion-relief",
       "word": "relief",
       "display": "Relief",
-      "phonetic": "",
-      "translation": "\u51cf\u8f7b\uff1b\u89e3\u9664",
-      "sentence": "",
+      "phonetic": "/rɪˈlif/",
+      "translation": "减轻；解除",
+      "sentence": "as he heard the news he was suddenly flooded with relief",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-re-emotion-relieve",
       "word": "relieve",
       "display": "Relieve",
-      "phonetic": "",
-      "translation": "\u51cf\u8f7b",
-      "sentence": "",
+      "phonetic": "/rɪˈliv/",
+      "translation": "减轻",
+      "sentence": "This pill will relieve your headaches",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-re-emotion-reluctant",
       "word": "reluctant",
       "display": "Reluctant",
-      "phonetic": "",
-      "translation": "\u4e0d\u613f\u7684\uff1b\u52c9\u5f3a\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈləktənt/",
+      "translation": "不愿的；勉强的",
+      "sentence": "a reluctant smile",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-re-emotion-resolute",
       "word": "resolute",
       "display": "Resolute",
-      "phonetic": "",
-      "translation": "\u575a\u51b3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛzəˌlut/",
+      "translation": "坚决的",
+      "sentence": "stood resolute against the enemy",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-re-emotion-resolution",
       "word": "resolution",
       "display": "Resolution",
-      "phonetic": "",
-      "translation": "\u575a\u51b3",
-      "sentence": "",
+      "phonetic": "/ˌrɛzəˈluʃən/",
+      "translation": "坚决",
+      "sentence": "it was his unshakeable resolution to finish the work",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 3,
   "rootPath": "r>r-re>r-re-emotion",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

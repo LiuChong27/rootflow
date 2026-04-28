@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "audio",
   "root": "audio",
-  "meaning": "",
-  "descriptionCn": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "audio family",
+  "descriptionCn": "听觉的；音频的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "audio-audio-2",
       "word": "audio",
       "display": "Audio",
-      "phonetic": "",
-      "translation": "\u542c\u89c9\u7684\uff1b\u97f3\u9891\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɑdiˌoʊ/",
+      "translation": "听觉的；音频的",
+      "sentence": "they always raise the audio for commercials",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "audiogram",
       "word": "audiogram",
       "display": "Audiogram",
-      "phonetic": "",
-      "translation": "\u542c\u529b\u654f\u611f\u56fe",
-      "sentence": "",
+      "phonetic": "/oʊdiˈɑrmʌbʌl/",
+      "translation": "听力敏感图",
+      "sentence": "An audiogram is a graphical representation of a person's auditory sensitivity to sound.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "audiology",
       "word": "audiology",
       "display": "Audiology",
-      "phonetic": "",
-      "translation": "\u542c\u89c9\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌɔdiˈɑlʌdʒi/",
+      "translation": "听觉学",
+      "sentence": "An audiology is the measurement of hearing.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "inaudible",
       "word": "inaudible",
       "display": "Inaudible",
-      "phonetic": "",
-      "translation": "\u542c\u4e0d\u89c1\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɔdəbəl/",
+      "translation": "听不见的",
+      "sentence": "an inaudible conversation",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "a>audi>audio",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

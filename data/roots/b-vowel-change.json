@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-vowel-change",
-  "root": "\u5143\u97f3\u53d8\u6362",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "元音变换",
+  "meaning": "vowel change",
+  "descriptionCn": "元音变换",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-vowel-band",
       "word": "band",
       "display": "Band",
-      "phonetic": "",
-      "translation": "\u6761\u7eb9\uff1b\u4e50\u961f",
-      "sentence": "",
+      "phonetic": "/bænd/",
+      "translation": "条纹；乐队",
+      "sentence": "chromosomes exhibit characteristic bands",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-vowel-bandage",
       "word": "bandage",
       "display": "Bandage",
-      "phonetic": "",
-      "translation": "\u7ef7\u5e26",
-      "sentence": "",
+      "phonetic": "/ˈbændɪʤ/",
+      "translation": "绷带",
+      "sentence": "The nurse bandaged a sprained ankle",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-vowel-banner",
       "word": "banner",
       "display": "Banner",
-      "phonetic": "",
-      "translation": "\u65d7\u5e1c",
-      "sentence": "",
+      "phonetic": "/ˈbænər/",
+      "translation": "旗帜",
+      "sentence": "a banner year for the company",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-vowel-bend",
       "word": "bend",
       "display": "Bend",
-      "phonetic": "",
-      "translation": "\u5f2f\u66f2\uff1b\u5c48\u670d",
-      "sentence": "",
+      "phonetic": "/bɛnd/",
+      "translation": "弯曲；屈服",
+      "sentence": "a bend in the road",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-vowel-bind",
       "word": "bind",
       "display": "Bind",
-      "phonetic": "",
-      "translation": "\u6346\u7ed1",
-      "sentence": "",
+      "phonetic": "/baɪnd/",
+      "translation": "捆绑",
+      "sentence": "The Chinese would bind the feet of their women",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-vowel-bond",
       "word": "bond",
       "display": "Bond",
-      "phonetic": "",
-      "translation": "\u7c98\u8fde\uff1b\u8054\u7cfb\uff1b\u5951\u7ea6",
-      "sentence": "",
+      "phonetic": "/bɑnd/",
+      "translation": "粘连；联系；契约",
+      "sentence": "their friendship constitutes a powerful bond between them",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-vowel-bounce",
       "word": "bounce",
       "display": "Bounce",
-      "phonetic": "",
-      "translation": "\u8df3\u8dc3",
-      "sentence": "",
+      "phonetic": "/baʊns/",
+      "translation": "跳跃",
+      "sentence": "The rubber ball bounced",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-vowel-bound",
       "word": "bound",
       "display": "Bound",
-      "phonetic": "",
-      "translation": "\u8df3\u8dc3\uff1b\u9650\u5236",
-      "sentence": "",
+      "phonetic": "/baʊnd/",
+      "translation": "跳跃；限制",
+      "sentence": "what he did was beyond the bounds of acceptable behavior",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-vowel-boundary",
       "word": "boundary",
       "display": "Boundary",
-      "phonetic": "",
-      "translation": "\u5206\u754c\u7ebf\uff1b\u8fb9\u754c",
-      "sentence": "",
+      "phonetic": "/ˈbaʊndəri/",
+      "translation": "分界线；边界",
+      "sentence": "what he did was beyond the bounds of acceptable behavior",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-vowel-brand",
       "word": "brand",
       "display": "Brand",
-      "phonetic": "",
-      "translation": "\u724c\u5b50\uff1b\u6807\u8bb0\uff1b\u5546\u6807",
-      "sentence": "",
+      "phonetic": "/brænd/",
+      "translation": "牌子；标记；商标",
+      "sentence": "there's a new brand of hero in the movies now",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-vowel-bund",
       "word": "bund",
       "display": "Bund",
-      "phonetic": "",
-      "translation": "\u8054\u76df",
-      "sentence": "",
+      "phonetic": "/bənd/",
+      "translation": "联盟",
+      "sentence": "Bund is used here with the sense of \"联盟\".",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-vowel-change",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-sec",
-  "root": "sec=sequ\u8ddf\u968f",
+  "root": "sec=sequ跟随",
   "meaning": "follow",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "跟随",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-sec-second",
       "word": "second",
       "display": "Second",
-      "phonetic": "",
-      "translation": "\u7b2c\u4e8c",
-      "sentence": "",
+      "phonetic": "/ˈsɛkənd/",
+      "translation": "第二",
+      "sentence": "he came in a close second",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-sec-secondary",
       "word": "secondary",
       "display": "Secondary",
-      "phonetic": "",
-      "translation": "\u6b21\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɛkənˌdɛri/",
+      "translation": "次要的",
+      "sentence": "the stone will be hauled to a secondary crusher",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-sec-separate",
       "word": "separate",
       "display": "Separate",
-      "phonetic": "",
-      "translation": "\u5206\u79bb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɛpərˌeɪt/",
+      "translation": "分离的",
+      "sentence": "He separated the fighting children",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-sec-sequence",
       "word": "sequence",
       "display": "Sequence",
-      "phonetic": "",
-      "translation": "\u8fde\u7eed\uff1b\u5e8f\u5217",
-      "sentence": "",
+      "phonetic": "/ˈsikwəns/",
+      "translation": "连续；序列",
+      "sentence": "the sequence of names was alphabetical",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-sec-series",
       "word": "series",
       "display": "Series",
-      "phonetic": "",
-      "translation": "\u4e00\u7cfb\u5217",
-      "sentence": "",
+      "phonetic": "/ˈsɪriz/",
+      "translation": "一系列",
+      "sentence": "they were investigating a series of bank robberies",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-sec-subordinate",
       "word": "subordinate",
       "display": "Subordinate",
-      "phonetic": "",
-      "translation": "\u6b21\u8981\u7684\uff1b\u4e0b\u7ea7\u7684",
-      "sentence": "",
+      "phonetic": "/səˈbɔrdəˌneɪt/",
+      "translation": "次要的；下级的",
+      "sentence": "Art is sometimes subordinated to Science in these schools",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-sec",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

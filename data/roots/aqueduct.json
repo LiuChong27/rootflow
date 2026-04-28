@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aqueduct",
   "root": "aqueduct",
-  "meaning": "",
-  "descriptionCn": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
-  "updatedAt": "2026-04-15",
+  "meaning": "aqueduct family",
+  "descriptionCn": "沟渠；导水管",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aqueduct-aqueduct-2",
       "word": "aqueduct",
       "display": "Aqueduct",
-      "phonetic": "",
-      "translation": "\u6c9f\u6e20\uff1b\u5bfc\u6c34\u7ba1",
-      "sentence": "",
+      "phonetic": "/ˈækwəˌdəkt/",
+      "translation": "沟渠；导水管",
+      "sentence": "An aqueduct is a conduit that resembles a bridge but carries water over a valley.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>aqu>aqueduct",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

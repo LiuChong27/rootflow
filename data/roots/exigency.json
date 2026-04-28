@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "exigency",
   "root": "exigency",
-  "meaning": "",
-  "descriptionCn": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "exigency family",
+  "descriptionCn": "紧急的；迫切的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "exigency-exigency-2",
       "word": "exigency",
       "display": "Exigency",
-      "phonetic": "",
-      "translation": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɛkˈsɪʤənsi/",
+      "translation": "紧急的；迫切的",
+      "sentence": "the health-care exigency",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>act>exigency",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "actuate",
   "root": "actuate",
-  "meaning": "",
-  "descriptionCn": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
-  "updatedAt": "2026-04-15",
+  "meaning": "actuate family",
+  "descriptionCn": "开动；趋势；激发",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "actuate-actuate-2",
       "word": "actuate",
       "display": "Actuate",
-      "phonetic": "",
-      "translation": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
-      "sentence": "",
+      "phonetic": "/ˈæˌkʧuˈeɪt/",
+      "translation": "开动；趋势；激发",
+      "sentence": "actuate the circuits",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>act>actuate",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

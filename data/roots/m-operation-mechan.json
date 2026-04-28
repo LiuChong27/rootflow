@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-operation-mechan",
-  "root": "mechan\u673a\u68b0",
+  "root": "mechan机械",
   "meaning": "mechanic",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "机械",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-operation-mechan-mechanic",
       "word": "mechanic",
       "display": "Mechanic",
-      "phonetic": "",
-      "translation": "\u6280\u5de5",
-      "sentence": "",
+      "phonetic": "/mɪˈkænɪk/",
+      "translation": "技工",
+      "sentence": "from blank to blank a threadless way I pushed mechanic feet",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-operation-mechan-mechanical",
       "word": "mechanical",
       "display": "Mechanical",
-      "phonetic": "",
-      "translation": "\u673a\u68b0\u7684\uff1b\u5446\u677f\u7684",
-      "sentence": "",
+      "phonetic": "/məˈkænɪkəl/",
+      "translation": "机械的；呆板的",
+      "sentence": "a mechanical process",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-operation-mechan-mechanism",
       "word": "mechanism",
       "display": "Mechanism",
-      "phonetic": "",
-      "translation": "\u673a\u68b0\u88c5\u7f6e\uff1b\u673a\u6784\uff1b\u673a\u5236",
-      "sentence": "",
+      "phonetic": "/ˈmɛkəˌnɪzəm/",
+      "translation": "机械装置；机构；机制",
+      "sentence": "he determined unique mechanisms for the photochemical reactions",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-operation>m-operation-mechan",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

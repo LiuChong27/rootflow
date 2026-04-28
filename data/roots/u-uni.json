@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "u-uni",
   "root": "uni",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "uni",
+  "descriptionCn": "uni",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "u-uni-unify",
       "word": "unify",
       "display": "Unify",
-      "phonetic": "",
-      "translation": "\u4f7f\u8054\u5408",
-      "sentence": "",
+      "phonetic": "/ˈjunəˌfaɪ/",
+      "translation": "使联合",
+      "sentence": "Germany unified officially in 1990",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "u-uni-union",
       "word": "union",
       "display": "Union",
-      "phonetic": "",
-      "translation": "\u8054\u5408\uff1b\u56e2\u7ed3",
-      "sentence": "",
+      "phonetic": "/ˈjunjən/",
+      "translation": "联合；团结",
+      "sentence": "you have to join the union in order to get a job",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "u-uni-unique",
       "word": "unique",
       "display": "Unique",
-      "phonetic": "",
-      "translation": "\u552f\u4e00\u7684",
-      "sentence": "",
+      "phonetic": "/juˈnik/",
+      "translation": "唯一的",
+      "sentence": "Bach was unique in his handling of counterpoint",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "u-uni-unit",
       "word": "unit",
       "display": "Unit",
-      "phonetic": "",
-      "translation": "\u5355\u4f4d\uff1b\u5143\u4ef6",
-      "sentence": "",
+      "phonetic": "/ˈjunɪt/",
+      "translation": "单位；元件",
+      "sentence": "the dollar is the United States unit of currency",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "u-uni-unite",
       "word": "unite",
       "display": "Unite",
-      "phonetic": "",
-      "translation": "\u56e2\u7ed3",
-      "sentence": "",
+      "phonetic": "/ˈjuˌnaɪt/",
+      "translation": "团结",
+      "sentence": "she unites charm with a good business sense",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "u-uni-universal",
       "word": "universal",
       "display": "Universal",
-      "phonetic": "",
-      "translation": "\u666e\u904d\u7684",
-      "sentence": "",
+      "phonetic": "/ˌjunəˈvərsəl/",
+      "translation": "普遍的",
+      "sentence": "some form of religion seems to be a human universal",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "u-uni-universe",
       "word": "universe",
       "display": "Universe",
-      "phonetic": "",
-      "translation": "\u5b87\u5b99",
-      "sentence": "",
+      "phonetic": "/ˈjunəˌvərs/",
+      "translation": "宇宙",
+      "sentence": "they study the evolution of the universe",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "u-uni-university",
       "word": "university",
       "display": "University",
-      "phonetic": "",
-      "translation": "\u5927\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌjunəˈvərsəti/",
+      "translation": "大学",
+      "sentence": "An university is the body of faculty and students at a university.",
       "tags": [
         "root-family"
       ],
@@ -104,8 +104,9 @@
     }
   ],
   "parentRootId": "u",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "u>u-uni",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

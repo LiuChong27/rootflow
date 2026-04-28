@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-sp",
-  "root": "sp\u770b \u8bf4",
+  "root": "sp看 说",
   "meaning": "see, speak",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "看 说",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-sp",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-sp",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

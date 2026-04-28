@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "atmosphere",
   "root": "atmosphere",
-  "meaning": "",
-  "descriptionCn": "\u6c1b\u56f4\uff1b\u5927\u6c14\u5c42",
-  "updatedAt": "2026-04-15",
+  "meaning": "atmosphere family",
+  "descriptionCn": "氛围；大气层",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "atmosphere",
       "word": "atmosphere",
       "display": "Atmosphere",
-      "phonetic": "",
-      "translation": "\u6c1b\u56f4\uff1b\u5927\u6c14\u5c42",
-      "sentence": "",
+      "phonetic": "/ˈætməsˌfɪr/",
+      "translation": "氛围；大气层",
+      "sentence": "there was an atmosphere of excitement",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 7,
   "rootPath": "a>a-prefix>amphi-ambi>ambit>ambient>ambiance-ambience>atmosphere",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

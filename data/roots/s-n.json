@@ -3,12 +3,13 @@
   "rootId": "s-n",
   "root": "n",
   "meaning": "noun",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "noun",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-n",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-n",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

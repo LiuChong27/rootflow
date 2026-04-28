@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-flect-flex",
-  "root": "flect=flex=bend\u5f2f\u66f2",
+  "root": "flect=flex=bend弯曲",
   "meaning": "flect=flex",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "弯曲",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-flect-flex-genuflect",
       "word": "genuflect",
       "display": "Genuflect",
-      "phonetic": "",
-      "translation": "\u5c48\u819d\uff1b\u8dea\u62dc",
-      "sentence": "",
+      "phonetic": "/dʒˈɛnʌflˌɛkt/",
+      "translation": "屈膝；跪拜",
+      "sentence": "To genuflect is to bend the knees and bow in church or before a religious superior or image.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-flect-flex-inflect",
       "word": "inflect",
       "display": "Inflect",
-      "phonetic": "",
-      "translation": "\u5f2f\u66f2",
-      "sentence": "",
+      "phonetic": "/ɪnflˈɛkt/",
+      "translation": "弯曲",
+      "sentence": "To inflect is to change the form of a word in accordance as required by the grammatical rules of the language.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-flect-flex-inflexible",
       "word": "inflexible",
       "display": "Inflexible",
-      "phonetic": "",
-      "translation": "\u4e0d\u6613\u5f2f\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈflɛksəbəl/",
+      "translation": "不易弯的",
+      "sentence": "a man of inflexible purpose",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-flect-flex-inflexion",
       "word": "inflexion",
       "display": "Inflexion",
-      "phonetic": "",
-      "translation": "\u5f2f\u66f2",
-      "sentence": "",
+      "phonetic": "/ɪnflˈɛʃʌn/",
+      "translation": "弯曲",
+      "sentence": "An inflexion is a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-flect-flex-reflect",
       "word": "reflect",
       "display": "Reflect",
-      "phonetic": "",
-      "translation": "\u53cd\u5c04\uff1b\u53cd\u7701",
-      "sentence": "",
+      "phonetic": "/rɪˈflɛkt/",
+      "translation": "反射；反省",
+      "sentence": "This action reflects his true beliefs",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-flect-flex-reflex",
       "word": "reflex",
       "display": "Reflex",
-      "phonetic": "",
-      "translation": "\u53cd\u5c04\u7684",
-      "sentence": "",
+      "phonetic": "/ˈriflɛks/",
+      "translation": "反射的",
+      "sentence": "a reflex knee jerk",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-flect-flex-reflexible",
       "word": "reflexible",
       "display": "Reflexible",
-      "phonetic": "",
-      "translation": "\u53ef\u53cd\u5c04\u7684",
-      "sentence": "",
+      "phonetic": "/rifklˈɛgzʌb/",
+      "translation": "可反射的",
+      "sentence": "Reflexible is used here with the sense of \"可反射的\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-flect-flex-reflexive",
       "word": "reflexive",
       "display": "Reflexive",
-      "phonetic": "",
-      "translation": "\u53cd\u8eab\u52a8\u8bcd/\u4ee3\u8bcd",
-      "sentence": "",
+      "phonetic": "/rəˈflɛksɪv/",
+      "translation": "反身动词/代词",
+      "sentence": "sneezing is reflexive",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "f>f-flect-flex",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

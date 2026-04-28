@@ -3,16 +3,16 @@
   "rootId": "ac",
   "root": "ac",
   "meaning": "sharp/sour",
-  "descriptionCn": "\u5c16\u9510\u7684\uff1b\u950b\u5229\uff1b\u9178\u7684",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "尖锐的；锋利；酸的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acet",
       "word": "acet",
       "display": "Acet",
-      "phonetic": "",
-      "translation": "\u53d8\u9178",
-      "sentence": "",
+      "phonetic": "/ˈeɪsɪt/",
+      "translation": "变酸",
+      "sentence": "Acet is used here with the sense of \"变酸\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "acid",
       "word": "acid",
       "display": "Acid",
-      "phonetic": "",
-      "translation": "\u9178\u3001\u5c16\u9178",
-      "sentence": "",
+      "phonetic": "/ˈæsəd/",
+      "translation": "酸、尖酸",
+      "sentence": "a barrage of acid comments",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "acrobatics",
       "word": "acrobatics",
       "display": "Acrobatics",
-      "phonetic": "",
-      "translation": "\u6742\u6280",
-      "sentence": "",
+      "phonetic": "/ˌækrəˈbætɪks/",
+      "translation": "杂技",
+      "sentence": "Acrobatics refers to the gymnastic moves of an acrobat.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "acute",
       "word": "acute",
       "display": "Acute",
-      "phonetic": "",
-      "translation": "\u4e25\u91cd\u7684",
-      "sentence": "",
+      "phonetic": "/əˈkjut/",
+      "translation": "严重的",
+      "sentence": "acute appendicitis",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 3,
   "rootPath": "a>a-other>ac",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

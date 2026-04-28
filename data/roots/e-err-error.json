@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-err-error",
-  "root": "error\u9519\u8bef",
+  "root": "error错误",
   "meaning": "error",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "错误",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-err-error-err",
       "word": "err",
       "display": "Err",
-      "phonetic": "",
-      "translation": "\u72af\u9519\uff1b\u72af\u7f6a",
-      "sentence": "",
+      "phonetic": "/ɛr/",
+      "translation": "犯错；犯罪",
+      "sentence": "The child strayed from the path and her parents lost sight of her",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-err-error-errant",
       "word": "errant",
       "display": "Errant",
-      "phonetic": "",
-      "translation": "\u79bb\u6e38\u7684\uff1b\u9519\u8bef\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛrənt/",
+      "translation": "离游的；错误的",
+      "sentence": "errant youngsters",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-err-error-errantry",
       "word": "errantry",
       "display": "Errantry",
-      "phonetic": "",
-      "translation": "\u9a91\u58eb\u7cbe\u795e",
-      "sentence": "",
+      "phonetic": "/ˈɛrʌntri/",
+      "translation": "骑士精神",
+      "sentence": "Errantry is used here with the sense of \"骑士精神\".",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-err-error-erroneous",
       "word": "erroneous",
       "display": "Erroneous",
-      "phonetic": "",
-      "translation": "\u9519\u8bef\u7684",
-      "sentence": "",
+      "phonetic": "/ɛˈroʊniəs/",
+      "translation": "错误的",
+      "sentence": "erroneous conclusions",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-err-error-error",
       "word": "error",
       "display": "Error",
-      "phonetic": "",
-      "translation": "\u9519\u8bef",
-      "sentence": "",
+      "phonetic": "/ˈɛrər/",
+      "translation": "错误",
+      "sentence": "she was quick to point out my errors",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "e-err-error-inerrancy",
       "word": "inerrancy",
       "display": "Inerrancy",
-      "phonetic": "",
-      "translation": "\u7edd\u5bf9\u6b63\u786e",
-      "sentence": "",
+      "phonetic": "/ɪnˈɚʌnsi/",
+      "translation": "绝对正确",
+      "sentence": "biblical inerrancy",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-err>e-err-error",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

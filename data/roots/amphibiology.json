@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "amphibiology",
   "root": "amphibiology",
-  "meaning": "",
-  "descriptionCn": "\u4e24\u6816\u52a8\u7269\u5b66",
-  "updatedAt": "2026-04-15",
+  "meaning": "amphibiology family",
+  "descriptionCn": "两栖动物学",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "amphibiology",
       "word": "amphibiology",
       "display": "Amphibiology",
-      "phonetic": "",
-      "translation": "\u4e24\u6816\u52a8\u7269\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌæmfʌbʌjˈɑli/",
+      "translation": "两栖动物学",
+      "sentence": "The amphibiology quickly became part of the discussion.",
       "tags": [
         "root-family",
         "biology"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>amphi-ambi>amphi-language-biology>amphibian>amphibiology",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

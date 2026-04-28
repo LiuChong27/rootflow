@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aerial",
   "root": "aerial",
-  "meaning": "",
-  "descriptionCn": "\u822a\u7a7a\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "aerial family",
+  "descriptionCn": "航空的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aerial-aerial-2",
       "word": "aerial",
       "display": "Aerial",
-      "phonetic": "",
-      "translation": "\u822a\u7a7a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛriəl/",
+      "translation": "航空的",
+      "sentence": "aerial roots of a philodendron",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>aer>aerial",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

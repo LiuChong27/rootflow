@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-nav",
-  "root": "nav=ship\u8239",
+  "root": "nav=ship船",
   "meaning": "ship",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "船",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-nav-naval",
       "word": "naval",
       "display": "Naval",
-      "phonetic": "",
-      "translation": "\u6d77\u519b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈneɪvəl/",
+      "translation": "海军的",
+      "sentence": "naval history",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-nav-navigation",
       "word": "navigation",
       "display": "Navigation",
-      "phonetic": "",
-      "translation": "\u822a\u6d77\uff1b\u5bfc\u822a",
-      "sentence": "",
+      "phonetic": "/ˌnævəˈgeɪʃən/",
+      "translation": "航海；导航",
+      "sentence": "the channel will be open to navigation as soon as the ice melts",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-nav-navy",
       "word": "navy",
       "display": "Navy",
-      "phonetic": "",
-      "translation": "\u6d77\u519b",
-      "sentence": "",
+      "phonetic": "/ˈneɪvi/",
+      "translation": "海军",
+      "sentence": "A navy is an organization of military vessels belonging to a country and available for sea warfare.",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-nav",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

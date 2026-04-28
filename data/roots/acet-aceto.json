@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "acet-aceto",
   "root": "acet=aceto",
-  "meaning": "",
-  "descriptionCn": "\u53d8\u9178",
-  "updatedAt": "2026-04-15",
+  "meaning": "acet=aceto",
+  "descriptionCn": "变酸",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "acet-acet-aceto-2",
       "word": "acet",
       "display": "Acet",
-      "phonetic": "",
-      "translation": "\u53d8\u9178",
-      "sentence": "",
+      "phonetic": "/ˈeɪsɪt/",
+      "translation": "变酸",
+      "sentence": "Acet is used here with the sense of \"变酸\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "aceto",
       "word": "aceto",
       "display": "Aceto",
-      "phonetic": "",
-      "translation": "\u53d8\u9178",
-      "sentence": "",
+      "phonetic": "/ɑˈsɛtoʊ/",
+      "translation": "变酸",
+      "sentence": "Aceto is used here with the sense of \"变酸\".",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 4,
   "rootPath": "a>a-other>ac>acet-aceto",
   "type": "branch",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-crit",
-  "root": "c-other-crit",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "crit",
+  "meaning": "crit family",
+  "descriptionCn": "crit 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-crit-criteria",
       "word": "criteria",
       "display": "Criteria",
-      "phonetic": "",
-      "translation": "\u6807\u51c6",
-      "sentence": "",
+      "phonetic": "/kraɪˈtɪriə/",
+      "translation": "标准",
+      "sentence": "the schools comply with federal standards",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-other-crit-criterion",
       "word": "criterion",
       "display": "Criterion",
-      "phonetic": "",
-      "translation": "\u6807\u51c6",
-      "sentence": "",
+      "phonetic": "/kraɪˈtɪriən/",
+      "translation": "标准",
+      "sentence": "the schools comply with federal standards",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-other-crit-critic",
       "word": "critic",
       "display": "Critic",
-      "phonetic": "",
-      "translation": "\u6279\u8bc4\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˈkrɪtɪk/",
+      "translation": "批评家",
+      "sentence": "A critic is a person who is professionally engaged in the analysis and interpretation of works of art.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-other-crit-critical",
       "word": "critical",
       "display": "Critical",
-      "phonetic": "",
-      "translation": "\u6279\u8bc4\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkrɪtɪkəl/",
+      "translation": "批评的",
+      "sentence": "a critical attitude",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-other-crit-criticism",
       "word": "criticism",
       "display": "Criticism",
-      "phonetic": "",
-      "translation": "\u6279\u8bc4",
-      "sentence": "",
+      "phonetic": "/ˈkrɪtɪˌsɪzəm/",
+      "translation": "批评",
+      "sentence": "the senator received severe criticism from his opponent",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-other-crit-criticize",
       "word": "criticize",
       "display": "Criticize",
-      "phonetic": "",
-      "translation": "\u6279\u8bc4",
-      "sentence": "",
+      "phonetic": "/ˈkrɪtɪˌsaɪz/",
+      "translation": "批评",
+      "sentence": "The paper criticized the new movie",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-other-crit-critique",
       "word": "critique",
       "display": "Critique",
-      "phonetic": "",
-      "translation": "\u6279\u8bc4",
-      "sentence": "",
+      "phonetic": "/krɪˈtik/",
+      "translation": "批评",
+      "sentence": "Please critique this performance",
       "tags": [
         "root-family"
       ],
@@ -94,13 +94,18 @@
       "id": "c-other-crit-hypercritical",
       "word": "hypercritical",
       "display": "Hypercritical",
-      "phonetic": "",
-      "translation": "\u5439\u6bdb\u6c42\u75b5\u7684\uff1b\u82db\u6c42\u7684",
-      "sentence": "",
+      "phonetic": "/ˌhaɪpərˈkrɪtɪkəl/",
+      "translation": "吹毛求疵的；苛求的",
+      "sentence": "hypercritical of colloquial speech",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-crit",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

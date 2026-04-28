@@ -1,11 +1,18 @@
-import rootsHierarchyRaw from '../data/raw/roots-hierarchy-fixed.json';
-import wordsFlatRaw from '../data/raw/words-flat-fixed.json';
+import categoriesRaw from '../data/index/categories.json';
+import rootMetaRaw from '../data/index/root-meta.json';
+import { ROOT_SHARD_LOADERS, ROOT_TO_SHARD } from '../data/index/root-shards';
+import wordToRootRaw from '../data/index/word-to-root.json';
 
 const WORD_PROGRESS_STORAGE_KEY = 'rf_word_progress_v1';
 const LEARNING_ACTIVITY_STORAGE_KEY = 'rf_learning_activity_v1';
+const LAST_LEARNING_ROOT_STORAGE_KEY = 'rf_last_learning_root_v1';
+const PENDING_ROOT_FOCUS_STORAGE_KEY = 'rf_pending_root_focus_v1';
 const STATUS_NEW = 'new';
+const STATUS_LEARNING = 'learning';
+const STATUS_REVIEW = 'review';
 const STATUS_MASTERED = 'mastered';
 const RAW_DATA_ERROR_CODE = 'RAW_DATA_UNAVAILABLE';
+const REVIEW_INTERVAL_DAYS = [1, 3, 7, 14, 30];
 
 const ROOT_TYPE_PRIORITY = {
   section: 0,
@@ -16,7 +23,13 @@ const ROOT_TYPE_PRIORITY = {
 };
 
 let memoryProgressFallback = {};
-let rawDataCache = null;
+let memoryLastLearningRootFallback = '';
+let memoryPendingRootFocusFallback = '';
+let indexCache = null;
+let loadedRootCache = Object.create(null);
+let loadedWordCache = Object.create(null);
+let shardLoadPromises = Object.create(null);
+let rootLoadPromises = Object.create(null);
 
 function canUseUniStorage() {
   return (
@@ -33,27 +46,231 @@ function normalizeWordId(input) {
 }
 
 function normalizeStatus(status) {
-  return status === STATUS_MASTERED ? STATUS_MASTERED : STATUS_NEW;
+  if (
+    status === STATUS_NEW ||
+    status === STATUS_LEARNING ||
+    status === STATUS_REVIEW ||
+    status === STATUS_MASTERED
+  ) {
+    return status;
+  }
+  return STATUS_NEW;
+}
+
+function normalizeStage(stage) {
+  const parsed = Number(stage);
+  if (Number.isNaN(parsed)) return 0;
+  return Math.max(0, Math.min(4, Math.round(parsed)));
+}
+
+function normalizeTimestamp(value, fallback = 0) {
+  const parsed = Number(value);
+  if (!Number.isFinite(parsed) || parsed < 0) return Number(fallback || 0);
+  return parsed;
+}
+
+function addDays(timestamp, days) {
+  return normalizeTimestamp(timestamp, Date.now()) + Number(days || 0) * 24 * 60 * 60 * 1000;
+}
+
+function getStartOfTodayTimestamp(now = Date.now()) {
+  const date = new Date(now);
+  date.setHours(0, 0, 0, 0);
+  return date.getTime();
+}
+
+function isSameDay(left, right = Date.now()) {
+  if (!left) return false;
+  return getStartOfTodayTimestamp(left) === getStartOfTodayTimestamp(right);
+}
+
+function isScheduledProgress(progress) {
+  if (!progress) return false;
+  const status = normalizeStatus(progress.status);
+  return status !== STATUS_NEW && normalizeTimestamp(progress.nextReviewAt) > 0;
+}
+
+function getProgressStatusFromStage(stage) {
+  if (stage >= 4) return STATUS_MASTERED;
+  if (stage >= 1) return STATUS_REVIEW;
+  return STATUS_LEARNING;
+}
+
+function createEmptyProgressEntry(now = Date.now()) {
+  return {
+    status: STATUS_NEW,
+    stage: 0,
+    introducedAt: normalizeTimestamp(now, Date.now()),
+    lastReviewedAt: 0,
+    nextReviewAt: 0,
+    updatedAt: normalizeTimestamp(now, Date.now()),
+    lapseCount: 0,
+    correctCount: 0,
+  };
+}
+
+function normalizeProgressEntry(entryInput, options = {}) {
+  const { fallbackNow = Date.now() } = options;
+  const entry = entryInput && typeof entryInput === 'object' ? entryInput : {};
+  const legacyUpdatedAt = normalizeTimestamp(entry.updatedAt, fallbackNow);
+  const hasModernFields =
+    Object.prototype.hasOwnProperty.call(entry, 'stage') ||
+    Object.prototype.hasOwnProperty.call(entry, 'nextReviewAt') ||
+    Object.prototype.hasOwnProperty.call(entry, 'lastReviewedAt') ||
+    Object.prototype.hasOwnProperty.call(entry, 'introducedAt');
+
+  if (!hasModernFields) {
+    const legacyStatus = normalizeStatus(entry.status);
+    if (legacyStatus === STATUS_MASTERED) {
+      return {
+        status: STATUS_MASTERED,
+        stage: 4,
+        introducedAt: legacyUpdatedAt,
+        lastReviewedAt: legacyUpdatedAt,
+        nextReviewAt: legacyUpdatedAt,
+        updatedAt: legacyUpdatedAt,
+        lapseCount: 0,
+        correctCount: 0,
+      };
+    }
+    return {
+      status: STATUS_NEW,
+      stage: 0,
+      introducedAt: legacyUpdatedAt || fallbackNow,
+      lastReviewedAt: 0,
+      nextReviewAt: 0,
+      updatedAt: legacyUpdatedAt,
+      lapseCount: 0,
+      correctCount: 0,
+    };
+  }
+
+  const stage = normalizeStage(entry.stage);
+  const introducedAt = normalizeTimestamp(entry.introducedAt, legacyUpdatedAt || fallbackNow);
+  const lastReviewedAt = normalizeTimestamp(entry.lastReviewedAt);
+  const nextReviewAt = normalizeTimestamp(entry.nextReviewAt);
+  const updatedAt = normalizeTimestamp(entry.updatedAt, legacyUpdatedAt || fallbackNow);
+  const lapseCount = Math.max(0, Math.round(normalizeTimestamp(entry.lapseCount)));
+  const correctCount = Math.max(0, Math.round(normalizeTimestamp(entry.correctCount)));
+  const normalizedStatus = normalizeStatus(entry.status);
+
+  let status = normalizedStatus;
+  if (status === STATUS_NEW && isScheduledProgress({ status, nextReviewAt })) {
+    status = getProgressStatusFromStage(stage);
+  }
+  if (status !== STATUS_NEW && !nextReviewAt) {
+    status = stage >= 4 ? STATUS_MASTERED : stage > 0 ? STATUS_REVIEW : STATUS_LEARNING;
+  }
+  if (status === STATUS_NEW && stage > 0) {
+    status = getProgressStatusFromStage(stage);
+  }
+  if (status === STATUS_MASTERED && stage < 4) {
+    status = getProgressStatusFromStage(stage);
+  }
+
+  return {
+    status,
+    stage,
+    introducedAt,
+    lastReviewedAt,
+    nextReviewAt,
+    updatedAt,
+    lapseCount,
+    correctCount,
+  };
+}
+
+function mergeProgressIntoWord(word, progressInput) {
+  const progress = progressInput ? normalizeProgressEntry(progressInput) : null;
+  if (!progress) {
+    return {
+      ...word,
+      status: STATUS_NEW,
+      stage: 0,
+      introducedAt: 0,
+      lastReviewedAt: 0,
+      nextReviewAt: 0,
+      updatedAt: 0,
+      lapseCount: 0,
+      correctCount: 0,
+      isInReview: false,
+      progress: null,
+    };
+  }
+
+  return {
+    ...word,
+    status: progress.status,
+    stage: progress.stage,
+    introducedAt: progress.introducedAt,
+    lastReviewedAt: progress.lastReviewedAt,
+    nextReviewAt: progress.nextReviewAt,
+    updatedAt: progress.updatedAt,
+    lapseCount: progress.lapseCount,
+    correctCount: progress.correctCount,
+    isInReview: isScheduledProgress(progress),
+    progress: { ...progress },
+  };
+}
+
+function getScheduledReviewState(progressInput, now = Date.now()) {
+  const progress = normalizeProgressEntry(progressInput);
+  if (!isScheduledProgress(progress)) return STATUS_NEW;
+  if (progress.nextReviewAt <= now) {
+    return progress.nextReviewAt < getStartOfTodayTimestamp(now) ? 'overdue' : 'due';
+  }
+  if (progress.status === STATUS_MASTERED || progress.stage >= 4) return STATUS_MASTERED;
+  return STATUS_REVIEW;
+}
+
+function canStoreRawValue() {
+  return (
+    typeof uni !== 'undefined' &&
+    typeof uni.getStorageSync === 'function' &&
+    typeof uni.setStorageSync === 'function' &&
+    typeof uni.removeStorageSync === 'function'
+  );
 }
 
 function getProgressMap() {
   if (!canUseUniStorage()) {
-    return { ...memoryProgressFallback };
+    return Object.keys(memoryProgressFallback).reduce((acc, wordId) => {
+      acc[wordId] = normalizeProgressEntry(memoryProgressFallback[wordId]);
+      return acc;
+    }, {});
   }
 
   const cached = uni.getStorageSync(WORD_PROGRESS_STORAGE_KEY);
   if (!cached || typeof cached !== 'object') {
     return {};
   }
-  return { ...cached };
+  return Object.keys(cached).reduce((acc, rawWordId) => {
+    const wordId = normalizeWordId(rawWordId);
+    if (!wordId) return acc;
+    acc[wordId] = normalizeProgressEntry(cached[rawWordId]);
+    return acc;
+  }, {});
 }
 
 function saveProgressMap(map) {
   if (!canUseUniStorage()) {
-    memoryProgressFallback = { ...map };
+    memoryProgressFallback = Object.keys(map || {}).reduce((acc, wordId) => {
+      const normalizedWordId = normalizeWordId(wordId);
+      if (!normalizedWordId) return acc;
+      acc[normalizedWordId] = normalizeProgressEntry(map[wordId]);
+      return acc;
+    }, {});
     return;
   }
-  uni.setStorageSync(WORD_PROGRESS_STORAGE_KEY, map);
+  uni.setStorageSync(
+    WORD_PROGRESS_STORAGE_KEY,
+    Object.keys(map || {}).reduce((acc, wordId) => {
+      const normalizedWordId = normalizeWordId(wordId);
+      if (!normalizedWordId) return acc;
+      acc[normalizedWordId] = normalizeProgressEntry(map[wordId]);
+      return acc;
+    }, {}),
+  );
 }
 
 function getLearningActivityMap() {
@@ -124,6 +341,65 @@ function getProgressMapSnapshot() {
   return getProgressMap();
 }
 
+function readSimpleStorageValue(storageKey, fallbackValue = '') {
+  if (!canStoreRawValue()) {
+    return fallbackValue;
+  }
+  const value = uni.getStorageSync(storageKey);
+  return typeof value === 'undefined' ? fallbackValue : value;
+}
+
+function writeSimpleStorageValue(storageKey, value) {
+  if (!canStoreRawValue()) return value;
+  uni.setStorageSync(storageKey, value);
+  return value;
+}
+
+function removeSimpleStorageValue(storageKey) {
+  if (!canStoreRawValue()) return;
+  uni.removeStorageSync(storageKey);
+}
+
+function setLastLearningRoot(rootId) {
+  const normalizedRootId = normalizeWordId(rootId);
+  memoryLastLearningRootFallback = normalizedRootId;
+  if (!normalizedRootId) {
+    removeSimpleStorageValue(LAST_LEARNING_ROOT_STORAGE_KEY);
+    return '';
+  }
+  writeSimpleStorageValue(LAST_LEARNING_ROOT_STORAGE_KEY, normalizedRootId);
+  return normalizedRootId;
+}
+
+function getLastLearningRoot() {
+  const rawValue = canStoreRawValue()
+    ? readSimpleStorageValue(LAST_LEARNING_ROOT_STORAGE_KEY, '')
+    : memoryLastLearningRootFallback;
+  return normalizeWordId(rawValue);
+}
+
+function setPendingRootFocus(rootId) {
+  const normalizedRootId = normalizeWordId(rootId);
+  memoryPendingRootFocusFallback = normalizedRootId;
+  if (!normalizedRootId) {
+    removeSimpleStorageValue(PENDING_ROOT_FOCUS_STORAGE_KEY);
+    return '';
+  }
+  writeSimpleStorageValue(PENDING_ROOT_FOCUS_STORAGE_KEY, normalizedRootId);
+  return normalizedRootId;
+}
+
+function consumePendingRootFocus() {
+  const pending = normalizeWordId(
+    canStoreRawValue()
+      ? readSimpleStorageValue(PENDING_ROOT_FOCUS_STORAGE_KEY, '')
+      : memoryPendingRootFocusFallback,
+  );
+  memoryPendingRootFocusFallback = '';
+  removeSimpleStorageValue(PENDING_ROOT_FOCUS_STORAGE_KEY);
+  return pending;
+}
+
 function replaceProgressMap(nextMapInput, options = {}) {
   const { mergeByUpdatedAt = true } = options;
   const currentMap = getProgressMap();
@@ -133,116 +409,31 @@ function replaceProgressMap(nextMapInput, options = {}) {
   Object.keys(sourceMap).forEach((rawWordId) => {
     const wordId = normalizeWordId(rawWordId);
     if (!wordId) return;
-    const currentEntry = currentMap[wordId];
+    const currentEntry = currentMap[wordId] ? normalizeProgressEntry(currentMap[wordId]) : null;
     const incomingEntry = sourceMap[rawWordId] || {};
-    const normalizedIncoming = {
-      status: normalizeStatus(incomingEntry.status),
-      updatedAt: Number(incomingEntry.updatedAt || 0),
-    };
+    const normalizedIncoming = normalizeProgressEntry(incomingEntry);
 
     if (!mergeByUpdatedAt || !currentEntry) {
       nextMap[wordId] = normalizedIncoming;
       return;
     }
 
-    const currentUpdatedAt = Number(currentEntry.updatedAt || 0);
+    const currentUpdatedAt = normalizeTimestamp(currentEntry.updatedAt);
     nextMap[wordId] =
       normalizedIncoming.updatedAt >= currentUpdatedAt
         ? normalizedIncoming
-        : {
-            status: normalizeStatus(currentEntry.status),
-            updatedAt: currentUpdatedAt,
-          };
+        : normalizeProgressEntry(currentEntry);
   });
 
   if (mergeByUpdatedAt) {
     Object.keys(currentMap).forEach((wordId) => {
       if (nextMap[wordId]) return;
-      nextMap[wordId] = {
-        status: normalizeStatus(currentMap[wordId].status),
-        updatedAt: Number(currentMap[wordId].updatedAt || 0),
-      };
+      nextMap[wordId] = normalizeProgressEntry(currentMap[wordId]);
     });
   }
 
   saveProgressMap(nextMap);
   return { ...nextMap };
-}
-
-function getProgressEntriesForSync() {
-  const progressMap = getProgressMap();
-  const wordToRootMap = ensureRawDataCache().wordToRootIndex.map || {};
-  const entries = Object.keys(progressMap)
-    .map((wordId) => ({
-      wordId,
-      status: normalizeStatus(progressMap[wordId].status),
-      updatedAt: Number(progressMap[wordId].updatedAt || 0),
-      rootId: normalizeWordId(wordToRootMap[wordId] || ''),
-    }))
-    .filter((item) => item.wordId);
-
-  return {
-    entries,
-    activityDates: getLearningActivityDates(),
-  };
-}
-
-function getProgressStats() {
-  const progressMap = getProgressMap();
-  const wordToRootMap = ensureRawDataCache().wordToRootIndex.map || {};
-  const masteredWordIds = Object.keys(progressMap).filter(
-    (wordId) => normalizeStatus(progressMap[wordId].status) === STATUS_MASTERED,
-  );
-  const masteredRootIds = new Set(
-    masteredWordIds.map((wordId) => normalizeWordId(wordToRootMap[wordId])).filter(Boolean),
-  );
-  const activityDates = getLearningActivityDates();
-  const today = new Date();
-  let streakDays = 0;
-  const activitySet = new Set(activityDates);
-  for (let cursor = new Date(today); ; cursor.setDate(cursor.getDate() - 1)) {
-    const dayKey = toDayKey(cursor);
-    if (!activitySet.has(dayKey)) break;
-    streakDays += 1;
-  }
-
-  return {
-    masteredWords: masteredWordIds.length,
-    masteredRoots: masteredRootIds.size,
-    activityDays: activityDates.length,
-    streakDays,
-    lastActivityDate: activityDates.length ? activityDates[activityDates.length - 1] : '',
-  };
-}
-
-function normalizeWord(rawWord) {
-  const id = normalizeWordId(rawWord.id || rawWord.wordId || rawWord.word);
-  return {
-    id,
-    word: rawWord.display || rawWord.word || id,
-    canonical: rawWord.word || id,
-    phonetic: rawWord.phonetic || '',
-    translation: rawWord.translation || '',
-    sentence: rawWord.sentence || rawWord.example || '',
-    tags: Array.isArray(rawWord.tags) ? rawWord.tags : [],
-    sourceLabel: rawWord.sourceLabel || '',
-    rootId: normalizeWordId(rawWord.rootId || ''),
-    rootPath: rawWord.rootPath || '',
-    level: typeof rawWord.level === 'number' ? rawWord.level : 1,
-    sourceIndex:
-      typeof rawWord.sourceIndex === 'number' ? rawWord.sourceIndex : Number.MAX_SAFE_INTEGER,
-    status: STATUS_NEW,
-  };
-}
-
-function getPathSegments(rootPath, fallbackRootId = '') {
-  const segments = String(rootPath || '')
-    .split('>')
-    .map((segment) => normalizeWordId(segment))
-    .filter(Boolean);
-  if (segments.length) return segments;
-  const fallback = normalizeWordId(fallbackRootId);
-  return fallback ? [fallback] : [];
 }
 
 function getRootTypePriority(type) {
@@ -273,61 +464,35 @@ function compareGraphRoots(a, b) {
   const levelDiff = Number(a?.rootLevel || 1) - Number(b?.rootLevel || 1);
   if (levelDiff !== 0) return levelDiff;
 
+  const sourceDiff =
+    Number(a?.sourceIndex || Number.MAX_SAFE_INTEGER) -
+    Number(b?.sourceIndex || Number.MAX_SAFE_INTEGER);
+  if (sourceDiff !== 0) return sourceDiff;
+
   return normalizeWordId(a?.rootId).localeCompare(normalizeWordId(b?.rootId));
 }
 
-function normalizeRootMetaRecord(rootData) {
-  const words = Array.isArray(rootData.words) ? rootData.words : [];
+function normalizeRootMetaRecord(rootData, sourceIndex = Number.MAX_SAFE_INTEGER) {
   return {
-    rootId: rootData.rootId,
-    root: rootData.root || rootData.rootId,
+    rootId: normalizeWordId(rootData.rootId || rootData.file || rootData.root),
+    root: rootData.root || rootData.rootId || '',
     meaning: rootData.meaning || '',
     descriptionCn: rootData.descriptionCn || '',
-    parentRootId: rootData.parentRootId || '',
+    parentRootId: normalizeWordId(rootData.parentRootId || ''),
     rootLevel: typeof rootData.rootLevel === 'number' ? rootData.rootLevel : 1,
-    rootPath: rootData.rootPath || rootData.rootId,
+    rootPath: rootData.rootPath || normalizeWordId(rootData.rootId || rootData.file || ''),
     type: rootData.type || 'root',
     notes: rootData.notes || '',
     sourceLabel: rootData.sourceLabel || '',
     tags: Array.isArray(rootData.tags) ? rootData.tags : [],
-    sourceIndex:
-      typeof rootData.sourceIndex === 'number' ? rootData.sourceIndex : Number.MAX_SAFE_INTEGER,
+    sourceIndex,
     sideHint: rootData.sideHint || getRootSideHint(rootData.type),
-    wordCount: words.length,
+    wordCount: Math.max(0, Number(rootData.wordCount || 0)),
     childCount: 0,
-    descendantWordCount: words.length,
+    descendantWordCount: Math.max(0, Number(rootData.wordCount || 0)),
     hasChildren: false,
-    sampleWords: words
-      .slice(0, 3)
-      .map((word) => word.word || word.display || word.id)
-      .filter(Boolean),
-    file: rootData.rootId,
-  };
-}
-
-function createRawDataUnavailableError(reason) {
-  const error = new Error(`Raw data unavailable: ${reason}`);
-  error.code = RAW_DATA_ERROR_CODE;
-  return error;
-}
-
-function assertRawDataHealth(cache) {
-  const rootCount = Object.keys(cache.rootMap || {}).length;
-  const wordCount = Object.values(cache.rootMap || {}).reduce((sum, root) => {
-    const words = Array.isArray(root.words) ? root.words.length : 0;
-    return sum + words;
-  }, 0);
-
-  if (rootCount === 0) {
-    throw createRawDataUnavailableError('rootMap is empty');
-  }
-  if (wordCount === 0) {
-    throw createRawDataUnavailableError('word entries are empty');
-  }
-
-  return {
-    rootCount,
-    wordCount,
+    sampleWords: Array.isArray(rootData.sampleWords) ? [...rootData.sampleWords] : [],
+    file: rootData.file || normalizeWordId(rootData.rootId || rootData.file || ''),
   };
 }
 
@@ -356,114 +521,62 @@ function cloneRootSummary(meta) {
   };
 }
 
-function ensureRawDataCache() {
-  if (rawDataCache) return rawDataCache;
+function getPathSegments(rootPath, fallbackRootId = '') {
+  const segments = String(rootPath || '')
+    .split('>')
+    .map((segment) => normalizeWordId(segment))
+    .filter(Boolean);
+  if (segments.length) return segments;
+  const fallback = normalizeWordId(fallbackRootId);
+  return fallback ? [fallback] : [];
+}
 
-  const hierarchyList = Array.isArray(rootsHierarchyRaw?.roots) ? rootsHierarchyRaw.roots : [];
-  const wordsList = Array.isArray(wordsFlatRaw) ? wordsFlatRaw : [];
+function createRawDataUnavailableError(reason) {
+  const error = new Error(`Raw data unavailable: ${reason}`);
+  error.code = RAW_DATA_ERROR_CODE;
+  return error;
+}
 
-  const rootMap = {};
-  hierarchyList.forEach((rawRoot, sourceIndex) => {
-    const rootId = normalizeWordId(rawRoot.rootId || rawRoot.rootText || rawRoot.root);
-    if (!rootId) return;
-    rootMap[rootId] = {
-      version: 1,
-      rootId,
-      root: rawRoot.rootText || rawRoot.root || rawRoot.rootId || rootId,
-      meaning: rawRoot.meaningEn || rawRoot.meaning || '',
-      descriptionCn: rawRoot.meaningCn || rawRoot.descriptionCn || '',
-      updatedAt: '',
-      words: [],
-      parentRootId: normalizeWordId(rawRoot.parentRootId || ''),
-      rootLevel: typeof rawRoot.rootLevel === 'number' ? rawRoot.rootLevel : 1,
-      rootPath: rawRoot.rootPath || rootId,
-      type: rawRoot.type || 'root',
-      notes: rawRoot.notes || '',
-      sourceLabel: rawRoot.sourceLabel || '',
-      tags: Array.isArray(rawRoot.tags) ? rawRoot.tags : [],
-      sourceIndex,
-      sideHint: getRootSideHint(rawRoot.type),
-    };
+function ensureIndexCache() {
+  if (indexCache) return indexCache;
+
+  const sourceRoots = Array.isArray(rootMetaRaw?.roots) ? rootMetaRaw.roots : [];
+  const sourceOrderedRoots = sourceRoots
+    .map((item, sourceIndex) => normalizeRootMetaRecord(item, sourceIndex))
+    .filter((item) => item.rootId);
+
+  const childRootIdsByParent = Object.create(null);
+  const sourceOrderedChildRootIdsByParent = Object.create(null);
+  const draftMetaMap = Object.create(null);
+
+  sourceOrderedRoots.forEach((root) => {
+    draftMetaMap[root.rootId] = root;
+    childRootIdsByParent[root.rootId] = [];
+    sourceOrderedChildRootIdsByParent[root.rootId] = [];
   });
 
-  wordsList.forEach((rawWord, sourceIndex) => {
-    const rootId = normalizeWordId(rawWord.rootId);
-    if (!rootId) return;
-
-    if (!rootMap[rootId]) {
-      rootMap[rootId] = {
-        version: 1,
-        rootId,
-        root: rootId,
-        meaning: '',
-        descriptionCn: '',
-        updatedAt: '',
-        words: [],
-        parentRootId: '',
-        rootLevel: 1,
-        rootPath: rootId,
-        type: 'root',
-        notes: '',
-        sourceLabel: '',
-        tags: [],
-        sourceIndex: Number.MAX_SAFE_INTEGER,
-        sideHint: getRootSideHint('root'),
-      };
-    }
-
-    const normalized = normalizeWord({
-      ...rawWord,
-      sourceIndex,
-    });
-    if (!normalized.id) return;
-    if (!normalized.rootId) {
-      normalized.rootId = rootId;
-    }
-    if (!normalized.rootPath) {
-      normalized.rootPath = rootMap[rootId].rootPath || rootId;
-    }
-    if (!normalized.sourceLabel) {
-      normalized.sourceLabel = rootMap[rootId].sourceLabel || '';
-    }
-    rootMap[rootId].words.push(normalized);
+  sourceOrderedRoots.forEach((root) => {
+    const parentId = normalizeWordId(root.parentRootId);
+    if (!parentId || !sourceOrderedChildRootIdsByParent[parentId]) return;
+    sourceOrderedChildRootIdsByParent[parentId].push(root.rootId);
   });
 
-  Object.values(rootMap).forEach((rootData) => {
-    rootData.words = rootData.words.sort(
-      (a, b) =>
-        Number(a.sourceIndex || Number.MAX_SAFE_INTEGER) -
-        Number(b.sourceIndex || Number.MAX_SAFE_INTEGER),
-    );
-  });
-
-  const childRootIdsByParent = {};
-  Object.keys(rootMap).forEach((rootId) => {
-    childRootIdsByParent[rootId] = [];
-  });
-
-  Object.values(rootMap).forEach((rootData) => {
-    const parentId = normalizeWordId(rootData.parentRootId);
-    if (parentId && childRootIdsByParent[parentId]) {
-      childRootIdsByParent[parentId].push(rootData.rootId);
-    }
-  });
-
-  const descendantWordCountMemo = {};
+  const descendantWordCountMemo = Object.create(null);
   function getDescendantWordCount(rootId, chain = new Set()) {
     const normalizedRootId = normalizeWordId(rootId);
-    if (!normalizedRootId) return 0;
+    if (!normalizedRootId || !draftMetaMap[normalizedRootId]) return 0;
     if (typeof descendantWordCountMemo[normalizedRootId] === 'number') {
       return descendantWordCountMemo[normalizedRootId];
     }
     if (chain.has(normalizedRootId)) {
-      return Number(rootMap[normalizedRootId]?.words?.length || 0);
+      return Number(draftMetaMap[normalizedRootId].wordCount || 0);
     }
 
     const nextChain = new Set(chain);
     nextChain.add(normalizedRootId);
 
-    const ownCount = Number(rootMap[normalizedRootId]?.words?.length || 0);
-    const childIds = childRootIdsByParent[normalizedRootId] || [];
+    const ownCount = Number(draftMetaMap[normalizedRootId].wordCount || 0);
+    const childIds = sourceOrderedChildRootIdsByParent[normalizedRootId] || [];
     const childCount = childIds.reduce(
       (sum, childId) => sum + getDescendantWordCount(childId, nextChain),
       0,
@@ -473,142 +586,243 @@ function ensureRawDataCache() {
     return total;
   }
 
-  let rootMetaRoots = Object.values(rootMap).map((rootData) => {
-    const rootId = normalizeWordId(rootData.rootId);
-    const childIds = childRootIdsByParent[rootId] || [];
-    const meta = normalizeRootMetaRecord(rootData);
+  const sourceOrderedRootMeta = sourceOrderedRoots.map((root) => {
+    const childIds = sourceOrderedChildRootIdsByParent[root.rootId] || [];
     return {
-      ...meta,
+      ...root,
       childCount: childIds.length,
-      descendantWordCount: getDescendantWordCount(rootId),
+      descendantWordCount: getDescendantWordCount(root.rootId),
       hasChildren: childIds.length > 0,
     };
   });
 
-  const rootMetaMap = {};
-  rootMetaRoots.forEach((meta) => {
-    rootMetaMap[meta.rootId] = meta;
+  const rootMetaMap = Object.create(null);
+  sourceOrderedRootMeta.forEach((root) => {
+    rootMetaMap[root.rootId] = root;
   });
 
-  const sourceOrderedChildRootIdsByParent = Object.fromEntries(
-    Object.keys(childRootIdsByParent).map((parentId) => [
-      parentId,
-      [...childRootIdsByParent[parentId]],
-    ]),
-  );
-
-  Object.keys(childRootIdsByParent).forEach((parentId) => {
-    childRootIdsByParent[parentId] = childRootIdsByParent[parentId].sort((leftId, rightId) =>
-      compareGraphRoots(rootMetaMap[leftId], rootMetaMap[rightId]),
+  Object.keys(sourceOrderedChildRootIdsByParent).forEach((parentId) => {
+    childRootIdsByParent[parentId] = [...(sourceOrderedChildRootIdsByParent[parentId] || [])].sort(
+      (leftId, rightId) => compareGraphRoots(rootMetaMap[leftId], rootMetaMap[rightId]),
     );
   });
 
-  const rootMetaSourceOrdered = [...rootMetaRoots].sort(
-    (left, right) =>
-      Number(left.sourceIndex || Number.MAX_SAFE_INTEGER) -
-      Number(right.sourceIndex || Number.MAX_SAFE_INTEGER),
-  );
-  rootMetaRoots = rootMetaRoots.sort(compareGraphRoots);
+  const graphRootMeta = [...sourceOrderedRootMeta].sort(compareGraphRoots);
+  const categoryIndex =
+    categoriesRaw && categoriesRaw.categories && typeof categoriesRaw.categories === 'object'
+      ? categoriesRaw
+      : { version: 1, updatedAt: '', categories: {} };
+  const wordToRootIndex =
+    wordToRootRaw && wordToRootRaw.map && typeof wordToRootRaw.map === 'object'
+      ? wordToRootRaw
+      : { version: 1, updatedAt: '', map: {} };
 
-  const rootMeta = {
-    version: 1,
-    updatedAt: '',
-    roots: rootMetaRoots,
-  };
-
-  const categories = {};
-  const wordToRoot = {};
-  Object.values(rootMap).forEach((rootData) => {
-    rootData.words.forEach((word) => {
-      wordToRoot[word.id] = rootData.rootId;
-      const tags = Array.isArray(word.tags) ? word.tags : [];
-      tags.forEach((tag) => {
-        const key = normalizeWordId(tag);
-        if (!key) return;
-        if (!categories[key]) {
-          categories[key] = {
-            label: key,
-            wordIds: new Set(),
-            rootIds: new Set(),
-          };
-        }
-        categories[key].wordIds.add(word.id);
-        categories[key].rootIds.add(rootData.rootId);
-      });
-    });
-  });
-
-  const categoryFromRaw = {
-    version: 1,
-    updatedAt: '',
-    categories: Object.fromEntries(
-      Object.keys(categories)
-        .sort((a, b) => a.localeCompare(b))
-        .map((key) => [
-          key,
-          {
-            label: categories[key].label,
-            wordIds: Array.from(categories[key].wordIds).sort((a, b) => a.localeCompare(b)),
-            rootIds: Array.from(categories[key].rootIds).sort((a, b) => a.localeCompare(b)),
-          },
-        ]),
-    ),
-  };
-
-  const cache = {
-    rootMap,
-    rootMeta,
+  indexCache = {
+    rootMeta: {
+      version: Number(rootMetaRaw?.version || 1),
+      updatedAt: rootMetaRaw?.updatedAt || '',
+      roots: graphRootMeta,
+    },
     rootMetaMap,
+    rootMetaSourceOrdered: sourceOrderedRootMeta,
     childRootIdsByParent,
     sourceOrderedChildRootIdsByParent,
-    rootMetaSourceOrdered,
-    categoryIndex: categoryFromRaw,
-    wordToRootIndex: {
-      version: 1,
-      updatedAt: '',
-      map: wordToRoot,
-    },
+    categoryIndex,
+    wordToRootIndex,
   };
-  assertRawDataHealth(cache);
-  rawDataCache = cache;
-  return rawDataCache;
+
+  return indexCache;
 }
 
-function getDataSourceHealth() {
-  try {
-    const cache = ensureRawDataCache();
-    const stats = assertRawDataHealth(cache);
-    return {
-      ok: true,
-      mode: 'raw-strict',
-      roots: stats.rootCount,
-      words: stats.wordCount,
-      categories: Object.keys(cache.categoryIndex?.categories || {}).length,
-      code: '',
-      message: '',
-    };
-  } catch (error) {
-    return {
-      ok: false,
-      mode: 'raw-strict',
-      roots: 0,
-      words: 0,
-      categories: 0,
-      code: error?.code || 'UNKNOWN',
-      message: error?.message || 'Unknown raw data error',
-    };
+function getProgressEntriesForSync() {
+  const progressMap = getProgressMap();
+  const wordToRootMap = ensureIndexCache().wordToRootIndex.map || {};
+  const entries = Object.keys(progressMap)
+    .map((wordId) => ({
+      wordId,
+      ...normalizeProgressEntry(progressMap[wordId]),
+      rootId: normalizeWordId(wordToRootMap[wordId] || ''),
+    }))
+    .filter((item) => item.wordId);
+
+  return {
+    entries,
+    activityDates: getLearningActivityDates(),
+  };
+}
+
+function getProgressStats() {
+  const progressMap = getProgressMap();
+  const wordToRootMap = ensureIndexCache().wordToRootIndex.map || {};
+  const now = Date.now();
+  const todayStart = getStartOfTodayTimestamp(now);
+  const masteredWordIds = Object.keys(progressMap).filter(
+    (wordId) => normalizeStatus(progressMap[wordId].status) === STATUS_MASTERED,
+  );
+  const scheduledWordIds = Object.keys(progressMap).filter((wordId) =>
+    isScheduledProgress(progressMap[wordId]),
+  );
+  const dueWordIds = scheduledWordIds.filter(
+    (wordId) => normalizeTimestamp(progressMap[wordId].nextReviewAt) <= now,
+  );
+  const overdueWordIds = scheduledWordIds.filter(
+    (wordId) => normalizeTimestamp(progressMap[wordId].nextReviewAt) < todayStart,
+  );
+  const todayCompletedWordIds = scheduledWordIds.filter((wordId) =>
+    isSameDay(progressMap[wordId].lastReviewedAt, now),
+  );
+  const masteredRootIds = new Set(
+    masteredWordIds.map((wordId) => normalizeWordId(wordToRootMap[wordId])).filter(Boolean),
+  );
+  const activityDates = getLearningActivityDates();
+  const today = new Date();
+  let streakDays = 0;
+  const activitySet = new Set(activityDates);
+  for (let cursor = new Date(today); ; cursor.setDate(cursor.getDate() - 1)) {
+    const dayKey = toDayKey(cursor);
+    if (!activitySet.has(dayKey)) break;
+    streakDays += 1;
   }
+
+  return {
+    masteredWords: masteredWordIds.length,
+    masteredRoots: masteredRootIds.size,
+    scheduledWords: scheduledWordIds.length,
+    dueWords: dueWordIds.length,
+    overdueWords: overdueWordIds.length,
+    todayCompletedWords: todayCompletedWordIds.length,
+    activityDays: activityDates.length,
+    streakDays,
+    lastActivityDate: activityDates.length ? activityDates[activityDates.length - 1] : '',
+  };
 }
 
-function applyProgress(words, progressMap) {
-  return words.map((word) => {
-    const progress = progressMap[word.id];
-    if (!progress) return word;
-    return {
-      ...word,
-      status: normalizeStatus(progress.status),
-    };
+function normalizeWord(rawWord) {
+  const id = normalizeWordId(rawWord?.id || rawWord?.wordId || rawWord?.word);
+  return {
+    id,
+    word: rawWord?.display || rawWord?.word || id,
+    canonical: rawWord?.word || id,
+    phonetic: rawWord?.phonetic || '',
+    translation: rawWord?.translation || '',
+    sentence: rawWord?.sentence || rawWord?.example || '',
+    tags: Array.isArray(rawWord?.tags) ? rawWord.tags : [],
+    sourceLabel: rawWord?.sourceLabel || '',
+    rootId: normalizeWordId(rawWord?.rootId || ''),
+    rootPath: rawWord?.rootPath || '',
+    level: typeof rawWord?.level === 'number' ? rawWord.level : 1,
+    sourceIndex:
+      typeof rawWord?.sourceIndex === 'number' ? rawWord.sourceIndex : Number.MAX_SAFE_INTEGER,
+    status: STATUS_NEW,
+  };
+}
+
+function extractModuleDefault(moduleValue) {
+  if (
+    moduleValue &&
+    typeof moduleValue === 'object' &&
+    Object.prototype.hasOwnProperty.call(moduleValue, 'default')
+  ) {
+    return moduleValue.default;
+  }
+  return moduleValue;
+}
+
+function buildRootSummary(rootId) {
+  return cloneRootSummary(ensureIndexCache().rootMetaMap[normalizeWordId(rootId)]);
+}
+
+function normalizeLoadedRootRecord(rootInput, fallbackRootId = '') {
+  const rawRoot = rootInput && typeof rootInput === 'object' ? rootInput : {};
+  const summary =
+    buildRootSummary(rawRoot.rootId || fallbackRootId) ||
+    normalizeRootMetaRecord({ rootId: rawRoot.rootId || fallbackRootId || rawRoot.root });
+  const rootId = normalizeWordId(rawRoot.rootId || summary.rootId);
+  const rootPath = rawRoot.rootPath || summary.rootPath || rootId;
+  const sourceLabel = rawRoot.sourceLabel || summary.sourceLabel || '';
+  const words = Array.isArray(rawRoot.words)
+    ? rawRoot.words
+        .map((word, sourceIndex) =>
+          normalizeWord({
+            ...word,
+            rootId,
+            rootPath,
+            sourceLabel,
+            sourceIndex: typeof word?.sourceIndex === 'number' ? word.sourceIndex : sourceIndex,
+          }),
+        )
+        .filter((word) => word.id)
+    : [];
+
+  return {
+    version: Number(rawRoot.version || 1),
+    rootId,
+    root: rawRoot.root || summary.root || rootId,
+    meaning: rawRoot.meaning || summary.meaning || '',
+    descriptionCn: rawRoot.descriptionCn || summary.descriptionCn || '',
+    updatedAt: rawRoot.updatedAt || '',
+    words,
+    parentRootId: normalizeWordId(rawRoot.parentRootId || summary.parentRootId || ''),
+    rootLevel:
+      typeof rawRoot.rootLevel === 'number'
+        ? rawRoot.rootLevel
+        : typeof summary.rootLevel === 'number'
+          ? summary.rootLevel
+          : 1,
+    rootPath,
+    type: rawRoot.type || summary.type || 'root',
+    notes: rawRoot.notes || summary.notes || '',
+    sourceLabel,
+    tags: Array.isArray(rawRoot.tags)
+      ? rawRoot.tags
+      : Array.isArray(summary.tags)
+        ? summary.tags
+        : [],
+    sourceIndex:
+      typeof summary.sourceIndex === 'number' ? summary.sourceIndex : Number.MAX_SAFE_INTEGER,
+    sideHint: rawRoot.sideHint || summary.sideHint || getRootSideHint(rawRoot.type || summary.type),
+  };
+}
+
+function cacheLoadedRoot(rootInput, fallbackRootId = '') {
+  const normalizedRoot = normalizeLoadedRootRecord(rootInput, fallbackRootId);
+  if (!normalizedRoot.rootId) {
+    throw createRawDataUnavailableError('rootId missing in loaded root payload');
+  }
+  loadedRootCache[normalizedRoot.rootId] = normalizedRoot;
+  normalizedRoot.words.forEach((word) => {
+    loadedWordCache[word.id] = { ...word };
   });
+  return loadedRootCache[normalizedRoot.rootId];
+}
+
+async function loadShard(shardId) {
+  const normalizedShardId = String(shardId || '').trim();
+  if (!normalizedShardId) return null;
+  if (shardLoadPromises[normalizedShardId]) {
+    return shardLoadPromises[normalizedShardId];
+  }
+
+  const loader = ROOT_SHARD_LOADERS[normalizedShardId];
+  if (!loader) {
+    return null;
+  }
+
+  shardLoadPromises[normalizedShardId] = Promise.resolve(loader())
+    .then(extractModuleDefault)
+    .then((payload) => {
+      const roots = payload && typeof payload.roots === 'object' ? payload.roots : {};
+      Object.keys(roots).forEach((rootId) => {
+        cacheLoadedRoot(roots[rootId], rootId);
+      });
+      return true;
+    })
+    .catch((error) => {
+      delete shardLoadPromises[normalizedShardId];
+      throw error;
+    });
+
+  return shardLoadPromises[normalizedShardId];
 }
 
 async function loadRootData(rootId) {
@@ -616,23 +830,79 @@ async function loadRootData(rootId) {
   if (!normalizedRootId) {
     throw new Error('No rootId provided');
   }
-
-  const rawRoot = ensureRawDataCache().rootMap[normalizedRootId];
-  if (rawRoot) {
-    return rawRoot;
+  if (loadedRootCache[normalizedRootId]) {
+    return loadedRootCache[normalizedRootId];
   }
-  throw new Error(`No raw root data found for "${normalizedRootId}"`);
+  if (rootLoadPromises[normalizedRootId]) {
+    return rootLoadPromises[normalizedRootId];
+  }
+
+  rootLoadPromises[normalizedRootId] = (async () => {
+    const shardId = ROOT_TO_SHARD[normalizedRootId];
+    if (shardId) {
+      await loadShard(shardId);
+    }
+
+    const loaded = loadedRootCache[normalizedRootId];
+    if (!loaded) {
+      throw createRawDataUnavailableError(`No raw root data found for "${normalizedRootId}"`);
+    }
+    return loaded;
+  })().catch((error) => {
+    delete rootLoadPromises[normalizedRootId];
+    throw error;
+  });
+
+  return rootLoadPromises[normalizedRootId];
+}
+
+async function preloadAllRoots() {
+  const cache = ensureIndexCache();
+  const shardIds = Object.keys(ROOT_SHARD_LOADERS || {});
+  if (shardIds.length) {
+    await Promise.all(shardIds.map((shardId) => loadShard(shardId)));
+  }
+
+  const missingRootIds = Object.keys(cache.rootMetaMap).filter(
+    (rootId) => !loadedRootCache[rootId],
+  );
+  if (missingRootIds.length) {
+    await Promise.all(missingRootIds.map((rootId) => loadRootData(rootId)));
+  }
+
+  return loadedRootCache;
+}
+
+function applyProgress(words, progressMap) {
+  return words.map((word) => mergeProgressIntoWord(word, progressMap[word.id]));
+}
+
+function getDataSourceHealth() {
+  const cache = ensureIndexCache();
+  const rootCount = Object.keys(cache.rootMetaMap || {}).length;
+  const wordCount = Object.keys(cache.wordToRootIndex?.map || {}).length;
+  const categories = Object.keys(cache.categoryIndex?.categories || {}).length;
+  const ok = rootCount > 0 && wordCount > 0;
+
+  return {
+    ok,
+    mode: 'indexed-lazy',
+    roots: rootCount,
+    words: wordCount,
+    categories,
+    code: ok ? '' : RAW_DATA_ERROR_CODE,
+    message: ok ? '' : 'Indexed word data is incomplete.',
+  };
 }
 
 function getRootMeta(rootId) {
-  const normalizedRootId = normalizeWordId(rootId);
-  return cloneRootSummary(ensureRawDataCache().rootMetaMap[normalizedRootId]);
+  return buildRootSummary(rootId);
 }
 
 async function getRoot(rootId, options = {}) {
   const { withProgress = true } = options;
   const rootData = await loadRootData(rootId);
-  const words = Array.isArray(rootData.words) ? rootData.words.map(normalizeWord) : [];
+  const words = rootData.words.map((word) => normalizeWord(word));
 
   return {
     ...rootData,
@@ -648,7 +918,7 @@ async function getWordsByRoot(rootId, options = {}) {
 async function getWordsByCategory(categoryKey, options = {}) {
   const { offset = 0, limit = 50, withProgress = true } = options;
   const normalizedCategoryKey = normalizeWordId(categoryKey);
-  const cache = ensureRawDataCache();
+  const cache = ensureIndexCache();
   const categories = cache.categoryIndex.categories || {};
   const category = categories[normalizedCategoryKey];
   if (!category) return [];
@@ -660,11 +930,11 @@ async function getWordsByCategory(categoryKey, options = {}) {
 
   const wordToRootMap = cache.wordToRootIndex.map || {};
   const requiredRootIds = [
-    ...new Set(pageWordIds.map((wordId) => wordToRootMap[wordId]).filter(Boolean)),
+    ...new Set(pageWordIds.map((wordId) => normalizeWordId(wordToRootMap[wordId])).filter(Boolean)),
   ];
 
   const roots = await Promise.all(
-    requiredRootIds.map((rootId) => getRoot(rootId, { withProgress })),
+    requiredRootIds.map((nextRootId) => getRoot(nextRootId, { withProgress })),
   );
 
   const flattenedWordMap = {};
@@ -677,17 +947,224 @@ async function getWordsByCategory(categoryKey, options = {}) {
   return pageWordIds.map((wordId) => flattenedWordMap[wordId]).filter(Boolean);
 }
 
+async function getWordById(wordId, options = {}) {
+  const { withProgress = true } = options;
+  const normalizedWordId = normalizeWordId(wordId);
+  if (!normalizedWordId) return null;
+
+  const cachedWord = loadedWordCache[normalizedWordId];
+  if (cachedWord) {
+    const normalizedWord = normalizeWord(cachedWord);
+    if (!withProgress) return normalizedWord;
+    return mergeProgressIntoWord(normalizedWord, getProgressMap()[normalizedWordId]);
+  }
+
+  const rootId = normalizeWordId(ensureIndexCache().wordToRootIndex.map?.[normalizedWordId] || '');
+  if (!rootId) return null;
+
+  const rootData = await loadRootData(rootId);
+  const matchedWord = Array.isArray(rootData.words)
+    ? rootData.words.find((item) => item.id === normalizedWordId)
+    : null;
+  if (!matchedWord) return null;
+
+  const normalizedWord = normalizeWord(matchedWord);
+  loadedWordCache[normalizedWord.id] = { ...normalizedWord };
+  if (!withProgress) return normalizedWord;
+  return mergeProgressIntoWord(normalizedWord, getProgressMap()[normalizedWordId]);
+}
+
+function getReviewIntervalDays(stage) {
+  return REVIEW_INTERVAL_DAYS[normalizeStage(stage)] || REVIEW_INTERVAL_DAYS[0];
+}
+
+function getTodayReviewOverview(now = Date.now()) {
+  const stats = getProgressStats();
+  const lastLearningRootId = getLastLearningRoot();
+  const lastLearningRoot = lastLearningRootId ? getRootMeta(lastLearningRootId) : null;
+  return {
+    dateKey: toDayKey(now),
+    dueCount: stats.dueWords || 0,
+    overdueCount: stats.overdueWords || 0,
+    doneCount: stats.todayCompletedWords || 0,
+    totalCount: Number(stats.dueWords || 0) + Number(stats.todayCompletedWords || 0),
+    streakDays: stats.streakDays || 0,
+    masteredWords: stats.masteredWords || 0,
+    scheduledWords: stats.scheduledWords || 0,
+    lastLearningRootId,
+    lastLearningRoot,
+  };
+}
+
+async function getDueReviewQueue(options = {}) {
+  const { limit = 0 } = options;
+  const now = Date.now();
+  const progressMap = getProgressMap();
+  const dueEntries = Object.keys(progressMap)
+    .map((wordId) => ({
+      wordId,
+      progress: normalizeProgressEntry(progressMap[wordId]),
+    }))
+    .filter((item) => isScheduledProgress(item.progress) && item.progress.nextReviewAt <= now)
+    .sort((left, right) => {
+      const dueDiff = left.progress.nextReviewAt - right.progress.nextReviewAt;
+      if (dueDiff !== 0) return dueDiff;
+      return left.progress.updatedAt - right.progress.updatedAt;
+    });
+
+  const queue = (
+    await Promise.all(
+      dueEntries.map(async (item) => {
+        const rawWord = await getWordById(item.wordId, { withProgress: false });
+        return rawWord ? mergeProgressIntoWord(rawWord, item.progress) : null;
+      }),
+    )
+  ).filter(Boolean);
+
+  if (Number(limit) > 0) {
+    return queue.slice(0, Number(limit));
+  }
+  return queue;
+}
+
+async function enqueueWordForReview(wordId, options = {}) {
+  const normalizedWordId = normalizeWordId(wordId);
+  if (!normalizedWordId) return null;
+
+  const baseWord = options.word
+    ? normalizeWord(options.word)
+    : await getWordById(normalizedWordId, { withProgress: false });
+  if (!baseWord) return null;
+
+  const now = Date.now();
+  const progressMap = getProgressMap();
+  const currentEntry = progressMap[normalizedWordId]
+    ? normalizeProgressEntry(progressMap[normalizedWordId], { fallbackNow: now })
+    : null;
+
+  if (currentEntry && isScheduledProgress(currentEntry)) {
+    return mergeProgressIntoWord(baseWord, currentEntry);
+  }
+
+  const nextEntry = {
+    ...(currentEntry || createEmptyProgressEntry(now)),
+    status: STATUS_LEARNING,
+    stage: 0,
+    introducedAt: currentEntry?.introducedAt || now,
+    lastReviewedAt: 0,
+    nextReviewAt: now,
+    updatedAt: now,
+    lapseCount: currentEntry?.lapseCount || 0,
+    correctCount: currentEntry?.correctCount || 0,
+  };
+
+  progressMap[normalizedWordId] = normalizeProgressEntry(nextEntry);
+  saveProgressMap(progressMap);
+  recordLearningActivity(now);
+  setLastLearningRoot(baseWord.rootId);
+  return mergeProgressIntoWord(baseWord, nextEntry);
+}
+
+async function submitReviewResult(wordId, result = {}) {
+  const normalizedWordId = normalizeWordId(wordId);
+  if (!normalizedWordId) return null;
+
+  const baseWord = result.word
+    ? normalizeWord(result.word)
+    : await getWordById(normalizedWordId, { withProgress: false });
+  if (!baseWord) return null;
+
+  const now = Date.now();
+  const progressMap = getProgressMap();
+  const currentEntry = progressMap[normalizedWordId]
+    ? normalizeProgressEntry(progressMap[normalizedWordId], { fallbackNow: now })
+    : normalizeProgressEntry(
+        {
+          ...createEmptyProgressEntry(now),
+          status: STATUS_LEARNING,
+          nextReviewAt: now,
+        },
+        { fallbackNow: now },
+      );
+  const correct = Boolean(result && result.correct);
+
+  let nextStage = currentEntry.stage;
+  let nextStatus = currentEntry.status;
+  let nextReviewAt = currentEntry.nextReviewAt;
+  let nextLapseCount = currentEntry.lapseCount;
+  let nextCorrectCount = currentEntry.correctCount;
+
+  if (correct) {
+    nextStage = Math.min(4, currentEntry.stage + 1);
+    nextStatus = getProgressStatusFromStage(nextStage);
+    nextReviewAt = addDays(now, getReviewIntervalDays(currentEntry.stage));
+    nextCorrectCount += 1;
+  } else {
+    nextStage = Math.max(0, currentEntry.stage - 1);
+    nextStatus = getProgressStatusFromStage(nextStage);
+    nextReviewAt = addDays(now, 1);
+    nextLapseCount += 1;
+  }
+
+  const nextEntry = normalizeProgressEntry(
+    {
+      ...currentEntry,
+      status: nextStatus,
+      stage: nextStage,
+      introducedAt: currentEntry.introducedAt || now,
+      lastReviewedAt: now,
+      nextReviewAt,
+      updatedAt: now,
+      lapseCount: nextLapseCount,
+      correctCount: nextCorrectCount,
+    },
+    { fallbackNow: now },
+  );
+
+  progressMap[normalizedWordId] = nextEntry;
+  saveProgressMap(progressMap);
+  recordLearningActivity(now);
+  setLastLearningRoot(baseWord.rootId);
+  return mergeProgressIntoWord(baseWord, nextEntry);
+}
+
 function setWordStatus(wordId, status) {
   const normalizedWordId = normalizeWordId(wordId);
   if (!normalizedWordId) return;
 
+  const rootId = normalizeWordId(ensureIndexCache().wordToRootIndex.map?.[normalizedWordId] || '');
+  if (!rootId) return;
+
+  const now = Date.now();
   const progressMap = getProgressMap();
-  progressMap[normalizedWordId] = {
-    status: normalizeStatus(status),
-    updatedAt: Date.now(),
-  };
+  const normalizedStatus = normalizeStatus(status);
+  progressMap[normalizedWordId] = normalizeProgressEntry(
+    normalizedStatus === STATUS_MASTERED
+      ? {
+          status: STATUS_MASTERED,
+          stage: 4,
+          introducedAt: now,
+          lastReviewedAt: now,
+          nextReviewAt: addDays(now, getReviewIntervalDays(4)),
+          updatedAt: now,
+          lapseCount: 0,
+          correctCount: 1,
+        }
+      : {
+          status: STATUS_NEW,
+          stage: 0,
+          introducedAt: now,
+          lastReviewedAt: 0,
+          nextReviewAt: 0,
+          updatedAt: now,
+          lapseCount: 0,
+          correctCount: 0,
+        },
+    { fallbackNow: now },
+  );
   saveProgressMap(progressMap);
-  recordLearningActivity();
+  recordLearningActivity(now);
+  setLastLearningRoot(rootId);
 }
 
 function getWordStatus(wordId) {
@@ -702,15 +1179,23 @@ function clearProgress(options = {}) {
   const { clearActivity = true } = options;
   saveProgressMap({});
   if (clearActivity) clearLearningActivity();
+  setLastLearningRoot('');
+  setPendingRootFocus('');
 }
 
 function listRoots() {
-  const roots = ensureRawDataCache().rootMeta.roots || [];
-  return roots.map((root) => cloneRootSummary(root));
+  return (ensureIndexCache().rootMeta.roots || []).map((root) => cloneRootSummary(root));
+}
+
+async function listAllWords(options = {}) {
+  const { withProgress = true } = options;
+  await preloadAllRoots();
+  const words = Object.values(loadedWordCache).map((word) => normalizeWord(word));
+  return withProgress ? applyProgress(words, getProgressMap()) : words;
 }
 
 function listCategories() {
-  const categories = ensureRawDataCache().categoryIndex.categories || {};
+  const categories = ensureIndexCache().categoryIndex.categories || {};
   return Object.keys(categories).map((key) => ({
     key,
     label: categories[key].label || key,
@@ -733,7 +1218,7 @@ function listRootSeeds() {
       };
     }
     counter[seed].rootCount += 1;
-    counter[seed].wordCount += Number(item.wordCount || 0);
+    counter[seed].wordCount += Number(item.descendantWordCount || item.wordCount || 0);
   });
 
   return Object.keys(counter)
@@ -743,7 +1228,7 @@ function listRootSeeds() {
 
 function getDirectChildIds(rootId) {
   const normalizedRootId = normalizeWordId(rootId);
-  const cache = ensureRawDataCache();
+  const cache = ensureIndexCache();
   return Array.isArray(cache.childRootIdsByParent[normalizedRootId])
     ? [...cache.childRootIdsByParent[normalizedRootId]]
     : [];
@@ -751,14 +1236,10 @@ function getDirectChildIds(rootId) {
 
 function getSourceOrderedChildIds(rootId) {
   const normalizedRootId = normalizeWordId(rootId);
-  const cache = ensureRawDataCache();
+  const cache = ensureIndexCache();
   return Array.isArray(cache.sourceOrderedChildRootIdsByParent[normalizedRootId])
     ? [...cache.sourceOrderedChildRootIdsByParent[normalizedRootId]]
     : [];
-}
-
-function buildRootSummary(rootId) {
-  return cloneRootSummary(ensureRawDataCache().rootMetaMap[normalizeWordId(rootId)]);
 }
 
 function buildRootDetail(rootData, summary) {
@@ -777,7 +1258,38 @@ function buildRootDetail(rootData, summary) {
       : Array.isArray(baseSummary?.tags)
         ? [...baseSummary.tags]
         : [],
-    words: Array.isArray(rootData?.words) ? rootData.words : [],
+    words: Array.isArray(rootData?.words) ? [...rootData.words] : [],
+  };
+}
+
+function buildLearningSnapshotRoot(rootData, summary) {
+  if (!rootData && !summary) return null;
+  const baseSummary = summary || buildRootSummary(rootData?.rootId);
+  return {
+    rootId: rootData?.rootId || baseSummary?.rootId || '',
+    root: rootData?.root || baseSummary?.root || '',
+    meaning: rootData?.meaning || baseSummary?.meaning || '',
+    descriptionCn: rootData?.descriptionCn || baseSummary?.descriptionCn || '',
+    notes: rootData?.notes || baseSummary?.notes || '',
+    sourceLabel: rootData?.sourceLabel || baseSummary?.sourceLabel || '',
+    tags: Array.isArray(rootData?.tags)
+      ? [...rootData.tags]
+      : Array.isArray(baseSummary?.tags)
+        ? [...baseSummary.tags]
+        : [],
+    parentRootId: rootData?.parentRootId || baseSummary?.parentRootId || '',
+    rootLevel:
+      typeof rootData?.rootLevel === 'number'
+        ? rootData.rootLevel
+        : typeof baseSummary?.rootLevel === 'number'
+          ? baseSummary.rootLevel
+          : 1,
+    rootPath: rootData?.rootPath || baseSummary?.rootPath || '',
+    type: rootData?.type || baseSummary?.type || 'root',
+    sourceIndex:
+      typeof baseSummary?.sourceIndex === 'number'
+        ? baseSummary.sourceIndex
+        : Number.MAX_SAFE_INTEGER,
   };
 }
 
@@ -817,15 +1329,32 @@ async function getSeedMindTree(seed, options = {}) {
     };
   }
 
-  const baseRoot = await getRoot(normalizedSeed, { withProgress });
+  let baseRoot = null;
+  try {
+    baseRoot = await getRoot(normalizedSeed, { withProgress });
+  } catch (error) {
+    baseRoot = buildRootSummary(normalizedSeed);
+  }
   const directChildIds = getSourceOrderedChildIds(normalizedSeed);
   const branches = await Promise.all(
     directChildIds.map(async (rootId) => {
       const summary = buildRootSummary(rootId);
       if (!summary) return null;
-      const branch = await getRootBranch(rootId, {
-        withProgress,
-      });
+      let branch = null;
+      try {
+        branch = await getRootBranch(rootId, {
+          withProgress,
+        });
+      } catch (error) {
+        branch = {
+          children: getSourceOrderedChildIds(rootId)
+            .map((item) => buildRootSummary(item))
+            .filter(Boolean),
+          words: [],
+          totalChildren: Number(summary.childCount || 0),
+          totalWords: Number(summary.wordCount || 0),
+        };
+      }
 
       return {
         ...summary,
@@ -837,11 +1366,13 @@ async function getSeedMindTree(seed, options = {}) {
     }),
   );
 
+  const filteredBranches = branches.filter(Boolean);
+
   return {
     seed: normalizedSeed,
     baseRoot: buildRootDetail(baseRoot, buildRootSummary(normalizedSeed)),
-    branches: branches.filter(Boolean),
-    totalBranches: branches.filter(Boolean).length,
+    branches: filteredBranches,
+    totalBranches: filteredBranches.length,
   };
 }
 
@@ -863,7 +1394,7 @@ async function getRootFocus(rootId, options = {}) {
   const focusRoot = await getRoot(normalizedRootId, { withProgress });
   const focusSummary = buildRootSummary(normalizedRootId);
   if (!focusSummary) {
-    throw new Error(`No raw root data found for "${normalizedRootId}"`);
+    throw createRawDataUnavailableError(`No raw root data found for "${normalizedRootId}"`);
   }
 
   const path = getPathSegments(focusRoot.rootPath || focusSummary.rootPath, normalizedRootId)
@@ -910,7 +1441,7 @@ async function getRootBranch(rootId, options = {}) {
   const focusRoot = await getRoot(normalizedRootId, { withProgress });
   const focusSummary = buildRootSummary(normalizedRootId);
   if (!focusSummary) {
-    throw new Error(`No raw root data found for "${normalizedRootId}"`);
+    throw createRawDataUnavailableError(`No raw root data found for "${normalizedRootId}"`);
   }
 
   const path = getPathSegments(focusRoot.rootPath || focusSummary.rootPath, normalizedRootId)
@@ -936,6 +1467,68 @@ async function getRootBranch(rootId, options = {}) {
     totalChildren: allChildren.length,
     totalWords: sourceWords.length,
   };
+}
+
+async function buildLearningRootSnapshotNode(rootId, options = {}) {
+  const { withProgress = false, progressMap = null } = options;
+  const normalizedRootId = normalizeWordId(rootId);
+  if (!normalizedRootId) return null;
+
+  const [rootData, summary] = await Promise.all([
+    loadRootData(normalizedRootId),
+    Promise.resolve(buildRootSummary(normalizedRootId)),
+  ]);
+
+  if (!summary) {
+    throw createRawDataUnavailableError(`No raw root data found for "${normalizedRootId}"`);
+  }
+
+  const sourceWords = Array.isArray(rootData.words)
+    ? rootData.words.map((word) => normalizeWord(word))
+    : [];
+  const words = withProgress
+    ? applyProgress(sourceWords, progressMap || getProgressMap())
+    : sourceWords;
+  const childIds = getSourceOrderedChildIds(normalizedRootId);
+  const children = (
+    await Promise.all(
+      childIds.map((childId) =>
+        buildLearningRootSnapshotNode(childId, {
+          withProgress,
+          progressMap,
+        }),
+      ),
+    )
+  ).filter(Boolean);
+  const totalWords =
+    words.length + children.reduce((sum, child) => sum + Number(child.totalWords || 0), 0);
+
+  return {
+    root: buildLearningSnapshotRoot(rootData, summary),
+    words,
+    children,
+    totalWords,
+  };
+}
+
+async function getLearningRootSnapshot(rootId, options = {}) {
+  const { withProgress = false } = options;
+  const progressMap = withProgress ? getProgressMap() : null;
+  const snapshot = await buildLearningRootSnapshotNode(rootId, {
+    withProgress,
+    progressMap,
+  });
+
+  if (!snapshot) {
+    return {
+      root: null,
+      words: [],
+      children: [],
+      totalWords: 0,
+    };
+  }
+
+  return snapshot;
 }
 
 async function getRootWords(rootId, options = {}) {
@@ -1002,11 +1595,15 @@ async function getRootFamily(baseRootId, options = {}) {
     .sort((a, b) => {
       const levelDiff = Number(a.rootLevel || 1) - Number(b.rootLevel || 1);
       if (levelDiff !== 0) return levelDiff;
+      const sourceDiff =
+        Number(a.sourceIndex || Number.MAX_SAFE_INTEGER) -
+        Number(b.sourceIndex || Number.MAX_SAFE_INTEGER);
+      if (sourceDiff !== 0) return sourceDiff;
       return normalizeWordId(a.rootId).localeCompare(normalizeWordId(b.rootId));
     })
     .slice(0, maxBranches);
   if (!candidates.length) {
-    throw new Error(`No raw family data found for "${normalizedBase}"`);
+    throw createRawDataUnavailableError(`No raw family data found for "${normalizedBase}"`);
   }
 
   const exactMeta =
@@ -1085,10 +1682,17 @@ async function getRootFamily(baseRootId, options = {}) {
 
 export default {
   STATUS_NEW,
+  STATUS_LEARNING,
+  STATUS_REVIEW,
   STATUS_MASTERED,
+  consumePendingRootFocus,
   clearProgress,
   clearLearningActivity,
+  enqueueWordForReview,
+  getDueReviewQueue,
   getLearningActivityDates,
+  getLastLearningRoot,
+  getLearningRootSnapshot,
   getProgressEntriesForSync,
   getProgressMapSnapshot,
   getProgressStats,
@@ -1099,17 +1703,24 @@ export default {
   getRootWords,
   getSeedMindTree,
   getSeedOverview,
+  getTodayReviewOverview,
+  getWordById,
   getWordPronunciationUrl,
+  getWordReviewState: getScheduledReviewState,
   getWordStatus,
   getWordsByCategory,
   getWordsByRoot,
   getRootFamily,
   listRootSeeds,
   listCategories,
+  listAllWords,
   listRoots,
   replaceLearningActivity,
   replaceProgressMap,
+  setLastLearningRoot,
+  setPendingRootFocus,
   setWordStatus,
+  submitReviewResult,
   getDataSourceHealth,
   RAW_DATA_ERROR_CODE,
 };

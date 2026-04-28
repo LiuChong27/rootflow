@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "amplifier",
   "root": "amplifier",
-  "meaning": "",
-  "descriptionCn": "\u653e\u5927\uff1b\u589e\u5f3a",
-  "updatedAt": "2026-04-15",
+  "meaning": "amplifier family",
+  "descriptionCn": "放大；增强",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "amplifier-amplifier-2",
       "word": "amplifier",
       "display": "Amplifier",
-      "phonetic": "",
-      "translation": "\u653e\u5927\uff1b\u589e\u5f3a",
-      "sentence": "",
+      "phonetic": "/ˈæmpləˌfaɪər/",
+      "translation": "放大；增强",
+      "sentence": "An amplifier is electronic equipment that increases strength of signals passing through it.",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-al>amplifier",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

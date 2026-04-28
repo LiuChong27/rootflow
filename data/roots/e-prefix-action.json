@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-prefix-action",
-  "root": "\u52a8\u4f5c",
+  "root": "动作",
   "meaning": "action",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "动作",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-prefix-action-echo",
       "word": "echo",
       "display": "Echo",
-      "phonetic": "",
-      "translation": "\u53cd\u54cd\uff1b\u5171\u9e23\uff1b\u56de\u58f0",
-      "sentence": "",
+      "phonetic": "/ˈɛkoʊ/",
+      "translation": "反响；共鸣；回声",
+      "sentence": "she could hear echoes of her own footsteps",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-prefix-action-edge",
       "word": "edge",
       "display": "Edge",
-      "phonetic": "",
-      "translation": "\u5200\u5203\uff1b\u6324\u8fdb",
-      "sentence": "",
+      "phonetic": "/ɛʤ/",
+      "translation": "刀刃；挤进",
+      "sentence": "he rounded the edges of the box",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-prefix-action-eject",
       "word": "eject",
       "display": "Eject",
-      "phonetic": "",
-      "translation": "\u55b7\u51fa",
-      "sentence": "",
+      "phonetic": "/ɪˈʤɛkt/",
+      "translation": "喷出",
+      "sentence": "The unruly student was excluded from the game",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "e-prefix-action-elect",
       "word": "elect",
       "display": "Elect",
-      "phonetic": "",
-      "translation": "\u9009\u4e3e\uff1b\u9009\u62e9",
-      "sentence": "",
+      "phonetic": "/ɪˈlɛkt/",
+      "translation": "选举；选择",
+      "sentence": "one of the elect who have power inside the government",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "e-prefix-action-embed",
       "word": "embed",
       "display": "Embed",
-      "phonetic": "",
-      "translation": "\u628a...\u5d4c\u5165\uff1b\u624e\u7262",
-      "sentence": "",
+      "phonetic": "/ɪmˈbɛd/",
+      "translation": "把...嵌入；扎牢",
+      "sentence": "The young reporter was embedded with the Third Division",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "e-prefix-action-emerge",
       "word": "emerge",
       "display": "Emerge",
-      "phonetic": "",
-      "translation": "\u663e\u73b0\uff1b\u66b4\u9732\uff1b\u5f62\u6210",
-      "sentence": "",
+      "phonetic": "/ˈimərʤ/",
+      "translation": "显现；暴露；形成",
+      "sentence": "Suddenly, the proprietor emerged from his office",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "e-prefix-action-emergency",
       "word": "emergency",
       "display": "Emergency",
-      "phonetic": "",
-      "translation": "\u7d27\u6025\u60c5\u51b5",
-      "sentence": "",
+      "phonetic": "/ˈimərʤənsi/",
+      "translation": "紧急情况",
+      "sentence": "he never knew what to do in an emergency",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "e-prefix-action-emigrate",
       "word": "emigrate",
       "display": "Emigrate",
-      "phonetic": "",
-      "translation": "\u79fb\u5c45",
-      "sentence": "",
+      "phonetic": "/ˈɛməˌgreɪt/",
+      "translation": "移居",
+      "sentence": "Many people had to emigrate during the Nazi period",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "e-prefix-action-emit",
       "word": "emit",
       "display": "Emit",
-      "phonetic": "",
-      "translation": "\u53d1\u51fa\uff1b\u5410\u9732\uff1b\u53d1\u8868",
-      "sentence": "",
+      "phonetic": "/ɪˈmɪt/",
+      "translation": "发出；吐露；发表",
+      "sentence": "The ozone layer blocks some harmful rays which the sun emits",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "e-prefix-action-emotion",
       "word": "emotion",
       "display": "Emotion",
-      "phonetic": "",
-      "translation": "\u60c5\u611f",
-      "sentence": "",
+      "phonetic": "/ˈiˌmoʊʃən/",
+      "translation": "情感",
+      "sentence": "An emotion is any strong feeling.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "e-prefix-action-emphasis",
       "word": "emphasis",
       "display": "Emphasis",
-      "phonetic": "",
-      "translation": "\u5f3a\u8c03\uff1b\u91cd\u70b9",
-      "sentence": "",
+      "phonetic": "/ˈɛmfəsɪs/",
+      "translation": "强调；重点",
+      "sentence": "the red light gave the central figure increased emphasis",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "e-prefix-action-emphasize",
       "word": "emphasize",
       "display": "Emphasize",
-      "phonetic": "",
-      "translation": "\u5f3a\u8c03",
-      "sentence": "",
+      "phonetic": "/ˈɛmfəˌsaɪz/",
+      "translation": "强调",
+      "sentence": "Dr. Jones emphasizes exercise in addition to a change in diet",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "e-prefix-action-eradiate",
       "word": "eradiate",
       "display": "Eradiate",
-      "phonetic": "",
-      "translation": "\u53d1\u5c04\uff1b\u8f90\u5c04",
-      "sentence": "",
+      "phonetic": "/ɪrˈeɪdiˌeɪt/",
+      "translation": "发射；辐射",
+      "sentence": "Eradiate is used here with the sense of \"发射；辐射\".",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "e-prefix-action-erase",
       "word": "erase",
       "display": "Erase",
-      "phonetic": "",
-      "translation": "\u64e6\u6389\uff1b\u5220\u53bb\uff1b\u6d88\u78c1",
-      "sentence": "",
+      "phonetic": "/ɪˈreɪs/",
+      "translation": "擦掉；删去；消磁",
+      "sentence": "The Turks erased the Armenians in 1915",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "e-prefix-action-escape",
       "word": "escape",
       "display": "Escape",
-      "phonetic": "",
-      "translation": "\u9003\u8dd1",
-      "sentence": "",
+      "phonetic": "/ɪˈskeɪp/",
+      "translation": "逃跑",
+      "sentence": "he made his escape from the mental hospital",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "e-prefix-action-escort",
       "word": "escort",
       "display": "Escort",
-      "phonetic": "",
-      "translation": "\u62a4\u9001\uff1b\u8b66\u536b",
-      "sentence": "",
+      "phonetic": "/ˈɛskɔrt/",
+      "translation": "护送；警卫",
+      "sentence": "She asked her older brother to escort her to the ball",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "e-prefix-action-especial",
       "word": "especial",
       "display": "Especial",
-      "phonetic": "",
-      "translation": "\u7279\u522b\u7684",
-      "sentence": "",
+      "phonetic": "/əˈspɛʃəl/",
+      "translation": "特别的",
+      "sentence": "he paid especial attention to her",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "e-prefix-action-especially",
       "word": "especially",
       "display": "Especially",
-      "phonetic": "",
-      "translation": "\u7279\u522b\uff1b\u4e3b\u8981\u7b2c",
-      "sentence": "",
+      "phonetic": "/əˈspɛʃəli/",
+      "translation": "特别；主要第",
+      "sentence": "an especially (or specially) cautious approach to the danger",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "e-prefix-action-establish",
       "word": "establish",
       "display": "Establish",
-      "phonetic": "",
-      "translation": "\u5efa\u7acb",
-      "sentence": "",
+      "phonetic": "/ɪˈstæblɪʃ/",
+      "translation": "建立",
+      "sentence": "establish a new department",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "e-prefix-action-establishment",
       "word": "establishment",
       "display": "Establishment",
-      "phonetic": "",
-      "translation": "\u8bbe\u7acb",
-      "sentence": "",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "translation": "设立",
+      "sentence": "it was the establishment of his reputation",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "e-prefix-action-evacuate",
       "word": "evacuate",
       "display": "Evacuate",
-      "phonetic": "",
-      "translation": "\u64a4\u79bb",
-      "sentence": "",
+      "phonetic": "/ɪˈvækjəˌeɪt/",
+      "translation": "撤离",
+      "sentence": "After the earthquake, residents were evacuated",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "e-prefix-action-evade",
       "word": "evade",
       "display": "Evade",
-      "phonetic": "",
-      "translation": "\u9003\u907f",
-      "sentence": "",
+      "phonetic": "/ɪˈveɪd/",
+      "translation": "逃避",
+      "sentence": "They tend to evade their responsibilities",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "e-prefix-action-evoke",
       "word": "evoke",
       "display": "Evoke",
-      "phonetic": "",
-      "translation": "\u5524\u8d77",
-      "sentence": "",
+      "phonetic": "/ɪˈvoʊk/",
+      "translation": "唤起",
+      "sentence": "evoke sympathy",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "e-prefix-action-evolution",
       "word": "evolution",
       "display": "Evolution",
-      "phonetic": "",
-      "translation": "\u8fdb\u5316",
-      "sentence": "",
+      "phonetic": "/ˌɛvəˈluʃən/",
+      "translation": "进化",
+      "sentence": "the evolution of Greek civilization",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "e-prefix-action-evolve",
       "word": "evolve",
       "display": "Evolve",
-      "phonetic": "",
-      "translation": "\u8fdb\u5316\uff1b\u53d1\u5c55",
-      "sentence": "",
+      "phonetic": "/ɪˈvɑlv/",
+      "translation": "进化；发展",
+      "sentence": "Modern man evolved a long time ago",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "e-prefix-action-excerpt",
       "word": "excerpt",
       "display": "Excerpt",
-      "phonetic": "",
-      "translation": "\u6458\u5f55\uff1b\u5f15\u7528",
-      "sentence": "",
+      "phonetic": "/ˈɛksərpt/",
+      "translation": "摘录；引用",
+      "sentence": "he presented excerpts from William James' philosophical writings",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "e-prefix-action-exclaim",
       "word": "exclaim",
       "display": "Exclaim",
-      "phonetic": "",
-      "translation": "\u547c\u558a\uff1b\u60ca\u53eb",
-      "sentence": "",
+      "phonetic": "/ɪkˈskleɪm/",
+      "translation": "呼喊；惊叫",
+      "sentence": "`I won!' he exclaimed",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "e-prefix-action-exclude",
       "word": "exclude",
       "display": "Exclude",
-      "phonetic": "",
-      "translation": "\u62d2\u7edd\uff1b\u6392\u65a5",
-      "sentence": "",
+      "phonetic": "/ɪkˈsklud/",
+      "translation": "拒绝；排斥",
+      "sentence": "The bad results were excluded from the report",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "e-prefix-action-exclusive",
       "word": "exclusive",
       "display": "Exclusive",
-      "phonetic": "",
-      "translation": "\u72ec\u5360\u7684",
-      "sentence": "",
+      "phonetic": "/ɪkˈsklusɪv/",
+      "translation": "独占的",
+      "sentence": "they have exclusive use of the machine",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "e-prefix-action-excursion",
       "word": "excursion",
       "display": "Excursion",
-      "phonetic": "",
-      "translation": "\u77ed\u9014\u65c5\u884c\uff1b\u6e38\u89c8\uff1b\u4fbf\u5b9c",
-      "sentence": "",
+      "phonetic": "/ɪkˈskərʒən/",
+      "translation": "短途旅行；游览；便宜",
+      "sentence": "many summer excursions to the shore",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "e-prefix-action-excuse",
       "word": "excuse",
       "display": "Excuse",
-      "phonetic": "",
-      "translation": "\u539f\u8c05\uff1b\u5bbd\u6055\uff1b\u501f\u53e3\uff1b\u8fa9\u89e3",
-      "sentence": "",
+      "phonetic": "/ɪkˈskjuz/",
+      "translation": "原谅；宽恕；借口；辩解",
+      "sentence": "he kept finding excuses to stay",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "e-prefix-action-excute",
       "word": "excute",
       "display": "Excute",
-      "phonetic": "",
-      "translation": "\u5b9e\u884c\uff1b\u5904\u6b7b",
-      "sentence": "",
+      "phonetic": "/ɪkskjˈut/",
+      "translation": "实行；处死",
+      "sentence": "Excute is used here with the sense of \"实行；处死\".",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "e-prefix-action-executive",
       "word": "executive",
       "display": "Executive",
-      "phonetic": "",
-      "translation": "\u603b\u7ecf\u7406\uff1b\u6267\u884c\u7684",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɛkjətɪv/",
+      "translation": "总经理；执行的",
+      "sentence": "the executive branch",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "e-prefix-action-exempt",
       "word": "exempt",
       "display": "Exempt",
-      "phonetic": "",
-      "translation": "\u514d\u9664",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɛmpt/",
+      "translation": "免除",
+      "sentence": "She exempted me from the exam",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "e-prefix-action-exhibit",
       "word": "exhibit",
       "display": "Exhibit",
-      "phonetic": "",
-      "translation": "\u5c55\u51fa",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɪbɪt/",
+      "translation": "展出",
+      "sentence": "the museum had many exhibits of oriental art",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "e-prefix-action-exhibition",
       "word": "exhibition",
       "display": "Exhibition",
-      "phonetic": "",
-      "translation": "\u5c55\u89c8\u4f1a",
-      "sentence": "",
+      "phonetic": "/ˌɛksəˈbɪʃən/",
+      "translation": "展览会",
+      "sentence": "a remarkable exhibition of musicianship",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "e-prefix-action-exile",
       "word": "exile",
       "display": "Exile",
-      "phonetic": "",
-      "translation": "\u653e\u9010",
-      "sentence": "",
+      "phonetic": "/ˈɛkˌsaɪl/",
+      "translation": "放逐",
+      "sentence": "men in exile dream of hope",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "e-prefix-action-exit",
       "word": "exit",
       "display": "Exit",
-      "phonetic": "",
-      "translation": "\u51fa\u53e3",
-      "sentence": "",
+      "phonetic": "/ˈɛksət/",
+      "translation": "出口",
+      "sentence": "he blocked the way out",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "e-prefix-action-expand",
       "word": "expand",
       "display": "Expand",
-      "phonetic": "",
-      "translation": "\u6269\u5f20",
-      "sentence": "",
+      "phonetic": "/ɪkˈspænd/",
+      "translation": "扩张",
+      "sentence": "The dough expands",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "e-prefix-action-expansion",
       "word": "expansion",
       "display": "Expansion",
-      "phonetic": "",
-      "translation": "\u81a8\u80c0",
-      "sentence": "",
+      "phonetic": "/ɪkˈspænʧən/",
+      "translation": "膨胀",
+      "sentence": "the expansion of (a+b)^2 is a^2 + 2ab + b^2",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "e-prefix-action-expel",
       "word": "expel",
       "display": "Expel",
-      "phonetic": "",
-      "translation": "\u9a71\u9010\uff1b\u53d1\u5c04",
-      "sentence": "",
+      "phonetic": "/ɪkˈspɛl/",
+      "translation": "驱逐；发射",
+      "sentence": "He was expelled from his native country",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "e-prefix-action-expend",
       "word": "expend",
       "display": "Expend",
-      "phonetic": "",
-      "translation": "\u82b1\u8d39",
-      "sentence": "",
+      "phonetic": "/ɪkˈspɛnd/",
+      "translation": "花费",
+      "sentence": "The legislature expended its time on school questions",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "e-prefix-action-expenditure",
       "word": "expenditure",
       "display": "Expenditure",
-      "phonetic": "",
-      "translation": "\u82b1\u8d39\uff1b\u6d88\u8017",
-      "sentence": "",
+      "phonetic": "/ɪkˈspɛndɪʧər/",
+      "translation": "花费；消耗",
+      "sentence": "An expenditure is money paid out; an amount spent.",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "e-prefix-action-expense",
       "word": "expense",
       "display": "Expense",
-      "phonetic": "",
-      "translation": "\u6d88\u8d39",
-      "sentence": "",
+      "phonetic": "/ɪkˈspɛns/",
+      "translation": "消费",
+      "sentence": "at the expense of",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "e-prefix-action-expensive",
       "word": "expensive",
       "display": "Expensive",
-      "phonetic": "",
-      "translation": "\u82b1\u8d39\u7684",
-      "sentence": "",
+      "phonetic": "/ɪkˈspɛnsɪv/",
+      "translation": "花费的",
+      "sentence": "expensive clothes",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "e-prefix-action-experience",
       "word": "experience",
       "display": "Experience",
-      "phonetic": "",
-      "translation": "\u7ecf\u5386",
-      "sentence": "",
+      "phonetic": "/ɪkˈspɪriəns/",
+      "translation": "经历",
+      "sentence": "a man of experience",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "e-prefix-action-experiment",
       "word": "experiment",
       "display": "Experiment",
-      "phonetic": "",
-      "translation": "\u5b9e\u9a8c",
-      "sentence": "",
+      "phonetic": "/ɪkˈspɛrəmənt/",
+      "translation": "实验",
+      "sentence": "it was an experiment in living",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "e-prefix-action-experimental",
       "word": "experimental",
       "display": "Experimental",
-      "phonetic": "",
-      "translation": "\u5b9e\u9a8c\u7684",
-      "sentence": "",
+      "phonetic": "/ɪkˌspɛrɪˈmɛntəl/",
+      "translation": "实验的",
+      "sentence": "experimental physics",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "e-prefix-action-expire",
       "word": "expire",
       "display": "Expire",
-      "phonetic": "",
-      "translation": "\u65ad\u6c14\uff1b\u671f\u6ee1",
-      "sentence": "",
+      "phonetic": "/ɪkˈspaɪr/",
+      "translation": "断气；期满",
+      "sentence": "My passports expired last month",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "e-prefix-action-explain",
       "word": "explain",
       "display": "Explain",
-      "phonetic": "",
-      "translation": "\u89e3\u91ca",
-      "sentence": "",
+      "phonetic": "/ɪkˈspleɪn/",
+      "translation": "解释",
+      "sentence": "He explained the laws of physics to his students",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "e-prefix-action-explanation",
       "word": "explanation",
       "display": "Explanation",
-      "phonetic": "",
-      "translation": "\u89e3\u91ca",
-      "sentence": "",
+      "phonetic": "/ˌɛkspləˈneɪʃən/",
+      "translation": "解释",
+      "sentence": "the explanation was very simple",
       "tags": [
         "root-family"
       ],
@@ -622,9 +622,9 @@
       "id": "e-prefix-action-explode",
       "word": "explode",
       "display": "Explode",
-      "phonetic": "",
-      "translation": "\u7206\u70b8",
-      "sentence": "",
+      "phonetic": "/ɪkˈsploʊd/",
+      "translation": "爆炸",
+      "sentence": "We exploded the nuclear bomb",
       "tags": [
         "root-family"
       ],
@@ -634,9 +634,9 @@
       "id": "e-prefix-action-exploit",
       "word": "exploit",
       "display": "Exploit",
-      "phonetic": "",
-      "translation": "\u5f00\u62d3\uff1b\u5265\u524a",
-      "sentence": "",
+      "phonetic": "/ˌɛkˈsplɔɪt/",
+      "translation": "开拓；剥削",
+      "sentence": "He exploit the new taxation system",
       "tags": [
         "root-family"
       ],
@@ -646,9 +646,9 @@
       "id": "e-prefix-action-explosion",
       "word": "explosion",
       "display": "Explosion",
-      "phonetic": "",
-      "translation": "\u7206\u70b8",
-      "sentence": "",
+      "phonetic": "/ɪkˈsploʊʒən/",
+      "translation": "爆炸",
+      "sentence": "the explosion of the firecrackers awoke the children",
       "tags": [
         "root-family"
       ],
@@ -658,9 +658,9 @@
       "id": "e-prefix-action-explosive",
       "word": "explosive",
       "display": "Explosive",
-      "phonetic": "",
-      "translation": "\u7206\u70b8\u7684",
-      "sentence": "",
+      "phonetic": "/ɪkˈsploʊsɪv/",
+      "translation": "爆炸的",
+      "sentence": "an explosive device",
       "tags": [
         "root-family"
       ],
@@ -670,9 +670,9 @@
       "id": "e-prefix-action-export",
       "word": "export",
       "display": "Export",
-      "phonetic": "",
-      "translation": "\u8f93\u51fa\uff1b\u51fa\u53e3\u5546\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈɛkspɔrt/",
+      "translation": "输出；出口商品",
+      "sentence": "we export less than we import and have a negative trade balance",
       "tags": [
         "root-family"
       ],
@@ -682,9 +682,9 @@
       "id": "e-prefix-action-expose",
       "word": "expose",
       "display": "Expose",
-      "phonetic": "",
-      "translation": "\u66b4\u9732",
-      "sentence": "",
+      "phonetic": "/ɪkˈspoʊz/",
+      "translation": "暴露",
+      "sentence": "he published an expose of the graft and corruption in city government",
       "tags": [
         "root-family"
       ],
@@ -694,9 +694,9 @@
       "id": "e-prefix-action-exposure",
       "word": "exposure",
       "display": "Exposure",
-      "phonetic": "",
-      "translation": "\u66b4\u9732\uff1b\u9057\u5f03",
-      "sentence": "",
+      "phonetic": "/ɪkˈspoʊʒər/",
+      "translation": "暴露；遗弃",
+      "sentence": "exposure to the weather",
       "tags": [
         "root-family"
       ],
@@ -706,9 +706,9 @@
       "id": "e-prefix-action-express",
       "word": "express",
       "display": "Express",
-      "phonetic": "",
-      "translation": "\u8868\u793a\uff1b\u5feb\u8f66",
-      "sentence": "",
+      "phonetic": "/ɪkˈsprɛs/",
+      "translation": "表示；快车",
+      "sentence": "he caught the express to New York",
       "tags": [
         "root-family"
       ],
@@ -718,9 +718,9 @@
       "id": "e-prefix-action-expression",
       "word": "expression",
       "display": "Expression",
-      "phonetic": "",
-      "translation": "\u8868\u8fbe\uff1b\u8868\u60c5",
-      "sentence": "",
+      "phonetic": "/ɪkˈsprɛʃən/",
+      "translation": "表达；表情",
+      "sentence": "a sad expression",
       "tags": [
         "root-family"
       ],
@@ -730,9 +730,9 @@
       "id": "e-prefix-action-extension",
       "word": "extension",
       "display": "Extension",
-      "phonetic": "",
-      "translation": "\u5ef6\u957f\uff1b\u6269\u5927",
-      "sentence": "",
+      "phonetic": "/ɪkˈstɛnʃən/",
+      "translation": "延长；扩大",
+      "sentence": "they applied for an extension of the loan",
       "tags": [
         "root-family"
       ],
@@ -742,9 +742,9 @@
       "id": "e-prefix-action-extensive",
       "word": "extensive",
       "display": "Extensive",
-      "phonetic": "",
-      "translation": "\u5e7f\u9614\u7684",
-      "sentence": "",
+      "phonetic": "/ɪkˈstɛnsɪv/",
+      "translation": "广阔的",
+      "sentence": "an extensive Roman settlement in northwest England",
       "tags": [
         "root-family"
       ],
@@ -754,9 +754,9 @@
       "id": "e-prefix-action-extent",
       "word": "extent",
       "display": "Extent",
-      "phonetic": "",
-      "translation": "\u5bbd\u5ea6\uff1b\u957f\u5ea6\uff1b\u957f\u5ea6",
-      "sentence": "",
+      "phonetic": "/ɪkˈstɛnt/",
+      "translation": "宽度；长度；长度",
+      "sentence": "the extent of the damage",
       "tags": [
         "root-family"
       ],
@@ -767,5 +767,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-prefix>e-prefix-action",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

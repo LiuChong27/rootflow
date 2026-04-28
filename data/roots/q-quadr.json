@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "q-quadr",
-  "root": "quadr=quadri \u56db",
+  "root": "quadr=quadri 四",
   "meaning": "four",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "四",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "q-quadr-quart",
       "word": "quart",
       "display": "Quart",
-      "phonetic": "",
-      "translation": "\u5938\u8131",
-      "sentence": "",
+      "phonetic": "/kwɔrt/",
+      "translation": "夸脱",
+      "sentence": "A quart is a United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "q-quadr-quarter",
       "word": "quarter",
       "display": "Quarter",
-      "phonetic": "",
-      "translation": "\u56db\u5206\u4e4b\u4e00",
-      "sentence": "",
+      "phonetic": "/kˈwɔrtər/",
+      "translation": "四分之一",
+      "sentence": "a quarter of a pound",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "q-quadr-quarterly",
       "word": "quarterly",
       "display": "Quarterly",
-      "phonetic": "",
-      "translation": "\u6bcf\u5b63\u7684",
-      "sentence": "",
+      "phonetic": "/kˈwɔrtərli/",
+      "translation": "每季的",
+      "sentence": "quarterly report",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "q-quadr-quartz",
       "word": "quartz",
       "display": "Quartz",
-      "phonetic": "",
-      "translation": "\u77f3\u82f1",
-      "sentence": "",
+      "phonetic": "/kwɔrts/",
+      "translation": "石英",
+      "sentence": "A quartz is colorless glass made of almost pure silica.",
       "tags": [
         "root-family"
       ],
@@ -59,5 +59,6 @@
   "rootLevel": 2,
   "rootPath": "q>q-quadr",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

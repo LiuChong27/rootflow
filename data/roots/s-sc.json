@@ -3,16 +3,16 @@
   "rootId": "s-sc",
   "root": "s=c",
   "meaning": "s=c",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "s=c",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-sc-scissors",
       "word": "scissors",
       "display": "Scissors",
-      "phonetic": "",
-      "translation": "\u526a\u5200",
-      "sentence": "",
+      "phonetic": "/ˈsɪzərz/",
+      "translation": "剪刀",
+      "sentence": "Scissors refers to an edge tool having two crossed pivoting blades.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-sc-sculpture",
       "word": "sculpture",
       "display": "Sculpture",
-      "phonetic": "",
-      "translation": "\u96d5\u523b",
-      "sentence": "",
+      "phonetic": "/ˈskəlpʧər/",
+      "translation": "雕刻",
+      "sentence": "sculpt a swan out of a block of ice",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-sc-seam",
       "word": "seam",
       "display": "Seam",
-      "phonetic": "",
-      "translation": "\u63a5\u7f1d",
-      "sentence": "",
+      "phonetic": "/siːm/",
+      "translation": "接缝",
+      "sentence": "seam a dress",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-sc-sect",
       "word": "sect",
       "display": "Sect",
-      "phonetic": "",
-      "translation": "\u5207\u5272",
-      "sentence": "",
+      "phonetic": "/sɛkt/",
+      "translation": "切割",
+      "sentence": "A sect is a subdivision of a larger religious group.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-sc-segment",
       "word": "segment",
       "display": "Segment",
-      "phonetic": "",
-      "translation": "\u7247\u6bb5",
-      "sentence": "",
+      "phonetic": "/ˌsɛgˈmɛnt/",
+      "translation": "片段",
+      "sentence": "finished the final segment of the road",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-sc-segregate",
       "word": "segregate",
       "display": "Segregate",
-      "phonetic": "",
-      "translation": "\u9694\u79bb",
-      "sentence": "",
+      "phonetic": "/ˈsɛgrəˌgeɪt/",
+      "translation": "隔离",
+      "sentence": "This neighborhood is segregated",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-sc-semiconductor",
       "word": "semiconductor",
       "display": "Semiconductor",
-      "phonetic": "",
-      "translation": "\u534a\u5bfc\u4f53",
-      "sentence": "",
+      "phonetic": "/ˌsɛmɪkənˈdəktər/",
+      "translation": "半导体",
+      "sentence": "A semiconductor is a substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-sc-serial",
       "word": "serial",
       "display": "Serial",
-      "phonetic": "",
-      "translation": "\u8fde\u7eed\u5267",
-      "sentence": "",
+      "phonetic": "/ˈsɪˌriəl/",
+      "translation": "连续剧",
+      "sentence": "serial concerts",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-sc-session",
       "word": "session",
       "display": "Session",
-      "phonetic": "",
-      "translation": "\u4f1a\u8bae",
-      "sentence": "",
+      "phonetic": "/ˈsɛʃən/",
+      "translation": "会议",
+      "sentence": "it was the opening session of the legislature",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-sc-sew",
       "word": "sew",
       "display": "Sew",
-      "phonetic": "",
-      "translation": "\u7f1d",
-      "sentence": "",
+      "phonetic": "/soʊ/",
+      "translation": "缝",
+      "sentence": "Can the seamstress sew me a suit by next week?",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-sc-sharp",
       "word": "sharp",
       "display": "Sharp",
-      "phonetic": "",
-      "translation": "\u950b\u5229\u7684",
-      "sentence": "",
+      "phonetic": "/ʃɑrp/",
+      "translation": "锋利的",
+      "sentence": "a sharp photographic image",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-sc-shatter",
       "word": "shatter",
       "display": "Shatter",
-      "phonetic": "",
-      "translation": "\u788e\u7247",
-      "sentence": "",
+      "phonetic": "/ˈʃætər/",
+      "translation": "碎片",
+      "sentence": "The wine glass shattered",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-sc-shave",
       "word": "shave",
       "display": "Shave",
-      "phonetic": "",
-      "translation": "\u68af\uff1b\u522e\u8138",
-      "sentence": "",
+      "phonetic": "/ʃeɪv/",
+      "translation": "梯；刮脸",
+      "sentence": "The machine shaved off fine layers from the piece of wood",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-sc-shear",
       "word": "shear",
       "display": "Shear",
-      "phonetic": "",
-      "translation": "\u4fee\u526a",
-      "sentence": "",
+      "phonetic": "/ʃɪr/",
+      "translation": "修剪",
+      "sentence": "the shear changed the quadrilateral into a parallelogram",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-sc-shed",
       "word": "shed",
       "display": "Shed",
-      "phonetic": "",
-      "translation": "\u53d1\u6563\uff1b\u8131\u843d",
-      "sentence": "",
+      "phonetic": "/ʃɛd/",
+      "translation": "发散；脱落",
+      "sentence": "he shed his image as a pushy boss",
       "tags": [
         "root-family"
       ],
@@ -191,5 +191,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-sc",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-dis-create",
-  "root": "\u4ece\u65e0\u5230\u6709",
+  "root": "从无到有",
   "meaning": "create",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "从无到有",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-dis-create-diffuse",
       "word": "diffuse",
       "display": "Diffuse",
-      "phonetic": "",
-      "translation": "\u6269\u6563",
-      "sentence": "",
+      "phonetic": "/dɪfˈjuz/",
+      "translation": "扩散",
+      "sentence": "a large diffuse organization",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-dis-create-disappear",
       "word": "disappear",
       "display": "Disappear",
-      "phonetic": "",
-      "translation": "\u6d88\u5931",
-      "sentence": "",
+      "phonetic": "/ˌdɪsəˈpɪr/",
+      "translation": "消失",
+      "sentence": "He disappeared without a trace",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-dis-create-disappoint",
       "word": "disappoint",
       "display": "Disappoint",
-      "phonetic": "",
-      "translation": "\u5931\u671b\uff1b\u632b\u8d25",
-      "sentence": "",
+      "phonetic": "/ˌdɪsəˈpɔɪnt/",
+      "translation": "失望；挫败",
+      "sentence": "Her boyfriend let her down when he did not propose marriage",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-other-dis-create-disarace",
       "word": "disarace",
       "display": "Disarace",
-      "phonetic": "",
-      "translation": "\u803b\u8fb1\uff0c\u5931\u5ba0",
-      "sentence": "",
+      "phonetic": "/dɪsɑrˈis/",
+      "translation": "耻辱，失宠",
+      "sentence": "Disarace is used here with the sense of \"耻辱，失宠\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-other-dis-create-disaster",
       "word": "disaster",
       "display": "Disaster",
-      "phonetic": "",
-      "translation": "\u707e\u96be",
-      "sentence": "",
+      "phonetic": "/dɪˈzæstər/",
+      "translation": "灾难",
+      "sentence": "his policies were a disaster",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-other-dis-create-disastrous",
       "word": "disastrous",
       "display": "Disastrous",
-      "phonetic": "",
-      "translation": "\u707e\u96be\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈzæstrəs/",
+      "translation": "灾难性的",
+      "sentence": "the battle was a disastrous end to a disastrous campaign",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-other-dis-create-discern",
       "word": "discern",
       "display": "Discern",
-      "phonetic": "",
-      "translation": "\u8fa8\u522b",
-      "sentence": "",
+      "phonetic": "/dɪˈsərn/",
+      "translation": "辨别",
+      "sentence": "The fleeing convicts were picked out of the darkness by the watchful prison guards",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-other-dis-create-discount",
       "word": "discount",
       "display": "Discount",
-      "phonetic": "",
-      "translation": "\u6298\u6263",
-      "sentence": "",
+      "phonetic": "/ˈdɪskaʊnt/",
+      "translation": "折扣",
+      "sentence": "I never discount these books-they sell like hot cakes",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-other-dis-create-discourage",
       "word": "discourage",
       "display": "Discourage",
-      "phonetic": "",
-      "translation": "\u6cc4\u6c14",
-      "sentence": "",
+      "phonetic": "/dɪˈskərɪʤ/",
+      "translation": "泄气",
+      "sentence": "We should discourage this practice among our youth",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-other-dis-create-discourse",
       "word": "discourse",
       "display": "Discourse",
-      "phonetic": "",
-      "translation": "\u8bba\u6587\uff1b\u6f14\u8bf4",
-      "sentence": "",
+      "phonetic": "/ˈdɪskɔrs/",
+      "translation": "论文；演说",
+      "sentence": "the book contains an excellent discussion of modal logic",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-other-dis-create-discreet",
       "word": "discreet",
       "display": "Discreet",
-      "phonetic": "",
-      "translation": "\u8c28\u614e\u7684\uff1b\u6709\u5224\u65ad\u529b\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈskrit/",
+      "translation": "谨慎的；有判断力的",
+      "sentence": "his trusted discreet aide",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-other-dis-create-discrepancy",
       "word": "discrepancy",
       "display": "Discrepancy",
-      "phonetic": "",
-      "translation": "\u5dee\u5f02\uff1b\u77db\u76fe",
-      "sentence": "",
+      "phonetic": "/dɪˈskrɛpənsi/",
+      "translation": "差异；矛盾",
+      "sentence": "a growing divergence of opinion",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-other-dis-create-discuss",
       "word": "discuss",
       "display": "Discuss",
-      "phonetic": "",
-      "translation": "\u8ba8\u8bba",
-      "sentence": "",
+      "phonetic": "/dɪˈskəs/",
+      "translation": "讨论",
+      "sentence": "The class discussed Dante's `Inferno'",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "d-other-dis-create-disease",
       "word": "disease",
       "display": "Disease",
-      "phonetic": "",
-      "translation": "\u75be\u75c5",
-      "sentence": "",
+      "phonetic": "/dɪˈziz/",
+      "translation": "疾病",
+      "sentence": "A disease is an impairment of health or a condition of abnormal functioning.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "d-other-dis-create-dislike",
       "word": "dislike",
       "display": "Dislike",
-      "phonetic": "",
-      "translation": "\u4e0d\u559c\u6b22",
-      "sentence": "",
+      "phonetic": "/dɪsˈlaɪk/",
+      "translation": "不喜欢",
+      "sentence": "my dislike of him was instinctive",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "d-other-dis-create-dismay",
       "word": "dismay",
       "display": "Dismay",
-      "phonetic": "",
-      "translation": "\u6cae\u4e27\uff1b\u5931\u671b",
-      "sentence": "",
+      "phonetic": "/dɪsˈmeɪ/",
+      "translation": "沮丧；失望",
+      "sentence": "These news depressed her",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "d-other-dis-create-display",
       "word": "display",
       "display": "Display",
-      "phonetic": "",
-      "translation": "\u5c55\u793a",
-      "sentence": "",
+      "phonetic": "/dɪˈspleɪ/",
+      "translation": "展示",
+      "sentence": "made a display of strength",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "d-other-dis-create-disposition",
       "word": "disposition",
       "display": "Disposition",
-      "phonetic": "",
-      "translation": "\u6392\u5217\uff1b\u90e8\u7f72\uff1b\u503e\u5411",
-      "sentence": "",
+      "phonetic": "/ˌdɪspəˈzɪʃən/",
+      "translation": "排列；部署；倾向",
+      "sentence": "he has a happy disposition",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "d-other-dis-create-disregard",
       "word": "disregard",
       "display": "Disregard",
-      "phonetic": "",
-      "translation": "\u5ffd\u89c6",
-      "sentence": "",
+      "phonetic": "/ˌdɪsrɪˈgɑrd/",
+      "translation": "忽视",
+      "sentence": "Disregard the errors",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "d-other-dis-create-dissolve",
       "word": "dissolve",
       "display": "Dissolve",
-      "phonetic": "",
-      "translation": "\u6eb6\u89e3\uff1b\u53d6\u6d88\uff1b\u89e3\u6563",
-      "sentence": "",
+      "phonetic": "/dɪˈzɑlv/",
+      "translation": "溶解；取消；解散",
+      "sentence": "The recipe says that we should dissolve a cup of sugar in two cups of water",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "d-other-dis-create-distill",
       "word": "distill",
       "display": "Distill",
-      "phonetic": "",
-      "translation": "\u84b8\u998f\uff1b\u63d0\u53d6",
-      "sentence": "",
+      "phonetic": "/dɪˈstɪl/",
+      "translation": "蒸馏；提取",
+      "sentence": "distill the essence of this compound",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "d-other-dis-create-distort",
       "word": "distort",
       "display": "Distort",
-      "phonetic": "",
-      "translation": "\u626d\u66f2",
-      "sentence": "",
+      "phonetic": "/dɪˈstɔrt/",
+      "translation": "扭曲",
+      "sentence": "The cord is all twisted",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "d-other-dis-create-distress",
       "word": "distress",
       "display": "Distress",
-      "phonetic": "",
-      "translation": "\u82e6\u607c\uff1b\u4e0d\u5e78",
-      "sentence": "",
+      "phonetic": "/dɪˈstrɛs/",
+      "translation": "苦恼；不幸",
+      "sentence": "the death of his wife caused him great distress",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "d-other-dis-create-district",
       "word": "district",
       "display": "District",
-      "phonetic": "",
-      "translation": "\u5730\u533a",
-      "sentence": "",
+      "phonetic": "/ˈdɪstrɪkt/",
+      "translation": "地区",
+      "sentence": "A district is a region marked off for administrative or other purposes.",
       "tags": [
         "root-family"
       ],
@@ -299,5 +299,6 @@
   "rootLevel": 4,
   "rootPath": "d>d-other>d-other-dis>d-other-dis-create",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

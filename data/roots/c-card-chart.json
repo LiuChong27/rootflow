@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-card-chart",
-  "root": "chart\u56fe\u8868",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "chart图表",
+  "meaning": "chart",
+  "descriptionCn": "图表",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-card-chart-charter",
       "word": "charter",
       "display": "Charter",
-      "phonetic": "",
-      "translation": "\u5baa\u7ae0\uff1b\u6267\u7167",
-      "sentence": "",
+      "phonetic": "/ˈʧɑrtər/",
+      "translation": "宪章；执照",
+      "sentence": "We took an apartment on a quiet street",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-card-chart-uncharted",
       "word": "uncharted",
       "display": "Uncharted",
-      "phonetic": "",
-      "translation": "\u672a\u77e5\u7684",
-      "sentence": "",
+      "phonetic": "/ənˈʧɑrtɪd/",
+      "translation": "未知的",
+      "sentence": "uncharted seas",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-card>c-card-chart",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "c-prefix",
-  "root": "C\u524d\u7f00",
+  "root": "C前缀",
   "meaning": "prefix",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "前缀",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "c",
-  "rootLevel": 2,
-  "rootPath": "c>c-prefix",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "c-prefix",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

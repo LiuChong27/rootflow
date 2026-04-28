@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-sacr",
-  "root": "sacr=sanct secre\u795e\u5723\u7684",
+  "root": "sacr=sanct secre神圣的",
   "meaning": "sacred",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "神圣的",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-sacr",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-sacr",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "audiology",
   "root": "audiology",
-  "meaning": "",
-  "descriptionCn": "\u542c\u89c9\u5b66",
-  "updatedAt": "2026-04-15",
+  "meaning": "audiology family",
+  "descriptionCn": "听觉学",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "audiology-audiology-2",
       "word": "audiology",
       "display": "Audiology",
-      "phonetic": "",
-      "translation": "\u542c\u89c9\u5b66",
-      "sentence": "",
+      "phonetic": "/ˌɔdiˈɑlʌdʒi/",
+      "translation": "听觉学",
+      "sentence": "An audiology is the measurement of hearing.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 4,
   "rootPath": "a>audi>audio>audiology",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

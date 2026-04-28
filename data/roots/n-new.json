@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "n-new",
-  "root": "new\u65b0",
+  "root": "new新",
   "meaning": "new",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "新",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "n",
-  "rootLevel": 2,
-  "rootPath": "n>n-new",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "n-new",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

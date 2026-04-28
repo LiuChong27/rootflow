@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-other-purple",
-  "root": "\u5176\u4ed6\uff08\u7d2b\u8272\u5206\u652f\uff09",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "其他（紫色分支）",
+  "meaning": "purple family",
+  "descriptionCn": "其他（紫色分支）",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-purple-bay",
       "word": "bay",
       "display": "Bay",
-      "phonetic": "",
-      "translation": "\u6d77\u6e7e",
-      "sentence": "",
+      "phonetic": "/beɪ/",
+      "translation": "海湾",
+      "sentence": "they put him in the sick bay",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-purple-blackmail",
       "word": "blackmail",
       "display": "Blackmail",
-      "phonetic": "",
-      "translation": "\u6572\u8bc8\uff1b\u80c1\u8feb",
-      "sentence": "",
+      "phonetic": "/ˈblækˌmeɪl/",
+      "translation": "敲诈；胁迫",
+      "sentence": "A blackmail is extortion of money by threats to divulge discrediting information.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-purple-bowel",
       "word": "bowel",
       "display": "Bowel",
-      "phonetic": "",
-      "translation": "\u80a0\uff1b\u6df1\u5904",
-      "sentence": "",
+      "phonetic": "/baʊəl/",
+      "translation": "肠；深处",
+      "sentence": "A bowel is the part of the alimentary canal between the stomach and the anus.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-purple-boycott",
       "word": "boycott",
       "display": "Boycott",
-      "phonetic": "",
-      "translation": "\u62b5\u5236",
-      "sentence": "",
+      "phonetic": "/ˈbɔɪˌkɑt/",
+      "translation": "抵制",
+      "sentence": "A boycott is a group's refusal to have commercial dealings with some organization in protest against its policies.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-purple-burglar",
       "word": "burglar",
       "display": "Burglar",
-      "phonetic": "",
-      "translation": "\u5165\u5ba4\u76d7\u8d3c",
-      "sentence": "",
+      "phonetic": "/ˈbərglər/",
+      "translation": "入室盗贼",
+      "sentence": "A burglar is a thief who enters a building with intent to steal.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-purple-butcher",
       "word": "butcher",
       "display": "Butcher",
-      "phonetic": "",
-      "translation": "\u5c60\u592b\uff1b\u5356\u8089\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbʊʧər/",
+      "translation": "屠夫；卖肉的",
+      "sentence": "They slaughtered their only goat to survive the winter",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-purple-button",
       "word": "button",
       "display": "Button",
-      "phonetic": "",
-      "translation": "\u7ebd\u6263\uff1b\u5f00\u5173",
-      "sentence": "",
+      "phonetic": "/ˈbətən/",
+      "translation": "纽扣；开关",
+      "sentence": "the elevator was operated by push buttons",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-other-purple",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

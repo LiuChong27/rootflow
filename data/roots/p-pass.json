@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-pass",
-  "root": "pass\u7a7f\u8fc7",
+  "root": "pass穿过",
   "meaning": "pass",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "穿过",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-pass-passage",
       "word": "passage",
       "display": "Passage",
-      "phonetic": "",
-      "translation": "\u901a\u8fc7",
-      "sentence": "",
+      "phonetic": "/ˈpæsɪʤ/",
+      "translation": "通过",
+      "sentence": "the outward passage took 10 days",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-pass-passenger",
       "word": "passenger",
       "display": "Passenger",
-      "phonetic": "",
-      "translation": "\u4e58\u5ba2\uff1b\u65c5\u5ba2",
-      "sentence": "",
+      "phonetic": "/ˈpæsənʤər/",
+      "translation": "乘客；旅客",
+      "sentence": "A passenger is a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-pass-passerby",
       "word": "passerby",
       "display": "Passerby",
-      "phonetic": "",
-      "translation": "\u8fc7\u8def\u4eba\uff1b\u884c\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈpæsərbi/",
+      "translation": "过路人；行人",
+      "sentence": "A passerby is a person who passes by casually or by chance.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-pass-passive",
       "word": "passive",
       "display": "Passive",
-      "phonetic": "",
-      "translation": "\u88ab\u52a8\u7684\uff1b\u6d88\u6781\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpæsɪv/",
+      "translation": "被动的；消极的",
+      "sentence": "`The ball was thrown by the boy' uses the passive voice",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-pass-passport",
       "word": "passport",
       "display": "Passport",
-      "phonetic": "",
-      "translation": "\u62a4\u7167",
-      "sentence": "",
+      "phonetic": "/ˈpæˌspɔrt/",
+      "translation": "护照",
+      "sentence": "his wealth was not a passport into the exclusive circles of society",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-pass-past",
       "word": "past",
       "display": "Past",
-      "phonetic": "",
-      "translation": "\u8fc7\u53bb\u7684\uff1b\u6614\u65e5",
-      "sentence": "",
+      "phonetic": "/pæst/",
+      "translation": "过去的；昔日",
+      "sentence": "forget the past",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-pass-paste",
       "word": "paste",
       "display": "Paste",
-      "phonetic": "",
-      "translation": "\u7cca\uff1b\u6d46\u7cca",
-      "sentence": "",
+      "phonetic": "/peɪst/",
+      "translation": "糊；浆糊",
+      "sentence": "paste the sign on the wall",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-pass-pastime",
       "word": "pastime",
       "display": "Pastime",
-      "phonetic": "",
-      "translation": "\u6d88\u9063\uff1b\u5a31\u4e50",
-      "sentence": "",
+      "phonetic": "/ˈpæˌstaɪm/",
+      "translation": "消遣；娱乐",
+      "sentence": "sailing is her favorite pastime",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-pass-pasture",
       "word": "pasture",
       "display": "Pasture",
-      "phonetic": "",
-      "translation": "\u7267\u573a",
-      "sentence": "",
+      "phonetic": "/ˈpæsʧər/",
+      "translation": "牧场",
+      "sentence": "the herd was grazing",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-pass-penetrate",
       "word": "penetrate",
       "display": "Penetrate",
-      "phonetic": "",
-      "translation": "\u7a7f\u8fc7\uff1b\u6e17\u5165",
-      "sentence": "",
+      "phonetic": "/ˈpɛnəˌtreɪt/",
+      "translation": "穿过；渗入",
+      "sentence": "The bullet penetrated her chest",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-pass-surpass",
       "word": "surpass",
       "display": "Surpass",
-      "phonetic": "",
-      "translation": "\u8d85\u8d8a",
-      "sentence": "",
+      "phonetic": "/sərˈpæs/",
+      "translation": "超越",
+      "sentence": "her performance surpasses that of any other student I know",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-pass",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

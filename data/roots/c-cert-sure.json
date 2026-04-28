@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cert-sure",
-  "root": "cert=sure\u786e\u5b9a",
+  "root": "cert=sure确定",
   "meaning": "sure",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "确定",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cert-sure-ascertain",
       "word": "ascertain",
       "display": "Ascertain",
-      "phonetic": "",
-      "translation": "\u53d1\u73b0\uff1b\u67e5\u660e",
-      "sentence": "",
+      "phonetic": "/ˌæsərˈteɪn/",
+      "translation": "发现；查明",
+      "sentence": "find the product of two numbers",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cert-sure-certificate",
       "word": "certificate",
       "display": "Certificate",
-      "phonetic": "",
-      "translation": "\u8bc1\u4e66\uff1b\u8bc1\u660e\u4e66",
-      "sentence": "",
+      "phonetic": "/sərˈtɪfɪkət/",
+      "translation": "证书；证明书",
+      "sentence": "he held several valuable securities",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-cert-sure-certify",
       "word": "certify",
       "display": "Certify",
-      "phonetic": "",
-      "translation": "\u8bc1\u660e\uff1b\u8bc1\u5b9e",
-      "sentence": "",
+      "phonetic": "/ˈsərtəˌfaɪ/",
+      "translation": "证明；证实",
+      "sentence": "His high fever attested to his illness",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-cert-sure-certitude",
       "word": "certitude",
       "display": "Certitude",
-      "phonetic": "",
-      "translation": "\u786e\u5b9e\uff1b\u786e\u4fe1",
-      "sentence": "",
+      "phonetic": "/ˈsərtəˌtud/",
+      "translation": "确实；确信",
+      "sentence": "A certitude is total certainty or greater certainty than circumstances warrant.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-cert-sure-concert",
       "word": "concert",
       "display": "Concert",
-      "phonetic": "",
-      "translation": "\u534f\u594f\u66f2\uff1b\u97f3\u4e50\u4f1a\uff1b\u4e00\u81f4\uff1b\u548c\u8c10",
-      "sentence": "",
+      "phonetic": "/ˈkɑnsərt/",
+      "translation": "协奏曲；音乐会；一致；和谐",
+      "sentence": "concert one's differences",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-cert-sure-disconcert",
       "word": "disconcert",
       "display": "Disconcert",
-      "phonetic": "",
-      "translation": "\u4f7f\u4e3a\u96be",
-      "sentence": "",
+      "phonetic": "/ˌdɪskənˈsərt/",
+      "translation": "使为难",
+      "sentence": "The constant attention of the young man confused her",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "c>c-cert-sure",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

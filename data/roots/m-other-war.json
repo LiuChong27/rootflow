@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-other-war",
-  "root": "\u6218",
+  "root": "战",
   "meaning": "war",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "战",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-other-war-march",
       "word": "march",
       "display": "March",
-      "phonetic": "",
-      "translation": "\u884c\u519b\uff1b\u884c\u7a0b",
-      "sentence": "",
+      "phonetic": "/mɑrʧ/",
+      "translation": "行军；行程",
+      "sentence": "it was a long march",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-other-war-milit",
       "word": "milit",
       "display": "Milit",
-      "phonetic": "",
-      "translation": "\u5175",
-      "sentence": "",
+      "phonetic": "/mˈɪlɪt/",
+      "translation": "兵",
+      "sentence": "Milit is used here with the sense of \"兵\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-other-war-militant",
       "word": "militant",
       "display": "Militant",
-      "phonetic": "",
-      "translation": "\u597d\u6218\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɪlətənt/",
+      "translation": "好战的",
+      "sentence": "militant nations",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "m-other-war-military",
       "word": "military",
       "display": "Military",
-      "phonetic": "",
-      "translation": "\u519b\u4e8b\u7684\uff1b\u519b\u7528\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɪlɪˌtɛri/",
+      "translation": "军事的；军用的",
+      "sentence": "their military is the largest in the region",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "m-other-war-mort",
       "word": "mort",
       "display": "Mort",
-      "phonetic": "",
-      "translation": "\u6b7b",
-      "sentence": "",
+      "phonetic": "/mɔrt/",
+      "translation": "死",
+      "sentence": "Mort is used here with the sense of \"死\".",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-other>m-other-war",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

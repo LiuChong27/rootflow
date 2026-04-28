@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "additional",
   "root": "additional",
-  "meaning": "",
-  "descriptionCn": "\u9644\u52a0\u7684",
-  "updatedAt": "2026-04-15",
+  "meaning": "additional family",
+  "descriptionCn": "附加的",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "additional",
       "word": "additional",
       "display": "Additional",
-      "phonetic": "",
-      "translation": "\u9644\u52a0\u7684",
-      "sentence": "",
+      "phonetic": "/əˈdɪʃənəl/",
+      "translation": "附加的",
+      "sentence": "called for additional troops",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-core>adhere>additional",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

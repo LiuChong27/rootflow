@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "avenue",
   "root": "avenue",
-  "meaning": "",
-  "descriptionCn": "\u6797\u836b\u9053\uff1b\u65b9\u6cd5\u9014\u5f84",
-  "updatedAt": "2026-04-15",
+  "meaning": "avenue family",
+  "descriptionCn": "林荫道；方法途径",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "avenue",
       "word": "avenue",
       "display": "Avenue",
-      "phonetic": "",
-      "translation": "\u6797\u836b\u9053\uff1b\u65b9\u6cd5\u9014\u5f84",
-      "sentence": "",
+      "phonetic": "/ˈævəˌnu/",
+      "translation": "林荫道；方法途径",
+      "sentence": "they explored every avenue they could think of",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 6,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver>avenue",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

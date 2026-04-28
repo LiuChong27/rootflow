@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-port",
-  "root": "port\u642c\u8fd0\uff1b\u627f\u62c5",
+  "root": "port搬运；承担",
   "meaning": "carry, bear",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "搬运；承担",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-port-comport",
       "word": "comport",
       "display": "Comport",
-      "phonetic": "",
-      "translation": "\u4e3e\u52a8",
-      "sentence": "",
+      "phonetic": "/kəmˈpɔrt/",
+      "translation": "举动",
+      "sentence": "The children must learn to behave",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-port-deport",
       "word": "deport",
       "display": "Deport",
-      "phonetic": "",
-      "translation": "\u9a71\u9010",
-      "sentence": "",
+      "phonetic": "/dɪˈpɔrt/",
+      "translation": "驱逐",
+      "sentence": "She carried herself well",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-port-deportation",
       "word": "deportation",
       "display": "Deportation",
-      "phonetic": "",
-      "translation": "\u653e\u9010",
-      "sentence": "",
+      "phonetic": "/ˌdipɔrˈteɪʃən/",
+      "translation": "放逐",
+      "sentence": "his deportation to a penal colony",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-port-deportee",
       "word": "deportee",
       "display": "Deportee",
-      "phonetic": "",
-      "translation": "\u88ab\u653e\u9010\u8005",
-      "sentence": "",
+      "phonetic": "/ˌdipɔrˈti/",
+      "translation": "被放逐者",
+      "sentence": "A deportee is a person who is expelled from home or country by authority.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-port-export",
       "word": "export",
       "display": "Export",
-      "phonetic": "",
-      "translation": "\u51fa\u53e3",
-      "sentence": "",
+      "phonetic": "/ˈɛkspɔrt/",
+      "translation": "出口",
+      "sentence": "we export less than we import and have a negative trade balance",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-port-import",
       "word": "import",
       "display": "Import",
-      "phonetic": "",
-      "translation": "\u8fdb\u53e3",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɔrt/",
+      "translation": "进口",
+      "sentence": "the lead role was played by an import from Sweden",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-port-important",
       "word": "important",
       "display": "Important",
-      "phonetic": "",
-      "translation": "\u91cd\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪmˈpɔrtənt/",
+      "translation": "重要的",
+      "sentence": "important people",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-port-importunate",
       "word": "importunate",
       "display": "Importunate",
-      "phonetic": "",
-      "translation": "\u6025\u5207\u5730",
-      "sentence": "",
+      "phonetic": "/ɪmpˈɔrtʌnt/",
+      "translation": "急切地",
+      "sentence": "an importunate job applicant",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-port-importune",
       "word": "importune",
       "display": "Importune",
-      "phonetic": "",
-      "translation": "\u5f3a\u6c42",
-      "sentence": "",
+      "phonetic": "/ɪmpˈɔrtʌn/",
+      "translation": "强求",
+      "sentence": "I importune you to help them",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-port-importunity",
       "word": "importunity",
       "display": "Importunity",
-      "phonetic": "",
-      "translation": "\u5f3a\u6c42",
-      "sentence": "",
+      "phonetic": "/ɪmpɔrtˈunti/",
+      "translation": "强求",
+      "sentence": "his importunity left me no alternative but to agree",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-port-opportunist",
       "word": "opportunist",
       "display": "Opportunist",
-      "phonetic": "",
-      "translation": "\u673a\u4f1a\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/ˌɑpərˈtunɪst/",
+      "translation": "机会主义者",
+      "sentence": "An opportunist is a person who places expediency above principle.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-port-port",
       "word": "port",
       "display": "Port",
-      "phonetic": "",
-      "translation": "\u6e2f\u53e3\uff1b\u59ff\u52bf",
-      "sentence": "",
+      "phonetic": "/pɔrt/",
+      "translation": "港口；姿势",
+      "sentence": "port the helm",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-port-portable",
       "word": "portable",
       "display": "Portable",
-      "phonetic": "",
-      "translation": "\u8f7b\u4fbf\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɔrtəbəl/",
+      "translation": "轻便的",
+      "sentence": "a portable television set",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-port-portage",
       "word": "portage",
       "display": "Portage",
-      "phonetic": "",
-      "translation": "\u642c\u8fd0",
-      "sentence": "",
+      "phonetic": "/ˈpɔrtɪʤ/",
+      "translation": "搬运",
+      "sentence": "A portage is the cost of carrying or transporting.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-port-purport",
       "word": "purport",
       "display": "Purport",
-      "phonetic": "",
-      "translation": "\u4e3b\u65e8\uff1b\u58f0\u79f0",
-      "sentence": "",
+      "phonetic": "/ˈpərˌpɔrt/",
+      "translation": "主旨；声称",
+      "sentence": "The letter purports to express people's opinion",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-port-report",
       "word": "report",
       "display": "Report",
-      "phonetic": "",
-      "translation": "\u62a5\u544a",
-      "sentence": "",
+      "phonetic": "/rɪˈpɔrt/",
+      "translation": "报告",
+      "sentence": "he heard reports that they were causing trouble",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-port-reportage",
       "word": "reportage",
       "display": "Reportage",
-      "phonetic": "",
-      "translation": "\u62a5\u9053",
-      "sentence": "",
+      "phonetic": "/rɪˈpɔrtɪʤ/",
+      "translation": "报道",
+      "sentence": "they accused the paper of biased coverage of race relations",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-port-sport",
       "word": "sport",
       "display": "Sport",
-      "phonetic": "",
-      "translation": "\u5a31\u4e50\uff1b\u8fd0\u52a8",
-      "sentence": "",
+      "phonetic": "/spɔrt/",
+      "translation": "娱乐；运动",
+      "sentence": "a good sport",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-port-support",
       "word": "support",
       "display": "Support",
-      "phonetic": "",
-      "translation": "\u652f\u6301\uff1b\u8d61\u517b",
-      "sentence": "",
+      "phonetic": "/səˈpɔrt/",
+      "translation": "支持；赡养",
+      "sentence": "his support kept the family together",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-port-transport",
       "word": "transport",
       "display": "Transport",
-      "phonetic": "",
-      "translation": "\u8fd0\u8f93\uff1b\u653e\u9010",
-      "sentence": "",
+      "phonetic": "/ˈtrænspɔrt/",
+      "translation": "运输；放逐",
+      "sentence": "listening to sweet music in a perfect rapture",
       "tags": [
         "root-family"
       ],
@@ -251,5 +251,6 @@
   "rootLevel": 2,
   "rootPath": "p>p-port",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

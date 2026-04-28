@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "f-other",
-  "root": "\u5176\u4ed6",
+  "root": "其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "f",
-  "rootLevel": 2,
-  "rootPath": "f>f-other",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "f-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

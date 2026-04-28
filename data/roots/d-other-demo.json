@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-demo",
-  "root": "demo\u4eba\u6c11",
+  "root": "demo人民",
   "meaning": "demo",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "人民",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-demo-demagogism",
       "word": "demagogism",
       "display": "Demagogism",
-      "phonetic": "",
-      "translation": "\u717d\u52a8\u884c\u4e3a",
-      "sentence": "",
+      "phonetic": "/dˈɛmʌgʌdʒɪsts/",
+      "translation": "煽动行为",
+      "sentence": "Demagogism is used here with the sense of \"煽动行为\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-demo-demagogue",
       "word": "demagogue",
       "display": "Demagogue",
-      "phonetic": "",
-      "translation": "\u717d\u52a8\u8005\uff08\u539f\u6c11\u4f17\u9886\u8896\uff0c\u540e\u86ca\u60d1\u6c11\u5fc3\u7684\u653f\u5ba2\uff09",
-      "sentence": "",
+      "phonetic": "/ˈdɛməˌgɑg/",
+      "translation": "煽动者（原民众领袖，后蛊惑民心的政客）",
+      "sentence": "A demagogue is a political leader who seeks support by appealing to popular passions and prejudices.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-demo-demagogy",
       "word": "demagogy",
       "display": "Demagogy",
-      "phonetic": "",
-      "translation": "\u717d\u52a8\u884c\u4e3a",
-      "sentence": "",
+      "phonetic": "/ˈdɛməˌgɑʤi/",
+      "translation": "煽动行为",
+      "sentence": "A demagogy is impassioned appeals to the prejudices and emotions of the populace.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-other-demo-democracy",
       "word": "democracy",
       "display": "Democracy",
-      "phonetic": "",
-      "translation": "\u6c11\u4e3b\u653f\u6743",
-      "sentence": "",
+      "phonetic": "/dɪˈmɑkrəsi/",
+      "translation": "民主政权",
+      "sentence": "A democracy is the political orientation of those who favor government by the people or by their elected representatives.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-other-demo-democrat",
       "word": "democrat",
       "display": "Democrat",
-      "phonetic": "",
-      "translation": "\u6c11\u4e3b\u4e3b\u4e49\u8005",
-      "sentence": "",
+      "phonetic": "/ˈdɛməˌkræt/",
+      "translation": "民主主义者",
+      "sentence": "A democrat is a member of the Democratic Party.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-other-demo-democratic",
       "word": "democratic",
       "display": "Democratic",
-      "phonetic": "",
-      "translation": "\u6c11\u4e3b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌdɛməˈkrætɪk/",
+      "translation": "民主的",
+      "sentence": "democratic government",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-other-demo-demography",
       "word": "demography",
       "display": "Demography",
-      "phonetic": "",
-      "translation": "\u4eba\u53e3\u7edf\u8ba1",
-      "sentence": "",
+      "phonetic": "/dɪˈmɑgrəfi/",
+      "translation": "人口统计",
+      "sentence": "A demography is the branch of sociology that studies the characteristics of human populations.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-other-demo-demonstrate",
       "word": "demonstrate",
       "display": "Demonstrate",
-      "phonetic": "",
-      "translation": "\u8bc1\u660e\uff1b\u6f14\u793a",
-      "sentence": "",
+      "phonetic": "/ˈdɛmənˌstreɪt/",
+      "translation": "证明；演示",
+      "sentence": "The experiment demonstrated the instability of the compound",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-other-demo-demos",
       "word": "demos",
       "display": "Demos",
-      "phonetic": "",
-      "translation": "\u6c11\u4f17\uff0c\u5927\u4f17",
-      "sentence": "",
+      "phonetic": "/ˈdɛˌmoʊz/",
+      "translation": "民众，大众",
+      "sentence": "the lecture was accompanied by dramatic demonstrations",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-other-demo-demotic",
       "word": "demotic",
       "display": "Demotic",
-      "phonetic": "",
-      "translation": "\u6c11\u4f17\u7684\uff1b\u901a\u4fd7\u7684",
-      "sentence": "",
+      "phonetic": "/dʌmˈɑtɪk/",
+      "translation": "民众的；通俗的",
+      "sentence": "Demotic script was eventually replaced by Greek",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-other-demo-endemic",
       "word": "endemic",
       "display": "Endemic",
-      "phonetic": "",
-      "translation": "\u5730\u65b9\u6027\u7684\uff1b\u5730\u65b9\u75c5",
-      "sentence": "",
+      "phonetic": "/ɛnˈdɛmɪk/",
+      "translation": "地方性的；地方病",
+      "sentence": "it is an endemic found only this island",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "d-other-demo-epidemic",
       "word": "epidemic",
       "display": "Epidemic",
-      "phonetic": "",
-      "translation": "\u6d41\u884c\u75c5",
-      "sentence": "",
+      "phonetic": "/ˌɛpɪˈdɛmɪk/",
+      "translation": "流行病",
+      "sentence": "an epidemic outbreak of influenza",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "d-other-demo-pandemic",
       "word": "pandemic",
       "display": "Pandemic",
-      "phonetic": "",
-      "translation": "\u5927\u6d41\u884c\u75c5\uff08pan=whole\uff09",
-      "sentence": "",
+      "phonetic": "/pænˈdɛmɪk/",
+      "translation": "大流行病（pan=whole）",
+      "sentence": "a pandemic outbreak of malaria",
       "tags": [
         "root-family"
       ],
@@ -167,5 +167,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-other>d-other-demo",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

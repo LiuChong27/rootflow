@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-noc",
-  "root": "noc=nox hurt, poison\u4f24\u5bb3",
+  "root": "noc=nox hurt, poison伤害",
   "meaning": "hurt, poison",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": ", poison伤害",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-noc-innocence",
       "word": "innocence",
       "display": "Innocence",
-      "phonetic": "",
-      "translation": "\u65e0\u7f6a\uff1b\u5355\u7eaf",
-      "sentence": "",
+      "phonetic": "/ˈɪnəsəns/",
+      "translation": "无罪；单纯",
+      "sentence": "the trial established his innocence",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-noc-innocency",
       "word": "innocency",
       "display": "Innocency",
-      "phonetic": "",
-      "translation": "\u6e05\u767d",
-      "sentence": "",
+      "phonetic": "/ˈɪnʌsʌnsi/",
+      "translation": "清白",
+      "sentence": "the innocencies of childhood",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-noc-innocent",
       "word": "innocent",
       "display": "Innocent",
-      "phonetic": "",
-      "translation": "\u65e0\u7f6a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪnəsənt/",
+      "translation": "无罪的",
+      "sentence": "an innocent child",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "n-noc-innocuity",
       "word": "innocuity",
       "display": "Innocuity",
-      "phonetic": "",
-      "translation": "\u65e0\u6bd2\u65e0\u5bb3",
-      "sentence": "",
+      "phonetic": "/ɪnˈɔkjuti/",
+      "translation": "无毒无害",
+      "sentence": "Innocuity is used here with the sense of \"无毒无害\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "n-noc-nocent",
       "word": "nocent",
       "display": "Nocent",
-      "phonetic": "",
-      "translation": "\u6709\u5bb3\u7684\uff1b\u4f24\u5bb3\u7684",
-      "sentence": "",
+      "phonetic": "/nˈoʊʃʌnt/",
+      "translation": "有害的；伤害的",
+      "sentence": "If something is nocent, it is having a tendency to cause harm.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "n-noc-nocuity",
       "word": "nocuity",
       "display": "Nocuity",
-      "phonetic": "",
-      "translation": "\u6709\u5bb3\u6027",
-      "sentence": "",
+      "phonetic": "/noʊkjˈuʌti/",
+      "translation": "有害性",
+      "sentence": "Nocuity is used here with the sense of \"有害性\".",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "n-noc-nocuous",
       "word": "nocuous",
       "display": "Nocuous",
-      "phonetic": "",
-      "translation": "\u6709\u5bb3\u7684",
-      "sentence": "",
+      "phonetic": "/nˈɑkjuʌs/",
+      "translation": "有害的",
+      "sentence": "Nocuous is used here with the sense of \"有害的\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "n-noc-noxious",
       "word": "noxious",
       "display": "Noxious",
-      "phonetic": "",
-      "translation": "\u6709\u5bb3\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnɑkʃəs/",
+      "translation": "有害的",
+      "sentence": "noxious chemical wastes",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-noc",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

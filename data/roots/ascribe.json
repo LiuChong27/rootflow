@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "ascribe",
   "root": "ascribe",
-  "meaning": "",
-  "descriptionCn": "\u5f52\u56e0\u4e8e",
-  "updatedAt": "2026-04-15",
+  "meaning": "ascribe family",
+  "descriptionCn": "归因于",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "ascribe-ascribe-2",
       "word": "ascribe",
       "display": "Ascribe",
-      "phonetic": "",
-      "translation": "\u5f52\u56e0\u4e8e",
-      "sentence": "",
+      "phonetic": "/əˈskraɪb/",
+      "translation": "归因于",
+      "sentence": "We attributed this quotation to Shakespeare",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>ascribe",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

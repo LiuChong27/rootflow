@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "aver",
   "root": "aver",
-  "meaning": "",
-  "descriptionCn": "\u58f0\u79f0\uff1b\u65ad\u8a00",
-  "updatedAt": "2026-04-15",
+  "meaning": "aver family",
+  "descriptionCn": "声称；断言",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "aver-aver-2",
       "word": "aver",
       "display": "Aver",
-      "phonetic": "",
-      "translation": "\u58f0\u79f0\uff1b\u65ad\u8a00",
-      "sentence": "",
+      "phonetic": "/ˈeɪvər/",
+      "translation": "声称；断言",
+      "sentence": "He alleged that he was the victim of a crime",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-a-an>aver",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-grad",
-  "root": "grad=step\u6b65",
+  "root": "grad=step步",
   "meaning": "grad",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "步",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-grad-grandsire",
       "word": "grandsire",
       "display": "Grandsire",
-      "phonetic": "",
-      "translation": "\u7956\u5148",
-      "sentence": "",
+      "phonetic": "/grˈændsˈaɪr/",
+      "translation": "祖先",
+      "sentence": "Grandsire is used here with the sense of \"祖先\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-grad-grannie",
       "word": "grannie",
       "display": "Grannie",
-      "phonetic": "",
-      "translation": "\u7956\u6bcd",
-      "sentence": "",
+      "phonetic": "/grˈæni/",
+      "translation": "祖母",
+      "sentence": "A grannie is the mother of your father or mother.",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-grad",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

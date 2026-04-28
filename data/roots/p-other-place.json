@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "p-other-place",
-  "root": "P\u5730\u70b9place",
+  "root": "P地点place",
   "meaning": "place",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "地点place",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "p-other",
-  "rootLevel": 3,
-  "rootPath": "p>p-other>p-other-place",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "p-other-place",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

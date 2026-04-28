@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-negr",
-  "root": "negr=nigr=black\u9ed1",
+  "root": "negr=nigr=black黑",
   "meaning": "black",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "黑",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-negr-negro",
       "word": "negro",
       "display": "Negro",
-      "phonetic": "",
-      "translation": "\u9ed1\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈnigroʊ/",
+      "translation": "黑人",
+      "sentence": "A negro is a person with dark skin who comes from Africa (or whose ancestors came from Africa).",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-negr-night",
       "word": "night",
       "display": "Night",
-      "phonetic": "",
-      "translation": "\u591c\u665a",
-      "sentence": "",
+      "phonetic": "/naɪt/",
+      "translation": "夜晚",
+      "sentence": "I had a restless night",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-negr-nightmare",
       "word": "nightmare",
       "display": "Nightmare",
-      "phonetic": "",
-      "translation": "\u5669\u68a6",
-      "sentence": "",
+      "phonetic": "/ˈnaɪtˌmɛr/",
+      "translation": "噩梦",
+      "sentence": "A nightmare is a situation resembling a terrifying dream.",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-negr",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

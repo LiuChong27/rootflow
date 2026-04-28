@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "auspice",
   "root": "auspice",
-  "meaning": "",
-  "descriptionCn": "\u9884\u5146",
-  "updatedAt": "2026-04-15",
+  "meaning": "auspice family",
+  "descriptionCn": "预兆",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "auspice-auspice-2",
       "word": "auspice",
       "display": "Auspice",
-      "phonetic": "",
-      "translation": "\u9884\u5146",
-      "sentence": "",
+      "phonetic": "/ˈɔspɪs/",
+      "translation": "预兆",
+      "sentence": "An auspice is a favorable omen.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>avi>auspice",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

@@ -1,0 +1,9 @@
+{
+  "name": "getUserSnapshot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow uniCloud user snapshot function",
+  "dependencies": {
+    "rootflow-shared": "file:../common/rootflow-shared"
+  }
+}

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cord-cor-corpor",
-  "root": "corpor\u8eab\u4f53",
+  "root": "corpor身体",
   "meaning": "body",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "身体",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cord-cor-heart-corpor-corporate",
       "word": "corporate",
       "display": "Corporate",
-      "phonetic": "",
-      "translation": "\u793e\u56e2\u7684\uff1b\u5168\u4f53\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkɔrpərət/",
+      "translation": "社团的；全体的",
+      "sentence": "corporate rates",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cord-cor-heart-corpor-incorporate",
       "word": "incorporate",
       "display": "Incorporate",
-      "phonetic": "",
-      "translation": "\u7f16\u5165\uff1b\u5408\u5e76",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈkɔrpərˌeɪt/",
+      "translation": "编入；合并",
+      "sentence": "She incorporated his suggestions into her proposal",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-cord-cor-heart>c-cord-cor-corpor",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

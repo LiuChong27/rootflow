@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-other-fict",
-  "root": "fict=fig\u5851\u9020\u865a\u6784",
+  "root": "fict=fig塑造虚构",
   "meaning": "fict",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "塑造虚构",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-other-fict-configuration",
       "word": "configuration",
       "display": "Configuration",
-      "phonetic": "",
-      "translation": "\u6784\u9020",
-      "sentence": "",
+      "phonetic": "/kənˌfɪgjərˈeɪʃən/",
+      "translation": "构造",
+      "sentence": "the outcome depends on the configuration of influences at the time",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-other-fict-configure",
       "word": "configure",
       "display": "Configure",
-      "phonetic": "",
-      "translation": "\u914d\u7f6e\uff1b\u8bbe\u5b9a",
-      "sentence": "",
+      "phonetic": "/kənˈfɪgjər/",
+      "translation": "配置；设定",
+      "sentence": "configure my new computer",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-other-fict-disfigure",
       "word": "disfigure",
       "display": "Disfigure",
-      "phonetic": "",
-      "translation": "\u4f7f\u53d8\u4e11",
-      "sentence": "",
+      "phonetic": "/dɪsˈfɪgjər/",
+      "translation": "使变丑",
+      "sentence": "The vandals disfigured the statue",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-other-fict-effigy",
       "word": "effigy",
       "display": "Effigy",
-      "phonetic": "",
-      "translation": "\u8096\u50cf",
-      "sentence": "",
+      "phonetic": "/ˈɛfɪʤi/",
+      "translation": "肖像",
+      "sentence": "the coin bears an effigy of Lincoln",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-other-fict-feign",
       "word": "feign",
       "display": "Feign",
-      "phonetic": "",
-      "translation": "\u5047\u88c5",
-      "sentence": "",
+      "phonetic": "/feɪn/",
+      "translation": "假装",
+      "sentence": "He feigned that he was ill",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-other-fict-feint",
       "word": "feint",
       "display": "Feint",
-      "phonetic": "",
-      "translation": "\u5047\u8c61",
-      "sentence": "",
+      "phonetic": "/feɪnt/",
+      "translation": "假象",
+      "sentence": "The midfielder feinted to shoot",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-other-fict-fictile",
       "word": "fictile",
       "display": "Fictile",
-      "phonetic": "",
-      "translation": "\u5851\u9020\u7684\u53ef\u5851\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/fˈɪktɪl/",
+      "translation": "塑造的可塑性的",
+      "sentence": "the fictile art",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-other-fict-fiction",
       "word": "fiction",
       "display": "Fiction",
-      "phonetic": "",
-      "translation": "\u865a\u6784\uff1b\u5c0f\u8bf4",
-      "sentence": "",
+      "phonetic": "/ˈfɪkʃən/",
+      "translation": "虚构；小说",
+      "sentence": "A fiction is a literary work based on the imagination and not necessarily on fact.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "f-other-fict-fictional",
       "word": "fictional",
       "display": "Fictional",
-      "phonetic": "",
-      "translation": "\u865a\u6784\u7684\uff1b\u5c0f\u8bf4\u7684",
-      "sentence": "",
+      "phonetic": "/ˈfɪkʃənəl/",
+      "translation": "虚构的；小说的",
+      "sentence": "clever fictional devices",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "f-other-fict-fictionalize",
       "word": "fictionalize",
       "display": "Fictionalize",
-      "phonetic": "",
-      "translation": "\u4f7f\u5c0f\u8bf4\u5316",
-      "sentence": "",
+      "phonetic": "/ˈfɪkʃənəˌlaɪz/",
+      "translation": "使小说化",
+      "sentence": "The writer fictionalized the lives of his parents in his latest novel",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "f-other-fict-fictionist",
       "word": "fictionist",
       "display": "Fictionist",
-      "phonetic": "",
-      "translation": "\u5c0f\u8bf4\u5bb6",
-      "sentence": "",
+      "phonetic": "/fˈɪkʃʌnɪst/",
+      "translation": "小说家",
+      "sentence": "Fictionist is used here with the sense of \"小说家\".",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "f-other-fict-fictitious",
       "word": "fictitious",
       "display": "Fictitious",
-      "phonetic": "",
-      "translation": "\u865a\u6784\u7684",
-      "sentence": "",
+      "phonetic": "/fɪkˈtɪʃəs/",
+      "translation": "虚构的",
+      "sentence": "a fictitious address",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "f-other-fict-fictive",
       "word": "fictive",
       "display": "Fictive",
-      "phonetic": "",
-      "translation": "\u865a\u6784\u7684",
-      "sentence": "",
+      "phonetic": "/fˈɪktɪv/",
+      "translation": "虚构的",
+      "sentence": "fictive sympathy",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "f-other-fict-figment",
       "word": "figment",
       "display": "Figment",
-      "phonetic": "",
-      "translation": "\u865a\u6784\u7684\u4e8b",
-      "sentence": "",
+      "phonetic": "/ˈfɪgmɪnt/",
+      "translation": "虚构的事",
+      "sentence": "a figment of the imagination",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "f-other-fict-figuration",
       "word": "figuration",
       "display": "Figuration",
-      "phonetic": "",
-      "translation": "\u5b9a\u5f62",
-      "sentence": "",
+      "phonetic": "/ˌfɪgjərˈeɪʃən/",
+      "translation": "定形",
+      "sentence": "A figuration is representing figuratively as by emblem or allegory.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "f-other-fict-figurative",
       "word": "figurative",
       "display": "Figurative",
-      "phonetic": "",
-      "translation": "\u6bd4\u55bb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈfɪgjərətɪv/",
+      "translation": "比喻的",
+      "sentence": "figurative language",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "f-other-fict-figure",
       "word": "figure",
       "display": "Figure",
-      "phonetic": "",
-      "translation": "\u8f6e\u5ed3\uff1b\u6570\u5b57\uff1b\u5f62\u72b6",
-      "sentence": "",
+      "phonetic": "/ˈfɪgjər/",
+      "translation": "轮廓；数字；形状",
+      "sentence": "the area covered can be seen from Figure 2",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "f-other-fict-nonfiction",
       "word": "nonfiction",
       "display": "Nonfiction",
-      "phonetic": "",
-      "translation": "\u975e\u5c0f\u8bf4\u7684\u6563\u6587\u6587\u5b66",
-      "sentence": "",
+      "phonetic": "/nɑnˈfɪkʃən/",
+      "translation": "非小说的散文文学",
+      "sentence": "A nonfiction is prose writing that is not fictional.",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "f-other-fict-prefigure",
       "word": "prefigure",
       "display": "Prefigure",
-      "phonetic": "",
-      "translation": "\u9884\u60f3",
-      "sentence": "",
+      "phonetic": "/prˈɛfɪgɚ/",
+      "translation": "预想",
+      "sentence": "It wasn't as bad as I had prefigured",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "f-other-fict-transfigure",
       "word": "transfigure",
       "display": "Transfigure",
-      "phonetic": "",
-      "translation": "\u4f7f\u53d8\u5f62",
-      "sentence": "",
+      "phonetic": "/trænsfˈɪgɚ/",
+      "translation": "使变形",
+      "sentence": "The treatment and diet transfigured her into a beautiful young woman",
       "tags": [
         "root-family"
       ],
@@ -251,5 +251,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-other>f-other-fict",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

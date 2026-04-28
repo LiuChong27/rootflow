@@ -3,16 +3,16 @@
   "rootId": "f-fac-fac",
   "root": "fac=fair=feat=fit=f'ect=f'ic=fic",
   "meaning": "fac",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "fac",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-fac-fac-affair",
       "word": "affair",
       "display": "Affair",
-      "phonetic": "",
-      "translation": "\u4e8b\u52a1",
-      "sentence": "",
+      "phonetic": "/əˈfɛr/",
+      "translation": "事务",
+      "sentence": "it is none of your affair",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-fac-fac-affect",
       "word": "affect",
       "display": "Affect",
-      "phonetic": "",
-      "translation": "\u5f71\u54cd\uff1b\u611f\u52a8",
-      "sentence": "",
+      "phonetic": "/əˈfɛkt/",
+      "translation": "影响；感动",
+      "sentence": "Will the new rules affect me?",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-fac-fac-affectation",
       "word": "affectation",
       "display": "Affectation",
-      "phonetic": "",
-      "translation": "\u7231\uff1b\u60c5\u611f",
-      "sentence": "",
+      "phonetic": "/ˌæfɛkˈteɪʃən/",
+      "translation": "爱；情感",
+      "sentence": "An affectation is a deliberate pretense or exaggerated display.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-fac-fac-affection",
       "word": "affection",
       "display": "Affection",
-      "phonetic": "",
-      "translation": "\u5047\u88c5",
-      "sentence": "",
+      "phonetic": "/əˈfɛkʃən/",
+      "translation": "假装",
+      "sentence": "he had trouble expressing the affection he felt",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-fac-fac-affectionate",
       "word": "affectionate",
       "display": "Affectionate",
-      "phonetic": "",
-      "translation": "\u4eb2\u7231\u7684",
-      "sentence": "",
+      "phonetic": "/əˈfɛkʃənət/",
+      "translation": "亲爱的",
+      "sentence": "affectionate children",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-fac-fac-beneficent",
       "word": "beneficent",
       "display": "Beneficent",
-      "phonetic": "",
-      "translation": "\u4ec1\u6148\u7684",
-      "sentence": "",
+      "phonetic": "/ˌbɛnəˈfɪʃənt/",
+      "translation": "仁慈的",
+      "sentence": "the most beneficent regime in history",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-fac-fac-benefit",
       "word": "benefit",
       "display": "Benefit",
-      "phonetic": "",
-      "translation": "\u597d\u5904",
-      "sentence": "",
+      "phonetic": "/ˈbɛnəfɪt/",
+      "translation": "好处",
+      "sentence": "for the benefit of all",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-fac-fac-confection",
       "word": "confection",
       "display": "Confection",
-      "phonetic": "",
-      "translation": "\u7cd6\u679c\uff1b\u5236\u9020",
-      "sentence": "",
+      "phonetic": "/kənˈfɛkʃən/",
+      "translation": "糖果；制造",
+      "sentence": "This medicine is home-confected",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "f-fac-fac-counterfeit",
       "word": "counterfeit",
       "display": "Counterfeit",
-      "phonetic": "",
-      "translation": "\u8d5d\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈkaʊnərˌfɪt/",
+      "translation": "赝品",
+      "sentence": "they counterfeited dollar bills",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "f-fac-fac-defeat",
       "word": "defeat",
       "display": "Defeat",
-      "phonetic": "",
-      "translation": "\u51fb\u8d25",
-      "sentence": "",
+      "phonetic": "/dɪˈfit/",
+      "translation": "击败",
+      "sentence": "it was a narrow defeat",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "f-fac-fac-defect",
       "word": "defect",
       "display": "Defect",
-      "phonetic": "",
-      "translation": "\u7f3a\u70b9\uff1b\u53db\u53d8",
-      "sentence": "",
+      "phonetic": "/ˈdifɛkt/",
+      "translation": "缺点；叛变",
+      "sentence": "visual defects",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "f-fac-fac-deficient",
       "word": "deficient",
       "display": "Deficient",
-      "phonetic": "",
-      "translation": "\u7f3a\u4e4f\u7684\uff1b\u4e0d\u8db3\u7684",
-      "sentence": "",
+      "phonetic": "/dɪˈfɪʃənt/",
+      "translation": "缺乏的；不足的",
+      "sentence": "a deficient education",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "f-fac-fac-difficult",
       "word": "difficult",
       "display": "Difficult",
-      "phonetic": "",
-      "translation": "\u56f0\u96be\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɪfəkəlt/",
+      "translation": "困难的",
+      "sentence": "a difficult task",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "f-fac-fac-effect",
       "word": "effect",
       "display": "Effect",
-      "phonetic": "",
-      "translation": "\u6548\u679c\uff1b\u5f71\u54cd",
-      "sentence": "",
+      "phonetic": "/ˈifɛkt/",
+      "translation": "效果；影响",
+      "sentence": "the magnetic effect was greater when the rod was lengthwise",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "f-fac-fac-efficacious",
       "word": "efficacious",
       "display": "Efficacious",
-      "phonetic": "",
-      "translation": "\u6709\u6548\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɛfəˈkeɪʃəs/",
+      "translation": "有效的",
+      "sentence": "written propaganda is less efficacious than the habits and prejudices...of the readers",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "f-fac-fac-efficiency",
       "word": "efficiency",
       "display": "Efficiency",
-      "phonetic": "",
-      "translation": "\u9ad8\u6548\u7684",
-      "sentence": "",
+      "phonetic": "/ɪˈfɪʃənsi/",
+      "translation": "高效的",
+      "sentence": "she did the work with great efficiency",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "f-fac-fac-facile",
       "word": "facile",
       "display": "Facile",
-      "phonetic": "",
-      "translation": "\u5bb9\u6613\u505a\u5230\u7684",
-      "sentence": "",
+      "phonetic": "/ˈfæsəl/",
+      "translation": "容易做到的",
+      "sentence": "too facile a solution for so complex a problem",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "f-fac-fac-facilitate",
       "word": "facilitate",
       "display": "Facilitate",
-      "phonetic": "",
-      "translation": "\u4f7f\u5bb9\u6613",
-      "sentence": "",
+      "phonetic": "/fəˈsɪləˌteɪt/",
+      "translation": "使容易",
+      "sentence": "you could facilitate the process by sharing your knowledge",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "f-fac-fac-facility",
       "word": "facility",
       "display": "Facility",
-      "phonetic": "",
-      "translation": "\u719f\u7ec3\uff1b\u8bbe\u5907",
-      "sentence": "",
+      "phonetic": "/fəˈsɪlɪti/",
+      "translation": "熟练；设备",
+      "sentence": "the assembly plant is an enormous facility",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "f-fac-fac-faction",
       "word": "faction",
       "display": "Faction",
-      "phonetic": "",
-      "translation": "\u5c0f\u96c6\u56e2",
-      "sentence": "",
+      "phonetic": "/ˈfækʃən/",
+      "translation": "小集团",
+      "sentence": "A faction is a clique (often secret) that seeks power usually through intrigue.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "f-fac-fac-factor",
       "word": "factor",
       "display": "Factor",
-      "phonetic": "",
-      "translation": "\u56e0\u7d20",
-      "sentence": "",
+      "phonetic": "/ˈfæktər/",
+      "translation": "因素",
+      "sentence": "a number of factors determined the outcome",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "f-fac-fac-factory",
       "word": "factory",
       "display": "Factory",
-      "phonetic": "",
-      "translation": "\u5de5\u5382",
-      "sentence": "",
+      "phonetic": "/ˈfæktəri/",
+      "translation": "工厂",
+      "sentence": "A factory is a plant consisting of one or more buildings with facilities for manufacturing.",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "f-fac-fac-faculty",
       "word": "faculty",
       "display": "Faculty",
-      "phonetic": "",
-      "translation": "\u624d\u80fd",
-      "sentence": "",
+      "phonetic": "/ˈfækəlti/",
+      "translation": "才能",
+      "sentence": "the dean addressed the letter to the entire staff of the university",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "f-fac-fac-feat",
       "word": "feat",
       "display": "Feat",
-      "phonetic": "",
-      "translation": "\u6280\u827a\uff1b\u529f\u7ee9\uff1b\u58ee\u4e3e",
-      "sentence": "",
+      "phonetic": "/fiːt/",
+      "translation": "技艺；功绩；壮举",
+      "sentence": "he performed a great feat",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "f-fac-fac-feature",
       "word": "feature",
       "display": "Feature",
-      "phonetic": "",
-      "translation": "\u7279\u5f81\uff1b\u5bb9\u8c8c",
-      "sentence": "",
+      "phonetic": "/ˈfiʧər/",
+      "translation": "特征；容貌",
+      "sentence": "the map showed roads and other features",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "f-fac-fac-forfeit",
       "word": "forfeit",
       "display": "Forfeit",
-      "phonetic": "",
-      "translation": "\u7f5a\u91d1",
-      "sentence": "",
+      "phonetic": "/ˈfɔrfɪt/",
+      "translation": "罚金",
+      "sentence": "the contract specified forfeits if the work was not completed on time",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "f-fac-fac-infect",
       "word": "infect",
       "display": "Infect",
-      "phonetic": "",
-      "translation": "\u4f20\u67d3\uff1b\u611f\u67d3",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈfɛkt/",
+      "translation": "传染；感染",
+      "sentence": "Your children have infected you with this head cold",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "f-fac-fac-magnificence",
       "word": "magnificence",
       "display": "Magnificence",
-      "phonetic": "",
-      "translation": "\u534e\u4e3d",
-      "sentence": "",
+      "phonetic": "/mægnˈɪfʌsʌn/",
+      "translation": "华丽",
+      "sentence": "for magnificence and personal service there is the Queen's hotel",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "f-fac-fac-magnificent",
       "word": "magnificent",
       "display": "Magnificent",
-      "phonetic": "",
-      "translation": "\u534e\u4e3d\u7684",
-      "sentence": "",
+      "phonetic": "/mægˈnɪfɪsənt/",
+      "translation": "华丽的",
+      "sentence": "magnificent cathedrals",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "f-fac-fac-malefaction",
       "word": "malefaction",
       "display": "Malefaction",
-      "phonetic": "",
-      "translation": "\u574f\u4e8b\uff1b\u7f6a\u884c",
-      "sentence": "",
+      "phonetic": "/mˌælɪfˈækʃʌn/",
+      "translation": "坏事；罪行",
+      "sentence": "Malefaction is used here with the sense of \"坏事；罪行\".",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "f-fac-fac-manufacture",
       "word": "manufacture",
       "display": "Manufacture",
-      "phonetic": "",
-      "translation": "\u5236\u9020",
-      "sentence": "",
+      "phonetic": "/ˌmænjəˈfækʧər/",
+      "translation": "制造",
+      "sentence": "an improvement in the manufacture of explosives",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "f-fac-fac-perfect",
       "word": "perfect",
       "display": "Perfect",
-      "phonetic": "",
-      "translation": "\u5b8c\u7f8e\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpərˌfɪkt/",
+      "translation": "完美的",
+      "sentence": "perfect your French in Paris!",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "f-fac-fac-profit",
       "word": "profit",
       "display": "Profit",
-      "phonetic": "",
-      "translation": "\u5229\u6da6\uff1b\u6709\u5229\u4e8e",
-      "sentence": "",
+      "phonetic": "/ˈprɑfɪt/",
+      "translation": "利润；有利于",
+      "sentence": "She profited from his vast experience",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "f-fac-fac-sacrifice",
       "word": "sacrifice",
       "display": "Sacrifice",
-      "phonetic": "",
-      "translation": "\u727a\u7272",
-      "sentence": "",
+      "phonetic": "/ˈsækrəˌfaɪs/",
+      "translation": "牺牲",
+      "sentence": "he had to sell his car at a considerable sacrifice",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "f-fac-fac-suffice",
       "word": "suffice",
       "display": "Suffice",
-      "phonetic": "",
-      "translation": "\u4f7f\u6ee1\u8db3",
-      "sentence": "",
+      "phonetic": "/səˈfaɪs/",
+      "translation": "使满足",
+      "sentence": "A 'B' grade doesn't suffice to get me into medical school",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "f-fac-fac-sufficient",
       "word": "sufficient",
       "display": "Sufficient",
-      "phonetic": "",
-      "translation": "\u5145\u8db3\u7684",
-      "sentence": "",
+      "phonetic": "/səˈfɪʃənt/",
+      "translation": "充足的",
+      "sentence": "sufficient food",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "f-fac-fac-surfeit",
       "word": "surfeit",
       "display": "Surfeit",
-      "phonetic": "",
-      "translation": "\u8fc7\u5ea6",
-      "sentence": "",
+      "phonetic": "/ˈsərfət/",
+      "translation": "过度",
+      "sentence": "A surfeit is the state of being more than full.",
       "tags": [
         "root-family"
       ],
@@ -455,5 +455,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-fac>f-fac-fac",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

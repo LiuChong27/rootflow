@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "t-text",
   "root": "text",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "text",
+  "descriptionCn": "text",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "t-text-test",
       "word": "test",
       "display": "Test",
-      "phonetic": "",
-      "translation": "\u6d4b\u9a8c",
-      "sentence": "",
+      "phonetic": "/tɛst/",
+      "translation": "测验",
+      "sentence": "the test was standardized on a large sample of students",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "t-text-testify",
       "word": "testify",
       "display": "Testify",
-      "phonetic": "",
-      "translation": "\u8bc1\u660e",
-      "sentence": "",
+      "phonetic": "/ˈtɛstɪˌfaɪ/",
+      "translation": "证明",
+      "sentence": "The blood test showed that he was the father",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "t-text-testimony",
       "word": "testimony",
       "display": "Testimony",
-      "phonetic": "",
-      "translation": "\u8bc1\u636e",
-      "sentence": "",
+      "phonetic": "/ˈtɛstɪˌmoʊni/",
+      "translation": "证据",
+      "sentence": "according to his own testimony he can't do it",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "t-text-textbook",
       "word": "textbook",
       "display": "Textbook",
-      "phonetic": "",
-      "translation": "\u6559\u79d1\u4e66",
-      "sentence": "",
+      "phonetic": "/ˈtɛkstˌbʊk/",
+      "translation": "教科书",
+      "sentence": "his economics textbook is in its tenth edition",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "t-text-textile",
       "word": "textile",
       "display": "Textile",
-      "phonetic": "",
-      "translation": "\u7eba\u7ec7\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈtɛkˌstaɪl/",
+      "translation": "纺织品",
+      "sentence": "textile research",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "t-text-texture",
       "word": "texture",
       "display": "Texture",
-      "phonetic": "",
-      "translation": "\u8d28\u5730",
-      "sentence": "",
+      "phonetic": "/ˈtɛksʧər/",
+      "translation": "质地",
+      "sentence": "the wall had a smooth texture",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "t-text-thesis",
       "word": "thesis",
       "display": "Thesis",
-      "phonetic": "",
-      "translation": "\u8bba\u6587",
-      "sentence": "",
+      "phonetic": "/ˈθiˌsɪs/",
+      "translation": "论文",
+      "sentence": "Thesis refers to an unproved statement put forward as a premise in an argument.",
       "tags": [
         "root-family"
       ],
@@ -92,8 +92,9 @@
     }
   ],
   "parentRootId": "t",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "t>t-text",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

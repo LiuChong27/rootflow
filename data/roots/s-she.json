@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-she",
-  "root": "\u5979--\u5bb3\u7f9e--\u9634\u5f71--\u53d1\u5149--\u907f\u96be\u6240",
+  "root": "她--害羞--阴影--发光--避难所",
   "meaning": "she, shy, shadow, shine, shelter",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "她--害羞--阴影--发光--避难所",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-she-shabby",
       "word": "shabby",
       "display": "Shabby",
-      "phonetic": "",
-      "translation": "\u7b80\u964b\u7684",
-      "sentence": "",
+      "phonetic": "/ˈʃæbi/",
+      "translation": "简陋的",
+      "sentence": "shabby furniture",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-she-shaby",
       "word": "shaby",
       "display": "Shaby",
-      "phonetic": "",
-      "translation": "\u6210\u836b\u7684",
-      "sentence": "",
+      "phonetic": "/ʃˈeɪbi/",
+      "translation": "成荫的",
+      "sentence": "Shaby is used here with the sense of \"成荫的\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-she-shade",
       "word": "shade",
       "display": "Shade",
-      "phonetic": "",
-      "translation": "\u9634\u5f71",
-      "sentence": "",
+      "phonetic": "/ʃeɪd/",
+      "translation": "阴影",
+      "sentence": "it is much cooler in the shade",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-she-shadow",
       "word": "shadow",
       "display": "Shadow",
-      "phonetic": "",
-      "translation": "\u9634\u5f71",
-      "sentence": "",
+      "phonetic": "/ˈʃæˌdoʊ/",
+      "translation": "阴影",
+      "sentence": "a shadow over his happiness",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-she-shaft",
       "word": "shaft",
       "display": "Shaft",
-      "phonetic": "",
-      "translation": "\u8f74\uff1b\u6746\u72b6\u7269",
-      "sentence": "",
+      "phonetic": "/ʃæft/",
+      "translation": "轴；杆状物",
+      "sentence": "she threw shafts of sarcasm",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-she-shake",
       "word": "shake",
       "display": "Shake",
-      "phonetic": "",
-      "translation": "\u98a4\u6296",
-      "sentence": "",
+      "phonetic": "/ʃeɪk/",
+      "translation": "颤抖",
+      "sentence": "my faith has been shaken",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-she-sham",
       "word": "sham",
       "display": "Sham",
-      "phonetic": "",
-      "translation": "\u5047\u5192\u7684",
-      "sentence": "",
+      "phonetic": "/ʃæm/",
+      "translation": "假冒的",
+      "sentence": "He shammed a headache",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-she-shame",
       "word": "shame",
       "display": "Shame",
-      "phonetic": "",
-      "translation": "\u7f9e\u803b",
-      "sentence": "",
+      "phonetic": "/ʃeɪm/",
+      "translation": "羞耻",
+      "sentence": "one mistake brought shame to all his family",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-she-shed",
       "word": "shed",
       "display": "Shed",
-      "phonetic": "",
-      "translation": "\u5c0f\u5c4b\uff1b\u8131\u843d",
-      "sentence": "",
+      "phonetic": "/ʃɛd/",
+      "translation": "小屋；脱落",
+      "sentence": "he shed his image as a pushy boss",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-she-sheer",
       "word": "sheer",
       "display": "Sheer",
-      "phonetic": "",
-      "translation": "\u9661\u5ced\u7684",
-      "sentence": "",
+      "phonetic": "/ʃɪr/",
+      "translation": "陡峭的",
+      "sentence": "She sheered her car around the obstacle",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-she-shelter",
       "word": "shelter",
       "display": "Shelter",
-      "phonetic": "",
-      "translation": "\u63a9\u853d",
-      "sentence": "",
+      "phonetic": "/ˈʃɛltər/",
+      "translation": "掩蔽",
+      "sentence": "After the earthquake, the government could not provide shelter for the thousands of homeless people",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-she-shiver",
       "word": "shiver",
       "display": "Shiver",
-      "phonetic": "",
-      "translation": "\u98a4\u6296",
-      "sentence": "",
+      "phonetic": "/ˈʃɪvər/",
+      "translation": "颤抖",
+      "sentence": "The children are shivering--turn on the heat!",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-she-shock",
       "word": "shock",
       "display": "Shock",
-      "phonetic": "",
-      "translation": "\u9707\u52a8\uff1b\u9707\u60ca",
-      "sentence": "",
+      "phonetic": "/ʃɑk/",
+      "translation": "震动；震惊",
+      "sentence": "he was numb with shock",
       "tags": [
         "root-family"
       ],
@@ -167,5 +167,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-she",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

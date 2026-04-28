@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-numer",
-  "root": "numer=number\u6570",
+  "root": "numer=number数",
   "meaning": "number",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "数",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-numer-numb",
       "word": "numb",
       "display": "Numb",
-      "phonetic": "",
-      "translation": "\u9ebb\u6728\u7684",
-      "sentence": "",
+      "phonetic": "/nəm/",
+      "translation": "麻木的",
+      "sentence": "The shock numbed her senses",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-numer-numerical",
       "word": "numerical",
       "display": "Numerical",
-      "phonetic": "",
-      "translation": "\u6570\u5b57\u7684",
-      "sentence": "",
+      "phonetic": "/nuˈmɛrɪkəl/",
+      "translation": "数字的",
+      "sentence": "numerical value",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-numer-numerous",
       "word": "numerous",
       "display": "Numerous",
-      "phonetic": "",
-      "translation": "\u4f17\u591a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈnumərəs/",
+      "translation": "众多的",
+      "sentence": "numerous times",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-numer",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

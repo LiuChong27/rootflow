@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "w",
   "root": "W",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "W root map",
+  "descriptionCn": "W",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "w-wage",
       "word": "wage",
       "display": "Wage",
-      "phonetic": "",
-      "translation": "\u5de5\u8d44",
-      "sentence": "",
+      "phonetic": "/weɪʤ/",
+      "translation": "工资",
+      "sentence": "wages were paid by check",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "w-wagon",
       "word": "wagon",
       "display": "Wagon",
-      "phonetic": "",
-      "translation": "\u8d27\u8fd0\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈwægən/",
+      "translation": "货运车",
+      "sentence": "A wagon is any of various kinds of wheeled vehicles drawn by an animal or a tractor.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "w-waist",
       "word": "waist",
       "display": "Waist",
-      "phonetic": "",
-      "translation": "\u8170\u90e8",
-      "sentence": "",
+      "phonetic": "/weɪst/",
+      "translation": "腰部",
+      "sentence": "A waist is the narrowing of the body between the ribs and hips.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "w-wake",
       "word": "wake",
       "display": "Wake",
-      "phonetic": "",
-      "translation": "\u5524\u9192",
-      "sentence": "",
+      "phonetic": "/weɪk/",
+      "translation": "唤醒",
+      "sentence": "in the wake of the accident no one knew how many had been injured",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "w-waken",
       "word": "waken",
       "display": "Waken",
-      "phonetic": "",
-      "translation": "\u5f04\u9192",
-      "sentence": "",
+      "phonetic": "/ˈweɪkən/",
+      "translation": "弄醒",
+      "sentence": "He was roused by the drunken men in the street",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "w-wallet",
       "word": "wallet",
       "display": "Wallet",
-      "phonetic": "",
-      "translation": "\u94b1\u5305",
-      "sentence": "",
+      "phonetic": "/ˈwɔlət/",
+      "translation": "钱包",
+      "sentence": "A wallet is a pocket-size case for holding papers and paper money.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "w-wander",
       "word": "wander",
       "display": "Wander",
-      "phonetic": "",
-      "translation": "\u6f2b\u6b65",
-      "sentence": "",
+      "phonetic": "/ˈwɑndər/",
+      "translation": "漫步",
+      "sentence": "the wandering Jew",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "w-war",
       "word": "war",
       "display": "War",
-      "phonetic": "",
-      "translation": "\u6218\u4e89",
-      "sentence": "",
+      "phonetic": "/wɔr/",
+      "translation": "战争",
+      "sentence": "thousands of people were killed in the war",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "w-ward",
       "word": "ward",
       "display": "Ward",
-      "phonetic": "",
-      "translation": "\u75c5\u623f",
-      "sentence": "",
+      "phonetic": "/wɔrd/",
+      "translation": "病房",
+      "sentence": "they put her in a 4-bed ward",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "w-wardrobe",
       "word": "wardrobe",
       "display": "Wardrobe",
-      "phonetic": "",
-      "translation": "\u8863\u67dc",
-      "sentence": "",
+      "phonetic": "/ˈwɔrˌdroʊb/",
+      "translation": "衣柜",
+      "sentence": "A wardrobe is a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "w-warehouse",
       "word": "warehouse",
       "display": "Warehouse",
-      "phonetic": "",
-      "translation": "\u4ed3\u5e93",
-      "sentence": "",
+      "phonetic": "/ˈwɛˌrhaʊs/",
+      "translation": "仓库",
+      "sentence": "A warehouse is a storehouse for goods and merchandise.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "w-warfare",
       "word": "warfare",
       "display": "Warfare",
-      "phonetic": "",
-      "translation": "\u6218\u4e89",
-      "sentence": "",
+      "phonetic": "/ˈwɔrˌfɛr/",
+      "translation": "战争",
+      "sentence": "diplomatic warfare",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "w-warm",
       "word": "warm",
       "display": "Warm",
-      "phonetic": "",
-      "translation": "\u6e29\u6696\u7684",
-      "sentence": "",
+      "phonetic": "/wɔrm/",
+      "translation": "温暖的",
+      "sentence": "The soup warmed slowly on the stove",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "w-warmth",
       "word": "warmth",
       "display": "Warmth",
-      "phonetic": "",
-      "translation": "\u6e29\u6696",
-      "sentence": "",
+      "phonetic": "/wɔrmθ/",
+      "translation": "温暖",
+      "sentence": "an agreeable warmth in the house",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "w-warn",
       "word": "warn",
       "display": "Warn",
-      "phonetic": "",
-      "translation": "\u8b66\u544a",
-      "sentence": "",
+      "phonetic": "/wɔrn/",
+      "translation": "警告",
+      "sentence": "The director warned him that he might be fired",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "w-warp",
       "word": "warp",
       "display": "Warp",
-      "phonetic": "",
-      "translation": "\u88f9\u4f4f",
-      "sentence": "",
+      "phonetic": "/wɔrp/",
+      "translation": "裹住",
+      "sentence": "The highway buckled during the heat wave",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "w-warrant",
       "word": "warrant",
       "display": "Warrant",
-      "phonetic": "",
-      "translation": "\u4fdd\u8bc1",
-      "sentence": "",
+      "phonetic": "/ˈwɔrənt/",
+      "translation": "保证",
+      "sentence": "as a sweetener they offered warrants along with the fixed-income securities",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "w-waterproof",
       "word": "waterproof",
       "display": "Waterproof",
-      "phonetic": "",
-      "translation": "\u9632\u6c34\u7684",
-      "sentence": "",
+      "phonetic": "/ˈwɔtərˌpruf/",
+      "translation": "防水的",
+      "sentence": "Waterproof the coat",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "w-watt",
       "word": "watt",
       "display": "Watt",
-      "phonetic": "",
-      "translation": "\u74e6\u7279",
-      "sentence": "",
+      "phonetic": "/wɑt/",
+      "translation": "瓦特",
+      "sentence": "A watt is a unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistance of 1 ohm.",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "w-wave",
       "word": "wave",
       "display": "Wave",
-      "phonetic": "",
-      "translation": "\u6325\u624b\u793a\u610f\uff1b\u98d8\u626c",
-      "sentence": "",
+      "phonetic": "/weɪv/",
+      "translation": "挥手示意；飘扬",
+      "sentence": "a wave of settlers",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "w-wax",
       "word": "wax",
       "display": "Wax",
-      "phonetic": "",
-      "translation": "\u8702\u8721",
-      "sentence": "",
+      "phonetic": "/wæks/",
+      "translation": "蜂蜡",
+      "sentence": "wax the car",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "w-weapon",
       "word": "weapon",
       "display": "Weapon",
-      "phonetic": "",
-      "translation": "\u6b66\u5668",
-      "sentence": "",
+      "phonetic": "/ˈwɛpən/",
+      "translation": "武器",
+      "sentence": "he was licensed to carry a weapon",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "w-weary",
       "word": "weary",
       "display": "Weary",
-      "phonetic": "",
-      "translation": "\u75b2\u5026\u7684",
-      "sentence": "",
+      "phonetic": "/ˈwɪri/",
+      "translation": "疲倦的",
+      "sentence": "`aweary' is archaic",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "w-weave",
       "word": "weave",
       "display": "Weave",
-      "phonetic": "",
-      "translation": "\u7f16\u7ec7\u6cd5",
-      "sentence": "",
+      "phonetic": "/wiːv/",
+      "translation": "编织法",
+      "sentence": "tissue textiles",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "w-wedge",
       "word": "wedge",
       "display": "Wedge",
-      "phonetic": "",
-      "translation": "\u6954\u5f62",
-      "sentence": "",
+      "phonetic": "/wɛʤ/",
+      "translation": "楔形",
+      "sentence": "lodge a bullet in the table",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "w-weird",
       "word": "weird",
       "display": "Weird",
-      "phonetic": "",
-      "translation": "\u53e4\u602a\u7684",
-      "sentence": "",
+      "phonetic": "/wɪrd/",
+      "translation": "古怪的",
+      "sentence": "the three weird sisters",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "w-weld",
       "word": "weld",
       "display": "Weld",
-      "phonetic": "",
-      "translation": "\u710a\u63a5",
-      "sentence": "",
+      "phonetic": "/wɛld/",
+      "translation": "焊接",
+      "sentence": "weld metal",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "w-whirl",
       "word": "whirl",
       "display": "Whirl",
-      "phonetic": "",
-      "translation": "\u65cb\u8f6c",
-      "sentence": "",
+      "phonetic": "/wərl/",
+      "translation": "旋转",
+      "sentence": "he was caught up in a whirl of work",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "w-whisky",
       "word": "whisky",
       "display": "Whisky",
-      "phonetic": "",
-      "translation": "\u5a01\u58eb\u5fcc\u9152",
-      "sentence": "",
+      "phonetic": "/ˈwɪski/",
+      "translation": "威士忌酒",
+      "sentence": "A whisky is a liquor made from fermented mash of grain.",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "w-wire",
       "word": "wire",
       "display": "Wire",
-      "phonetic": "",
-      "translation": "\u7535\u7ebf",
-      "sentence": "",
+      "phonetic": "/waɪər/",
+      "translation": "电线",
+      "sentence": "wire the addition to the house",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "w-wis",
       "word": "wis=wit",
       "display": "Wis=wit",
-      "phonetic": "",
-      "translation": "\u660e\u667a\u7684\uff1b\u77e5\u9053\u7684",
-      "sentence": "",
+      "phonetic": "/wɪs wɪt/",
+      "translation": "明智的；知道的",
+      "sentence": "The root wis wit is associated with \"W root map\" in words like wage, wagon, and waist.",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "w-wit",
       "word": "wit",
       "display": "Wit",
-      "phonetic": "",
-      "translation": "\u624d\u667a",
-      "sentence": "",
+      "phonetic": "/wɪt/",
+      "translation": "才智",
+      "sentence": "he's got plenty of brains but no common sense",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "w-with",
       "word": "with",
       "display": "With",
-      "phonetic": "",
-      "translation": "\u76f8\u53cd\uff1b\u5bf9\u6297",
-      "sentence": "",
+      "phonetic": "/wɪθ/",
+      "translation": "相反；对抗",
+      "sentence": "With is used here with the sense of \"相反；对抗\".",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "w-withdraw",
       "word": "withdraw",
       "display": "Withdraw",
-      "phonetic": "",
-      "translation": "\u64a4\u56de",
-      "sentence": "",
+      "phonetic": "/wɪθˈdrɔ/",
+      "translation": "撤回",
+      "sentence": "This machine withdraws heat from the environment",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "w-withstand",
       "word": "withstand",
       "display": "Withstand",
-      "phonetic": "",
-      "translation": "\u62b5\u6297",
-      "sentence": "",
+      "phonetic": "/wɪθˈstænd/",
+      "translation": "抵抗",
+      "sentence": "The new material withstands even the greatest wear and tear",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "w-wizard",
       "word": "wizard",
       "display": "Wizard",
-      "phonetic": "",
-      "translation": "\u672f\u58eb",
-      "sentence": "",
+      "phonetic": "/ˈwɪzərd/",
+      "translation": "术士",
+      "sentence": "wizard wands",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "w-wool",
       "word": "wool",
       "display": "Wool",
-      "phonetic": "",
-      "translation": "\u7f8a\u6bdb",
-      "sentence": "",
+      "phonetic": "/wʊl/",
+      "translation": "羊毛",
+      "sentence": "A wool is a fabric made from the hair of sheep.",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "w-worm",
       "word": "worm",
       "display": "Worm",
-      "phonetic": "",
-      "translation": "\u8815\u866b",
-      "sentence": "",
+      "phonetic": "/wərm/",
+      "translation": "蠕虫",
+      "sentence": "worms take advantage of automatic file sending and receiving features found on many computers",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "w-wreath",
       "word": "wreath",
       "display": "Wreath",
-      "phonetic": "",
-      "translation": "\u82b1\u5708",
-      "sentence": "",
+      "phonetic": "/riθ/",
+      "translation": "花圈",
+      "sentence": "A wreath is flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes.",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "w-wreck",
       "word": "wreck",
       "display": "Wreck",
-      "phonetic": "",
-      "translation": "\u9047\u96be",
-      "sentence": "",
+      "phonetic": "/rɛk/",
+      "translation": "遇难",
+      "sentence": "the house was a wreck when they bought it",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "w-wrench",
       "word": "wrench",
       "display": "Wrench",
-      "phonetic": "",
-      "translation": "\u6323\u8131",
-      "sentence": "",
+      "phonetic": "/rɛnʧ/",
+      "translation": "挣脱",
+      "sentence": "the wrench to his knee occurred as he fell",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "w-wretched",
       "word": "wretched",
       "display": "Wretched",
-      "phonetic": "",
-      "translation": "\u53ef\u601c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛʧɪd/",
+      "translation": "可怜的",
+      "sentence": "spent a wretched night on the floor",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "w-wrist",
       "word": "wrist",
       "display": "Wrist",
-      "phonetic": "",
-      "translation": "\u5173\u8282",
-      "sentence": "",
+      "phonetic": "/rɪst/",
+      "translation": "关节",
+      "sentence": "A wrist is a joint between the distal end of the radius and the proximal row of carpal bones.",
       "tags": [
         "root-family"
       ],
@@ -527,5 +527,6 @@
   "rootLevel": 1,
   "rootPath": "w",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

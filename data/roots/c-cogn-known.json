@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cogn-known",
-  "root": "cogn=known\u77e5\u9053",
+  "root": "cogn=known知道",
   "meaning": "know",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "知道",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cogn-known-agnostic",
       "word": "agnostic",
       "display": "Agnostic",
-      "phonetic": "",
-      "translation": "\u4e0d\u53ef\u77e5\u8bba",
-      "sentence": "",
+      "phonetic": "/ægˈnɑstɪk/",
+      "translation": "不可知论",
+      "sentence": "An agnostic is someone who is doubtful or noncommittal about something.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cogn-known-cognition",
       "word": "cognition",
       "display": "Cognition",
-      "phonetic": "",
-      "translation": "\u8ba4\u8bc6",
-      "sentence": "",
+      "phonetic": "/kɑgˈnɪʃən/",
+      "translation": "认识",
+      "sentence": "A cognition is the psychological result of perception and learning and reasoning.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-cogn-known-cognizable",
       "word": "cognizable",
       "display": "Cognizable",
-      "phonetic": "",
-      "translation": "\u53ef\u8ba4\u8bc6\u7684",
-      "sentence": "",
+      "phonetic": "/kˈɑgnʌzʌbʌl/",
+      "translation": "可认识的",
+      "sentence": "If something is cognizable, it is capable of being known.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-cogn-known-ignorance",
       "word": "ignorance",
       "display": "Ignorance",
-      "phonetic": "",
-      "translation": "\u65e0\u77e5\uff1b\u611a\u6627",
-      "sentence": "",
+      "phonetic": "/ˈɪgnərəns/",
+      "translation": "无知；愚昧",
+      "sentence": "An ignorance is the lack of knowledge or education.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-cogn-known-ignorant",
       "word": "ignorant",
       "display": "Ignorant",
-      "phonetic": "",
-      "translation": "\u65e0\u77e5\u7684\uff1b\u611a\u6627\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɪgnərənt/",
+      "translation": "无知的；愚昧的",
+      "sentence": "an ignorant man",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-cogn-known-prognosticate",
       "word": "prognosticate",
       "display": "Prognosticate",
-      "phonetic": "",
-      "translation": "\u9884\u6d4b\uff1b\u9884\u8a00\uff1b\u9884\u793a",
-      "sentence": "",
+      "phonetic": "/ˌprɑgˈnɑstəˌkeɪt/",
+      "translation": "预测；预言；预示",
+      "sentence": "Call the outcome of an election",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-cogn-known-recognize",
       "word": "recognize",
       "display": "Recognize",
-      "phonetic": "",
-      "translation": "\u8ba4\u53ef\uff1b\u627f\u8ba4",
-      "sentence": "",
+      "phonetic": "/ˈrɛkəgˌnaɪz/",
+      "translation": "认可；承认",
+      "sentence": "We do not recognize your gods",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 2,
   "rootPath": "c>c-cogn-known",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

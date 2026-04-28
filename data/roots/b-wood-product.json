@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-wood-product",
-  "root": "\u6728\u5236\u54c1",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "木制品",
+  "meaning": "wood products",
+  "descriptionCn": "木制品",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-wood-product-bag",
       "word": "bag",
       "display": "Bag",
-      "phonetic": "",
-      "translation": "\u888b",
-      "sentence": "",
+      "phonetic": "/bæg/",
+      "translation": "袋",
+      "sentence": "he stuffed his laundry into a large bag",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-wood-product-bait",
       "word": "bait",
       "display": "Bait",
-      "phonetic": "",
-      "translation": "\u8bf1\u9975",
-      "sentence": "",
+      "phonetic": "/beɪt/",
+      "translation": "诱饵",
+      "sentence": "The children teased the new teacher",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-wood-product-bankrupt",
       "word": "bankrupt",
       "display": "Bankrupt",
-      "phonetic": "",
-      "translation": "\u7834\u4ea7",
-      "sentence": "",
+      "phonetic": "/ˈbæŋkrəpt/",
+      "translation": "破产",
+      "sentence": "a bankrupt company",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-wood-product-banquet",
       "word": "banquet",
       "display": "Banquet",
-      "phonetic": "",
-      "translation": "\u5bb4\u8bf7",
-      "sentence": "",
+      "phonetic": "/ˈbæŋkwət/",
+      "translation": "宴请",
+      "sentence": "a banquet for the graduating seniors",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-wood-product-bargain",
       "word": "bargain",
       "display": "Bargain",
-      "phonetic": "",
-      "translation": "\u5408\u540c",
-      "sentence": "",
+      "phonetic": "/ˈbɑrgɪn/",
+      "translation": "合同",
+      "sentence": "he made a bargain with the devil",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-wood-product-barn",
       "word": "barn",
       "display": "Barn",
-      "phonetic": "",
-      "translation": "\u8c37\u4ed3\uff1b\u4ed3\u5e93",
-      "sentence": "",
+      "phonetic": "/bɑrn/",
+      "translation": "谷仓；仓库",
+      "sentence": "A barn is an outlying farm building for storing grain or animal feed and housing farm animals.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-wood-product-bed",
       "word": "bed",
       "display": "Bed",
-      "phonetic": "",
-      "translation": "\u5e8a",
-      "sentence": "",
+      "phonetic": "/bɛd/",
+      "translation": "床",
+      "sentence": "he sat on the edge of the bed",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-wood-product-bench",
       "word": "bench",
       "display": "Bench",
-      "phonetic": "",
-      "translation": "\u957f\u51f3",
-      "sentence": "",
+      "phonetic": "/bɛnʧ/",
+      "translation": "长凳",
+      "sentence": "our team has a strong bench",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-wood-product-bin",
       "word": "bin",
       "display": "Bin",
-      "phonetic": "",
-      "translation": "\u7bb1\u5b50",
-      "sentence": "",
+      "phonetic": "/bɪn/",
+      "translation": "箱子",
+      "sentence": "A bin is a container; usually has a lid.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-wood-product-board",
       "word": "board",
       "display": "Board",
-      "phonetic": "",
-      "translation": "\u4e0a\u8239\uff1b\u4f19\u98df",
-      "sentence": "",
+      "phonetic": "/bɔrd/",
+      "translation": "上船；伙食",
+      "sentence": "the board has seven members",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-wood-product-boast",
       "word": "boast",
       "display": "Boast",
-      "phonetic": "",
-      "translation": "\u81ea\u5938\uff1b\u5927\u8bdd",
-      "sentence": "",
+      "phonetic": "/boʊst/",
+      "translation": "自夸；大话",
+      "sentence": "she was sporting a new hat",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-wood-product-bold",
       "word": "bold",
       "display": "Bold",
-      "phonetic": "",
-      "translation": "\u5927\u80c6\u7684\uff1b\u9ed1\u4f53\uff1b\u7c97\u4f53",
-      "sentence": "",
+      "phonetic": "/boʊld/",
+      "translation": "大胆的；黑体；粗体",
+      "sentence": "bold settlers on some foreign shore",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-wood-product-bolt",
       "word": "bolt",
       "display": "Bolt",
-      "phonetic": "",
-      "translation": "\u63d2\u9500\uff1b\u87ba\u6813",
-      "sentence": "",
+      "phonetic": "/boʊlt/",
+      "translation": "插销；螺栓",
+      "sentence": "She bolted from her seat",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "b-wood-product-booth",
       "word": "booth",
       "display": "Booth",
-      "phonetic": "",
-      "translation": "\u7535\u8bdd\u4ead\uff1b\u8d27\u644a",
-      "sentence": "",
+      "phonetic": "/buθ/",
+      "translation": "电话亭；货摊",
+      "sentence": "A booth is a table (in a restaurant or bar) surrounded by two high-backed benches.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "b-wood-product-bottle",
       "word": "bottle",
       "display": "Bottle",
-      "phonetic": "",
-      "translation": "\u74f6\u5b50",
-      "sentence": "",
+      "phonetic": "/ˈbɑtəl/",
+      "translation": "瓶子",
+      "sentence": "bottle the mineral water",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "b-wood-product-bottom",
       "word": "bottom",
       "display": "Bottom",
-      "phonetic": "",
-      "translation": "\u5e95\u90e8\uff1b\u57fa\u7840",
-      "sentence": "",
+      "phonetic": "/ˈbɑtəm/",
+      "translation": "底部；基础",
+      "sentence": "they started at the bottom of the hill",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "b-wood-product-bow",
       "word": "bowl",
       "display": "Bowl",
-      "phonetic": "",
-      "translation": "\u7897",
-      "sentence": "",
+      "phonetic": "/boʊl/",
+      "translation": "碗",
+      "sentence": "My parents like to bowl on Friday nights",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "b-wood-product-box",
       "word": "box",
       "display": "Box",
-      "phonetic": "",
-      "translation": "\u7bb1\u5b50\uff1b\u62f3\u51fb",
-      "sentence": "",
+      "phonetic": "/bɑks/",
+      "translation": "箱子；拳击",
+      "sentence": "he rummaged through a box of spare parts",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "b-wood-product-brass",
       "word": "brass",
       "display": "Brass",
-      "phonetic": "",
-      "translation": "\u9ec4\u94dc\uff1b\u94dc\u5668",
-      "sentence": "",
+      "phonetic": "/bræs/",
+      "translation": "黄铜；铜器",
+      "sentence": "he claims that the present administration is corrupt",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "b-wood-product-bronze",
       "word": "bronze",
       "display": "Bronze",
-      "phonetic": "",
-      "translation": "\u9752\u94dc",
-      "sentence": "",
+      "phonetic": "/brɑnz/",
+      "translation": "青铜",
+      "sentence": "bronze baby shoes",
       "tags": [
         "root-family"
       ],
@@ -251,5 +251,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-wood>b-wood-product",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

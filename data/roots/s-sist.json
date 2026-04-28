@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-sist",
-  "root": "sist=stand\u7ad9",
+  "root": "sist=stand站",
   "meaning": "stand",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "站",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-sist-assist",
       "word": "assist",
       "display": "Assist",
-      "phonetic": "",
-      "translation": "\u652f\u6301\uff1b\u5e2e\u52a9",
-      "sentence": "",
+      "phonetic": "/əˈsɪst/",
+      "translation": "支持；帮助",
+      "sentence": "he gave me an assist with the housework",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-sist-assistance",
       "word": "assistance",
       "display": "Assistance",
-      "phonetic": "",
-      "translation": "\u5e2e\u52a9",
-      "sentence": "",
+      "phonetic": "/əˈsɪstəns/",
+      "translation": "帮助",
+      "sentence": "could not walk without assistance",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-sist-assistant",
       "word": "assistant",
       "display": "Assistant",
-      "phonetic": "",
-      "translation": "\u52a9\u624b",
-      "sentence": "",
+      "phonetic": "/əˈsɪstənt/",
+      "translation": "助手",
+      "sentence": "my invaluable assistant",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-sist-consist",
       "word": "consist",
       "display": "Consist",
-      "phonetic": "",
-      "translation": "\u5b58\u5728\uff1b\u7531..\u6784\u6210",
-      "sentence": "",
+      "phonetic": "/kənˈsɪst/",
+      "translation": "存在；由..构成",
+      "sentence": "The payment consists in food",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-sist-exist",
       "word": "exist",
       "display": "Exist",
-      "phonetic": "",
-      "translation": "\u5b58\u5728",
-      "sentence": "",
+      "phonetic": "/ɪgˈzɪst/",
+      "translation": "存在",
+      "sentence": "he could barely exist on such a low wage",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-sist-persist",
       "word": "persist",
       "display": "Persist",
-      "phonetic": "",
-      "translation": "\u575a\u6301",
-      "sentence": "",
+      "phonetic": "/pərˈsɪst/",
+      "translation": "坚持",
+      "sentence": "he persisted to call me every night",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-sist-resist",
       "word": "resist",
       "display": "Resist",
-      "phonetic": "",
-      "translation": "\u53cd\u5bf9\uff1b\u62b5\u6297",
-      "sentence": "",
+      "phonetic": "/rɪˈzɪst/",
+      "translation": "反对；抵抗",
+      "sentence": "The trees resisted her",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-sist-stand",
       "word": "stand",
       "display": "Stand",
-      "phonetic": "",
-      "translation": "\u7ad9\u7acb",
-      "sentence": "",
+      "phonetic": "/stænd/",
+      "translation": "站立",
+      "sentence": "they cut down a stand of trees",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "s-sist-standard",
       "word": "standard",
       "display": "Standard",
-      "phonetic": "",
-      "translation": "\u6807\u51c6",
-      "sentence": "",
+      "phonetic": "/ˈstændərd/",
+      "translation": "标准",
+      "sentence": "the schools comply with federal standards",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "s-sist-standpoint",
       "word": "standpoint",
       "display": "Standpoint",
-      "phonetic": "",
-      "translation": "\u7acb\u573a\uff1b\u89c2\u70b9",
-      "sentence": "",
+      "phonetic": "/ˈstændˌpɔɪnt/",
+      "translation": "立场；观点",
+      "sentence": "we should consider this problem from the viewpoint of the Russians",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "s-sist-start",
       "word": "start",
       "display": "Start",
-      "phonetic": "",
-      "translation": "\u52a8\u8eab\uff1b\u5403\u60ca",
-      "sentence": "",
+      "phonetic": "/stɑrt/",
+      "translation": "动身；吃惊",
+      "sentence": "it was off to a good start",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "s-sist-startle",
       "word": "startle",
       "display": "Startle",
-      "phonetic": "",
-      "translation": "\u60ca\u5413",
-      "sentence": "",
+      "phonetic": "/ˈstɑrtəl/",
+      "translation": "惊吓",
+      "sentence": "..startled him awake",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "s-sist-starve",
       "word": "starve",
       "display": "Starve",
-      "phonetic": "",
-      "translation": "\u997f\u6b7b",
-      "sentence": "",
+      "phonetic": "/stɑrv/",
+      "translation": "饿死",
+      "sentence": "The political prisoners starved to death",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "s-sist-state",
       "word": "state",
       "display": "State",
-      "phonetic": "",
-      "translation": "\u72b6\u6001",
-      "sentence": "",
+      "phonetic": "/steɪt/",
+      "translation": "状态",
+      "sentence": "his state is in the deep south",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "s-sist-statement",
       "word": "statement",
       "display": "Statement",
-      "phonetic": "",
-      "translation": "\u58f0\u660e\uff1b\u9648\u8ff0",
-      "sentence": "",
+      "phonetic": "/ˈsteɪtmənt/",
+      "translation": "声明；陈述",
+      "sentence": "according to his statement he was in London on that day",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "s-sist-statesman",
       "word": "statesman",
       "display": "Statesman",
-      "phonetic": "",
-      "translation": "\u653f\u6cbb\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˈsteɪtsmən/",
+      "translation": "政治家",
+      "sentence": "A statesman is a man who is a respected leader in national or international affairs.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "s-sist-static",
       "word": "static",
       "display": "Static",
-      "phonetic": "",
-      "translation": "\u9759\u6001\u7684",
-      "sentence": "",
+      "phonetic": "/ˈstætɪk/",
+      "translation": "静态的",
+      "sentence": "they will probably give you a lot of static about your editorial",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "s-sist-station",
       "word": "station",
       "display": "Station",
-      "phonetic": "",
-      "translation": "\u8f66\u7ad9",
-      "sentence": "",
+      "phonetic": "/ˈsteɪʃən/",
+      "translation": "车站",
+      "sentence": "he started looking for a gas station",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "s-sist-stationary",
       "word": "stationary",
       "display": "Stationary",
-      "phonetic": "",
-      "translation": "\u9759\u6b62\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsteɪʃəˌnɛri/",
+      "translation": "静止的",
+      "sentence": "the car remained stationary with the engine running",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "s-sist-stationery",
       "word": "stationery",
       "display": "Stationery",
-      "phonetic": "",
-      "translation": "\u6587\u5177",
-      "sentence": "",
+      "phonetic": "/ˈsteɪʃəˌnɛri/",
+      "translation": "文具",
+      "sentence": "A stationery is paper cut to an appropriate size for writing letters; usually with matching envelopes.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "s-sist-statistical",
       "word": "statistical",
       "display": "Statistical",
-      "phonetic": "",
-      "translation": "\u7edf\u8ba1\u7684",
-      "sentence": "",
+      "phonetic": "/stəˈtɪstɪkəl/",
+      "translation": "统计的",
+      "sentence": "statistical population",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "s-sist-statue",
       "word": "statue",
       "display": "Statue",
-      "phonetic": "",
-      "translation": "\u96d5\u50cf",
-      "sentence": "",
+      "phonetic": "/ˈstæˌʧu/",
+      "translation": "雕像",
+      "sentence": "A statue is a sculpture representing a human or animal.",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "s-sist-status",
       "word": "status",
       "display": "Status",
-      "phonetic": "",
-      "translation": "\u5730\u4f4d\uff1b\u8eab\u4efd",
-      "sentence": "",
+      "phonetic": "/ˈstætəs/",
+      "translation": "地位；身份",
+      "sentence": "he had the status of a minor",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "s-sist-statute",
       "word": "statute",
       "display": "Statute",
-      "phonetic": "",
-      "translation": "\u6cd5\u89c4\uff1b\u7ae0\u7a0b",
-      "sentence": "",
+      "phonetic": "/ˈstæʧut/",
+      "translation": "法规；章程",
+      "sentence": "statute law",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "s-sist-stay",
       "word": "stay",
       "display": "Stay",
-      "phonetic": "",
-      "translation": "\u9017\u7559\uff1b\u4fdd\u6301\uff1b\u5ef6\u7f13",
-      "sentence": "",
+      "phonetic": "/steɪ/",
+      "translation": "逗留；保持；延缓",
+      "sentence": "they had a nice stay in Paris",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "s-sist-steady",
       "word": "steady",
       "display": "Steady",
-      "phonetic": "",
-      "translation": "\u7a33\u5b9a\u7684\uff1b\u7a33\u56fa",
-      "sentence": "",
+      "phonetic": "/ˈstɛdi/",
+      "translation": "稳定的；稳固",
+      "sentence": "steady yourself",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "s-sist-still",
       "word": "still",
       "display": "Still",
-      "phonetic": "",
-      "translation": "\u9759\u6b62\u7684",
-      "sentence": "",
+      "phonetic": "/stɪl/",
+      "translation": "静止的",
+      "sentence": "he wanted some stills for a magazine ad",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "s-sist-stock",
       "word": "stock",
       "display": "Stock",
-      "phonetic": "",
-      "translation": "\u5b58\u8d27",
-      "sentence": "",
+      "phonetic": "/stɑk/",
+      "translation": "存货",
+      "sentence": "he owns a controlling share of the company's stock",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "s-sist-stocking",
       "word": "stocking",
       "display": "Stocking",
-      "phonetic": "",
-      "translation": "\u957f\u889c",
-      "sentence": "",
+      "phonetic": "/ˈstɑkɪŋ/",
+      "translation": "长袜",
+      "sentence": "he supervised the stocking of the stream with trout",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "s-sist-stoop",
       "word": "stoop",
       "display": "Stoop",
-      "phonetic": "",
-      "translation": "\u5f2f\u8170",
-      "sentence": "",
+      "phonetic": "/stuːp/",
+      "translation": "弯腰",
+      "sentence": "The young man stooped to pick up the girl's purse",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "s-sist-storage",
       "word": "storage",
       "display": "Storage",
-      "phonetic": "",
-      "translation": "\u8d2e\u85cf",
-      "sentence": "",
+      "phonetic": "/ˈstɔrɪʤ/",
+      "translation": "贮藏",
+      "sentence": "my car is in storage",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "s-sist-stride",
       "word": "stride",
       "display": "Stride",
-      "phonetic": "",
-      "translation": "\u8de8\u8d8a",
-      "sentence": "",
+      "phonetic": "/straɪd/",
+      "translation": "跨越",
+      "sentence": "make strides",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "s-sist-survival",
       "word": "survival",
       "display": "Survival",
-      "phonetic": "",
-      "translation": "\u751f\u5b58",
-      "sentence": "",
+      "phonetic": "/sərˈvaɪvəl/",
+      "translation": "生存",
+      "sentence": "A survival is a state of surviving; remaining alive.",
       "tags": [
         "root-family"
       ],
@@ -407,5 +407,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-sist",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

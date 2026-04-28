@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-plant",
-  "root": "\u690d\u7269\u571f\u5730",
+  "root": "植物土地",
   "meaning": "plant, land",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "植物土地",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-plant-rail",
       "word": "rail",
       "display": "Rail",
-      "phonetic": "",
-      "translation": "\u94c1\u8def\uff1b\u680f\u6746",
-      "sentence": "",
+      "phonetic": "/reɪl/",
+      "translation": "铁路；栏杆",
+      "sentence": "he traveled by rail",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-plant-railroad",
       "word": "railroad",
       "display": "Railroad",
-      "phonetic": "",
-      "translation": "\u94c1\u8def",
-      "sentence": "",
+      "phonetic": "/ˈreɪˌlroʊd/",
+      "translation": "铁路",
+      "sentence": "he walked along the railroad track",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-plant-rare",
       "word": "rare",
       "display": "Rare",
-      "phonetic": "",
-      "translation": "\u7a00\u6709\u7684",
-      "sentence": "",
+      "phonetic": "/rɛr/",
+      "translation": "稀有的",
+      "sentence": "a rare word",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-plant-rarely",
       "word": "rarely",
       "display": "Rarely",
-      "phonetic": "",
-      "translation": "\u5f88\u5c11",
-      "sentence": "",
+      "phonetic": "/ˈrɛrli/",
+      "translation": "很少",
+      "sentence": "we rarely met",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-plant-rate",
       "word": "rate",
       "display": "Rate",
-      "phonetic": "",
-      "translation": "\u901f\u7387\uff1b\u7b49\u7ea7\uff1b\u4ef7\u683c\uff1b\u8d39\u7528",
-      "sentence": "",
+      "phonetic": "/reɪt/",
+      "translation": "速率；等级；价格；费用",
+      "sentence": "they traveled at a rate of 55 miles per hour",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-plant-ratio",
       "word": "ratio",
       "display": "Ratio",
-      "phonetic": "",
-      "translation": "\u6bd4\u7387",
-      "sentence": "",
+      "phonetic": "/ˈreɪʃiˌoʊ/",
+      "translation": "比率",
+      "sentence": "an inordinate proportion of the book is given over to quotations",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-plant-rational",
       "word": "rational",
       "display": "Rational",
-      "phonetic": "",
-      "translation": "\u7406\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/ˈræʃənəl/",
+      "translation": "理性的",
+      "sentence": "rational behavior",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-plant-raw",
       "word": "raw",
       "display": "Raw",
-      "phonetic": "",
-      "translation": "\u751f\u7684",
-      "sentence": "",
+      "phonetic": "/rɑ/",
+      "translation": "生的",
+      "sentence": "in the raw",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-plant-rib",
       "word": "rib",
       "display": "Rib",
-      "phonetic": "",
-      "translation": "\u808b\u9aa8",
-      "sentence": "",
+      "phonetic": "/rɪb/",
+      "translation": "肋骨",
+      "sentence": "A ribbed sweater",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-plant-ribbon",
       "word": "ribbon",
       "display": "Ribbon",
-      "phonetic": "",
-      "translation": "\u4e1d\u5e26",
-      "sentence": "",
+      "phonetic": "/ˈrɪbən/",
+      "translation": "丝带",
+      "sentence": "a mere ribbon of land",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-plant-rice",
       "word": "rice",
       "display": "Rice",
-      "phonetic": "",
-      "translation": "\u7c73",
-      "sentence": "",
+      "phonetic": "/raɪs/",
+      "translation": "米",
+      "sentence": "rice the potatoes",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-plant-rich",
       "word": "rich",
       "display": "Rich",
-      "phonetic": "",
-      "translation": "\u5bcc\u6709\u7684",
-      "sentence": "",
+      "phonetic": "/rɪʧ/",
+      "translation": "富有的",
+      "sentence": "only the very rich benefit from this legislation",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-plant-road",
       "word": "road",
       "display": "Road",
-      "phonetic": "",
-      "translation": "\u9053\u8def",
-      "sentence": "",
+      "phonetic": "/roʊd/",
+      "translation": "道路",
+      "sentence": "the road to fame",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-plant-roar",
       "word": "roar",
       "display": "Roar",
-      "phonetic": "",
-      "translation": "\u6012\u543c",
-      "sentence": "",
+      "phonetic": "/rɔr/",
+      "translation": "怒吼",
+      "sentence": "The water roared down the chute",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-plant-roast",
       "word": "roast",
       "display": "Roast",
-      "phonetic": "",
-      "translation": "\u70e4",
-      "sentence": "",
+      "phonetic": "/roʊst/",
+      "translation": "烤",
+      "sentence": "roast the turkey",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-plant-robot",
       "word": "robot",
       "display": "Robot",
-      "phonetic": "",
-      "translation": "\u673a\u5668\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈroʊˌbət/",
+      "translation": "机器人",
+      "sentence": "A robot is a mechanism that can move automatically.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "r-plant-robust",
       "word": "robust",
       "display": "Robust",
-      "phonetic": "",
-      "translation": "\u5f3a\u5065\u7684",
-      "sentence": "",
+      "phonetic": "/roʊˈbəst/",
+      "translation": "强健的",
+      "sentence": "a robust body",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "r-plant-rock",
       "word": "rock",
       "display": "Rock",
-      "phonetic": "",
-      "translation": "\u5ca9\u77f3",
-      "sentence": "",
+      "phonetic": "/rɑk/",
+      "translation": "岩石",
+      "sentence": "he threw a rock at me",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "r-plant-rocket",
       "word": "rocket",
       "display": "Rocket",
-      "phonetic": "",
-      "translation": "\u706b\u7bad",
-      "sentence": "",
+      "phonetic": "/ˈrɑkət/",
+      "translation": "火箭",
+      "sentence": "prices skyrocketed",
       "tags": [
         "root-family"
       ],
@@ -239,5 +239,6 @@
   "rootLevel": 2,
   "rootPath": "r>r-plant",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

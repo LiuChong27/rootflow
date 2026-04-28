@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "q-quer",
-  "root": "quer=quire quisit=quest \u95ee\uff1b\u8ffd\u6c42",
+  "root": "quer=quire quisit=quest 问；追求",
   "meaning": "ask, seek",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "问；追求",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "q-quer-acquest",
       "word": "acquest",
       "display": "Acquest",
-      "phonetic": "",
-      "translation": "\u83b7\u53d6\uff1b\u53d6\u5f97",
-      "sentence": "",
+      "phonetic": "/ˈeɪkʌst/",
+      "translation": "获取；取得",
+      "sentence": "Acquest is used here with the sense of \"获取；取得\".",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "q-quer-acquire",
       "word": "acquire",
       "display": "Acquire",
-      "phonetic": "",
-      "translation": "\u83b7\u5f97\uff1b\u5b66\u5230",
-      "sentence": "",
+      "phonetic": "/əkˈwaɪər/",
+      "translation": "获得；学到",
+      "sentence": "They acquired a new pet",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "q-quer-acquisition",
       "word": "acquisition",
       "display": "Acquisition",
-      "phonetic": "",
-      "translation": "\u83b7\u5f97",
-      "sentence": "",
+      "phonetic": "/ˌækwəˈzɪʃən/",
+      "translation": "获得",
+      "sentence": "the acquisition of wealth",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "q-quer-conquer",
       "word": "conquer",
       "display": "Conquer",
-      "phonetic": "",
-      "translation": "\u5f81\u670d",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋkər/",
+      "translation": "征服",
+      "sentence": "conquer one's desires",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "q-quer-conquest",
       "word": "conquest",
       "display": "Conquest",
-      "phonetic": "",
-      "translation": "\u5f81\u670d",
-      "sentence": "",
+      "phonetic": "/ˈkɑŋkwɛst/",
+      "translation": "征服",
+      "sentence": "the conquest of space",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "q-quer-disquisition",
       "word": "disquisition",
       "display": "Disquisition",
-      "phonetic": "",
-      "translation": "\u4e13\u9898\u8bba\u6587",
-      "sentence": "",
+      "phonetic": "/dˌɪskwɪzˈɪʃʌn/",
+      "translation": "专题论文",
+      "sentence": "A disquisition is an elaborate analytical or explanatory essay or discussion.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "q-quer-disquisitive",
       "word": "disquisitive",
       "display": "Disquisitive",
-      "phonetic": "",
-      "translation": "\u7814\u7a76\u7684",
-      "sentence": "",
+      "phonetic": "/dɪskwˈɪzɪtɪv/",
+      "translation": "研究的",
+      "sentence": "Disquisitive is used here with the sense of \"研究的\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "q-quer-enquire",
       "word": "enquire",
       "display": "Enquire",
-      "phonetic": "",
-      "translation": "\u8be2\u95ee",
-      "sentence": "",
+      "phonetic": "/ɪnkˈwaɪər/",
+      "translation": "询问",
+      "sentence": "I asked about their special today",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "q-quer-inquire",
       "word": "inquire",
       "display": "Inquire",
-      "phonetic": "",
-      "translation": "\u8be2\u95ee",
-      "sentence": "",
+      "phonetic": "/ˌɪnkˈwaɪr/",
+      "translation": "询问",
+      "sentence": "inquire into the disappearance of the rich old lady",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "q-quer-inquiry",
       "word": "inquiry",
       "display": "Inquiry",
-      "phonetic": "",
-      "translation": "\u8c03\u67e5",
-      "sentence": "",
+      "phonetic": "/ˌɪnkˈwaɪˌri/",
+      "translation": "调查",
+      "sentence": "their pottery deserves more research than it has received",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "q-quer-inquisite",
       "word": "inquisite",
       "display": "Inquisite",
-      "phonetic": "",
-      "translation": "\u5ba1\u8baf",
-      "sentence": "",
+      "phonetic": "/ɪnkwˈɪsɪt/",
+      "translation": "审讯",
+      "sentence": "Inquisite is used here with the sense of \"审讯\".",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "q-quer-inquisition",
       "word": "inquisition",
       "display": "Inquisition",
-      "phonetic": "",
-      "translation": "\u8c03\u67e5",
-      "sentence": "",
+      "phonetic": "/ˌɪnkwəˈzɪʃən/",
+      "translation": "调查",
+      "sentence": "An inquisition is a former tribunal of the Roman Catholic Church (1232-1820) created to discover and suppress heresy.",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "q-quer-query",
       "word": "query",
       "display": "Query",
-      "phonetic": "",
-      "translation": "\u8be2\u95ee",
-      "sentence": "",
+      "phonetic": "/kˈwiri/",
+      "translation": "询问",
+      "sentence": "there was a question about my training",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "q-quer-quest",
       "word": "quest",
       "display": "Quest",
-      "phonetic": "",
-      "translation": "\u63a2\u5bfb\uff1b\u8ffd\u6c42",
-      "sentence": "",
+      "phonetic": "/kwɛst/",
+      "translation": "探寻；追求",
+      "sentence": "a quest for wealth",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "q-quer-question",
       "word": "question",
       "display": "Question",
-      "phonetic": "",
-      "translation": "\u95ee\u9898",
-      "sentence": "",
+      "phonetic": "/kˈwɛʃən/",
+      "translation": "问题",
+      "sentence": "there was a question about my training",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "q-quer-questionnaire",
       "word": "questionnaire",
       "display": "Questionnaire",
-      "phonetic": "",
-      "translation": "\u95ee\u9898",
-      "sentence": "",
+      "phonetic": "/kˌwɛsʧəˈnɛr/",
+      "translation": "问题",
+      "sentence": "A questionnaire is a form containing a set of questions; submitted to people to gain statistical information.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "q-quer-require",
       "word": "require",
       "display": "Require",
-      "phonetic": "",
-      "translation": "\u8981\u6c42",
-      "sentence": "",
+      "phonetic": "/ˌrikˈwaɪər/",
+      "translation": "要求",
+      "sentence": "success usually requires hard work",
       "tags": [
         "root-family"
       ],
@@ -215,5 +215,6 @@
   "rootLevel": 2,
   "rootPath": "q>q-quer",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

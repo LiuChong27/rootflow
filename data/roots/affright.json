@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "affright",
   "root": "affright",
-  "meaning": "",
-  "descriptionCn": "\u60ca\u5413\uff1b\u6050\u6016",
-  "updatedAt": "2026-04-15",
+  "meaning": "affright family",
+  "descriptionCn": "惊吓；恐怖",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "affright-affright-2",
       "word": "affright",
       "display": "Affright",
-      "phonetic": "",
-      "translation": "\u60ca\u5413\uff1b\u6050\u6016",
-      "sentence": "",
+      "phonetic": "/ˈæfrˌaɪt/",
+      "translation": "惊吓；恐怖",
+      "sentence": "Ghosts could never affright her",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-af>affright",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

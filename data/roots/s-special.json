@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-special",
-  "root": "special\u7279\u6b8a\u7684",
+  "root": "special特殊的",
   "meaning": "special",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "特殊的",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-special",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-special",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

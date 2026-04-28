@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "v-ven",
   "root": "ven=vent=come",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "meaning": "ven=vent=come",
+  "descriptionCn": "ven=vent=come",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "v-ven-convene",
       "word": "convene",
       "display": "Convene",
-      "phonetic": "",
-      "translation": "\u53ec\u96c6",
-      "sentence": "",
+      "phonetic": "/kənˈvin/",
+      "translation": "召集",
+      "sentence": "The council convened last week",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "v-ven-convenience",
       "word": "convenience",
       "display": "Convenience",
-      "phonetic": "",
-      "translation": "\u4fbf\u5229",
-      "sentence": "",
+      "phonetic": "/kənˈvinjəns/",
+      "translation": "便利",
+      "sentence": "chairs arranged for his own convenience",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "v-ven-convenient",
       "word": "convenient",
       "display": "Convenient",
-      "phonetic": "",
-      "translation": "\u4fbf\u5229\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈvinjənt/",
+      "translation": "便利的",
+      "sentence": "a convenient excuse for not going",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "v-ven-event",
       "word": "event",
       "display": "Event",
-      "phonetic": "",
-      "translation": "\u4e8b\u4ef6",
-      "sentence": "",
+      "phonetic": "/ɪˈvɛnt/",
+      "translation": "事件",
+      "sentence": "in that event, the first possibility is excluded",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "v-ven-eventual",
       "word": "eventual",
       "display": "Eventual",
-      "phonetic": "",
-      "translation": "\u6700\u540e\u7684",
-      "sentence": "",
+      "phonetic": "/əˈvɛnʧuəl/",
+      "translation": "最后的",
+      "sentence": "hope of eventual (or ultimate) rescue",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "v-ven-intervene",
       "word": "intervene",
       "display": "Intervene",
-      "phonetic": "",
-      "translation": "\u5e72\u9884",
-      "sentence": "",
+      "phonetic": "/ˌɪntərˈvin/",
+      "translation": "干预",
+      "sentence": "Why did the U.S. not intervene earlier in WW II?",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "v-ven-invent",
       "word": "invent",
       "display": "Invent",
-      "phonetic": "",
-      "translation": "\u53d1\u660e",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈvɛnt/",
+      "translation": "发明",
+      "sentence": "excogitate a way to measure the speed of light",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "v-ven-inventory",
       "word": "inventory",
       "display": "Inventory",
-      "phonetic": "",
-      "translation": "\u5b58\u8d27",
-      "sentence": "",
+      "phonetic": "/ˌɪnvənˈtɔri/",
+      "translation": "存货",
+      "sentence": "they carried a vast inventory of hardware",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "v-ven-prevent",
       "word": "prevent",
       "display": "Prevent",
-      "phonetic": "",
-      "translation": "\u9884\u9632",
-      "sentence": "",
+      "phonetic": "/prɪˈvɛnt/",
+      "translation": "预防",
+      "sentence": "We must prevent the cancer from spreading",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "v-ven-preventive",
       "word": "preventive",
       "display": "Preventive",
-      "phonetic": "",
-      "translation": "\u9884\u9632\u7684",
-      "sentence": "",
+      "phonetic": "/prɪˈvɛnɪv/",
+      "translation": "预防的",
+      "sentence": "preventive medicine",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "v-ven-revenue",
       "word": "revenue",
       "display": "Revenue",
-      "phonetic": "",
-      "translation": "\u7a0e\u6536",
-      "sentence": "",
+      "phonetic": "/ˈrɛvəˌnu/",
+      "translation": "税收",
+      "sentence": "A revenue is the entire amount of income before any deductions are made.",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "v-ven-ventilate",
       "word": "ventilate",
       "display": "Ventilate",
-      "phonetic": "",
-      "translation": "\u4f7f\u901a\u98ce",
-      "sentence": "",
+      "phonetic": "/ˈvɛntɪˌleɪt/",
+      "translation": "使通风",
+      "sentence": "Wheat should be well ventilated",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "v-ven-vessel",
       "word": "vessel",
       "display": "Vessel",
-      "phonetic": "",
-      "translation": "\u5bb9\u5668",
-      "sentence": "",
+      "phonetic": "/ˈvɛsəl/",
+      "translation": "容器",
+      "sentence": "A vessel is a tube in which a body fluid circulates.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "v-ven-vest",
       "word": "vest",
       "display": "Vest",
-      "phonetic": "",
-      "translation": "\u80cc\u5fc3;\u5185\u8863",
-      "sentence": "",
+      "phonetic": "/vɛst/",
+      "translation": "背心;内衣",
+      "sentence": "They vested the council with special rights",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "v-ven-veteran",
       "word": "veteran",
       "display": "Veteran",
-      "phonetic": "",
-      "translation": "\u8001\u624b",
-      "sentence": "",
+      "phonetic": "/ˈvɛtərən/",
+      "translation": "老手",
+      "sentence": "the veterans laughed at the new recruits",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "v-ven-veto",
       "word": "veto",
       "display": "Veto",
-      "phonetic": "",
-      "translation": "\u5426\u51b3",
-      "sentence": "",
+      "phonetic": "/ˈviˌtoʊ/",
+      "translation": "否决",
+      "sentence": "The President vetoed the bill",
       "tags": [
         "root-family"
       ],
@@ -200,8 +200,9 @@
     }
   ],
   "parentRootId": "v",
-  "rootLevel": 1,
+  "rootLevel": 2,
   "rootPath": "v>v-ven",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

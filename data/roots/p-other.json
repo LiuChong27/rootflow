@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "p-other",
-  "root": "P\u5176\u4ed6",
+  "root": "P其他",
   "meaning": "other",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "p",
-  "rootLevel": 2,
-  "rootPath": "p>p-other",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "p-other",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

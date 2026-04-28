@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-important-gender",
-  "root": "\u7537\u5973",
+  "root": "男女",
   "meaning": "gender",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "男女",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-important-gender-magistrate",
       "word": "magistrate",
       "display": "Magistrate",
-      "phonetic": "",
-      "translation": "\u5730\u65b9\u884c\u653f\u5b98",
-      "sentence": "",
+      "phonetic": "/ˈmæʤɪˌstreɪt/",
+      "translation": "地方行政官",
+      "sentence": "A magistrate is a lay judge or civil authority who administers the law (especially one who conducts a court dealing with minor offenses).",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-important-gender-maid",
       "word": "maid",
       "display": "Maid",
-      "phonetic": "",
-      "translation": "\u5c11\u5973\uff1b\u5973\u4ec6",
-      "sentence": "",
+      "phonetic": "/meɪd/",
+      "translation": "少女；女仆",
+      "sentence": "A maid is a female domestic.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "m-important-gender-maiden",
       "word": "maiden",
       "display": "Maiden",
-      "phonetic": "",
-      "translation": "\u5c11\u5973\uff1b\u7eaf\u6d01\u7684\uff1b\u672a\u5a5a\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmeɪdən/",
+      "translation": "少女；纯洁的；未婚的",
+      "sentence": "his first (or maiden) speech in Congress",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "m-important-gender-marital",
       "word": "marital",
       "display": "Marital",
-      "phonetic": "",
-      "translation": "\u5a5a\u59fb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmærətəl/",
+      "translation": "婚姻的",
+      "sentence": "marital status",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "m-important-gender-marriage",
       "word": "marriage",
       "display": "Marriage",
-      "phonetic": "",
-      "translation": "\u5a5a\u59fb\uff1b\u7ed3\u5a5a",
-      "sentence": "",
+      "phonetic": "/ˈmɛrɪʤ/",
+      "translation": "婚姻；结婚",
+      "sentence": "a long and happy marriage",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "m-important-gender-married",
       "word": "married",
       "display": "Married",
-      "phonetic": "",
-      "translation": "\u5df2\u5a5a\u7684\uff1b\u592b\u5987\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɛrid/",
+      "translation": "已婚的；夫妇的",
+      "sentence": "we invited several young marrieds",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "m-important-gender-marry",
       "word": "marry",
       "display": "Marry",
-      "phonetic": "",
-      "translation": "\u7ed3\u5a5a",
-      "sentence": "",
+      "phonetic": "/ˈmɛri/",
+      "translation": "结婚",
+      "sentence": "The minister married us on Saturday",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "m-important-gender-masculine",
       "word": "masculine",
       "display": "Masculine",
-      "phonetic": "",
-      "translation": "\u7537\u6027\u7684\uff1b\u9633\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmæskjələn/",
+      "translation": "男性的；阳性的",
+      "sentence": "a masculine cadence",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "m-important-gender-master",
       "word": "master",
       "display": "Master",
-      "phonetic": "",
-      "translation": "\u7537\u4e3b\u4eba\uff1b\u7855\u58eb \u7cbe\u901a\uff1b\u4e3b\u8981\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmæstər/",
+      "translation": "男主人；硕士 精通；主要的",
+      "sentence": "a master of the violin",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "m-important-gender-masterpiece",
       "word": "masterpiece",
       "display": "Masterpiece",
-      "phonetic": "",
-      "translation": "\u6770\u4f5c\uff1b\u540d\u8457",
-      "sentence": "",
+      "phonetic": "/ˈmæstərˌpis/",
+      "translation": "杰作；名著",
+      "sentence": "A masterpiece is the most outstanding work of a creative artist or craftsman.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "m-important-gender-match",
       "word": "match",
       "display": "Match",
-      "phonetic": "",
-      "translation": "\u6bd4\u8d5b\uff1b\u914d\u5076\uff1b\u5339\u914d",
-      "sentence": "",
+      "phonetic": "/mæʧ/",
+      "translation": "比赛；配偶；匹配",
+      "sentence": "he always carries matches to light his pipe",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "m-important-gender-mate",
       "word": "mate",
       "display": "Mate",
-      "phonetic": "",
-      "translation": "\u914d\u5076\uff1b\u4f19\u4f34",
-      "sentence": "",
+      "phonetic": "/meɪt/",
+      "translation": "配偶；伙伴",
+      "sentence": "it was his first start against his former teammates",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "m-important-gender-material",
       "word": "material",
       "display": "Material",
-      "phonetic": "",
-      "translation": "\u8089\u4f53\u7684\uff1b\u6750\u6599",
-      "sentence": "",
+      "phonetic": "/məˈtɪriəl/",
+      "translation": "肉体的；材料",
+      "sentence": "coal is a hard black material",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "m-important-gender-mature",
       "word": "mature",
       "display": "Mature",
-      "phonetic": "",
-      "translation": "\u6210\u5e74\u4eba\u7684\uff1b\u6210\u719f\u7684",
-      "sentence": "",
+      "phonetic": "/məˈʧʊr/",
+      "translation": "成年人的；成熟的",
+      "sentence": "He matured fast",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "m-important-gender-mayor",
       "word": "mayor",
       "display": "Mayor",
-      "phonetic": "",
-      "translation": "\u5e02\u957f",
-      "sentence": "",
+      "phonetic": "/meɪər/",
+      "translation": "市长",
+      "sentence": "A mayor is the head of a city government.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "m-important-gender-member",
       "word": "member",
       "display": "Member",
-      "phonetic": "",
-      "translation": "\u6210\u5458\uff1b\u4f1a\u5458",
-      "sentence": "",
+      "phonetic": "/ˈmɛmbər/",
+      "translation": "成员；会员",
+      "sentence": "only members will be admitted",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "m-important-gender-membership",
       "word": "membership",
       "display": "Membership",
-      "phonetic": "",
-      "translation": "\u4f1a\u5458\u8d44\u683c",
-      "sentence": "",
+      "phonetic": "/ˈmɛmbərˌʃɪp/",
+      "translation": "会员资格",
+      "sentence": "they polled their membership",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "m-important-gender-merry",
       "word": "merry",
       "display": "Merry",
-      "phonetic": "",
-      "translation": "\u6b22\u4e50\u7684\uff1b\u6109\u5feb\u7684",
-      "sentence": "",
+      "phonetic": "/ˈmɛri/",
+      "translation": "欢乐的；愉快的",
+      "sentence": "have a merry Christmas",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "m-important-gender-minister",
       "word": "minister",
       "display": "Minister",
-      "phonetic": "",
-      "translation": "\u5927\u81e3\uff1b\u90e8\u957f",
-      "sentence": "",
+      "phonetic": "/ˈmɪnɪstər/",
+      "translation": "大臣；部长",
+      "sentence": "clergymen are usually called ministers in Protestant churches",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "m-important-gender-ministry",
       "word": "ministry",
       "display": "Ministry",
-      "phonetic": "",
-      "translation": "\u7267\u5e08",
-      "sentence": "",
+      "phonetic": "/ˈmɪnɪstri/",
+      "translation": "牧师",
+      "sentence": "he is studying for the ministry",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "m-important-gender-miss",
       "word": "miss",
       "display": "Miss",
-      "phonetic": "",
-      "translation": "\u5c0f\u59d0",
-      "sentence": "",
+      "phonetic": "/mɪs/",
+      "translation": "小姐",
+      "sentence": "I missed that remark",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "m-important-gender-mistress",
       "word": "mistress",
       "display": "Mistress",
-      "phonetic": "",
-      "translation": "\u5973\u4e3b\u4eba\uff1b\u60c5\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈmɪstrəs/",
+      "translation": "女主人；情人",
+      "sentence": "Mistress refers to an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man.",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "m-important-gender-monarch",
       "word": "monarch",
       "display": "Monarch",
-      "phonetic": "",
-      "translation": "\u5e1d\u738b\uff1b\u541b\u4e3b",
-      "sentence": "",
+      "phonetic": "/ˈmɑˌnɑrk/",
+      "translation": "帝王；君主",
+      "sentence": "A monarch is a nation's ruler or head of state usually by hereditary right.",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "m-important-gender-mutual",
       "word": "mutual",
       "display": "Mutual",
-      "phonetic": "",
-      "translation": "\u76f8\u4e92\u7684\uff1b\u5f7c\u6b64\u7684",
-      "sentence": "",
+      "phonetic": "/mˈjuʧuəl/",
+      "translation": "相互的；彼此的",
+      "sentence": "the mutual interests of management and labor",
       "tags": [
         "root-family"
       ],
@@ -299,5 +299,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-important>m-important-gender",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

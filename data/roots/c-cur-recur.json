@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cur-recur",
-  "root": "recur\u590d\u73b0\uff1b\u590d\u53d1",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "recur复现；复发",
+  "meaning": "recur",
+  "descriptionCn": "复现；复发",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cur-recur-recurrence",
       "word": "recurrence",
       "display": "Recurrence",
-      "phonetic": "",
-      "translation": "\u91cd\u73b0\uff1b\u56de\u60f3",
-      "sentence": "",
+      "phonetic": "/rɪˈkərəns/",
+      "translation": "重现；回想",
+      "sentence": "the return of spring",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cur-recur-recurrent",
       "word": "recurrent",
       "display": "Recurrent",
-      "phonetic": "",
-      "translation": "\u9891\u9891\u53d1\u751f\u7684\uff1b\u5468\u671f\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/rɪˈkərənt/",
+      "translation": "频频发生的；周期性的",
+      "sentence": "perennial efforts to stipulate the requirements",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-cur>c-cur-recur",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

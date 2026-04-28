@@ -1,5 +1,6 @@
 ﻿<template>
   <view class="roots-page" :class="currentTheme">
+    <theme-toggle-fab :theme="currentTheme" />
     <view class="roots-shell">
       <view class="page-header">
         <view class="page-copy">
@@ -58,14 +59,16 @@
         <text>{{ errorMsg }}</text>
       </view>
 
-      <view class="mind-card">
+      <view class="mind-card" :class="{ 'is-collapsed': isMindCardCollapsed }">
         <view class="mind-card__header">
           <view class="mind-card__copy">
             <text class="mind-card__kicker">CENTER TREE</text>
             <text class="mind-card__title">{{ getRootDisplayName(baseRoot) }}</text>
-            <text class="mind-card__subtitle">{{ getRootSubtitle(currentRootDetail) }}</text>
+            <text v-if="compactRootSubtitle && !isMindCardCollapsed" class="mind-card__subtitle">{{
+              compactRootSubtitle
+            }}</text>
           </view>
-          <view class="mind-stats">
+          <view v-if="!isMindCardCollapsed" class="mind-stats">
             <view class="mind-stat">
               <text class="mind-stat__value">{{ topBranches.length }}</text>
               <text class="mind-stat__label">一级主干</text>
@@ -85,9 +88,17 @@
               <text class="mind-stat__label">关联单词</text>
             </view>
           </view>
+          <view class="mind-card__toggle" @tap="toggleMindCard">
+            <text>{{ isMindCardCollapsed ? '展开' : '收起' }}</text>
+          </view>
         </view>
 
-        <scroll-view v-if="focusPath.length" class="path-rail" scroll-x :show-scrollbar="false">
+        <scroll-view
+          v-if="!isMindCardCollapsed && focusPath.length"
+          class="path-rail"
+          scroll-x
+          :show-scrollbar="false"
+        >
           <view class="path-track">
             <view
               v-for="crumb in focusPath"
@@ -104,10 +115,6 @@
             </view>
           </view>
         </scroll-view>
-
-        <view class="mind-hint" v-if="hintText">
-          <text>{{ hintText }}</text>
-        </view>
 
         <view class="tree-viewport">
           <scroll-view
@@ -130,6 +137,12 @@
                 :style="{ width: treeModel.width + 'px', height: treeModel.height + 'px' }"
               ></canvas>
 
+              <view
+                v-if="activeWordCardNode && activeWordCardStyle"
+                class="word-card-backdrop"
+                @tap="closeActiveWordCard"
+              ></view>
+
               <view v-if="treeModel.nodes.length" class="tree-node-layer">
                 <view
                   v-for="node in treeModel.nodes"
@@ -137,7 +150,7 @@
                   class="tree-node"
                   :class="getNodeClasses(node)"
                   :style="getNodeStyle(node)"
-                  @tap="handleTreeNodeTap(node)"
+                  @tap.stop="handleTreeNodeTap(node)"
                 >
                   <text class="tree-node__eyebrow" v-if="node.eyebrow">{{ node.eyebrow }}</text>
                   <text class="tree-node__title">{{ node.title }}</text>
@@ -154,17 +167,16 @@
                 <view
                   class="word-card"
                   :class="{ 'is-playing': audioPlayingWordId === activeWordCardId }"
+                  @tap.stop
                 >
-                  <view class="word-card__close" @tap="activeWordCardId = ''">×</view>
+                  <view class="word-card__close" @tap.stop="closeActiveWordCard">×</view>
                   <view class="word-card__header">
                     <text class="word-card__word">{{
                       getWordDisplayName(activeWordCardData)
                     }}</text>
-                    <view
-                      v-if="activeWordCardData.status === wordRepo.STATUS_MASTERED"
-                      class="word-card__status"
-                      >已掌握</view
-                    >
+                    <view v-if="getWordCardStatus(activeWordCardData)" class="word-card__status">
+                      {{ getWordCardStatus(activeWordCardData) }}
+                    </view>
                   </view>
                   <text v-if="activeWordCardData.phonetic" class="word-card__phonetic">{{
                     activeWordCardData.phonetic
@@ -177,16 +189,16 @@
                   }}</text>
                   <view class="word-card__actions">
                     <view
+                      v-if="!activeWordCardData.isInReview"
                       class="word-card__button word-card__button--primary"
-                      @tap="toggleWordMastered(activeWordCardData)"
+                      @tap.stop="enqueueWord(activeWordCardData)"
                     >
-                      <text>{{
-                        activeWordCardData.status === wordRepo.STATUS_MASTERED
-                          ? '取消掌握'
-                          : '标记掌握'
-                      }}</text>
+                      <text>加入复习</text>
                     </view>
-                    <view class="word-card__button" @tap="syncWordProgress">
+                    <view v-else class="word-card__schedule">
+                      <text>{{ formatNextReviewLabel(activeWordCardData) }}</text>
+                    </view>
+                    <view class="word-card__button" @tap.stop="syncWordProgress">
                       <text>{{ isCloudLinked ? '同步进度' : '仅本地保存' }}</text>
                     </view>
                   </view>
@@ -205,11 +217,16 @@
 </template>
 
 <script>
+import themePage from '../../mixins/themePage';
 import authService from '../../services/authService';
 import progressSyncService from '../../services/progressSyncService';
+import { getStoredTheme, toggleStoredTheme } from '../../services/themeService';
 import wordRepo from '../../services/wordRepo';
 
 const WORD_DOUBLE_TAP_WINDOW = 280;
+const STATUS_REVIEW = 'review';
+const STATUS_MASTERED = 'mastered';
+const RAW_DATA_ERROR_CODE = 'RAW_DATA_UNAVAILABLE';
 
 const TYPE_LABELS = {
   section: '前缀',
@@ -226,9 +243,9 @@ const THEME_LINES = {
     tertiary: 'rgba(255, 255, 255, 0.24)',
   },
   'theme-clay-pastel': {
-    primary: 'rgba(235, 104, 74, 0.84)',
-    secondary: 'rgba(78, 153, 209, 0.72)',
-    tertiary: 'rgba(76, 95, 116, 0.2)',
+    primary: 'rgba(104, 114, 124, 0.78)',
+    secondary: 'rgba(197, 203, 210, 0.78)',
+    tertiary: 'rgba(94, 108, 128, 0.16)',
   },
 };
 
@@ -257,6 +274,7 @@ const NODE_METRICS = {
 };
 
 const ALPHABET_SEEDS = 'abcdefghijklmnopqrstuvwxyz'.split('');
+const ROOTS_MIND_CARD_COLLAPSE_STORAGE_KEY = 'rf_roots_mind_card_collapsed_v1';
 
 const LAYOUT = {
   paddingX: 48, // 优化：从 64 → 48
@@ -272,6 +290,12 @@ const textWidthCache = Object.create(null);
 
 function normalizeText(input) {
   return String(input || '').trim();
+}
+
+function normalizeComparableToken(input) {
+  return normalizeText(input)
+    .toLowerCase()
+    .replace(/[\s_-]+/g, '');
 }
 
 function clamp(value, min, max) {
@@ -328,15 +352,24 @@ function measureNodeSize(kind, title, subtitle, eyebrow, badge) {
   };
 }
 
+function getWordReviewState(word) {
+  if (wordRepo && typeof wordRepo.getWordReviewState === 'function') {
+    return wordRepo.getWordReviewState(word);
+  }
+  return (word && word.status) || 'new';
+}
+
 export default {
+  mixins: [themePage],
   data() {
     return {
-      wordRepo,
-      currentTheme: 'theme-dark-zen',
+      wordRepo: null,
+      currentTheme: getStoredTheme(),
       currentSeed: 'a',
       seedList: [],
       seedStats: {},
       isSeedDropdownOpen: false,
+      isMindCardCollapsed: false,
       dataSourceHealth: null,
       baseRoot: null,
       topBranches: [],
@@ -395,6 +428,19 @@ export default {
     currentSeedWordCount() {
       return this.getSeedWordCount(this.currentSeed);
     },
+    compactRootSubtitle() {
+      const root = this.currentRootDetail || this.baseRoot;
+      if (!root) return '';
+      const description = normalizeText(root.descriptionCn);
+      const meaning = normalizeText(root.meaning);
+      const summary = [description, meaning].filter(
+        (item, index, list) => item && list.indexOf(item) === index,
+      );
+      if (summary.length) {
+        return ellipsis(summary.join(' · '), 28);
+      }
+      return `${getTypeLabel(root.type)} · ${Number(root.descendantWordCount || root.wordCount || 0)} 词`;
+    },
     baseSnapshot() {
       const baseRootId = this.baseRoot && this.baseRoot.rootId;
       if (!baseRootId) return null;
@@ -420,13 +466,7 @@ export default {
       );
     },
     isCloudLinked() {
-      return authService.isLoggedIn();
-    },
-    hintText() {
-      if (this.errorMsg) return '';
-      if (this.isLoading) return '正在同步词根树...';
-      if (this.focusedNodeId) return '单击词根继续展开或收起，单击单词看卡片，双击朗读。';
-      return '单击词根探索整棵词根树，单击单词看卡片，双击朗读。';
+      return authService.isCloudLinked();
     },
     activeWordCardData() {
       if (!this.activeWordCardId) return null;
@@ -474,14 +514,28 @@ export default {
   },
 
   async onLoad() {
-    const savedTheme = uni.getStorageSync('user_theme');
+    const savedTheme = getStoredTheme();
     if (savedTheme) this.currentTheme = savedTheme;
+    const savedMindCardCollapsed = uni.getStorageSync(ROOTS_MIND_CARD_COLLAPSE_STORAGE_KEY);
+    this.isMindCardCollapsed =
+      typeof savedMindCardCollapsed === 'boolean' ? savedMindCardCollapsed : false;
+    await this.ensureLearningServices();
     try {
-      await progressSyncService.hydrateProgressFromCloud();
+      if (authService.isCloudLinked()) {
+        await progressSyncService.hydrateProgressFromCloud();
+      }
     } catch (error) {
       // 未登录或云端不可用时继续使用本地进度
     }
-    this.initializeSeeds();
+    await this.initializeSeeds();
+    await this.applyPendingRootFocus();
+  },
+
+  async onShow() {
+    const savedTheme = getStoredTheme();
+    if (savedTheme) this.currentTheme = savedTheme;
+    await this.ensureLearningServices();
+    await this.applyPendingRootFocus();
   },
 
   onReady() {
@@ -513,6 +567,10 @@ export default {
   },
 
   methods: {
+    async ensureLearningServices() {
+      this.wordRepo = wordRepo;
+    },
+
     beginRequest(scope) {
       const nextToken = Number(this.requestState[scope] || 0) + 1;
       this.requestState = { ...this.requestState, [scope]: nextToken };
@@ -528,8 +586,17 @@ export default {
       this.isSeedDropdownOpen = !this.isSeedDropdownOpen;
     },
 
+    toggleMindCard() {
+      this.isMindCardCollapsed = !this.isMindCardCollapsed;
+      uni.setStorageSync(ROOTS_MIND_CARD_COLLAPSE_STORAGE_KEY, this.isMindCardCollapsed);
+    },
+
     closeSeedDropdown() {
       this.isSeedDropdownOpen = false;
+    },
+
+    closeActiveWordCard() {
+      this.activeWordCardId = '';
     },
 
     selectAlphabetOption(option) {
@@ -569,7 +636,7 @@ export default {
 
     formatRepoError(error) {
       const code = error && error.code ? error.code : '';
-      if (code === wordRepo.RAW_DATA_ERROR_CODE) {
+      if (code === RAW_DATA_ERROR_CODE) {
         return '词根原始数据不可用，请检查 data/raw 后重新生成。';
       }
       const message = String((error && error.message) || '');
@@ -623,7 +690,41 @@ export default {
         '已选中单词'
       );
     },
+    getWordCardStatus(word) {
+      const reviewState = getWordReviewState(word);
+      if (reviewState === 'overdue') return '逾期待复习';
+      if (reviewState === 'due') return '现在复习';
+      if (reviewState === STATUS_MASTERED) return '已稳固';
+      if (reviewState === STATUS_REVIEW) return '已排程';
+      return word && word.isInReview ? '待进入复习' : '';
+    },
+    formatNextReviewLabel(word) {
+      const nextReviewAt = Number((word && word.nextReviewAt) || 0);
+      if (!nextReviewAt) return '已加入复习';
+      const reviewState = getWordReviewState(word);
+      if (reviewState === 'due' || reviewState === 'overdue') return '下一个动作：现在复习';
+      const date = new Date(nextReviewAt);
+      if (Number.isNaN(date.getTime())) return '已加入复习';
+      const month = String(date.getMonth() + 1).padStart(2, '0');
+      const day = String(date.getDate()).padStart(2, '0');
+      return `下次复习 ${month}/${day}`;
+    },
+    async applyPendingRootFocus() {
+      await this.ensureLearningServices();
+      if (!this.baseRoot) return;
+      const pendingRootId = wordRepo.consumePendingRootFocus();
+      if (!pendingRootId) return;
+      const pendingMeta = wordRepo.getRootMeta(pendingRootId);
+      const pendingPath = normalizeText((pendingMeta && pendingMeta.rootPath) || pendingRootId);
+      const pendingSeed = normalizeText(pendingPath.split('>')[0]).toLowerCase();
+      if (pendingSeed && pendingSeed !== this.currentSeed && this.seedList.includes(pendingSeed)) {
+        this.currentSeed = pendingSeed;
+        await this.loadSeedMindTree();
+      }
+      await this.openRoot(pendingRootId);
+    },
     async initializeSeeds() {
+      await this.ensureLearningServices();
       this.errorMsg = '';
       this.dataSourceHealth =
         typeof wordRepo.getDataSourceHealth === 'function'
@@ -710,6 +811,7 @@ export default {
     },
 
     async loadSeedMindTree() {
+      await this.ensureLearningServices();
       if (!this.currentSeed) return;
       this.closeSeedDropdown();
       const requestToken = this.beginRequest('seed');
@@ -765,7 +867,7 @@ export default {
             : new Set();
         this.cachedTreeModel = null; // 清除缓存，避免显示旧数据
         this.focusedNodeId = '';
-        this.activeWordCardId = '';
+        this.closeActiveWordCard();
         this.audioPlayingWordId = '';
         this.lastTappedWordId = '';
         this.lastTappedWordAt = 0;
@@ -995,7 +1097,7 @@ export default {
         this.focusedNodeId = normalizedRootId;
       }
       this.cachedTreeModel = null;
-      this.activeWordCardId = '';
+      this.closeActiveWordCard();
       this.lastTappedWordId = '';
       this.lastTappedWordAt = 0;
       this.$nextTick(() => {
@@ -1005,6 +1107,7 @@ export default {
     },
 
     async toggleRootNode(node) {
+      await this.ensureLearningServices();
       const rootId = this.normalizeRootId(node && node.data && node.data.rootId);
       if (!rootId) return;
       const isExpanded = (this.expandedNodeIds || []).includes(rootId);
@@ -1019,6 +1122,7 @@ export default {
           this.getSnapshot(rootId) ||
           (await this.fetchBranchSnapshot(rootId, {}, { scope: 'branch', token: requestToken }));
         if (!snapshot || !this.isLatestRequest('branch', requestToken)) return;
+        wordRepo.setLastLearningRoot(rootId);
         this.expandedNodeIds = uniqueIds([...(this.expandedNodeIds || []), rootId]);
         this.expandedWordRootIds = new Set([...(this.expandedWordRootIds || []), rootId]);
         this.focusedNodeId = rootId;
@@ -1056,20 +1160,20 @@ export default {
         this.playWordPronunciation(word);
       }
     },
-    async toggleWordMastered(word) {
+    async enqueueWord(word) {
+      await this.ensureLearningServices();
       if (!word || !word.id || this.isSyncingProgress) return;
-      const nextStatus =
-        word.status === wordRepo.STATUS_MASTERED ? wordRepo.STATUS_NEW : wordRepo.STATUS_MASTERED;
       this.isSyncingProgress = true;
       try {
         if (this.isCloudLinked) {
-          await progressSyncService.markWordStatusAndSync(word.id, nextStatus);
+          await progressSyncService.enqueueWordForReviewAndSync(word.id);
         } else {
-          wordRepo.setWordStatus(word.id, nextStatus);
+          wordRepo.enqueueWordForReview(word.id);
         }
         await this.refreshActiveBranchProgress(word.id);
+        wordRepo.setLastLearningRoot(word.rootId);
         uni.showToast({
-          title: nextStatus === wordRepo.STATUS_MASTERED ? '已标记掌握' : '已恢复为新词',
+          title: '已加入复习',
           icon: 'none',
         });
       } catch (error) {
@@ -1079,6 +1183,7 @@ export default {
       }
     },
     async syncWordProgress() {
+      await this.ensureLearningServices();
       if (!this.isCloudLinked) {
         uni.showToast({ title: '当前仅保存在本地', icon: 'none' });
         return;
@@ -1117,6 +1222,7 @@ export default {
     },
 
     async fetchBranchSnapshot(rootId, options, requestMeta) {
+      await this.ensureLearningServices();
       const normalizedRootId = normalizeText(rootId).toLowerCase();
       if (!normalizedRootId) return null;
       const scope = normalizeText(requestMeta && requestMeta.scope) || 'branch';
@@ -1128,9 +1234,11 @@ export default {
     },
 
     async openRoot(rootId) {
+      await this.ensureLearningServices();
       const normalizedRootId = normalizeText(rootId).toLowerCase();
       if (!normalizedRootId) return;
       if (normalizedRootId === (this.baseRoot && this.baseRoot.rootId)) {
+        wordRepo.setLastLearningRoot(normalizedRootId);
         const baseSnapshot = this.getSnapshot(normalizedRootId) || this.buildBaseSnapshot();
         this.focusedNodeId = '';
         this.focusPath = this.baseRoot ? [this.baseRoot] : [];
@@ -1144,7 +1252,7 @@ export default {
             ? new Set([normalizedRootId])
             : new Set();
         this.cachedTreeModel = null; // 清除缓存
-        this.activeWordCardId = '';
+        this.closeActiveWordCard();
         this.lastTappedWordId = '';
         this.lastTappedWordAt = 0;
         this.$nextTick(() => {
@@ -1163,6 +1271,7 @@ export default {
           { scope: 'branch', token: requestToken },
         );
         if (!snapshot || !this.isLatestRequest('branch', requestToken)) return;
+        wordRepo.setLastLearningRoot(normalizedRootId);
         this.focusedNodeId = normalizedRootId;
         this.focusPath =
           Array.isArray(snapshot.path) && snapshot.path.length
@@ -1187,9 +1296,7 @@ export default {
     toggleTheme() {
       if (this.isLoading) return;
       this.closeSeedDropdown();
-      this.currentTheme =
-        this.currentTheme === 'theme-dark-zen' ? 'theme-clay-pastel' : 'theme-dark-zen';
-      uni.setStorageSync('user_theme', this.currentTheme);
+      this.currentTheme = toggleStoredTheme();
       this.scheduleDraw();
     },
 
@@ -1270,9 +1377,8 @@ export default {
         ),
         depth > 2 ? 14 : 18,
       );
-      const eyebrow = isTop
-        ? 'L1 ' + getTypeLabel(rootSummary.type)
-        : getTypeLabel(rootSummary.type);
+      const typeLabel = getTypeLabel(rootSummary.type);
+      const eyebrow = kind === 'category' ? '' : isTop ? 'L1 ' + typeLabel : typeLabel;
       const badge = Number(rootSummary.descendantWordCount || rootSummary.wordCount || 0)
         ? String(Number(rootSummary.descendantWordCount || rootSummary.wordCount || 0)) + 'w'
         : '';
@@ -1296,8 +1402,10 @@ export default {
     makeWordNode(word, side, depth, ownerId) {
       const title = this.getWordDisplayName(word);
       const subtitle = '';
-      const badge = word.status === wordRepo.STATUS_MASTERED ? '已掌握' : '';
-      const size = measureNodeSize('word', title, subtitle, 'WORD', badge);
+      const displayTier = getWordReviewState(word);
+      const badge = displayTier === 'overdue' ? '回弹' : displayTier === 'due' ? '复习' : '';
+      const eyebrow = '';
+      const size = measureNodeSize('word', title, subtitle, eyebrow, badge);
       return {
         id: 'word-' + word.id,
         kind: 'word',
@@ -1307,13 +1415,53 @@ export default {
         height: size.height,
         title,
         subtitle,
-        eyebrow: 'WORD',
+        eyebrow,
         badge,
         data: word,
         ownerId,
         isFocused: false,
         isPath: false,
         isActiveWord: word.id === this.activeWordCardId,
+        displayTier,
+      };
+    },
+    shouldPromoteTopBranchToWord(branch) {
+      if (!branch) return false;
+      const previewWords = Array.isArray(branch.previewWords) ? branch.previewWords : [];
+      const previewChildren = Array.isArray(branch.previewChildren) ? branch.previewChildren : [];
+      const totalWords = Number(branch.totalWords || branch.wordCount || previewWords.length || 0);
+      const totalChildren = Number(
+        branch.totalChildren || branch.childCount || previewChildren.length || 0,
+      );
+      if (totalWords !== 1) return false;
+      if (totalChildren !== 0) return false;
+      if (previewWords.length !== 1) return false;
+
+      const topWord = previewWords[0];
+      const branchToken = normalizeComparableToken(
+        this.getRootDisplayName(branch) || branch.rootId || '',
+      );
+      const wordToken = normalizeComparableToken(
+        this.getWordDisplayName(topWord) || topWord.id || '',
+      );
+      if (!branchToken || !wordToken) return false;
+      return branchToken === wordToken;
+    },
+    buildTopBranchTree(branch) {
+      const side = this.treeSideMap[branch.rootId] || branch.sideHint || 'left';
+      if (this.shouldPromoteTopBranchToWord(branch)) {
+        const previewWords = Array.isArray(branch.previewWords) ? branch.previewWords : [];
+        const topWord = previewWords[0];
+        const promotedWord = {
+          ...topWord,
+          rootId: normalizeText(topWord && topWord.rootId) || normalizeText(branch.rootId),
+        };
+        const wordNode = this.makeWordNode(promotedWord, side, 1, normalizeText(branch.rootId));
+        return { side, tree: { node: wordNode, children: [], subtreeHeight: wordNode.height } };
+      }
+      return {
+        side,
+        tree: this.buildVisualTree(branch, side, 1, true),
       };
     },
 
@@ -1371,7 +1519,12 @@ export default {
           from: parentNode.id,
           to: currentNode.id,
           side,
-          tone: currentNode.isFocused || currentNode.isPath ? 'primary' : 'secondary',
+          tone:
+            currentNode.kind === 'word' && currentNode.displayTier === STATUS_MASTERED
+              ? 'tertiary'
+              : currentNode.isFocused || currentNode.isPath
+                ? 'primary'
+                : 'secondary',
         });
       }
       if (!tree.children.length) return;
@@ -1447,8 +1600,8 @@ export default {
       const leftTrees = [];
       const rightTrees = [];
       this.topBranches.forEach((branch) => {
-        const side = this.treeSideMap[branch.rootId] || branch.sideHint || 'left';
-        const tree = this.buildVisualTree(branch, side, 1, true);
+        const { side, tree } = this.buildTopBranchTree(branch);
+        if (!tree || !tree.node) return;
         if (side === 'right') rightTrees.push(tree);
         else leftTrees.push(tree);
       });
@@ -1553,6 +1706,7 @@ export default {
         node.isPath ? 'is-path' : '',
         node.isFocused ? 'is-focused' : '',
         node.isActiveWord ? 'is-word-active' : '',
+        node.displayTier ? 'is-word-' + node.displayTier : '',
       ].filter(Boolean);
     },
 
@@ -1671,10 +1825,10 @@ export default {
 }
 .theme-clay-pastel {
   background:
-    radial-gradient(circle at 14% 8%, rgba(105, 168, 228, 0.14), transparent 32%),
-    radial-gradient(circle at 84% 4%, rgba(238, 154, 172, 0.12), transparent 22%),
-    linear-gradient(180deg, #fbfdff 0%, #eef4fb 60%, #e6edf6 100%);
-  color: #223648;
+    radial-gradient(circle at 14% 8%, rgba(201, 214, 229, 0.18), transparent 32%),
+    radial-gradient(circle at 84% 4%, rgba(220, 228, 239, 0.14), transparent 22%),
+    linear-gradient(180deg, #f7f9fc 0%, #eef3f8 60%, #fbfcfe 100%);
+  color: #253243;
 }
 .page-header {
   display: flex;
@@ -1689,12 +1843,19 @@ export default {
   gap: 20rpx;
   align-items: flex-start;
 }
+.mind-card__header {
+  flex-wrap: wrap;
+}
 .page-copy,
 .mind-card__copy,
 .detail-copy {
   display: flex;
   flex-direction: column;
   gap: 10rpx;
+}
+.mind-card__copy {
+  flex: 1;
+  min-width: 0;
 }
 .page-kicker,
 .mind-card__kicker,
@@ -1723,8 +1884,19 @@ export default {
   opacity: 0.8;
 }
 .mind-card__subtitle {
-  min-height: 68rpx;
   display: block;
+}
+.mind-card__toggle {
+  flex-shrink: 0;
+  min-height: 60rpx;
+  padding: 0 20rpx;
+  border-radius: 999rpx;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20rpx;
+  line-height: 1;
+  box-sizing: border-box;
 }
 .page-toolbar {
   margin-top: 24rpx;
@@ -1838,8 +2010,8 @@ export default {
   border: 1rpx solid rgba(255, 255, 255, 0.14);
 }
 .theme-clay-pastel .theme-toggle {
-  background: rgba(255, 255, 255, 0.82);
-  border: 1rpx solid rgba(54, 90, 132, 0.12);
+  background: rgba(255, 255, 255, 0.58);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
 }
 .path-rail {
   margin-top: 26rpx;
@@ -1875,6 +2047,11 @@ export default {
   background: rgba(255, 255, 255, 0.06);
   border: 1rpx solid rgba(255, 255, 255, 0.1);
 }
+.theme-dark-zen .mind-card__toggle {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1rpx solid rgba(255, 255, 255, 0.14);
+  color: rgba(238, 245, 255, 0.82);
+}
 .theme-dark-zen .seed-dropdown__item {
   background: rgba(255, 255, 255, 0.04);
   border: 1rpx solid rgba(255, 255, 255, 0.08);
@@ -1895,24 +2072,29 @@ export default {
 .theme-clay-pastel .ghost-button,
 .theme-clay-pastel .sample-pill,
 .theme-clay-pastel .tag-pill {
-  background: rgba(255, 255, 255, 0.82);
-  border: 1rpx solid rgba(72, 103, 138, 0.1);
+  background: rgba(255, 255, 255, 0.58);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
+}
+.theme-clay-pastel .mind-card__toggle {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
+  color: rgba(31, 41, 51, 0.72);
 }
 .theme-clay-pastel .seed-dropdown__item {
-  background: rgba(247, 244, 238, 0.88);
-  border: 1rpx solid rgba(72, 103, 138, 0.08);
+  background: rgba(255, 255, 255, 0.7);
+  border: 1rpx solid rgba(31, 41, 51, 0.07);
 }
 .theme-clay-pastel .seed-dropdown__item.is-current {
-  background: rgba(255, 126, 95, 0.12);
-  border-color: rgba(235, 104, 74, 0.24);
+  background: rgba(255, 255, 255, 0.82);
+  border-color: rgba(31, 41, 51, 0.12);
 }
 .theme-dark-zen .path-pill.is-current {
   background: rgba(255, 126, 95, 0.16);
   border-color: rgba(255, 126, 95, 0.34);
 }
 .theme-clay-pastel .path-pill.is-current {
-  background: rgba(255, 126, 95, 0.12);
-  border-color: rgba(235, 104, 74, 0.24);
+  background: rgba(255, 255, 255, 0.82);
+  border-color: rgba(31, 41, 51, 0.12);
 }
 .seed-picker.is-disabled,
 .theme-toggle.is-disabled {
@@ -1967,15 +2149,11 @@ export default {
   font-size: 18rpx;
   opacity: 0.7;
 }
-.mind-hint,
+.mind-card.is-collapsed {
+  padding-bottom: 18rpx;
+}
 .word-list-empty {
   margin-top: 20rpx;
-  font-size: 22rpx;
-  line-height: 1.56;
-  opacity: 0.78;
-}
-.mind-hint {
-  min-height: 34rpx;
 }
 .tree-viewport {
   margin-top: 22rpx;
@@ -2002,9 +2180,17 @@ export default {
 }
 .tree-canvas {
   pointer-events: none;
+  z-index: 0;
 }
 .tree-node-layer {
   pointer-events: none;
+  z-index: 2;
+}
+.word-card-backdrop {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: transparent;
 }
 .word-card-node {
   position: absolute;
@@ -2038,9 +2224,9 @@ export default {
   color: #eef5ff;
 }
 .theme-clay-pastel .word-card {
-  background: rgba(255, 255, 255, 0.88);
-  border: 1rpx solid rgba(72, 103, 138, 0.12);
-  color: #223648;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
+  color: #253243;
 }
 .word-card__close {
   position: absolute;
@@ -2072,8 +2258,8 @@ export default {
   color: rgba(255, 180, 140, 0.96);
 }
 .theme-clay-pastel .word-card__status {
-  background: rgba(255, 126, 95, 0.12);
-  color: rgba(200, 80, 60, 0.96);
+  background: rgba(31, 41, 51, 0.06);
+  color: rgba(31, 41, 51, 0.72);
 }
 .word-card__phonetic {
   font-size: 18rpx;
@@ -2098,6 +2284,18 @@ export default {
   gap: 12rpx;
   margin-top: 16rpx;
 }
+.word-card__schedule {
+  flex: 1;
+  min-height: 56rpx;
+  border-radius: 14rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18rpx;
+  text-align: center;
+  padding: 0 12rpx;
+  box-sizing: border-box;
+}
 .word-card__button {
   flex: 1;
   min-height: 56rpx;
@@ -2112,20 +2310,30 @@ export default {
   color: #eef5ff;
   border: 1rpx solid rgba(255, 255, 255, 0.08);
 }
+.theme-dark-zen .word-card__schedule {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1rpx solid rgba(255, 255, 255, 0.08);
+  color: rgba(238, 245, 255, 0.76);
+}
 .theme-dark-zen .word-card__button--primary {
   background: rgba(255, 126, 95, 0.18);
   color: #ffd0c2;
   border-color: rgba(255, 126, 95, 0.24);
 }
 .theme-clay-pastel .word-card__button {
-  background: rgba(72, 103, 138, 0.08);
-  color: #223648;
-  border: 1rpx solid rgba(72, 103, 138, 0.08);
+  background: rgba(255, 255, 255, 0.44);
+  color: #253243;
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
+}
+.theme-clay-pastel .word-card__schedule {
+  background: rgba(255, 255, 255, 0.42);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
+  color: rgba(37, 50, 67, 0.76);
 }
 .theme-clay-pastel .word-card__button--primary {
-  background: rgba(255, 126, 95, 0.14);
-  color: #b24d38;
-  border-color: rgba(255, 126, 95, 0.2);
+  background: rgba(255, 255, 255, 0.82);
+  color: #1f2933;
+  border-color: rgba(31, 41, 51, 0.1);
 }
 .word-card.is-playing {
   animation: pulse 0.6s ease-in-out infinite;
@@ -2184,7 +2392,7 @@ export default {
 }
 .theme-dark-zen .tree-node--base,
 .theme-clay-pastel .tree-node--base {
-  background: linear-gradient(135deg, rgba(255, 100, 106, 0.94), rgba(255, 126, 95, 0.88));
+  background: linear-gradient(135deg, rgba(118, 138, 161, 0.94), rgba(93, 113, 136, 0.9));
   color: #fff8f4;
 }
 .theme-dark-zen .tree-node--section {
@@ -2192,8 +2400,8 @@ export default {
   border: 1rpx solid rgba(255, 158, 112, 0.34);
 }
 .theme-clay-pastel .tree-node--section {
-  background: rgba(255, 148, 104, 0.14);
-  border: 1rpx solid rgba(240, 136, 92, 0.26);
+  background: rgba(255, 255, 255, 0.56);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
 }
 .theme-dark-zen .tree-node--root,
 .theme-dark-zen .tree-node--branch,
@@ -2204,8 +2412,8 @@ export default {
 .theme-clay-pastel .tree-node--root,
 .theme-clay-pastel .tree-node--branch,
 .theme-clay-pastel .tree-node--category {
-  background: rgba(255, 255, 255, 0.94);
-  border: 1rpx solid rgba(72, 103, 138, 0.12);
+  background: rgba(255, 255, 255, 0.76);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
 }
 .theme-dark-zen .tree-node--word {
   background: rgba(244, 247, 251, 0.96);
@@ -2214,14 +2422,50 @@ export default {
   animation: wordNodeFadeIn 180ms ease;
 }
 .theme-clay-pastel .tree-node--word {
-  background: rgba(255, 255, 255, 0.96);
-  border: 1rpx solid rgba(88, 112, 138, 0.16);
+  background: rgba(255, 255, 255, 0.8);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
   animation: wordNodeFadeIn 180ms ease;
+}
+.tree-node--word.is-word-review {
+  transform: scale(0.93);
+  opacity: 0.82;
+}
+.tree-node--word.is-word-mastered {
+  transform: scale(0.84);
+  opacity: 0.46;
+}
+.tree-node--word.is-word-due,
+.tree-node--word.is-word-overdue,
+.tree-node--word.is-word-new {
+  opacity: 1;
+}
+.theme-dark-zen .tree-node--word.is-word-review,
+.theme-dark-zen .tree-node--word.is-word-mastered {
+  background: rgba(220, 227, 236, 0.84);
+  color: rgba(29, 43, 57, 0.78);
+}
+.theme-clay-pastel .tree-node--word.is-word-review,
+.theme-clay-pastel .tree-node--word.is-word-mastered {
+  background: rgba(255, 255, 255, 0.62);
+  color: rgba(35, 49, 58, 0.74);
+}
+.theme-dark-zen .tree-node--word.is-word-overdue {
+  background: rgba(255, 241, 235, 0.98);
+  border-color: rgba(255, 126, 95, 0.46);
+  color: #1d2b39;
+}
+.theme-clay-pastel .tree-node--word.is-word-overdue {
+  background: rgba(255, 255, 255, 0.88);
+  border-color: rgba(31, 41, 51, 0.12);
 }
 .tree-node.is-path,
 .tree-node.is-focused,
 .tree-node.is-word-active {
   transform: translateY(-2rpx);
+}
+.tree-node--word.is-word-review.is-word-active,
+.tree-node--word.is-word-mastered.is-word-active {
+  transform: translateY(-2rpx) scale(0.96);
 }
 @keyframes wordNodeFadeIn {
   from {
@@ -2288,16 +2532,16 @@ export default {
   border: 1rpx solid rgba(255, 255, 255, 0.08);
 }
 .theme-clay-pastel .word-row {
-  background: rgba(255, 255, 255, 0.72);
-  border: 1rpx solid rgba(72, 103, 138, 0.08);
+  background: rgba(255, 255, 255, 0.62);
+  border: 1rpx solid rgba(31, 41, 51, 0.08);
 }
 .theme-dark-zen .word-row.is-active {
   background: rgba(255, 126, 95, 0.12);
   border-color: rgba(255, 126, 95, 0.28);
 }
 .theme-clay-pastel .word-row.is-active {
-  background: rgba(255, 126, 95, 0.1);
-  border-color: rgba(235, 104, 74, 0.22);
+  background: rgba(255, 255, 255, 0.8);
+  border-color: rgba(31, 41, 51, 0.12);
 }
 .word-row__main {
   display: flex;

@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "n-net",
-  "root": "net\u7f51",
+  "root": "net网",
   "meaning": "net",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "网",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "n-net-nest",
       "word": "nest",
       "display": "Nest",
-      "phonetic": "",
-      "translation": "\u7b51\u5de2",
-      "sentence": "",
+      "phonetic": "/nɛst/",
+      "translation": "筑巢",
+      "sentence": "a machine-gun nest",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "n-net-net",
       "word": "net",
       "display": "Net",
-      "phonetic": "",
-      "translation": "\u7f51",
-      "sentence": "",
+      "phonetic": "/nɛt/",
+      "translation": "网",
+      "sentence": "This sale netted me $1 million",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "n-net-network",
       "word": "network",
       "display": "Network",
-      "phonetic": "",
-      "translation": "\u7f51\u7edc\uff1b\u7f51\u72b6\u7269",
-      "sentence": "",
+      "phonetic": "/ˈnɛtˌwərk/",
+      "translation": "网络；网状物",
+      "sentence": "he owned a network of shops",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "n>n-net",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

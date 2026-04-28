@@ -1,0 +1,9 @@
+{
+  "name": "createDownloadTickets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow download ticket creation",
+  "dependencies": {
+    "rootflow-shared": "file:../common/rootflow-shared"
+  }
+}

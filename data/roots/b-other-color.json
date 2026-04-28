@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-other-color",
-  "root": "\u989c\u8272",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "颜色",
+  "meaning": "color",
+  "descriptionCn": "颜色",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-other-color-black",
       "word": "black",
       "display": "Black",
-      "phonetic": "",
-      "translation": "\u9ed1\u8272\uff1b\u9ed1\u4eba",
-      "sentence": "",
+      "phonetic": "/blæk/",
+      "translation": "黑色；黑人",
+      "sentence": "in the black of night",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-other-color-blackboard",
       "word": "blackboard",
       "display": "Blackboard",
-      "phonetic": "",
-      "translation": "\u9ed1\u677f",
-      "sentence": "",
+      "phonetic": "/ˈblækˌbɔrd/",
+      "translation": "黑板",
+      "sentence": "A blackboard is sheet of slate; for writing with chalk.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-other-color-blackmail",
       "word": "blackmail",
       "display": "Blackmail",
-      "phonetic": "",
-      "translation": "\u6572\u8bc8\uff1b\u52d2\u7d22",
-      "sentence": "",
+      "phonetic": "/ˈblækˌmeɪl/",
+      "translation": "敲诈；勒索",
+      "sentence": "A blackmail is extortion of money by threats to divulge discrediting information.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-other-color-blanc",
       "word": "blanc",
       "display": "Blanc",
-      "phonetic": "",
-      "translation": "\u767d\u8272\u7684",
-      "sentence": "",
+      "phonetic": "/blæŋk/",
+      "translation": "白色的",
+      "sentence": "A blanc is a white sauce of fat, broth, and vegetables (used especially with braised meat).",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-other-color-blank",
       "word": "blank",
       "display": "Blank",
-      "phonetic": "",
-      "translation": "\u7a7a\u767d\u7684\uff1b\u8868\u683c",
-      "sentence": "",
+      "phonetic": "/blæŋk/",
+      "translation": "空白的；表格",
+      "sentence": "blank pages",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-other-color-blanket",
       "word": "blanket",
       "display": "Blanket",
-      "phonetic": "",
-      "translation": "\u6bef\u5b50\uff1b\u8986\u76d6",
-      "sentence": "",
+      "phonetic": "/ˈblæŋkɪt/",
+      "translation": "毯子；覆盖",
+      "sentence": "there was a blanket of snow",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-other-color-bleak",
       "word": "bleak",
       "display": "Bleak",
-      "phonetic": "",
-      "translation": "\u8352\u51c9\u7684",
-      "sentence": "",
+      "phonetic": "/bliːk/",
+      "translation": "荒凉的",
+      "sentence": "prospects were bleak",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-other-color-blind",
       "word": "blind",
       "display": "Blind",
-      "phonetic": "",
-      "translation": "\u778e\u7684",
-      "sentence": "",
+      "phonetic": "/blaɪnd/",
+      "translation": "瞎的",
+      "sentence": "he spent hours reading to the blind",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-other-color-blue",
       "word": "blue",
       "display": "Blue",
-      "phonetic": "",
-      "translation": "\u84dd\u8272\u7684\uff1b\u6291\u90c1\u7684",
-      "sentence": "",
+      "phonetic": "/bluː/",
+      "translation": "蓝色的；抑郁的",
+      "sentence": "he had eyes of bright blue",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-other-color-blueprint",
       "word": "blueprint",
       "display": "Blueprint",
-      "phonetic": "",
-      "translation": "\u84dd\u56fe\uff1b\u8ba1\u5212",
-      "sentence": "",
+      "phonetic": "/ˈbluˌprɪnt/",
+      "translation": "蓝图；计划",
+      "sentence": "a blueprint for a house",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-other-color-blunder",
       "word": "blunder",
       "display": "Blunder",
-      "phonetic": "",
-      "translation": "\u72af\u5927\u9519",
-      "sentence": "",
+      "phonetic": "/ˈbləndər/",
+      "translation": "犯大错",
+      "sentence": "I blundered during the job interview",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-other-color-blunt",
       "word": "blunt",
       "display": "Blunt",
-      "phonetic": "",
-      "translation": "\u7387\u76f4\u7684\uff1b\u8fdf\u949d\u7684",
-      "sentence": "",
+      "phonetic": "/blənt/",
+      "translation": "率直的；迟钝的",
+      "sentence": "blunted emotions",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-other-color-blur",
       "word": "blur",
       "display": "Blur",
-      "phonetic": "",
-      "translation": "\u6c61\u70b9\uff1b\u6a21\u7cca\u4e0d\u6e05\u7684\u4e8b\u7269",
-      "sentence": "",
+      "phonetic": "/blər/",
+      "translation": "污点；模糊不清的事物",
+      "sentence": "it happened so fast it was just a blur",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "b-other-color-blush",
       "word": "blush",
       "display": "Blush",
-      "phonetic": "",
-      "translation": "\u8138\u7ea2",
-      "sentence": "",
+      "phonetic": "/bləʃ/",
+      "translation": "脸红",
+      "sentence": "The girl blushed when a young man whistled as she walked by",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "b-other-color-brown",
       "word": "brown",
       "display": "Brown",
-      "phonetic": "",
-      "translation": "\u68d5\u8272",
-      "sentence": "",
+      "phonetic": "/braʊn/",
+      "translation": "棕色",
+      "sentence": "brown the meat in the pan",
       "tags": [
         "root-family"
       ],
@@ -191,5 +191,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-other>b-other-color",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

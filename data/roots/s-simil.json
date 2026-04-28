@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "s-simil",
-  "root": "simil=simul alike\u3001same\u76f8\u540c",
+  "root": "simil=simul alike、same相同",
   "meaning": "same",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "、same相同",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "s-simil-familiar",
       "word": "familiar",
       "display": "Familiar",
-      "phonetic": "",
-      "translation": "\u719f\u6089\u7684",
-      "sentence": "",
+      "phonetic": "/fəˈmɪljər/",
+      "translation": "熟悉的",
+      "sentence": "a familiar figure",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "s-simil-same",
       "word": "same",
       "display": "Same",
-      "phonetic": "",
-      "translation": "\u540c\u6837\u7684",
-      "sentence": "",
+      "phonetic": "/seɪm/",
+      "translation": "同样的",
+      "sentence": "the same man I saw yesterday",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "s-simil-sample",
       "word": "sample",
       "display": "Sample",
-      "phonetic": "",
-      "translation": "\u6837\u672c",
-      "sentence": "",
+      "phonetic": "/ˈsæmpəl/",
+      "translation": "样本",
+      "sentence": "Sample the regional dishes",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "s-simil-seem",
       "word": "seem",
       "display": "Seem",
-      "phonetic": "",
-      "translation": "\u4f3c\u4e4e",
-      "sentence": "",
+      "phonetic": "/siːm/",
+      "translation": "似乎",
+      "sentence": "She seems to be sleeping",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "s-simil-seemingly",
       "word": "seemingly",
       "display": "Seemingly",
-      "phonetic": "",
-      "translation": "\u8868\u9762\u4e0a",
-      "sentence": "",
+      "phonetic": "/ˈsimɪŋli/",
+      "translation": "表面上",
+      "sentence": "the child is seemingly healthy but the doctor is concerned",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "s-simil-similar",
       "word": "similar",
       "display": "Similar",
-      "phonetic": "",
-      "translation": "\u76f8\u4f3c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈsɪmələr/",
+      "translation": "相似的",
+      "sentence": "similar food at similar prices",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "s-simil-simulate",
       "word": "simulate",
       "display": "Simulate",
-      "phonetic": "",
-      "translation": "\u6a21\u4eff",
-      "sentence": "",
+      "phonetic": "/ˈsɪmjəˌleɪt/",
+      "translation": "模仿",
+      "sentence": "The mime imitated the passers-by",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "s-simil-simultaneous",
       "word": "simultaneous",
       "display": "Simultaneous",
-      "phonetic": "",
-      "translation": "\u540c\u65f6\u7684",
-      "sentence": "",
+      "phonetic": "/ˌsaɪməlˈteɪniəs/",
+      "translation": "同时的",
+      "sentence": "a series of coincident events",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "s>s-simil",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

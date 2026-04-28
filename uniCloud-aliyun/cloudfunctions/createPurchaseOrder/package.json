@@ -1,0 +1,9 @@
+{
+  "name": "createPurchaseOrder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "RootFlow purchase order creation for download entitlements",
+  "dependencies": {
+    "rootflow-shared": "file:../common/rootflow-shared"
+  }
+}

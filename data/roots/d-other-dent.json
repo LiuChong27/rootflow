@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "d-other-dent",
-  "root": "dent\u7259\u9f7f",
+  "root": "dent牙齿",
   "meaning": "dent",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "牙齿",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "d-other-dent-dandelion",
       "word": "dandelion",
       "display": "Dandelion",
-      "phonetic": "",
-      "translation": "\u84b2\u516c\u82f1/\u952f\u9f7f\u72b6\u53f6\u5b50",
-      "sentence": "",
+      "phonetic": "/ˈdændəˌlaɪən/",
+      "translation": "蒲公英/锯齿状叶子",
+      "sentence": "A dandelion is any of several herbs of the genus Taraxacum having long tap roots and deeply notched leaves and bright yellow flowers followed by fluffy seed balls.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "d-other-dent-dentagia",
       "word": "dentagia",
       "display": "Dentagia",
-      "phonetic": "",
-      "translation": "\u9f7f\u75db",
-      "sentence": "",
+      "phonetic": "/dɛntˈeɪʒʌ/",
+      "translation": "齿痛",
+      "sentence": "Dentagia is used here with the sense of \"齿痛\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "d-other-dent-dental",
       "word": "dental",
       "display": "Dental",
-      "phonetic": "",
-      "translation": "\u7259\u79d1\u7684",
-      "sentence": "",
+      "phonetic": "/ˈdɛntəl/",
+      "translation": "牙科的",
+      "sentence": "dental floss",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "d-other-dent-dentary",
       "word": "dentary",
       "display": "Dentary",
-      "phonetic": "",
-      "translation": "\u7259\u9f7f\u7684",
-      "sentence": "",
+      "phonetic": "/dˈɛntɚi/",
+      "translation": "牙齿的",
+      "sentence": "Dentary is used here with the sense of \"牙齿的\".",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "d-other-dent-dentifrice",
       "word": "dentifrice",
       "display": "Dentifrice",
-      "phonetic": "",
-      "translation": "\u7259\u7c89\uff1b\u7259\u818f",
-      "sentence": "",
+      "phonetic": "/dˈɛntʌfrʌs/",
+      "translation": "牙粉；牙膏",
+      "sentence": "A dentifrice is a substance for cleaning the teeth; applied with a toothbrush.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "d-other-dent-dentist",
       "word": "dentist",
       "display": "Dentist",
-      "phonetic": "",
-      "translation": "\u7259\u533b",
-      "sentence": "",
+      "phonetic": "/ˈdɛntɪst/",
+      "translation": "牙医",
+      "sentence": "A dentist is a person qualified to practice dentistry.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "d-other-dent-dentography",
       "word": "dentography",
       "display": "Dentography",
-      "phonetic": "",
-      "translation": "\u7259\u56fe\u89e3",
-      "sentence": "",
+      "phonetic": "/dˌɛntʌgrˈæfi/",
+      "translation": "牙图解",
+      "sentence": "Dentography is used here with the sense of \"牙图解\".",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "d-other-dent-dentosurgical",
       "word": "dentosurgical",
       "display": "Dentosurgical",
-      "phonetic": "",
-      "translation": "\u7259\u9f7f\u5916\u79d1\u7684",
-      "sentence": "",
+      "phonetic": "/dˌɛntʌsˈɚdʒʌkʌl/",
+      "translation": "牙齿外科的",
+      "sentence": "Dentosurgical is used here with the sense of \"牙齿外科的\".",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "d-other-dent-denture",
       "word": "denture",
       "display": "Denture",
-      "phonetic": "",
-      "translation": "\u4e00\u526f\u5047\u7259",
-      "sentence": "",
+      "phonetic": "/ˈdɛnʧər/",
+      "translation": "一副假牙",
+      "sentence": "A denture is a dental appliance that artificially replaces missing teeth.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "d-other-dent-indent",
       "word": "indent",
       "display": "Indent",
-      "phonetic": "",
-      "translation": "\u4f7f\u6210\u4e3a\u952f\u9f7f\u72b6",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈdɛnt/",
+      "translation": "使成为锯齿状",
+      "sentence": "Indent the paragraphs of a letter",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "d-other-dent-orthodontist",
       "word": "orthodontist",
       "display": "Orthodontist",
-      "phonetic": "",
-      "translation": "\u6b63\u7259\u533b\u751f",
-      "sentence": "",
+      "phonetic": "/ˌɔrθəˈdɑntəst/",
+      "translation": "正牙医生",
+      "sentence": "An orthodontist is a dentist specializing in the prevention or correction of irregularities of the teeth.",
       "tags": [
         "root-family"
       ],
@@ -143,5 +143,6 @@
   "rootLevel": 3,
   "rootPath": "d>d-other>d-other-dent",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

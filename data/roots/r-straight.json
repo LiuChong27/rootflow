@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "r-straight",
-  "root": "\u76f4",
+  "root": "直",
   "meaning": "straight",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "直",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "r-straight-correct",
       "word": "correct",
       "display": "Correct",
-      "phonetic": "",
-      "translation": "\u7ea0\u6b63\uff1b\u6b63\u786e\u7684",
-      "sentence": "",
+      "phonetic": "/kərˈɛkt/",
+      "translation": "纠正；正确的",
+      "sentence": "Correct the mistakes",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "r-straight-direct",
       "word": "direct",
       "display": "Direct",
-      "phonetic": "",
-      "translation": "\u7ba1\u7406\uff1b\u6307\u6325",
-      "sentence": "",
+      "phonetic": "/dɪˈrɛkt/",
+      "translation": "管理；指挥",
+      "sentence": "He directed the children to do their homework",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "r-straight-direction",
       "word": "direction",
       "display": "Direction",
-      "phonetic": "",
-      "translation": "\u6307\u5bfc\uff1b\u65b9\u5411",
-      "sentence": "",
+      "phonetic": "/dɪˈrɛkʃɪn/",
+      "translation": "指导；方向",
+      "sentence": "he looked the other direction",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "r-straight-director",
       "word": "director",
       "display": "Director",
-      "phonetic": "",
-      "translation": "\u5bfc\u6f14",
-      "sentence": "",
+      "phonetic": "/dɪˈrɛktər/",
+      "translation": "导演",
+      "sentence": "A director is someone who controls resources and expenditures.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "r-straight-erect",
       "word": "erect",
       "display": "Erect",
-      "phonetic": "",
-      "translation": "\u7b14\u76f4\u7684",
-      "sentence": "",
+      "phonetic": "/ɪˈrɛkt/",
+      "translation": "笔直的",
+      "sentence": "an erect stature",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "r-straight-erection",
       "word": "erection",
       "display": "Erection",
-      "phonetic": "",
-      "translation": "\u5efa\u7b51\u7269\uff1b\u76f4\u7acb",
-      "sentence": "",
+      "phonetic": "/ɪˈrɛkʃən/",
+      "translation": "建筑物；直立",
+      "sentence": "An erection is an erect penis.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "r-straight-indirect",
       "word": "indirect",
       "display": "Indirect",
-      "phonetic": "",
-      "translation": "\u95f4\u63a5\u5730",
-      "sentence": "",
+      "phonetic": "/ˌɪndərˈɛkt/",
+      "translation": "间接地",
+      "sentence": "reflection from the ceiling provided a soft indirect light",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "r-straight-real",
       "word": "real",
       "display": "Real",
-      "phonetic": "",
-      "translation": "\u771f\u7684",
-      "sentence": "",
+      "phonetic": "/riːl/",
+      "translation": "真的",
+      "sentence": "real objects",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "r-straight-reality",
       "word": "reality",
       "display": "Reality",
-      "phonetic": "",
-      "translation": "\u73b0\u5b9e\u7684",
-      "sentence": "",
+      "phonetic": "/ˌriˈæləˌti/",
+      "translation": "现实的",
+      "sentence": "for them demons were as much a part of reality as trees were",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "r-straight-really",
       "word": "really",
       "display": "Really",
-      "phonetic": "",
-      "translation": "\u771f\u6b63\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɪli/",
+      "translation": "真正的",
+      "sentence": "they don't really listen to us",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "r-straight-realm",
       "word": "realm",
       "display": "Realm",
-      "phonetic": "",
-      "translation": "\u738b\u56fd",
-      "sentence": "",
+      "phonetic": "/rɛlm/",
+      "translation": "王国",
+      "sentence": "the rise of the realm of cotton in the south",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "r-straight-reckless",
       "word": "reckless",
       "display": "Reckless",
-      "phonetic": "",
-      "translation": "\u4e0d\u6ce8\u610f\u7684\uff1b\u5927\u610f\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɛkləs/",
+      "translation": "不注意的；大意的",
+      "sentence": "became the fiercest and most reckless of partisans",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "r-straight-reckon",
       "word": "reckon",
       "display": "Reckon",
-      "phonetic": "",
-      "translation": "\u8ba1\u7b97",
-      "sentence": "",
+      "phonetic": "/ˈrɛkən/",
+      "translation": "计算",
+      "sentence": "You have to reckon with our opponents",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "r-straight-rectangle",
       "word": "rectangle",
       "display": "Rectangle",
-      "phonetic": "",
-      "translation": "\u77e9\u9635",
-      "sentence": "",
+      "phonetic": "/ˈrɛktæŋgəl/",
+      "translation": "矩阵",
+      "sentence": "A rectangle is a parallelogram with four right angles.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "r-straight-rectify",
       "word": "rectify",
       "display": "Rectify",
-      "phonetic": "",
-      "translation": "\u7ea0\u6b63",
-      "sentence": "",
+      "phonetic": "/ˈrɛktəˌfaɪ/",
+      "translation": "纠正",
+      "sentence": "rectify a curve",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "r-straight-right",
       "word": "right",
       "display": "Right",
-      "phonetic": "",
-      "translation": "\u6b63\u786e\u7684",
-      "sentence": "",
+      "phonetic": "/raɪt/",
+      "translation": "正确的",
+      "sentence": "they are endowed by their Creator with certain unalienable Rights",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "r-straight-rigid",
       "word": "rigid",
       "display": "Rigid",
-      "phonetic": "",
-      "translation": "\u521a\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɪʤɪd/",
+      "translation": "刚性的",
+      "sentence": "a rigid strip of metal",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "r-straight-rod",
       "word": "rod",
       "display": "Rod",
-      "phonetic": "",
-      "translation": "\u6746\uff1b\u68d2",
-      "sentence": "",
+      "phonetic": "/rɑd/",
+      "translation": "杆；棒",
+      "sentence": "A rod is a long thin implement made of metal or wood.",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "r-straight-roll",
       "word": "roll",
       "display": "Roll",
-      "phonetic": "",
-      "translation": "\u5377\uff1b\u6eda\u52a8",
-      "sentence": "",
+      "phonetic": "/roʊl/",
+      "translation": "卷；滚动",
+      "sentence": "his name was struck off the rolls",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "r-straight-roof",
       "word": "roof",
       "display": "Roof",
-      "phonetic": "",
-      "translation": "\u5c4b\u9876",
-      "sentence": "",
+      "phonetic": "/rʊf/",
+      "translation": "屋顶",
+      "sentence": "the roof of the cave was very high",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "r-straight-room",
       "word": "room",
       "display": "Room",
-      "phonetic": "",
-      "translation": "\u623f\u95f4",
-      "sentence": "",
+      "phonetic": "/ruːm/",
+      "translation": "房间",
+      "sentence": "the rooms were very small but they had a nice view",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "r-straight-root",
       "word": "root",
       "display": "Root",
-      "phonetic": "",
-      "translation": "\u6839\u672c",
-      "sentence": "",
+      "phonetic": "/ruːt/",
+      "translation": "根本",
+      "sentence": "communism's Russian root",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "r-straight-rope",
       "word": "rope",
       "display": "Rope",
-      "phonetic": "",
-      "translation": "\u7ef3\u7d22",
-      "sentence": "",
+      "phonetic": "/roʊp/",
+      "translation": "绳索",
+      "sentence": "rope cows",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "r-straight-rose",
       "word": "rose",
       "display": "Rose",
-      "phonetic": "",
-      "translation": "\u73ab\u7470",
-      "sentence": "",
+      "phonetic": "/roʊz/",
+      "translation": "玫瑰",
+      "sentence": "The smoke arose from the forest fire",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "r-straight-rot",
       "word": "rot",
       "display": "Rot",
-      "phonetic": "",
-      "translation": "\u8150\u70c2",
-      "sentence": "",
+      "phonetic": "/rɑt/",
+      "translation": "腐烂",
+      "sentence": "The bodies decomposed in the heat",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "r-straight-rotten",
       "word": "rotten",
       "display": "Rotten",
-      "phonetic": "",
-      "translation": "\u8150\u70c2\u7684",
-      "sentence": "",
+      "phonetic": "/ˈrɑtən/",
+      "translation": "腐烂的",
+      "sentence": "rotten floor boards",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "r-straight-round",
       "word": "round",
       "display": "Round",
-      "phonetic": "",
-      "translation": "\u5706\u7684",
-      "sentence": "",
+      "phonetic": "/raʊnd/",
+      "translation": "圆的",
+      "sentence": "the doctor goes on his rounds first thing every morning",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "r-straight-roundabout",
       "word": "roundabout",
       "display": "Roundabout",
-      "phonetic": "",
-      "translation": "\u8fc2\u56de\u7684",
-      "sentence": "",
+      "phonetic": "/ˈraʊndəˌbaʊt/",
+      "translation": "迂回的",
+      "sentence": "a roundabout paragraph",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "r-straight-route",
       "word": "route",
       "display": "Route",
-      "phonetic": "",
-      "translation": "\u8def\u7ebf",
-      "sentence": "",
+      "phonetic": "/ruːt/",
+      "translation": "路线",
+      "sentence": "divert the low voltage to the engine cylinders",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "r-straight-routine",
       "word": "routine",
       "display": "Routine",
-      "phonetic": "",
-      "translation": "\u5e38\u89c4\u7684",
-      "sentence": "",
+      "phonetic": "/ruˈtin/",
+      "translation": "常规的",
+      "sentence": "she had a catchy little routine",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "r-straight-row",
       "word": "row",
       "display": "Row",
-      "phonetic": "",
-      "translation": "\u884c",
-      "sentence": "",
+      "phonetic": "/roʊ/",
+      "translation": "行",
+      "sentence": "a row of chairs",
       "tags": [
         "root-family"
       ],
@@ -383,5 +383,6 @@
   "rootLevel": 2,
   "rootPath": "r>r-straight",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

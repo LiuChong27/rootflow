@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-card",
-  "root": "card\u5361\u7247",
+  "root": "card卡片",
   "meaning": "card",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "卡片",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-card-discard",
       "word": "discard",
       "display": "Discard",
-      "phonetic": "",
-      "translation": "\u4e22\u5f03",
-      "sentence": "",
+      "phonetic": "/dɪˈskɑrd/",
+      "translation": "丢弃",
+      "sentence": "Put away your worries",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 2,
   "rootPath": "c>c-card",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "s-system",
-  "root": "system\u7cfb\u7edf",
+  "root": "system系统",
   "meaning": "system",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "系统",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "s",
-  "rootLevel": 2,
-  "rootPath": "s>s-system",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "s-system",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

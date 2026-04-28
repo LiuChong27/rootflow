@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "b-other",
-  "root": "B\u5176\u4ed6",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "B其他",
+  "meaning": "other",
+  "descriptionCn": "其他",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "b",
-  "rootLevel": 2,
-  "rootPath": "b>b-other",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "b-other",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

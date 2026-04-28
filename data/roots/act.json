@@ -3,16 +3,16 @@
   "rootId": "act",
   "root": "act=ag=ig",
   "meaning": "do/act",
-  "descriptionCn": "\u505a\u3001\u884c\u52a8",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "做、行动",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "actualize",
       "word": "actualize",
       "display": "Actualize",
-      "phonetic": "",
-      "translation": "\u4f7f\u5b9e\u73b0",
-      "sentence": "",
+      "phonetic": "/ˈæˌkʧuəˌlaɪz/",
+      "translation": "使实现",
+      "sentence": "our ideas must be substantiated into actions",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "actuate",
       "word": "actuate",
       "display": "Actuate",
-      "phonetic": "",
-      "translation": "\u5f00\u52a8\uff1b\u8d8b\u52bf\uff1b\u6fc0\u53d1",
-      "sentence": "",
+      "phonetic": "/ˈæˌkʧuˈeɪt/",
+      "translation": "开动；趋势；激发",
+      "sentence": "actuate the circuits",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "agent",
       "word": "agent",
       "display": "Agent",
-      "phonetic": "",
-      "translation": "\u4ee3\u7406\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈeɪʤənt/",
+      "translation": "代理人",
+      "sentence": "their research uncovered new disease agents",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "agony",
       "word": "agony",
       "display": "Agony",
-      "phonetic": "",
-      "translation": "\u6781\u5927\u7684\u75db\u82e6",
-      "sentence": "",
+      "phonetic": "/ˈægəni/",
+      "translation": "极大的痛苦",
+      "sentence": "an agony of doubt",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "cogent",
       "word": "cogent",
       "display": "Cogent",
-      "phonetic": "",
-      "translation": "\u5f3a\u6709\u529b\u7684\uff1b\u4f7f\u4eba\u4fe1\u670d\u7684",
-      "sentence": "",
+      "phonetic": "/ˈkoʊʤənt/",
+      "translation": "强有力的；使人信服的",
+      "sentence": "a cogent argument",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "exigency",
       "word": "exigency",
       "display": "Exigency",
-      "phonetic": "",
-      "translation": "\u7d27\u6025\u7684\uff1b\u8feb\u5207\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɛkˈsɪʤənsi/",
+      "translation": "紧急的；迫切的",
+      "sentence": "the health-care exigency",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "interact",
       "word": "interact",
       "display": "Interact",
-      "phonetic": "",
-      "translation": "\u76f8\u4e92\u4f5c\u7528",
-      "sentence": "",
+      "phonetic": "/ˌɪnərˈækt/",
+      "translation": "相互作用",
+      "sentence": "He should interact more with his colleagues",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "prodigal",
       "word": "prodigal",
       "display": "Prodigal",
-      "phonetic": "",
-      "translation": "\u6325\u970d\u7684\uff1b\u5962\u4f88\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɑdɪgəl/",
+      "translation": "挥霍的；奢侈的",
+      "sentence": "prodigal in their expenditures",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "a>act",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

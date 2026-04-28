@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "autocide",
   "root": "autocide",
-  "meaning": "",
-  "descriptionCn": "\u81ea\u6740",
-  "updatedAt": "2026-04-15",
+  "meaning": "autocide family",
+  "descriptionCn": "自杀",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "autocide-autocide-2",
       "word": "autocide",
       "display": "Autocide",
-      "phonetic": "",
-      "translation": "\u81ea\u6740",
-      "sentence": "",
+      "phonetic": "/ˈɔtʌsˌaɪd/",
+      "translation": "自杀",
+      "sentence": "The autocide quickly became part of the discussion.",
       "tags": [
         "root-family"
       ],
@@ -23,5 +23,6 @@
   "rootLevel": 3,
   "rootPath": "a>auto>autocide",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

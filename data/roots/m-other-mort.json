@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "m-other-mort",
-  "root": "mort\u6b7b",
+  "root": "mort死",
   "meaning": "death",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "死",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "m-other-mort-mortal",
       "word": "mortal",
       "display": "Mortal",
-      "phonetic": "",
-      "translation": "\u81f4\u547d\u7684\uff1b\u51e1\u4eba",
-      "sentence": "",
+      "phonetic": "/ˈmɔrtəl/",
+      "translation": "致命的；凡人",
+      "sentence": "mortal beings",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "m-other-mort-mortgage",
       "word": "mortgage",
       "display": "Mortgage",
-      "phonetic": "",
-      "translation": "\u62b5\u62bc",
-      "sentence": "",
+      "phonetic": "/ˈmɔrgɪʤ/",
+      "translation": "抵押",
+      "sentence": "A mortgage is a conditional conveyance of property as security for the repayment of a loan.",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 3,
   "rootPath": "m>m-other>m-other-mort",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

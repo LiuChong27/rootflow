@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-ori",
-  "root": "ori=rise\u5347\u8d77",
+  "root": "ori=rise升起",
   "meaning": "rise",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "升起",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-ori-orient",
       "word": "orient",
       "display": "Orient",
-      "phonetic": "",
-      "translation": "\u4e1c\u65b9",
-      "sentence": "",
+      "phonetic": "/ˈɔriˌɛnt/",
+      "translation": "东方",
+      "sentence": "We had to orient ourselves in the forest",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-ori-oriental",
       "word": "oriental",
       "display": "Oriental",
-      "phonetic": "",
-      "translation": "\u4e1c\u65b9\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɔriˈɛnəl/",
+      "translation": "东方的",
+      "sentence": "oriental civilization",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-ori-orientation",
       "word": "orientation",
       "display": "Orientation",
-      "phonetic": "",
-      "translation": "\u65b9\u5411\uff1b\u5411\u4e1c\u65b9",
-      "sentence": "",
+      "phonetic": "/ˌɔriɛnˈteɪʃən/",
+      "translation": "方向；向东方",
+      "sentence": "showed a Marxist orientation",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-ori-origin",
       "word": "origin",
       "display": "Origin",
-      "phonetic": "",
-      "translation": "\u8d77\u6e90",
-      "sentence": "",
+      "phonetic": "/ˈɔrəʤən/",
+      "translation": "起源",
+      "sentence": "Jupiter was the origin of the radiation",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-ori-original",
       "word": "original",
       "display": "Original",
-      "phonetic": "",
-      "translation": "\u6700\u521d\u7684\uff1b\u539f\u8457",
-      "sentence": "",
+      "phonetic": "/ərˈɪʤənəl/",
+      "translation": "最初的；原著",
+      "sentence": "this painting is a copy of the original",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "o-ori-originate",
       "word": "originate",
       "display": "Originate",
-      "phonetic": "",
-      "translation": "\u8d77\u6e90\uff1b\u521b\u9020",
-      "sentence": "",
+      "phonetic": "/ərˈɪʤəˌneɪt/",
+      "translation": "起源；创造",
+      "sentence": "A new religious movement originated in that country",
       "tags": [
         "root-family"
       ],
@@ -83,5 +83,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-ori",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

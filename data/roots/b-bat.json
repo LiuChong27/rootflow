@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-bat",
-  "root": "bat\u62cd\u6253",
+  "root": "bat拍打",
   "meaning": "beat",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "拍打",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-bat-abate",
       "word": "abate",
       "display": "Abate",
-      "phonetic": "",
-      "translation": "\u51cf\u5f31",
-      "sentence": "",
+      "phonetic": "/əˈbeɪt/",
+      "translation": "减弱",
+      "sentence": "The storm abated",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-bat-abatement",
       "word": "abatement",
       "display": "Abatement",
-      "phonetic": "",
-      "translation": "\u8d2c\u503c",
-      "sentence": "",
+      "phonetic": "/əˈbeɪtmənt/",
+      "translation": "贬值",
+      "sentence": "laws enforcing noise abatement",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-bat-bate",
       "word": "bate",
       "display": "Bate",
-      "phonetic": "",
-      "translation": "\u538b\u5236",
-      "sentence": "",
+      "phonetic": "/beɪt/",
+      "translation": "压制",
+      "sentence": "He bated his breath when talking about this affair",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-bat-baton",
       "word": "baton",
       "display": "Baton",
-      "phonetic": "",
-      "translation": "\u6307\u6325\u68d2\uff1b\u63a5\u529b\u68d2\uff1b\u6743\u6756",
-      "sentence": "",
+      "phonetic": "/ˈbæˌtɑn/",
+      "translation": "指挥棒；接力棒；权杖",
+      "sentence": "A baton is a thin tapered rod used by a conductor to lead an orchestra or choir.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-bat-batter",
       "word": "batter",
       "display": "Batter",
-      "phonetic": "",
-      "translation": "\u63a5\u8fde\u91cd\u51fb",
-      "sentence": "",
+      "phonetic": "/ˈbætər/",
+      "translation": "接连重击",
+      "sentence": "Winds buffeted the tent",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-bat-battery",
       "word": "battery",
       "display": "Battery",
-      "phonetic": "",
-      "translation": "\u70ae\u53f0",
-      "sentence": "",
+      "phonetic": "/ˈbætəri/",
+      "translation": "炮台",
+      "sentence": "took a battery of achievement tests",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-bat-bear",
       "word": "bear",
       "display": "Bear",
-      "phonetic": "",
-      "translation": "\u5fcd\u53d7\uff1b\u718a",
-      "sentence": "",
+      "phonetic": "/bɛr/",
+      "translation": "忍受；熊",
+      "sentence": "bear a resemblance",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-bat-beard",
       "word": "beard",
       "display": "Beard",
-      "phonetic": "",
-      "translation": "\u80e1\u987b",
-      "sentence": "",
+      "phonetic": "/bɪrd/",
+      "translation": "胡须",
+      "sentence": "Houses bearded the top of the heights",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-bat-bearing",
       "word": "bearing",
       "display": "Bearing",
-      "phonetic": "",
-      "translation": "\u8f74\u627f\uff1b\u5fcd\u53d7\uff1b\u5173\u7cfb",
-      "sentence": "",
+      "phonetic": "/ˈbɛrɪŋ/",
+      "translation": "轴承；忍受；关系",
+      "sentence": "those issues have no bearing on our situation",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-bat-beast",
       "word": "beast",
       "display": "Beast",
-      "phonetic": "",
-      "translation": "\u7272\u755c\uff1b\u4e3e\u6b62\u7c97\u9c81\u7684\u4eba",
-      "sentence": "",
+      "phonetic": "/biːst/",
+      "translation": "牲畜；举止粗鲁的人",
+      "sentence": "A beast is a living organism characterized by voluntary movement.",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-bat-beat",
       "word": "beat",
       "display": "Beat",
-      "phonetic": "",
-      "translation": "\u6572\u6253",
-      "sentence": "",
+      "phonetic": "/biːt/",
+      "translation": "敲打",
+      "sentence": "in the old days a policeman walked a beat and knew all his people by name",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-bat-bet",
       "word": "bet",
       "display": "Bet",
-      "phonetic": "",
-      "translation": "\u6253\u8d4c",
-      "sentence": "",
+      "phonetic": "/bɛt/",
+      "translation": "打赌",
+      "sentence": "he did it on a bet",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-bat-bore",
       "word": "bore",
       "display": "Bore",
-      "phonetic": "",
-      "translation": "\u70e6\u5fe7",
-      "sentence": "",
+      "phonetic": "/bɔr/",
+      "translation": "烦忧",
+      "sentence": "The apple tree bore delicious apples this year",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "b-bat-bother",
       "word": "bother",
       "display": "Bother",
-      "phonetic": "",
-      "translation": "\u6253\u6270\uff1b\u62c5\u5fe7",
-      "sentence": "",
+      "phonetic": "/ˈbɑðər/",
+      "translation": "打扰；担忧",
+      "sentence": "a spot of bother",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "b-bat-breach",
       "word": "breach",
       "display": "Breach",
-      "phonetic": "",
-      "translation": "\u8fdd\u53cd\uff1b\u7834\u88c2\uff1b\u51b2\u7834",
-      "sentence": "",
+      "phonetic": "/briʧ/",
+      "translation": "违反；破裂；冲破",
+      "sentence": "they hoped to avoid a break in relations",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "b-bat-breast",
       "word": "breast",
       "display": "Breast",
-      "phonetic": "",
-      "translation": "\u80f8\u819b\uff08\u62b5\u5fa1\u51b2\u51fb\uff09",
-      "sentence": "",
+      "phonetic": "/brɛst/",
+      "translation": "胸膛（抵御冲击）",
+      "sentence": "he beat his breast in anger",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "b-bat-bunch",
       "word": "bunch",
       "display": "Bunch",
-      "phonetic": "",
-      "translation": "\u4e00\u6346",
-      "sentence": "",
+      "phonetic": "/bənʧ/",
+      "translation": "一捆",
+      "sentence": "a bunch of trees",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "b-bat-bundle",
       "word": "bundle",
       "display": "Bundle",
-      "phonetic": "",
-      "translation": "\u6346\uff1b\u675f",
-      "sentence": "",
+      "phonetic": "/ˈbəndəl/",
+      "translation": "捆；束",
+      "sentence": "she made a bundle selling real estate",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "b-bat-combat",
       "word": "combat",
       "display": "Combat",
-      "phonetic": "",
-      "translation": "\u6597\u4e89",
-      "sentence": "",
+      "phonetic": "/ˈkɑmbæt/",
+      "translation": "斗争",
+      "sentence": "The Kurds are combating Iraqi troops in Northern Iraq",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "b-bat-rebate",
       "word": "rebate",
       "display": "Rebate",
-      "phonetic": "",
-      "translation": "\u56de\u6263",
-      "sentence": "",
+      "phonetic": "/ˈriˌbeɪt/",
+      "translation": "回扣",
+      "sentence": "rebate the pieces of timber and stone",
       "tags": [
         "root-family"
       ],
@@ -251,5 +251,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-bat",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

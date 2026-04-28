@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "admonish",
   "root": "admonish",
-  "meaning": "",
-  "descriptionCn": "\u529d\u544a",
-  "updatedAt": "2026-04-15",
+  "meaning": "admonish family",
+  "descriptionCn": "劝告",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "admonish-admonish-2",
       "word": "admonish",
       "display": "Admonish",
-      "phonetic": "",
-      "translation": "\u529d\u544a",
-      "sentence": "",
+      "phonetic": "/ædˈmɑnɪʃ/",
+      "translation": "劝告",
+      "sentence": "He admonished the child for his bad behavior",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-core>admonish",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

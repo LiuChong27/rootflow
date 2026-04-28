@@ -3,16 +3,16 @@
   "rootId": "auto",
   "root": "auto=aut",
   "meaning": "self",
-  "descriptionCn": "\u81ea\u5df1",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "自己",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "autobiography",
       "word": "autobiography",
       "display": "Autobiography",
-      "phonetic": "",
-      "translation": "\u81ea\u4f20\u4f5c\u8005",
-      "sentence": "",
+      "phonetic": "/ˌɔtəbaɪˈɑgrəfi/",
+      "translation": "自传作者",
+      "sentence": "An autobiography is a biography of yourself.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "autocide",
       "word": "autocide",
       "display": "Autocide",
-      "phonetic": "",
-      "translation": "\u81ea\u6740",
-      "sentence": "",
+      "phonetic": "/ˈɔtʌsˌaɪd/",
+      "translation": "自杀",
+      "sentence": "Autocide is used here with the sense of \"自杀\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "automatic",
       "word": "automatic",
       "display": "Automatic",
-      "phonetic": "",
-      "translation": "\u81ea\u52a8\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɔtəˈmætɪk/",
+      "translation": "自动的",
+      "sentence": "automatic transmission",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 2,
   "rootPath": "a>auto",
   "type": "root",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

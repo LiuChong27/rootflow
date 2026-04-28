@@ -1,14 +1,15 @@
 {
   "version": 1,
   "rootId": "b-wood-body",
-  "root": "body\u8eab\u4f53",
+  "root": "body身体",
   "meaning": "body",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "身体",
+  "updatedAt": "2026-04-18",
   "words": [],
-  "parentRootId": "b-wood",
-  "rootLevel": 3,
-  "rootPath": "b>b-wood>b-wood-body",
+  "parentRootId": "",
+  "rootLevel": 1,
+  "rootPath": "b-wood-body",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,17 +2,17 @@
   "version": 1,
   "rootId": "admit",
   "root": "admit",
-  "meaning": "",
-  "descriptionCn": "\u5141\u8bb8\u8fdb\u5165",
-  "updatedAt": "2026-04-15",
+  "meaning": "admit family",
+  "descriptionCn": "允许进入",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "admit-admit-2",
       "word": "admit",
       "display": "Admit",
-      "phonetic": "",
-      "translation": "\u5141\u8bb8\u8fdb\u5165",
-      "sentence": "",
+      "phonetic": "/ədˈmɪt/",
+      "translation": "允许进入",
+      "sentence": "He admitted his errors",
       "tags": [
         "root-family",
         "other"
@@ -24,5 +24,6 @@
   "rootLevel": 5,
   "rootPath": "a>a-prefix>ad-add-axx>ad-core>admit",
   "type": "word-family",
-  "notes": "\u6839\u636e \u8bcd\u6839.txt \u6574\u7406"
+  "notes": "根据 词根.txt 整理",
+  "tags": []
 }

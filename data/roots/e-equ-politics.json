@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "e-equ-politics",
-  "root": "\u653f\u6cbb",
+  "root": "政治",
   "meaning": "politics",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "政治",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "e-equ-politics-equitable",
       "word": "equitable",
       "display": "Equitable",
-      "phonetic": "",
-      "translation": "\u516c\u5e73\u7684",
-      "sentence": "",
+      "phonetic": "/ˈɛkwɪtəbəl/",
+      "translation": "公平的",
+      "sentence": "equitable treatment of all citizens",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "e-equ-politics-equity",
       "word": "equity",
       "display": "Equity",
-      "phonetic": "",
-      "translation": "\u516c\u5e73\u516c\u6b63",
-      "sentence": "",
+      "phonetic": "/ˈɛkwəti/",
+      "translation": "公平公正",
+      "sentence": "the judge recognized the fairness of my claim",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "e-equ-politics-iniquity",
       "word": "iniquity",
       "display": "Iniquity",
-      "phonetic": "",
-      "translation": "\u4e0d\u516c\u6b63\uff1b\u90aa\u6076",
-      "sentence": "",
+      "phonetic": "/ˌɪˈnɪkwɪti/",
+      "translation": "不公正；邪恶",
+      "sentence": "the powers of darkness",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "e>e-equ>e-equ-politics",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

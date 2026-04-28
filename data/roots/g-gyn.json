@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "g-gyn",
-  "root": "gyn=gynce\u5987\u5973",
+  "root": "gyn=gynce妇女",
   "meaning": "gyn",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "妇女",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "g-gyn-germ",
       "word": "germ",
       "display": "Germ",
-      "phonetic": "",
-      "translation": "\u5fae\u751f\u7269\uff1b\u7ec6\u83cc",
-      "sentence": "",
+      "phonetic": "/ʤərm/",
+      "translation": "微生物；细菌",
+      "sentence": "A germ is anything that provides inspiration for later work.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "g-gyn-gynarchy",
       "word": "gynarchy",
       "display": "Gynarchy",
-      "phonetic": "",
-      "translation": "\u5973\u4eba\u5f53\u653f",
-      "sentence": "",
+      "phonetic": "/gˈɪnɚtʃi/",
+      "translation": "女人当政",
+      "sentence": "A gynarchy is a political system governed by a woman.",
       "tags": [
         "root-family"
       ],
@@ -35,5 +35,6 @@
   "rootLevel": 2,
   "rootPath": "g>g-gyn",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

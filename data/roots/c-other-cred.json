@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-other-cred",
-  "root": "c-other-cred",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "cred",
+  "meaning": "cred family",
+  "descriptionCn": "cred 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-other-cred-credential",
       "word": "credential",
       "display": "Credential",
-      "phonetic": "",
-      "translation": "\u51ed\u8bc1\uff1b\u8bc1\u660e\u4e66",
-      "sentence": "",
+      "phonetic": "/krɪˈdɛnʃəl/",
+      "translation": "凭证；证明书",
+      "sentence": "A credential is a document attesting to the truth of certain stated facts.",
       "tags": [
         "root-family"
       ],
@@ -22,13 +22,18 @@
       "id": "c-other-cred-credit",
       "word": "credit",
       "display": "Credit",
-      "phonetic": "",
-      "translation": "\u4fe1\u7528",
-      "sentence": "",
+      "phonetic": "/ˈkrɛdɪt/",
+      "translation": "信用",
+      "sentence": "he was given credit for his work",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-other>c-other-cred",
+  "rootLevel": 3,
+  "parentRootId": "c-other",
+  "tags": []
 }

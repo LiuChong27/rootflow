@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-prefix-pro",
-  "root": "pro\u5411\u524d",
+  "root": "pro向前",
   "meaning": "forward",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "向前",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-prefix-pro-portend",
       "word": "portend",
       "display": "Portend",
-      "phonetic": "",
-      "translation": "\u9884\u5146",
-      "sentence": "",
+      "phonetic": "/pɔrˈtɛnd/",
+      "translation": "预兆",
+      "sentence": "These signs bode bad news",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-prefix-pro-portray",
       "word": "portray",
       "display": "Portray",
-      "phonetic": "",
-      "translation": "\u63cf\u7ed8\uff1b\u9970\u6f14",
-      "sentence": "",
+      "phonetic": "/pɔrˈtreɪ/",
+      "translation": "描绘；饰演",
+      "sentence": "The book portrays the actor as a selfish person",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-prefix-pro-problem",
       "word": "problem",
       "display": "Problem",
-      "phonetic": "",
-      "translation": "\u95ee\u9898",
-      "sentence": "",
+      "phonetic": "/ˈprɑbləm/",
+      "translation": "问题",
+      "sentence": "she and her husband are having problems",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-prefix-pro-proceed",
       "word": "proceed",
       "display": "Proceed",
-      "phonetic": "",
-      "translation": "\u8fdb\u884c",
-      "sentence": "",
+      "phonetic": "/pərˈsid/",
+      "translation": "进行",
+      "sentence": "We proceeded towards Washington",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-prefix-pro-proceeding",
       "word": "proceeding",
       "display": "Proceeding",
-      "phonetic": "",
-      "translation": "\u884c\u52a8\uff1b\u8fdb\u884c",
-      "sentence": "",
+      "phonetic": "/prəˈsidɪŋ/",
+      "translation": "行动；进行",
+      "sentence": "I know it's hard,",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-prefix-pro-process",
       "word": "process",
       "display": "Process",
-      "phonetic": "",
-      "translation": "\u8fc7\u7a0b\uff1b\u52a0\u5de5\uff1b\u5904\u7406",
-      "sentence": "",
+      "phonetic": "/ˈprɔˌsɛs/",
+      "translation": "过程；加工；处理",
+      "sentence": "it was a process of trial and error",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-prefix-pro-procession",
       "word": "procession",
       "display": "Procession",
-      "phonetic": "",
-      "translation": "\u961f\u4f0d",
-      "sentence": "",
+      "phonetic": "/prəˈsɛʃən/",
+      "translation": "队伍",
+      "sentence": "the doctrine of the procession of the Holy Spirit from the Father and the Son",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-prefix-pro-proclaim",
       "word": "proclaim",
       "display": "Proclaim",
-      "phonetic": "",
-      "translation": "\u5ba3\u79f0",
-      "sentence": "",
+      "phonetic": "/proʊˈkleɪm/",
+      "translation": "宣称",
+      "sentence": "He was proclaimed King",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-prefix-pro-procure",
       "word": "procure",
       "display": "Procure",
-      "phonetic": "",
-      "translation": "\u53d6\u5f97",
-      "sentence": "",
+      "phonetic": "/proʊˈkjʊr/",
+      "translation": "取得",
+      "sentence": "He procured extra cigarettes even though they were rationed",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-prefix-pro-produce",
       "word": "produce",
       "display": "Produce",
-      "phonetic": "",
-      "translation": "\u751f\u4ea7",
-      "sentence": "",
+      "phonetic": "/ˈproʊdus/",
+      "translation": "生产",
+      "sentence": "The tree would not produce fruit",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-prefix-pro-product",
       "word": "product",
       "display": "Product",
-      "phonetic": "",
-      "translation": "\u4ea7\u54c1",
-      "sentence": "",
+      "phonetic": "/ˈprɑdəkt/",
+      "translation": "产品",
+      "sentence": "that store offers a variety of products",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-prefix-pro-production",
       "word": "production",
       "display": "Production",
-      "phonetic": "",
-      "translation": "\u4ea7\u54c1",
-      "sentence": "",
+      "phonetic": "/pərˈdəkʃən/",
+      "translation": "产品",
+      "sentence": "Shakespeare's production of poetry was enormous",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-prefix-pro-productivity",
       "word": "productivity",
       "display": "Productivity",
-      "phonetic": "",
-      "translation": "\u751f\u4ea7\u7387",
-      "sentence": "",
+      "phonetic": "/ˌproʊdəkˈtɪvɪti/",
+      "translation": "生产率",
+      "sentence": "A productivity is the quality of being productive or having the power to produce.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-prefix-pro-profession",
       "word": "profession",
       "display": "Profession",
-      "phonetic": "",
-      "translation": "\u804c\u4e1a\uff1b\u8868\u767d\uff1b\u5ba3\u5e03",
-      "sentence": "",
+      "phonetic": "/prəˈfɛʃən/",
+      "translation": "职业；表白；宣布",
+      "sentence": "the news spread rapidly through the medical profession",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-prefix-pro-professional",
       "word": "professional",
       "display": "Professional",
-      "phonetic": "",
-      "translation": "\u804c\u4e1a\u7684",
-      "sentence": "",
+      "phonetic": "/prəˈfɛʃənəl/",
+      "translation": "职业的",
+      "sentence": "the professional man or woman possesses distinctive qualifications",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-prefix-pro-professor",
       "word": "professor",
       "display": "Professor",
-      "phonetic": "",
-      "translation": "\u6559\u6388",
-      "sentence": "",
+      "phonetic": "/prəˈfɛsər/",
+      "translation": "教授",
+      "sentence": "A professor is someone who is a member of the faculty at a college or university.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "p-prefix-pro-proficiency",
       "word": "proficiency",
       "display": "Proficiency",
-      "phonetic": "",
-      "translation": "\u719f\u7ec3",
-      "sentence": "",
+      "phonetic": "/prəˈfɪʃənsi/",
+      "translation": "熟练",
+      "sentence": "practice greatly improves proficiency",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "p-prefix-pro-proficient",
       "word": "proficient",
       "display": "Proficient",
-      "phonetic": "",
-      "translation": "\u719f\u7ec3\u7684",
-      "sentence": "",
+      "phonetic": "/prɑˈfɪʃənt/",
+      "translation": "熟练的",
+      "sentence": "a proficient engineer",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "p-prefix-pro-profit",
       "word": "profit",
       "display": "Profit",
-      "phonetic": "",
-      "translation": "\u5229\u6da6",
-      "sentence": "",
+      "phonetic": "/ˈprɑfɪt/",
+      "translation": "利润",
+      "sentence": "She profited from his vast experience",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "p-prefix-pro-profitable",
       "word": "profitable",
       "display": "Profitable",
-      "phonetic": "",
-      "translation": "\u6709\u5229\u53ef\u56fe",
-      "sentence": "",
+      "phonetic": "/ˈprɑfətəbəl/",
+      "translation": "有利可图",
+      "sentence": "profitable speculation on the stock market",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "p-prefix-pro-profuse",
       "word": "profuse",
       "display": "Profuse",
-      "phonetic": "",
-      "translation": "\u5927\u91cf\u7684",
-      "sentence": "",
+      "phonetic": "/prəfˈjus/",
+      "translation": "大量的",
+      "sentence": "their riotous blooming",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "p-prefix-pro-programme",
       "word": "programme",
       "display": "Programme",
-      "phonetic": "",
-      "translation": "\u8282\u76ee\uff1b\u8ba1\u5212\uff1b\u7a0b\u5e8f",
-      "sentence": "",
+      "phonetic": "/ˈproʊˌgræm/",
+      "translation": "节目；计划；程序",
+      "sentence": "you can't tell the players without a program",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "p-prefix-pro-progress",
       "word": "progress",
       "display": "Progress",
-      "phonetic": "",
-      "translation": "\u8fdb\u6b65\uff1b\u524d\u8fdb",
-      "sentence": "",
+      "phonetic": "/ˈprɑˌgrɛs/",
+      "translation": "进步；前进",
+      "sentence": "great progress in the arts",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "p-prefix-pro-progressive",
       "word": "progressive",
       "display": "Progressive",
-      "phonetic": "",
-      "translation": "\u8fdb\u6b65\u7684",
-      "sentence": "",
+      "phonetic": "/prəˈgrɛsɪv/",
+      "translation": "进步的",
+      "sentence": "progressive schools",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "p-prefix-pro-prohibit",
       "word": "prohibit",
       "display": "Prohibit",
-      "phonetic": "",
-      "translation": "\u7981\u6b62",
-      "sentence": "",
+      "phonetic": "/proʊˈhɪbət/",
+      "translation": "禁止",
+      "sentence": "I forbid you to call me late at night",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "p-prefix-pro-project",
       "word": "project",
       "display": "Project",
-      "phonetic": "",
-      "translation": "\u5de5\u7a0b\uff1b\u9879\u76ee",
-      "sentence": "",
+      "phonetic": "/ˈprɑʤɛkt/",
+      "translation": "工程；项目",
+      "sentence": "He projected his feelings",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "p-prefix-pro-projector",
       "word": "projector",
       "display": "Projector",
-      "phonetic": "",
-      "translation": "\u9879\u76ee\uff1b\u6295\u5f71",
-      "sentence": "",
+      "phonetic": "/prɑˈʤɛktər/",
+      "translation": "项目；投影",
+      "sentence": "A projector is an optical device for projecting a beam of light.",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "p-prefix-pro-prologue",
       "word": "prologue",
       "display": "Prologue",
-      "phonetic": "",
-      "translation": "\u524d\u8a00\uff1b\u5e8f\u8a00",
-      "sentence": "",
+      "phonetic": "/ˈproʊlɑg/",
+      "translation": "前言；序言",
+      "sentence": "A prologue is an introduction to a play.",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "p-prefix-pro-prolong",
       "word": "prolong",
       "display": "Prolong",
-      "phonetic": "",
-      "translation": "\u5ef6\u957f\uff1b\u62d6\u5ef6",
-      "sentence": "",
+      "phonetic": "/prəˈlɔŋ/",
+      "translation": "延长；拖延",
+      "sentence": "We prolonged our stay",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "p-prefix-pro-prominent",
       "word": "prominent",
       "display": "Prominent",
-      "phonetic": "",
-      "translation": "\u663e\u8457\u7684\uff1b\u6770\u51fa\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɑmənənt/",
+      "translation": "显著的；杰出的",
+      "sentence": "a new theory is the most prominent feature of the book",
       "tags": [
         "root-family"
       ],
@@ -370,9 +370,9 @@
       "id": "p-prefix-pro-promise",
       "word": "promise",
       "display": "Promise",
-      "phonetic": "",
-      "translation": "\u5141\u8bb8\uff1b\u7b54\u5e94",
-      "sentence": "",
+      "phonetic": "/ˈprɑməs/",
+      "translation": "允许；答应",
+      "sentence": "there is little or no promise that he will recover",
       "tags": [
         "root-family"
       ],
@@ -382,9 +382,9 @@
       "id": "p-prefix-pro-promotion",
       "word": "promotion",
       "display": "Promotion",
-      "phonetic": "",
-      "translation": "\u63a8\u52a8\uff1b\u4fc3\u8fdb",
-      "sentence": "",
+      "phonetic": "/pərˈmoʊʃən/",
+      "translation": "推动；促进",
+      "sentence": "the packaging of new ideas",
       "tags": [
         "root-family"
       ],
@@ -394,9 +394,9 @@
       "id": "p-prefix-pro-pronoun",
       "word": "pronoun",
       "display": "Pronoun",
-      "phonetic": "",
-      "translation": "\u4ee3\u8bcd",
-      "sentence": "",
+      "phonetic": "/ˈproʊnaʊn/",
+      "translation": "代词",
+      "sentence": "A pronoun is a function word that is used in place of a noun or noun phrase.",
       "tags": [
         "root-family"
       ],
@@ -406,9 +406,9 @@
       "id": "p-prefix-pro-pronounce",
       "word": "pronounce",
       "display": "Pronounce",
-      "phonetic": "",
-      "translation": "\u5ba3\u5e03",
-      "sentence": "",
+      "phonetic": "/prəˈnaʊns/",
+      "translation": "宣布",
+      "sentence": "She pronounces French words in a funny way",
       "tags": [
         "root-family"
       ],
@@ -418,9 +418,9 @@
       "id": "p-prefix-pro-pronunciation",
       "word": "pronunciation",
       "display": "Pronunciation",
-      "phonetic": "",
-      "translation": "\u53d1\u97f3",
-      "sentence": "",
+      "phonetic": "/prəˌnənsiˈeɪʃən/",
+      "translation": "发音",
+      "sentence": "they are always correcting my pronunciation",
       "tags": [
         "root-family"
       ],
@@ -430,9 +430,9 @@
       "id": "p-prefix-pro-proof",
       "word": "proof",
       "display": "Proof",
-      "phonetic": "",
-      "translation": "\u8bc1\u660e",
-      "sentence": "",
+      "phonetic": "/pruːf/",
+      "translation": "证明",
+      "sentence": "if you have any proof for what you say, now is the time to produce it",
       "tags": [
         "root-family"
       ],
@@ -442,9 +442,9 @@
       "id": "p-prefix-pro-propaganda",
       "word": "propaganda",
       "display": "Propaganda",
-      "phonetic": "",
-      "translation": "\u5ba3\u4f20",
-      "sentence": "",
+      "phonetic": "/ˌprɑpəˈgændə/",
+      "translation": "宣传",
+      "sentence": "A propaganda is information that is spread for the purpose of promoting some cause.",
       "tags": [
         "root-family"
       ],
@@ -454,9 +454,9 @@
       "id": "p-prefix-pro-propel",
       "word": "propel",
       "display": "Propel",
-      "phonetic": "",
-      "translation": "\u63a8\u8fdb",
-      "sentence": "",
+      "phonetic": "/prəˈpɛl/",
+      "translation": "推进",
+      "sentence": "Steam propels this ship",
       "tags": [
         "root-family"
       ],
@@ -466,9 +466,9 @@
       "id": "p-prefix-pro-propell",
       "word": "propell",
       "display": "Propell",
-      "phonetic": "",
-      "translation": "\u63a8\u8fdb",
-      "sentence": "",
+      "phonetic": "/prʌpˈɛl/",
+      "translation": "推进",
+      "sentence": "Propell is used here with the sense of \"推进\".",
       "tags": [
         "root-family"
       ],
@@ -478,9 +478,9 @@
       "id": "p-prefix-pro-prophet",
       "word": "prophet",
       "display": "Prophet",
-      "phonetic": "",
-      "translation": "\u9884\u8a00\u5bb6",
-      "sentence": "",
+      "phonetic": "/ˈprɑfət/",
+      "translation": "预言家",
+      "sentence": "A prophet is an authoritative person who divines the future.",
       "tags": [
         "root-family"
       ],
@@ -490,9 +490,9 @@
       "id": "p-prefix-pro-proposal",
       "word": "proposal",
       "display": "Proposal",
-      "phonetic": "",
-      "translation": "\u5efa\u8bae\uff1b\u6c42\u5a5a",
-      "sentence": "",
+      "phonetic": "/prəˈpoʊzəl/",
+      "translation": "建议；求婚",
+      "sentence": "they listened to her proposal",
       "tags": [
         "root-family"
       ],
@@ -502,9 +502,9 @@
       "id": "p-prefix-pro-proposition",
       "word": "proposition",
       "display": "Proposition",
-      "phonetic": "",
-      "translation": "\u4e3b\u5f20\uff1b\u5efa\u8bae",
-      "sentence": "",
+      "phonetic": "/ˌprɑpəˈzɪʃən/",
+      "translation": "主张；建议",
+      "sentence": "securing adequate funding is a time-consuming proposition",
       "tags": [
         "root-family"
       ],
@@ -514,9 +514,9 @@
       "id": "p-prefix-pro-prose",
       "word": "prose",
       "display": "Prose",
-      "phonetic": "",
-      "translation": "\u6563\u6587",
-      "sentence": "",
+      "phonetic": "/proʊz/",
+      "translation": "散文",
+      "sentence": "A prose is ordinary writing as distinguished from verse.",
       "tags": [
         "root-family"
       ],
@@ -526,9 +526,9 @@
       "id": "p-prefix-pro-prosecute",
       "word": "prosecute",
       "display": "Prosecute",
-      "phonetic": "",
-      "translation": "\u544a\u53d1\uff1b\u8d77\u8bc9",
-      "sentence": "",
+      "phonetic": "/ˈprɑsəˌkjut/",
+      "translation": "告发；起诉",
+      "sentence": "The State of California prosecuted O.J. Simpson",
       "tags": [
         "root-family"
       ],
@@ -538,9 +538,9 @@
       "id": "p-prefix-pro-prosper",
       "word": "prosper",
       "display": "Prosper",
-      "phonetic": "",
-      "translation": "\u6210\u529f",
-      "sentence": "",
+      "phonetic": "/ˈprɑspər/",
+      "translation": "成功",
+      "sentence": "The new student is thriving",
       "tags": [
         "root-family"
       ],
@@ -550,9 +550,9 @@
       "id": "p-prefix-pro-prosperity",
       "word": "prosperity",
       "display": "Prosperity",
-      "phonetic": "",
-      "translation": "\u7e41\u8363\uff1b\u6210\u529f",
-      "sentence": "",
+      "phonetic": "/prɑˈspɛrəti/",
+      "translation": "繁荣；成功",
+      "sentence": "A prosperity is an economic state of growth with rising profits and full employment.",
       "tags": [
         "root-family"
       ],
@@ -562,9 +562,9 @@
       "id": "p-prefix-pro-prosperous",
       "word": "prosperous",
       "display": "Prosperous",
-      "phonetic": "",
-      "translation": "\u7e41\u8363\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɑspərəs/",
+      "translation": "繁荣的",
+      "sentence": "a prosperous family",
       "tags": [
         "root-family"
       ],
@@ -574,9 +574,9 @@
       "id": "p-prefix-pro-protest",
       "word": "protest",
       "display": "Protest",
-      "phonetic": "",
-      "translation": "\u4e3b\u5f20",
-      "sentence": "",
+      "phonetic": "/ˈproʊˌtɛst/",
+      "translation": "主张",
+      "sentence": "they finished the game under protest to the league president",
       "tags": [
         "root-family"
       ],
@@ -586,9 +586,9 @@
       "id": "p-prefix-pro-protrude",
       "word": "protrude",
       "display": "Protrude",
-      "phonetic": "",
-      "translation": "\u5411\u524d\u7a81\u51fa",
-      "sentence": "",
+      "phonetic": "/proʊˈtrud/",
+      "translation": "向前突出",
+      "sentence": "His sharp nose jutted out",
       "tags": [
         "root-family"
       ],
@@ -598,9 +598,9 @@
       "id": "p-prefix-pro-provident",
       "word": "provident",
       "display": "Provident",
-      "phonetic": "",
-      "translation": "\u6709\u8fdc\u89c1\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprɑvɪdənt/",
+      "translation": "有远见的",
+      "sentence": "wild squirrels are provident",
       "tags": [
         "root-family"
       ],
@@ -610,9 +610,9 @@
       "id": "p-prefix-pro-provoke",
       "word": "provoke",
       "display": "Provoke",
-      "phonetic": "",
-      "translation": "\u6fc0\u6012",
-      "sentence": "",
+      "phonetic": "/prəˈvoʊk/",
+      "translation": "激怒",
+      "sentence": "Her behavior provoked a quarrel between the couple",
       "tags": [
         "root-family"
       ],
@@ -623,5 +623,6 @@
   "rootLevel": 3,
   "rootPath": "p>p-prefix>p-prefix-pro",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

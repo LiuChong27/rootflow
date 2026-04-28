@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-bell-war",
-  "root": "bell=war\u6218\u4e89",
+  "root": "bell=war战争",
   "meaning": "war",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "战争",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-bell-babel",
       "word": "babel",
       "display": "Babel",
-      "phonetic": "",
-      "translation": "\u6df7\u4e71\uff1b\u5608\u6742",
-      "sentence": "",
+      "phonetic": "/ˈbæbəl/",
+      "translation": "混乱；嘈杂",
+      "sentence": "A babel is (Genesis 11:1-11) a tower built by Noah's descendants (probably in Babylon) who intended it to reach up to heaven; God foiled them by confusing their language so they could no longer understand one another.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-bell-ballot",
       "word": "ballot",
       "display": "Ballot",
-      "phonetic": "",
-      "translation": "\u9009\u7968",
-      "sentence": "",
+      "phonetic": "/ˈbælət/",
+      "translation": "选票",
+      "sentence": "The voters were balloting in this state",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-bell-bellicose",
       "word": "bellicose",
       "display": "Bellicose",
-      "phonetic": "",
-      "translation": "\u597d\u6218\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbɛləˌkoʊs/",
+      "translation": "好战的",
+      "sentence": "bellicose young officers",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-bell-belligerent",
       "word": "belligerent",
       "display": "Belligerent",
-      "phonetic": "",
-      "translation": "\u597d\u6218\u7684",
-      "sentence": "",
+      "phonetic": "/bəˈlɪʤərənt/",
+      "translation": "好战的",
+      "sentence": "a belligerent tone",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-bell-rebel",
       "word": "rebel",
       "display": "Rebel",
-      "phonetic": "",
-      "translation": "\u53db\u5f92",
-      "sentence": "",
+      "phonetic": "/ˈrɛbəl/",
+      "translation": "叛徒",
+      "sentence": "A rebel is `Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms.",
       "tags": [
         "root-family"
       ],
@@ -71,5 +71,6 @@
   "rootLevel": 2,
   "rootPath": "b>b-bell-war",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

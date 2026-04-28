@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-flect-flex-flex",
-  "root": "flex\u5f2f\u66f2",
+  "root": "flex弯曲",
   "meaning": "flex",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "弯曲",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-flect-flex-flex-circumflex",
       "word": "circumflex",
       "display": "Circumflex",
-      "phonetic": "",
-      "translation": "\u58f0\u8c03\u7b26\u53f7",
-      "sentence": "",
+      "phonetic": "/sˈɚkʌmflˌɛks/",
+      "translation": "声调符号",
+      "sentence": "A circumflex is a diacritical mark (^) placed above a vowel in some languages to indicate a special phonetic quality.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-flect-flex-flex-deflect",
       "word": "deflect",
       "display": "Deflect",
-      "phonetic": "",
-      "translation": "\u504f\u79bb",
-      "sentence": "",
+      "phonetic": "/dɪˈflɛkt/",
+      "translation": "偏离",
+      "sentence": "He deflected his competitors",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-flect-flex-flex-flection",
       "word": "flection",
       "display": "Flection",
-      "phonetic": "",
-      "translation": "\u5f2f\u66f2",
-      "sentence": "",
+      "phonetic": "/flˈɛkʃʌn/",
+      "translation": "弯曲",
+      "sentence": "A flection is the state of being flexed (as of a joint).",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-flect-flex-flex-flex",
       "word": "flex",
       "display": "Flex",
-      "phonetic": "",
-      "translation": "\u5f2f\u66f2",
-      "sentence": "",
+      "phonetic": "/flɛks/",
+      "translation": "弯曲",
+      "sentence": "he gave his biceps a flex to impress the ladies",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-flect-flex-flex-flexible",
       "word": "flexible",
       "display": "Flexible",
-      "phonetic": "",
-      "translation": "\u67d4\u97e7\u7684",
-      "sentence": "",
+      "phonetic": "/ˈflɛksəbəl/",
+      "translation": "柔韧的",
+      "sentence": "flexible schedules",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-flect-flex-flex-flexor",
       "word": "flexor",
       "display": "Flexor",
-      "phonetic": "",
-      "translation": "\u5c48\u808c",
-      "sentence": "",
+      "phonetic": "/flˈɛksɚ/",
+      "translation": "屈肌",
+      "sentence": "A flexor is a skeletal muscle whose contraction bends a joint.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-flect-flex-flex-flexure",
       "word": "flexure",
       "display": "Flexure",
-      "phonetic": "",
-      "translation": "\u5f2f\u66f2",
-      "sentence": "",
+      "phonetic": "/flˈɛkshaʊr/",
+      "translation": "弯曲",
+      "sentence": "a flexure of the colon",
       "tags": [
         "root-family"
       ],
@@ -95,5 +95,6 @@
   "rootLevel": 3,
   "rootPath": "f>f-flect-flex>f-flect-flex-flex",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

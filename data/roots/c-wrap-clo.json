@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-wrap-clo",
-  "root": "c-wrap-clo",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "clo",
+  "meaning": "clo family",
+  "descriptionCn": "clo 词族",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-wrap-clo-clause",
       "word": "clause",
       "display": "Clause",
-      "phonetic": "",
-      "translation": "\u6761\u6b3e\uff1b\u4ece\u53e5",
-      "sentence": "",
+      "phonetic": "/klɔz/",
+      "translation": "条款；从句",
+      "sentence": "A clause is (grammar) an expression including a subject and predicate but not constituting a complete sentence.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-wrap-clo-claustra",
       "word": "claustra",
       "display": "Claustra",
-      "phonetic": "",
-      "translation": "\u4fee\u9053\u9662\u7684",
-      "sentence": "",
+      "phonetic": "/klˈɔstrʌ/",
+      "translation": "修道院的",
+      "sentence": "Claustra is used here with the sense of \"修道院的\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-wrap-clo-claustrophobia",
       "word": "claustrophobia",
       "display": "Claustrophobia",
-      "phonetic": "",
-      "translation": "\u5e7d\u95ed\u6050\u60e7\u75c7",
-      "sentence": "",
+      "phonetic": "/ˌklɔstrəˈfoʊbiə/",
+      "translation": "幽闭恐惧症",
+      "sentence": "A claustrophobia is a morbid fear of being closed in a confined space.",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "c-wrap-clo-cloister",
       "word": "cloister",
       "display": "Cloister",
-      "phonetic": "",
-      "translation": "\u4fee\u9053\u9662\uff1b\u56de\u5eca",
-      "sentence": "",
+      "phonetic": "/ˈklɔɪstər/",
+      "translation": "修道院；回廊",
+      "sentence": "cloister the garden",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "c-wrap-clo-cloistral",
       "word": "cloistral",
       "display": "Cloistral",
-      "phonetic": "",
-      "translation": "\u4fee\u9053\u9662\u7684",
-      "sentence": "",
+      "phonetic": "/klˈaɪstrʌl/",
+      "translation": "修道院的",
+      "sentence": "If something is cloistral, it is of communal life sequestered from the world under religious vows.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "c-wrap-clo-close",
       "word": "close",
       "display": "Close",
-      "phonetic": "",
-      "translation": "\u5173\u95ed\uff1b\u7d27\u5bc6\u7684\uff1b\u4eb2\u5bc6\u7684",
-      "sentence": "",
+      "phonetic": "/kloʊz/",
+      "translation": "关闭；紧密的；亲密的",
+      "sentence": "they were playing better at the close of the season",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "c-wrap-clo-closet",
       "word": "closet",
       "display": "Closet",
-      "phonetic": "",
-      "translation": "\u6a71\u67dc",
-      "sentence": "",
+      "phonetic": "/ˈklɑzət/",
+      "translation": "橱柜",
+      "sentence": "A closet is a small room (or recess) or cabinet used for storage space.",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "c-wrap-clo-closure",
       "word": "closure",
       "display": "Closure",
-      "phonetic": "",
-      "translation": "\u5173\u95ed",
-      "sentence": "",
+      "phonetic": "/ˈkloʊʒər/",
+      "translation": "关闭",
+      "sentence": "he needed to grieve before he could achieve a sense of closure",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "c-wrap-clo-conclude",
       "word": "conclude",
       "display": "Conclude",
-      "phonetic": "",
-      "translation": "\u51b3\u5b9a\uff1b\u505a\u7ed3\u8bba",
-      "sentence": "",
+      "phonetic": "/kənˈklud/",
+      "translation": "决定；做结论",
+      "sentence": "The committee concluded the meeting",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "c-wrap-clo-conclusion",
       "word": "conclusion",
       "display": "Conclusion",
-      "phonetic": "",
-      "translation": "\u7ed3\u8bba\uff1b\u7ed3\u5c40",
-      "sentence": "",
+      "phonetic": "/kənˈkluʒən/",
+      "translation": "结论；结局",
+      "sentence": "his conclusion took the evidence into account",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "c-wrap-clo-conclusive",
       "word": "conclusive",
       "display": "Conclusive",
-      "phonetic": "",
-      "translation": "\u51b3\u5b9a\u6027\u7684",
-      "sentence": "",
+      "phonetic": "/kənˈklusɪv/",
+      "translation": "决定性的",
+      "sentence": "conclusive proof",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "c-wrap-clo-disclose",
       "word": "disclose",
       "display": "Disclose",
-      "phonetic": "",
-      "translation": "\u516c\u5f00",
-      "sentence": "",
+      "phonetic": "/dɪˈskloʊz/",
+      "translation": "公开",
+      "sentence": "The auction house would not disclose the price at which the van Gogh had sold",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "c-wrap-clo-disclosure",
       "word": "disclosure",
       "display": "Disclosure",
-      "phonetic": "",
-      "translation": "\u63ed\u53d1",
-      "sentence": "",
+      "phonetic": "/dɪˈskloʊʒər/",
+      "translation": "揭发",
+      "sentence": "A disclosure is the speech act of making something evident.",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "c-wrap-clo-enclose",
       "word": "enclose",
       "display": "Enclose",
-      "phonetic": "",
-      "translation": "\u56f4\u7ed5\uff1b\u653e\u5165\u888b\u4e2d",
-      "sentence": "",
+      "phonetic": "/ɪnˈkloʊz/",
+      "translation": "围绕；放入袋中",
+      "sentence": "Darkness enclosed him",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "c-wrap-clo-enclosure",
       "word": "enclosure",
       "display": "Enclosure",
-      "phonetic": "",
-      "translation": "\u9644\u4ef6\uff1b\u5305\u542b\u7269\uff1b\u56f4\u5899",
-      "sentence": "",
+      "phonetic": "/ɪnˈkloʊʒər/",
+      "translation": "附件；包含物；围墙",
+      "sentence": "An enclosure is a structure consisting of an area that has been enclosed for some purpose.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "c-wrap-clo-exclude",
       "word": "exclude",
       "display": "Exclude",
-      "phonetic": "",
-      "translation": "\u6392\u9664",
-      "sentence": "",
+      "phonetic": "/ɪkˈsklud/",
+      "translation": "排除",
+      "sentence": "The bad results were excluded from the report",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "c-wrap-clo-exclusion",
       "word": "exclusion",
       "display": "Exclusion",
-      "phonetic": "",
-      "translation": "\u6392\u9664",
-      "sentence": "",
+      "phonetic": "/ɪkˈskluʒən/",
+      "translation": "排除",
+      "sentence": "with the exception of the children, everyone was told the news",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "c-wrap-clo-include",
       "word": "include",
       "display": "Include",
-      "phonetic": "",
-      "translation": "\u5305\u62ec",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈklud/",
+      "translation": "包括",
+      "sentence": "The list includes the names of many famous writers",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "c-wrap-clo-inclusion",
       "word": "inclusion",
       "display": "Inclusion",
-      "phonetic": "",
-      "translation": "\u5305\u542b",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈkluʒən/",
+      "translation": "包含",
+      "sentence": "he admired the inclusion of so many ideas in such a short work",
       "tags": [
         "root-family"
       ],
@@ -238,13 +238,18 @@
       "id": "c-wrap-clo-inclusive",
       "word": "inclusive",
       "display": "Inclusive",
-      "phonetic": "",
-      "translation": "\u5305\u542b\u7684",
-      "sentence": "",
+      "phonetic": "/ˌɪnˈklusɪv/",
+      "translation": "包含的",
+      "sentence": "an inclusive art form",
       "tags": [
         "root-family"
       ],
       "level": 1
     }
-  ]
+  ],
+  "type": "root",
+  "rootPath": "c>c-wrap>c-wrap-clo",
+  "rootLevel": 3,
+  "parentRootId": "c-wrap",
+  "tags": []
 }

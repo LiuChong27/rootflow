@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "p-other-negative",
-  "root": "\u8d1f\u9762\u8bcd",
+  "root": "负面词",
   "meaning": "negative",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "负面词",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "p-other-negative-panic",
       "word": "panic",
       "display": "Panic",
-      "phonetic": "",
-      "translation": "\u6050\u614c",
-      "sentence": "",
+      "phonetic": "/ˈpænɪk/",
+      "translation": "恐慌",
+      "sentence": "panic in the stock market",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "p-other-negative-pant",
       "word": "pant",
       "display": "Pant",
-      "phonetic": "",
-      "translation": "\u5598\u6c14",
-      "sentence": "",
+      "phonetic": "/pænt/",
+      "translation": "喘气",
+      "sentence": "The runners reached the finish line, panting heavily",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "p-other-negative-pants",
       "word": "pants",
       "display": "Pants",
-      "phonetic": "",
-      "translation": "\u88e4\u5b50\uff1b\u77ed\u88e4",
-      "sentence": "",
+      "phonetic": "/pænts/",
+      "translation": "裤子；短裤",
+      "sentence": "she was afraid that her bloomers might have been showing",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "p-other-negative-pessimistic",
       "word": "pessimistic",
       "display": "Pessimistic",
-      "phonetic": "",
-      "translation": "\u60b2\u89c2\u4e3b\u4e49",
-      "sentence": "",
+      "phonetic": "/ˌpɛsəˈmɪstɪk/",
+      "translation": "悲观主义",
+      "sentence": "If something is pessimistic, it is expecting the worst possible outcome.",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "p-other-negative-pharmacy",
       "word": "pharmacy",
       "display": "Pharmacy",
-      "phonetic": "",
-      "translation": "\u836f\u623f",
-      "sentence": "",
+      "phonetic": "/ˈfɑrməsi/",
+      "translation": "药房",
+      "sentence": "A pharmacy is the art and science of preparing and dispensing drugs and medicines,.",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "p-other-negative-pill",
       "word": "pill",
       "display": "Pill",
-      "phonetic": "",
-      "translation": "\u836f\u4e38",
-      "sentence": "",
+      "phonetic": "/pɪl/",
+      "translation": "药丸",
+      "sentence": "his competitor's success was a bitter pill to take",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "p-other-negative-pity",
       "word": "pity",
       "display": "Pity",
-      "phonetic": "",
-      "translation": "\u53ef\u601c\u7684",
-      "sentence": "",
+      "phonetic": "/ˈpɪti/",
+      "translation": "可怜的",
+      "sentence": "the blind are too often objects of pity",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "p-other-negative-plaster",
       "word": "plaster",
       "display": "Plaster",
-      "phonetic": "",
-      "translation": "\u818f\u836f",
-      "sentence": "",
+      "phonetic": "/ˈplæstər/",
+      "translation": "膏药",
+      "sentence": "there were cracks in the plaster",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "p-other-negative-pneumonia",
       "word": "pneumonia",
       "display": "Pneumonia",
-      "phonetic": "",
-      "translation": "\u80ba\u708e",
-      "sentence": "",
+      "phonetic": "/nəˈmoʊnjə/",
+      "translation": "肺炎",
+      "sentence": "A pneumonia is respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "p-other-negative-pray",
       "word": "pray",
       "display": "Pray",
-      "phonetic": "",
-      "translation": "\u6073\u6c42\uff1b\u7948\u7977",
-      "sentence": "",
+      "phonetic": "/preɪ/",
+      "translation": "恳求；祈祷",
+      "sentence": "pray to the Lord",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "p-other-negative-prayer",
       "word": "prayer",
       "display": "Prayer",
-      "phonetic": "",
-      "translation": "\u7948\u7977\uff1b\u7977\u544a",
-      "sentence": "",
+      "phonetic": "/prɛr/",
+      "translation": "祈祷；祷告",
+      "sentence": "the priest sank to his knees in prayer",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "p-other-negative-preach",
       "word": "preach",
       "display": "Preach",
-      "phonetic": "",
-      "translation": "\u5ba3\u8bb2\uff1b\u8bf4\u5c06",
-      "sentence": "",
+      "phonetic": "/priʧ/",
+      "translation": "宣讲；说将",
+      "sentence": "The minister is not preaching this Sunday",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "p-other-negative-prudent",
       "word": "prudent",
       "display": "Prudent",
-      "phonetic": "",
-      "translation": "\u8c28\u614e\u7684",
-      "sentence": "",
+      "phonetic": "/ˈprudənt/",
+      "translation": "谨慎的",
+      "sentence": "a prudent manager",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "p-other-negative-psychiatry",
       "word": "psychiatry",
       "display": "Psychiatry",
-      "phonetic": "",
-      "translation": "\u7cbe\u795e\u75c5\u5b66",
-      "sentence": "",
+      "phonetic": "/sɪˈkaɪətri/",
+      "translation": "精神病学",
+      "sentence": "A psychiatry is the branch of medicine dealing with the diagnosis and treatment of mental disorders.",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "p-other-negative-psychology",
       "word": "psychology",
       "display": "Psychology",
-      "phonetic": "",
-      "translation": "\u5fc3\u7406\u5b66",
-      "sentence": "",
+      "phonetic": "/saɪˈkɑləʤi/",
+      "translation": "心理学",
+      "sentence": "A psychology is the science of mental life.",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "p-other-negative-puzzle",
       "word": "puzzle",
       "display": "Puzzle",
-      "phonetic": "",
-      "translation": "\u96be\u9898",
-      "sentence": "",
+      "phonetic": "/ˈpəzəl/",
+      "translation": "难题",
+      "sentence": "he loved to solve chessmate puzzles",
       "tags": [
         "root-family"
       ],
@@ -203,5 +203,6 @@
   "rootLevel": 3,
   "rootPath": "p>p-other>p-other-negative",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

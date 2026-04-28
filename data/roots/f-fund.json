@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "f-fund",
-  "root": "fund=found=fus\u57fa\u7840\uff1b\u5e95\u90e8",
+  "root": "fund=found=fus基础；底部",
   "meaning": "fund",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "基础；底部",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "f-fund-circumfuse",
       "word": "circumfuse",
       "display": "Circumfuse",
-      "phonetic": "",
-      "translation": "\u56f4\u7ed5\uff1b\u4ece\u56db\u9762\u6d47\u704c",
-      "sentence": "",
+      "phonetic": "/sˈɚkmʌfs/",
+      "translation": "围绕；从四面浇灌",
+      "sentence": "To circumfuse is to spread something around something.",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "f-fund-circumfusion",
       "word": "circumfusion",
       "display": "Circumfusion",
-      "phonetic": "",
-      "translation": "\u6563\u5e03\uff1b\u56f4\u7ed5",
-      "sentence": "",
+      "phonetic": "/sˌɚkʌmfjˈuʒʌn/",
+      "translation": "散布；围绕",
+      "sentence": "Circumfusion is used here with the sense of \"散布；围绕\".",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "f-fund-confound",
       "word": "confound",
       "display": "Confound",
-      "phonetic": "",
-      "translation": "\u4f7f\u60ca\u8bb6",
-      "sentence": "",
+      "phonetic": "/ˈkɑnˌfaʊnd/",
+      "translation": "使惊讶",
+      "sentence": "These questions confuse even the experts",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "f-fund-confuse",
       "word": "confuse",
       "display": "Confuse",
-      "phonetic": "",
-      "translation": "\u4f7f\u6df7\u6dc6",
-      "sentence": "",
+      "phonetic": "/kənfˈjuz/",
+      "translation": "使混淆",
+      "sentence": "These questions confuse even the experts",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "f-fund-diffuse",
       "word": "diffuse",
       "display": "Diffuse",
-      "phonetic": "",
-      "translation": "\u6563\u64ad\uff1b\u4f20\u64ad",
-      "sentence": "",
+      "phonetic": "/dɪfˈjuz/",
+      "translation": "散播；传播",
+      "sentence": "a large diffuse organization",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "f-fund-found",
       "word": "found",
       "display": "Found",
-      "phonetic": "",
-      "translation": "\u5efa\u7acb",
-      "sentence": "",
+      "phonetic": "/faʊnd/",
+      "translation": "建立",
+      "sentence": "they worked for $30 and found",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "f-fund-fundamental",
       "word": "fundamental",
       "display": "Fundamental",
-      "phonetic": "",
-      "translation": "\u57fa\u7840\u7684",
-      "sentence": "",
+      "phonetic": "/ˌfəndəˈmɛnəl/",
+      "translation": "基础的",
+      "sentence": "fundamentals include a company's growth, revenues, earnings, management, and capital structure",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "f-fund-fuse",
       "word": "fuse",
       "display": "Fuse",
-      "phonetic": "",
-      "translation": "\u4fdd\u9669\u4e1d",
-      "sentence": "",
+      "phonetic": "/fjuːz/",
+      "translation": "保险丝",
+      "sentence": "The substances fused at a very high temperature",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "f-fund-fusion",
       "word": "fusion",
       "display": "Fusion",
-      "phonetic": "",
-      "translation": "\u878d\u5316",
-      "sentence": "",
+      "phonetic": "/fˈjuʒən/",
+      "translation": "融化",
+      "sentence": "A fusion is an occurrence that involves the production of a union.",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "f-fund-infuse",
       "word": "infuse",
       "display": "Infuse",
-      "phonetic": "",
-      "translation": "\u704c\u8f93",
-      "sentence": "",
+      "phonetic": "/ˌɪnfˈjuz/",
+      "translation": "灌输",
+      "sentence": "Some physiologists infuses sugar solutions into the veins of animals",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "f-fund-interfuse",
       "word": "interfuse",
       "display": "Interfuse",
-      "phonetic": "",
-      "translation": "\u4f7f\u878d\u5408",
-      "sentence": "",
+      "phonetic": "/ˈɪntɚfjˌuz/",
+      "translation": "使融合",
+      "sentence": "Interfuse is used here with the sense of \"使融合\".",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "f-fund-perfuse",
       "word": "perfuse",
       "display": "Perfuse",
-      "phonetic": "",
-      "translation": "\u704c\u6ce8",
-      "sentence": "",
+      "phonetic": "/pɚfjˈus/",
+      "translation": "灌注",
+      "sentence": "perfuse a liver with a salt solution",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "f-fund-profound",
       "word": "profound",
       "display": "Profound",
-      "phonetic": "",
-      "translation": "\u6df1\u523b\u7684",
-      "sentence": "",
+      "phonetic": "/proʊˈfaʊnd/",
+      "translation": "深刻的",
+      "sentence": "the differences are profound",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "f-fund-profundity",
       "word": "profundity",
       "display": "Profundity",
-      "phonetic": "",
-      "translation": "\u6df1\u5ea6",
-      "sentence": "",
+      "phonetic": "/prʌfˈʌndʌti/",
+      "translation": "深度",
+      "sentence": "the profundity of the mine was almost a mile",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "f-fund-profuse",
       "word": "profuse",
       "display": "Profuse",
-      "phonetic": "",
-      "translation": "\u6d6a\u8d39\u7684\uff1b\u5927\u91cf\u7684",
-      "sentence": "",
+      "phonetic": "/prəfˈjus/",
+      "translation": "浪费的；大量的",
+      "sentence": "their riotous blooming",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "f-fund-profuse-generous",
       "word": "profuse",
       "display": "Profuse",
-      "phonetic": "",
-      "translation": "\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/prəfˈjus/",
+      "translation": "慷慨的",
+      "sentence": "their riotous blooming",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "f-fund-profusion",
       "word": "profusion",
       "display": "Profusion",
-      "phonetic": "",
-      "translation": "\u5927\u91cf",
-      "sentence": "",
+      "phonetic": "/prəfˈjuʒən/",
+      "translation": "大量",
+      "sentence": "the profusion of detail",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "f-fund-refuse",
       "word": "refuse",
       "display": "Refuse",
-      "phonetic": "",
-      "translation": "\u62d2\u7edd",
-      "sentence": "",
+      "phonetic": "/ˈrɛfˌjuz/",
+      "translation": "拒绝",
+      "sentence": "He refused my offer of hospitality",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "f-fund-refute",
       "word": "refute",
       "display": "Refute",
-      "phonetic": "",
-      "translation": "\u53cd\u9a73",
-      "sentence": "",
+      "phonetic": "/rɪfˈjut/",
+      "translation": "反驳",
+      "sentence": "The speaker refuted his opponent's arguments",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "f-fund-suffuse",
       "word": "suffuse",
       "display": "Suffuse",
-      "phonetic": "",
-      "translation": "\u5145\u6ee1",
-      "sentence": "",
+      "phonetic": "/səfˈjuz/",
+      "translation": "充满",
+      "sentence": "The sky was suffused with a warm pink color",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "f-fund-transfuse",
       "word": "transfuse",
       "display": "Transfuse",
-      "phonetic": "",
-      "translation": "\u6ce8\u5165",
-      "sentence": "",
+      "phonetic": "/trænsfˈjuz/",
+      "translation": "注入",
+      "sentence": "transfuse love of music into the students",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "f-fund-transfusion",
       "word": "transfusion",
       "display": "Transfusion",
-      "phonetic": "",
-      "translation": "\u6ce8\u5165",
-      "sentence": "",
+      "phonetic": "/trænsfˈjuʒən/",
+      "translation": "注入",
+      "sentence": "A transfusion is the introduction of blood or blood plasma into a vein or artery.",
       "tags": [
         "root-family"
       ],
@@ -275,5 +275,6 @@
   "rootLevel": 2,
   "rootPath": "f>f-fund",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

@@ -2,9 +2,16 @@ const memoryStorage = Object.create(null);
 
 export const STORAGE_KEYS = {
   cloudEnvId: 'rf_cloud_env_id',
+  downloadBenefits: 'rf_download_benefits_v1',
+  downloadOrders: 'rf_download_orders_v1',
+  downloadAssets: 'rf_pdf_assets_v1',
   rootSeed: 'rf_root_seed',
   theme: 'user_theme',
   userSession: 'rf_user_session_v1',
+  vibesProgress: 'rf_vibes_progress_v1',
+  vibesGuideSeen: 'rf_vibes_guide_seen_v1',
+  vibesFavorites: 'rf_vibes_favorites_v1',
+  vibesHiddenEntries: 'rf_vibes_hidden_entries_v1',
 };
 
 function hasUniStorage() {

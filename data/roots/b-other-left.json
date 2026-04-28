@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "b-other-left",
-  "root": "\u5176\u4ed6\uff08\u5de6\u4fa7\uff09",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "其他（左侧）",
+  "meaning": "left family",
+  "descriptionCn": "其他（左侧）",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "b-other-left-abbreviate",
       "word": "abbreviate",
       "display": "Abbreviate",
-      "phonetic": "",
-      "translation": "\u7f29\u5199\uff0c\u7b80\u5199",
-      "sentence": "",
+      "phonetic": "/əˈbriviˌeɪt/",
+      "translation": "缩写，简写",
+      "sentence": "Abbreviate `New York' and write `NY'",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "b-other-left-abbreviation",
       "word": "abbreviation",
       "display": "Abbreviation",
-      "phonetic": "",
-      "translation": "\u7f29\u5199",
-      "sentence": "",
+      "phonetic": "/əˌbriviˈeɪʃən/",
+      "translation": "缩写",
+      "sentence": "An abbreviation is a shortened form of a word or phrase.",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "b-other-left-abridge",
       "word": "abridge",
       "display": "Abridge",
-      "phonetic": "",
-      "translation": "\u5220\u51cf\uff1b\u7cbe\u7b80",
-      "sentence": "",
+      "phonetic": "/əˈbrɪʤ/",
+      "translation": "删减；精简",
+      "sentence": "the new law might abridge our freedom of expression",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "b-other-left-beneficial",
       "word": "beneficial",
       "display": "Beneficial",
-      "phonetic": "",
-      "translation": "\u6709\u5229\u7684",
-      "sentence": "",
+      "phonetic": "/ˌbɛnəˈfɪʃəl/",
+      "translation": "有利的",
+      "sentence": "an arms limitation agreement beneficial to all countries",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "b-other-left-benefit",
       "word": "benefit",
       "display": "Benefit",
-      "phonetic": "",
-      "translation": "\u5229\u76ca",
-      "sentence": "",
+      "phonetic": "/ˈbɛnəfɪt/",
+      "translation": "利益",
+      "sentence": "for the benefit of all",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "b-other-left-biannual",
       "word": "biannual",
       "display": "Biannual",
-      "phonetic": "",
-      "translation": "\u6bcf\u5e74\u4e24\u6b21\u7684",
-      "sentence": "",
+      "phonetic": "/baɪˈænuəl/",
+      "translation": "每年两次的",
+      "sentence": "If something is biannual, it is occurring or payable twice each year.",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "b-other-left-bias",
       "word": "bias",
       "display": "Bias",
-      "phonetic": "",
-      "translation": "\u504f\u89c1\uff1b\u504f\u8892",
-      "sentence": "",
+      "phonetic": "/baɪəs/",
+      "translation": "偏见；偏袒",
+      "sentence": "you are biasing my choice by telling me yours",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "b-other-left-bicycle",
       "word": "bicycle",
       "display": "Bicycle",
-      "phonetic": "",
-      "translation": "\u81ea\u884c\u8f66",
-      "sentence": "",
+      "phonetic": "/ˈbaɪsɪkəl/",
+      "translation": "自行车",
+      "sentence": "A bicycle is a wheeled vehicle that has two wheels and is moved by foot pedals.",
       "tags": [
         "root-family"
       ],
@@ -106,9 +106,9 @@
       "id": "b-other-left-bizarre",
       "word": "bizarre",
       "display": "Bizarre",
-      "phonetic": "",
-      "translation": "\u7a00\u5947\u53e4\u602a\u7684",
-      "sentence": "",
+      "phonetic": "/bɪˈzɑr/",
+      "translation": "稀奇古怪的",
+      "sentence": "restaurants of bizarre design--one like a hat, another like a rabbit",
       "tags": [
         "root-family"
       ],
@@ -118,9 +118,9 @@
       "id": "b-other-left-boon",
       "word": "boon",
       "display": "Boon",
-      "phonetic": "",
-      "translation": "\u6069\u8d50",
-      "sentence": "",
+      "phonetic": "/buːn/",
+      "translation": "恩赐",
+      "sentence": "a spanking breeze is a boon to sailors",
       "tags": [
         "root-family"
       ],
@@ -130,9 +130,9 @@
       "id": "b-other-left-border",
       "word": "border",
       "display": "Border",
-      "phonetic": "",
-      "translation": "\u8fb9\u754c\uff1b\u56fd\u754c",
-      "sentence": "",
+      "phonetic": "/ˈbɔrdər/",
+      "translation": "边界；国界",
+      "sentence": "the rug had a wide blue border",
       "tags": [
         "root-family"
       ],
@@ -142,9 +142,9 @@
       "id": "b-other-left-both",
       "word": "both",
       "display": "Both",
-      "phonetic": "",
-      "translation": "\u4e24\u8005",
-      "sentence": "",
+      "phonetic": "/boʊθ/",
+      "translation": "两者",
+      "sentence": "both girls are pretty",
       "tags": [
         "root-family"
       ],
@@ -154,9 +154,9 @@
       "id": "b-other-left-boundary",
       "word": "boundary",
       "display": "Boundary",
-      "phonetic": "",
-      "translation": "\u5206\u754c\u7ebf\uff1b\u8fb9\u754c",
-      "sentence": "",
+      "phonetic": "/ˈbaʊndəri/",
+      "translation": "分界线；边界",
+      "sentence": "what he did was beyond the bounds of acceptable behavior",
       "tags": [
         "root-family"
       ],
@@ -166,9 +166,9 @@
       "id": "b-other-left-bounteous",
       "word": "bounteous",
       "display": "Bounteous",
-      "phonetic": "",
-      "translation": "\u5bbd\u5b8f\u5927\u91cf\u7684\uff1b\u535a\u7231\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/bˈaʊntiʌs/",
+      "translation": "宽宏大量的；博爱慷慨的",
+      "sentence": "the bounteous goodness of God",
       "tags": [
         "root-family"
       ],
@@ -178,9 +178,9 @@
       "id": "b-other-left-bountiful",
       "word": "bountiful",
       "display": "Bountiful",
-      "phonetic": "",
-      "translation": "\u4e30\u5bcc\u7684\uff1b\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbaʊnɪfəl/",
+      "translation": "丰富的；慷慨的",
+      "sentence": "bountiful compliments",
       "tags": [
         "root-family"
       ],
@@ -190,9 +190,9 @@
       "id": "b-other-left-bounty",
       "word": "bounty",
       "display": "Bounty",
-      "phonetic": "",
-      "translation": "\u6177\u6168\u7684",
-      "sentence": "",
+      "phonetic": "/ˈbaʊnti/",
+      "translation": "慷慨的",
+      "sentence": "A bounty is payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military.",
       "tags": [
         "root-family"
       ],
@@ -202,9 +202,9 @@
       "id": "b-other-left-breadth",
       "word": "breadth",
       "display": "Breadth",
-      "phonetic": "",
-      "translation": "\u5bbd\u5ea6",
-      "sentence": "",
+      "phonetic": "/brɛdθ/",
+      "translation": "宽度",
+      "sentence": "a teacher must have a breadth of knowledge of the subject",
       "tags": [
         "root-family"
       ],
@@ -214,9 +214,9 @@
       "id": "b-other-left-brevity",
       "word": "brevity",
       "display": "Brevity",
-      "phonetic": "",
-      "translation": "\u77ed\u6682\uff0c\u7b80\u77ed",
-      "sentence": "",
+      "phonetic": "/ˈbrɛvəti/",
+      "translation": "短暂，简短",
+      "sentence": "A brevity is the use of brief expressions.",
       "tags": [
         "root-family"
       ],
@@ -226,9 +226,9 @@
       "id": "b-other-left-brief",
       "word": "brief",
       "display": "Brief",
-      "phonetic": "",
-      "translation": "\u6458\u8981\uff1b\u5927\u7eb2",
-      "sentence": "",
+      "phonetic": "/briːf/",
+      "translation": "摘要；大纲",
+      "sentence": "The reporters were briefed about the President's plan to invade",
       "tags": [
         "root-family"
       ],
@@ -238,9 +238,9 @@
       "id": "b-other-left-briefcase",
       "word": "briefcase",
       "display": "Briefcase",
-      "phonetic": "",
-      "translation": "\u624b\u63d0\u7bb1\uff1b\u516c\u6587\u5305",
-      "sentence": "",
+      "phonetic": "/ˈbrifˌkeɪs/",
+      "translation": "手提箱；公文包",
+      "sentence": "A briefcase is a case with a handle; for carrying papers or files or books.",
       "tags": [
         "root-family"
       ],
@@ -250,9 +250,9 @@
       "id": "b-other-left-briefing",
       "word": "briefing",
       "display": "Briefing",
-      "phonetic": "",
-      "translation": "\u7b80\u62a5",
-      "sentence": "",
+      "phonetic": "/ˈbrifɪŋ/",
+      "translation": "简报",
+      "sentence": "The reporters were briefed about the President's plan to invade",
       "tags": [
         "root-family"
       ],
@@ -262,9 +262,9 @@
       "id": "b-other-left-broad",
       "word": "broad",
       "display": "Broad",
-      "phonetic": "",
-      "translation": "\u5bbd\u7684\uff1b\u8c41\u8fbe\u7684",
-      "sentence": "",
+      "phonetic": "/brɔd/",
+      "translation": "宽的；豁达的",
+      "sentence": "a broad is a woman who can throw a mean punch",
       "tags": [
         "root-family"
       ],
@@ -274,9 +274,9 @@
       "id": "b-other-left-broadcast",
       "word": "broadcast",
       "display": "Broadcast",
-      "phonetic": "",
-      "translation": "\u5e7f\u64ad",
-      "sentence": "",
+      "phonetic": "/ˈbrɔdˌkæst/",
+      "translation": "广播",
+      "sentence": "broadcast seeds",
       "tags": [
         "root-family"
       ],
@@ -286,9 +286,9 @@
       "id": "b-other-left-bureau",
       "word": "bureau",
       "display": "Bureau",
-      "phonetic": "",
-      "translation": "\u5c40\uff1b\u529e\u516c\u5ba4",
-      "sentence": "",
+      "phonetic": "/ˈbjʊroʊ/",
+      "translation": "局；办公室",
+      "sentence": "the Census Bureau",
       "tags": [
         "root-family"
       ],
@@ -298,9 +298,9 @@
       "id": "b-other-left-byname",
       "word": "byname",
       "display": "Byname",
-      "phonetic": "",
-      "translation": "\u7ef0\u53f7",
-      "sentence": "",
+      "phonetic": "/bˈaɪnʌm/",
+      "translation": "绰号",
+      "sentence": "Joe's mother would not use his nickname and always called him Joseph",
       "tags": [
         "root-family"
       ],
@@ -310,9 +310,9 @@
       "id": "b-other-left-bypass",
       "word": "bypass",
       "display": "Bypass",
-      "phonetic": "",
-      "translation": "\u65c1\u8def",
-      "sentence": "",
+      "phonetic": "/ˈbaɪˌpæs/",
+      "translation": "旁路",
+      "sentence": "You cannot bypass these rules!",
       "tags": [
         "root-family"
       ],
@@ -322,9 +322,9 @@
       "id": "b-other-left-bypast",
       "word": "bypast",
       "display": "Bypast",
-      "phonetic": "",
-      "translation": "\u8fc7\u53bb\u7684",
-      "sentence": "",
+      "phonetic": "/bˈaɪpˌæst/",
+      "translation": "过去的",
+      "sentence": "You cannot bypass these rules!",
       "tags": [
         "root-family"
       ],
@@ -334,9 +334,9 @@
       "id": "b-other-left-bypath",
       "word": "bypath",
       "display": "Bypath",
-      "phonetic": "",
-      "translation": "\u5c0f\u8def",
-      "sentence": "",
+      "phonetic": "/bˈaɪpˌæθ/",
+      "translation": "小路",
+      "sentence": "A bypath is a side road little traveled (as in the countryside).",
       "tags": [
         "root-family"
       ],
@@ -346,9 +346,9 @@
       "id": "b-other-left-byroad",
       "word": "byroad",
       "display": "Byroad",
-      "phonetic": "",
-      "translation": "\u4fa7\u9053",
-      "sentence": "",
+      "phonetic": "/bˈaɪrˌoʊd/",
+      "translation": "侧道",
+      "sentence": "A byroad is a side road little traveled (as in the countryside).",
       "tags": [
         "root-family"
       ],
@@ -358,9 +358,9 @@
       "id": "b-other-left-byword",
       "word": "byword",
       "display": "Byword",
-      "phonetic": "",
-      "translation": "\u683c\u8a00\uff0c\u8c1a\u8bed",
-      "sentence": "",
+      "phonetic": "/ˈbaɪˌwərd/",
+      "translation": "格言，谚语",
+      "sentence": "A byword is a condensed but memorable saying embodying some important fact of experience that is taken as true by many people.",
       "tags": [
         "root-family"
       ],
@@ -371,5 +371,6 @@
   "rootLevel": 3,
   "rootPath": "b>b-other>b-other-left",
   "type": "category",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

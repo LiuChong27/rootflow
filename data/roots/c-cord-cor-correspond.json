@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "c-cord-cor-correspond",
-  "root": "correspond\u4e00\u81f4",
-  "meaning": "",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "root": "correspond一致",
+  "meaning": "correspond",
+  "descriptionCn": "一致",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "c-cord-cor-heart-correspond-correspondence",
       "word": "correspondence",
       "display": "Correspondence",
-      "phonetic": "",
-      "translation": "\u7b26\u5408\uff1b\u901a\u8baf",
-      "sentence": "",
+      "phonetic": "/ˌkɔrəˈspɑndəns/",
+      "translation": "符合；通讯",
+      "sentence": "the results of two tests were in correspondence",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "c-cord-cor-heart-correspond-correspondent",
       "word": "correspondent",
       "display": "Correspondent",
-      "phonetic": "",
-      "translation": "\u901a\u8baf\u5458\uff1b\u8bb0\u8005",
-      "sentence": "",
+      "phonetic": "/ˌkɔrəˈspɑndənt/",
+      "translation": "通讯员；记者",
+      "sentence": "brains and computers are often considered analogous",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "c-cord-cor-heart-correspond-corresponding",
       "word": "corresponding",
       "display": "Corresponding",
-      "phonetic": "",
-      "translation": "\u7b26\u5408\u7684",
-      "sentence": "",
+      "phonetic": "/ˌkɔrəˈspɑndɪŋ/",
+      "translation": "符合的",
+      "sentence": "My Russian pen pal and I have been corresponding for several years",
       "tags": [
         "root-family"
       ],
@@ -47,5 +47,6 @@
   "rootLevel": 3,
   "rootPath": "c>c-cord-cor-heart>c-cord-cor-correspond",
   "type": "branch",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }

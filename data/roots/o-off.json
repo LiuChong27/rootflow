@@ -1,18 +1,18 @@
 {
   "version": 1,
   "rootId": "o-off",
-  "root": "off\u79bb\u5f00",
+  "root": "off离开",
   "meaning": "off",
-  "descriptionCn": "",
-  "updatedAt": "2026-04-15",
+  "descriptionCn": "离开",
+  "updatedAt": "2026-04-18",
   "words": [
     {
       "id": "o-off-offend",
       "word": "offend",
       "display": "Offend",
-      "phonetic": "",
-      "translation": "\u72af\u7f6a",
-      "sentence": "",
+      "phonetic": "/əˈfɛnd/",
+      "translation": "犯罪",
+      "sentence": "Her tactless remark offended me",
       "tags": [
         "root-family"
       ],
@@ -22,9 +22,9 @@
       "id": "o-off-offensive",
       "word": "offensive",
       "display": "Offensive",
-      "phonetic": "",
-      "translation": "\u5192\u72af",
-      "sentence": "",
+      "phonetic": "/əˈfɛnsɪv/",
+      "translation": "冒犯",
+      "sentence": "considered such depravity offensive against all laws of humanity",
       "tags": [
         "root-family"
       ],
@@ -34,9 +34,9 @@
       "id": "o-off-offer",
       "word": "offer",
       "display": "Offer",
-      "phonetic": "",
-      "translation": "\u63d0\u4f9b\uff1b\u51fa\u73b0",
-      "sentence": "",
+      "phonetic": "/ˈɔfər/",
+      "translation": "提供；出现",
+      "sentence": "a generous offer of assistance",
       "tags": [
         "root-family"
       ],
@@ -46,9 +46,9 @@
       "id": "o-off-office",
       "word": "office",
       "display": "Office",
-      "phonetic": "",
-      "translation": "\u529e\u516c\u5ba4",
-      "sentence": "",
+      "phonetic": "/ˈɔfəs/",
+      "translation": "办公室",
+      "sentence": "he rented an office in the new building",
       "tags": [
         "root-family"
       ],
@@ -58,9 +58,9 @@
       "id": "o-off-officer",
       "word": "officer",
       "display": "Officer",
-      "phonetic": "",
-      "translation": "\u5b98\u5458\uff1b\u519b\u5b98",
-      "sentence": "",
+      "phonetic": "/ˈɔfɪsər/",
+      "translation": "官员；军官",
+      "sentence": "an officer is responsible for the lives of his men",
       "tags": [
         "root-family"
       ],
@@ -70,9 +70,9 @@
       "id": "o-off-official",
       "word": "official",
       "display": "Official",
-      "phonetic": "",
-      "translation": "\u5b98\u5458",
-      "sentence": "",
+      "phonetic": "/əˈfɪʃəl/",
+      "translation": "官员",
+      "sentence": "the golfer asked for an official who could give him a ruling",
       "tags": [
         "root-family"
       ],
@@ -82,9 +82,9 @@
       "id": "o-off-offset",
       "word": "offset",
       "display": "Offset",
-      "phonetic": "",
-      "translation": "\u5206\u652f\uff1b\u8865\u507f",
-      "sentence": "",
+      "phonetic": "/ˈɔfˌsɛt/",
+      "translation": "分支；补偿",
+      "sentence": "offset deposits and withdrawals",
       "tags": [
         "root-family"
       ],
@@ -94,9 +94,9 @@
       "id": "o-off-offspring",
       "word": "offspring",
       "display": "Offspring",
-      "phonetic": "",
-      "translation": "\u5b50\u5b59\uff1b\u540e\u4ee3",
-      "sentence": "",
+      "phonetic": "/ˈɔfˌsprɪŋ/",
+      "translation": "子孙；后代",
+      "sentence": "she was the mother of many offspring",
       "tags": [
         "root-family"
       ],
@@ -107,5 +107,6 @@
   "rootLevel": 2,
   "rootPath": "o>o-off",
   "type": "root",
-  "notes": ""
+  "notes": "",
+  "tags": []
 }
